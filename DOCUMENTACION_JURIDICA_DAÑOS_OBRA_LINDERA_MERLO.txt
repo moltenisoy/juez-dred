@@ -1,27 +1,20 @@
 
 DOCUMENTACIÓN JURÍDICO-TÉCNICA UNIFICADA
 DAÑOS POR OBRA LINDERA EN PARTIDO DE MERLO
-Recolección y sistematización de normativa, articulado, faltas e instrumentos probatorios
 Provincia de Buenos Aires — Jurisdicción Argentina
-
 
 
 ALCANCE DEL DOCUMENTO
 Este documento compila y sistematiza, sin margen para interpretación subjetiva, la totalidad del material normativo, técnico y jurídico extraído de tres fuentes de investigación. Su función es servir de referencia objetiva para la construcción de una demanda civil por daños y perjuicios derivados de la ejecución de una obra en inmueble lindero en el Partido de Merlo.
-La obra demandada consistió en la edificación de una primera planta sobre un inmueble que solo contaba con planta baja, incluyendo modificaciones en la instalación del suministro de agua, el sistema de desagüe de techos y la reubicación de cargas pesadas sobre la losa existente. Durante y con posterioridad a su ejecución, se produjeron daños directos e indirectos al inmueble lindero, sus bienes y sus habitantes, forzando finalmente el abandono temporal del domicilio.
-⚠ ADVERTENCIA: Este documento NO reemplaza el criterio de un profesional del derecho habilitado. Su contenido es una sistematización informativa. Toda norma citada debe ser verificada en su versión vigente antes de ser utilizada en actuaciones judiciales o extrajudiciales.
 
 
 1. ENCUADRE GENERAL DEL CASO
 1.1. Hechos determinantes
-Inmueble demandado: propietario ejecutó la construcción de una planta alta sobre inmueble de planta baja única, en el Partido de Merlo, Provincia de Buenos Aires.
-Modificaciones técnicas realizadas en la obra del demandado:
 Edificación de planta superior (primer piso) sobre estructura de planta baja preexistente.
 Modificación de la instalación del suministro de agua.
 Modificación del sistema de desagüe de techos.
 Reubicación de cargas pesadas sobre la losa de techo existente.
 
-1.2. Consecuencias acreditadas sobre el inmueble lindero y sus habitantes
 Las siguientes consecuencias fueron documentadas en los archivos de investigación:
 Humedad relativa ambiente superior al 70-80% de forma continua en todos los ambientes, durante aproximadamente dos años.
 Riesgo eléctrico crítico: tablero de gestión de fases y tomacorrientes expuestos a caída de líquido en episodios de lluvia y humedad sostenida.
@@ -33,9 +26,6 @@ Afectación de la vida de relación, socialización y vida de pareja por condici
 Afectación emocional y psicológica derivada del padecimiento prolongado.
 Abandono forzoso del domicilio por riesgos a la integridad física y condiciones indignas, con costos de logística, mudanza y vivienda sustituta.
 
-1.3. Factor de atribución de responsabilidad: régimen objetivo
-La construcción en inmueble lindero califica como actividad riesgosa bajo el derecho argentino. Los factores de atribución son OBJETIVOS: el afectado no debe probar culpa o negligencia. Basta acreditar el nexo causal entre la obra y el daño sufrido.
-Los sujetos responsables son solidarios y concurrentes:
 SUJETO RESPONSABLE
 FUNDAMENTO LEGAL
 TIPO DE RESPONSABILIDAD
@@ -53,9 +43,7 @@ Ley 11.723 PBA / Ord. 757/00
 Por omisión del poder de policía (si hubo denuncias previas sin respuesta)
 
 
-
 2. CÓDIGO CIVIL Y COMERCIAL DE LA NACIÓN (CCCN) — LEY 26.994
-NOTA: Vigente desde agosto de 2015. Norma jerárquica superior en materia de responsabilidad civil, daños, relaciones de vecindad y derechos reales. Verificar vigencia de artículos antes de su uso procesal.
 
 2.1. Responsabilidad civil — Marco general
 ARTÍCULO
@@ -160,7 +148,6 @@ NOTA: Cargas probatorias dinámicas: el Art. 710 CCCN (en analogía) dispone que
 
 
 3. CÓDIGO PENAL DE LA NACIÓN — ASPECTOS APLICABLES
-NOTA: El proceso principal es civil. Las figuras penales aplican si se acredita conducta deliberada o inobservancia de reglamentos que genera peligro común. Su invocación requiere evaluación profesional del caso específico.
 
 ARTÍCULO
 FIGURA PENAL
@@ -177,9 +164,6 @@ El que por imprudencia, negligencia, impericia en su arte o profesión, o inobse
 Art. 191
 Peligro común
 El peligro se configura cuando el daño no afecta solo a una persona, sino que crea un riesgo para cualquiera que ingrese a la vivienda o circule cerca. Un cortocircuito por humedad en una casa lindera puede derivar en un incendio que afecte a toda la manzana.
-
-
-NOTA PROCESAL: Si el Municipio de Merlo hubiese ordenado la paralización de la obra (Art. 7 de la Ordenanza de Edificación) y el constructor continuó trabajando, incurre en el delito de desobediencia a la autoridad pública. La inobservancia de reglamentos por parte del profesional agrava las penas del Código Penal.
 
 
 4. MARCO CONSTITUCIONAL
@@ -219,11 +203,6 @@ Derecho a la salud
 La humedad extrema que genera problemas respiratorios, alergias y proliferación de hongos vulnera el derecho a la salud reconocido en la Constitución provincial.
 
 
-
-5. NORMATIVA PROVINCIAL — PROVINCIA DE BUENOS AIRES
-5.1. Decreto-Ley 8912/77 — Ordenamiento Territorial y Uso del Suelo
-NOTA: ⚠ ADVERTENCIA DE VERIFICACIÓN PENDIENTE: verificar estado de vigencia y modificaciones del Decreto-Ley 8912/77 y sus decretos reglamentarios, en particular el Decreto 1549/83.
-Toda modificación edilicia que altere la superficie cubierta o la densidad de un inmueble debe someterse a los indicadores urbanísticos definidos por esta ley.
 INDICADOR
 DEFINICIÓN
 IMPLICANCIA EN EL CASO
@@ -242,32 +221,19 @@ La ley prohíbe que las obras desmejoren las condiciones de ventilación del vec
 
 
 5.2. Ley 11.769 — Seguridad Eléctrica Provincial
-Establece el marco regulatorio del sector eléctrico provincial. Las empresas prestatarias y los usuarios están sujetos a normas de seguridad que prohíben el funcionamiento de redes expuestas a humedad severa por riesgo de electrocución e incendio. El riesgo eléctrico documentado en el tablero y tomacorrientes del inmueble afectado encuadra directamente bajo esta ley.
 
 5.3. Ley 6075/59 — Director Técnico y Constructor
-Determina los alcances de la función del Director Técnico y el Constructor en la Provincia de Buenos Aires. No solo responden administrativamente ante el municipio, sino CIVILMENTE ante terceros afectados por vicios de construcción que generen humedades o fallas estructurales.
 
-5.4. Decreto 351/79 — Reglamentario de la Ley 19.587 (Higiene y Seguridad en el Trabajo)
 En su capítulo de instalaciones eléctricas, prohíbe taxativamente locales húmedos sin protección estanca. Aplicable por analogía para juzgar la negligencia del constructor al no prever la protección de las instalaciones eléctricas del vecino ante el ingreso de humedad.
-
-5.5. Decreto 911/96 — Salud y Seguridad en la Construcción
-
-5.6. Resolución 1069/91 — Salud y Seguridad en la Construcción
-Exige la instalación de pantallas de protección hacia los predios linderos y vallas provisorias de 2 metros de altura para evitar la caída de objetos. El incumplimiento de esta exigencia es una falta técnica y administrativa documentable.
 
 
 6. NORMATIVA MUNICIPAL — PARTIDO DE MERLO
-6.1. Código de Edificación de Merlo — Ordenanza 757-HCD-2000 y modificatorias
-NOTA: ⚠ ADVERTENCIA: Las modificatorias posteriores (Ord. 5835/2021 y Ord. 5839/21) deben ser verificadas en el texto oficial publicado por la Municipalidad de Merlo. Confrontar cada artículo con la versión vigente.
 
-6.1.1. Responsabilidades del Director de Obra y Constructor
-El Director de Obra y el Constructor son responsables de:
 Cuanto ocurra en la obra.
 Los perjuicios ocasionados en los edificios linderos.
 Los daños derivados de falta de precauciones.
 La inobservancia de las disposiciones técnicas del Código.
 
-El propietario es responsable ineludible y permanente de la correcta ejecución y mantenimiento de los muros divisorios y techos, garantizando la seguridad propia y frente a terceros.
 
 6.1.2. Artículos específicos de aplicación
 ARTÍCULO / SECCIÓN
@@ -291,22 +257,17 @@ Muros y cerramientos. Incluye todas las obligaciones relacionadas con la correct
 
 
 6.1.3. Seguros obligatorios
-Las prestatarias y contratistas DEBEN contar con seguros de responsabilidad civil por daños a terceros y sus pertenencias. La verificación de la existencia y vigencia de esta póliza es una diligencia procesal prioritaria para citar en garantía a la aseguradora.
 
-6.1.4. Procedimiento de Permiso de Obra (obligatorio para la obra demandada)
-La edificación de un primer piso sobre inmueble de planta baja REQUIERE PERMISO DE OBRA (no simple Aviso de Obra), con presentación de:
 Planos generales en escala 1:100.
 Planos de estructuras con memoria de cálculo.
 Certificado de Uso Conforme según Código de Planeamiento Urbano.
 Encomienda de Tareas Profesionales del Colegio de Arquitectos o Ingenieros.
 Profesional matriculado (Arquitecto o Ingeniero) como responsable.
 
-Las siguientes modificaciones también requieren Permiso de Obra (no Aviso):
 Refaccionar o transformar estructuras resistentes (modificación de instalación de agua).
 Construir nuevos edificios o ampliar los existentes.
 Abrir, cerrar o modificar vanos en fachadas o paredes linderas.
 
-6.1.5. Reglas para colocación de cargas sobre losas
 EXIGENCIA
 APLICACIÓN AL CASO
 Estudio de suelos
@@ -320,25 +281,15 @@ Las instalaciones que produzcan calor, frío o humedad sobre losas deben cumplir
 
 
 6.2. Ordenanza 5726/19 — Merlo
-Refuerza la responsabilidad solidaria entre antecesores y sucesores en el cumplimiento de las obligaciones derivadas de la edificación.
-Permite que la comuna actúe de oficio para realizar obras de seguridad a costa del propietario si este omite realizarlas ante daños a linderos.
-Art. 16: El ciudadano puede requerir al Municipio de Merlo acceso al expediente de la obra lindera para identificar al Director de Obra y al Constructor matriculado. Este derecho de acceso al expediente es una herramienta procesal prioritaria.
 
-6.3. Ordenanza 5835/2021 — Actualización del Código de Edificación
-Actualización del Código de Edificación de Merlo. Mantiene las exigencias de la Ordenanza madre 757-HCD-2000.
 
 6.4. Ordenanza 5839/2021 — Estanqueidad de techos
-Establece explícitamente que los sistemas de techos y terrazas de obras nuevas DEBEN contar con protecciones hidrófugas (membranas) que impidan la filtración a linderos. La ausencia de membrana certificada en la obra demandada es una violación directa a esta ordenanza.
 
 6.5. Código de Faltas de Merlo — Ordenanza 520/93
-Sanciones por deficiencias que afecten la estabilidad o seguridad de construcciones. Constituye la vía administrativa de sanción complementaria a la vía civil.
 
 
 7. NORMATIVA TÉCNICA ESTRUCTURAL — REGLAMENTOS CIRSOC
-Los reglamentos CIRSOC (Centro de Investigación de los Reglamentos Nacionales de Seguridad para las Obras Civiles) son de aplicación OBLIGATORIA para todas las construcciones en el territorio nacional. El incumplimiento de sus disposiciones constituye mala práctica profesional documentable en pericia técnica.
 
-7.1. CIRSOC 101 — Cargas Permanentes y Sobrecargas Mínimas
-7.1.1. Sobrecargas mínimas para cubiertas (uso en el caso)
 TIPO DE CUBIERTA / USO
 SOBRECARGA MÍNIMA
 RELEVANCIA EN EL CASO
@@ -356,8 +307,6 @@ Sin posibilidad de reducción
 Si el nuevo piso tiene acceso público.
 
 
-7.1.2. Cargas de impacto y equipos mecánicos — Art. 4.6 CIRSOC 101
-Si la modificación implicó la colocación de equipos sobre la losa (tanques de reserva, unidades de aire acondicionado, etc.), se requieren los siguientes incrementos:
 TIPO DE EQUIPO
 INCREMENTO OBLIGATORIO
 Maquinaria de ascensores
@@ -370,7 +319,6 @@ Cargas concentradas (cualquier elemento)
 Capacidad mínima de carga puntual en posición más desfavorable, independiente de la sobrecarga distribuida
 
 
-7.2. CIRSOC 201 — Diseño de Estructuras de Hormigón (basado en ACI 318)
 REQUISITO
 CONTENIDO Y APLICACIÓN AL CASO
 Resistencia mínima del hormigón
@@ -381,12 +329,10 @@ Cuantía mínima de armadura por temperatura
 Dado que las losas de cubierta en la Provincia de Buenos Aires sufren grandes amplitudes térmicas, el reglamento exige una cuantía mínima de armadura por temperatura para evitar fisuras que permitan el ingreso de agua al vecino. El incumplimiento de esta cuantía puede ser causa directa de las filtraciones.
 
 
-7.3. Normas AEA — Asociación Electrotécnica Argentina
 Las normas de la AEA son el estándar técnico para instalaciones eléctricas en Argentina. Un Perito Ingeniero Electricista debe determinar si la red eléctrica del inmueble afectado requiere un recableado total según las normas AEA, explicando cómo la humedad ambiente superior al 70-80% genera procesos de sulfatación en circuitos y riesgos de electrocución. El informe pericial sustenta el reclamo bajo el Art. 1757 del CCCN.
 
 
 8. RÉGIMEN PROBATORIO — CPCCBA (DECRETO LEY 7425/68)
-El proceso civil en la Provincia de Buenos Aires se rige por el Código Procesal Civil y Comercial de la Provincia de Buenos Aires (CPCCBA). El éxito de la demanda depende de la correcta acreditación de tres elementos: el daño, la relación causal y la cuantía.
 
 8.1. Medios de prueba disponibles
 MEDIO DE PRUEBA
@@ -436,7 +382,6 @@ Verificar si los daños están cubiertos por la póliza de la obra lindera. Nece
 
 
 8.3. Prueba digital — Fotografías y redes sociales
-Las fotografías digitales y publicaciones en redes sociales son documentos electrónicos. Para que tengan fuerza probatoria plena:
 MECANISMO
 FUNDAMENTO Y PROCEDIMIENTO
 Pericia informática
@@ -450,8 +395,6 @@ Ley 25.506 de Firma Digital y CCCN otorgan validez a los documentos electrónico
 
 
 8.4. Daño moral — Presunción in re ipsa
-El daño moral en estos casos se considera in re ipsa (surge de los mismos hechos). No hace falta probar que el actor sufrió: se presume que cualquier persona sometida a las condiciones descritas padece angustia y menoscabo a su dignidad resarcibles.
-El Tribunal de Casación y las Cámaras Civiles de PBA consideran que vivir en condiciones de indignidad habitacional dispara automáticamente el derecho a una indemnización por daño moral, sin necesidad de otro elemento probatorio que la constatación de los daños materiales (fotos, actas).
 Fundamento: Art. 1741 CCCN.
 
 
@@ -496,7 +439,6 @@ CCCN Art. 1203 (frustración del uso por evento externo — aplicación analógi
 Daño material emergente (costos directos documentables). Daño moral (impacto en vida laboral y personal).
 
 
-
 10. ANÁLISIS TRIPARTITO POR PERSPECTIVA
 10.1. PERSPECTIVA DEL DEMANDANTE — PARTE ACTORA
 Argumentos, normativa de respaldo y estrategia
@@ -507,7 +449,6 @@ PILARES DE LA DEMANDA:
 2. Superación de la normal tolerancia (Art. 1973 CCCN): humedad >70-80% sostenida por dos años excede todo umbral de tolerancia.
 3. Incumplimiento del deber de prevención (Art. 1710 CCCN): el constructor debió cesar la causa de la filtración inmediatamente.
 4. Reparación plena (Art. 1740 CCCN): la indemnización debe devolver al demandante al estado anterior al daño en todos los rubros.
-5. Violación de normativa municipal: Ord. 757/00 Arts. 162/167/168/343; Ord. 5839/21 (membrana hidrófuga); Ord. 5726/19.
 6. Responsabilidad solidaria: demandar conjuntamente al dueño del inmueble, Director de Obra y empresa constructora (Art. 1758 CCCN + Ord. 757/00).
 
 RUBROS DE RECLAMO:
@@ -527,23 +468,16 @@ Citar en garantía a la aseguradora de responsabilidad civil de la obra (verific
 Denunciar ante el Colegio de Arquitectos o Ingenieros por falta de ética profesional.
 
 
-
 10.2. PERSPECTIVA DEL DEMANDADO — PARTE DEFENSORA
 Argumentos disponibles, normativa de defensa y riesgos
 El demandado enfrenta un régimen de responsabilidad objetiva muy desfavorable. Sus defensas posibles son limitadas y cada una tiene contraargumentos sólidos del actor:
 
 Defensa 1 — Culpa de la víctima: alegar que el actor no permitió el ingreso a la obra para reparar. CONTRAARGUMENTO: el actor tiene el deber de mitigación (Art. 1710 CCCN), pero las reparaciones deben realizarse bajo supervisión pericial para no eliminar evidencias. Si el actor bloqueó reparaciones válidas, puede verse afectado en la cuantía, no en la responsabilidad base.
-Defensa 2 — Daños preexistentes: alegar que el inmueble ya tenía problemas de humedad antes de la obra. CONTRAARGUMENTO: si existe fallo previo favorable, el nexo causal ya es cosa juzgada y no puede ser rediscutido.
-Defensa 3 — Falta de nexo causal: alegar que los daños no provienen de su obra. CONTRAARGUMENTO: la responsabilidad objetiva invierte la carga; el demandado debe probar que el daño se debe a culpa de la víctima o de un tercero ajeno.
 Defensa 4 — Cumplimiento normativo: alegar que la obra tenía todos los permisos. CONTRAARGUMENTO: la existencia del permiso no exime de la responsabilidad por daños causados; el resultado dañoso es lo que activa el régimen del Art. 1757 CCCN.
 Defensa 5 — Prescripción: alegar prescripción del reclamo. La prescripción de la acción de daños es de 3 años desde que el damnificado conoció o pudo conocer el daño (Art. 2561 CCCN). Relevante si los daños son muy anteriores a la demanda.
 
-NOTA: RIESGO PARA EL DEMANDADO: La persistencia del daño por dos años sin reparación es interpretada por la jurisprudencia de PBA como actitud de indiferencia hacia el daño ajeno, lo que habilita sanciones conminatorias (astreintes) y la elevación del monto por daño moral.
-
-
 
 10.3. PERSPECTIVA DEL MINISTERIO PÚBLICO — ROL INSTITUCIONAL
-NOTA: En el proceso civil de daños y perjuicios ante los tribunales de la Provincia de Buenos Aires, el Ministerio Público interviene en defensa de la legalidad y en representación del interés general. Si hay menores involucrados o intereses de incapaces, su intervención es obligatoria.
 
 CRITERIOS OBJETIVOS DE ACTUACIÓN:
 Control de legalidad: verificará que los artículos y normas invocados correspondan a la causa de manera precisa y que no haya invocaciones incorrectas de normas que puedan comprometer la demanda.
@@ -588,7 +522,6 @@ Causa técnica acreditable pericialmente de las fisuras que permiten el ingreso 
 Falta de supervisión del Director de Obra que permitió el deterioro del inmueble lindero durante dos años
 CCCN Art. 1269; Ley 6075/59 PBA
 Responsabilidad profesional. Base para denuncia ante el Colegio de Arquitectos o Ingenieros.
-
 
 
 12. RUBROS DE CUANTIFICACIÓN INDEMNIZATORIA
@@ -641,7 +574,6 @@ SCBA: incluye un 30% adicional por gastos generales sobre el costo material
 Presupuestos y facturas de profesionales.
 
 
-
 13. ACCIONES E INSTANCIAS DISPONIBLES
 ACCIÓN / INSTANCIA
 FUNDAMENTO
@@ -675,9 +607,7 @@ CCCN Art. 10 + doctrina PBA
 Multa por día de incumplimiento de la sentencia. Se impone ante la actitud de indiferencia del demandado.
 
 
-
 14. ZONAS DE INCERTIDUMBRE — INFORMACIÓN NO VERIFICADA
-⚠ ADVERTENCIA: Las siguientes normas y datos deben ser verificados en su versión vigente y aplicable antes de ser utilizados en actuaciones judiciales.
 
 NORMA / DATO
 ADVERTENCIA
@@ -705,14 +635,12 @@ Prescripción de la acción (Art. 2561 CCCN)
 Verificar si el plazo de 3 años aplica exactamente a este tipo de acción y desde qué momento exacto comienza a correr, dada la continuidad del daño (daño continuado vs. daño instantáneo).
 
 
-
 15. DECLARACIÓN DE INFERENCIAS Y CIERRE
 ⚠ ADVERTENCIA: DECLARACIÓN DE POSIBLES INFERENCIAS DEL MODELO: Las siguientes partes de este documento pueden contener información completada por inferencia y no por verificación directa en texto de ley primario: (1) números de artículo específicos de Ordenanzas municipales de Merlo (Arts. 162, 167, 168, 338, 339, 343, 344); (2) contenido específico de la Ley Provincial 11.723; (3) datos del Fallo Cámara Quilmes 2024; (4) valores numéricos exactos de CIRSOC 101/201. Se recomienda verificación profesional antes de usar este contenido en cualquier actuación judicial o extrajudicial.
 
 Este documento NO reemplaza el criterio de un profesional del derecho habilitado. Su función es servir como mapa de referencia normativa para que el profesional interviniente pueda identificar, verificar y aplicar los instrumentos más relevantes en la construcción de la demanda y la estrategia procesal.
 
 El ordenamiento jurídico argentino, a través del CCCN, la Constitución Nacional, la Constitución de la Provincia de Buenos Aires, el CPCCBA y la normativa municipal de Merlo, provee un plexo normativo que cubre la totalidad de los daños documentados. La persistencia de esos daños durante casi dos años, con omisión de reparación por parte del demandado, agrava la posición de este último y habilita rubros adicionales (astreintes, incremento del daño moral, pérdida de valor venal del inmueble).
-
 
 
 Documento generado con base en los archivos de investigación provistos. Sistematización: Juez-Tito / Claude (Anthropic). Uso interno — no constituye dictamen legal.

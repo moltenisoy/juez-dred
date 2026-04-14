@@ -84,7 +84,6 @@ Art. 1757 | Responsabilidad objetiva | Toda persona responde por el daño causad
 Art. 1758 | Sujetos responsables | El dueño y el guardián responden concurrente y solidariamente. El guardián es quien ejerce el uso, dirección y control de la cosa, o quien obtiene provecho de ella.
 
 3.2. Relaciones de vecindad
-ARTÍCULO | DENOMINACIÓN | CONTENIDO APLICABLE AL CASO
 Art. 1973 | Inmisiones — Normal tolerancia | Las molestias por humo, calor, olores, luminosidad, ruidos, vibraciones e inmisiones similares (humedad incluida) no deben exceder la normal tolerancia. Una humedad relativa constante superior al 70-80% que inhabilita el uso pleno del hogar supera todo umbral de tolerancia normal. El juez puede ordenar: remoción de la causa, cesación e indemnización.
 Art. 2006 | Clasificación de muros | Define muros: lindero, encaballado, contiguo, medianero, privativo, de cerramiento forzoso. Relevante para determinar qué tipo de muro involucra la obra y quién es responsable de su mantenimiento y modificación.
 Art. 2010 | Presunción de medianería | El muro de cerramiento forzoso en núcleos urbanos se presume medianero hasta una altura de 3 metros.
@@ -96,12 +95,10 @@ Art. 2615 | Relaciones de vecindad — derechos de paso por obras | Fundamento d
 Art. 2627 | Obligación de indemnizar daños por trabajos sobre inmueble ajeno | Responsabilidad directa del demandado desde el primer día de trabajo no autorizado sobre techo lindero.
 
 3.3. Contratos de obra — Responsabilidad profesional
-ARTÍCULO | DENOMINACIÓN | CONTENIDO APLICABLE AL CASO
 Art. 1269 | Director de obra | Tiene la guarda jurídica de la construcción. Es responsable de que no se violen las disposiciones municipales ni las normas de seguridad estructural. Su responsabilidad es objetiva en excavaciones, submuraciones y apuntalamientos.
 Art. 1273 | Constructor / Ruina | El constructor responde solidariamente. Se considera ruina no solo el derrumbe total sino el deterioro que torna la cosa impropia para su destino. Un baño con desprendimiento de techo y un sistema eléctrico inhabilitado por humedad constituyen ruina parcial.
 
 3.4. Bienes muebles y prueba
-ARTÍCULO | DENOMINACIÓN | CONTENIDO APLICABLE AL CASO
 Art. 1895 | Posesión de buena fe de cosas muebles | La posesión de buena fe de cosas muebles no registrables vale por título. Se presume que los muebles, electrodomésticos y ropa presentes en el inmueble pertenecen a quien lo habita. La falta de facturas no impide el reclamo.
 Art. 312 | Actas notariales | Valor probatorio de las actas de escribano sobre hechos que el notario tiene a la vista. Un escribano puede certificar el estado del inmueble y el contenido de publicaciones en redes sociales.
 Art. 1203 | Frustración del uso (analogía) | Si un evento externo torna la cosa impropia para su destino, el habitante tiene derecho a interrumpir su ocupación sin pérdida de derechos. Aplicado por analogía al abandono forzoso del domicilio.
