@@ -19,7 +19,6 @@ INVESTIGA EN CASO DE PROCESOS JUDICIALES DONDE UNA PARTE DENUNCIE A LA OTRA DE Q
 
 
 MARCO JURÍDICO APLICABLE — DAÑOS POR OBRA LINDERA
-Jurisdicción: Provincia de Buenos Aires — Partido de Merlo
 Fuente normativa: Derecho argentino vigente (Civil, Comercial, Penal, Constitucional, Provincial y Municipal)
 
 ⚠️ MARCO NORMATIVO GENERAL (APLICABLE A TODOS LOS ÍTEMS)
@@ -307,11 +306,8 @@ Director/Proyectista de obra: Art. 1724 CCyCN (responsabilidad por culpa profesi
 Municipalidad de Merlo (eventualmente): Si hubiera habilitado la obra sin los recaudos de seguridad establecidos en el Decreto-Ley 8912/77 y el Reglamento General de Construcción provincial, podría configurarse responsabilidad estatal concurrente.
 
 
-
-
 INFORME JURÍDICO INTEGRAL
 DAÑOS Y PERJUICIOS POR OBRA EN INMUEBLE LINDERO
-Jurisdicción: Provincia de Buenos Aires — Partido de Merlo
 Marco normativo: República Argentina
 
 BLOQUE I — NORMATIVA GENERAL TRANSVERSAL
@@ -587,7 +583,6 @@ La exposición continua a niveles de humedad superiores al 70% durante casi dos 
 
 PADECIMIENTO N° 2
 RIESGO ELÉCTRICO SOBRE TABLERO, CAJA DE FASES Y TOMACORRIENTES — IMPLICANCIAS JURÍDICAS DE SU DURACIÓN SOSTENIDA DE CASI DOS AÑOS
-Una vez acreditado este padecimiento, su extensión temporal continuada produce los siguientes efectos jurídicos específicos:
 A. El riesgo sostenido en el tiempo como daño actual permanente
 En materia de daño derivado de cosa riesgosa (art. 1757 CCyCN), la duración del estado de riesgo tiene una consecuencia jurídica fundamental: cada día que la instalación eléctrica permaneció expuesta a humedad y lluvia directa representa un día adicional de exposición del habitante a peligro de muerte o lesiones graves. Este estado de riesgo acumulado en el tiempo no se cancela retroactivamente por el hecho de que la descarga eléctrica no se haya producido.
 
@@ -606,7 +601,6 @@ El hecho de que los responsables hayan dejado subsistir el riesgo eléctrico dur
 
 PADECIMIENTO N° 3
 IMPOSIBILIDAD DE USAR LA INDUMENTARIA — IMPLICANCIAS JURÍDICAS DE SU DURACIÓN SOSTENIDA
-Una vez acreditado este padecimiento, su extensión temporal continuada produce los siguientes efectos jurídicos específicos:
 A. Daño patrimonial acumulativo por ciclos sucesivos de destrucción
 El daño en la indumentaria no fue un evento único sino un proceso que se repitió y profundizó durante casi dos años. La ropa que se dañó en los primeros meses fue eventualmente reemplazada, y la ropa de reemplazo también se fue deteriorando. Esto configura un daño patrimonial de ciclos sucesivos que debe ser indemnizado en su totalidad acumulada, no como un evento único inicial.
 
@@ -621,7 +615,6 @@ La incapacidad de contar con ropa en condiciones presentables durante casi dos a
 
 PADECIMIENTO N° 4
 RIESGO DE CAÍDA DE FRAGMENTOS DE TECHO — IMPLICANCIAS JURÍDICAS DE SU DURACIÓN SOSTENIDA Y DEL CARÁCTER PROGRESIVO DEL DETERIORO
-Una vez acreditado este padecimiento, su extensión temporal continuada produce los siguientes efectos jurídicos específicos:
 A. Progresividad del riesgo: los fragmentos son cada vez más grandes
 El documento señala expresamente que los trozos en proceso de desprendimiento son cada vez más grandes. Esto implica que el riesgo no es estático sino que se agrava con el tiempo. Jurídicamente esto tiene dos consecuencias fundamentales:
 
@@ -637,7 +630,6 @@ La omisión de los demandados de adoptar medidas para detener el desprendimiento
 
 PADECIMIENTO N° 5
 DORMIR CON ELEMENTOS DE CAMA EN DEGRADACIÓN, SIN CALEFACCIÓN NI RED ELÉCTRICA EN EL DORMITORIO — IMPLICANCIAS JURÍDICAS DE SU DURACIÓN SOSTENIDA
-Una vez acreditado este padecimiento, su extensión temporal continuada produce los siguientes efectos jurídicos específicos:
 A. Daño patrimonial acumulado: degradación progresiva e irreversible de los bienes
 El colchón, la almohada y la ropa de cama no se deterioraron instantáneamente sino de manera progresiva durante casi dos años. Esto implica que:
 
@@ -657,7 +649,6 @@ Base legal: Art. 1738 CCyCN; jurisprudencia de privación de uso proporcional al
 
 PADECIMIENTO N° 6
 IMPEDIMENTO DE VIDA SOCIAL Y DE PAREJA — IMPLICANCIAS JURÍDICAS DE SU DURACIÓN SOSTENIDA DURANTE CASI DOS AÑOS
-Una vez acreditado este padecimiento, su extensión temporal continuada produce los siguientes efectos jurídicos específicos:
 A. Interferencia prolongada en el proyecto de vida: el tiempo como elemento constitutivo del daño
 La interferencia en el proyecto de vida (art. 1738 CCyCN) adquiere una dimensión radicalmente diferente según su duración. Una privación de vida social durante un fin de semana es cualitativamente distinta a una privación sostenida durante casi dos años. En este caso, la duración no es un mero agravante cuantitativo: es parte constitutiva del daño mismo.
 
@@ -673,7 +664,6 @@ El aislamiento social sostenido durante casi dos años no es equivalente a la su
 
 PADECIMIENTO N° 7
 CONSECUENCIAS PSICOLÓGICAS, PSIQUIÁTRICAS Y DAÑO MORAL — IMPLICANCIAS JURÍDICAS DE SU DURACIÓN SOSTENIDA DURANTE CASI DOS AÑOS
-Una vez acreditado este padecimiento, su extensión temporal continuada produce los siguientes efectos jurídicos específicos:
 A. El tiempo como variable central de cuantificación del daño moral (art. 1741 CCyCN)
 El daño moral es entendido como toda lesión espiritual o agravio a las afecciones íntimas, y en general, toda clase de padecimientos incluyendo también las molestias en la seguridad personal de la víctima o en el goce de sus bienes. Su reparación está determinada principalmente por los artículos 1738, 1740 y 1741 del Código Civil y Comercial. Garcia Alonso
 El art. 1741 CCyCN establece que el juez fija la indemnización del daño extrapatrimonial ponderando las satisfacciones sustitutivas y compensatorias que pueden procurar las sumas reconocidas. La duración del padecimiento es, en este sistema, una de las variables fundamentales de esa ponderación: cuanto más prolongado fue el padecimiento espiritual, mayor debe ser la suma necesaria para procurar las satisfacciones compensatorias equivalentes.
@@ -692,7 +682,6 @@ El documento indica expresamente que los padecimientos continúan durante la eje
 
 PADECIMIENTO N° 8
 ABANDONO FORZADO DEL HOGAR — IMPLICANCIAS JURÍDICAS DE SU DURACIÓN SOSTENIDA Y DE SU OCURRENCIA DURANTE EL PROCESO JUDICIAL
-Una vez acreditado este padecimiento, su extensión temporal continuada produce los siguientes efectos jurídicos específicos:
 A. Privación de uso del inmueble: cálculo proporcional a la duración
 La privación de uso del inmueble es un rubro indemnizatorio que se calcula por el tiempo efectivo de privación, tomando como referencia el valor locativo de mercado del bien. Si el habitante se vio obligado a abandonar su domicilio, la indemnización por privación de uso debe calcularse por cada mes de ausencia forzada, multiplicando el valor locativo mensual del inmueble por la cantidad de meses de desplazamiento.
 

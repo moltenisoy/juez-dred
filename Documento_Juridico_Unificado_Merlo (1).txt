@@ -7,13 +7,9 @@ Fuero: Civil — Acción de Daños y Perjuicios (Responsabilidad Extracontractua
 Elaborado bajo protocolo JUEZITO-EL-ROBOTITO | Tres perspectivas jurídicas independientes
 
 
-
-
 ⚠️ AVISO LEGAL OBLIGATORIO
 Este documento es un análisis jurídico asistencial elaborado con base en normativa verificada. No reemplaza el asesoramiento de un abogado matriculado. Las estrategias procesales, redacción de escritos y decisiones tácticas del expediente son responsabilidad exclusiva del profesional interviniente. Toda cita jurisprudencial debe ser verificada antes de su uso en actuaciones judiciales o extrajudiciales.
 	
-
-
 
 I. ENCUADRE GENERAL DEL CASO
 	
@@ -50,8 +46,6 @@ La configuración descripta encuadra en un supuesto de responsabilidad civil ext
 🔴 NÚCLEO DEL REPROCHE JURÍDICO
 El demandado realizó una obra de ampliación que requería permisos municipales, planos aprobados, cálculo estructural, intervención profesional habilitada, certificado hidráulico y seguro de obra. No existe constancia de haber obtenido NINGUNO de estos permisos ni de haber dado cumplimiento a ninguna de las obligaciones técnicas y de vecindad que la ley impone. Toda la obra se ejecutó sobre y en perjuicio de la propiedad ajena, sin autorización, sin indemnización y sin reparación posterior.
 	
-
-
 
 II. INCUMPLIMIENTOS Y OMISIONES DEL DEMANDADO
 	
@@ -109,8 +103,6 @@ E) Obligaciones de vecindad vulneradas (CCyC)
 * Art. 2630 CCyC — Aguas pluviales: los nuevos techos deben diseñarse para que las aguas caigan sobre el propio suelo. Está prohibido el desagüe sobre el terreno o techo del vecino. El demandado modificó el sistema de desagote del techo del inmueble de la parte actora.
 * Medianería: cualquier modificación que afecte la pared medianera debe ser acordada. Si la nueva planta se apoya en muro medianero, el vecino tiene derecho a reclamar el valor de la mitad de la pared utilizada.
 * Norma CIRSOC 101: la sobrecarga de diseño para locales residenciales es de 200 kg/m². La reubicación de una carga de 750+ kg sobre losa flotante del vecino excede los parámetros de seguridad y fue ejecutada sin estudio estructural alguno.
-
-
 
 
 III. MARCO NORMATIVO INTEGRAL — TABLA DE APLICACIÓN AL CASO
@@ -283,8 +275,6 @@ NORMA
 	Si las afecciones respiratorias y alérgicas son acreditadas médicamente como consecuencia de la exposición a la humedad, puede configurarse lesión culposa.
 	
 
-
-
 IV. RUBROS INDEMNIZABLES — PATRIMONIALES Y EXTRAPATRIMONIALES
 	
 
@@ -362,8 +352,6 @@ CRITERIO JURISPRUDENCIAL CONSOLIDADO — DAÑO MORAL
 En Argentina, la jurisprudencia reconoce que el daño moral se presume ante la entidad de los hechos probados, sin necesidad de acreditación exhaustiva separada. La prueba de los hechos en sí (filtraciones, abandono del hogar, riesgo físico, niveles de humedad) es suficiente para presumir el daño moral.
 	
 
-
-
 V. MEDIOS PROBATORIOS Y SU JUSTIFICACIÓN JURÍDICA
 	
 
@@ -416,8 +404,6 @@ Declaración de vecinos, familiares y amigos que observaron: el estado del inmue
 ELEMENTO PROBATORIO CLAVE — AUSENCIA DE PERMISOS
 El informe municipal certificando la falta de permisos de obra del demandado es, junto con la pericia de arquitectura, el elemento probatorio más importante. Prueba la antijuridicidad per se (Art. 1717 CCyC), que toda la obra fue clandestina, y que el demandado actuó con negligencia agravada al omitir todas las obligaciones de seguridad y técnicas que el ordenamiento le imponía.
 	
-
-
 
 VI. ANÁLISIS JURÍDICO TRIPARTITO — JUEZITO-EL-ROBOTITO
 	
@@ -495,8 +481,6 @@ RECOMENDACIÓN DE CONSISTENCIA PROBATORIA
 La denuncia penal paralela genera prueba cruzada útil para el proceso civil. El inicio de actuaciones penales por estrago culposo o daños obliga a producir pericias y constancias que luego pueden incorporarse al expediente civil, reforzando la posición de la parte actora.
 	
 
-
-
 VII. ZONAS DE INCERTIDUMBRE E INFORMACIÓN PENDIENTE DE VERIFICACIÓN
 	
 
@@ -523,14 +507,8 @@ La afirmación de humedad sostenida superior al 70% por más de un año requiere
 Este análisis no tiene acceso al expediente judicial. Las estrategias probatorias sugeridas asumen que la causa está en etapa de prueba o que aún es posible ampliarlas. El abogado interviniente debe verificar el estado procesal exacto.
 	
 
-
-
-
-
 ⚠️ DECLARACIÓN DE POSIBLES INFERENCIAS DEL MODELO
 Las siguientes partes de este documento podrían contener información completada por inferencia del modelo y no por verificación directa: (1) La Ordenanza exacta de Edificación de Merlo y sus artículos específicos; (2) Los criterios jurisprudenciales de las Cámaras Civiles sobre daños por obra lindante (citados como orientativos); (3) La vigencia actual de la Resolución AySA 641/2023 y sus disposiciones exactas. Se recomienda verificación profesional antes de usar este contenido en cualquier actuación judicial o extrajudicial.
-
-
 
 
 Elaborado bajo protocolo JUEZITO-EL-ROBOTITO
