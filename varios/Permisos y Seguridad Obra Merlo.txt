@@ -1,0 +1,151 @@
+﻿Protocolo de Regularización Edilicia, Seguridad en Altura y Gestión de Servicios Compartidos en el Partido de Merlo
+Requerimientos y Documentación Municipal para Ampliación y Obra Nueva
+La ejecución de una obra de ampliación que implique la adición de una planta superior y la modificación de metros cuadrados cubiertos en el Partido de Merlo se rige primordialmente por el Código de Ordenamiento Urbano (COU), el Código de Edificación y las Ordenanzas Fiscal e Impositiva vigentes.1 El cumplimiento de la normativa local es imperativo para evitar la paralización de las tareas por parte de la Dirección de Fiscalización y Control de Obras, la cual interviene para verificar que los permisos coincidan con la ejecución real de las estructuras.3 El proceso administrativo requiere la intervención de un profesional matriculado con firma habilitada en el municipio, quien debe gestionar el expediente digital a través de la plataforma de la Dirección de Planeamiento Urbano.1
+A continuación, se detalla de manera literal la lista de permisos y documentación que se debe presentar y solicitar a nivel municipal:
+1. Permiso de Obra Nueva - Ampliación: Es el trámite central que autoriza legalmente el inicio de las tareas de expansión en un inmueble con plano previo aprobado. En caso de no existir antecedentes, se debe iniciar un trámite de "Obra Nueva" o "Subsistencia" para regularizar lo existente antes de proyectar la planta superior.1 Consiste en la apertura de un expediente donde se declaran los metros cuadrados a construir y el destino de la edificación (unifamiliar o multifamiliar).4
+2. Plano de Edificación (Proyecto de Arquitectura): Documento técnico obligatorio que debe incluir la planta de arquitectura de la nueva planta superior, cortes transversales y longitudinales que permitan visualizar la altura de los locales, y vistas de fachada.6 Debe graficar con simbología reglamentaria los sectores existentes (en color negro o gris), a construir (en color rojo) y a demoler (en color amarillo).6
+3. Certificado de Aptitud Urbanística (Permiso de Aptitud): Documento previo donde la autoridad municipal verifica que el proyecto cumple con los indicadores de ocupación y uso permitidos para la zona específica dentro del Partido de Merlo.2 Este trámite analiza la inserción del proyecto en la trama urbana y su impacto en el entorno consolidado.2
+4. Planilla de Indicadores Urbanísticos: Se trata de un desglose técnico que debe figurar en la carátula del plano, donde se calculan el Factor de Ocupación del Suelo (F.O.S.), el Factor de Ocupación Total (F.O.T.) y la Densidad Neta.2 Estos indicadores limitan la superficie máxima a techar y la superficie total construible en relación con los metros cuadrados del terreno.2
+5. Cálculo Estructural y Memoria Técnica de Estructuras: Debido a que la obra contempla la edificación de un primer piso, es obligatorio presentar un plano de estructuras y sus correspondientes planillas de cálculo firmadas por un ingeniero o arquitecto responsable.1 Este documento garantiza que la estructura de la planta baja posee la capacidad portante necesaria para soportar la nueva carga del nivel superior.9
+6. Carpeta de Obra y Planilla de Estadística de Edificación: Formulario administrativo que recopila datos catastrales de la parcela (número de cuenta, sección, manzana, parcela) y datos estadísticos de la obra para el registro municipal y provincial.1 Es fundamental para el seguimiento del crecimiento urbano del distrito.11
+7. Liquidación de Derechos de Construcción: Es el comprobante de pago de las tasas municipales correspondientes a la superficie proyectada. El monto se calcula en función de la categoría de la obra y la cantidad de metros cuadrados declarados.1 Incluye cargos por el uso del espacio aéreo y, eventualmente, por el vallado de obra si este ocupa la vereda.1
+8. Libre Deuda de Tasas Municipales: Constancia emitida por la Subsecretaría de Tasas que acredita que el inmueble se encuentra al día con la Tasa por Servicios Generales (ABL).5 Sin este documento, no se permite el ingreso de ningún expediente de obra.14
+9. Título de Propiedad o Escritura: Copia certificada del título que acredite la titularidad del inmueble por parte del solicitante. En caso de existir un boleto de compra-venta, este debe estar debidamente sellado.5
+10. Plano de Mensura y Estado Parcelario: Documento que delimita con precisión los límites del terreno para evitar invasiones a predios linderos durante la construcción de la planta superior.4
+Documento Técnico
+	Función Principal
+	Responsable
+	Plano de Edificación
+	Define la morfología, funcionalidad y cumplimiento del código.
+	Arquitecto / Maestro Mayor de Obra
+	Cálculo de Estructuras
+	Asegura la estabilidad de la planta superior y fundaciones.
+	Ingeniero / Arquitecto
+	Planilla Urbanística
+	Verifica límites de ocupación (FOS, FOT, retiros).
+	Profesional Matriculado
+	Memoria Descriptiva
+	Explica detalladamente las etapas y métodos constructivos.
+	Director de Obra
+	Requerimientos Profesionales y Visado de Colegios
+El ejercicio profesional en el Partido de Merlo exige que el proyectista y el director de obra estén debidamente inscriptos en sus respectivos colegios profesionales y cuenten con matrícula municipal activa.13 La responsabilidad civil y técnica recae íntegramente sobre el profesional, quien debe velar por la seguridad de la estructura y la mitigación de daños a terceros.9
+Para formalizar la intervención profesional, se deben presentar los siguientes documentos ante el Colegio de Arquitectos de la Provincia de Buenos Aires (CAPBA) Distrito III (que incluye a Merlo) o el Colegio de Ingenieros correspondiente:
+* Contrato Profesional (Visado Online): Instrumento legal donde se detallan las tareas encomendadas (proyecto y dirección de obra) y los honorarios acordados. Debe ser visado a través de la plataforma CAPBAenlinea.19
+* Planilla de Liquidación de Honorarios y Aportes: Documento donde se calcula el monto de los aportes previsionales (CAAITBA) y la Cuota de Ejercicio Profesional (CEP) en función del presupuesto de la obra.20
+* Certificado de Matrícula Vigente: Constancia que acredita que el profesional no posee deudas colegiales y se encuentra habilitado para firmar documentación técnica.19
+* Estado de Obra e Informe Técnico: En el caso de ampliaciones sobre estructuras existentes, el profesional debe emitir un informe sobre el estado de conservación de lo construido para validar la factibilidad técnica del primer piso.14
+Modificación de la Instalación de Agua y Gestión de Servicios Compartidos
+La situación de una instalación de agua compartida con un domicilio lindante introduce una complejidad técnica y jurídica significativa. La empresa proveedora del servicio en la zona de Merlo es Agua y Saneamientos Argentinos (AySA), la cual establece normativas estrictas para la modificación de conexiones y la instalación de tanques de reserva.22 La reubicación de un tanque cisterna que se encuentra en el techo del vecino requiere no solo de una solución de ingeniería, sino también del consentimiento explícito del colindante.23
+Los permisos y especificaciones técnicas obligatorias para este rubro son:
+1. Certificado de Aptitud Hidráulica (AySA): Trámite obligatorio para ampliaciones que confirma que el inmueble cuenta con la presión y el caudal necesarios para abastecer la nueva planta superior sin perjudicar la red general ni a los vecinos.24 Se requiere la presentación de planos de instalaciones sanitarias en escala 1:50.24
+2. Solicitud de Modificación de Conexión: En casos de conexiones compartidas, se debe tramitar ante AySA la independización del servicio si fuera técnicamente posible, o la actualización de los parámetros de facturación.22 Para ello, se requiere el DNI del titular, la escritura del inmueble y la última factura paga.23
+3. Plano de Instalaciones Sanitarias (Plano de Agua y Cloaca): Documento técnico que detalla el nuevo trazado de las cañerías, los diámetros de alimentación (generalmente 0,013m o 0,019m para viviendas), y la ubicación del tanque de reserva y tanque de bombeo.25 Debe cumplir con la Resolución 641/2023 del Ministerio de Obras Públicas.25
+4. Reserva Total Diaria (RTD): Cálculo de la capacidad del tanque de reserva. Se debe garantizar un mínimo de 24 horas de consumo para todas las unidades alimentadas por la conexión. Para una vivienda unifamiliar con planta alta, se estima una reserva mínima de 850 a 1000 litros.25
+5. Protocolo de Estanqueidad y Pruebas de Presión: Antes de habilitar la nueva instalación, el instalador matriculado debe realizar pruebas de presión (1.5 veces la presión de servicio) para asegurar que no existan filtraciones que puedan dañar la estructura propia o la del vecino.25
+Componente Hidráulico
+	Requisito Técnico
+	Normativa
+	Tanque de Reserva
+	Debe ser estanco, ventilado y de material apto para consumo (polietileno/acero).
+	Resolución 641/2023
+	Conexión Compartida
+	Requiere conformidad del vecino y, preferentemente, medidores individuales.
+	Reglamento AySA
+	Ubicación del Tanque
+	Debe respetar retiros para evitar vibraciones y ruidos molestos.
+	Código de Edificación
+	Cañerías
+	Materiales aprobados (polipropileno termofusión / PVC Clase 6).
+	IRAM 13473
+	Marco Legal de Relaciones de Vecindad y Trabajo en Predio Lindero
+La necesidad de trabajar con maquinaria y personal sobre la superficie del techo de un domicilio lindero, sumado a la reubicación de su tanque de agua, coloca al propietario frente a restricciones del dominio reguladas por el Código Civil y Comercial de la Nación (CCCN).28 Aunque el propietario tiene el derecho de realizar obras en su inmueble, no puede vulnerar impunemente la propiedad ajena sin causa justificada y compensación adecuada.28
+Obligaciones y Derechos según el Código Civil y Comercial
+* Acceso Indispensable (Art. 1977 CCCN): Si para realizar la obra es indispensable poner andamios u otras instalaciones provisorias en el inmueble del vecino, o dejar pasar a las personas que trabajan en la obra, el dueño del lindero no puede impedirlo.30 Sin embargo, quien construye debe reparar todos los daños causados y minimizar las molestias.28
+* Convenio de Medianería y Uso de Muros: Cualquier modificación que afecte la medianera (pared divisoria) debe ser acordada. Si la nueva planta superior se apoya en el muro medianero, el vecino tiene derecho a reclamar el valor de la mitad de la pared utilizada.32
+* Reubicación de Instalaciones del Vecino: La movilización de un tanque de agua ajeno constituye una alteración de un servicio básico. Es obligatorio que el propietario que realiza la obra asuma todos los costos de traslado, garantice la continuidad del suministro durante la tarea y asegure que la nueva ubicación del tanque cumpla con los mismos estándares de presión y accesibilidad que la original.28
+* Responsabilidad por Daños (Art. 2616 CCCN): El propietario es responsable por cualquier caída de materiales, filtraciones o grietas producidas por el uso de maquinaria pesada o herramientas sobre el techo vecino.28 Se recomienda la realización de un acta notarial previa para constatar el estado actual de la vivienda vecina antes del inicio de los trabajos.14
+Medidas de Seguridad y Técnicas en Obra (Decreto 911/96)
+El trabajo en altura y sobre techos de terceros requiere la implementación rigurosa de medidas de seguridad para proteger la integridad física de los operarios y de los habitantes del domicilio colindante.37 El responsable de Higiene y Seguridad debe confeccionar un Programa de Seguridad específico para la obra, el cual debe ser aprobado por la Aseguradora de Riesgos del Trabajo (ART).38
+Protocolos de Seguridad Obligatorios para Trabajos en Altura
+1. Uso de Arnés de Seguridad (Sistema Anticaída): Para cualquier tarea realizada a más de 2 metros de altura (lo que incluye trabajar sobre el techo del vecino o en la nueva planta alta), es obligatorio el uso de arneses de seguridad de 5 puntos certificados.37 Estos deben estar anclados a una línea de vida o punto de amarre fijo independiente de los andamios.38
+2. Pantallas y Bandejas de Protección: Se deben instalar protecciones físicas para evitar la caída de objetos o escombros sobre el patio o techo del vecino.37 Estas bandejas deben colocarse como máximo a 3 metros por debajo del plano de trabajo y poseer la resistencia necesaria para detener materiales contundentes.37
+3. Andamios y Plataformas de Trabajo: Deben ser estructuras metálicas estables (queda prohibido el uso de andamios de madera para alturas superiores a 3 metros).38 Deben contar con plataformas antideslizantes de al menos 0,60 metros de ancho, barandas de 1 metro de altura con travesaños intermedios y zócalos para evitar la caída de herramientas.37
+4. Señalización y Delimitación de Áreas de Riesgo: Es obligatorio señalizar con cartelería y vallas las zonas donde se están realizando tareas sobre el techo vecino.37 En caso de utilizar maquinaria ruidosa o vibratoria, se deben respetar los horarios municipales para no exceder la normal tolerancia del vecindario.35
+5. Protección de Aberturas y Claraboyas: Si el techo del vecino posee claraboyas o tragaluces, estos deben ser protegidos con cubiertas resistentes para evitar que la caída accidental de un operario o material provoque un siniestro grave.40
+Equipos de Protección Personal (EPP) Requeridos
+El personal debe contar con elementos de protección adecuados al riesgo específico de la obra en Merlo 38:
+* Casco de Seguridad: Con barboquejo para evitar su caída durante trabajos de inclinación.
+* Calzado de Seguridad: Con suela de alta adherencia para transitar sobre superficies de techos.
+* Guantes de Trabajo: Específicos para el manejo de cañerías y materiales de construcción.
+* Protección Ocular y Auditiva: Obligatoria durante el uso de amoladoras, martillos neumáticos o maquinaria de corte.39
+* Ropa de Trabajo de Alta Visibilidad: Si la obra se realiza cerca de la vía pública o en condiciones de iluminación deficiente.39
+Procedimientos Técnicos Profesionales para la Planta Superior
+El diseño y ejecución de la planta superior debe responder a criterios de ingeniería que aseguren la durabilidad de la intervención y la seguridad de los inmuebles involucrados. El profesional responsable debe supervisar los siguientes aspectos críticos:
+1. Verificación de Cimientos y Columnas: Antes de elevar la mampostería del primer piso, se deben realizar calicatas o estudios de suelo si no existen planos de estructura previos.10 Es fundamental confirmar que las fundaciones actuales pueden absorber el peso adicional de las nuevas paredes, techos y sobrecargas de uso.
+2. Aislación Hidrófuga en la Nueva Planta: Se deben ejecutar cajones hidrófugos en las primeras hiladas de ladrillos y utilizar revoques con aditivos impermeabilizantes en las paredes exteriores para evitar humedades de cimiento o filtraciones hacia la planta baja y hacia el muro del vecino.26
+3. Manejo de Aguas Pluviales (Art. 2630 CCCN): Los nuevos techos deben diseñarse de manera que las aguas de lluvia caigan sobre el propio suelo o hacia la vía pública, quedando terminantemente prohibido el desagüe directo sobre el terreno o techo del vecino.28 Se deben instalar canaletas y bajadas pluviales de dimensiones adecuadas al régimen de lluvias de la provincia de Buenos Aires.
+4. Instalaciones Eléctricas de Obra: Deben ser provisorias pero reglamentarias, contando con tablero con disyuntor diferencial, llaves térmicas y puesta a tierra, para evitar riesgos de electrocución al personal o incendios por cortocircuito.37
+Parámetro Técnico
+	Especificación Obligatoria
+	Justificación Técnica
+	Sobrecarga de Diseño
+	200 kg/m² (para locales residenciales).
+	Normas CIRSOC 101
+	Pendiente de Desagüe
+	2% mínimo para techos planos o azoteas.
+	Evita estancamiento y filtraciones.
+	Espesor de Medianera
+	Mínimo 0,30m para soporte estructural de planta alta.
+	Estabilidad y aislación acústica.
+	Ventilación de Ambientes
+	1/8 de la superficie del local (mínimo).
+	Garantiza habitabilidad y salud.
+	Gestión de Residuos y Limpieza de Obra
+El Partido de Merlo exige la correcta gestión de los escombros generados por la ampliación y la modificación de la planta alta. El depósito de materiales o desechos en la vía pública o sobre el techo del vecino sin las debidas protecciones es motivo de sanción inmediata.1
+* Contenedores de Escombros: El propietario debe contratar servicios de volquetes habilitados para el retiro de los restos de mampostería y demolición de la antigua cubierta.1
+* Limpieza Diaria: Se debe mantener el orden y la limpieza diaria en la superficie del techo lindero utilizado para el trabajo, retirando cualquier residuo que pudiera obstruir sus desagües pluviales o dañar su impermeabilización.39
+* Protección contra Polvo y Proyecciones: Se deben instalar mallas de media sombra o cerramientos provisorios de polietileno para evitar que el polvo de la construcción afecte la salud de los vecinos o deteriore sus bienes.39
+Este protocolo exhaustivo define el marco de actuación técnica y legal para un proyecto de esta envergadura. La convergencia entre el respeto a los derechos de vecindad, el cumplimiento de la normativa hidráulica de AySA y la rigurosidad en las medidas de seguridad del Decreto 911/96 constituye la única vía para llevar a término la obra de ampliación de manera segura y reglamentaria en el territorio bonaerense.1
+Obras citadas
+1. Permiso de Ampliación - Guía de Trámites - Municipalidad de Tres de Febrero, fecha de acceso: abril 5, 2026, https://guia.tresdefebrero.gov.ar/tramite/208
+2. 1 0.PLAN DE ORDENAMIENTO TERRITORIAL 0.1. OBJETIVO CENTRAL: “Tomar la ciudad existente y aventurar alternativas de crecimiento - Concejo Deliberante Villa de Merlo, fecha de acceso: abril 5, 2026, https://hcdvillademerlo.com/wp-content/uploads/2024/03/744-TO-2024-FINAL-19.12.23-1.pdf
+3. Consultas sobre obras en contravención/permiso de obra - Agencia Gubernamental de Control., fecha de acceso: abril 5, 2026, https://atencionvirtual.agcontrol.gob.ar/users/service/description?service=43
+4. Obras Particulares - Guía de Trámites - Municipalidad de Tres de Febrero, fecha de acceso: abril 5, 2026, https://guia.tresdefebrero.gov.ar/tramites/tema/11
+5. ¿Qué es el permiso de obra municipal? - Estudio Arq. Carlos Paredes, fecha de acceso: abril 5, 2026, https://www.paredestudio.com.ar/que-es-el-permiso-de-obra-municipal/
+6. Código de Edificación de Merlo | PDF | Multa (pena) | Estado (política) - Scribd, fecha de acceso: abril 5, 2026, https://es.scribd.com/document/596900216/O-757-2000-CODIGO-DE-EDIFICACION
+7. 7. morfologia de las zonas., fecha de acceso: abril 5, 2026, https://www.ecofield.net/Legales/Ord/Vicente_Lopez_BA/Cod_Urbano/7-MORFOLOGIA.pdf
+8. Informe final, fecha de acceso: abril 5, 2026, https://cdi.mecon.gob.ar/bases/docelec/cm1254.pdf
+9. 12-12-24-Nota-Colegio-Arquitectos-firmada-por-Secretario-Obras - Capba 9., fecha de acceso: abril 5, 2026, https://capba9.org.ar/capba/wp-content/uploads/2025/07/12-12-24-Nota-Colegio-Arquitectos-firmada-por-Secretario-Obras.pdf
+10. El profesional sera el responsable de realizar la tarea en dependencia municipal que compre3nden los siguientes procedimientos, - CAPBA IV, fecha de acceso: abril 5, 2026, https://capbaiv.org/users/municipios/GUIA-TRAMITES-DE-APROBACION-DE-PLANOS-TRES-DE-FEBRERO.pdf
+11. Obras Particulares - Municipio Pilar, fecha de acceso: abril 5, 2026, https://pilar.gov.ar/tramites/obras-particulares/
+12. Dirección de Obras Particulares - Municipio de Moreno | Donde Florecen Mil Flores, fecha de acceso: abril 5, 2026, https://moreno2.moreno.gob.ar/obras-particulares.php
+13. Planos Municipales Partido Merlo - Estudio Arq. Carlos Paredes, fecha de acceso: abril 5, 2026, https://www.paredestudio.com.ar/planos-municipales-partido-merlo/
+14. Obras Privadas - MUNICIPALIDAD DE MAR CHIQUITA, fecha de acceso: abril 5, 2026, https://www.marchiquita.gob.ar/direccion-de-obras-privadas/
+15. Consultas Frecuentes | Merlo Buenos Aires - Municipalidad de Merlo, fecha de acceso: abril 5, 2026, https://www.merlo.gob.ar/contacto/
+16. Solicitud de Copia de Plano - ARBA, fecha de acceso: abril 5, 2026, https://www.arba.gov.ar/GuiaTramites/TramiteSeleccionado.asp?tramite=529&categ=43
+17. Registro y Permisos de Obras | Municipio de Bahía Blanca (Buenos Aires, Argentina), fecha de acceso: abril 5, 2026, https://www.bahia.gob.ar/tramites/obrasparticulares/
+18. CE CÓDIGO DE EDIFICACIÓN - Gobierno de la Ciudad de Buenos Aires, fecha de acceso: abril 5, 2026, https://documentosboletinoficial.buenosaires.gob.ar/publico/PL-LEY-LCABA-LCBA-6100-18-ANX.pdf
+19. Visados - CAPBA DISTRITO III, fecha de acceso: abril 5, 2026, https://capba3.org.ar/visados.php
+20. Visado de proyectos arquitectónicos | CAUBA - CAPBA 10, fecha de acceso: abril 5, 2026, https://capbax.org.ar/visados/
+21. Visados - Capba 5, fecha de acceso: abril 5, 2026, https://www.capba5.com.ar/tramites/ver/5
+22. Trámites - AySA, fecha de acceso: abril 5, 2026, https://www.aysa.com.ar/tramites/tramites
+23. Que documentacion necesita - AySA, fecha de acceso: abril 5, 2026, https://www.aysa.com.ar/media-library/usuarios/informacion_util/datos_utiles_para_el_usuario/07_que_documentacion_necesita.pdf
+24. Certificado Aptitud Hidráulica AySA 2026: Guía Paso a Paso - Grupo Insani, fecha de acceso: abril 5, 2026, https://grupoinsani.com.ar/certificado-aptitud-hidraulica-aysa-2026-paso-a-paso/
+25. Reglamento Instalaciones Sanitarias AySA 2025 – Resumen Oficial - Grupo Insani, fecha de acceso: abril 5, 2026, https://grupoinsani.com.ar/reglamento-instalaciones-sanitarias-aysa-2025/
+26. TEXTO ORIGINAL - RESOLUCIÓN 641 / 2023 - SECRETARIA DE OBRAS PUBLICAS, fecha de acceso: abril 5, 2026, https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-641-2023-396748/texto
+27. Decreto 351-79.REGLAMENTARIO DE LA LEY 19.587 DE HIGIENE Y SEGURIDAD EN EL TRABAJO - Ministerio de Salud de la Provincia de Buenos Aires, fecha de acceso: abril 5, 2026, https://www.ms.gba.gov.ar/sitios/pepst/wp-content/uploads/sites/222/2017/02/Decreto_351-79.pdf
+28. Art. 2.614. Los propietarios de bienes raíces no pueden constituir sobre ellos derechos enfitéuticos, ni imponerles censos ni rentas que se extiendan a mayor término que el de cinco años, cualquiera sea el fin de la imposición - Normativa | Argentina.gob.ar, fecha de acceso: abril 5, 2026, https://www.argentina.gob.ar/normativa/recurso/109481/texactley340_libroIII_tituloVI/htm
+29. Código Civil y Comercial de la Nación, artículo 2116 - Registro de la Propiedad Inmueble, fecha de acceso: abril 5, 2026, https://www.rpba.gov.ar/files/Normas/Leyes/CCCN2116.pdf
+30. fecha de acceso: abril 5, 2026, https://codigocivilonline.com.ar/articulo-1977/#:~:text=Si%20es%20indispensable%20poner%20andamios,debe%20reparar%20los%20da%C3%B1os%20causados.
+31. Oposición de vecinos en obra: qué dice la ley y cómo actuar - Ley Arq, fecha de acceso: abril 5, 2026, https://leyarq.com.ar/oposicion-de-los-vecinos-de-obra-queremos-pasar-para-revocar/
+32. A-444 MODELO DE CONVENIO DEDERECHOS DE MEDIANERIA - MEPAU, fecha de acceso: abril 5, 2026, https://mepau.cpau.org/Media/Default/pdf/anexos/A-444.pdf
+33. ¿Qué es el derecho de medianería? - Arquitectos de Abogados, fecha de acceso: abril 5, 2026, https://arquitectosdeabogados.com/que-es-el-derecho-de-medianeria/
+34. IX – MEDIO AMBIENTE VIA PÚBLICA J - Municipalidad de Santiago del Estero, fecha de acceso: abril 5, 2026, https://www.santiagociudad.gov.ar/docs/digesto/i_medioambiente2.pdf
+35. El locatario de un inmueble y titular de una explotación industrial es responsable ante el daño ocasionado a un inmueble lindero, por rajaduras, filtraciones y humedades derivadas del uso de máquinas - al día | argentina, fecha de acceso: abril 5, 2026, https://aldiaargentina.microjuris.com/2017/05/17/el-locatario-de-un-inmueble-y-titular-de-una-explotacion-industrial-es-responsable-ante-el-dano-ocasionado-a-un-inmueble-lindero-por-rajaduras-filtraciones-y-humedades-derivadas-del-uso-de-maquinas/
+36. LÍMITES Y RESTRICCIONES AL DOMINIO. Luces y Vistas. Árboles y arbustos. Daños en medianeras y muros - YouTube, fecha de acceso: abril 5, 2026, https://www.youtube.com/watch?v=zouPj51rKM8
+37. Decreto Nacional 911/96 - Jus.gob.ar, fecha de acceso: abril 5, 2026, https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/38568/texact.htm
+38. nueva normativa - para trabajos en altura - UOCRA, fecha de acceso: abril 5, 2026, https://www.uocra.org/pdf/sst/folletos/BUENAS_PRACTICAS_TRAB_EN_ALTURA_2024.pdf
+39. Resumen Decreto 911.pdf, fecha de acceso: abril 5, 2026, https://www.fio.unicen.edu.ar/usuario/segumar/a13-3/material/LEGISLACI%D3N/Resumen%20Decreto%20911.pdf
+40. Higiene y Seguridad en el Trabajo - Decreto 911/96 - Ecofield Legal, fecha de acceso: abril 5, 2026, https://www.ecofield.net/Legales/HyS/dec911-96.htm
+41. Código Civil - Biblioteca Electrónica, fecha de acceso: abril 5, 2026, https://biblioteca.afip.gob.ar/dcp/CCI_C_000340_1869_09_25
+42. Decreto 911 / 1996 - Exactas UBA, fecha de acceso: abril 5, 2026, https://exactas.uba.ar/higieneyseguridad/wp-content/uploads/2019/08/Decreto-PEN-911-1996.pdf

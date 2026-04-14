@@ -1,0 +1,504 @@
+Tratamiento técnico-jurídico de la
+responsabilidad civil y el régimen
+probatorio por daños derivados de
+obras linderas en la jurisdicción de la
+Provincia de Buenos Aires
+El fenómeno de la edificación urbana en el Partido de Merlo, Provincia de Buenos Aires, ha
+suscitado una creciente litigiosidad vinculada a las externalidades negativas que las obras de
+construcción proyectan sobre los inmuebles linderos. Cuando una obra de edificación
+ocasiona daños estructurales, filtraciones sistemáticas y una alteración del microclima interno
+de una vivienda —como la elevación de la humedad relativa a niveles superiores al 80%—, se
+activa un complejo andamiaje de responsabilidad civil objetiva y normativa administrativa de
+control.
+1 El presente reporte analiza exhaustivamente el marco legal aplicable, los métodos de
+acreditación judicial y los requisitos mínimos exigidos por los tribunales bonaerenses para
+obtener una reparación integral, considerando la existencia previa de un fallo favorable que
+acredita la causalidad basal entre la obra y el daño al inmueble.
+El régimen de responsabilidad civil en el Código Civil y
+Comercial de la Nación
+La base sustantiva de cualquier reclamo por daños y perjuicios en territorio argentino se
+encuentra en el Código Civil y Comercial de la Nación (CCCN), vigente desde agosto de 2015.
+Este cuerpo legal establece un sistema de responsabilidad que ha abandonado la exclusividad
+de la culpa para centrarse en la reparación del daño y la prevención del mismo.
+3
+La responsabilidad objetiva por riesgo o vicio de las cosas y
+actividades
+En el supuesto de daños causados por una construcción vecina, la doctrina y jurisprudencia
+dominante aplican el régimen de responsabilidad objetiva consagrado en el artículo 1757 del
+CCCN.
+5 Esta norma establece que toda persona responde por el daño causado por el riesgo o
+vicio de las cosas, o de las actividades que sean peligrosas por su naturaleza, por los medios
+empleados o por sus circunstancias.
+5 Las obras de edificación, especialmente aquellas que
+implican excavaciones, submuraciones o manipulación de fluidos en alturas, son calificadas
+intrínsecamente como actividades riesgosas.
+9
+El artículo 1758 del CCCN complementa este precepto al identificar a los sujetos responsables:
+el dueño y el guardián de la cosa o actividad.
+6 En este contexto, el propietario del terreno
+lindero (dueño de la obra) y el constructor o empresa constructora (guardián material)
+responden de manera concurrente ante el damnificado.
+2 El guardián es definido como quien
+ejerce, por sí o por terceros, el uso, la dirección y el control de la cosa, o quien obtiene un
+provecho de ella.
+6 Esta estructura de responsabilidad implica que el afectado no tiene la carga
+de probar la impericia o negligencia de los constructores; basta con acreditar la relación de
+causalidad entre la obra y el daño sufrido.
+8
+El principio de prevención y la mitigación del daño
+Un elemento innovador del CCCN es el deber de prevención del daño. El artículo 1710 impone a
+toda persona la obligación de adoptar medidas razonables para evitar que se produzca un
+daño o para disminuir su magnitud si este ya se ha activado.
+3 En el caso de filtraciones que
+persisten por casi dos años, el incumplimiento de este deber por parte del constructor —quien
+debió haber cesado la causa de la filtración inmediatamente— agrava su situación procesal.
+Asimismo, el artículo 1716 establece el deber de reparar cuando se viola el principio de no
+dañar a otro (alterum non laedere), el cual tiene raigambre constitucional en el artículo 19 de la
+Constitución Nacional.
+1
+Instituto Jurídico Norma de Respaldo Implicancia en el Proceso
+Responsabilidad Objetiva Art. 1757 CCCN No requiere probar la culpa del
+constructor, solo el riesgo y el
+daño.
+Sujetos Responsables Art. 1758 CCCN El dueño del terreno y el
+constructor responden de
+forma concurrente.
+Deber de Reparar Art. 1716 CCCN Obligación legal de resarcir el
+daño patrimonial y
+extrapatrimonial.
+Función Preventiva Art. 1710 CCCN Deber de la obra de cesar la
+causa de las filtraciones de
+inmediato.
+Reparación Integral Art. 1740 CCCN La indemnización debe restituir
+a la víctima al estado anterior al
+daño.
+Las relaciones de vecindad y el régimen de inmisiones
+El derecho de propiedad no es absoluto y su ejercicio está limitado por las normas de
+convivencia urbana. El CCCN regula los límites al dominio bajo el título de las relaciones de
+vecindad.
+5
+La normal tolerancia y el artículo 1973
+El artículo 1973 del CCCN es la norma fundamental para tratar el ingreso de fluidos, humedad y
+ruidos desde un predio vecino. Establece que las molestias que ocasionan el humo, calor,
+olores, luminosidad, ruidos, vibraciones e inmisiones similares (donde se encuadra el ingreso de
+agua y humedad) no deben exceder la normal tolerancia, teniendo en cuenta las condiciones
+del lugar y aunque mediare autorización administrativa para la actividad.
+12
+La jurisprudencia ha determinado que una humedad relativa constante superior al 80% y
+decenas de filtraciones que inhabilitan el uso pleno del hogar superan con creces cualquier
+umbral de tolerancia normal.
+1 Ante este escenario, el juez tiene la potestad de ordenar la
+remoción de la causa de la molestia, su cesación y la correspondiente indemnización de
+daños.
+14 Para ello, el magistrado debe ponderar el respeto al uso regular de la propiedad y el
+interés general, pero siempre priorizando la integridad de la vivienda preexistente.
+14
+El abuso del derecho en la construcción
+El artículo 10 del CCCN prohíbe el ejercicio abusivo de los derechos.
+5 Se considera abuso del
+derecho aquel que contraría los fines del ordenamiento jurídico o el que excede los límites
+impuestos por la buena fe, la moral y las buenas costumbres. Una obra que se prolonga en el
+tiempo (dos años) sin solucionar los daños colaterales que genera en el vecino incurre en una
+conducta abusiva, lo que facilita la imposición de sanciones conminatorias (astreintes) y el
+agravamiento de la indemnización por daño moral.
+9
+Marco legal en la Provincia de Buenos Aires y el
+Partido de Merlo
+La edificación en la localidad de Merlo se rige por una superposición de leyes provinciales y
+ordenanzas municipales que definen las obligaciones técnicas y legales de los constructores.
+Código de Edificación y ordenanzas de Merlo
+La Municipalidad de Merlo cuenta con un cuerpo normativo que regula la construcción, siendo
+el Código de Edificación (Ordenanza 757-HCD-2000 y modificatorias) el eje central.
+15 Este
+código establece que:
+1. Responsabilidad Profesional: El Director de Obra y el Constructor son responsables de
+cuanto ocurra en la obra, de los perjuicios ocasionados en los edificios linderos o por
+falta de precauciones, así como por la inobservancia de las disposiciones técnicas.
+16
+2. Seguridad de Fachadas y Muros: El propietario es responsable ineludible y permanente
+de la correcta ejecución y mantenimiento de los muros divisorios y techos, garantizando
+la seguridad propia y frente a terceros.
+17
+3. Seguros Obligatorios: Las prestatarias y contratistas deben contar con seguros de
+responsabilidad civil por daños a terceros y sus pertenencias.
+18
+La Ordenanza 5726/19 de Merlo refuerza la responsabilidad solidaria entre los antecesores y
+sucesores en el cumplimiento de las obligaciones derivadas de la edificación, permitiendo que
+la comuna actúe de oficio para realizar obras de seguridad a costa del propietario si este omite
+su realización ante daños linderos.
+17
+Normativa Provincial de Seguridad y Salud
+La Ley 6075/59 de la Provincia de Buenos Aires determina los alcances de la función del
+Director Técnico y el Constructor, quienes no solo responden administrativamente ante el
+municipio, sino civilmente ante los terceros afectados por vicios de construcción que generen
+humedades o fallas estructurales.
+16 Además, las normas de habitabilidad provinciales
+consideran que un ambiente con humedad extrema constante es insalubre, lo cual permite
+invocar la protección de la salud como un derecho constitucional afectado (Art. 41 de la
+Constitución Nacional y Art. 36 de la Constitución de la Provincia de Buenos Aires).
+1
+Estrategia procesal y acreditación del daño en el
+proceso judicial
+En la Provincia de Buenos Aires, el proceso civil se rige por el Decreto Ley 7425/68 (Código
+Procesal Civil y Comercial de la Provincia de Buenos Aires - CPCCBA).
+21 El éxito de la demanda
+de daños depende de la correcta acreditación de tres elementos: el daño, la relación causal y la
+cuantía.
+22
+El valor de la sentencia previa y la cosa juzgada
+Contar con un fallo favorable que ya demostró que el individuo (dueño/constructor) ocasionó
+los daños en el inmueble es una ventaja estratégica fundamental. Según el principio de cosa
+juzgada y la eficacia de la prueba trasladada, el nexo causal entre la obra y el estado de la casa
+ya es un "hecho acreditado".
+1 El nuevo proceso judicial debe centrarse en la extensión del
+daño hacia los bienes muebles y elementos personales, partiendo de la base de que la causa
+fuente (la filtración de la obra lindera) ya no es objeto de debate.
+23
+Prueba anticipada y aseguramiento de evidencia
+Dada la naturaleza evolutiva de los daños por humedad, el artículo 326 del CPCCBA permite
+solicitar medidas de prueba anticipada antes o durante el inicio del juicio.
+24 Esto es esencial
+cuando existe el riesgo de que la prueba se pierda o sea difícil de producir en la etapa
+ordinaria.
+26
+● Pericia de Ingeniería/Arquitectura: Para constatar la persistencia de las filtraciones y
+cómo estas afectan la red eléctrica y la estructura.
+6
+● Reconocimiento Judicial: El juez puede acudir personalmente a Merlo para verificar el
+olor, la sensación térmica y el estado de deterioro visual de los muebles y pisos de
+madera.
+25
+Medio de Prueba Artículo CPCCBA Objetivo Específico
+Documental Art. 383 y ss. Acompañar el fallo previo,
+boletas digitales y actas
+notariales.
+Testimonial Art. 424 y ss. Personas que den fe de la
+existencia previa de los
+muebles y su deterioro.
+Pericial Art. 457 y ss. Un experto (Ingeniero/Tasador)
+determina la cuantía
+económica del daño.
+Prueba Anticipada Art. 326 Asegurar la prueba de los
+daños que pueden agravarse o
+ser reparados.
+Reconocimiento Judicial Art. 477 Percepción directa del juez
+sobre el estado de
+habitabilidad del inmueble.
+Acreditación detallada de daños a bienes muebles y
+elementos personales
+Uno de los puntos críticos del reclamo es la valoración de bienes para los cuales no se poseen
+facturas físicas. Los tribunales bonaerenses aplican criterios de flexibilidad probatoria basados
+en presunciones.
+27
+Presunción de propiedad y posesión de buena fe
+El artículo 1895 del CCCN (antes 2412 del Código Civil) establece que la posesión de buena fe
+de cosas muebles no registrables vale por título.
+27 En un proceso judicial por daños en el hogar,
+se presume que los muebles, electrodomésticos y ropa presentes en el inmueble pertenecen a
+quien lo habita.
+6 La falta de facturas no impide el reclamo, ya que la propiedad puede
+acreditarse por otros medios:
+1. Prueba Testimonial: El artículo 424 del CPCCBA permite ofrecer testigos (vecinos,
+familiares, amigos) que hayan frecuentado la casa en los últimos dos años y puedan
+declarar sobre la existencia y calidad de los bienes antes del siniestro.
+27
+2. Prueba Indiciaria: El nivel de vida del actor y la coherencia de los bienes reclamados con
+el entorno social y económico sirven como presunciones "hominis" que el juez valora
+según la sana crítica.
+30
+El rol de la pericia tasadora y de ingeniería
+Para determinar el valor de los daños parciales o totales, es indispensable la intervención de
+peritos oficiales:
+● Perito Ingeniero Electricista: Es obligatorio para acreditar el daño en la red eléctrica,
+luminarias y electrodomésticos. El experto debe explicar cómo la humedad ambiente
+superior al 80% genera procesos de sulfatación en circuitos y riesgos de electrocución.
+6
+● Perito Tasador (Martillero): Determinará el valor de reposición de los muebles de
+madera, marcos metálicos y puertas.
+32 El artículo 1740 del CCCN exige la "reparación
+plena", lo que implica que el monto debe alcanzar para comprar bienes de similar calidad
+a los destruidos.
+4
+● Perito de Seguros (si hay citación en garantía): Verificará si los daños están cubiertos
+por la póliza de la obra lindera.
+2
+Validez jurídica de las fotos en redes sociales y prueba
+digital
+El usuario dispone de material fotográfico posteado en redes sociales con fechas de
+publicación. Este elemento es de altísimo valor probatorio si se introduce correctamente al
+proceso.
+Autenticidad y cadena de custodia
+Las fotografías digitales y las publicaciones en redes sociales se consideran "documentos
+electrónicos". Para que tengan fuerza probatoria plena y no sean impugnadas por la
+contraparte como "manipulables", deben cumplir con ciertos protocolos.
+33
+1. Pericia Informática: Un perito informático debe verificar la integridad de los archivos, los
+metadatos de las imágenes (que indican fecha, hora y coordenadas GPS) y la
+autenticidad del perfil de la red social donde fueron posteadas.
+34
+2. Actas Notariales de Constatación: El artículo 312 del CCCN otorga valor probatorio a
+las actas de escribano sobre hechos que el notario tiene a la vista.
+36 Un escribano puede
+certificar que en tal fecha ingresó a la cuenta de Facebook/Instagram del actor y
+constató la existencia de fotos del inmueble en condiciones óptimas previas a la obra.
+36
+3. Valor de las Capturas de Pantalla: La jurisprudencia actual de la Provincia de Buenos
+Aires considera que las capturas de pantalla son un indicio revelador que,
+complementado con el peritaje informático, adquiere el carácter de prueba documental
+robusta.
+33
+Reconocimiento de firmas y documentos digitales
+Para los comprobantes digitales o boletas electrónicas de algunos bienes, la Ley 25.506 de
+Firma Digital y el CCCN otorgan validez a los documentos electrónicos.
+38 En caso de
+desconocimiento por la contraparte, se puede solicitar una informativa (Art. 394 CPCCBA) a las
+empresas vendedoras para que confirmen la operación de compra.
+24
+Daños específicos: Análisis por categoría de elemento
+afectado
+El reclamo debe ser pormenorizado para facilitar la tarea del juez y los peritos. La normativa
+sustenta cada rubro de la siguiente manera:
+Red Eléctrica y Luminarias
+El contacto prolongado con agua y humedad extrema genera un vicio en el sistema eléctrico
+que pone en peligro la vida. La normativa de edificación de Merlo obliga a que las instalaciones
+sean seguras.
+15 El daño es acreditable mediante pericia técnica que demuestre la necesidad de
+un recableado total según las normas de la Asociación Electrotécnica Argentina (AEA), avalado
+por el artículo 1757 del CCCN sobre riesgo de la cosa.
+6
+Pisos de Madera y Marcos Metálicos
+La madera, al estar expuesta a humedad superior al 80%, sufre dilataciones y procesos de
+putrefacción irreversibles. Los marcos metálicos sufren corrosión acelerada. Estos son daños
+materiales directos (Art. 1737 CCCN) y su reparación debe incluir no solo el material, sino la
+mano de obra para la remoción y colocación.
+10 El fallo favorable previo es la prueba principal de
+que el agua provino de la obra.
+1
+Indumentaria, Telas y Mobiliario
+Los elementos de tela son los más afectados por el moho y los hongos derivados de la
+humedad ambiente. Al ser bienes fungibles o de consumo personal, la acreditación se basa en
+la prueba testimonial y la pericia tasadora.
+27 El artículo 1740 del CCCN requiere la restitución en
+especie o su equivalente en dinero.
+10
+El Daño Moral y la afectación a la integridad psíquica
+Vivir durante casi dos años en una casa inundada, con olor a humedad y pérdida constante de
+bienes personales, constituye una lesión a los derechos extrapatrimoniales del individuo.
+Presunción in re ipsa
+El daño moral en estos casos se considera "in re ipsa", es decir, surge de los mismos hechos.
+1
+No hace falta probar que el actor sufrió; se presume que cualquier persona sometida a esas
+condiciones de vida padece una angustia y un menoscabo a su dignidad que debe ser
+indemnizado.
+1 El artículo 1741 del CCCN legitima este reclamo, permitiendo al juez fijar una
+suma de dinero que brinde "satisfacciones sustitutivas y compensatorias".
+4
+Afectación a la Salud
+Si la humedad ha generado problemas respiratorios o alergias en los habitantes, se debe
+ofrecer prueba pericial médica. El derecho a la salud es un derecho de incidencia colectiva e
+individual reconocido en el CCCN y la Constitución Nacional.
+4
+Aspectos del Código Penal Argentino aplicables
+Aunque el proceso es predominantemente civil, el cuadro de situación podría tener aristas
+penales si se demuestra una conducta deliberada del constructor o propietario.
+Daño (Artículo 183 del Código Penal)
+El que destruyere, inutilizare o hiciere desaparecer una cosa mueble o inmueble, o un animal,
+total o parcialmente ajeno, será reprimido con prisión de quince días a un año.
+29 Si bien en las
+obras de construcción suele mediar imprudencia (culpa civil), la omisión de reparar la filtración
+durante dos años, sabiendo el daño que se causa, podría ser interpretada como un dolo
+eventual o una conducta que encuadra en la figura penal de daño.
+Violación de sellos y normas de seguridad
+Si el municipio de Merlo hubiese ordenado la paralización de la obra (Art. 7 de la Ordenanza de
+Edificación) y el constructor continuó trabajando, incurre en el delito de desobediencia a una
+autoridad pública.
+15
+Derechos y obligaciones del ciudadano en la Provincia
+de Buenos Aires
+El marco normativo nacional y provincial otorga al ciudadano una serie de facultades y deberes
+en este conflicto.
+Derechos
+1. Propiedad e Inviolabilidad del Domicilio: Protegidos por los artículos 17 y 18 de la
+Constitución Nacional. Ninguna obra puede invadir o degradar el hogar ajeno.
+1
+2. Información: El ciudadano puede requerir al Municipio de Merlo acceso al expediente de
+la obra lindera para identificar al Director de Obra y al Constructor matriculado (Art. 16 de
+la Ord. 5726/19).
+19
+Obligaciones
+1. Mitigación del Daño: La víctima tiene el deber de no agravar el daño (Art. 1710 CCCN).
+Esto implica que, si el constructor ofrece una reparación técnica válida, el vecino debe
+permitir el ingreso para evitar que el daño crezca, aunque esto debe hacerse bajo
+estricta supervisión pericial para no borrar evidencias.
+3
+2. Carga de la Prueba: Según el artículo 375 del CPCCBA, el actor debe probar los hechos
+en que funda su demanda.
+21 Sin embargo, la doctrina moderna de "Cargas Probatorias
+Dinámicas" (Art. 710 CCCN en analogía) sugiere que quien está en mejor condición de
+probar el origen del vicio (el constructor que tiene los planos y el control de la obra) debe
+colaborar en el proceso.
+29
+Conclusiones y recomendaciones para la acreditación
+efectiva
+El cuadro fáctico presentado es jurídicamente sólido para obtener una sentencia condenatoria
+amplia que incluya todos los bienes personales y el daño moral.
+Puntos clave para el éxito del reclamo:
+1. Fuerza del Fallo Previo: Utilizar la sentencia favorable como piedra angular de la
+demanda. Solicitar que se tenga por acreditado el nexo causal y la responsabilidad basal
+de la obra lindera.
+1
+2. Sistemática Pericial: No escatimar en peritos. El informe del Ingeniero Electricista y el
+del Tasador de Bienes Muebles son los que pondrán cifra al reclamo.
+6
+3. Certificación de Fotos Digitales: Iniciar con un acta notarial de constatación de las
+redes sociales y asegurar la prueba con un perito informático que valide los metadatos.
+34
+4. Cuantificación de la Humedad: Solicitar que el perito arquitecto utilice higrómetros
+certificados para dejar constancia en el expediente del nivel de humedad superior al 80%
+y su impacto en la salud y los materiales.
+6
+5. Responsabilidad Solidaria: Demandar conjuntamente al dueño del inmueble, al Director
+de Obra y a la empresa constructora, conforme al artículo 1758 del CCCN y el Código de
+Edificación de Merlo.
+2
+El ordenamiento jurídico argentino, a través del CCCN y las leyes procesales de la Provincia de
+Buenos Aires, protege la integridad del patrimonio y la dignidad de la vida familiar frente a la
+agresión que supone una obra mal ejecutada. La persistencia del daño por dos años habilita,
+además, el reclamo por la pérdida de valor venal del inmueble y el lucro cesante si la propiedad
+se encontraba destinada a algún uso productivo o alquiler.
+Obras citadas
+1. #Fallos Daños a favor de la vecina quien se vió afectada por la construcción de un
+edificio lindero a su propiedad | Microjuris Argentina al Día, fecha de acceso: abril
+10, 2026,
+https://aldiaargentina.microjuris.com/2025/01/14/fallos-danos-a-favor-de-la-veci
+na-quien-se-vio-afectada-por-la-construccion-de-un-edificio-lindero-a-su-pro
+piedad/
+2. Daños y perjuicios por obras linderas. – Blog - Ricardo Levi & Asociados, fecha de
+acceso: abril 10, 2026,
+https://ricardolevi.com.ar/blog/2020/05/15/danos-y-perjuicios-por-obras-linderas
+/
+3. LAS FUNCIONES DE LA RESPONSABILIDAD CIVIL EN EL CÓDIGO CIVIL Y
+COMERCIAL DE LA NACIÓN - derecho.uba.ar, fecha de acceso: abril 10, 2026,
+https://www.derecho.uba.ar/docentes/pdf/estudios-de-derecho-privado/alterini.p
+df
+4. El daño resarcible en el Código Civil y Comercial de la Nación Argentina, fecha de
+acceso: abril 10, 2026,
+https://mail.revistaius.com/index.php/ius/article/download/535/708
+5. Código Civil y Comercial de la Nación - InfoLEG - Ministerio de Economía y
+Finanzas Públicas - Argentina, fecha de acceso: abril 10, 2026,
+https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/tex
+act.htm
+6. 259.494 caratulados “Villegas, María Angélica c/ Gutiérrez, Norma Beatriz p/
+daños y perjuicios”, originarios del Tribunal de Gestión Asociada N° 1 de Mendoza,
+venidos a esta instancia en virtud del recurso de apelación interpuesto por la
+parte actora en contra de la sentencia de fs. 236/238., fecha de acceso: abril 10,
+2026,
+https://www2.jus.mendoza.gov.ar/listas/proveidos/vertexto.php?ide=7674655228
+7. RESPONSABILIDAD DEL CONSORCIO Y DE LOS CONSORCISTAS POR DAÑOS
+CAUSADOS POR COSAS Y PARTES COMUNES EN LA PROPIEDAD HORIZONTAL |
+Pensamiento Civil, fecha de acceso: abril 10, 2026,
+https://www.pensamientocivil.com.ar/doctrina/4545-responsabilidad-del-consorc
+io-y-consorcistas-danos-causados-cosas-y
+8. Artículos 1716 a 1736 - Código Civil y Comercial Argentino Audiolibro - YouTube,
+fecha de acceso: abril 10, 2026, https://www.youtube.com/watch?v=wYAsj0m_tq0
+9. CAMARA CIVIL - SALA G - Centro de Información Judicial (CIJ), fecha de acceso:
+abril 10, 2026,
+https://www.cij.gov.ar/http://www.cij.gov.ar/d/d/sentencia-SGU-fddc352e-6546-42
+1b-a920-2e6c8e7edd98.pdf
+10. Poder Judicial de la Nación, fecha de acceso: abril 10, 2026,
+https://www.cij.gov.ar/scp/d/sentencia-SGU-5aecfc4f-b992-48e2-857d-023563b3
+8485.pdf
+11. Daños y perjuicios. Daños causados en las relaciones de vecindad. Daños al
+inmueble lindero por la construcción de una obra., fecha de acceso: abril 10,
+2026,
+https://www.colegio-escribanos.org.ar/biblioteca/cgi-bin/ESCRI/ARTICULOS/4183
+0.pdf
+12. Debates doctrinarios - SAIJ, fecha de acceso: abril 10, 2026,
+https://www.saij.gob.ar/docs-f/ediciones/revistas/Reformas-legislativas_debatesdoctrinarios_codigo-civil-comercial_A1_N2.pdf
+13. el exceso en la normal tolerancia entre vecinos en el nuevo código.doc -
+Academia.edu, fecha de acceso: abril 10, 2026,
+https://www.academia.edu/36727635/el_exceso_en_la_normal_tolerancia_entre_v
+ecinos_en_el_nuevo_c%C3%B3digo_doc
+14. Soluciones para ruidos molestos - Derecho en Zapatillas, fecha de acceso: abril
+10, 2026,
+https://www.derechoenzapatillas.com/2015/soluciones-para-ruidos-molestos/
+15. Código de Edificación de Merlo | PDF | Multa (pena) | Estado (política) - Scribd,
+fecha de acceso: abril 10, 2026,
+https://es.scribd.com/document/596900216/O-757-2000-CODIGO-DE-EDIFICAC
+ION
+16. CODIGO DE LA CONSTRUCCION - Municipalidad de Saladillo |, fecha de acceso:
+abril 10, 2026,
+https://www.saladillo.gob.ar/sites/default/files/codigo_de_edificacion_1.pdf
+17. Informe 3 CÓDIGO DE ORDENAMIENTO URBANO TERRITORIAL PARA VILLA DE
+MERLO, SAN LUIS, fecha de acceso: abril 10, 2026,
+https://hcdvillademerlo.com/wp-content/uploads/2026/01/INFORME-3-Codigo-U
+rbano-2-1.pdf
+18. RESUMEN: - Municipalidad de Merlo, fecha de acceso: abril 10, 2026,
+http://www.merlo.gob.ar/portal/Documentos/Boletin/Boletin%20Oficial%20N%C2
+%BA%2035%20-%20Enero%202019.pdf
+19. ORDENANZA N° 5726 - Municipalidad de Merlo, fecha de acceso: abril 10, 2026,
+https://www.merlo.gob.ar/portal/Documentos/5726.pdf
+20. Código Civil y Comercial de la Nación Argentina - SUPREMA CORTE DE JUSTICIA,
+fecha de acceso: abril 10, 2026,
+https://www-2020.scba.gov.ar/leyorganica/CCyc30/CODIGO30.html
+21. Sistema de Información Normativa y Documental Malvinas ..., fecha de acceso:
+abril 10, 2026, https://normas.gba.gob.ar/ar-b/decreto-ley/1968/7425/7888
+22. La prueba anticipada en el proceso de daños y su correspondencia con la historia
+clínica - SAIJ, fecha de acceso: abril 10, 2026,
+https://www.saij.gob.ar/tomas-pedro-chialvo-prueba-anticipada-proceso-danossu-correspondencia-historia-clinica-dacf090044-2009-07/123456789-0abc-def
+g4400-90fcanirtcod
+23. Decreto-ley 7425/1968 - normas gba - Provincia de Buenos Aires |, fecha de
+acceso: abril 10, 2026, https://normas.gba.gob.ar/documentos/VrQlgSOB.html
+24. Código Procesal Civil y Comercial Buenos Aires Artículo 326. Prueba anticipada -
+Leyes-ar.com, fecha de acceso: abril 10, 2026,
+https://leyes-ar.com/codigo_procesal_civil_y_comercial_buenos_aires/326.htm
+25. CODIGO PROCESAL CIVIL Y COMERCIAL DE BUENOS AIRES - SAIJ, fecha de
+acceso: abril 10, 2026,
+https://www.saij.gob.ar/7425-local-buenos-aires-codigo-procesal-civil-comercial
+-buenos-aires-lpb0007425-1968-09-19/123456789-0abc-defg-524-7000bvorpy
+el
+26. Cámara de Apelaciones en lo Civil y Comercial – Departamento Judicial de
+Trenque Lauquen – Página 164 - Blogs, fecha de acceso: abril 10, 2026,
+https://blogs.scba.gov.ar/camaraciviltrenquelauquen/page/164/?query-75-page=8
+33&cst
+27. El dominio de los bienes muebles. Factura de compra y otras pruebas - SAIJ,
+fecha de acceso: abril 10, 2026,
+https://www.saij.gob.ar/jose-pedro-chiaromonte-dominio-bienes-muebles-factur
+a-compra-otras-pruebas-dacj930351-1993-08-09/123456789-0abc-defg1530-3
+9jcanirtcod
+28. fecha de acceso: diciembre 31, 1969,
+https://practicajuridica.com.ar/la-prueba-del-dano-en-el-juicio-de-danos-y-perju
+icios/
+29. Avizorando la prueba testimonial en el CPCCN, fecha de acceso: abril 10, 2026,
+https://aaba.org.ar/avizorando-la-prueba-testimonial-en-el-cpccn/
+30. Osvaldo A. Gozaíni Curso Derecho Probatorio Materiales - SCBA, fecha de
+acceso: abril 10, 2026,
+https://www.scba.gov.ar/includes/descarga.asp?id=28916&n=Curso+en+el+IEJ+de
++la+SC+Bs+As+(materiales)%5B1%5D.pdf
+31. Detalle - Tesis - 2028317 - Semanario Judicial de la Federación, fecha de acceso:
+abril 10, 2026, https://sjfsemanal.scjn.gob.mx/detalle/tesis/2028317
+32. Daños por filtraciones en la vivienda ¿Quién debe pagar los daños causados? -
+YouTube, fecha de acceso: abril 10, 2026,
+https://www.youtube.com/watch?v=DjwuQiJYkqE
+33. #Fallos Redes sociales: Para que las capturas de las pantalla de las redes sociales
+sirvan como prueba, debe acompañarse prueba complementaria | Microjuris
+Argentina al Día, fecha de acceso: abril 10, 2026,
+https://aldiaargentina.microjuris.com/2024/03/14/fallos-redes-sociales-para-que-l
+as-capturas-de-las-pantalla-de-las-redes-sociales-sirvan-como-prueba-debe-a
+companarse-prueba-complementaria/
+34. ¿Por qué las capturas de pantalla no son pruebas válidas en juicio? - Peritos
+Informaticos, fecha de acceso: abril 10, 2026,
+https://peritos-informaticos.com/blog/por-que-las-capturas-de-pantalla-no-sonpruebas-validas-en-juicios/
+35. Validez legal de las capturas de pantalla - GlobátiKa Peritos Informáticos, fecha
+de acceso: abril 10, 2026,
+https://peritosinformaticos.es/validez-legal-de-las-capturas-de-pantalla/
+36. LA PRUEBA ELECTRÓNICA Y LAS ACTAS DE CONSTATACIÓN NOTARIAL DE
+CONTENIDO DIGITAL - Revistas UBP, fecha de acceso: abril 10, 2026,
+https://revistas.ubp.edu.ar/index.php/derecho-notarial-registral/article/download/
+456/476/1485
+37. Capturas de pantalla y pantallazos en procesos judiciales - Ciberforensic, fecha
+de acceso: abril 10, 2026,
+https://www.ciberforensic.com/capturas-de-pantalla-y-pantallazos-en-procesosjudiciales
+38. Detalle - Precedente (Sentencia) - 23092 - Semanario Judicial de la Federación,
+fecha de acceso: abril 10, 2026, https://sjf2.scjn.gob.mx/detalle/ejecutoria/23092
+39. Código Procesal Penal comentado provincia de B

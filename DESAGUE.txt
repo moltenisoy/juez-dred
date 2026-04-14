@@ -1,0 +1,557 @@
+Análisis Integral del Régimen Jurídico de
+Desagües Pluviales, Servidumbres de
+Drenaje y Responsabilidad por Obras de
+Remodelación en el Partido de Merlo,
+Provincia de Buenos Aires
+El fenómeno de la urbanización acelerada en el Área Metropolitana de Buenos Aires ha traído
+consigo una creciente complejidad en las relaciones de vecindad, particularmente en lo que
+respecta a la gestión de las escorrentías urbanas y el mantenimiento de las infraestructuras de
+saneamiento. En el Partido de Merlo, esta problemática se manifiesta con frecuencia en
+conflictos derivados de remodelaciones edilicias que alteran sistemas de drenaje
+preexistentes, a menudo ignorando tanto la normativa técnica municipal como los principios
+fundamentales del derecho civil argentino. El presente informe técnico-jurídico analiza la
+legalidad de los sistemas de evacuación pluvial hacia la vía pública y las consecuencias legales
+de la modificación unilateral de instalaciones compartidas, evaluando las responsabilidades
+administrativas, civiles y penales involucradas.
+Marco Regulatorio de los Desagües Pluviales en el
+Partido de Merlo
+La regulación de los desagües pluviales en el territorio bonaerense se estructura a partir de un
+sistema de leyes concurrentes que abarcan desde el Código Civil y Comercial de la Nación
+hasta las ordenanzas específicas dictadas por el Honorable Concejo Deliberante de Merlo. El
+principio rector en la materia es la separación obligatoria de los sistemas de evacuación: las
+aguas pluviales (provenientes de la lluvia) deben ser gestionadas de manera independiente de
+las aguas servidas o cloacales.
+1
+Jerarquía Normativa Aplicable
+El ordenamiento jurídico argentino impone límites al ejercicio del derecho de propiedad en
+función del interés social y la seguridad pública. En el ámbito de Merlo, la normativa se
+desglosa de la siguiente manera:
+Ámbito Norma Principal Foco Regulatorio
+Nacional Código Civil y Comercial de Relaciones de vecindad,
+la Nación (CCyC) servidumbres y
+responsabilidad civil.
+3
+Provincial Ley 11.820 (Marco
+Regulatorio Sanitario)
+Prestación de servicios de
+agua y cloacas en Buenos
+Aires.
+5
+Provincial Decreto Ley 8.751/77
+(Código de Faltas
+Municipales)
+Régimen procedimental
+para sanciones
+municipales.
+7
+Municipal Ordenanza Nº 5839/2021
+(Código de Edificación)
+Normas técnicas de
+construcción y drenaje en
+Merlo.
+8
+Municipal Ordenanza Nº 5140/2017
+(Código de Faltas
+Municipal)
+Tipificación de infracciones
+y cuantía de multas.
+9
+La interrelación de estas normas establece que cualquier obra privada debe respetar no solo la
+estabilidad estructural, sino también el flujo natural y artificial de las aguas para evitar
+perjuicios a predios linderos y a la infraestructura pública.
+La Ilegalidad del Desagüe Pluvial en Caída Libre hacia
+la Vereda
+La consulta sobre la legalidad de evacuar aguas pluviales desde la altura del techo
+directamente a la vereda, aun con una separación de 20 cm respecto a la pared, encuentra una
+respuesta negativa contundente en la normativa vigente. El Código de Edificación del Partido
+de Merlo, reforzado por las disposiciones generales de la Provincia de Buenos Aires y los
+reglamentos técnicos asimilables, prohíbe explícitamente el volcado desordenado de aguas
+pluviales sobre la acera o vía pública.
+10
+Requerimientos Técnicos de Evacuación
+La evacuación de aguas de lluvia de techos, balcones y terrazas debe realizarse de forma
+canalizada. La normativa técnica RT-030908-020204-0205, que rige supletoriamente en la
+región ante la ausencia de especificaciones locales contrarias, establece que el destino
+obligatorio de los desagües pluviales es la calzada (el cordón cuneta), y no la vereda (acera).
+10
+Para que una instalación sea considerada legal, debe contar con los siguientes elementos:
+1. Embudos y Canaletas: Encargados de recoger el agua en el nivel del techo o cubierta.
+2. Caños de Lluvia (CLL): Conductos verticales que deben descender hasta el nivel del
+suelo. La práctica de "cortar" el caño a la altura del techo para que el agua caiga
+libremente es una infracción técnica grave, ya que genera riesgos de seguridad para los
+peatones y erosión del pavimento.
+10
+3. Condutales: Cañerías horizontales que deben instalarse bajo el nivel de la vereda. Estas
+cañerías conectan el pie del caño de lluvia con el cordón de la calle.
+10 El diámetro mínimo
+reglamentario para estos condutales es de 0,100 m, asegurando la capacidad necesaria
+para evacuar tormentas ordinarias sin anegar la propiedad privada o pública.
+10
+El Riesgo de la Caída Libre y la Separación de la Pared
+La separación de 20 cm respecto a la pared, si bien intenta evitar la humedad directa por
+contacto sobre el muro maestro, no subsana la ilegalidad del sistema. El agua al caer desde
+altura adquiere energía cinética que, al impactar sobre la vereda, provoca salpicaduras
+constantes hacia la fachada del vecino o hacia los transeúntes, configurando una "inmisión" que
+excede la normal tolerancia vecinal prevista en el artículo 1973 del CCyC.
+3
+Además, el Artículo 2.616 del código de fondo (en su interpretación doctrinaria aplicada al
+nuevo CCyC) establece que todo propietario debe mantener sus edificios de manera que la
+caída de aguas no dañe a los vecinos o transeúntes, bajo pena de satisfacer los daños e
+intereses causados por su negligencia.
+4 En Merlo, el incumplimiento de las normas sobre
+cercos y aceras se sanciona con multas de 1000 a 3000 módulos, según la Ordenanza
+5140/17.
+9
+Eliminación Unilateral de Sistemas de Desagüe
+Compartidos
+Un escenario frecuente en remodelaciones de fincas antiguas es la eliminación de sistemas de
+desagüe compartidos. Históricamente, muchas propiedades en Merlo Centro vertían sus
+excedentes pluviales en la red cloacal a través de conexiones mixtas. Si bien hoy estas
+conexiones están prohibidas por AySA y las leyes de saneamiento, su eliminación no puede ser
+arbitraria ni unilateral si afecta el servicio de una propiedad colindante.
+1
+Naturaleza Jurídica de los Desagües Compartidos: Servidumbres
+Cuando dos o más fincas utilizan un sistema común de desagüe que atraviesa una de las
+propiedades, nos encontramos ante una servidumbre de recibir aguas o de acueducto. El
+Código Civil y Comercial define la servidumbre como un derecho real que se establece entre
+dos inmuebles y que concede al titular del inmueble dominante (quien envía el agua) una
+utilidad sobre el inmueble sirviente (quien recibe el paso del agua).
+14
+El artículo 3.093 del código anterior (mantenido en espíritu por el nuevo código) calificaba
+estas servidumbres de recibir aguas como reales, continuas y aparentes si existiera una señal
+exterior permanente.
+14 El hecho de que un vecino, durante una remodelación, decida "cortar" o
+eliminar esta conexión sin el consentimiento del otro, constituye un acto de despojo de un
+derecho real y una alteración de la posesión. Aunque el sistema original fuera técnicamente
+deficiente (al verter pluviales en la red cloacal), el propietario del predio sirviente no puede
+extinguir la servidumbre por mano propia; debe recurrir a la justicia para solicitar la adecuación
+de los sistemas o la extinción legal de la carga si existen medios menos gravosos para el
+drenaje.
+3
+La Prohibición de Verter Pluviales a la Cloaca y su Impacto
+Es imperativo subrayar que el marco regulatorio vigente (Ley 11.820 y normas de AySA/ABSA)
+prohíbe terminantemente la conexión de desagües pluviales a la red cloacal.
+1 Esta prohibición
+responde a una necesidad técnica crítica: las redes cloacales son de "sistema separado" y
+están dimensionadas exclusivamente para efluentes domésticos.
+1
+El volcado de agua de lluvia en la cloaca produce los siguientes efectos negativos:
+● Sobrecarga Hidráulica: Durante tormentas, el volumen de agua de lluvia puede superar
+en diez o veinte veces el caudal de diseño de la cloaca.
+● Desbordes: El exceso de agua provoca que los efluentes mezclados salgan por las bocas
+de registro en la calle o, peor aún, retornen por los artefactos sanitarios (inodoros y
+piletas) de las viviendas, generando un riesgo epidemiológico severo.
+5
+● Fallas en el Tratamiento: Las plantas depuradoras como la Planta Ferrari en Merlo ven
+alterada su biología bacteriana debido a la dilución y el cambio de temperatura del agua,
+impidiendo el tratamiento adecuado del residuo.
+18
+No obstante, la existencia de esta infracción por parte del vecino no legitima la conducta del
+sujeto que elimina el conducto. La responsabilidad de la separación de efluentes es una carga
+que debe ser exigida administrativamente por el ente prestador (AySA) o el municipio, o bien
+dirimirse judicialmente mediante una acción de adecuación de obra.
+2
+Calificación Legal del Sujeto que Modifica el Sistema
+El comportamiento del sujeto que anula el sistema compartido y coloca un desagüe ilegal en la
+propiedad del vecino (o en el sector de vereda que lo afecta) puede calificarse bajo diversas
+figuras legales que abarcan el derecho civil, administrativo y penal.
+Carátula Judicial: Daños y Perjuicios y Acción Preventiva
+La carátula principal para iniciar una demanda judicial contra este sujeto es "Daños y Perjuicios
+- Responsabilidad Extracontractual". Para que esta acción prospere, deben acreditarse
+cuatro presupuestos básicos de la responsabilidad civil:
+1. Antijuridicidad: La conducta de eliminar un sistema compartido y reemplazarlo por uno
+prohibido (volcado desde altura a vereda) es contraria al ordenamiento jurídico y las
+ordenanzas locales.
+3
+2. Factor de Atribución: En este caso es el dolo (intención deliberada de perjudicar al
+vecino para ahorrarse costos de obra) o la culpa grave (negligencia extrema al ignorar las
+normas mínimas de edificación).
+7
+3. Daño: El vecino afectado sufre un daño real (destrucción de su sistema de drenaje) y un
+daño potencial o amenaza de daño (filtraciones en cimientos por el nuevo volcado e
+inminentes sanciones municipales).
+21
+4. Relación de Causalidad: Existe un nexo directo entre la obra de remodelación del sujeto
+y el perjuicio sufrido por el lindero.
+21
+Adicionalmente, bajo el nuevo Código Civil y Comercial, se debe interponer una "Acción
+Preventiva de Daños" (Arts. 1710 y 1711). Esta acción es independiente de la existencia de
+culpa y busca que el juez ordene el cese inmediato de la conducta peligrosa (el volcado de
+agua al vecino) antes de que se produzcan daños irreparables en la estructura edilicia.
+26
+Abuso de Derecho (Art. 10 CCyC)
+La calificación de Abuso de Derecho es pertinente si el sujeto alega que está eliminando la
+conexión pluvial a la cloaca porque "es ilegal". El ejercicio de un derecho (en este caso, el de
+cumplir con la prohibición de AySA) se considera abusivo cuando se realiza de manera
+contraria a la buena fe o con el fin exclusivo de dañar. Un propietario no puede "corregir" una
+ilegalidad propia o ajena creando una nueva ilegalidad mayor que perjudique al vecino. La
+justicia argentina ha sido clara en que los actos unilaterales e inconsultos que violan el
+reglamento de edificación o copropiedad no pueden ser amparados bajo el pretexto de una
+mejora.
+3
+Infracción Administrativa y Contravencional en Merlo
+Desde el punto de vista del poder de policía municipal, el sujeto ha incurrido en múltiples faltas.
+La Municipalidad de Merlo, a través de su Subsecretaría de Inspección General, puede labrar
+actas por infracciones al Código de Ordenamiento Urbano y al Código de Edificación.
+8
+Infracción Identificada Sanción en Merlo (Ord.
+5140/17)
+Agravantes
+Construir o remodelar sin
+permiso municipal
+1000 a 3000 módulos por
+m2
+Error o falseamiento de
+datos.
+9
+No resguardar la caída de
+materiales o fluidos a fincas
+linderas
+3000 módulos fijos Daño efectivo a la salud o
+propiedad.
+9
+Incumplimiento de normas
+sobre cercos y aceras
+1000 a 3000 módulos Impedir acceso a
+inspectores.
+9
+No presentar planos
+conforme a obra tras
+modificación
+Multa según valuación fiscal Reincidencia en la falta.
+9
+En Merlo, el valor del módulo se actualiza periódicamente y las multas pueden ser
+acumulativas. El Artículo 32 de la Ordenanza 5839/21 permite al municipio no solo multar, sino
+ordenar el retiro obligatorio de cualquier instalación en contravención.
+8
+Evaluación de la Responsabilidad Penal (Art. 183 Código Penal)
+El Código Penal Argentino tipifica el delito de Daño en su artículo 183, estableciendo penas de
+prisión para quien destruyere o inutilizare una cosa mueble o inmueble ajena.
+31
+● Aplicación al Caso: El sistema de desagüe compartido es un bien de valor económico
+del cual el vecino afectado es coposeedor o titular de un derecho de uso (servidumbre).
+Su destrucción unilateral para instalar un sistema que perjudica al otro puede encuadrar
+en esta figura penal.
+● Jurisprudencia: Si bien los tribunales penales tienden a derivar estos casos a la esfera
+civil, si la acción provocó inundaciones que pusieron en peligro la seguridad de las
+personas o la salubridad, la causa puede escalar a delitos contra la seguridad pública o
+ambiental.
+32
+Procedimiento Administrativo en el Partido de Merlo
+para la Denuncia de Obras
+Para el ciudadano afectado, el inicio del reclamo debe seguir un protocolo formal ante las
+autoridades municipales para asegurar la prueba necesaria para un juicio posterior.
+Pasos para el Reclamo Vecinal
+1. Denuncia Presencial o Virtual: El afectado debe dirigirse a la Mesa de Entradas del
+Palacio Municipal (Av. Libertador 391) o a la Subsecretaría Contravencional (B. Mitre
+150).
+29 Es fundamental detallar el domicilio exacto y, si es posible, identificar al profesional
+responsable de la obra clandestina.
+35
+2. Inspección de Obra Particular: La Dirección de Obras Particulares debe enviar un
+inspector para verificar la existencia de planos aprobados para la remodelación. La
+ausencia de estos planos habilita la clausura inmediata de la obra.
+35
+3. Acta de Infracción: El inspector labra un acta donde consta que el sistema de desagüe
+no cumple con la normativa técnica (CLL que no llega a la calzada).
+7
+4. Resolución del Juez de Faltas: El Juez de Faltas de Merlo dictará sentencia imponiendo
+las multas de la Ordenanza 5140/17 e intimando al infractor a presentar un plano de
+adecuación de desagües en un plazo que suele ser de 10 a 30 días.
+7
+El Rol de AySA y el ERAS
+Dado que el sistema original vertía en la cloaca, también es posible realizar una denuncia ante
+AySA (0800-321-AGUA).
+1 La empresa puede intimar a ambos vecinos a la separación de
+circuitos, pero el acta de AySA servirá para demostrar que el vecino que realizó la
+remodelación actuó sin la supervisión técnica requerida, agravando su responsabilidad civil.
+2
+Análisis de la Jurisprudencia en Conflictos de Pluviales
+y Linderos
+La jurisprudencia en la Provincia de Buenos Aires, y específicamente en los departamentos
+judiciales que abarcan Merlo (como Morón), ha sentado criterios firmes sobre la
+responsabilidad en obras de modificación.
+Doctrina del "Daño Temido" y el Interdicto de Obra Nueva
+El Interdicto de Obra Nueva (Art. 619 CPCCBA) es la vía procesal idónea cuando la obra del
+vecino aún no ha finalizado. La justicia bonaerense ha determinado que no es necesario que la
+obra se realice en el predio ajeno para que el interdicto prospere; basta con que la obra en el
+predio propio cause una turbación o daño al vecino.
+39 El caso de un desagüe que "escupre"
+agua hacia la propiedad lindera es un ejemplo clásico de turbación a la posesión.
+En fallos como "Aun Cecilia Marcela c/ A+P Emprendimientos S.A.", se determinó que los errores
+de diseño en instalaciones pluviales que generan humedad en linderos son responsabilidad
+directa de quien ejecuta la obra.
+23 Asimismo, en "Bazzi c/ Trsar", la Cámara Nacional de
+Apelaciones (que sirve de guía doctrinaria local) sentenció que si las cañerías que causan el
+daño son de uso exclusivo de una unidad o finca, el dueño de esta debe responder
+íntegramente por los daños, descartando la responsabilidad del consorcio o de la
+municipalidad por falta de control.
+24
+Valoración de la Humedad y Filtraciones como Daño Cierto
+La jurisprudencia considera que la humedad no es un daño estético, sino un daño estructural
+que compromete la salubridad y estabilidad del edificio.
+22 Un desagüe que evacua a la vereda a
+20 cm de una pared provocará, indefectiblemente, la saturación del suelo de fundación. Los
+tribunales suelen ordenar no solo la corrección del desagüe, sino también la indemnización por
+"daño moral" debido a las perturbaciones en la vida cotidiana y el "daño material" por el costo
+de las reparaciones.
+21
+Síntesis Técnica: Por qué el Sistema Propuesto es
+Ilegal y Peligroso
+Para sustentar una demanda o una defensa técnica ante el Juzgado de Faltas, es necesario
+comprender la física del drenaje pluvial urbano.
+Parámetro Técnico Situación en el Caso Requisito de la Norma
+(RT-030908 / Ord. 5839)
+Continuidad del CLL Truncado a la altura del
+techo.
+Debe llegar al nivel del
+suelo y conectarse al
+condutal.
+10
+Punto de Descarga Vereda (Acera). Calzada (Cordón cuneta).
+10
+Material del Conducto Variable (usualmente PVC). Bajo vereda debe ser
+material resistente a la
+carga peatonal.
+10
+Pendiente Nula (caída libre). Mínima del 2% para evitar
+estancamientos y olores.
+2
+Protección de Cimientos 20 cm (Insuficiente). Protección perimetral
+impermeable obligatoria.
+42
+La evacuación desde altura genera un efecto de "lavado" del terreno. En el Partido de Merlo,
+donde existen zonas con suelos de variada capacidad de absorción (como en la Cuenca del
+Arroyo Las Víboras o Hortiguera), el manejo desordenado del agua contribuye a anegamientos
+frecuentes que la municipalidad intenta mitigar con nuevas redes de desagüe pluvial.
+18
+Consecuencias del Acto Unilateral: Un Análisis de
+Tercer Orden
+Más allá de la multa y la reparación, el acto del vecino de Merlo tiene implicancias que afectan
+el valor inmobiliario y la seguridad jurídica de ambas propiedades.
+Desvalorización del Inmueble y Vicios Ocultos
+Si el vecino afectado decidiera vender su propiedad, la existencia de humedades causadas por
+el desagüe ilegal del lindero constituiría un "vicio redhibitorio" (vicio oculto) que podría dar lugar
+a una acción de redhibición o reducción de precio por parte del futuro comprador.
+21 Por lo
+tanto, el daño causado por el vecino remodelador no es solo físico, sino patrimonial a largo
+plazo.
+Exposición a Sanciones Cruzadas
+El hecho de que el sistema anterior vertiera en la cloaca expone al vecino afectado a ser
+multado por AySA o la municipalidad si no denuncia la situación.
+1 La inacción puede
+interpretarse como consentimiento de una instalación prohibida. Por ello, la denuncia
+administrativa es un mecanismo de defensa legal necesario para "deslindar responsabilidad"
+ante las autoridades de saneamiento.
+2
+El Concepto de "Sustentabilidad" en la Nueva Ordenanza de Merlo
+La Ordenanza 5839/2021 de Merlo no es meramente punitiva; busca incentivar el drenaje
+natural. El Artículo 24 exige un 15% de suelo absorbente, permitiendo el uso de adoquinados o
+piedras naturales.
+8 Un vecino que realiza una obra que aumenta la superficie impermeable
+(como una remodelación que cubre patios) y encima evacua el agua de manera desordenada a
+la vereda, se sitúa en franca oposición a la política ambiental del distrito, lo que suele ser
+tomado por los jueces de faltas como un agravante para aplicar el máximo de las multas (3000
+módulos).
+8
+Recomendaciones para la Acción Legal en Merlo
+Dada la gravedad de la conducta del sujeto que modifica unilateralmente los desagües, se
+sugiere una estrategia integral.
+Estrategia de Prueba
+Es fundamental contratar a un perito arquitecto matriculado en el Colegio de Arquitectos de la
+Provincia de Buenos Aires (CAPBA) para que realice un "Informe de Estado de Situación".
+25 Este
+informe debe:
+● Identificar la tubería ilegal y su impacto en la vereda.
+● Documentar la anulación de la conexión preexistente.
+● Estimar el costo de la obra necesaria para que ambas fincas tengan desagües pluviales
+independientes y reglamentarios (es decir, cada uno con su CLL y condutal propio hasta
+la calle).
+Mediación Prejudicial Obligatoria
+En la Provincia de Buenos Aires, antes de llegar a juicio civil, se debe pasar por una etapa de
+mediación obligatoria. En esta instancia, la carátula de "Daños y Perjuicios" permite negociar
+que el infractor pague la totalidad de la obra de adecuación como forma de evitar un juicio
+costoso y con altas probabilidades de condena.
+21
+Denuncia ante la Subsecretaría Contravencional
+Simultáneamente, se debe mantener activa la vía administrativa en Merlo. El expediente
+municipal es una pieza de convicción vital. Si la Municipalidad de Merlo ordena el "retiro de la
+instalación" bajo el Artículo 32 de la Ord. 5839/21, el vecino afectado ya no necesita probar la
+ilegalidad en el juicio civil, pues la autoridad administrativa ya la ha declarado.
+8
+Conclusiones del Estudio de Caso
+La evacuación de aguas pluviales desde el techo directamente a la vereda en el Partido de
+Merlo es una acción manifiestamente ilegal que contraviene el Código de Edificación
+municipal y las leyes provinciales de saneamiento. La separación de 20 cm no mitiga la
+infracción, ya que la norma exige la conducción subterránea hasta la calzada.
+La eliminación unilateral de un desagüe compartido, incluso si este fuera técnicamente
+inadecuado por verter en la cloaca, constituye un abuso de derecho y una alteración de
+servidumbre. El sujeto responsable incurre en responsabilidad civil por daños (materiales y
+morales) y en faltas administrativas severas sancionadas con multas de hasta 3000 módulos.
+Jurídicamente, el afectado debe encuadrar el caso como una "Acción Preventiva de Daños
+con Cese de Inmisiones y Resarcimiento de Perjuicios". Esta estrategia no solo busca la
+reparación del daño ya causado por la humedad, sino que obliga al infractor a realizar la
+inversión necesaria para una infraestructura de drenaje legal, protegiendo así la integridad
+estructural del inmueble lindero y cumpliendo con las exigencias de sostenibilidad urbana que
+el Partido de Merlo ha implementado en su legislación más reciente.
+Obras citadas
+1. La red de desagües cloacales - AySA, fecha de acceso: abril 11, 2026,
+https://www.aysa.com.ar/media-library/usuarios/informacion_util/datos_utiles_par
+a_el_usuario/la_red_de_desagues_cloacales.pdf
+2. Reglamento Instalaciones Sanitarias AySA 2025 – Resumen Oficial - Grupo Insani,
+fecha de acceso: abril 11, 2026,
+https://grupoinsani.com.ar/reglamento-instalaciones-sanitarias-aysa-2025/
+3. Artículo 239 - Código Civil y Comercial de la Nación Argentina - Ley Fácil, fecha
+de acceso: abril 11, 2026,
+https://leyfacil.com.ar/codigo-civil-y-comercial/articulo-239/
+4. Art. 2.614. Los propietarios de bienes raíces no pueden constituir sobre ellos
+derechos enfitéuticos, ni imponerles censos ni rentas que se extiendan a mayor
+término que el de cinco años, cualquiera sea el fin de la imposición - Normativa |
+Argentina.gob.ar, fecha de acceso: abril 11, 2026,
+https://www.argentina.gob.ar/normativa/recurso/109481/texactley340_libroIII_titul
+oVI/htm
+5. PROVINCIA DE BUENOS AIRES PODER EJECUTIVO La Plata, 10 de abril de 2002.
+VISTO la Ley 11820, los Decretos del Poder Ejecutivo Pr - Justicia Colectiva, fecha
+de acceso: abril 11, 2026,
+https://justiciacolectiva.org.ar/wp-content/uploads/2016/12/Reglamento-del-servi
+cio-de-agua-provincia-de-buenos-aires.pdf
+6. Ley 11820 - normas gba - Provincia de Buenos Aires |, fecha de acceso: abril 11,
+2026, https://normas.gba.gob.ar/documentos/BeWelF70.html
+7. DECRETO LEY 8.751/77 El Gobernador de la Provincia de Buenos Aires, sanciona y
+promulga con fuerza de LEY CODIGO DE FALTAS MUNIC, fecha de acceso: abril
+11, 2026,
+https://www.mseg.gba.gov.ar/areas/marconormativo/codigos%20provinciales/co
+digo_de_faltas_municipales.pdf
+8. RESUMEN: - Municipalidad de Merlo, fecha de acceso: abril 11, 2026,
+http://www.merlo.gob.ar/portal/Documentos/Boletin/BOLETINOFICIAL68-Octubr
+e2021.pdf
+9. Ordenanza Nº5140/17 - Sistema de Boletines Oficiales Municipales (SIBOM),
+fecha de acceso: abril 11, 2026,
+https://sibom.slyt.gba.gob.ar/bulletins/683/contents/1187019
+10. 020204-0205 DESAGÜES PLUVIALES, fecha de acceso: abril 11, 2026,
+https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RES-MJGGC-SS
+REGIC-99-20-ANX-5.pdf
+11. Plano - ABC, fecha de acceso: abril 11, 2026,
+https://abc2.abc.gob.ar/sites/default/files/planos_93.pdf
+12. Art. 2.611. Las restricciones impuestas al dominio privado sólo en el interés
+público, son regidas por el derecho administrativo., fecha de acceso: abril 11,
+2026,
+https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/109481/tex
+actley340_libroIII_tituloVI.htm
+13. Cuidado de la red cloacal - ABSA, fecha de acceso: abril 11, 2026,
+https://www.aguasbonaerenses.com.ar/absa-y-la-comunidad/cuidado-de-la-redcloacal/
+14. TITULO XIII - Jus.gob.ar, fecha de acceso: abril 11, 2026,
+https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/109481/tex
+actley340_libroIII_tituloXIII.htm
+15. “El dominio del agua en el nuevo Código Civil y Comercial de la Nación” - SEDICI,
+fecha de acceso: abril 11, 2026,
+https://sedici.unlp.edu.ar/bitstream/handle/10915/68673/Documento_completo.pd
+f-PDFA.pdf?sequence=1&isAllowed=y
+16. Las formas jurídicas de las fuentes y reservas de agua en los Andes argentinos -
+SciELO, fecha de acceso: abril 11, 2026,
+https://www.scielo.org.ar/pdf/beg/n116/2525-1813-beg-116-103.pdf
+17. Servidumbres de desagües de aguas pluviales de edificios - Gastalver Abogados,
+fecha de acceso: abril 11, 2026,
+https://www.gastalverabogados.com/abogado-especialista-vivienda/consultas-re
+sueltas-servidumbres/120-servidumbres-vertidos-aguas-lluvia-vecino
+18. Red secundaria cloacal merlo centro - MapaInversiones Argentina - Obras
+Públicas, fecha de acceso: abril 11, 2026,
+https://mapainversiones.obraspublicas.gob.ar/Proyecto/PerfilProyecto/1649782
+19. Saneamiento - AySA, fecha de acceso: abril 11, 2026,
+https://www.aysa.com.ar/Que-Hacemos/Saneamiento
+20. LEY N° 451 – Régimen de faltas de la Ciudad de Buenos Aires (Última
+Modificación Normativa: 22/02/2022) - Ministerio Público Fiscal, fecha de acceso:
+abril 11, 2026,
+https://mpfciudad.gob.ar/storage/archivos/1bb3b89c4e07ca7b1885575ab570603
+d.pdf
+21. Goteras o humedades por culpa de algún vecino ¿Qué hago? - YouTube, fecha de
+acceso: abril 11, 2026, https://www.youtube.com/watch?v=Zi9d-RXoSLE
+22. corte superior de justicia de áncash - LP, fecha de acceso: abril 11, 2026,
+https://img.lpderecho.pe/wp-content/uploads/2024/02/Exp.-382-2020-0-LPDere
+cho.pdf
+23. #Fallos Pasado por agua: Responsabilidad concurrente del Consorcio y del
+propietario de la unidad funcional donde se encontraba la araña de desagote
+que, mediante filtraciones, dañó el inmueble del accionante | Microjuris Argentina
+al Día, fecha de acceso: abril 11, 2026,
+https://aldiaargentina.microjuris.com/2022/04/06/fallos-pasado-por-agua-respon
+sabilidad-concurrente-del-consorcio-y-del-propietario-de-la-unidad-funcionaldonde-se-encontraba-la-arana-de-desagote-que-mediante-filtraciones-dano-e
+l-inmueble-del-ac/
+24. Para el dueño lo que es del dueño - Diario Judicial, fecha de acceso: abril 11, 2026,
+https://www.diariojudicial.com/news-29940-para-el-dueno-lo-que-es-del-dueno
+25. SENTENCIA N° 153 - PORTAL DEL SAE - Poder Judicial de Tucumán, fecha de
+acceso: abril 11, 2026,
+https://portaldelsae.justucuman.gov.ar/estrado-judicial/ver/eyJpdiI6IitQMW96Y0J
+HVnZ2R0JCdHlnY1BiVmc9PSIsInZhbHVlIjoiNXVaOXJyV3hadlMxejBaRkszYU1ESU4
+2UXFRdC90ajRLSmVUOHBUMGIrY2xpQitVd3c3NGFsV0lQbU9OZW1IWiIsIm1hYyI
+6ImJiYzNmZmYzNjk3YTVmNDAyYjVkMWI5NjljY2VjNGRlYWMzMThjN2MxYTE1N2M
+2YWFkYTcxNjAyMzhmYjkyZmUiLCJ0YWciOiIifQ==
+26. Desagües pluviales Cuenca Hortiguera Partidos Morón, Merlo e Ituzaingó Estudio
+de Impacto Ambiental - Ministerio de Ambiente, fecha de acceso: abril 11, 2026,
+https://www.ambiente.gba.gob.ar/sites/default/files/EIA%20Desagues%20Pluviale
+s%20Cuenca%20Hortiguera_0.pdf
+27. Obra nueva. Criterios jurisprudenciales - SAIJ, fecha de acceso: abril 11, 2026,
+https://www.saij.gob.ar/carlos-viso-obra-nueva-criterios-jurisprudenciales-dacf0
+00024-2000-02/123456789-0abc-defg4200-00fcanirtcod
+28. Jurisprudencia actual sobre construcciones no autorizadas en consorcios, fecha
+de acceso: abril 11, 2026,
+https://arquitectosdeabogados.com/jurisprudencia-actual-sobre-construcciones
+-no-autorizadas-en-consorcios/
+29. Consultas Frecuentes | Merlo Buenos Aires - Municipalidad de Merlo, fecha de
+acceso: abril 11, 2026, https://www.merlo.gob.ar/contacto/
+30. regimen de penalidades por faltas, fecha de acceso: abril 11, 2026,
+https://www.concejomdp.gov.ar/biblioteca/docs/o4544.html
+31. Digesto de Aguas | Senado de Mendoza, fecha de acceso: abril 11, 2026,
+https://www.senadomendoza.gob.ar/wp-content/uploads/2019/03/digesto-de-ag
+uas.pdf
+32. CODIGO DE FALTAS MUNICIPALES - Concejo Deliberante de Cipolletti, fecha de
+acceso: abril 11, 2026, https://cdcipolletti.gob.ar/digesto/archivos/ord-39-74.pdf
+33. El caso ambiental emblemático en la jurisprudencia argentina (“Mendoza”) y su
+posible futuro en el Sistema Interamericano de Derechos Humanos - Dialnet,
+fecha de acceso: abril 11, 2026,
+https://dialnet.unirioja.es/descarga/articulo/9653831.pdf
+34. Mendoza, Beatriz Silvia y otros c/ Estado Nacional y otros s/ daños y perjuicios
+(daños derivados de la contaminación ambiental del Río Matanza - Riachuelo). -
+SAIJ, fecha de acceso: abril 11, 2026,
+https://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma
+-buenos-aires-mendoza-beatriz-silvia-otros-estado-nacional-otros-danos-perju
+icios-danos-derivados-contaminacion-ambiental-rio-matanza-riachuelo-fa0800
+0047-2008-07-08/123456789-740-0008-0ots-eupmocsollaf
+35. Fiscalización y Control de Obras | Buenos Aires Ciudad, fecha de acceso: abril 11,
+2026,
+https://buenosaires.gob.ar/gcaba_historico/preguntas-frecuentes-de-la-agc/fisca
+lizacion-y-control-de-obras
+36. ¿Qué es el permiso de obra municipal? - Estudio Arq. Carlos Paredes, fecha de
+acceso: abril 11, 2026,
+https://www.paredestudio.com.ar/que-es-el-permiso-de-obra-municipal/
+37. Pliego de Condiciones Particulares, fecha de acceso: abril 11, 2026,
+https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-DIS-MEDGC-DG
+PARE-202-25-ANX.pdf
+38. Multas de Tránsito en Merlo - Consulta y Pago Online - Multabot, fecha de
+acceso: abril 11, 2026, https://multabot.com.ar/multas-merlo
+39. SAIJ, fecha de acceso: abril 11, 2026,
+https://www.saij.gob.ar/resultados.jsp?o=0&p=25&f=Total%7CFecha%7CEstado%
+20de%20Vigencia%5B5%2C1%5D%7CTema/Derecho%20procesal/procesos%20
+especiales/interdictos%20posesorios/interdicto%20de%20obra%20nueva%7COr
+ganismo%5B5%2C1%5D%7CAutor%5B5%2C1%5D%7CJurisdicci%F3n%5B5%2C
+1%5D%7CTribunal%5B5%2C1%5D%7CPublicaci%F3n%5B5%2C1%5D%7CColecci
+%F3n%20tem%E1tica%5B5%2C1%5D%7CTipo%20de%20Documento&s=fecha-r
+ango|DESC&v=colapsada
+40. (PDF) Ley de Aguas de 1884. Comentada y concordada - ResearchGate, fecha de
+acceso: abril 11, 2026,
+https://www.researchgate.net/publication/291348659_Ley_de_Aguas_de_1884_C
+omentada_y_concordada
+41. 138-67CM2-2019 I.-ENCABEZAMIENTO DE LA SENTENCIA. CÁMARA PRIMERA DE
+LO CIVIL DE LA PRIMERA SECCIÓN DEL CENTRO: San Salvador, a -
+Jurisprudencia, fecha de acceso: abril 11, 2026,
+https://www.jurisprudencia.gob.sv/DocumentosBoveda/D/1/2020-2029/2020/01/E
+13D0.PDF
+42. ESPECIFICACIONES TECNICAS GENERALES - ABC, fecha de acceso: abril 11,
+2026, https://abc2.abc.gob.ar/sites/default/files/etg_compressed.pdf
+43. Inicio del Código de Edificación - Sistema de Boletines Oficiales Municipales
+(SIBOM), fecha de acceso: abril 11, 2026,
+https://sibom.slyt.gba.gob.ar/bulletins/425/contents/1165772/download_annex?an
+nex_id=1099
+44. ORDENANZA Nº 912 - Municipalidad de Merlo, fecha de acceso: abril 11, 2026,
+http://www.merlo.gob.ar/portal/Documentos/Medioambiente/ORDENANZA912-95
+.pdf
+45. Daños por filtraciones en la vivienda ¿Quién debe pagar los daños causados? -

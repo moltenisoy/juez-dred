@@ -1,0 +1,804 @@
+DOCUMENTACIÓN JURÍDICO-TÉCNICA UNIFICADA
+DAÑOS POR OBRA LINDERA EN PARTIDO DE MERLO
+Recolección y sistematización de normativa, articulado, faltas e instrumentos probatorios
+Provincia de Buenos Aires — Jurisdicción Argentina
+
+
+ALCANCE DEL DOCUMENTO
+Este documento compila, unifica y sistematiza, sin margen para interpretación subjetiva, la totalidad del material normativo, técnico y jurídico extraído de las fuentes de investigación. Unifica el contenido de la documentación jurídica especializada y la documentación técnico-jurídica de permisos, seguridad y normativa estructural.
+
+Su función es servir de referencia objetiva para la construcción de una demanda civil por daños y perjuicios derivados de la ejecución de una obra en inmueble lindero en el Partido de Merlo.
+
+La obra demandada consistió en la edificación de una primera planta sobre un inmueble que solo contaba con planta baja, incluyendo modificaciones en la instalación del suministro de agua, el sistema de desagüe de techos y la reubicación de cargas pesadas sobre la losa existente. Durante y con posterioridad a su ejecución, se produjeron daños directos e indirectos al inmueble lindero, sus bienes y sus habitantes, forzando finalmente el abandono temporal del domicilio.
+
+⚠ ADVERTENCIA: Este documento NO reemplaza el criterio de un profesional del derecho habilitado. Su contenido es una sistematización informativa. Toda norma citada debe ser verificada en su versión vigente antes de ser utilizada en actuaciones judiciales o extrajudiciales.
+
+
+1. ENCUADRE GENERAL DEL CASO
+
+1.1. Hechos determinantes
+Inmueble demandado: propietario ejecutó la construcción de una planta alta sobre inmueble de planta baja única, en el Partido de Merlo, Provincia de Buenos Aires.
+
+Modificaciones técnicas realizadas en la obra del demandado:
+• Edificación de planta superior (primer piso) sobre estructura de planta baja preexistente.
+• Modificación de la instalación del suministro de agua.
+• Modificación del sistema de desagüe de techos.
+• Reubicación de cargas pesadas sobre la losa de techo existente.
+
+1.2. Consecuencias acreditadas sobre el inmueble lindero y sus habitantes
+Las siguientes consecuencias fueron documentadas:
+• Humedad relativa ambiente superior al 70-80% de forma continua en todos los ambientes, durante aproximadamente dos años.
+• Riesgo eléctrico crítico: tablero de gestión de fases y tomacorrientes expuestos a caída de líquido en episodios de lluvia y humedad sostenida.
+• Pudrición de indumentaria: más del 50% de las prendas quedaron inutilizables por moho y humedad.
+• Desprendimiento progresivo de fragmentos del techo en el sector del baño.
+• Degradación de colchón, almohada, sabanas y elementos de cama.
+• Inhabilitación del segmento eléctrico del dormitorio por riesgo a la seguridad, con pérdida del sistema de calefacción eléctrica.
+• Afectación de la vida de relación, socialización y vida de pareja por condiciones habitacionales indignantes.
+• Afectación emocional y psicológica derivada del padecimiento prolongado.
+• Abandono forzoso del domicilio por riesgos a la integridad física y condiciones indignas, con costos de logística, mudanza y vivienda sustituta.
+
+1.3. Factor de atribución de responsabilidad: régimen objetivo
+La construcción en inmueble lindero califica como actividad riesgosa bajo el derecho argentino. Los factores de atribución son OBJETIVOS: el afectado no debe probar culpa o negligencia. Basta acreditar el nexo causal entre la obra y el daño sufrido.
+
+Los sujetos responsables son solidarios y concurrentes:
+
+SUJETO RESPONSABLE | FUNDAMENTO LEGAL | TIPO DE RESPONSABILIDAD
+Dueño del inmueble | CCyC Art. 1758 | Objetiva — por ser dueño de la cosa/actividad riesgosa
+Director de Obra | CCyC Art. 1269 / Ord. 757 Merlo | Profesional — por negligencia en vigilancia y control
+Empresa/Constructor | CCyC Art. 1273 | Solidaria — como ejecutor material de la obra
+Municipio de Merlo | Ley 11.723 PBA / Ord. 757/00 | Por omisión del poder de policía (si hubo denuncias previas sin respuesta)
+
+
+2. MARCO CONSTITUCIONAL
+
+2.1. Constitución Nacional
+ARTÍCULO | DERECHO PROTEGIDO | APLICACIÓN AL CASO
+Art. 17 | Derecho de propiedad | Ninguna obra puede invadir o degradar el hogar ajeno. La penetración de humedad y fragmentos de techo al inmueble lindero viola el derecho de propiedad.
+Art. 18 | Inviolabilidad del domicilio | El hogar es inviolable. La degradación sistemática de las condiciones del domicilio por acción ajena viola este derecho.
+Art. 19 | Principio alterum non laedere | Base constitucional del deber de reparar. La conducta que daña a otro activa la obligación de reparación integral.
+Art. 41 | Derecho a un ambiente sano | La proliferación de moho, hongos y aire viciado por humedad extrema constituye una degradación ambiental doméstica protegida constitucionalmente.
+Art. 75 inc. 22 | Pacto DESCA — Art. 11 | Integrado con jerarquía constitucional. Define la vivienda adecuada como la que ofrece protección contra el frío, la humedad y el viento. La obra lindera convirtió la vivienda en inadecuada según este estándar internacional.
+
+2.2. Constitución de la Provincia de Buenos Aires
+ARTÍCULO | DERECHO PROTEGIDO | APLICACIÓN AL CASO
+Art. 28 | Derecho a un ambiente sano (PBA) | Los habitantes tienen derecho a un ambiente sano. La proliferación de moho y el aire viciado son degradación ambiental doméstica. La SCBA ha reconocido este derecho en conflictos de vecindad.
+Art. 36 Inc. 7 | Derecho a la vivienda digna | La Provincia reconoce el derecho a la vivienda digna. Dormir en condiciones de frío extremo sin calefacción y sobre materiales degradados vulnera este derecho social.
+Art. 36 Inc. 8 | Derecho a la salud | La humedad extrema que genera problemas respiratorios, alergias y proliferación de hongos vulnera el derecho a la salud reconocido en la Constitución provincial.
+
+
+3. CÓDIGO CIVIL Y COMERCIAL DE LA NACIÓN (CCyC) — LEY 26.994
+NOTA: Vigente desde agosto de 2015. Norma jerárquica superior en materia de responsabilidad civil, daños, relaciones de vecindad y derechos reales. Verificar vigencia de artículos antes de su uso procesal.
+
+3.1. Responsabilidad civil — Marco general
+ARTÍCULO | DENOMINACIÓN | CONTENIDO APLICABLE AL CASO
+Art. 10 | Abuso del derecho | Prohíbe el ejercicio abusivo de derechos. Una obra que se prolonga sin solucionar daños colaterales por dos años incurre en conducta abusiva. Habilita la imposición de astreintes y el agravamiento del daño moral.
+Art. 1710 | Deber de prevención | Toda persona debe adoptar medidas razonables para evitar daños o disminuir su magnitud. El constructor que no cesó la causa de filtraciones incumple este deber. El incumplimiento agrava su situación procesal.
+Art. 1711 | Acción preventiva | Cualquier persona amenazada en su derecho puede solicitar judicialmente que se detenga la obra o se tomen medidas de seguridad ANTES de que ocurra un daño. Aplicable para vecinos que observan colocación de cargas sin apuntalamiento.
+Art. 1716 | Deber de reparar | La violación del principio de no dañar (alterum non laedere) genera la obligación de reparar. Raigambre constitucional en Art. 19 CN.
+Art. 1726 | Relación causal | Establece el nexo causal como presupuesto de la responsabilidad.
+Art. 1737 | Concepto de daño | Daño material (patrimonial): lesión a bienes materiales. Incluye red eléctrica, piso de madera, marcos metálicos, indumentaria, colchón, electrodomésticos.
+Art. 1738 | Rubros indemnizables | La indemnización comprende: pérdida o disminución del patrimonio, lucro cesante, pérdida de la chance y afectación de actividades espirituales o de esparcimiento. La imposibilidad de invitar visitas o pareja por estado del inmueble es pérdida de chance y afectación espiritual.
+Art. 1740 | Reparación plena | La indemnización debe restituir a la víctima al estado anterior al daño. El monto debe alcanzar para bienes de similar calidad a los destruidos. No caben indemnizaciones parciales.
+Art. 1741 | Daño extrapatrimonial (moral) | Legitimado activo: el damnificado directo. El juez fija un monto que brinde satisfacciones sustitutivas y compensatorias. Vivir dos años en esas condiciones constituye lesión a derechos extrapatrimoniales.
+Art. 1757 | Responsabilidad objetiva | Toda persona responde por el daño causado por el riesgo o vicio de las cosas, o de actividades peligrosas por su naturaleza, medios o circunstancias. Las obras de edificación son actividades riesgosas.
+Art. 1758 | Sujetos responsables | El dueño y el guardián responden concurrente y solidariamente. El guardián es quien ejerce el uso, dirección y control de la cosa, o quien obtiene provecho de ella.
+
+3.2. Relaciones de vecindad
+ARTÍCULO | DENOMINACIÓN | CONTENIDO APLICABLE AL CASO
+Art. 1973 | Inmisiones — Normal tolerancia | Las molestias por humo, calor, olores, luminosidad, ruidos, vibraciones e inmisiones similares (humedad incluida) no deben exceder la normal tolerancia. Una humedad relativa constante superior al 70-80% que inhabilita el uso pleno del hogar supera todo umbral de tolerancia normal. El juez puede ordenar: remoción de la causa, cesación e indemnización.
+Art. 2006 | Clasificación de muros | Define muros: lindero, encaballado, contiguo, medianero, privativo, de cerramiento forzoso. Relevante para determinar qué tipo de muro involucra la obra y quién es responsable de su mantenimiento y modificación.
+Art. 2010 | Presunción de medianería | El muro de cerramiento forzoso en núcleos urbanos se presume medianero hasta una altura de 3 metros.
+Art. 2021 | Derecho de uso del muro medianero | Cada condómino puede adosar construcciones, anclarlas, empotrar tirantes o abrir cavidades en toda su extensión, BAJO CONDICIÓN: que no resulte peligro para la solidez de la pared compartida. La sola producción de filtraciones y fisuras prueba el incumplimiento de esta condición.
+Art. 2022 | Elevación del muro medianero | Quien alza el muro asume que la base tiene capacidad portante suficiente o que fue reforzada debidamente. La nueva extensión es privativa del que la hizo hasta que el vecino adquiera la medianería. Si se producen daños por insuficiencia de la base, la responsabilidad recae sobre quien ejecutó la elevación.
+Art. 2024 | Obligación de reconstrucción | Si se demuela un muro para hacerlo más firme, la obligación de levantar la nueva pared es inmediata y sin demora. La reconstrucción debe mantener o mejorar las características de aislamiento y estabilidad.
+Art. 2630 | Aguas pluviales | Los techos deben construirse de manera que las aguas caigan sobre el propio suelo o la vía pública. Está PROHIBIDO el escurrimiento sobre el suelo del vecino. Esta norma es crítica respecto a la modificación del sistema de desagüe de techos ejecutada por el demandado.
+Art. 2615 | Relaciones de vecindad — derechos de paso por obras | Fundamento de la obligación de autorización previa del vecino para trabajos en su inmueble.
+Art. 2627 | Obligación de indemnizar daños por trabajos sobre inmueble ajeno | Responsabilidad directa del demandado desde el primer día de trabajo no autorizado sobre techo lindero.
+
+3.3. Contratos de obra — Responsabilidad profesional
+ARTÍCULO | DENOMINACIÓN | CONTENIDO APLICABLE AL CASO
+Art. 1269 | Director de obra | Tiene la guarda jurídica de la construcción. Es responsable de que no se violen las disposiciones municipales ni las normas de seguridad estructural. Su responsabilidad es objetiva en excavaciones, submuraciones y apuntalamientos.
+Art. 1273 | Constructor / Ruina | El constructor responde solidariamente. Se considera ruina no solo el derrumbe total sino el deterioro que torna la cosa impropia para su destino. Un baño con desprendimiento de techo y un sistema eléctrico inhabilitado por humedad constituyen ruina parcial.
+
+3.4. Bienes muebles y prueba
+ARTÍCULO | DENOMINACIÓN | CONTENIDO APLICABLE AL CASO
+Art. 1895 | Posesión de buena fe de cosas muebles | La posesión de buena fe de cosas muebles no registrables vale por título. Se presume que los muebles, electrodomésticos y ropa presentes en el inmueble pertenecen a quien lo habita. La falta de facturas no impide el reclamo.
+Art. 312 | Actas notariales | Valor probatorio de las actas de escribano sobre hechos que el notario tiene a la vista. Un escribano puede certificar el estado del inmueble y el contenido de publicaciones en redes sociales.
+Art. 1203 | Frustración del uso (analogía) | Si un evento externo torna la cosa impropia para su destino, el habitante tiene derecho a interrumpir su ocupación sin pérdida de derechos. Aplicado por analogía al abandono forzoso del domicilio.
+Art. 710 (analogía) | Cargas probatorias dinámicas | Dispone que quien está en mejor condición de probar el origen del vicio (el constructor que tiene los planos y el control de la obra) debe colaborar con el proceso probatorio.
+
+
+4. CÓDIGO PENAL DE LA NACIÓN — ASPECTOS APLICABLES
+NOTA: El proceso principal es civil. Las figuras penales aplican si se acredita conducta deliberada o inobservancia de reglamentos que genera peligro común. Su invocación requiere evaluación profesional del caso específico.
+
+ARTÍCULO | FIGURA PENAL | CONTENIDO Y APLICACIÓN AL CASO
+Art. 183 | Daño | Quien destruyere, inutilizare o hiciere desaparecer una cosa mueble o inmueble, total o parcialmente ajena, es reprimido con prisión de 15 días a 1 año. La omisión de reparar la filtración durante dos años, sabiendo el daño que se causa, puede interpretarse como dolo eventual.
+Art. 186 | Estrago | Configura delito el que causare estrago por medio de inundación u otro medio de acción devastadora. Aplicable si se acredita que el desvío de aguas hacia el inmueble lindero fue deliberado.
+Art. 189 | Estrago culposo | El que por imprudencia, negligencia, impericia en su arte o profesión, o inobservancia de los reglamentos, causare un peligro común, es reprimido. Si el director de obra o constructor, por inobservancia del Reglamento de Edificación de Merlo, no aisló las aguas de lluvia de la instalación eléctrica vecina, incurre en esta figura. La jurisprudencia en PBA impone inhabilitación profesional a arquitectos por riesgos estructurales y de servicios.
+Art. 191 | Peligro común | El peligro se configura cuando el daño no afecta solo a una persona, sino que crea un riesgo para cualquiera que ingrese a la vivienda o circule cerca. Un cortocircuito por humedad en una casa lindera puede derivar en un incendio que afecte a toda la manzana.
+Art. 229 | Peligro colectivo por derrumbe | Aplicable a quien, dirigiendo o ejecutando una construcción, inobserve las reglas del arte de construir y cree un peligro de derrumbe por carga no verificada sobre losa.
+Art. 84 y 94 | Lesiones o muerte culposa | Delito culposo — si el sobrepeso no verificado o las condiciones de riesgo causan daños físicos o muerte. Fundamento: inobservancia de los reglamentos CIRSOC y normas de izaje.
+
+NOTA PROCESAL: Si el Municipio de Merlo hubiese ordenado la paralización de la obra (Art. 7 de la Ordenanza de Edificación) y el constructor continuó trabajando, incurre en el delito de desobediencia a la autoridad pública. La inobservancia de reglamentos por parte del profesional agrava las penas del Código Penal.
+
+
+5. NORMATIVA PROVINCIAL — PROVINCIA DE BUENOS AIRES
+
+5.1. Decreto-Ley 8912/77 — Ordenamiento Territorial y Uso del Suelo
+NOTA: ⚠ ADVERTENCIA DE VERIFICACIÓN PENDIENTE: verificar estado de vigencia y modificaciones del Decreto-Ley 8912/77 y sus decretos reglamentarios, en particular el Decreto 1549/83.
+
+Toda modificación edilicia que altere la superficie cubierta o la densidad de un inmueble debe someterse a los indicadores urbanísticos definidos por esta ley.
+
+INDICADOR | DEFINICIÓN | IMPLICANCIA EN EL CASO
+F.O.S. (Factor de Ocupación del Suelo) | Coeficiente de superficie máxima de la parcela que puede ocupar la edificación en planta. | Una modificación que extienda la construcción hacia techos o avance sobre retiros laterales puede violar el F.O.S. de la zona.
+F.O.T. (Factor de Ocupación Total) | Determina la superficie cubierta total que se puede construir en el lote. | La edificación de un primer piso sobre inmueble de planta baja debe computarse en el F.O.T. Si se supera, la obra es irregular.
+Densidad Neta | Cantidad de habitantes permitidos por hectárea. | En áreas sin servicios de agua y cloacas completos, la densidad se reduce para evitar contaminación de napas, lo que puede limitar ampliaciones.
+Retiros y espacios libres (Art. 37 y Dec. 1549/83) | Regulan iluminación y ventilación. Los patios internos como medio de ventilación deben tener lado mínimo de 2,50 m y superficie de 10 m². | La ley prohíbe que las obras desmejoren las condiciones de ventilación del vecino. La edificación del primer piso puede haber generado esta desmejora.
+
+5.2. Ley 11.769 — Seguridad Eléctrica Provincial
+Establece el marco regulatorio del sector eléctrico provincial. Las empresas prestatarias y los usuarios están sujetos a normas de seguridad que prohíben el funcionamiento de redes expuestas a humedad severa por riesgo de electrocución e incendio. El riesgo eléctrico documentado en el tablero y tomacorrientes del inmueble afectado encuadra directamente bajo esta ley.
+
+5.3. Ley 6075/59 — Director Técnico y Constructor
+Determina los alcances de la función del Director Técnico y el Constructor en la Provincia de Buenos Aires. No solo responden administrativamente ante el municipio, sino CIVILMENTE ante terceros afectados por vicios de construcción que generen humedades o fallas estructurales.
+
+5.4. Decreto 351/79 — Reglamentario de la Ley 19.587 (Higiene y Seguridad en el Trabajo)
+En su capítulo de instalaciones eléctricas, prohíbe taxativamente locales húmedos sin protección estanca. Aplicable por analogía para juzgar la negligencia del constructor al no prever la protección de las instalaciones eléctricas del vecino ante el ingreso de humedad. Regula también izaje de cargas y seguridad en maniobras.
+
+5.5. Decreto 911/96 — Salud y Seguridad en la Construcción
+Reglamentación específica para la industria de la construcción.
+• Arts. 52 a 55: Protecciones colectivas para trabajo en altura ≥ 2 metros (barandas, redes, plataformas).
+• Art. 43: Certificación de competencia para operadores de grúa.
+• Art. 20: Legajo Técnico de Higiene y Seguridad elaborado por profesional habilitante.
+
+5.6. Resolución 1069/91 — Salud y Seguridad en la Construcción
+Exige la instalación de pantallas de protección hacia los predios linderos y vallas provisorias de 2 metros de altura para evitar la caída de objetos. El incumplimiento de esta exigencia es una falta técnica y administrativa documentable.
+
+5.7. Ley Provincial 11.723 — Responsabilidad municipal por omisión
+NOTA: Verificar si esta es la ley correcta para fundar la responsabilidad del municipio por omisión del poder de policía, o si corresponde otro instrumento normativo provincial.
+
+5.8. Ley 10.405 — Colegio de Arquitectos de la Provincia de Buenos Aires (CAPBA)
+Art. 2° y Art. 23: Matrícula y ejercicio profesional. Omitir el visado previo de un informe técnico estructural se considera una falta grave del matriculado, lo que eleva el caso al Tribunal de Disciplina del CAPBA. El comitente que contrató a un profesional que actuó sin visado asume responsabilidad directa.
+
+5.9. Ley 5.920 y Decreto-Ley 6.075 — Colegio de Ingenieros de la Provincia de Buenos Aires (CIPBA)
+Colegiación de ingenieros y ejercicio profesional.
+
+5.10. Ley 12.490 — Aportes previsionales colegiales (CAAITBA)
+20% total (10% profesional / 10% comitente) sobre honorarios mínimos.
+
+
+6. NORMATIVA MUNICIPAL — PARTIDO DE MERLO
+
+6.1. Código de Edificación de Merlo — Ordenanza 757-HCD-2000 y modificatorias
+NOTA: ⚠ ADVERTENCIA: Las modificatorias posteriores (Ord. 5835/2021 y Ord. 5839/21) deben ser verificadas en el texto oficial publicado por la Municipalidad de Merlo. Confrontar cada artículo con la versión vigente.
+
+6.1.1. Responsabilidades del Director de Obra y Constructor
+El Director de Obra y el Constructor son responsables de:
+• Cuanto ocurra en la obra.
+• Los perjuicios ocasionados en los edificios linderos.
+• Los daños derivados de falta de precauciones.
+• La inobservancia de las disposiciones técnicas del Código.
+
+El propietario es responsable ineludible y permanente de la correcta ejecución y mantenimiento de los muros divisorios y techos, garantizando la seguridad propia y frente a terceros.
+
+6.1.2. Artículos específicos de aplicación
+ARTÍCULO / SECCIÓN | CONTENIDO Y APLICACIÓN AL CASO
+Art. 162 | Protección de linderos. Toda obra debe adoptar medidas de protección al predio vecino.
+Art. 167 | Seguridad de la obra. El responsable de la obra debe garantizar la seguridad de terceros en todo momento.
+Art. 168 | Paralización de obras. La Dirección de Obras Públicas de Merlo puede paralizar la obra ante falta de medidas de protección a linderos. El desprendimiento de revoque o mampostería es causa de sanción administrativa y clausura. Si se realizaron denuncias previas y el municipio no actuó, existe responsabilidad por omisión del poder de policía.
+Art. 338 | Denominación de muros según su ubicación.
+Art. 339 | Espesores mínimos de muros: muro exterior portante 30 cm (ladrillo macizo), muro divisorio/medianero 30 cm, tabiques interiores 15 a 20 cm, muros de material no cerámico requieren aprobación especial.
+Art. 343 | Protección contra la humedad. Las capas aisladoras horizontales y verticales deben ser continuas para evitar humedad ascendente o por capilaridad. El incumplimiento es causa directa de las filtraciones documentadas.
+Art. 344 | Los muros exteriores deben ser revocados y terminados para garantizar su conservación y evitar deterioro del predio vecino.
+Sección XXV completa | Muros y cerramientos. Incluye todas las obligaciones relacionadas con la correcta ejecución y mantenimiento de muros linderos.
+
+6.1.3. Seguros obligatorios
+Las prestatarias y contratistas DEBEN contar con seguros de responsabilidad civil por daños a terceros y sus pertenencias. La verificación de la existencia y vigencia de esta póliza es una diligencia procesal prioritaria para citar en garantía a la aseguradora.
+
+6.1.4. Procedimiento de Permiso de Obra (obligatorio para la obra demandada)
+La edificación de un primer piso sobre inmueble de planta baja REQUIERE PERMISO DE OBRA (no simple Aviso de Obra), con presentación de:
+• Planos generales en escala 1:100.
+• Planos de estructuras con memoria de cálculo.
+• Certificado de Uso Conforme según Código de Planeamiento Urbano.
+• Encomienda de Tareas Profesionales del Colegio de Arquitectos o Ingenieros.
+• Profesional matriculado (Arquitecto o Ingeniero) como responsable.
+
+Las siguientes modificaciones también requieren Permiso de Obra (no Aviso):
+• Refaccionar o transformar estructuras resistentes (modificación de instalación de agua).
+• Construir nuevos edificios o ampliar los existentes.
+• Abrir, cerrar o modificar vanos en fachadas o paredes linderas.
+
+6.1.5. Reglas para colocación de cargas sobre losas
+EXIGENCIA | APLICACIÓN AL CASO
+Estudio de suelos | En ampliaciones significativas sobre linderos, el municipio puede exigir estudio de suelos que justifique que las bases soportarán el incremento de carga sin asentamientos diferenciales que fisuren el predio vecino.
+Cota de nivel | Todos los detalles de azoteas, terrazas y chimeneas deben estar acotados respecto al plano de comparación de la cota del predio para verificar alturas máximas permitidas por zona.
+Escurrimiento de aguas pluviales | Los planos deben incluir esquema de pendientes de escurrimiento. Se prohíbe el uso de gárgolas que lancen agua hacia el predio lindero. Directamente vulnerado por la modificación del sistema de desagüe de techos.
+Cargas de instalaciones | Las instalaciones que produzcan calor, frío o humedad sobre losas deben cumplir distancias mínimas a los ejes divisorios y poseer sistemas de aislación de vibraciones.
+
+6.2. Ordenanza 5726/19 — Merlo
+Refuerza la responsabilidad solidaria entre antecesores y sucesores en el cumplimiento de las obligaciones derivadas de la edificación.
+Permite que la comuna actúe de oficio para realizar obras de seguridad a costa del propietario si este omite realizarlas ante daños a linderos.
+Art. 16: El ciudadano puede requerir al Municipio de Merlo acceso al expediente de la obra lindera para identificar al Director de Obra y al Constructor matriculado. Este derecho de acceso al expediente es una herramienta procesal prioritaria.
+
+6.3. Ordenanza 5835/2021 — Actualización del Código de Edificación
+Actualización del Código de Edificación de Merlo. Mantiene las exigencias de la Ordenanza madre 757-HCD-2000.
+
+6.4. Ordenanza 5839/2021 — Estanqueidad de techos
+Establece explícitamente que los sistemas de techos y terrazas de obras nuevas DEBEN contar con protecciones hidrófugas (membranas) que impidan la filtración a linderos. La ausencia de membrana certificada en la obra demandada es una violación directa a esta ordenanza.
+
+6.5. Código de Faltas de Merlo — Ordenanza 520/93 (complementaria de la 493/92)
+Sanciones por deficiencias que afecten la estabilidad o seguridad de construcciones. Constituye la vía administrativa de sanción complementaria a la vía civil.
+Estructuras no ajustadas a reglamentos técnicos: Clausura si la estructura no se ajusta a los cálculos; Suspensión de firma 6 meses para el profesional.
+
+6.6. Ordenanza 5140/17 — Faltas Graves
+Inciso K, Art. 1: Tipifica como Falta Grave construir sin permiso municipal.
+Sanción: Multas de 1.000 a 3.000 módulos por m², paralización de obra y posible clausura e incluso demolición de lo construido sin permiso.
+
+6.7. Ordenanza Fiscal 5616/2018
+Regula derechos de construcción. Art. 44 y actualizaciones fiscales.
+Art. 141 y 143: Derechos de construcción calculados sobre superficie y tipo de obra.
+Art. 144: Final de Obra / Conforme a Obra — relevamiento final tras la colocación del equipo.
+Faculta al Departamento Ejecutivo para aplicar multas equivalentes al 100% del valor del tributo actualizado y proceder a la clausura inmediata si se detecta riesgo para terceros.
+
+6.8. Código Urbano de Merlo
+Arts. 8.5.7 y 8.5.8: Convenio privado de unificación de reservorios entre propietarios de parcelas lindantes, con presentación obligatoria ante la Municipalidad.
+Art. 8.5.9: Informe de la Autoridad Municipal Hidráulica: dictamen no vinculante sobre el sistema de almacenamiento de aguas.
+
+
+7. NORMATIVA TÉCNICA ESTRUCTURAL — REGLAMENTOS CIRSOC Y NORMAS AEA
+
+Los reglamentos CIRSOC (Centro de Investigación de los Reglamentos Nacionales de Seguridad para las Obras Civiles) son de aplicación OBLIGATORIA para todas las construcciones en el territorio nacional. El incumplimiento de sus disposiciones constituye mala práctica profesional documentable en pericia técnica.
+
+7.1. CIRSOC 101 — Cargas Permanentes y Sobrecargas Mínimas
+
+7.1.1. Sobrecargas mínimas para cubiertas (uso en el caso)
+TIPO DE CUBIERTA / USO | SOBRECARGA MÍNIMA | RELEVANCIA EN EL CASO
+Cubierta no accesible (techo convencional) | Fórmula de reducción según pendiente y área — mínimo 0,25 kN/m² | El techo original del demandado era de este tipo.
+Cubierta accesible / vivienda privada (terraza/azotea) | 2 kN/m² (200 kg/m²) | Al edificar el primer piso, el techo de losa pudo convertirse en terraza accesible. Si se superó esta sobrecarga sin verificación estructural, hay falta técnica grave.
+Azoteas para jardines o reuniones | Más de 2 kN/m² | Si la nueva terraza tiene ese uso, la carga aumenta.
+Locales con afluencia de público | Sin posibilidad de reducción | Si el nuevo piso tiene acceso público.
+
+7.1.2. Cargas de impacto y equipos mecánicos — Art. 4.6 CIRSOC 101
+Si la modificación implicó la colocación de equipos sobre la losa (tanques de reserva, unidades de aire acondicionado, etc.), se requieren los siguientes incrementos:
+
+TIPO DE EQUIPO | INCREMENTO OBLIGATORIO
+Maquinaria de ascensores | 100% sobre la carga calculada
+Maquinaria liviana con motor | 20% sobre la carga calculada
+Unidades de movimiento alternativo | 50% sobre la carga calculada
+Cargas concentradas (cualquier elemento) | Capacidad mínima de carga puntual en posición más desfavorable, independiente de la sobrecarga distribuida
+
+7.1.3. Clasificación técnica de cargas pesadas (750 kg+)
+Según CIRSOC 101, una carga de 750 kg o más constituye intervención en seguridad estructural:
+
+Tipo de Carga | Descripción Técnica | Aplicación a equipos de 750 kg+
+Carga Permanente (D) | Peso de materiales y equipos fijos | Peso propio del equipo y su base de apoyo
+Sobrecarga (L) | Cargas variables por uso y ocupación | Materiales transitorios o equipos desplazables
+Carga Concentrada | Fuerza aplicada en un área reducida | Puntos de apoyo de la maquinaria o base
+Acción de Impacto | Incremento por efectos dinámicos | Vibraciones de motores o maquinaria alternativa
+
+El Art. 4.2 del CIRSOC 101 especifica que las losas deben ser verificadas ante cargas concentradas, las cuales a menudo imponen condiciones más severas que las sobrecargas uniformemente distribuidas.
+
+Art. 4.6 del CIRSOC 101 — Factor de impacto: Si la carga de 750 kg proviene de maquinaria con partes móviles, el peso nominal debe incrementarse mediante factores de impacto que varían desde el 20% para maquinaria liviana hasta el 100% para maquinaria de ascensores o equipos de movimiento alternativo violento.
+
+7.2. CIRSOC 201 — Diseño de Estructuras de Hormigón (basado en ACI 318)
+Argentina adoptó la versión 2025, armonizada con ACI 318-19, vigente desde enero 2026 (Res. 11/2026-APN-SOP#MEC).
+
+REQUISITO | CONTENIDO Y APLICACIÓN AL CASO
+Resistencia mínima del hormigón | Resistencia característica mínima establecida para estructuras. Si la losa existente no cumple con la resistencia adecuada para las nuevas cargas, su uso como soporte del primer piso es irregular.
+Control de deflexiones — Estado Límite de Servicio | Las losas que soportan elementos no estructurales susceptibles de dañarse por grandes deformaciones (paredes de mampostería lindera, capas impermeabilizantes rígidas) no deben exceder una flecha de l/480, donde l es la luz del tramo.
+Cuantía mínima de armadura por temperatura | Dado que las losas de cubierta en la Provincia de Buenos Aires sufren grandes amplitudes térmicas, el reglamento exige una cuantía mínima de armadura por temperatura para evitar fisuras que permitan el ingreso de agua al vecino. El incumplimiento de esta cuantía puede ser causa directa de las filtraciones.
+Fenómeno de punzonamiento | Una carga puntual elevada en el centro de un paño de losa puede generar una falla por tracción diagonal, donde el equipo literalmente 'atraviesa' la losa de forma súbita. Este mecanismo de falla es técnicamente consistente con los daños estructurales descriptos (rajaduras, rotura de cielo raso con desprendimiento).
+Deformación diferida (flecha diferida) | El hormigón continúa deformándose bajo carga constante. Si la losa ya presentaba fisuración, la adición de una carga puntual de casi una tonelada puede acelerar procesos de corrosión en las armaduras.
+
+7.3. Normas AEA — Asociación Electrotécnica Argentina
+Las normas de la AEA son el estándar técnico para instalaciones eléctricas en Argentina. Un Perito Ingeniero Electricista debe determinar si la red eléctrica del inmueble afectado requiere un recableado total según las normas AEA, explicando cómo la humedad ambiente superior al 70-80% genera procesos de sulfatación en circuitos y riesgos de electrocución. El informe pericial sustenta el reclamo bajo el Art. 1757 del CCyC.
+
+7.4. Normas IRAM
+IRAM 3691: Homologación de andamios.
+IRAM 3622: Certificación de líneas de vida.
+
+
+8. SEGURIDAD E HIGIENE EN LA CONSTRUCCIÓN — MARCO LEGAL NACIONAL
+
+Marco legal: Ley 19.587/72 (Higiene y Seguridad en el Trabajo), Decreto 351/79 y Decreto 911/96 (reglamentación específica para construcción).
+
+8.1. Afiliación de Trabajadores a ART y Certificado de Cobertura
+Todos los trabajadores deben estar registrados y cubiertos por una Aseguradora de Riesgos del Trabajo. Los trabajadores sin cobertura no pueden operar legalmente en obra.
+Base legal: Ley 24.557/95 — Ley de Riesgos del Trabajo.
+
+Documentación requerida:
+• Certificado de Cobertura de ART: original con listado de personal declarado.
+• Cláusula de No Repetición de la ART: renuncia expresa a iniciar acciones de repetición contra el comitente.
+• Formulario 931 AFIP: presentación actualizada del personal contratado.
+• Seguro de Vida Obligatorio para todo el personal.
+
+8.2. Aviso de Inicio de Obra a la ART
+Comunicación fehaciente con al menos 5 días hábiles de anticipación (Resolución SRT 51/97).
+Resolución SRT 231/96: Notificación obligatoria al inicio de la obra, a los 7 días y a los 15 días.
+
+8.3. Programa de Seguridad (PS)
+Aplica cuando la obra incluye trabajos sobre techos (riesgo crítico), excavación, demolición, o cuando supera los 1.000 m² o los 4 metros de altura. Debe ser aprobado por la ART antes del comienzo.
+Resolución SRT 35/98: Programa de Seguridad Único cuando intervienen múltiples contratistas.
+
+8.4. Legajo Técnico de Higiene y Seguridad
+Documento elaborado obligatoriamente por profesional universitario habilitante en Higiene y Seguridad en el Trabajo. Identifica riesgos específicos de cada etapa.
+Base: Art. 20 del Decreto 911/96.
+
+8.5. Relevamiento General de Riesgos Laborales (RGRL)
+Resoluciones SRT 463/2009, 529/2009 y 741/2010.
+
+8.6. Servicio Profesional de Higiene y Seguridad
+Asignación obligatoria según cantidad de trabajadores (Decreto 1338/96, Arts. 11 y 12).
+
+8.7. Protecciones Colectivas para Trabajo en Altura
+Toda tarea a diferencia de cota ≥ 2 metros es trabajo en altura. Aplica directamente al trabajo sobre el techo del inmueble del demandante.
+Obligatorias: Barandas, travesaños, zócalos, redes de seguridad o plataformas de protección colocadas máximo a 3 metros por debajo del plano de trabajo.
+Base: Decreto 911/96, Arts. 52 a 55.
+
+8.8. Medidas específicas para trabajo en altura (Res. SRT 61/2023)
+Parámetro de Seguridad | Requisito Normativo | Observación Técnica
+Arnés de Seguridad | Tipo cuerpo completo con doble cabo de vida | Obligatorio para maniobras en bordes
+Punto de Anclaje | Debe resistir al menos 2.300 kg por trabajador | Certificado por profesional matriculado
+Línea de Vida | Certificada bajo norma IRAM 3622 o equivalente | Puede ser horizontal o vertical
+Zona de Exclusión | Señalización del radio de caída potencial | Impide el tránsito de personal ajeno
+
+8.9. Elementos de Protección Personal (EPP)
+Casco, calzado de seguridad, arnés con línea de vida, guantes, gafas, ropa de trabajo adecuada. El empleador es responsable de proveerlos y verificar su uso.
+
+8.10. Vallado Perimetral y Cerco de Obra
+Cerramiento físico perimetral obligatorio, especialmente en sectores del techo lindero donde se opera con maquinaria. Señalización visible de advertencia.
+
+8.11. Andamios Homologados
+Norma IRAM 3691 para sistemas de andamios de fachada.
+
+8.12. Plan de Emergencia y Primeros Auxilios
+Protocolo escrito ante accidentes, caídas, electrocución. Ubicación de botiquín, datos de centro de salud cercano.
+
+8.13. Procedimientos de Trabajo Seguro (PTS) y Análisis de Tarea Segura (ATS)
+Obligatorio para trabajos sobre techos con riesgo de caída y manejo de cargas.
+Resolución SRT 61/2023, Anexo I y III: Análisis de Trabajo Seguro (ATS) diario firmado por el responsable de H&S previo al izaje.
+
+8.14. Certificación de competencia para Operadores
+Carnet de habilitación del operador de grúa y del señalero (rigger) — Ley 19.587; Decreto 911/96, Art. 43.
+
+8.15. Distancias mínimas de seguridad frente a instalaciones eléctricas
+Para líneas de media tensión (hasta 33 kV), la distancia mínima de aproximación de la carga o del brazo de la grúa es de 0.8 metros.
+Base: Resolución SRT 61/2023 y Decreto 911/96.
+
+
+9. PERMISOS Y DOCUMENTACIÓN REQUERIDA (NIVELES NACIONAL, PROVINCIAL Y MUNICIPAL)
+
+9.1. Nivel Municipal (Merlo) — Documentación Administrativa
+
+I.1 — Permiso de Obra Nueva / Ampliación
+Trámite obligatorio ante la Dirección de Obras Particulares (DOP) o Secretaría de Planificación del Municipio de Merlo. Es el expediente marco al que se adosan todos los demás documentos.
+Base: Ordenanza 757-HCD-2000 (Sección 1.1), Ordenanza 5839/2021.
+
+I.2 — Visado de Planos en Catastro
+• Certificado de Nomenclatura Catastral
+• Certificado de Numeración Domiciliaria
+• Título de Propiedad / Escritura inscripta en el Registro de la Propiedad Inmueble
+
+I.3 — Certificado de Libre Deuda Municipal
+Libre deuda de Tasas de Servicios Urbanos (TISH) y Alumbrado, Barrido y Limpieza (ABL).
+
+I.4 — Libre Deuda ARBA (Impuesto Inmobiliario Provincial)
+Constancia de ausencia de deuda provincial. La ampliación de metros cuadrados requiere presentar Planilla de Revalúo ARBA.
+
+I.5 — Registro Municipal de Profesionales Actuantes
+Inscripción obligatoria del Arquitecto o Ingeniero con carnet municipal vigente (Carnet Municipal del Director Técnico / Representante Técnico).
+
+I.6 — Pago de Derechos de Construcción
+Calculados sobre superficie y tipo de obra (1% del valor total de los trabajos para refacciones sin nuevos metros cuadrados).
+Base: Ordenanza Nº VII-0869-HCD-2018, Art. 44; Ordenanza Fiscal 5616/18 (Arts. 141 y 143).
+
+I.7 — Solicitud/Formulario de Obra (Carpeta de Obra)
+Formulario oficial del año en curso, con constancia de pago de derechos, sin enmiendas ni raspaduras, firmas originales del propietario y profesional responsable.
+
+I.8 — Permiso de Aptitud Urbanística / Modificación de Planos
+Si la zona corresponde a áreas de valores a proteger o emprendimientos de complejidad. Nueva documentación si se modifican planos aprobados.
+
+I.9 — Señalización de Obra (Cartel reglamentario)
+Identificación visible mediante cartel o letrero reglamentario colocado al frente, más chapa de obra entregada por la Dirección de Obras Particulares.
+Base: Código de Edificación de Merlo; Res. CAPBA 41/15.
+
+9.2. Nivel Municipal (Merlo) — Documentación Técnica y Profesional
+
+II.1 — Plano Municipal de Ampliación (Aprobado a Construir)
+Escala 1:100, firmado por profesional habilitado con matrícula provincial, visado por el colegio profesional y aprobado por la Dirección de Obras Particulares antes del inicio. Original y 5 copias.
+
+II.2 — Plano Estructural con Memoria de Cálculo
+Obligatorio cuando se agrega un nivel. Firmado por ingeniero civil o estructural matriculado. Debe incluir firma del profesional y sello de visado del colegio.
+Base técnica: CIRSOC 101-2005/2025; CIRSOC 201-2025 (ACI 318-19); Res. 11/2026-APN-SOP#MEC.
+
+II.3 — Plano de Instalaciones Sanitarias
+Escala 1:100, firma de profesional habilitado. Debe presentarse ante la Dirección de Obras Particulares y ante la empresa prestadora del servicio (AYSA o concesionaria zonal).
+
+II.4 — Plano de Instalaciones Eléctricas y Complementarias
+Planos con firma de profesional matriculado.
+
+II.5 — Carátula Reglamentaria
+Nomenclatura catastral completa, número de partida, datos del propietario, datos del profesional responsable, indicadores urbanísticos (FOS, FOT, zonificación, densidad), croquis de ubicación.
+
+II.6 — Memoria Descriptiva
+Detalle de modificaciones estructurales, ampliación de superficie cubierta y edificación de primer piso. Documento obligatorio para que el municipio comprenda el alcance real de la intervención.
+
+II.7 — Estudio de Suelo
+Exigible según zona y envergadura de la obra. Relevante para determinar capacidad portante del terreno.
+
+II.8 — Verificación Estructural del Techo del Inmueble del Demandante
+Estudio previo obligatorio de la capacidad portante de la losa/techo sobre el cual se realizaron los trabajos y sobre el cual se colocó la carga pesada. Este requisito nunca fue cumplido.
+
+9.3. Nivel Provincial — Visado Colegial
+
+III.1 — Visado del CAPBA Distrito III (Colegio de Arquitectos PBA) o CIPBA
+El Distrito 3 del CAPBA tiene jurisdicción sobre Merlo. El plano municipal debe ser visado por el colegio profesional correspondiente.
+Base: Ley Provincial 10.405, Art. 2° y Art. 23; Ley 5.920 y Dec. Ley 6.075; Res. CAPBA 101/09; Res. CAPBA 41/15.
+
+III.2 — Documentación a visar ante el Colegio Profesional
+• Informe Técnico con memoria descriptiva del estado de la estructura existente
+• Memoria de Cálculo Estructural firmada, que justifique la adopción de los reglamentos CIRSOC
+• Copia del contrato de locación de obra o servicios entre el profesional y el comitente
+• Visado de Encomienda Profesional Digital — sello de intervención del colegio (Ley 10.405, Art. 23; Res. CAPBA 101/09)
+• Boleta de Cuota de Ejercicio Profesional (CEP) — Res. CAPBA 101/09, Art. 4 y 5; Res. 30/23
+• Comprobante de Aportes Previsionales (Ley 12.490) — 20% total (10% profesional / 10% comitente)
+• Seguro de Responsabilidad Civil Profesional — póliza vigente con cobertura para errores u omisiones técnicas
+
+⚠️ CONSECUENCIA DE LA AUSENCIA DE VISADO:
+En caso de siniestro, la ausencia de este visado puede ser interpretada como ejercicio irregular de la profesión, exponiendo al profesional y al comitente a severas sanciones civiles y penales (Ley 10.405, Art. 23: Falta Grave).
+
+9.4. Nivel Provincial — Autorización de Empresa Prestadora de Agua
+Para toda modificación de instalación domiciliaria de agua compartida con inmueble lindero se requiere autorización previa de AYSA o empresa concesionaria zonal.
+El Certificado de Conexión o Aprobación del Plano Sanitario acredita que la modificación cumple con la normativa del servicio y no afecta la prestación a terceros.
+
+9.5. Trabajo sobre Inmueble Ajeno — Documentación Específica
+
+IV.1 — Autorización Escrita del Propietario Lindero
+Documento firmado por el propietario del inmueble vecino autorizando expresamente: acceso y trabajo de personas y maquinaria sobre la superficie de su techo, y movilización/relocalización del tanque cisterna.
+Recomendación: Celebración ante escribano público (acta notarial o convenio de servidumbre temporal).
+Base: Art. 2615 y 2627 del CCyC.
+
+IV.2 — Convenio de Servidumbre de Acueducto
+Si la modificación del tanque cisterna implica alterar una servidumbre existente, debe constituirse mediante escritura pública registrable en el Registro de la Propiedad Inmueble.
+Base: Arts. 2166 y siguientes del CCyC; Arts. 8.5.7 y 8.5.8 del Código Urbano de Merlo.
+
+IV.3 — Notificación Fehaciente Previa al Inicio de Obras
+Comunicación previa con detalle de tareas a realizar y duración estimada.
+
+IV.4 — Póliza de Seguro de Responsabilidad Civil por Daños a Terceros
+Cobertura específica por daños a propiedad vecina durante ejecución de trabajos sobre techo ajeno. Para maniobras de izaje con grúa: cobertura mínima exigida superior a $450.000.000 (valores de referencia 2025/2026).
+
+IV.5 — Cálculo de Volumen Mínimo de Reservorio y Plano de Instalación de Agua Compartida
+Cálculo según suma de superficies impermeables de parcelas involucradas y plano de detalle de modificaciones al sistema existente con interconexión al inmueble vecino.
+
+9.6. Cargas Pesadas sobre Losa — Documentación Específica
+
+V.1 — Plan de Izaje (Rigging Plan)
+La maniobra de elevar y posicionar una carga de 750 kg o más sobre un techo implica riesgos de caída de objetos, colapso de equipos y electrocución.
+Base: Ley 19.587/72; Decreto 351/79, Cap. 15; Decreto 911/96, Arts. 17, 20 y 43; Res. SRT 61/2023.
+
+El Plan de Izaje debe contemplar:
+• Identificación del centro de gravedad de la carga
+• Verificación de capacidad nominal de la grúa (no superar 75-80% de capacidad en tablas del fabricante)
+• Certificación de elementos auxiliares: eslingas, grilletes, fajas y pernos (certificados de fabricación y ensayos de carga vigentes)
+• Análisis del suelo donde se apoyarán estabilizadores de la grúa
+• Certificación de competencia para Operadores: Carnet de habilitación del operador de grúa y del señalero (rigger)
+• Análisis de Trabajo Seguro (ATS) diario firmado por responsable de higiene y seguridad
+
+V.2 — Lista exhaustiva de requisitos omitidos para cargas pesadas
+
+NIVEL NACIONAL:
+• Memoria de Verificación Estructural según CIRSOC 101-2005/2025 (Art. 4.2 Cargas Concentradas y Art. 4.6 Cargas de Impacto)
+• Análisis de Resistencia al Punzonamiento según CIRSOC 201-2025 (basado en ACI 318-19); Res. 11/2026-APN-SOP#MEC
+• Programa de Seguridad Específico (PSS) aprobado por la ART — Decreto 911/96, Arts. 17 y 20; Res. SRT 51/97
+• Plan de Izaje Crítico (Rigging Plan) — Ley 19.587; Decreto 351/79; Res. SRT 61/2023
+• Análisis de Trabajo Seguro (ATS) diario — Res. SRT 61/2023, Anexo I y III
+• Certificación de competencia para Operadores — Ley 19.587; Decreto 911/96, Art. 43
+
+NIVEL PROVINCIAL (Buenos Aires):
+• Matrícula Activa en CAPBA o CIPBA — Ley 10.405, Art. 2°; Ley 5.920 y Dec. Ley 6.075
+• Visado de Encomienda Profesional Digital — Ley 10.405, Art. 23; Res. CAPBA 101/09
+• Boleta de Cuota de Ejercicio Profesional (CEP) — Res. CAPBA 101/09; Res. 30/23
+• Comprobante de Aportes Previsionales (Ley 12.490) — 20% sobre honorarios mínimos
+• Seguro de Responsabilidad Civil Profesional
+
+NIVEL MUNICIPAL (Merlo):
+• Permiso de Obra / Ampliación y Reforma — Ordenanza 757-HCD-2000, Sección 1.1; Ordenanza 5839/21
+• Plano Municipal de Estructuras (5 copias) — Código de Edificación de Merlo
+• Informe de Dominio / Escritura (vigencia 90 días) — Ord. 757/00
+• Certificado de Libre Deuda Municipal — Ord. 5616/18
+• Liquidación y Pago de Derechos de Construcción — Ord. Tarifaria Merlo, Arts. 141 y 143
+• Certificado de Nomenclatura Parcelaria — Ord. 757/00
+• Cartel de Obra (QR reglamentario) — Res. CAPBA 41/15
+• Final de Obra / Conforme a Obra — Ord. 5616/18, Art. 144
+
+
+10. PADECIMIENTOS DENUNCIADOS — ENCUADRE LEGAL POR CATEGORÍA
+
+N° | PADECIMIENTO | NORMAS APLICABLES | TIPO DE DAÑO / PRESUNCIÓN
+--- | --- | --- | ---
+1 | Humedad relativa >70-80% en todos los ambientes de forma continua y sostenida durante casi dos años | CCyC Art. 1973 (inmisiones / normal tolerancia); Ord. 757/00 Art. 343 (protección contra humedad); Ord. 5839/21 (membrana hidrófuga obligatoria); Const. PBA Art. 28 (ambiente sano). SCBA: humedad generalizada = deterioro grave que compromete la estabilidad del hogar. | Daño material directo. Daño moral in re ipsa. Riesgo a la salud.
+2 | Riesgo eléctrico: tablero y tomacorrientes expuestos a caída de líquido y humedad sostenida (casi dos años) | CCyC Art. 1757 (actividad riesgosa); CCyC Art. 1710 (deber de prevención); Ley Provincial 11.769 (seguridad eléctrica); Decreto 351/79 (instalaciones húmedas sin protección estanca); CP Art. 189 (estrago culposo por inobservancia de reglamentos). | Daño material. Riesgo inminente a la vida humana. Mayor gravedad procesal. Posible arista penal.
+3 | Pudrición de indumentaria: más del 50% de las prendas inutilizables por moho y humedad | CCyC Art. 1738 (daño emergente — pérdida patrimonial directa); CCyC Art. 1740 (reparación plena — reposición de bienes de similar calidad); CCyC Art. 1895 (posesión de buena fe vale por título). Prueba: pericial tasadora + testimonial. | Daño material emergente. Cuantificable por perito tasador.
+4 | Desprendimiento progresivo de fragmentos del techo en el sector del baño | CCyC Art. 1273 (ruina — deterioro que torna la cosa impropia para su destino); Ord. 757/00 Art. 168 (causa de clausura de la obra); CCyC Art. 1269 (responsabilidad del Director de Obra por supervisión defectuosa). | Daño estructural. Amenaza a la integridad física. Causa de clausura administrativa.
+5 | Degradación de colchón, almohada, ropa de cama. Inhabilitación del sistema eléctrico del dormitorio (pérdida de calefacción) | CCyC Art. 1738 (daño emergente); CCyC Art. 1741 (daño extrapatrimonial); CCyC Art. 1740 (reparación plena); Const. PBA Art. 36 Inc. 7 (derecho a vivienda digna); Pacto DESCA Art. 11 (vivienda adecuada — protección contra el frío). | Daño material (bienes de cama). Daño moral (privación de descanso confortable). Vulneración de derechos sociales.
+6 | Afectación de la vida de relación, socialización y vida de pareja por condiciones del inmueble e indumentaria | CCyC Art. 1738 (pérdida de la chance; afectación de actividades espirituales y de esparcimiento); Fallo Cámara Quilmes 2024 (el hogar es centro de sosiego y placer; daño moral innegable). Jurisprudencia: daño a la vida de relación como rubro autónomo del daño moral. | Daño extrapatrimonial autónomo (daño a la vida de relación). No requiere prueba pericial psicológica compleja; emana de los hechos.
+7 | Consecuencias psicológicas / emocionales derivadas del padecimiento prolongado | CCyC Art. 1741 (daño moral in re ipsa). CPCC PBA Art. 165 (cuantificación por prudente arbitrio). Doctrina: el Tribunal de Casación de PBA presume la angustia ante condiciones de indignidad habitacional sin necesidad de perito psicólogo. | Daño moral presunto (in re ipsa). No requiere prueba psicológica adicional para su reconocimiento básico. Perito psicólogo puede elevar el monto.
+8 | Abandono forzoso del domicilio: gastos de mudanza, logística, alquiler temporario y posterior regreso | CCyC Art. 1203 (frustración del uso por evento externo — aplicación analógica); CCyC Art. 1738 (daño emergente: gastos de mudanza, flete, alquiler temporario); CCyC Art. 1741 (agravio moral por trastorno en vida laboral y emocional). | Daño material emergente (costos directos documentables). Daño moral (impacto en vida laboral y personal).
+
+
+11. RÉGIMEN PROBATORIO — CPCCBA (DECRETO LEY 7425/68)
+
+El proceso civil en la Provincia de Buenos Aires se rige por el Código Procesal Civil y Comercial de la Provincia de Buenos Aires (CPCCBA). El éxito de la demanda depende de la correcta acreditación de tres elementos: el daño, la relación causal y la cuantía.
+
+11.1. Medios de prueba disponibles
+
+MEDIO DE PRUEBA | ARTÍCULO CPCCBA | OBJETIVO EN EL CASO
+--- | --- | ---
+Prueba documental | Arts. 383 y ss. | Acompañar fallo previo, boletas digitales, actas notariales, expediente de obra del municipio, póliza de seguro.
+Prueba testimonial | Arts. 424 y ss. | Testigos (vecinos, familiares, amigos) que declaren sobre la existencia y calidad de los bienes antes del siniestro y el estado del inmueble.
+Prueba pericial | Arts. 457 y ss. | Peritos especializados determinan la cuantía económica del daño y su origen técnico.
+Prueba anticipada | Art. 326 | Permite solicitar medidas de prueba anticipada antes o durante el inicio del juicio cuando existe riesgo de que la prueba se pierda o sea difícil de producir. PRIORITARIO ante la evolución del daño y posibles reparaciones cosméticas.
+Reconocimiento judicial | Art. 477 | Percepción directa del juez sobre el estado de habitabilidad del inmueble (olores, sensación térmica, deterioro visual).
+Prueba informativa | Art. 394 | Solicitar a empresas vendedoras confirmación de operaciones de compra de bienes. Solicitar al municipio copias del expediente de obra.
+Facultad de cuantificar por prudente arbitrio | Art. 165 CPCC PBA | Cuando la existencia del daño está probada pero su cuantía no es fácil de precisar, el juez puede determinar el monto por prudente arbitrio.
+Carga de la prueba | Art. 375 CPCCBA | El actor debe probar los hechos en que funda su demanda. La doctrina moderna de cargas probatorias dinámicas (Art. 710 CCyC en analogía) traslada parte de la carga al que tiene mejores condiciones de probar.
+
+11.2. Peritos necesarios para el caso
+
+TIPO DE PERITO | FUNCIÓN EN EL CASO
+--- | ---
+Perito Ingeniero / Arquitecto | Constatar la persistencia de filtraciones y su afectación a la red eléctrica y la estructura. Medir niveles de humedad con higrómetros certificados. Verificar cumplimiento de CIRSOC 101/201 y Código de Edificación de Merlo.
+Perito Ingeniero Electricista | Acreditar el daño en la red eléctrica, luminarias y electrodomésticos. Explicar cómo la humedad superior al 70-80% genera sulfatación en circuitos y riesgo de electrocución. Indispensable para cuantificar el reclamo eléctrico.
+Perito Tasador (Martillero Público) | Determinar el valor de reposición de muebles, marcos metálicos, puertas, indumentaria, colchón y elementos de cama. El Art. 1740 CCyC exige que el monto alcance para bienes de similar calidad.
+Perito Informático | Verificar la integridad de archivos fotográficos, metadatos de imágenes (fecha, hora, coordenadas GPS) y autenticidad del perfil de redes sociales donde se publicaron fotos del inmueble en condiciones previas.
+Perito Médico (si corresponde) | Acreditar daños a la salud (problemas respiratorios, alergias) derivados de la humedad extrema y proliferación de hongos.
+Perito de Seguros (si hay citación en garantía) | Verificar si los daños están cubiertos por la póliza de la obra lindera. Necesario para desvirtuar cláusulas de exclusión abusivas.
+
+11.3. Prueba digital — Fotografías y redes sociales
+
+Las fotografías digitales y publicaciones en redes sociales son documentos electrónicos. Para que tengan fuerza probatoria plena:
+
+MECANISMO | FUNDAMENTO Y PROCEDIMIENTO
+--- | ---
+Pericia informática | El perito verifica la integridad de los archivos, los metadatos de las imágenes (fecha, hora, coordenadas GPS) y la autenticidad del perfil de la red social. Sin pericia complementaria, las capturas de pantalla son solo indicios.
+Acta notarial de constatación digital | Art. 312 CCyC. Un escribano certifica que en tal fecha accedió a la cuenta de Facebook/Instagram del actor y constató la existencia de fotos del inmueble en condiciones previas a la obra. Valor probatorio pleno como acta notarial.
+Capturas de pantalla | Son un indicio revelador que, complementado con el peritaje informático, adquiere el carácter de prueba documental robusta. Solas no alcanzan.
+Documentos y boletas digitales | Ley 25.506 de Firma Digital y CCyC otorgan validez a los documentos electrónicos. Si la contraparte los desconoce, se puede solicitar informativa (Art. 394 CPCCBA) a las empresas vendedoras.
+
+11.4. Daño moral — Presunción in re ipsa
+
+El daño moral en estos casos se considera in re ipsa (surge de los mismos hechos). No hace falta probar que el actor sufrió: se presume que cualquier persona sometida a las condiciones descritas padece angustia y menoscabo a su dignidad resarcibles.
+
+El Tribunal de Casación y las Cámaras Civiles de PBA consideran que vivir en condiciones de indignidad habitacional dispara automáticamente el derecho a una indemnización por daño moral, sin necesidad de otro elemento probatorio que la constatación de los daños materiales (fotos, actas).
+Fundamento: Art. 1741 CCyC.
+
+
+12. ANÁLISIS TRIPARTITO POR PERSPECTIVA
+
+12.1. PERSPECTIVA DEL DEMANDANTE — PARTE ACTORA
+
+El demandante cuenta con un régimen de responsabilidad objetiva que lo libera de probar la culpa del demandado. Solo debe acreditar el nexo causal entre la obra y el daño.
+
+PILARES DE LA DEMANDA:
+1. Responsabilidad objetiva (Art. 1757/1758 CCyC): acreditar que la obra es una actividad riesgosa y que el daño deriva de ella.
+2. Superación de la normal tolerancia (Art. 1973 CCyC): humedad >70-80% sostenida por dos años excede todo umbral de tolerancia.
+3. Incumplimiento del deber de prevención (Art. 1710 CCyC): el constructor debió cesar la causa de la filtración inmediatamente.
+4. Reparación plena (Art. 1740 CCyC): la indemnización debe devolver al demandante al estado anterior al daño en todos los rubros.
+5. Violación de normativa municipal: Ord. 757/00 Arts. 162/167/168/343; Ord. 5839/21 (membrana hidrófuga); Ord. 5726/19.
+6. Responsabilidad solidaria: demandar conjuntamente al dueño del inmueble, Director de Obra y empresa constructora (Art. 1758 CCyC + Ord. 757/00).
+
+RUBROS DE RECLAMO:
+• Daño emergente material: reparación del inmueble, red eléctrica, bienes muebles, indumentaria, colchón y ropa de cama.
+• Daño emergente por abandono: gastos de mudanza, logística, alquiler temporario durante el período de reparación.
+• Daño moral (in re ipsa): no requiere prueba pericial específica.
+• Daño a la vida de relación: rubro autónomo del moral.
+• Privación de uso del inmueble: valor locativo por el período afectado (más de 2 años).
+• Pérdida de valor venal del inmueble.
+• Afectación a la salud (si se puede acreditar pericialmente).
+
+HERRAMIENTAS PROCESALES PRIORITARIAS:
+• Solicitar acceso al expediente de obra ante el Municipio de Merlo (Art. 16 Ord. 5726/19) para identificar al Director de Obra y Constructor matriculados.
+• Solicitar prueba anticipada (Art. 326 CPCCBA) antes de que se realicen reparaciones cosméticas que eliminen evidencias.
+• Iniciar acta notarial de constatación del estado del inmueble y de las publicaciones en redes sociales (Art. 312 CCyC).
+• Citar en garantía a la aseguradora de responsabilidad civil de la obra (verificar la póliza obligatoria).
+• Denunciar ante el Colegio de Arquitectos o Ingenieros por falta de ética profesional.
+
+12.2. PERSPECTIVA DEL DEMANDADO — PARTE DEFENSORA
+
+El demandado enfrenta un régimen de responsabilidad objetiva muy desfavorable. Sus defensas posibles son limitadas:
+
+Defensa 1 — Culpa de la víctima: alegar que el actor no permitió el ingreso a la obra para reparar. CONTRAARGUMENTO: el actor tiene el deber de mitigación (Art. 1710 CCyC), pero las reparaciones deben realizarse bajo supervisión pericial para no eliminar evidencias. Si el actor bloqueó reparaciones válidas, puede verse afectado en la cuantía, no en la responsabilidad base.
+
+Defensa 2 — Daños preexistentes: alegar que el inmueble ya tenía problemas de humedad antes de la obra. CONTRAARGUMENTO: si existe fallo previo favorable, el nexo causal ya es cosa juzgada y no puede ser rediscutido.
+
+Defensa 3 — Falta de nexo causal: alegar que los daños no provienen de su obra. CONTRAARGUMENTO: la responsabilidad objetiva invierte la carga; el demandado debe probar que el daño se debe a culpa de la víctima o de un tercero ajeno.
+
+Defensa 4 — Cumplimiento normativo: alegar que la obra tenía todos los permisos. CONTRAARGUMENTO: la existencia del permiso no exime de la responsabilidad por daños causados; el resultado dañoso es lo que activa el régimen del Art. 1757 CCyC.
+
+Defensa 5 — Prescripción: alegar prescripción del reclamo. La prescripción de la acción de daños es de 3 años desde que el damnificado conoció o pudo conocer el daño (Art. 2561 CCyC). Relevante si los daños son muy anteriores a la demanda.
+
+NOTA: RIESGO PARA EL DEMANDADO: La persistencia del daño por dos años sin reparación es interpretada por la jurisprudencia de PBA como actitud de indiferencia hacia el daño ajeno, lo que habilita sanciones conminatorias (astreintes) y la elevación del monto por daño moral.
+
+12.3. PERSPECTIVA DEL MINISTERIO PÚBLICO — ROL INSTITUCIONAL
+
+NOTA: En el proceso civil de daños y perjuicios ante los tribunales de la Provincia de Buenos Aires, el Ministerio Público interviene en defensa de la legalidad y en representación del interés general. Si hay menores involucrados o intereses de incapaces, su intervención es obligatoria.
+
+CRITERIOS OBJETIVOS DE ACTUACIÓN:
+• Control de legalidad: verificará que los artículos y normas invocados correspondan a la causa de manera precisa.
+• Interés general en la seguridad pública: el riesgo eléctrico documentado y el desprendimiento de fragmentos del techo trascienden la órbita individual; afectan la seguridad de cualquier persona que ingrese al inmueble.
+• Verificación del poder de policía municipal: si el actor realizó denuncias previas ante el Municipio de Merlo y este no actuó conforme al Art. 168 de la Ord. 757/00, el Ministerio Público puede tener interés en investigar la omisión del poder de policía municipal.
+• En la eventual arista penal (Art. 189 CP — estrago culposo): si el expediente civil acredita el riesgo eléctrico y estructural por inobservancia de reglamentos, el Ministerio Público Fiscal podría actuar de oficio o a instancia de parte para investigar la conducta del Director de Obra y del Constructor.
+
+
+13. FALTAS, MALAS PRÁCTICAS E IRREGULARIDADES DOCUMENTADAS
+
+FALTA / MALA PRÁCTICA | NORMA VIOLADA | CONSECUENCIA LEGAL
+--- | --- | ---
+No asegurar la estanqueidad del nuevo sistema de techo / ausencia de membrana hidrófuga | Ord. 5839/21 Merlo; CCyC Art. 2024; Ord. 757/00 Art. 343 | Falta administrativa municipal. Fundamento del nexo causal con las filtraciones. Responsabilidad civil objetiva.
+Modificar el sistema de desagüe de techos permitiendo escurrimiento al predio lindero | CCyC Art. 2630 (prohibición expresa); Ord. Merlo (esquema de pendientes obligatorio) | Violación directa de norma específica. Prueba del incumplimiento del deber de no dañar.
+Reubicar cargas pesadas sobre losa existente sin verificación de capacidad portante (memoria de cálculo) | CIRSOC 101 (sobrecargas); CIRSOC 201 (estado límite de servicio); Ord. 757/00 (estudio de suelos y permiso de obra) | Mala práctica profesional acreditable pericialmente. Responsabilidad del Director de Obra.
+Modificar la instalación del suministro de agua sin adoptar medidas de estanqueidad que eviten daños al lindero | CCyC Art. 1710 (deber de prevención); Ord. 757/00 Arts. 162/167 | Omisión antijurídica que agrava la situación procesal.
+Prolongar los daños durante casi dos años sin adoptar medidas de cesación | CCyC Art. 1710 (deber de prevención); CCyC Art. 10 (abuso del derecho) | Habilita astreintes y eleva el monto de daño moral.
+Ejecutar la obra sin Permiso de Obra o con documentación incompleta (sin memoria de cálculo estructural) | Ord. 757/00 / Ord. 5835/21 (requisitos de permiso de obra) | Irregularidad burocrática documentable vía expediente municipal. Agrava la responsabilidad.
+No contratar o no mantener vigente el seguro de responsabilidad civil de obra | Ord. 757/00 (seguros obligatorios) | Habilita acciones directas contra el propietario y, si existe, contra la aseguradora.
+No instalar pantallas de protección y vallas provisorias hacia linderos (h mínima 2 m) | Resolución 1069/91; Decreto 911/96 | Falta de seguridad laboral y vecinal. Elemento que agrava la negligencia del constructor.
+No respetar la cuantía mínima de armadura por temperatura en la losa de cubierta | CIRSOC 201 | Causa técnica acreditable pericialmente de las fisuras que permiten el ingreso de agua.
+Falta de supervisión del Director de Obra que permitió el deterioro del inmueble lindero durante dos años | CCyC Art. 1269; Ley 6075/59 PBA | Responsabilidad profesional. Base para denuncia ante el Colegio de Arquitectos o Ingenieros.
+Ausencia de visado colegial de planos y memoria de cálculo | Ley 10.405, Art. 23 | Falta grave ética profesional. El comitente asume responsabilidad directa.
+No confeccionar Plan de Izaje para carga de 750 kg+ | Ley 19.587; Decreto 911/96; Res. SRT 61/2023 | Infracción grave de seguridad. Riesgo de accidente y delito penal.
+Ausencia de Programa de Seguridad aprobado por ART | Res. SRT 51/97 | Infracción administrativa sancionable.
+Trabajo sobre inmueble ajeno sin autorización escrita | CCyC Arts. 2615/2627 | Responsabilidad inmediata por daños desde el primer día.
+
+
+14. RUBROS DE CUANTIFICACIÓN INDEMNIZATORIA
+
+La SCBA ha establecido criterios claros para cuantificar los padecimientos descriptos.
+
+RUBRO | FUNDAMENTO | FORMA DE ACREDITACIÓN
+--- | --- | ---
+Reparación del inmueble (estructura, techos, muros) | CCyC Art. 1740 (reparación plena) | Perito Ingeniero / Arquitecto con presupuestos de obra.
+Recableado eléctrico completo según normas AEA | CCyC Art. 1757; Ley 11.769 PBA | Perito Ingeniero Electricista.
+Reposición de muebles de madera, marcos y puertas | CCyC Arts. 1738/1740 | Perito Tasador (Martillero Público).
+Reposición de indumentaria (>50% pudrida) | CCyC Arts. 1738/1740; Art. 1895 (presunción de propiedad) | Testimonial + perito tasador + presunción.
+Reposición de colchón, almohada y ropa de cama | CCyC Arts. 1738/1740 | Testimonial + perito tasador.
+Reposición de electrodomésticos afectados por humedad | CCyC Arts. 1738/1740 | Testimonial + pericia informática/técnica + boletas digitales.
+Gastos de mudanza y logística de abandono forzoso | CCyC Art. 1738 (daño emergente directo) | Documentación de gastos (facturas, recibos, presupuestos).
+Alquiler temporario durante el período de reparación | CCyC Arts. 1738/1203 (frustración del uso) | Contrato de alquiler temporario; valor locativo de mercado.
+Privación de uso del inmueble (valor locativo por >2 años) | SCBA criterio consolidado; CCyC Art. 1738 | Perito inmobiliario / tasador que establezca el canon locativo de referencia en Merlo.
+Pérdida de valor venal del inmueble | CCyC Art. 1740 (reparación plena) | Perito inmobiliario.
+Daño moral (in re ipsa) | CCyC Art. 1741; Doctrina PBA de presunción automática | No requiere prueba específica. El juez fija el monto por prudente arbitrio (Art. 165 CPCC PBA).
+Daño a la vida de relación (rubro autónomo) | CCyC Art. 1738; Jurisprudencia PBA | Descripción fáctica detallada de la afectación social y de pareja. Testimonial.
+Daño a la salud (si se acredita) | CCyC Art. 1738; Const. PBA Art. 36 Inc. 8 | Perito médico + historia clínica.
+Honorarios de profesionales contratados para reparar | SCBA: incluye un 30% adicional por gastos generales sobre el costo material | Presupuestos y facturas de profesionales.
+
+
+15. ACCIONES E INSTANCIAS DISPONIBLES
+
+ACCIÓN / INSTANCIA | FUNDAMENTO | EFECTO
+--- | --- | ---
+Demanda civil por daños y perjuicios ante el fuero civil de Merlo (PBA) | CCyC Arts. 1757/1758/1740/1741; CPCCBA | Reparación integral de todos los rubros. Proceso principal.
+Prueba anticipada | Art. 326 CPCCBA | Asegurar evidencias antes de que se realicen reparaciones. Acción urgente e inmediata.
+Acción preventiva | CCyC Art. 1711 | Solicitar judicialmente que se detenga la obra o se adopten medidas de seguridad inmediatas.
+Denuncia administrativa ante el Municipio de Merlo | Ord. 757/00 Art. 168; Ord. 5726/19 | Paralización de la obra. Actuación de oficio del municipio. Registro público de la irregularidad.
+Acceso al expediente de obra municipal | Art. 16 Ord. 5726/19 | Identificar al Director de Obra y Constructor matriculados. Constatar la existencia del permiso y su alcance.
+Citación en garantía de la aseguradora | Ord. 757/00 (seguros obligatorios) | Incorporar a la aseguradora como demandada. Asegurar el cobro efectivo de la indemnización.
+Denuncia ante el Colegio de Arquitectos / Ingenieros de PBA | Ley 6075/59 PBA; CCyC Art. 1269 | Sanción disciplinaria profesional. Refuerza el argumento de negligencia en el proceso civil.
+Denuncia penal (si se acredita estrago culposo o daño doloso) | CP Arts. 183/189/191/229 | Proceso penal independiente. Inhabilitación profesional. Puede tener efecto demostrativo en el civil.
+Astreintes (sanciones conminatorias) | CCyC Art. 10 + doctrina PBA | Multa por día de incumplimiento de la sentencia. Se impone ante la actitud de indiferencia del demandado.
+
+
+16. RIESGOS CONCRETOS Y ELEMENTOS PROBATORIOS
+
+16.1. Riesgo concreto a la integridad física
+⚠️ RIESGO DE ELECTROCUCIÓN:
+La caja de corte de la red eléctrica del domicilio del denunciante se encuentra expuesta al contacto con agua. Esta situación constituye un riesgo concreto e inmediato a la vida e integridad física del denunciante y de cualquier persona que habite o ingrese al inmueble.
+
+La normativa de seguridad en construcción (Decreto 911/96, Res. SRT 61/2023) exige distancias mínimas de seguridad frente a instalaciones eléctricas energizadas durante cualquier maniobra de izaje o trabajo en altura. La exposición del tablero eléctrico al agua es consecuencia directa de las filtraciones e infiltraciones generadas por los trabajos no autorizados del demandado sobre el techo del inmueble del denunciante.
+
+16.2. Humedad sostenida superior al 70% durante más de un año
+Constituye un daño continuo y acumulativo. Desde la perspectiva estructural, niveles de humedad sostenidos aceleran los procesos de corrosión en las armaduras de hormigón armado (fenómeno documentado en el marco del CIRSOC 201), lo que agrava progresivamente el daño estructural existente.
+
+Cada día que transcurre sin que el demandado repare los daños es un agravamiento del daño que puede serle imputado. El plazo de más de un año de exposición sostenida tiene consecuencias directas sobre el monto indemnizatorio, en tanto el daño futuro previsible (deterioro estructural progresivo, nuevos daños sobre bienes personales) es imputable al mismo hecho generador.
+Base: Art. 1739 CCyC (daño actual y daño futuro).
+
+16.3. Imprescriptibilidad de la responsabilidad por vicio de construcción
+La responsabilidad civil por daños derivados de una falla estructural es imprescriptible mientras dure la vida útil de la construcción si se demuestra vicio de construcción o negligencia profesional.
+
+16.4. Proceso administrativo correcto no cumplido
+El proceso administrativo que el demandado debió haber seguido comprende:
+• Etapa de Gabinete: Relevamiento de la losa existente, ejecución de calas de inspección, confección de Memoria de Cálculo según CIRSOC 101/201.
+• Etapa Colegial: Carga del contrato y memoria en sistema CAPBAenlínea. Pago de CEP y aportes Ley 12.490. Visado digital.
+• Etapa Municipal: Presentación de carpeta de obra en Dirección de Obras Particulares de Merlo (Av. Libertador 391). Obtención de número de expediente y pago de derechos.
+• Etapa de Izaje: Confección del Plan de Rigging y Programa de Seguridad. Notificación a la ART con 5 días hábiles de antelación.
+• Etapa de Cierre: Inspección municipal post-instalación y tramitación del Certificado Final de Obra.
+
+La ausencia de registro de cada una de estas etapas ante los organismos correspondientes (municipio, CAPBA, SRT) es verificable documentalmente mediante oficios judiciales y constituye prueba objetiva del incumplimiento total.
+
+
+17. TABLA MAESTRA DE NORMAS APLICABLES POR ARISTA DEL CASO
+
+Norma / Reglamento | Arista del caso que cubre | Jurisdicción
+--- | --- | ---
+CCyC Art. 2615 y 2627 | Trabajo no autorizado sobre techo ajeno / obligación de indemnizar | Nacional
+CCyC Arts. 2166 y ss. | Servidumbre de acueducto / sistema de agua compartido | Nacional
+CCyC Arts. 1716/1717/1722/1723 | Antijuridicidad, negligencia, actividad riesgosa | Nacional
+CCyC Arts. 1737/1738/1739 | Daño patrimonial, extrapatrimonial y futuro | Nacional
+CCyC Art. 1741 | Daño moral / extrapatrimonial | Nacional
+CCyC Arts. 1757/1758 | Responsabilidad objetiva y sujetos responsables | Nacional
+CCyC Arts. 1973/2006/2010/2021/2022/2024/2630 | Relaciones de vecindad, muros medianeros, aguas pluviales | Nacional
+CCyC Arts. 1269/1273 | Responsabilidad profesional del Director de Obra y Constructor | Nacional
+CCyC Art. 1895 | Posesión de buena fe de muebles | Nacional
+CCyC Art. 312 | Actas notariales | Nacional
+CCyC Art. 1203 | Frustración del uso | Nacional
+CCyC Art. 710 (analogía) | Cargas probatorias dinámicas | Nacional
+Cód. Penal Art. 183 | Daño | Nacional
+Cód. Penal Art. 186 | Estrago | Nacional
+Cód. Penal Art. 189 | Estrago culposo | Nacional
+Cód. Penal Art. 191 | Peligro común | Nacional
+Cód. Penal Art. 229 | Peligro colectivo por derrumbe | Nacional
+Cód. Penal Arts. 84 y 94 | Lesiones o muerte culposa | Nacional
+Ley 19.587/72 y Dec. 911/96 | Seguridad e higiene en construcción / trabajo en altura | Nacional
+Dec. 911/96 Arts. 52-55 | Protecciones colectivas trabajo en altura ≥ 2 metros | Nacional
+Dec. 911/96 Art. 43 | Certificación de operadores de grúa | Nacional
+Dec. 351/79, Cap. 15 | Izaje de cargas y seguridad en maniobras | Nacional
+Dec. 1338/96 Arts. 11-12 | Servicio profesional de Higiene y Seguridad | Nacional
+Res. SRT 51/97 | Programa de Seguridad / Aviso de Obra / trabajos en altura riesgo crítico | Nacional
+Res. SRT 35/98 | Programa de Seguridad Único (múltiples contratistas) | Nacional
+Res. SRT 61/2023 | Nuevas medidas de seguridad en altura / izaje de cargas pesadas | Nacional
+Res. SRT 231/96 | Aviso de Obra a la ART (inicio, 7 días, 15 días) | Nacional
+Res. SRT 463/2009, 529/2009, 741/2010 | Relevamiento General de Riesgos Laborales (RGRL) | Nacional
+Ley 24.557/95 | Ley de Riesgos del Trabajo / cobertura ART | Nacional
+CIRSOC 101-2005/2025, Art. 4.2 y 4.6 | Verificación de cargas concentradas e impacto sobre losa | Nacional-técnico
+CIRSOC 201-2025 (ACI 318-19) | Punzonamiento / verificación de estructuras existentes | Nacional-técnico
+Res. 11/2026-APN-SOP#MEC | Adopción oficial CIRSOC 201-2025 | Nacional
+Norma IRAM 3691 | Homologación de andamios | Nacional
+Norma IRAM 3622 | Certificación de líneas de vida | Nacional
+Ley 10.405 PBA, Arts. 2° y 23 | Matrícula y ejercicio profesional / falta grave por omisión de visado | Provincial
+Ley 5.920 y Dec. Ley 6.075 PBA | Colegiación de ingenieros — CIPBA | Provincial
+Ley 12.490 PBA | Aportes previsionales colegiales (CAAITBA) | Provincial
+Res. CAPBA 101/09 y Res. 30/23 | Visado de encomienda profesional / CEP | Provincial
+Res. CAPBA 41/15 | Cartel de obra reglamentario | Provincial
+Ley 11.769 PBA | Seguridad eléctrica provincial | Provincial
+Ley 6075/59 PBA | Director Técnico y Constructor | Provincial
+Decreto-Ley 8912/77 | Ordenamiento Territorial (FOS, FOT, densidad) | Provincial
+Decreto 1549/83 | Reglamentación Art. 37 Ley 8912/77 (retiros) | Provincial
+Ord. Merlo 757-HCD-2000 y 5839/2021 | Código de Edificación — permiso de obra / modificaciones estructurales | Municipal
+Ord. Merlo 5140/17, Inc. K, Art. 1 | Falta grave por construcción sin permiso — multas y clausura | Municipal
+Ord. Merlo 5616/18 | Derechos de construcción / clausura por riesgo a terceros | Municipal
+Ord. Merlo 520-HCD-1993 y 493/92 | Estructuras no ajustadas a reglamentos técnicos | Municipal
+Ord. Merlo 5726/19 | Acceso a expedientes / responsabilidad solidaria | Municipal
+Ord. Merlo 5835/2021 | Actualización Código de Edificación | Municipal
+Cod. Urbano Merlo Arts. 8.5.7/8.5.8/8.5.9 | Convenio de reservorios compartidos / informe hidráulico municipal | Municipal
+Const. Nacional Arts. 17/18/19/41/75 inc. 22 | Derechos de propiedad, domicilio, ambiente sano, DESCA | Constitucional
+Const. PBA Arts. 28/36 Inc. 7 y 8 | Ambiente sano, vivienda digna, salud | Constitucional
+
+
+18. ZONAS DE INCERTIDUMBRE — INFORMACIÓN NO VERIFICADA
+
+⚠ ADVERTENCIA: Las siguientes normas y datos deben ser verificados en su versión vigente y aplicable antes de ser utilizados en actuaciones judiciales.
+
+NORMA / DATO | ADVERTENCIA
+--- | ---
+Ordenanza 5726/19 de Merlo — Art. 16 específico sobre acceso al expediente | Verificar texto oficial publicado por la Municipalidad de Merlo y confirmar que el Art. 16 efectivamente contiene esa disposición.
+Ordenanza 5839/21 de Merlo — Estanqueidad de techos | Verificar texto oficial. La mención a esta ordenanza proviene de los documentos de investigación; su contenido específico debe ser confirmado en la fuente primaria.
+Ordenanza 5835/2021 de Merlo — Actualización del Código de Edificación | Verificar texto oficial y alcance de las modificaciones introducidas al Código madre 757-HCD-2000.
+Artículos 162, 167 de la Ordenanza 757-HCD-2000 de Merlo | Los artículos 162 y 167 son mencionados en los documentos de investigación. Verificar en el texto oficial del Código de Edificación de Merlo que dichos números de artículo corresponden al contenido indicado.
+Ley Provincial 11.723 (PBA) — Responsabilidad municipal por omisión | Verificar si esta es la ley correcta para fundar la responsabilidad del municipio por omisión del poder de policía, o si corresponde otro instrumento normativo provincial.
+CCyC Art. 1269 y Art. 1273 — Responsabilidad del Director de Obra y Constructor | Verificar que estos artículos, en el texto vigente del CCyC (Ley 26.994 y modificatorias), correspondan efectivamente a esas figuras. Los artículos del CCyC pueden haber sido reordenados por modificaciones posteriores.
+Decreto 1549/83 — Reglamentación Art. 37 Ley 8912/77 | Verificar vigencia y contenido específico sobre retiros y dimensiones mínimas de patios.
+Ley 6075/59 PBA — Director Técnico y Constructor | Verificar vigencia de esta ley o si fue reemplazada por normativa posterior.
+Fallo Cámara de Apelaciones de Quilmes (2024) | Verificar la existencia, número de autos y contenido exacto del fallo citado. No se cuenta con el texto completo del mismo.
+Valores numéricos de CIRSOC 101 y 201 | Los reglamentos CIRSOC consignan valores numéricos específicos (kN/m², resistencias, deformaciones). Deben ser consultados directamente en las tablas oficiales vigentes de cada reglamento, no en versiones resumidas.
+Prescripción de la acción (Art. 2561 CCyC) | Verificar si el plazo de 3 años aplica exactamente a este tipo de acción y desde qué momento exacto comienza a correr, dada la continuidad del daño (daño continuado vs. daño instantáneo).
+Res. 11/2026-APN-SOP#MEC | Verificar vigencia y entrada en vigor efectiva del CIRSOC 201-2025.
+
+
+19. DECLARACIÓN DE INFERENCIAS Y CIERRE
+
+⚠ ADVERTENCIA: DECLARACIÓN DE POSIBLES INFERENCIAS DEL MODELO: Las siguientes partes de este documento pueden contener información completada por inferencia y no por verificación directa en texto de ley primario: (1) números de artículo específicos de Ordenanzas municipales de Merlo (Arts. 162, 167, 168, 338, 339, 343, 344); (2) contenido específico de la Ley Provincial 11.723; (3) datos del Fallo Cámara Quilmes 2024; (4) valores numéricos exactos de CIRSOC 101/201; (5) contenido específico de Arts. 8.5.7/8.5.8/8.5.9 del Código Urbano de Merlo. Se recomienda verificación profesional antes de usar este contenido en cualquier actuación judicial o extrajudicial.
+
+Este documento NO reemplaza el criterio de un profesional del derecho habilitado. Su función es servir como mapa de referencia normativa completo para que el profesional interviniente pueda identificar, verificar y aplicar los instrumentos más relevantes en la construcción de la demanda y la estrategia procesal.
+
+El ordenamiento jurídico argentino, a través del CCyC, la Constitución Nacional, la Constitución de la Provincia de Buenos Aires, el CPCCBA y la normativa municipal de Merlo, provee un plexo normativo que cubre la totalidad de los daños documentados. La persistencia de esos daños durante casi dos años, con omisión de reparación por parte del demandado, agrava la posición de este último y habilita rubros adicionales (astreintes, incremento del daño moral, pérdida de valor venal del inmueble).
+
+Documento unificado generado con base en la documentación jurídica y técnico-jurídica provista. Sistematización sin duplicación de contenidos. Uso interno — no constituye dictamen legal.
