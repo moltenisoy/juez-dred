@@ -915,5 +915,600 @@ CIRSOC 201 (Hormigón Armado)
 RT-030908-020204-0205 (Desagüe pluvial)
 
 ================================================================================
+XIII. ADDENDUM — ELEMENTOS INCORPORADOS TRAS REVISIÓN EXHAUSTIVA
+         (Doble pasada línea por línea — 27 archivos — 2 enfoques)
+================================================================================
+
+Tras una revisión exhaustiva de doble pasada (enfoque legal-técnico y enfoque
+fáctico-argumentativo) de la totalidad de los 27 archivos del repositorio
+(8 en rama principal + 19 en carpeta "varios"), se identificaron los
+siguientes elementos adicionales con incumbencia directa en el marco de
+situación que NO estaban incluidos en el documento original y que se
+incorporan a continuación:
+
+================================================================================
+XIII-A. ARTÍCULOS Y NORMAS ADICIONALES DEL CCCN
+================================================================================
+
+• Art. 1717 CCCN — Antijuridicidad: "Cualquier acción u omisión que causa
+  un daño a otro es antijurídica si no está justificada." La obra del
+  demandado constituye una ACCIÓN ANTIJURÍDICA al no estar amparada por
+  ninguna causa de justificación (no es legítima defensa, no es estado de
+  necesidad, no existe autorización legal que exima de responsabilidad).
+
+• Art. 1724 CCCN — Factores subjetivos: Aunque la responsabilidad es
+  OBJETIVA (Art. 1757) y no requiere prueba de culpa, si se logra acreditar
+  NEGLIGENCIA o IMPRUDENCIA del constructor/director de obra, esto REFUERZA
+  la posición del reclamante y puede agravar la condena.
+
+• Art. 1727 CCCN — Tipos de consecuencias: Distingue entre consecuencias
+  INMEDIATAS (siempre resarcibles), MEDIATAS (previsibles, resarcibles) y
+  REMOTAS (no resarcibles en general). TODOS los daños descritos en este
+  reclamo (goteras, filtraciones, deterioro de membrana, depresiones,
+  daños a bienes muebles, mudanza, pérdida laboral, daño psicológico)
+  son consecuencias INMEDIATAS y/o MEDIATAS del hecho generador, por lo
+  tanto plenamente encuadrables y resarcibles.
+
+• Art. 2006 CCCN — Clasificación legal de muros: Define las categorías de
+  muros según su ubicación y titularidad. Es el punto de partida para
+  determinar la viabilidad legal de las modificaciones en la pared
+  medianera y las cargas impuestas sobre la losa lindera.
+
+• Art. 2010 CCCN — Presunción de medianería: Se presume la medianería de
+  muros hasta los 3 metros de altura desde el nivel del suelo. Esta
+  presunción es relevante para determinar las obligaciones del demandado
+  respecto de la pared medianera que edificó.
+
+• Art. 2022 CCCN — Prolongación del muro lindero: Permite la prolongación
+  del muro en altura, pero A COSTA de quien lo ejecuta. La elevación se
+  considera privativa de quien la realizó. IMPORTANTE: Esto no exime de
+  responsabilidad por los daños causados durante la elevación.
+
+• Art. 2024 CCCN — Obligación de reconstrucción: Cuando una modificación
+  requiere demolición de muro medianero, el propietario que demuela debe
+  levantar la nueva pared SIN DEMORA, manteniendo las características de
+  aislamiento y estabilidad previas, o mejorándolas. La reconstrucción
+  debe asegurar la ESTANQUEIDAD de la junta para evitar filtraciones.
+
+• Art. 2561 CCCN — Prescripción: Plazo de 3 años para la acción de daños,
+  contado desde que el damnificado conoció o pudo conocer el daño. En
+  caso de DAÑO CONTINUADO, el plazo se reinicia con cada nueva
+  manifestación del daño, lo que es directamente aplicable al caso
+  (filtraciones que persisten y se agravan durante casi 2 años).
+
+• Art. 2572 CCCN — Plazo genérico de prescripción: 3 años para acciones
+  civiles de daños y perjuicios.
+
+• Arts. 2654-2658 CCCN — Vistas y luces: Regulan la apertura de vanos y
+  disposición de vistas entre predios colindantes. Aplicable si la obra
+  del demandado incluyó aberturas que afecten la privacidad.
+
+• Art. 1895 CCCN — Posesión de buena fe de cosas muebles: "La posesión
+  de buena fe de cosas muebles no registrables vale por título." Esta
+  norma es FUNDAMENTAL para la acreditación de bienes muebles dañados
+  sin factura: se presume que los muebles, electrodomésticos y ropa
+  presentes en el inmueble pertenecen a quien lo habita. La FALTA DE
+  FACTURAS no impide el reclamo, ya que la propiedad puede acreditarse
+  por otros medios (testimoniales, fotografías, presunciones).
+
+• Art. 1032 CCCN — Valor probatorio del acta notarial: El acta de
+  constatación notarial tiene VALOR PROBATORIO PLENO (fe pública),
+  constituyendo prueba autónoma del estado del inmueble.
+
+================================================================================
+XIII-B. ARTÍCULOS PROCESALES ADICIONALES DEL CPCCBA
+================================================================================
+
+• Art. 326 CPCCBA — Prueba anticipada: Permite solicitar medidas de
+  prueba anticipada ANTES o DURANTE el inicio del juicio. Esencial cuando
+  existe riesgo de que la prueba se pierda o sea difícil de producir en
+  la etapa ordinaria. Dada la naturaleza EVOLUTIVA de los daños por
+  humedad, esta norma es herramienta clave para preservar la evidencia.
+
+• Art. 383 y ss. CPCCBA — Prueba documental: Regula la presentación de
+  documentos como el fallo previo, boletas digitales, actas notariales,
+  fotografías con metadatos y toda la documentación del caso.
+
+• Art. 424 y ss. CPCCBA — Prueba testimonial: Regula la declaración de
+  testigos que den fe de la existencia previa de los bienes, el estado
+  anterior del inmueble, la ejecución de la obra y el deterioro sufrido.
+
+• Art. 477 CPCCBA — Reconocimiento judicial: El juez puede acudir
+  PERSONALMENTE al inmueble en Merlo para verificar in situ el olor,
+  la sensación térmica, el estado de deterioro visual, las filtraciones,
+  la humedad y las condiciones de habitabilidad. Esta diligencia tiene
+  valor probatorio directo.
+
+• Art. 191 y ss. CPCCBA — Prohibición de innovar: Medida cautelar para
+  DETENER toda actividad constructiva adicional del demandado mientras
+  se desarrolla el proceso, evitando agravamiento de los daños.
+
+• Art. 315 CPCCBA — Ofrecimiento de prueba: Regula la agregación de
+  prueba documental junto con la demanda.
+
+================================================================================
+XIII-C. NORMAS MUNICIPALES Y PROVINCIALES ADICIONALES
+================================================================================
+
+• Ordenanza 3326 (Merlo): Obligatoriedad de vallas provisorias, pantallas
+  de protección contra caída de objetos y sistemas de aislamiento para
+  evitar esparcimiento de polvo y escombros. Violada expresamente por la
+  ausencia total de protecciones durante la obra del demandado.
+
+• Ordenanza 5726/2019 (Merlo): Refuerza la responsabilidad SOLIDARIA
+  entre antecesores y sucesores en las obligaciones de edificación.
+  Permite que la MUNICIPALIDAD actúe DE OFICIO para realizar obras de
+  seguridad A COSTA del propietario si este omite su realización ante
+  daños a linderos. También regula el acceso a expedientes municipales
+  (Art. 16).
+
+• Ordenanza 520/93 (Merlo): Normativa complementaria municipal.
+
+• Ordenanza 5616/2018 (Merlo): Normativa adicional del Código de
+  Edificación de Merlo.
+
+• Arts. 338-339 Código de Edificación Merlo: Denominación de muros según
+  ubicación (Art. 338) y espesores mínimos obligatorios para garantizar
+  estabilidad (Art. 339).
+
+• Art. 344 Código de Edificación Merlo: Los muros exteriores deben ser
+  REVOCADOS y TERMINADOS para garantizar buen aspecto y conservación.
+
+• Arts. 162-168 Código de Edificación Merlo: Protección integral de
+  linderos durante la ejecución de obras, incluyendo responsabilidad
+  del Director de Obra y Constructor por "cuanto ocurra en la obra, de
+  los perjuicios ocasionados en los edificios linderos o por falta de
+  precauciones."
+
+• Arts. 8.5.7, 8.5.8, 8.5.9 Código Urbano Merlo: Regulan los convenios
+  de unificación de reservorios de agua compartidos entre parcelas
+  lindantes, informe de autoridad municipal hidráulica y cálculo de
+  volumen mínimo de reservorio.
+
+• Resolución 1069/91: Salud y Seguridad en la Construcción — Normativa
+  complementaria al Decreto 911/96.
+
+• Resolución SRT 35/98: Programa de Seguridad Único obligatorio cuando
+  intervienen múltiples contratistas o subcontratistas.
+
+• Resoluciones SRT 463/2009, 529/2009, 741/2010: Relevamiento General de
+  Riesgos Laborales (RGRL) — Confección y presentación ante la ART del
+  estado de cumplimiento de la normativa de seguridad vigente.
+
+• Ley 12.490 (PBA): Contribución al Colegio Profesional — Pago
+  obligatorio del CEP (Certificado de Encomienda Profesional) junto con
+  el visado del plano ante el CAPBA o CPIC.
+
+================================================================================
+XIII-D. DOCUMENTACIÓN FALTANTE ADICIONAL DE LA OBRA CLANDESTINA
+================================================================================
+
+Además de los 11 documentos ya enumerados en la Sección IV del documento
+original, la revisión exhaustiva reveló que el demandado también omitió:
+
+12. Certificado de Nomenclatura Catastral (emitido por Dirección de
+    Catastro municipal — identifica la parcela).
+13. Certificado de Numeración Domiciliaria (emitido por Catastro).
+14. Título de Propiedad / Escritura inscripta en el Registro de la
+    Propiedad Inmueble (fotocopia visada por Catastro).
+15. Libre Deuda ARBA (Impuesto Inmobiliario Provincial).
+16. Planilla de Revalúo ARBA (declaración de nueva superficie cubierta).
+17. Formulario 931 AFIP (personal contratado).
+18. Certificado de Verificación Técnica de Vehículos/Maquinaria.
+19. Seguro de Vida Obligatorio (para todo el personal en obra).
+20. Seguro de Responsabilidad Civil contra daños a terceros y sus
+    pertenencias (obligatorio según Ord. 757/00).
+21. Póliza de Seguro de Responsabilidad Civil específica por daños a
+    propiedad vecina durante trabajos sobre techo ajeno.
+22. Carátula Reglamentaria (con nomenclatura catastral, FOS, FOT,
+    zonificación, densidad).
+23. Certificado de Cobertura ART con listado de personal declarado.
+24. Relevamiento General de Riesgos Laborales (RGRL — Res. SRT 463/2009).
+25. Estudio de Suelo (si corresponde por zona/envergadura).
+26. Memoria Descriptiva de las modificaciones estructurales.
+27. Convenio Privado de Unificación de Reservorios (Arts. 8.5.7-8.5.9
+    Código Urbano Merlo) — Para el sistema de agua compartido.
+28. Plano de Instalación de Agua Compartida con detalle de modificaciones.
+29. Verificación Estructural del Techo Vecino (capacidad portante de la
+    losa donde se trabajó y se ubicó el tanque).
+30. Pago de Derechos de Construcción (Ord. Impositiva vigente).
+31. Carnet de Constructor Municipal vigente del profesional responsable
+    ante la Municipalidad de Merlo.
+32. Plan de Izaje (Rigging Plan) para el tanque cisterna de 750 kg.
+
+================================================================================
+XIII-E. ELEMENTOS PROBATORIOS ADICIONALES
+================================================================================
+
+La revisión reveló medios de prueba específicos no incluidos en el documento
+original que son de gran relevancia:
+
+1. PRUEBA ANTICIPADA (Art. 326 CPCCBA): Solicitar medidas de prueba
+   anticipada ANTES del juicio, dada la naturaleza evolutiva de los daños.
+
+2. RECONOCIMIENTO JUDICIAL (Art. 477 CPCCBA): El juez puede inspeccionar
+   personalmente el inmueble para percibir olores, temperatura, estado
+   de deterioro visual, filtraciones y condiciones de habitabilidad.
+
+3. PERICIA INFORMÁTICA: Para validar la integridad de fotos publicadas
+   en redes sociales (metadatos EXIF: fecha, hora, GPS) como evidencia
+   del estado previo del inmueble.
+
+4. PRESUNCIÓN DE POSESIÓN DE BUENA FE (Art. 1895 CCCN): Los bienes
+   muebles dentro del hogar se presumen del habitante. La falta de
+   facturas NO impide el reclamo.
+
+5. ACTA NOTARIAL DE CONSTATACIÓN (Art. 1032 CCCN): Con valor probatorio
+   PLENO — debe documentar: agua cayendo, ropa mojada, cama húmeda,
+   cables expuestos, tanque 750 kg in situ, estado de membrana, depresión
+   de losa, desprendimientos de cielorraso, marcas de impacto en techo.
+   DEBE realizarse ANTES de cualquier reparación.
+
+6. INFORMES DEL CUERPO DE BOMBEROS / DEFENSA CIVIL: Si se solicitó
+   intervención por riesgo de electrocución o derrumbe, constituye prueba.
+
+7. INFORME DE EMPRESA ELÉCTRICA / ELECTRICISTA MATRICULADO: Certificación
+   del riesgo concreto de la instalación eléctrica expuesta al agua.
+
+8. FOTOGRAFÍAS PUBLICADAS EN REDES SOCIALES: Fechadas, del estado de la
+   casa desde todo ángulo, previo al comienzo de la obra (desde 2 años
+   antes hasta pocos meses antes). Son LEGALMENTE ADMISIBLES conforme
+   jurisprudencia vigente.
+
+9. COMPROBANTES DE PÉRDIDA LABORAL DIGITAL: Certificados de Google
+   (ingresos de YouTube/AdSense), registros del equipo de PC dañado
+   (en garantía, falla por causa externa/humedad), reclamo a proveedor
+   de internet (Movistar, 10 días sin servicio), pérdida de continuidad
+   de servicio digital.
+
+10. LOGS DE PC: Informes fechados de registros del equipo informático
+    mostrando los daños actuales causados por humedad/agua.
+
+11. CARGA PROBATORIA DINÁMICA (Art. 710 CCCN por analogía): El constructor
+    se encuentra en MEJOR POSICIÓN de probar la inexistencia de daños o
+    la preexistencia de deterioro. La inversión de la carga probatoria
+    favorece al reclamante.
+
+================================================================================
+XIII-F. ARGUMENTOS JURÍDICOS ADICIONALES
+================================================================================
+
+ARGUMENTO 13 — COSA JUZGADA Y PRUEBA TRASLADADA:
+Si existe un fallo previo favorable que ya demostró que el demandado
+causó daños al inmueble, el nexo causal es un HECHO ACREDITADO que no
+puede ser rediscutido. El nuevo proceso debe centrarse en la EXTENSIÓN
+del daño (bienes muebles, salud, moral, laboral), partiendo de la base
+de que la causa fuente ya no es objeto de debate.
+
+ARGUMENTO 14 — ASTREINTES POR INDIFERENCIA:
+La actitud de indiferencia del demandado durante casi 2 años, su falta
+de respuesta a los reclamos y la prolongación de los daños sin solución
+justifican la imposición de ASTREINTES (sanciones conminatorias
+pecuniarias) para compeler el cumplimiento de las obligaciones de
+reparación. La conducta abusiva (Art. 10 CCCN) potencia este rubro.
+
+ARGUMENTO 15 — RIESGO DE ROBO POR DESOCUPACIÓN FORZADA:
+La desocupación forzada de la vivienda (si corresponde) aumenta el riesgo
+de intrusión o robo. La jurisprudencia argentina reconoce que la
+"creación de una situación de vulnerabilidad" por parte del constructor
+(al forzar la salida del habitante) puede hacerlo responsable de las
+consecuencias derivadas, o al menos agrava el daño moral por la
+preocupación constante que genera.
+
+ARGUMENTO 16 — INSTALACIÓN DE AGUA "ESCLAVA" (DEPENDENCIA FORZADA):
+La modificación del servicio de agua dejó la instalación del reclamante
+en CONDICIÓN DE DEPENDENCIA de la instalación del demandado. El demandado
+no hizo una subdivisión del suministro, sino que TOMÓ el suministro para
+recibirlo primero en SU instalación y desde allí alimentar la del
+reclamante. Esto convierte al reclamante en REHÉN de cualquier problema
+en la instalación del demandado (cortes, reparaciones, etc.). Esta
+práctica constituye una contravención al Código de Edificación provincial
+y municipal y una violación de los Arts. 2166 y 2630 del CCCN, además
+de los Arts. 8.5.7-8.5.9 del Código Urbano de Merlo.
+
+ARGUMENTO 17 — VICIOS REDHIBITORIOS Y DESVALORIZACIÓN A LARGO PLAZO:
+Los daños estructurales y las filtraciones crónicas constituyen VICIOS
+OCULTOS que provocan una desvalorización patrimonial del inmueble a
+largo plazo que trasciende el mero costo de reparación. Este "tercer
+orden" de consecuencias económicas incluye la pérdida de valor de
+reventa, la imposibilidad de obtener créditos hipotecarios y la
+reducción de la capacidad locativa del inmueble.
+
+ARGUMENTO 18 — DAÑO PSICOLÓGICO ESPECÍFICO — TRASTORNO ADAPTATIVO:
+A diferencia del daño moral (que se presume in re ipsa), el daño
+psicológico como rubro autónomo requiere acreditación clínica. El estrés
+severo por la pérdida de la seguridad del hogar y el miedo constante al
+derrumbe o electrocución pueden configurar un TRASTORNO ADAPTATIVO o
+estrés postraumático, cuyo tratamiento psicoterapéutico prolongado debe
+ser costeado por el demandado.
+
+================================================================================
+XIII-G. DEFENSAS ADICIONALES Y SUS REFUTACIONES
+================================================================================
+
+DEFENSA POSIBLE 7: "NO HAY NEXO CAUSAL"
+
+REFUTACIÓN:
+• En responsabilidad OBJETIVA (Art. 1757 CCCN), la carga de la prueba se
+  INVIERTE: es el DEMANDADO quien debe probar la culpa de un tercero o
+  de la víctima para eximirse. No basta con negar el nexo causal.
+• La prueba pericial técnica (ingeniería/arquitectura) demostrará la
+  relación directa entre la obra y los daños.
+• La secuencia temporal (obra → daños) es irrefutable.
+
+DEFENSA POSIBLE 8: "LA ACCIÓN ESTÁ PRESCRIPTA"
+
+REFUTACIÓN:
+• El plazo de prescripción es de 3 años (Art. 2561/2572 CCCN), contado
+  desde que el damnificado conoció o pudo conocer el daño.
+• En caso de DAÑO CONTINUADO (como filtraciones que persisten y se agravan),
+  el plazo se REINICIA con cada nueva manifestación del daño. Las goteras
+  y filtraciones son continuas y se agravan, por lo que la prescripción
+  no ha operado.
+
+DEFENSA POSIBLE 9: "EL ACTOR NO PERMITIÓ REPARACIONES"
+
+REFUTACIÓN:
+• Las reparaciones deben realizarse bajo SUPERVISIÓN PERICIAL para
+  preservar la prueba (principio de integridad probatoria).
+• El reclamante tiene derecho a que las reparaciones sean técnicamente
+  correctas y no meras "parches" que generen nuevos daños.
+• La reparación defectuosa ya realizada demuestra precisamente que las
+  intervenciones sin control técnico agravan la situación.
+• La obligación de mitigación del daño del reclamante NO incluye aceptar
+  reparaciones improvisadas que destruyan evidencia.
+
+DEFENSA POSIBLE 10: "TENÍA PERMISO MUNICIPAL"
+
+REFUTACIÓN:
+• El permiso municipal (si existiera, que NO existe) no exime de
+  responsabilidad por los daños causados.
+• El resultado dañoso activa la responsabilidad OBJETIVA (Art. 1757 CCCN)
+  con independencia de la existencia de permisos.
+• La responsabilidad civil es autónoma de la regularidad administrativa.
+
+================================================================================
+XIII-H. JURISPRUDENCIA ESPECÍFICA IDENTIFICADA
+================================================================================
+
+Las siguientes referencias jurisprudenciales, extraídas de los archivos del
+repositorio, fundamentan el reclamo:
+
+1. CSJN, "Fallos 308:1109" (caso SANTA COLOMA c/ EFEA): Consagró el
+   principio "alterum non laedere" (no dañar a otro) como principio
+   CONSTITUCIONAL AUTÓNOMO con fundamento en el Art. 19 CN. Es el
+   precedente fundacional de la responsabilidad civil en Argentina.
+
+2. Jurisprudencia de CSJN referenciada como "caso LACASA": Sobre
+   responsabilidad solidaria de constructores y propietarios.
+
+3. Cámara de Apelaciones de QUILMES (2024): "El hogar es centro de
+   sosiego y placer; el daño moral por alteración de la vivienda es
+   innegable." Otorgó daño moral por privación del uso del inmueble.
+
+4. Cámara de Apelaciones de TRENQUE LAUQUEN (2024) — "Caso BARRIOS"
+   (SCBA): Confirmó la fórmula de actualización de montos indemnizatorios
+   a valores actuales al momento de la sentencia. Relevante para el
+   cálculo de intereses y actualización.
+
+5. Sala F de la Cámara Civil: Otorgó daño moral incluso cuando los daños
+   materiales fueron menores, simplemente por la alteración en la
+   vivienda y las molestias constantes. Aplicó la doctrina "in re ipsa".
+
+6. "AUN CECILIA MARCELA c/ A+P EMPRENDIMIENTOS S.A.": Errores de diseño
+   en instalaciones pluviales generan responsabilidad directa del
+   constructor/proyectista.
+
+7. "BAZZI c/ TRSAR": Si las cañerías son de uso exclusivo de una unidad,
+   el dueño de esa unidad responde íntegramente por los daños que causen.
+
+8. SCBA: "La humedad generalizada constituye un deterioro grave que
+   compromete la estabilidad y habitabilidad del hogar."
+
+================================================================================
+XIII-I. RESPONSABLES ADICIONALES A DEMANDAR
+================================================================================
+
+Además del vecino/dueño de la obra, la revisión exhaustiva identificó que
+pueden/deben ser demandados SOLIDARIAMENTE:
+
+1. MUNICIPALIDAD DE MERLO: Por omisión del poder de policía edilicio. Si
+   se realizaron denuncias administrativas sin respuesta o inspecciones
+   sin sanción, el municipio es corresponsable por la permisión de la
+   obra clandestina. Marco: Decreto-Ley 6769/58 (Ley Orgánica de
+   Municipalidades), poder de policía edilicia.
+
+2. FIDUCIARIO: Si la obra se ejecutó bajo estructura de fideicomiso,
+   el fiduciario responde solidariamente.
+
+3. ASEGURADORA (citación en garantía): Si el demandado o el
+   constructor/director de obra contaban con seguro de responsabilidad
+   civil, la aseguradora debe ser CITADA EN GARANTÍA.
+
+4. COLEGIOS PROFESIONALES: Debe realizarse denuncia ante:
+   — CAPBA (Colegio de Arquitectos PBA, Distrito 3 — jurisdicción Merlo)
+   — CIPBA/CPIC (Colegio de Ingenieros) si corresponde
+   por falta ética profesional del director de obra, solicitando
+   INHABILITACIÓN PROFESIONAL.
+
+5. ART: Denuncia ante la Aseguradora de Riesgos del Trabajo por
+   infracciones al Decreto 911/96 (trabajadores sin cobertura).
+
+================================================================================
+XIII-J. MANIOBRA LEGAL INTEGRAL RECOMENDADA (4 FASES)
+================================================================================
+
+FASE 1 — URGENTE (Preservación de prueba):
+• Acta notarial de constatación ANTES de cualquier reparación
+• Prueba anticipada (Art. 326 CPCCBA)
+• Fotografías/videos con metadatos preservados
+• Solicitud de acceso a expediente obra municipal (Art. 16 Ord. 5726/19)
+• Pericia informática para validar fotos de redes sociales
+
+FASE 2 — PRE-LITIGIO:
+• Mediación prejudicial obligatoria (Ley 13.951 PBA)
+• Denuncia administrativa ante Municipio Merlo (Subsecretaría
+  Contravencional, Dirección de Obras Particulares)
+• Denuncia ante AySA por incumplimiento normativa sanitaria
+• Solicitud de tutela anticipada por riesgo vital
+
+FASE 3 — LITIGIO:
+• Demanda civil: "Daños y Perjuicios — Responsabilidad Extracontractual"
+• Demandados: Dueño + Director Obra + Constructor + Municipio (solidarios)
+• Citación en garantía de la Aseguradora de RC
+• Denuncia penal complementaria (Art. 189 CP — estrago culposo)
+• Solicitud de prohibición de innovar (Art. 191+ CPCCBA)
+• Embargo en construcción
+• Ofrecimiento de SEIS especialidades periciales:
+  1. Ingeniero civil/arquitecto (estructura, nexo causal, costos)
+  2. Electricista matriculado (riesgo electrocución, certificación)
+  3. Tasador de bienes (depreciación inmueble, reposición muebles/ropa)
+  4. Perito informático (integridad fotos, metadatos, redes sociales)
+  5. Médico/neumonólogo (afecciones respiratorias si corresponde)
+  6. Perito asegurador (cobertura de póliza si citación en garantía)
+
+FASE 4 — PROFESIONAL/ADMINISTRATIVA:
+• Denuncia CAPBA/CIPBA: Falta ética profesional del director
+• Solicitud de inhabilitación profesional
+• Denuncia ante ART: Infracciones por trabajo sin cobertura
+
+================================================================================
+XIII-K. RUBROS INDEMNIZABLES ADICIONALES
+================================================================================
+
+A los 18 rubros ya enumerados en la Sección VII, se agregan:
+
+19. DAÑO A LA VIDA DE RELACIÓN: Rubro autónomo. Pérdida de vínculos
+    sociales, imposibilidad de recibir visitas, cancelación de reuniones,
+    pérdida de intimidad de pareja. Acreditable por testimonial.
+
+20. PRIVACIÓN DE USO (VALOR LOCATIVO): El valor del alquiler equivalente
+    del inmueble durante los casi 2 años de inhabilitabilidad, valorado
+    por tasador inmobiliario, constituye un rubro indemnizable autónomo.
+
+21. RECABLEADO ELÉCTRICO COMPLETO: Conforme normas AEA vigentes, por
+    exposición crónica a humedad que compromete toda la instalación.
+
+22. REPOSICIÓN DE INDUMENTARIA (>50% pudrida por hongos/humedad): Con
+    presunción de posesión de buena fe (Art. 1895 CCCN).
+
+23. RIESGO DE ROBO POR AUSENCIA FORZADA: Pérdida de chance ante la
+    desprotección patrimonial causada por la desocupación forzada.
+
+24. GASTOS MÉDICOS Y FARMACÉUTICOS: Tratamientos por afecciones
+    respiratorias, alergias crónicas, consultas médicas especializadas
+    y medicamentos.
+
+25. TRATAMIENTO PSICOTERAPÉUTICO: Costo futuro de terapia psicológica/
+    psiquiátrica por trastorno adaptativo.
+
+26. HONORARIOS PROFESIONALES: +30% sobre gastos generales conforme
+    costumbre judicial en materia de daños.
+
+================================================================================
+XIII-L. TRATADOS INTERNACIONALES ADICIONALES
+================================================================================
+
+• CADH Art. 11 — Protección de la Honra y la Dignidad: "Toda persona
+  tiene derecho al respeto de su honra y al reconocimiento de su dignidad.
+  Nadie puede ser objeto de injerencias arbitrarias o abusivas en su vida
+  privada, en la de su familia, en su domicilio."
+
+• PIDESC Art. 11 — Derecho a un nivel de vida adecuado: "Los Estados
+  Partes reconocen el derecho de toda persona a un nivel de vida adecuado
+  para sí y su familia, incluso alimentación, vestido y vivienda
+  adecuados." La vivienda adecuada incluye protección contra la humedad,
+  el frío y amenazas a la salud.
+
+================================================================================
+XIII-M. HECHOS FÁCTICOS ADICIONALES RELEVANTES
+================================================================================
+
+De la revisión de los archivos (especialmente MAMAAAAAAAAAA.txt, CASO JUAN.txt,
+PADECIMIENTOS.txt, HUMEDAD.txt e INFORME ABOGADO.txt) surgen los siguientes
+hechos adicionales relevantes:
+
+1. DAÑO EN PLACAS DE PVC: Placas colocadas en la cocina en febrero 2025
+   ya presentan daños por la humedad.
+
+2. ROTURA DE CAÑO DE AGUAS LIMPIAS: Comprimido por la depresión
+   estructural en el punto exacto de colocación del tanque.
+
+3. PUERTA DEL BAÑO: Colocada a fines de 2025, ya presenta corrosión
+   en marco y hoja por exposición a líquidos y humedad.
+
+4. LUMINARIAS: Daño total por corrosión en baño; daño prácticamente
+   total en pasillo; corrosión avanzada en living/hall.
+
+5. GRIFERÍA: Deterioro grave por humedad constante.
+
+6. DAÑO A PC/EQUIPO INFORMÁTICO: Equipo dentro de garantía que no pudo
+   ser reemplazado porque el daño fue causado por factor EXTERNO (humedad/
+   agua), no por falla del producto. Certificados de Google de ingresos
+   mensuales/diarios de YouTube demuestran el LUCRO CESANTE.
+
+7. PÉRDIDA DE SERVICIO DE INTERNET: Reclamo a Movistar (con número de
+   reclamo documentado) por 10 días sin servicio, causando pérdida
+   de ingresos digitales documentables.
+
+8. INSTALACIÓN ELÉCTRICA NUEVA DEL DEMANDADO: Rompió pared con conexión
+   expuesta, placa superpuesta flotante colgada, enchufes sin bases
+   firmes para su posición.
+
+9. OFRECIMIENTO DE CORTAR MEMBRANA: El reclamante ofreció cortar y
+   levantar la membrana para mostrar la superficie anterior; el demandado
+   lo RECHAZÓ. Si se levanta quedaría expuesta la reparación defectuosa
+   con restos de cemento.
+
+10. RECONOCIMIENTO TÁCITO DEL DEMANDADO: En el primer intercambio de
+    mensajes ofreció DINERO para calmar al reclamante, lo cual constituye
+    un reconocimiento tácito de los daños. La respuesta del reclamante
+    fue que NO quería dinero, solo la detención de la obra y reparación,
+    demostrando actitud conciliadora y desinteresada.
+
+11. MEDICIONES DE HUMEDAD: Superiores al 70-80% sostenidas durante más
+    de 2 años, verificables con higrómetros certificados.
+
+12. ALERGIA CRÓNICA: Historial clínico del reclamante NO registra
+    antecedentes de alergias previas a la obra; estudio clínico simple
+    demostraría alergia crónica de origen ambiental.
+
+13. CARTA AL INTENDENTE GUSTAVO MENÉNDEZ: Solicitando certificación
+    municipal de obra irregular (ya presentada con documentación adjunta:
+    plano original, boleto compraventa, fotos, contrato de copropiedad,
+    informe técnico de daños).
+
+14. DOS INFORMES TÉCNICOS PREVIOS: Uno con timbrado y firma profesional,
+    constituyen prueba preconstituida de los daños.
+
+15. ACTITUD CONCILIADORA DOCUMENTADA: 2 años de intentos de diálogo, dos
+    mediaciones, múltiples reclamos informales documentados (mensajes).
+    El demandado ridiculizó los reclamos y no detuvo la obra.
+
+16. MARCAS DE ESCOMBROS: Las marcas de caída de escombros sobre la pared
+    y el techo de chapa del lavadero SOLO en la zona expuesta a la obra
+    constituyen material apto para peritaje.
+
+================================================================================
+     NORMAS ADICIONALES CITADAS — REFERENCIA CRUZADA (ADDENDUM)
+================================================================================
+
+CCCN: Arts. 1032, 1717, 1724, 1727, 1895, 2006, 2010, 2022, 2024, 2561,
+   2572, 2654-2658
+CPCCBA: Arts. 191, 315, 326, 383, 424, 457, 477
+CADH: Art. 11
+PIDESC: Art. 11
+ORD. MERLO 3326, 5726/2019, 520/93, 5616/2018
+ORD. MERLO Arts. 162-168, 338-339, 344; Arts. 8.5.7-8.5.9 Cód. Urbano
+RES. 1069/91 (Salud y Seguridad Construcción)
+RES. SRT 35/98 (PS Único)
+RES. SRT 463/2009, 529/2009, 741/2010 (RGRL)
+LEY 12.490 (PBA — CEP Colegio Profesional)
+JURISPRUDENCIA: CSJN "Santa Coloma" (Fallos 308:1109); CSJN "Lacasa";
+   Cám. Quilmes 2024; Cám. Trenque Lauquen 2024 "Caso Barrios" (SCBA);
+   Sala F Cám. Civil; "Aun Cecilia Marcela c/ A+P"; "Bazzi c/ Trsar"
+
+================================================================================
                FIN DEL DOCUMENTO DE JUSTIFICACIÓN Y VALIDACIÓN
+          (CON ADDENDUM DE REVISIÓN EXHAUSTIVA DE DOBLE PASADA)
 ================================================================================
