@@ -1,0 +1,658 @@
+================================================================================
+   INFORME JURÍDICO — DAÑOS POR OBRA LINDERA — LOCALIDAD DE MERLO
+   PROVINCIA DE BUENOS AIRES — REPÚBLICA ARGENTINA
+   Fecha de emisión: 16 de abril de 2026
+   Sistema: JUEZ-DRED — Análisis Multienfoque Verificado
+================================================================================
+
+ADVERTENCIA INICIAL OBLIGATORIA
+--------------------------------
+Este informe constituye orientación jurídica general elaborada con información
+verificada a la fecha de emisión. NO reemplaza el criterio de un abogado
+matriculado ni de un profesional técnico habilitado. Antes de iniciar cualquier
+acción judicial o extrajudicial, se recomienda consultar profesionales
+especializados en la jurisdicción del Departamento Judicial de Morón, Provincia
+de Buenos Aires.
+
+================================================================================
+SECCIÓN 0 — ENCUADRE GENERAL DEL CASO (Sin tomar partido)
+================================================================================
+
+Un inmueble ubicado en la localidad de Merlo, Partido de Merlo, Provincia de
+Buenos Aires, ha sufrido daños materiales extensos que incluyen:
+
+  — Rajaduras en techo, paredes y revestimientos
+  — Filtraciones de agua con deterioro continuo
+  — Caída de fragmentos de cielorraso
+  — Hongos y humedad estructural
+  — Red eléctrica expuesta a humedad
+  — Puertas y marcos metálicos con corrosión
+  — Muebles y piso de madera dañados
+  — Indumentaria percudida
+  — Colchón arruinado
+  — Electrodomésticos oxidados
+  — Componentes de hardware informático afectados en funcionamiento
+    e integridad física
+
+Estos daños se atribuyen causalmente a una obra de edificación realizada en
+el inmueble lindero, llevada a cabo sin los estudios técnicos estructurales
+obligatorios previos y con incorrecta reubicación de elementos, configurando
+presunta negligencia profesional e incumplimiento normativo.
+
+La legislación aplicable incluye, sin limitarse a:
+
+  Código Civil y Comercial de la Nación (Ley 26.994):
+    — Art. 1710 a 1780 (Responsabilidad civil — Función preventiva y resarcitoria)
+    — Art. 1749 (Responsabilidad subjetiva del agente)
+    — Art. 1757/1758 (Responsabilidad objetiva por actividad riesgosa)
+    — Art. 1973 (Inmisiones entre fundos vecinos)
+    — Art. 1970/1971 (Límites al dominio — normas administrativas)
+    — Art. 1716 (Deber de no dañar — neminem laedere)
+
+  Código Procesal Civil y Comercial de la Provincia de Buenos Aires:
+    — Arts. 457 a 474 (Prueba pericial)
+    — Art. 384 (Sana crítica — apreciación de la prueba)
+
+  Normativa provincial y municipal aplicable:
+    — Ley 8912/77 (Ordenamiento territorial y uso del suelo, Pcia. Bs. As.)
+    — Ordenanzas municipales del Partido de Merlo sobre construcción y edificación
+    — Decreto Provincial 6964/65 y modificatorios (Arancel profesional
+      de Arquitectos e Ingenieros, Pcia. Bs. As.)
+    — Leyes 10.405 y 12.490 (CAPBA — regulación profesional)
+
+  Jurisprudencia verificada de la Provincia de Buenos Aires:
+    — SCBA, Ac. 45797 S 14-5-1991 (A y S 1991-I-710): La fuerza probatoria del
+      dictamen pericial solo puede enervarse por fundadas razones científicas o
+      técnicas. No resulta suficiente la discrepancia subjetiva de las partes.
+    — Doctrina pacífica de Cámaras de Apelaciones bonaerenses: la construcción
+      de edificios como actividad riesgosa genera responsabilidad objetiva del
+      dueño de la obra, del empresario constructor y del director de obra,
+      en forma concurrente e indistinta, salvo prueba de caso fortuito o culpa
+      exclusiva de la víctima.
+    — Microjuris Argentina, fallo del 14/01/2025: procedencia de demanda de
+      daños a vecina afectada por construcción de edificio lindero. El perito
+      ingeniero actuante fue pieza central de la condena.
+    — Microjuris Argentina, fallo del 08/04/2024: rajaduras por asentamientos
+      diferenciales ocasionados por construcción lindero = actividad riesgosa
+      bajo art. 1757 CCyCN (antes art. 1113 CC Vélez). Responsabilidad objetiva
+      del dueño, constructora y arquitectos directores en forma concurrente.
+
+================================================================================
+SECCIÓN 1 — PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA
+================================================================================
+
+POSICIÓN JURÍDICA DEL TITULAR DEL INMUEBLE DAÑADO
+
+1.1 ENCUADRE DE LOS HECHOS Y RESPONSABILIDADES
+
+  El titular del inmueble dañado (en adelante, "el damnificado") cuenta con
+  un encuadre jurídico sólido en la normativa vigente. La construcción de un
+  edificio es jurisprudencialmente reconocida como actividad riesgosa conforme
+  al art. 1757/1758 del CCyCN, lo que genera responsabilidad objetiva en cabeza
+  de los siguientes sujetos de forma concurrente e indistinta:
+
+    a) El propietario/comitente del inmueble lindero donde se ejecutó la obra
+    b) La empresa o persona física que ejecutó la obra (empresario constructor)
+    c) El profesional director técnico de la obra (arquitecto o ingeniero)
+    d) El profesional proyectista, si hubiere intervenido
+
+  La responsabilidad es OBJETIVA: el damnificado NO necesita probar culpa de
+  los responsables. Solo debe acreditar:
+    (i)  El daño sufrido en su inmueble y bienes
+    (ii) La actividad constructiva en el predio lindero
+    (iii) La relación de causalidad entre (i) y (ii)
+
+  El tercer elemento es el más crítico y es donde el INFORME PERICIAL TÉCNICO
+  cumple su función probatoria central e insustituible.
+
+1.2 FUNDAMENTOS NORMATIVOS QUE FAVORECEN AL DAMNIFICADO
+
+  Art. 1973 CCyCN: Las molestias producidas por actividades en inmuebles
+  vecinos —incluidas vibraciones, ruidos, humedades e inmisiones similares—
+  no deben exceder la normal tolerancia. El juez puede disponer indemnización,
+  cese de la causa y remoción.
+
+  Art. 1757 CCyCN: Quien realiza una actividad riesgosa o peligrosa responde
+  por el daño causado. No es eximente la autorización administrativa ni el
+  cumplimiento de técnicas de prevención.
+
+  Art. 1758 CCyCN: El dueño y el guardián de la cosa riesgosa responden
+  objetiva e indistintamente.
+
+  Principio neminem laedere (art. 1716 CCyCN): El deber genérico de no dañar
+  a terceros es la base constitucional y civil de toda acción de daños.
+
+1.3 ESTRATEGIA RECOMENDADA
+
+  — Obtener INMEDIATAMENTE un Informe Técnico Pericial de parte (ver Sección 3).
+  — Documentar mediante acta notarial o escritura de constatación el estado
+    actual del inmueble antes de cualquier reparación.
+  — Conservar sin modificar los daños en la medida de lo posible hasta
+    que el perito efectúe la inspección.
+  — Iniciar acción civil ordinaria de daños y perjuicios ante el Juzgado
+    Civil y Comercial del Departamento Judicial de Morón que corresponda
+    por turno y monto demandado.
+  — Solicitar medida cautelar de prohibición de innovar sobre el inmueble
+    lindero si existieren restos de la obra relevantes como prueba.
+  — Solicitar en el proceso la designación de un perito oficial de oficio
+    (nombrado por el juzgado) que respalde o complemente el informe de parte.
+
+1.4 RUBROS INDEMNIZATORIOS RECLAMABLES
+
+  Daño emergente:
+    — Costo de reparación de rajaduras, cielorraso, techo, paredes, revoques
+    — Costo de tratamiento anti-humedad, impermeabilización, fungicidas
+    — Reemplazo de red eléctrica afectada
+    — Reemplazo de puertas y marcos metálicos
+    — Reemplazo de piso y muebles de madera
+    — Reemplazo de colchón, indumentaria, electrodomésticos
+    — Reparación o reemplazo de componentes de hardware informático
+    — Honorarios del perito de parte
+    — Honorarios del abogado (según regulación arancelaria)
+
+  Lucro cesante:
+    — Si el inmueble es parcialmente locado o produce renta, la pérdida
+      de esa renta durante el período de inhabitabilidad parcial o total.
+
+  Daño moral:
+    — El menoscabo a la tranquilidad, integridad patrimonial del hogar,
+      salud (exposición a hongos y humedad) y calidad de vida del habitante.
+    — Es procedente conforme art. 1741 CCyCN.
+
+  Desvalorización del inmueble:
+    — Puede reclamarse si el daño estructural ha impactado negativamente
+      el valor de mercado de la propiedad, aun luego de las reparaciones.
+
+================================================================================
+SECCIÓN 2 — PERSPECTIVA DEL DEMANDADO / PARTE DEFENSORA
+================================================================================
+
+POSICIÓN JURÍDICA DEL PROPIETARIO DEL PREDIO LINDERO, EL CONSTRUCTOR
+Y EL DIRECTOR DE OBRA
+
+2.1 ARGUMENTOS DEFENSIVOS DISPONIBLES
+
+  La defensa de los potenciales demandados se construirá en torno a los
+  siguientes ejes:
+
+  a) Cuestionar la relación de causalidad:
+     Argumentar que los daños son preexistentes a la obra y se originan en
+     la vetustez del inmueble del actor, en falta de mantenimiento propio,
+     o en causas ajenas a la edificación (ejemplo: movimientos sísmicos,
+     lluvia, humedad ascendente por antiguedad).
+
+  b) Ruptura del nexo causal:
+     Invocar caso fortuito, fuerza mayor, o culpa exclusiva de la víctima
+     (art. 1730/1731/1729 CCyCN) si pudieran acreditar que el damnificado
+     no realizó el mantenimiento mínimo razonable de su propiedad.
+
+  c) Concurrencia de causas:
+     Alegar que parte de los daños obedece a causas propias del inmueble
+     actor y solicitar reducción de la indemnización en proporción a la
+     concurrencia causal estimada.
+
+  d) Cuestionar la extensión de los daños reclamados:
+     Impugnar los rubros que el demandante adjudica a la obra pero que en
+     realidad pueden responder a otras causas (ejemplo: un colchón dañado
+     por humedad podría tener causas diversas).
+
+  e) Prescripción (si hubiere transcurrido el plazo):
+     El plazo de prescripción para acciones de daños bajo el CCyCN es de
+     3 años desde que la víctima conoció o debió conocer el daño y el
+     responsable (art. 2561 CCyCN).
+
+  ⚠️ ADVERTENCIA DE VERIFICACIÓN PENDIENTE: La aplicación del plazo de
+  prescripción al caso concreto depende de la fecha de inicio de la obra,
+  de los daños y del conocimiento del damnificado. Este punto debe ser
+  verificado con un abogado en función de los hechos específicos.
+
+2.2 RIESGOS DE LA POSICIÓN DEFENSIVA
+
+  Los responsables enfrentan un marco legal y jurisprudencial desfavorable:
+
+  — La jurisprudencia bonaerense es pacífica en reconocer la responsabilidad
+    objetiva de los intervinientes en una obra por los daños causados al
+    fundo lindero.
+  — La SCBA tiene criterio consolidado de dar pleno valor al dictamen pericial
+    técnico. Revertirlo exige crítica científica de igual nivel.
+  — La falta de estudios técnicos estructurales previos y la incorrecta
+    reubicación de elementos agrava la posición de la defensa, configurando
+    negligencia acreditable.
+  — La ausencia del Registro de Suelo y/o de los informes técnicos obligatorios
+    previos a la obra puede constituir prueba directa de incumplimiento normativo.
+
+================================================================================
+SECCIÓN 3 — PERSPECTIVA DEL MINISTERIO PÚBLICO / JUZGADO
+================================================================================
+
+ROL INSTITUCIONAL DEL ÓRGANO JUDICIAL Y DEL AGENTE FISCAL
+
+Nota: En las causas civiles de daños y perjuicios ordinarias, la intervención
+del Ministerio Público Fiscal es limitada. El rol activo lo ejerce el JUEZ
+CIVIL Y COMERCIAL. Esta perspectiva desarrolla lo que el órgano jurisdiccional
+ponderará al evaluar el caso.
+
+3.1 VALORACIÓN JUDICIAL DE LA PRUEBA PERICIAL
+
+  El Juzgado Civil y Comercial del Departamento Judicial de Morón exigirá
+  como elemento probatorio central el DICTAMEN PERICIAL TÉCNICO. La doctrina
+  de la sana crítica (arts. 384 y 474 del CPCC) establece que el juez aprecia
+  la pericia según:
+
+    — La solidez metodológica del informe
+    — La fundamentación científica/técnica de las conclusiones
+    — La correspondencia lógica entre hechos relevados y conclusiones
+    — Las impugnaciones técnicas fundadas que hubieren formulado las partes
+
+  Conforme SCBA Ac. 45797 S 14-5-1991, el apartamiento judicial del dictamen
+  pericial debe fundarse en razones de mucha entidad y rigor técnico. Una
+  impugnación meramente subjetiva o profana no alcanza.
+
+3.2 LO QUE EL JUZGADO REQUERIRÁ DEL DEMANDANTE
+
+  — Informe pericial de parte debidamente fundado (ver Sección 4)
+  — Documentación fotográfica abundante y fechada
+  — Presupuestos de reparación de empresas del rubro (al menos 2 o 3)
+  — Acta notarial o escritura de constatación de daños
+  — Prueba testimonial de vecinos o personas que presenciaron la obra
+    y los daños (declaración ante escribano o en juicio)
+  — Documentación de la obra lindera (planos, habilitaciones, inicio de
+    obra, director técnico) a obtener del Municipio de Merlo mediante
+    pedido de informe o compulsa de expediente municipal
+
+3.3 POSIBLE INTERVENCIÓN DEL MINISTERIO PÚBLICO
+
+  En la medida en que la exposición a hongos, humedad y red eléctrica
+  comprometida pueda implicar riesgo para la salud e integridad de los
+  habitantes —especialmente si hay menores, adultos mayores o personas
+  con enfermedades respiratorias— puede ameritar denuncia ante:
+
+    — Defensoría del Pueblo del Partido de Merlo
+    — Dirección de Bromatología / Salud Pública Municipal (por hongos
+      y condiciones habitacionales insalubres)
+    — Subsecretaría de Control Urbano o Inspección de Obras del Municipio
+      (por incumplimiento normativo en la obra lindera)
+
+================================================================================
+SECCIÓN 4 — INFORME PERICIAL TÉCNICO: QUIÉN LO HACE, QUÉ DEBE CONTENER,
+             FORMATO, VALIDEZ, COSTOS — GUÍA COMPLETA
+================================================================================
+
+4.1 ¿EXISTE UN ÚNICO PROFESIONAL QUE CUBRA TODO?
+
+  SÍ. En el sistema jurídico argentino y en la práctica del Poder Judicial de
+  la Provincia de Buenos Aires, UN SOLO PROFESIONAL puede —y habitualmente lo
+  hace— emitir un informe pericial técnico integral que abarque:
+
+    ✓ Daños estructurales (rajaduras, cielorraso, techo, paredes)
+    ✓ Filtraciones, humedad y hongos
+    ✓ Red eléctrica expuesta y comprometida
+    ✓ Puertas y marcos metálicos afectados por corrosión
+    ✓ Muebles, piso de madera y demás bienes muebles del hogar
+    ✓ Electrodomésticos, indumentaria, colchón, hardware
+    ✓ Causalidad entre todos los daños y la obra lindante
+    ✓ Cuantificación económica de todos los rubros
+
+  Ese profesional es:
+
+  ====================================================================
+  INGENIERO CIVIL (con especialidad en patologías edilicias o estructuras)
+  —— O ——
+  ARQUITECTO (colegiado en CAPBA, con experiencia pericial)
+  ====================================================================
+
+  Ambos títulos tienen habilitación plena para emitir dictámenes periciales
+  en causas de daños por edificación en la Provincia de Buenos Aires.
+
+  En la práctica tribunalicia bonaerense, el INGENIERO CIVIL es el perfil
+  preferido para causas que involucran daños estructurales causales, porque
+  su formación específica en cálculo estructural, suelos y cimentaciones le
+  permite establecer con mayor autoridad técnica la relación de causalidad
+  entre la obra lindante y los daños producidos.
+
+  Para bienes muebles de mayor especificidad (hardware informático), el
+  perito ingeniero puede incluir la valuación en su informe o puede
+  complementarse con un tasador. Sin embargo, en la práctica, la tasación
+  de bienes muebles afectados por humedad causada por una obra es parte
+  integrante del informe de parte civil y es aceptada por los tribunales.
+
+4.2 MAYOR GRADO DE ACREDITACIÓN Y VALIDEZ — ESCALA JERÁRQUICA
+
+  Los informes periciales tienen distintos niveles de jerarquía probatoria:
+
+  NIVEL 1 — MÁXIMA VALIDEZ (vinculante para las partes, alto peso judicial)
+  ┌──────────────────────────────────────────────────────────────────────┐
+  │ PERICIA DE OFICIO — Designada por el Juzgado                       │
+  │ El juez designa al perito de la lista oficial del Poder Judicial   │
+  │ (Acuerdo SCBA 2728 y concordantes). Este dictamen es el de mayor   │
+  │ peso probatorio. Solo puede ser rebatido con fundada crítica        │
+  │ científica. Se solicita dentro del proceso judicial.               │
+  └──────────────────────────────────────────────────────────────────────┘
+
+  NIVEL 2 — ALTA VALIDEZ (prueba de parte — documental técnica)
+  ┌──────────────────────────────────────────────────────────────────────┐
+  │ INFORME PERICIAL DE PARTE — Encargado y pagado por el damnificado  │
+  │ Emitido por ingeniero civil o arquitecto matriculado en CIPBA      │
+  │ (Consejo de Ingeniería Civil) o CAPBA (Colegio de Arquitectos PBA).│
+  │ Es la herramienta que debe obtenerse ANTES de iniciar la demanda.  │
+  │ Funciona como prueba documental y como base para el objeto de la   │
+  │ pericia de oficio que se solicitará en el proceso.                 │
+  │ Tiene plena validez judicial cuando cumple los requisitos formales. │
+  └──────────────────────────────────────────────────────────────────────┘
+
+  NIVEL 3 — VALIDEZ MEDIA (útil como respaldo documental)
+  ┌──────────────────────────────────────────────────────────────────────┐
+  │ INFORME TÉCNICO SIMPLE — Emitido por profesional no inscripto      │
+  │ en lista de peritos judiciales. Puede ser un arquitecto o          │
+  │ ingeniero con matrícula vigente pero sin inscripción pericial.     │
+  │ Es útil para orientación inicial pero tiene menor peso en juicio.  │
+  └──────────────────────────────────────────────────────────────────────┘
+
+  NIVEL 4 — VALIDEZ MÍNIMA (solo orientativo)
+  ┌──────────────────────────────────────────────────────────────────────┐
+  │ PRESUPUESTOS DE REPARACIÓN — Emitidos por empresas constructoras   │
+  │ o técnicos sin matriculación específica. No constituyen prueba     │
+  │ pericial pero son útiles para cuantificar el daño.                 │
+  └──────────────────────────────────────────────────────────────────────┘
+
+  RECOMENDACIÓN PARA EL CASO: Obtener un INFORME PERICIAL DE PARTE (Nivel 2)
+  emitido por Ingeniero Civil inscripto en el CIPBA (Consejo de Ingeniería
+  Civil de la Provincia de Buenos Aires) o en el listado del Departamento
+  Judicial de Morón. Luego, dentro del proceso, solicitar la pericia de
+  oficio (Nivel 1).
+
+4.3 REQUISITOS FORMALES DEL INFORME PERICIAL — ESTRUCTURA Y CONTENIDO OBLIGATORIO
+
+  No existe un formulario tipo legalmente establecido, pero la jurisprudencia
+  bonaerense y la doctrina procesal han consolidado los siguientes elementos
+  como obligatorios para que el informe tenga validez probatoria plena:
+
+  ──────────────────────────────────────────────────────────────────────
+  ENCABEZADO E IDENTIFICACIÓN DEL PERITO
+  ──────────────────────────────────────────────────────────────────────
+    — Nombre completo y matrícula profesional vigente
+    — Número y tipo de título (Ingeniero Civil / Arquitecto)
+    — Colegio profesional de pertenencia y número de matrícula
+    — Declaración de aceptación del cargo y juramento de actuación
+      objetiva e imparcial
+    — Datos del comitente (quien encarga el informe)
+
+  ──────────────────────────────────────────────────────────────────────
+  OBJETO DE LA PERICIA
+  ──────────────────────────────────────────────────────────────────────
+    — Descripción precisa de los hechos que motivan la pericia
+    — Indicación de la obra lindera como presunto origen causal
+    — Referencia a la falta de estudios técnicos previos y mala praxis
+      constructiva (si surge de los elementos disponibles)
+
+  ──────────────────────────────────────────────────────────────────────
+  DESCRIPCIÓN DEL INMUEBLE DAMNIFICADO
+  ──────────────────────────────────────────────────────────────────────
+    — Ubicación, partida inmobiliaria, datos catastrales
+    — Descripción tipológica del inmueble (materialidad, antigüedad,
+      estado general previo a los daños —si puede determinarse—)
+    — Plano de relevamiento (croquis o plano de situación)
+
+  ──────────────────────────────────────────────────────────────────────
+  RELEVAMIENTO DE DAÑOS (componente central del informe)
+  ──────────────────────────────────────────────────────────────────────
+    — Descripción técnica detallada de CADA daño observado:
+        * Rajaduras: ubicación, dirección, abertura, profundidad
+        * Cielorraso: área afectada, desprendimientos, humedades
+        * Techo: punto de entrada de agua, causa probable
+        * Paredes: tipo de fisura, extensión, humedad asociada
+        * Red eléctrica: tramos expuestos, riesgo determinado
+        * Puertas/marcos: grado de corrosión y causa
+        * Piso/muebles: tipo de daño, extensión
+        * Bienes muebles: inventario valorizado (electrodomésticos,
+          hardware, colchón, ropa)
+    — Registro fotográfico numerado y fechado de CADA daño
+    — Metodología de inspección utilizada (inspección visual, sondeos,
+      medición de humedad con higrómetro, análisis de fisuras)
+
+  ──────────────────────────────────────────────────────────────────────
+  ANÁLISIS DE CAUSALIDAD (componente de mayor peso legal)
+  ──────────────────────────────────────────────────────────────────────
+    — Descripción de la obra lindera (tipo, magnitud, procedimiento
+      constructivo observado o documentado)
+    — Falta de estudios técnicos previos: identificar si existía
+      obligación municipal/provincial de presentar estudio de suelo,
+      cálculo estructural, o encomienda visada ante CIPBA/CAPBA, y si
+      dichos documentos existen en el expediente municipal
+    — Análisis técnico de cómo la obra generó los daños:
+        * Asentamientos diferenciales por excavación / pilotaje
+        * Vibraciones por maquinaria
+        * Impermeabilización de medianera no ejecutada
+        * Corte o alteración de la capa freática
+    — NEXO CAUSAL: el perito debe concluir expresamente si existe o no
+      relación de causalidad adecuada entre la obra y los daños
+
+  ──────────────────────────────────────────────────────────────────────
+  CUANTIFICACIÓN ECONÓMICA
+  ──────────────────────────────────────────────────────────────────────
+    — Costo de reparación de cada rubro (a valores del mercado a la
+      fecha del informe, indicando fuente de precios)
+    — Costo de reposición de bienes muebles afectados (según valores
+      de reposición actuales, no valor de uso)
+    — TOTAL general de daños cuantificados
+
+  ──────────────────────────────────────────────────────────────────────
+  CONCLUSIONES Y DICTAMEN
+  ──────────────────────────────────────────────────────────────────────
+    — Síntesis de los daños constatados
+    — Dictamen expreso sobre la causalidad
+    — Recomendaciones de reparación y urgencia
+    — Firma y sello del profesional
+    — Fecha
+
+  ──────────────────────────────────────────────────────────────────────
+  DOCUMENTACIÓN ANEXA OBLIGATORIA
+  ──────────────────────────────────────────────────────────────────────
+    — Fotografías numeradas (impresas o en soporte digital certificado)
+    — Plano de relevamiento de daños
+    — Presupuestos de reparación (al menos 2)
+    — Currículum vitae del perito
+    — Constancia de matrícula profesional vigente
+    — Copia de la encomienda profesional visada ante CIPBA o CAPBA
+      (requisito para validez en provincia de Buenos Aires)
+
+4.4 FORMATO DEL INFORME
+
+  — Papel: formato A4, encuadernado o foliado en forma correlativa
+  — Redacción: técnica pero comprensible. La jurisprudencia resalta que
+    el informe se presenta ante un tribunal no experto; la claridad es
+    exigible sin sacrificar precisión técnica.
+  — Firma: ológrafa y con sello del profesional en cada hoja
+  — Visado: la encomienda debe estar visada ante el CIPBA (ingenieros)
+    o CAPBA Distrito correspondiente (arquitectos).
+
+  ⚠️ ADVERTENCIA DE VERIFICACIÓN PENDIENTE: El Partido de Merlo
+  pertenece al CIPBA Distrito VI (Consejo de Ingeniería Civil) según
+  la jurisdicción del Departamento Judicial de Morón, y al CAPBA del
+  distrito que cubre el oeste del conurbano. Se recomienda verificar
+  el distrito exacto ante CIPBA y CAPBA antes de contratar al profesional,
+  para asegurar que la encomienda sea visada en el Distrito correcto.
+
+================================================================================
+SECCIÓN 5 — COSTOS APROXIMADOS A LA FECHA (ABRIL 2026)
+================================================================================
+
+ADVERTENCIA SOBRE COSTOS
+Los valores que se exponen a continuación se basan en:
+  a) La tabla de Valores Referenciales del CAPBA vigente desde el 1° de
+     abril de 2026, que establece una Unidad Referencial (UR) de $1.518.000
+     (Resoluciones N° 8/26 y 7/26 CAUBA, Asamblea Extraordinaria N° 62
+     del 02/12/2025 de la CAAITBA).
+  b) Las tablas arancelarias del Decreto 6964/65 y sus modificatorios
+     (referenciadas en las Tablas CAPBA).
+  c) Los valores mínimos del Título II, Art. 5° de la tabla CAPBA, que
+     para el período oct. 2025 registraron: Inciso a) $66.000 e Inciso b)
+     $363.000, actualizados proporcionalmente al nuevo UR de abril 2026.
+
+⚠️ ADVERTENCIA DE VERIFICACIÓN PENDIENTE: Los honorarios concretos son
+libres y convencionales dentro de los mínimos arancelarios. El informe
+puede costar significativamente más que los mínimos aquí citados en
+función de la complejidad del caso, la extensión del relevamiento, las
+horas dedicadas y la experiencia del profesional. Los valores a
+continuación son ORIENTATIVOS Y MÍNIMOS.
+
+5.1 INFORME PERICIAL TÉCNICO INTEGRAL (Ingeniero Civil o Arquitecto)
+
+  El informe que cubre TODOS los daños enumerados en la consulta
+  (estructurales, eléctricos, bienes muebles, causalidad) constituye
+  un trabajo de alta complejidad. Conforme la estructura del Decreto
+  6964/65, un informe de esta envergadura se compone de:
+
+    — Honorario base (Inciso a): ~$76.000 mínimo (proyección UR abril 2026)
+    — Honorario por trabajo de campo e informe (Inciso b): ~$420.000 mínimo
+    — Parte convencional por naturaleza, mérito y responsabilidad:
+      variable. En casos complejos con múltiples rubros y causalidad a
+      demostrar, el componente convencional es el más significativo.
+
+  RANGO ESTIMADO TOTAL DEL INFORME INTEGRAL (orientativo):
+
+    Caso de complejidad media (inmueble de tamaño estándar, daños
+    múltiples pero sin ensayos destructivos): $500.000 — $1.500.000
+
+    Caso de alta complejidad (con ensayos de suelo, sondeos en
+    medianera, medición de asentamientos, múltiples visitas,
+    causalidad estructural detallada): $1.500.000 — $4.000.000
+
+    Si el profesional debe ratificar el informe en juicio (asistencia
+    a audiencia de peritos): adicionar $300.000 — $800.000 por
+    comparecencia judicial.
+
+  EQUIVALENCIA EN USD (tipo de cambio oficial BNA aprox. ~$1.220 al
+  contado, referencia informativa):
+    Rango complejidad media: USD 410 — USD 1.230
+    Rango alta complejidad: USD 1.230 — USD 3.280
+
+  ⚠️ ADVERTENCIA DE VERIFICACIÓN PENDIENTE: El tipo de cambio fluctúa.
+  Verificar al momento de contratación.
+
+5.2 ¿SE NECESITAN VARIOS PROFESIONALES?
+
+  En términos estrictos: NO es obligatorio contratar múltiples peritos.
+  Un único Ingeniero Civil con experiencia en patologías edilicias puede
+  cubrir integralmente todo el espectro de daños descritos.
+
+  SIN EMBARGO, en casos de alta litigiosidad, algunos abogados recomiendan
+  complementar con:
+
+  — Tasador de bienes (para electrodomésticos, hardware, indumentaria):
+    puede ser el mismo ingeniero (si acredita experiencia en tasación)
+    o un martillero-tasador matriculado. Costo adicional orientativo:
+    $150.000 — $400.000.
+
+  — Perito electricista matriculado (para dictaminar sobre la red
+    eléctrica comprometida): puede ser parte del mismo informe o
+    informe complementario. Costo adicional orientativo:
+    $100.000 — $300.000.
+
+  RECOMENDACIÓN: comenzar con un único Ingeniero Civil o Arquitecto
+  de experiencia reconocida. La integralidad del informe en una sola
+  firma tiene mayor coherencia argumentativa para el juicio.
+
+5.3 COSTOS ADICIONALES RELACIONADOS
+
+  — Acta notarial de constatación de daños (escribano):
+    Costo orientativo: $150.000 — $400.000 según notario y extensión.
+
+  — Honorarios de abogado para la demanda:
+    Se regulan en juicio conforme al Decreto-Ley 8904/77 (Honorarios
+    de Abogados y Procuradores de la Pcia. de Buenos Aires) y se
+    calculan sobre el monto de condena. El anticipo de honorarios al
+    inicio es libre y convencional; orientativamente:
+    $500.000 — $2.000.000 al inicio + porcentaje del resultado.
+
+  — Tasa de justicia (al inicio de la demanda):
+    Se calcula sobre el monto demandado conforme Ley 14.394 (tasa de
+    justicia Pcia. Bs. As.): aproximadamente 3% a 3,5% del monto
+    reclamado, con topes y tramos variables.
+
+================================================================================
+SECCIÓN 6 — DÓNDE CONTRATAR AL PERITO Y CÓMO VERIFICAR SU HABILITACIÓN
+================================================================================
+
+Para un caso en Merlo, Pcia. de Buenos Aires:
+
+  a) CIPBA (Consejo de Ingeniería Civil de la Pcia. de Buenos Aires):
+     Consultar el listado de peritos inscriptos para el Departamento
+     Judicial de Morón. Web: www.cipba.com.ar
+
+  b) CAPBA (Colegio de Arquitectos de la Pcia. de Buenos Aires):
+     Distrito correspondiente al oeste del conurbano. Consultar sede
+     distrital para verificar el distrito que comprende el Partido de Merlo
+     y solicitar listado de arquitectos con experiencia pericial.
+
+  c) Poder Judicial de la Provincia de Buenos Aires:
+     Solicitar al Juzgado Civil de Morón el listado oficial de peritos
+     designables de oficio para la especialidad Ingeniería Civil o
+     Arquitectura. Si se contrata a uno de esos peritos como perito de
+     parte, su credencial judicial refuerza la validez del informe.
+
+  d) Colegios y Consejos en Ciudad Autónoma de Buenos Aires:
+     CPIC (Consejo Profesional de Ingeniería Civil) — también tiene
+     peritos inscriptos que pueden actuar en el conurbano bonaerense.
+
+  VERIFICAR SIEMPRE:
+    ✓ Matrícula profesional vigente (no inhabilitada)
+    ✓ Inscripción en la lista de peritos judiciales actualizada
+    ✓ Experiencia específica en patologías edilicias y daños por obra
+    ✓ Referencias de actuaciones judiciales previas exitosas
+
+================================================================================
+SECCIÓN 7 — ZONAS DE INCERTIDUMBRE E INFORMACIÓN NO VERIFICADA
+================================================================================
+
+  1. El distrito exacto de CAPBA/CIPBA que jurisdiccionalmente corresponde
+     al Partido de Merlo no pudo confirmarse con certeza. Se presume
+     que corresponde al área oeste del conurbano, pero debe verificarse
+     directamente ante CAPBA y CIPBA.
+
+  2. Los valores de costos de informe en pesos argentinos son orientativos.
+     La inflación y los acuerdos convencionales hacen que los valores
+     reales puedan diferir significativamente. La única forma de obtener
+     un costo real es solicitando presupuesto a profesionales habilitados.
+
+  3. Las ordenanzas municipales del Partido de Merlo que regulan la
+     obligatoriedad de estudios técnicos previos a la edificación no
+     fueron verificadas en esta instancia. Deben consultarse en el
+     Honorable Concejo Deliberante o en la Dirección de Obras del
+     Municipio de Merlo.
+
+  4. Si los daños incluyen componentes de salud (afecciones respiratorias
+     por hongos, riesgo eléctrico), podrían habilitarse acciones
+     administrativas adicionales cuya viabilidad concreta no fue
+     analizada en este informe y requiere consulta profesional.
+
+================================================================================
+DECLARACIÓN DE POSIBLES INFERENCIAS DEL MODELO
+================================================================================
+
+⚠️ Las siguientes partes de este informe pueden contener información completada
+por inferencia del modelo y no exclusivamente por verificación directa:
+
+  — La atribución exacta del Partido de Merlo al Departamento Judicial de Morón
+    (aunque es la asignación histórica documentada, puede haber sido modificada
+    por reorganización judicial posterior).
+
+  — Los rangos de costos en pesos argentinos para informes periciales de parte
+    en el conurbano bonaerense, dado que no existe tarifa oficial publicada
+    para esta clase de trabajo; los valores se derivan de las tablas CAPBA
+    verificadas y de la práctica profesional conocida hasta la fecha.
+
+  — La proporcionalidad de los nuevos mínimos arancelarios del Título II,
+    Art. 5° del Decreto 6964/65 aplicada al nuevo UR de $1.518.000 vigente
+    desde el 01/04/2026. La tabla completa de mínimos actualizados para
+    esta fecha no pudo descargarse y verificarse en forma directa.
+
+SE RECOMIENDA VERIFICACIÓN PROFESIONAL ante un abogado especializado en
+daños civiles y un ingeniero civil o arquitecto perito de la zona antes
+de utilizar este informe como base de decisiones judiciales o extrajudiciales.
+
+================================================================================
+FIN DEL INFORME
+================================================================================
+Generado por sistema JUEZ-DRED — 16/04/2026
+================================================================================
