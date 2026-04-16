@@ -1095,14 +1095,9 @@ original, la revisión exhaustiva reveló que el demandado también omitió:
 16. Planilla de Revalúo ARBA (declaración de nueva superficie cubierta).
 17. Formulario 931 AFIP (personal contratado).
 18. Certificado de Verificación Técnica de Vehículos/Maquinaria.
-19. Seguro de Vida Obligatorio (para todo el personal en obra).
-20. Seguro de Responsabilidad Civil contra daños a terceros y sus
-    pertenencias (obligatorio según Ord. 757/00).
-21. Póliza de Seguro de Responsabilidad Civil específica por daños a
-    propiedad vecina durante trabajos sobre techo ajeno.
-22. Carátula Reglamentaria (con nomenclatura catastral, FOS, FOT,
+19. Carátula Reglamentaria (con nomenclatura catastral, FOS, FOT,
     zonificación, densidad).
-23. Certificado de Cobertura ART con listado de personal declarado.
+20. Certificado de Cobertura ART con listado de personal declarado.
 24. Relevamiento General de Riesgos Laborales (RGRL — Res. SRT 463/2009).
 25. Estudio de Suelo (si corresponde por zona/envergadura).
 26. Memoria Descriptiva de las modificaciones estructurales.
@@ -1321,17 +1316,13 @@ pueden/deben ser demandados SOLIDARIAMENTE:
 2. FIDUCIARIO: Si la obra se ejecutó bajo estructura de fideicomiso,
    el fiduciario responde solidariamente.
 
-3. ASEGURADORA (citación en garantía): Si el demandado o el
-   constructor/director de obra contaban con seguro de responsabilidad
-   civil, la aseguradora debe ser CITADA EN GARANTÍA.
-
-4. COLEGIOS PROFESIONALES: Debe realizarse denuncia ante:
+3. COLEGIOS PROFESIONALES: Debe realizarse denuncia ante:
    — CAPBA (Colegio de Arquitectos PBA, Distrito 3 — jurisdicción Merlo)
    — CIPBA/CPIC (Colegio de Ingenieros) si corresponde
    por falta ética profesional del director de obra, solicitando
    INHABILITACIÓN PROFESIONAL.
 
-5. ART: Denuncia ante la Aseguradora de Riesgos del Trabajo por
+4. ART: Denuncia ante la Aseguradora de Riesgos del Trabajo por
    infracciones al Decreto 911/96 (trabajadores sin cobertura).
 
 ================================================================================
@@ -1355,7 +1346,6 @@ FASE 2 — PRE-LITIGIO:
 FASE 3 — LITIGIO:
 • Demanda civil: "Daños y Perjuicios — Responsabilidad Extracontractual"
 • Demandados: Dueño + Director Obra + Constructor + Municipio (solidarios)
-• Citación en garantía de la Aseguradora de RC
 • Denuncia penal complementaria (Art. 189 CP — estrago culposo)
 • Solicitud de prohibición de innovar (Art. 191+ CPCCBA)
 • Embargo en construcción
@@ -1365,7 +1355,6 @@ FASE 3 — LITIGIO:
   3. Tasador de bienes (depreciación inmueble, reposición muebles/ropa)
   4. Perito informático (integridad fotos, metadatos, redes sociales)
   5. Médico/neumonólogo (afecciones respiratorias si corresponde)
-  6. Perito asegurador (cobertura de póliza si citación en garantía)
 
 FASE 4 — PROFESIONAL/ADMINISTRATIVA:
 • Denuncia CAPBA/CIPBA: Falta ética profesional del director

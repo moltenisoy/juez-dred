@@ -25,7 +25,7 @@ ARCHIVOS RELACIONADOS EN ESTA BIBLIOTECA:
 - 30_MARCO_TEORICO_METODOLOGIA_JUEZ_PIPO.txt (este archivo)
 - 31_RESPONSABILIDAD_MUNICIPAL_POR_OMISION.txt (Tema 1)
 - 32_COBRABILIDAD_Y_PROTECCION_VIVIENDA.txt (Temas 2-3)
-- 33_AMPARO_Y_SEGUROS_RC.txt (Temas 4-5)
+- 33_AMPARO_CONSTITUCIONAL.txt (Tema 4)
 - 34_COSTAS_Y_DEPRECIACION_INMUEBLE.txt (Temas 6-7)
 - 35_CADUCIDAD_RECONVENCION_LITISCONSORCIO.txt (Temas 8-10)
 - 36_LEY_AMBIENTE_Y_PRUEBA_ANTICIPADA.txt (Temas 11-12)
@@ -74,9 +74,6 @@ TEMA 3 — LEGITIMACIÓN ACTIVA DE CO-HABITANTES Y/O FAMILIARES
 TEMA 4 — ACCIÓN DE AMPARO CONSTITUCIONAL COMO VÍA PARALELA ULTRARRÁPIDA
 → Art. 20 Const. PBA, Ley 13928 PBA, tutela de urgencia.
 
-TEMA 5 — SEGURO DE RESPONSABILIDAD CIVIL DEL DEMANDADO O DEL CONSTRUCTOR
-→ Art. 118 Ley 17418, citación en garantía del asegurador.
-
 TEMA 6 — RÉGIMEN DE COSTAS Y HONORARIOS PROFESIONALES
 → Arts. 68-77 CPCC PBA, Ley 14967 PBA de honorarios.
 
@@ -96,7 +93,7 @@ TEMA 11 — LEY 25.675 — LEY GENERAL DEL AMBIENTE Y PRINCIPIO PRECAUTORIO
 → Arts. 4, 27-30 Ley 25675, responsabilidad objetiva ambiental.
 
 TEMA 12 — PRUEBA ANTICIPADA PRE-DEMANDA (DESARROLLO COMPLETO)
-→ Art. 326 CPCC PBA, pericia antes de reparar para preservar escenario.
+→ Art. 326 CPCC PBA, pericia para preservar escenario probatorio.
 
 TEMA 13 — RECURSO DE APELACIÓN Y SEGUNDA INSTANCIA
 → Arts. 244-279 CPCC PBA, Cámara de Apelaciones de Morón.
@@ -151,7 +148,6 @@ CPCC PBA:
 
 LEYES NACIONALES:
 - Ley 25675: Ley General del Ambiente (daño objetivo, principio precautorio)
-- Ley 17418 Art. 118: citación en garantía del asegurador
 - Ley 26944: Responsabilidad del Estado Nacional
 - Ley 23928 Art. 7: inconstitucionalidad sobreviniente declarada por SCBA
 
@@ -192,9 +188,7 @@ ZONAS DE INCERTIDUMBRE E INFORMACIÓN NO VERIFICADA
 2. Jurisprudencia específica de la Cámara de Morón en materia de daños por
    obra clandestina lindera (solo tendencias generales verificadas).
 
-3. Oponibilidad de cláusula de exclusión de cobertura por ilicitud del asegurado.
-
-4. Aplicabilidad directa de la Ley 14449 PBA a conflictos entre particulares.
+3. Aplicabilidad directa de la Ley 14449 PBA a conflictos entre particulares.
 
 5. Montos actualizados de daño moral y psicofísico para 2025-2026.
 

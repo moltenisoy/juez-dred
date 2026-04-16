@@ -122,17 +122,16 @@ PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
 --------------------------------------------------------------------------------
 
 IMPORTANCIA CRÍTICA PARA EL CASO:
-El dilema central es: el demandante necesita reparar su vivienda (no puede seguir
-viviendo en condiciones insalubres), pero si repara ANTES de producir la prueba
-pericial, destruye el escenario probatorio que acredita el daño causado por la
-obra clandestina. La solución técnico-jurídica es la PRUEBA ANTICIPADA.
+La prueba anticipada permite preservar el escenario probatorio que acredita
+el daño causado por la obra clandestina, documentando formalmente el estado
+del inmueble antes de que pueda alterarse o deteriorarse aún más.
 
 PROCEDIMIENTO COMPLETO:
 1) Presentar solicitud ante el Juzgado Civil y Comercial de Merlo (1ra instancia,
    Departamento Judicial de Morón) ANTES de iniciar la demanda.
 2) El escrito debe indicar: (a) carácter de futuro demandante; (b) identificación
    del futuro demandado; (c) descripción de la prueba a producir; (d) urgencia:
-   necesidad de reparar la vivienda que destruiría el escenario probatorio.
+   necesidad de preservar el escenario probatorio que podría alterarse.
 3) PRUEBA PERICIAL SOLICITADA:
    a) PERITO INGENIERO CIVIL O ARQUITECTO: para constatar tipo, extensión y
       causa del daño edilicio (fisuras, humedades, deterioro estructural).
@@ -145,8 +144,8 @@ PROCEDIMIENTO COMPLETO:
    al futuro demandado (para garantizar su derecho de controlar la prueba).
 5) ACTA NOTARIAL COMPLEMENTARIA: no reemplaza a la pericia anticipada, pero
    la complementa. Es útil para documentar el estado visible del inmueble.
-6) Una vez producida la prueba anticipada, SE PUEDE REPARAR EL INMUEBLE sin
-   perder el escenario probatorio.
+6) Una vez producida la prueba anticipada, el escenario probatorio queda
+   formalmente documentado y preservado.
 
 RELACIÓN CON ACTA NOTARIAL [PV]:
 El acta notarial de constatación y la pericia anticipada son instrumentos

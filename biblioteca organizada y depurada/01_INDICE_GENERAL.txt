@@ -317,10 +317,9 @@ Fuentes originales: 12345.txt, 678910.txt, 111213.txt, 141516.txt, 1718.txt
      de co-habitantes (Art. 1741 CCCN, daño moral autónomo).
    FUENTE ORIGINAL: 12345.txt (Temas 2-3)
 
-33_AMPARO_Y_SEGUROS_RC.txt
-   → Temas 4-5: Acción de amparo constitucional (Art. 20 Const. PBA, Ley
-     13928 PBA), tutela ultrarrápida, y seguro de responsabilidad civil
-     (Art. 118 Ley 17418, citación en garantía del asegurador).
+33_AMPARO_CONSTITUCIONAL.txt
+   → Tema 4: Acción de amparo constitucional (Art. 20 Const. PBA, Ley
+     13928 PBA), tutela ultrarrápida, procedencia frente a particulares.
    FUENTE ORIGINAL: 12345.txt (Temas 4-5)
 
 34_COSTAS_Y_DEPRECIACION_INMUEBLE.txt
@@ -338,7 +337,7 @@ Fuentes originales: 12345.txt, 678910.txt, 111213.txt, 141516.txt, 1718.txt
 36_LEY_AMBIENTE_Y_PRUEBA_ANTICIPADA.txt
    → Temas 11-12: Ley General del Ambiente 25675 (principio precautorio,
      responsabilidad objetiva), y prueba anticipada pre-demanda (Art. 326
-     CPCC PBA) para preservar escenario probatorio antes de reparar.
+     CPCC PBA) para preservar escenario probatorio.
    FUENTE ORIGINAL: 111213.txt (Temas 11-12)
 
 37_APELACION_Y_COLEGIOS_PROFESIONALES.txt

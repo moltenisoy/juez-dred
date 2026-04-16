@@ -1,5 +1,5 @@
 ================================================================================
-TEMAS 4-5 — AMPARO CONSTITUCIONAL Y SEGUROS DE RESPONSABILIDAD CIVIL
+TEMA 4 — AMPARO CONSTITUCIONAL COMO VÍA PARALELA ULTRARRÁPIDA
 ================================================================================
 METODOLOGÍA: JUEZ-PIPO (TRES PERSPECTIVAS + VERIFICACIÓN)
 ARCHIVO: 33 de la Biblioteca Organizada y Depurada
@@ -76,81 +76,6 @@ PERSPECTIVA DEL MINISTERIO PÚBLICO:
 El Agente Fiscal PBA interviene en procesos de amparo según la Ley 13928 PBA para
 controlar la legalidad del proceso y la no afectación del orden público.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-TEMA 5 — SEGURO DE RESPONSABILIDAD CIVIL DEL DEMANDADO O DEL CONSTRUCTOR
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-ENCUADRE GENERAL [V]:
-El artículo 118 de la Ley 17418 (Ley de Seguros) establece el mecanismo de
-citación en garantía del asegurador. El crédito del damnificado tiene privilegio
-sobre la suma asegurada. La sentencia que se dicte hace cosa juzgada respecto del
-asegurador y es ejecutable contra él en la medida del seguro.
-
-NORMATIVA VERIFICADA [V]:
-- Art. 118 Ley 17418 — Citación en garantía del asegurador
-- Arts. 94-96 CPCC PBA — Intervención de terceros / citación
-- Art. 109 Ley 17418 — Responsabilidad del asegurador
-- Art. 736-738 CCCN — Acción directa (complementaria)
-
-MECANISMO PROCESAL [V]:
-1) El damnificado puede citar en garantía al asegurador HASTA que se reciba la
-   causa a prueba. Pasado ese momento, el derecho caduca.
-2) La demanda debe interponerse ante el juez del lugar del hecho O del domicilio
-   del asegurador (a elección del actor).
-3) La sentencia es ejecutable contra el asegurador EN LA MEDIDA DEL SEGURO
-   (límite de cobertura pactado en la póliza).
-4) El asegurador no puede oponer defensas nacidas DESPUÉS del siniestro contra
-   el tercero damnificado.
-
---------------------------------------------------------------------------------
-PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
---------------------------------------------------------------------------------
-
-ESTRATEGIA:
-1) Investigar si el Sr. Capria tiene póliza de responsabilidad civil de propietario
-   de inmueble o póliza de hogar que incluya cobertura de RC frente a terceros.
-2) Investigar si el constructor/albañil tiene póliza de RC profesional (seguro de
-   construcción).
-3) Si existe póliza: citar en garantía a la aseguradora en el escrito de demanda
-   o como máximo al momento de apertura del período probatorio.
-
-RIESGO IDENTIFICADO — EXCLUSIÓN POR CLANDESTINIDAD [IV]:
-Las pólizas de responsabilidad civil típicamente incluyen cláusulas de exclusión
-para casos en que el daño deriva de actos ILÍCITOS del asegurado. La clandestinidad
-de la obra puede ser invocada por la aseguradora como causal de exclusión de
-cobertura. Sin embargo:
-- La exclusión de cobertura por ilicitud del asegurado NO es oponible al tercer
-  damnificado inocente en ciertos supuestos (posición doctrinaria en desarrollo).
-- La SCBA ha fallado sobre la inoponibilidad de algunas cláusulas de exclusión
-  al tercero damnificado [IV — requiere verificación jurisprudencial específica].
-
-⚠️ ADVERTENCIA DE VERIFICACIÓN PENDIENTE: La oponibilidad/inoponibilidad de la
-cláusula de exclusión por ilicitud frente al tercero damnificado en seguros de
-inmuebles es una cuestión doctrinal no completamente resuelta en PBA. Se recomienda
-consultar jurisprudencia específica de la Cámara de Morón sobre este punto.
-
---------------------------------------------------------------------------------
-PERSPECTIVA DEL DEMANDADO:
---------------------------------------------------------------------------------
-
-El asegurador citado en garantía típicamente:
-1) Opone la exclusión de cobertura por acto ilícito (obra clandestina).
-2) Niega responsabilidad por ausencia de denuncia oportuna del siniestro.
-3) Limita la cobertura al monto máximo de la póliza.
-
-El demandado/asegurado puede:
-1) Citar en garantía él mismo a su propia aseguradora (también habilitado por
-   Art. 118 Ley 17418).
-2) Utilizar la cobertura para pagar la condena dentro del límite pactado.
-
---------------------------------------------------------------------------------
-PERSPECTIVA DEL MINISTERIO PÚBLICO:
---------------------------------------------------------------------------------
-
-El Ministerio Público no tiene rol específico en la relación seguro/asegurado,
-salvo que la aseguradora sea una empresa en quiebra o en proceso de liquidación
-(interviene la Superintendencia de Seguros de la Nación).
-
 ================================================================================
-FIN DE TEMAS 4-5
+FIN DE TEMA 4
 ================================================================================
