@@ -358,15 +358,19 @@ Fuentes originales: 12345.txt, 678910.txt, 111213.txt, 141516.txt, 1718.txt
                VERIFICACIÓN DE COMPLETITUD — NINGÚN ARCHIVO PERDIDO
 ================================================================================
 
-Total de archivos originales en el repositorio: 39 (34 originales + 5 nuevos)
-  - Archivos en raíz: 20 (15 originales + 5 nuevos)
+Total de archivos fuente en el repositorio: 39 (34 originales + 5 de marco teórico)
+  - Archivos en raíz: 20 (15 originales + 5 de marco teórico JUEZ-PIPO)
   - Archivos en carpeta varios/: 19
 
-Archivos en la biblioteca organizada: 38
+Archivos en la biblioteca organizada: 39
+  - 00: Índice inteligente para consultas con IA (nuevo)
+  - 01-29: Documentación original organizada temáticamente
+  - 30-38: Marco teórico JUEZ-PIPO (9 archivos derivados de los 5 documentos fuente)
+  
+Notas sobre la organización:
   - 1 archivo eliminado por duplicado exacto (Demanda v2)
-  - 4 archivos combinados en compilaciones (3 en archivo 02, 3 en archivo 25,
-    2 en archivo 27 = 8 fuentes en 3 destinos, ganancia neta: 5 archivos)
-  - 9 archivos nuevos (30-38) integrando los 5 documentos de marco teórico
+  - 4 archivos originales combinados en compilaciones (3→02, 3→25, 2→27)
+  - 5 documentos fuente (12345, 678910, 111213, 141516, 1718) expandidos a 9 archivos
 
 TODA LA INFORMACIÓN ORIGINAL HA SIDO PRESERVADA.
 SOLO SE ELIMINÓ EL CONTENIDO VERIFICADAMENTE IDÉNTICO.
