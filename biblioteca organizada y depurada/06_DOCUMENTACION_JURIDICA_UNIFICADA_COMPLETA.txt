@@ -523,7 +523,7 @@ El proceso civil en la Provincia de Buenos Aires se rige por el Código Procesal
 
 MEDIO DE PRUEBA | ARTÍCULO CPCCBA | OBJETIVO EN EL CASO
 --- | --- | ---
-Prueba documental | Arts. 383 y ss. | Acompañar fallo previo, boletas digitales, actas notariales, expediente de obra del municipio, póliza de seguro.
+Prueba documental | Arts. 383 y ss. | Acompañar fallo previo, boletas digitales, actas notariales, expediente de obra del municipio.
 Prueba testimonial | Arts. 424 y ss. | Testigos (vecinos, familiares, amigos) que declaren sobre la existencia y calidad de los bienes antes del siniestro y el estado del inmueble.
 Prueba pericial | Arts. 457 y ss. | Peritos especializados determinan la cuantía económica del daño y su origen técnico.
 Prueba anticipada | Art. 326 | Permite solicitar medidas de prueba anticipada antes o durante el inicio del juicio cuando existe riesgo de que la prueba se pierda o sea difícil de producir. PRIORITARIO ante la evolución del daño y posibles reparaciones cosméticas.

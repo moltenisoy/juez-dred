@@ -340,7 +340,7 @@ ARTÍCULO CPCCBA
 OBJETIVO EN EL CASO
 Prueba documental
 Arts. 383 y ss.
-Acompañar fallo previo, boletas digitales, actas notariales, expediente de obra del municipio, póliza de seguro.
+Acompañar fallo previo, boletas digitales, actas notariales, expediente de obra del municipio.
 Prueba testimonial
 Arts. 424 y ss.
 Testigos (vecinos, familiares, amigos) que declaren sobre la existencia y calidad de los bienes antes del siniestro y el estado del inmueble.
@@ -377,8 +377,6 @@ Perito Informático
 Verificar la integridad de archivos fotográficos, metadatos de imágenes (fecha, hora, coordenadas GPS) y autenticidad del perfil de redes sociales donde se publicaron fotos del inmueble en condiciones previas.
 Perito Médico (si corresponde)
 Acreditar daños a la salud (problemas respiratorios, alergias) derivados de la humedad extrema y proliferación de hongos.
-Perito de Seguros (si hay citación en garantía)
-Verificar si los daños están cubiertos por la póliza de la obra lindera. Necesario para desvirtuar cláusulas de exclusión abusivas.
 
 
 8.3. Prueba digital — Fotografías y redes sociales
@@ -464,7 +462,6 @@ HERRAMIENTAS PROCESALES PRIORITARIAS:
 Solicitar acceso al expediente de obra ante el Municipio de Merlo (Art. 16 Ord. 5726/19) para identificar al Director de Obra y Constructor matriculados.
 Solicitar prueba anticipada (Art. 326 CPCCBA) antes de que se realicen reparaciones cosméticas que eliminen evidencias.
 Iniciar acta notarial de constatación del estado del inmueble y de las publicaciones en redes sociales (Art. 312 CCCN).
-Citar en garantía a la aseguradora de responsabilidad civil de la obra (verificar la póliza obligatoria).
 Denunciar ante el Colegio de Arquitectos o Ingenieros por falta de ética profesional.
 
 
@@ -510,9 +507,6 @@ Habilita astreintes y eleva el monto de daño moral.
 Ejecutar la obra sin Permiso de Obra o con documentación incompleta (sin memoria de cálculo estructural)
 Ord. 757/00 / Ord. 5835/21 (requisitos de permiso de obra)
 Irregularidad burocrática documentable vía expediente municipal. Agrava la responsabilidad.
-No contratar o no mantener vigente el seguro de responsabilidad civil de obra
-Ord. 757/00 (seguros obligatorios)
-Habilita acciones directas contra el propietario y, si existe, contra la aseguradora.
 No instalar pantallas de protección y vallas provisorias hacia linderos (h mínima 2 m)
 Resolución 1069/91; Decreto 911/96
 Falta de seguridad laboral y vecinal. Elemento que agrava la negligencia del constructor.
@@ -593,9 +587,6 @@ Paralización de la obra. Actuación de oficio del municipio. Registro público 
 Acceso al expediente de obra municipal
 Art. 16 Ord. 5726/19
 Identificar al Director de Obra y Constructor matriculados. Constatar la existencia del permiso y su alcance.
-Citación en garantía de la aseguradora
-Ord. 757/00 (seguros obligatorios)
-Incorporar a la aseguradora como demandada. Asegurar el cobro efectivo de la indemnización.
 Denuncia ante el Colegio de Arquitectos / Ingenieros de PBA
 Ley 6075/59 PBA; CCCN Art. 1269
 Sanción disciplinaria profesional. Refuerza el argumento de negligencia en el proceso civil.
