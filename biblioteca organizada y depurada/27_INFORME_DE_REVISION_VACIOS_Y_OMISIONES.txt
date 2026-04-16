@@ -1,0 +1,576 @@
+================================================================================
+INFORMES DE REVISIÓN EXHAUSTIVA — VACÍOS, OMISIONES Y RECOMENDACIONES
+Compilación de dos informes de revisión independientes
+================================================================================
+
+Este archivo reúne dos informes de revisión exhaustiva realizados sobre la
+totalidad de la documentación del caso, cada uno desde un enfoque distinto.
+
+
+================================================================================
+SECCIÓN A: REVISIÓN EXHAUSTIVA — ENFOQUE JURÍDICO-PROCESAL Y FÁCTICO
+================================================================================
+
+================================================================================
+INFORME DE REVISIÓN EXHAUSTIVA DOBLE — LÍNEA POR LÍNEA
+TODOS LOS ARCHIVOS: RAMA PRINCIPAL + CARPETA "VARIOS"
+DOS ÓPTICAS Y ENFOQUES CONTEXTUALES DISTINTOS
+================================================================================
+
+Fecha de elaboración: Abril 2026
+Alcance: Totalidad de los archivos del repositorio (rama principal y carpeta "varios")
+Método: Doble revisión línea por línea desde dos enfoques contextuales independientes
+
+================================================================================
+🔍 ENFOQUE 1: COMPLETITUD JURÍDICO-PROCESAL
+(¿Están todos los elementos normativos y procesales cubiertos de forma consistente?)
+================================================================================
+
+ELEMENTOS CORRECTAMENTE CUBIERTOS EN TODOS LOS ARCHIVOS:
+
+1. Responsabilidad objetiva (Art. 1757/1758 CCyCN) — presente en todos los documentos
+   de manera consistente.
+
+2. Deber de prevención (Art. 1710 CCyCN) — cubierto transversalmente en todos los
+   archivos jurídicos.
+
+3. Reparación plena (Art. 1740 CCyCN) — fundamentado en todos los rubros indemnizatorios.
+
+4. Daño moral in re ipsa (Art. 1744 in fine CCyCN) — desarrollado extensamente en
+   PADECIMIENTOS.txt, cuadro de situacion y marco.txt, y en varios archivos de la
+   carpeta varios/.
+
+5. Mediación prejudicial obligatoria (Ley 13.951) — referenciada como requisito previo
+   cumplido en todos los documentos procesales.
+
+6. Tutela anticipada y daño temido (Art. 623 bis CPCCBA) — cubierto en las dos versiones
+   de demanda modelo.
+
+7. Normativa CIRSOC 101/201 — presente en la documentación técnico-estructural sobre
+   sobrecarga del tanque de agua.
+
+8. Decreto 911/96 y seguridad laboral — cubierto extensamente en archivos de requisitos
+   y permisos.
+
+
+================================================================================
+⚠️ ELEMENTOS FALTANTES O INSUFICIENTEMENTE CUBIERTOS
+================================================================================
+
+1. FALTA: Art. 1770 CCyCN — Protección de la vida privada
+   - Dónde aparece: Solo en PADECIMIENTOS.txt (líneas 216 y 482) al tratar el
+     padecimiento N°6.
+   - Dónde falta: No aparece en DOCUMENTACION_UNIFICADA_OBRA_LINDERA_MERLO.txt
+     (tabla maestra de normas, sección 17), ni en juicio.txt, ni en
+     cuadro de situacion y marco.txt.
+   - Relevancia: La intrusión del demandado sobre el techo (obrador sin autorización)
+     y la destrucción de la habitabilidad constituyen una intromisión arbitraria en la
+     vida privada. Es un artículo autónomo que refuerza el reclamo.
+
+2. FALTA: Art. 51/52 CCyCN — Inviolabilidad de la dignidad personal
+   - Dónde aparece: En PADECIMIENTOS.txt al tratar el padecimiento N°6.
+   - Dónde falta: No está en la tabla maestra de normas de DOCUMENTACION_UNIFICADA,
+     ni en juicio.txt, ni en los borradores de demanda.
+   - Relevancia: Artículo autónomo que refuerza el reclamo por condiciones indignas
+     de habitabilidad.
+
+3. FALTA: Art. 1203 CCyCN — Frustración del uso
+   - Dónde aparece: Mencionado en DOCUMENTACION_UNIFICADA (línea 732) y en
+     RECLAMO JUDICIAL NORMATIVA.txt (consecuencia 8).
+   - Dónde falta: No está desarrollado en las demandas modelo (Demanda y Denuncia
+     Daño Temido.txt y su versión 2), ni en cuadro de situacion y marco.txt.
+   - Relevancia: Base normativa adicional para la privación de uso del inmueble.
+
+4. FALTA: Art. 165 CPCC PBA — Determinación del monto por prudente arbitrio del juez
+   - Dónde aparece: Solo en RECLAMO JUDICIAL NORMATIVA.txt (líneas 226-228).
+   - Dónde falta: En todos los demás archivos.
+   - Relevancia: Habilita al juez a determinar montos cuando la existencia del daño
+     está probada pero la cuantía es difícil de precisar. Aplica directamente al daño
+     moral y a múltiples bienes cuyo valor de reposición exacto no puede determinarse
+     fácilmente.
+
+5. FALTA: Art. 2561 CCyCN — Prescripción (tratamiento específico del "daño continuado")
+   - Aunque la prescripción de 3 años está mencionada en juicio.txt (línea 92) y en
+     DOCUMENTACION_UNIFICADA (sección 18 como zona de incertidumbre), NO se
+     desarrolla en ningún archivo la doctrina específica de que en el daño continuado
+     el plazo no corre hasta que el daño cesa.
+   - Solo aparece tangencialmente en el Bloque V de PADECIMIENTOS.txt (línea 572).
+   - Relevancia: Es un elemento defensivo crucial que debería estar en la
+     documentación principal y en la fundamentación de la demanda.
+
+6. FALTA: Art. 772 CCyCN — Obligaciones de valor (actualización al momento del pago)
+   - Dónde aparece: Solo en PADECIMIENTOS.txt (líneas 582 y 643).
+   - Dónde falta: En cuadro de situacion y marco.txt, DOCUMENTACION_UNIFICADA y
+     demandas modelo.
+   - Relevancia: Fundamental para argumentar que la indemnización debe calcularse a
+     valores actuales al momento de la sentencia, no al momento en que se produjeron
+     los daños.
+
+7. FALTA: Ley Provincial 14.449 (Acceso Justo al Hábitat) y Ley 14.432
+   (Vivienda Única Inembargable)
+   - Dónde aparecen: Solo en PADECIMIENTOS.txt (líneas 276-282) al tratar el
+     padecimiento N°8.
+   - Dónde faltan: No están en la tabla maestra de DOCUMENTACION_UNIFICADA, ni en
+     cuadro de situacion y marco.txt, ni en las demandas.
+   - Relevancia: Leyes provinciales que refuerzan la gravedad del daño a la vivienda.
+
+8. FALTA: Art. 1977 CCyCN — Instalaciones provisorias y paso de personas en obra
+   - Dónde aparece: En juicio.txt (líneas 30-31) con su texto.
+   - Dónde falta: No está en la tabla maestra de DOCUMENTACION_UNIFICADA, ni en
+     cuadro de situacion y marco.txt, ni en PADECIMIENTOS.txt.
+   - Relevancia: Consagra expresamente la obligación de reparar daños derivados de la
+     actividad constructiva sobre finca lindera. Es directamente aplicable al caso.
+
+9. FALTA: Art. 106 CP — Abandono de persona
+   - Dónde aparece: Solo en PADECIMIENTOS.txt (línea 159) al tratar padecimiento N°4.
+   - Dónde falta: En todos los demás archivos.
+   - Relevancia: Si el demandado tiene conocimiento del riesgo de derrumbe/electrocución
+     y no actúa, puede configurarse abandono de persona en situación de peligro. Es un
+     arma penal adicional que no está en la documentación unificada ni en las demandas.
+
+10. FALTA: Ley Provincial 15.513 (Reforma 2024 — Celeridad en procesos urgentes)
+    - Dónde aparece: Solo en cuadro de situacion y marco.txt (tabla nivel provincial).
+    - Dónde falta: En DOCUMENTACION_UNIFICADA, PADECIMIENTOS.txt, juicio.txt y
+      demandas modelo.
+    - Relevancia: Ley reciente que fortalece la solicitud de tutela anticipada y
+      celeridad procesal.
+
+11. FALTA: Res. MOP 641/2023 (AySA — Certificado de Aptitud Hidráulica)
+    - Dónde aparece: En cuadro de situacion y marco.txt y en las demandas modelo.
+    - Dónde falta: En DOCUMENTACION_UNIFICADA y en DESAGUE.txt.
+    - Relevancia: Relevante para la arista de la alteración del suministro de agua y
+      la "instalación esclava".
+
+12. FALTA: Convenio OIT sobre salubridad ambiental
+    - Mencionado muy superficialmente en PADECIMIENTOS.txt (línea 99) sin especificar
+      cuál convenio ni su número.
+    - Relevancia: Debilita la referencia si se invoca en una pieza procesal sin
+      identificar el convenio específico.
+
+
+================================================================================
+🔍 ENFOQUE 2: COMPLETITUD FÁCTICA Y DE RECLAMACIÓN
+(¿Están todos los hechos, daños y situaciones del caso cubiertos normativamente?)
+================================================================================
+
+HECHOS/ELEMENTOS FÁCTICOS CON COBERTURA NORMATIVA INSUFICIENTE O AUSENTE:
+
+1. LA "INSTALACIÓN ESCLAVA" DEL SUMINISTRO DE AGUA — TRATAMIENTO INSUFICIENTE
+   - El hecho: El demandado modificó la instalación de agua compartida para que pase
+     primero por su propiedad, generando dependencia del suministro de la víctima.
+   - Cobertura actual: Arts. 2166 CCyCN (servidumbre de acueducto) referido en
+     cuadro de situacion y marco.txt y demandas.
+   - Lo que falta:
+     * No hay desarrollo normativo específico sobre la violación a las condiciones del
+       servicio público de agua potable (reglamentaciones de AySA/ABSA).
+     * No se desarrolla el argumento de que la modificación unilateral constituye un
+       acto de despojo (posible encuadre en Art. 2241 CCyCN — acción de despojo).
+     * DESAGUE.txt aborda desagües pluviales pero NO trata la modificación de la red
+       de agua potable, que es un hecho distinto.
+     * El archivo MAMAAAAAAAAAA.txt (línea 27) menciona este hecho pero sin desarrollo
+       jurídico.
+     * Las regulaciones de ERAS (Ente Regulador de Agua y Saneamiento) mencionadas en
+       DESAGUE.txt (línea 263) no se vinculan con la alteración del suministro compartido.
+
+2. DAÑO A LA PC Y LUCRO CESANTE DIGITAL (YOUTUBE) — NO DESARROLLADO JURÍDICAMENTE
+   - El hecho: Descrito en MAMAAAAAAAAAA.txt (línea 11) — PC dañada por
+     corrosión/humedad, pérdida de ingresos de YouTube, 10 días sin internet por daño
+     en la instalación.
+   - Lo que falta:
+     * No hay en ningún archivo principal un desarrollo del lucro cesante específico
+       por actividad digital/YouTube como rubro indemnizable.
+     * No se menciona la certificación de Google de ingresos mensuales como medio
+       probatorio en ningún archivo técnico-jurídico.
+     * No se desarrolla la doctrina de pérdida de ingresos derivados de actividad
+       autónoma/freelance como consecuencia mediata del daño.
+     * Este elemento está COMPLETAMENTE AUSENTE de DOCUMENTACION_UNIFICADA,
+       juicio.txt, PADECIMIENTOS.txt y cuadro de situacion y marco.txt.
+
+3. DAÑO AL TECHO DE CHAPA DEL LAVADERO — TRATAMIENTO INCOMPLETO
+   - El hecho: Mencionado en las demandas y en INFORME ABOGADO.txt.
+   - Lo que falta: No hay un desarrollo específico en PADECIMIENTOS.txt sobre este daño
+     como padecimiento autónomo. Se menciona como hecho (perforación/rotura por
+     maquinaria) pero no se vincula jurídicamente con el Art. 183 CP (daño) como
+     figura penal autónoma respecto del daño al techo de losa.
+
+4. RAJADURAS EN ESTRUCTURA DEL LAVADERO Y SEPARACIÓN DEL TECHO — SIN ENCUADRE
+   PENAL PROPIO
+   - El hecho: INFORME ABOGADO.txt líneas 13-14 describe rajaduras superiores a 1
+     metro y separación del techo del lavadero del resto de la estructura.
+   - Lo que falta: Este daño podría configurar por sí solo estrago culposo (Art. 189 CP)
+     si representa riesgo de colapso, pero no está encuadrado penalmente en ningún
+     archivo.
+
+5. DAÑO EN PLACAS DE PVC DE COCINA (febrero 2025) — SIN COBERTURA
+   - El hecho: INFORME ABOGADO.txt línea 15 menciona "DAÑO PARCIAL EN PLACAS DE PVC
+     COLOCADAS EN LA COCINA EN FEBRERO 2025".
+   - Lo que falta: Este hecho demuestra que los daños continúan produciéndose incluso
+     sobre bienes nuevos, lo cual es argumento probatorio fortísimo para daño continuado
+     y agravamiento, pero NO tiene ningún desarrollo en los archivos jurídicos
+     principales.
+
+6. ROTURA DEL CAÑO DE AGUAS LIMPIAS COMPRIMIDO POR DEPRESIÓN ESTRUCTURAL —
+   SIN DESARROLLO
+   - El hecho: INFORME ABOGADO.txt línea 26 — "ROTURA DEL CAÑO DE AGUAS LIMPIAS
+     COMPRIMIDO POR LA DEPRESION DE LA ESTRUCTURA EN EL PUNTO EXACTO DE LA
+     COLOCACION DEL TANQUE".
+   - Lo que falta: Este daño NO aparece en ningún archivo jurídico principal y es un
+     hecho que:
+     (a) vincula directamente la sobrecarga del tanque de 750 kg con daño estructural
+         comprobable,
+     (b) genera riesgo sanitario por pérdida de agua limpia,
+     (c) configura evidencia adicional del incumplimiento CIRSOC.
+
+7. PUERTA DEL BAÑO COLOCADA A FINES DE 2025 CON CORROSIÓN — SIN DESARROLLO
+   - El hecho: INFORME ABOGADO.txt línea 23 — puerta nueva ya presenta daños por
+     corrosión.
+   - Lo que falta: Al igual que las placas de PVC, esto demuestra daño continuado sobre
+     bienes nuevos y no está en ningún archivo jurídico principal.
+
+8. DESCARGAS ELÉCTRICAS YA RECIBIDAS — TRATAMIENTO INSUFICIENTE
+   - El hecho: CASO JUAN.txt línea 3 e INFORME ABOGADO.txt línea 41 — el habitante
+     ya recibió descargas eléctricas al manipular la llave térmica.
+   - Lo que falta:
+     * Este hecho YA CONSUMADO transforma el "riesgo de electrocución" en LESIÓN
+       EFECTIVA (Art. 89/90 CP — lesiones culposas consumadas, no solo potenciales).
+     * No hay desarrollo de este hecho como lesión ya producida en PADECIMIENTOS.txt
+       ni en DOCUMENTACION_UNIFICADA.
+     * Si hay testigos o atención médica, constituye prueba directa de lesiones.
+
+9. VENTANA DAÑADA POR INFLAMACIÓN A CAUSA DE HUMEDAD — SIN DESARROLLO
+   - El hecho: CASO JUAN.txt línea 25 — "VENTANA DAÑADA POR INFLAMACION A CAUSA DE
+     LA HUMEDAD SALIENDO DE SU MARCO, IMPIDIENDO SU CIERRE".
+   - Lo que falta: No aparece en ningún archivo jurídico principal. Tiene implicancias
+     en:
+     (a) privacidad (imposibilidad de cerrar ventana),
+     (b) exposición al frío invernal,
+     (c) seguridad (acceso de terceros).
+     No está encuadrada normativamente.
+
+10. CARTA/DOCUMENTO DEL INTENDENTE CERTIFICANDO IRREGULARIDAD — NO DESARROLLADO
+    COMO PRUEBA
+    - El hecho: MAMAAAAAAAAAA.txt línea 13 y menendez.txt — carta al intendente
+      Menéndez con planos y documentación.
+    - Lo que falta: Si efectivamente se obtuvo una certificación municipal de que la
+      obra fue irregular, ES UNA PRUEBA DOCUMENTAL PÚBLICA DE ALTÍSIMO VALOR que no
+      está mencionada en la sección de pruebas de juicio.txt, ni en
+      DOCUMENTACION_UNIFICADA, ni en las demandas modelo.
+
+11. PISOS DE MADERA — MENCIONADOS PERO SIN DESARROLLO FÁCTICO DETALLADO
+    - En juicio.txt (tabla sección V) aparecen como bien dañado pero en los archivos
+      fácticos (CASO JUAN.txt, INFORME ABOGADO.txt) no se describe el estado actual
+      ni la ubicación específica dentro del inmueble.
+
+12. RIESGO DE ROBO POR AUSENCIA FORZADA — INSUFICIENTEMENTE DESARROLLADO
+    - Dónde aparece: En juicio.txt (tabla rubros) y en DAÑOS POR OBRA VECINA MARCO
+      LEGAL.txt (líneas 166-172).
+    - Dónde falta: No tiene desarrollo en PADECIMIENTOS.txt, DOCUMENTACION_UNIFICADA
+      ni cuadro de situacion y marco.txt.
+    - Relevancia: Es un rubro real de pérdida de chance que debería estar en la
+      documentación principal.
+
+
+================================================================================
+⚠️ INCONSISTENCIAS DETECTADAS ENTRE ARCHIVOS
+================================================================================
+
+1. NIVEL DE HUMEDAD: 70% vs 80%
+   - En algunos archivos se dice ">70%" y en otros ">80%" (juicio.txt línea 5:
+     "humedad superior al 80%").
+   - DEBE UNIFICARSE EL DATO para evitar inconsistencias en la demanda formal.
+
+2. Art. 2615 vs. 2627 CCyCN
+   - DOCUMENTACION_UNIFICADA (línea 722) cita el Art. 2615 para "trabajo no autorizado
+     sobre techo ajeno", mientras que cuadro de situacion y marco.txt y las demandas
+     citan el Art. 2627 para lo mismo.
+   - DEBEN VERIFICARSE AMBOS ARTÍCULOS ya que no son sinónimos (2615 refiere a
+     restricciones generales y 2627 al derecho de paso por obras).
+
+3. Art. 1269/1273 CCyCN
+   - DOCUMENTACION_UNIFICADA (sección 18, zona de incertidumbre) advierte que estos
+     artículos sobre responsabilidad del Director de Obra y Constructor deben
+     verificarse en el texto vigente del CCyCN.
+   - ESTA VERIFICACIÓN SIGUE PENDIENTE y el dato se usa en múltiples archivos de
+     la carpeta varios/.
+
+4. JURISDICCIÓN CABA vs. PBA
+   - juicio.txt (líneas 352-357) incluye normativa de CABA (Ley 962, Ley 2.189,
+     DGFYCO) que NO ES APLICABLE AL CASO ya que el inmueble está en Merlo,
+     Provincia de Buenos Aires.
+   - Esta sección debería eliminarse o al menos señalarse como inaplicable para
+     evitar confusiones.
+
+5. DUPLICIDAD DE DEMANDAS MODELO
+   - "Demanda y Denuncia Daño Temido.txt" y "Demanda y Denuncia Daño Temido 2.txt"
+     en la carpeta varios/ son prácticamente idénticos (la versión 2 tiene formato
+     ligeramente distinto pero el contenido sustancial es el mismo).
+   - Esto puede generar confusión sobre cuál es la versión definitiva.
+
+6. CONTENIDO DUPLICADO ENTRE ARCHIVOS
+   - Hay contenido duplicado entre la segunda mitad de juicio.txt (desde línea 224)
+     y partes de PADECIMIENTOS.txt.
+   - Cualquier actualización en uno debería reflejarse en el otro.
+
+
+================================================================================
+🔍 ELEMENTOS ESTRATÉGICOS FALTANTES
+(NO PRESENTES EN NINGÚN ARCHIVO DEL REPOSITORIO)
+================================================================================
+
+1. SOLICITUD DE ASTREINTES (sanciones conminatorias)
+   - Mencionada en DOCUMENTACION_UNIFICADA (línea 687) como herramienta disponible,
+     pero NO ESTÁ INCORPORADA EN NINGUNA DE LAS DEMANDAS MODELO como petición
+     concreta.
+   - Dado que el demandado ha demostrado indiferencia durante 2 años, las astreintes
+     son un recurso procesal que debería pedirse expresamente.
+
+2. CITACIÓN EN GARANTÍA DE LA ASEGURADORA
+   - Mencionada en DOCUMENTACION_UNIFICADA (línea 684) pero NO ESTÁ EN NINGUNA
+     DEMANDA MODELO.
+   - Si el demandado o el constructor tienen seguro de responsabilidad civil, la
+     citación en garantía asegura el cobro efectivo.
+
+3. DENUNCIA ANTE EL COLEGIO DE ARQUITECTOS/INGENIEROS
+   - Mencionada en DOCUMENTACION_UNIFICADA (línea 685) pero no desarrollada como
+     acción paralela en ningún otro archivo.
+   - Es una acción que genera prueba adicional y puede resultar en inhabilitación
+     profesional del responsable.
+
+4. PRUEBA ANTICIPADA (Art. 326 CPCCBA)
+   - Mencionada en DOCUMENTACION_UNIFICADA (línea 680) como acción "urgente e
+     inmediata" pero NO ESTÁ EN NINGUNA DEMANDA MODELO.
+   - Dado que se necesita preservar prueba antes de reparar, la prueba anticipada es
+     un recurso procesal que debería estar en la fundamentación.
+
+5. INHIBICIÓN GENERAL DE BIENES DEL DEMANDADO (Art. 195 CPCCBA)
+   - Mencionada en juicio.txt (línea 210) pero NO ESTÁ EN LAS DEMANDAS MODELO como
+     medida cautelar concreta a peticionar.
+
+6. DAÑO PUNITIVO / FUNCIÓN SANCIONATORIA
+   - Aunque el derecho argentino no contempla formalmente los "daños punitivos" en
+     responsabilidad civil extracontractual, algunos fallos bonaerenses han reconocido
+     un componente "ejemplarizador" en el daño moral ante conductas de manifiesta
+     indiferencia.
+   - Este argumento NO ESTÁ DESARROLLADO EN NINGÚN ARCHIVO y podría reforzar el
+     pedido de una indemnización más elevada.
+
+
+================================================================================
+📋 CONCLUSIÓN DE LA DOBLE REVISIÓN
+================================================================================
+
+La documentación es extremadamente sólida y abarcativa en su conjunto. Sin embargo,
+la revisión exhaustiva desde ambas ópticas revela que:
+
+1. Hay al menos 12 NORMAS/ARTÍCULOS RELEVANTES que aparecen en algún archivo pero
+   faltan en los documentos principales (DOCUMENTACION_UNIFICADA, cuadro de situacion
+   y marco.txt, demandas modelo).
+
+2. Hay al menos 10 HECHOS FÁCTICOS CONCRETOS descritos en archivos secundarios
+   (CASO JUAN.txt, INFORME ABOGADO.txt, MAMAAAAAAAAAA.txt) que NO TIENEN DESARROLLO
+   JURÍDICO en los archivos principales.
+
+3. LAS DESCARGAS ELÉCTRICAS YA RECIBIDAS son el hallazgo más importante de esta
+   revisión: transforman el caso de "riesgo potencial" a "lesión consumada", lo cual
+   tiene implicancias directas en la vía penal y en la cuantificación del daño.
+
+4. LA INCONSISTENCIA 70% vs 80% DE HUMEDAD debe resolverse antes de la presentación
+   formal.
+
+5. FALTAN PETICIONES CONCRETAS en las demandas modelo: astreintes, citación en
+   garantía de aseguradora, inhibición general de bienes, y prueba anticipada.
+
+6. HAY HECHOS DE DAÑO CONTINUADO (placas PVC nuevas dañadas en febrero 2025, puerta
+   de baño nueva ya corroída, caño de agua roto por depresión del tanque) que son
+   ARGUMENTOS PROBATORIOS FORTÍSIMOS para demostrar que el daño no solo persiste
+   sino que se agrava, y no están desarrollados jurídicamente.
+
+7. LA CERTIFICACIÓN MUNICIPAL DEL INTENDENTE (si fue obtenida) es una pieza
+   probatoria de altísimo valor que no está referenciada en los documentos
+   procesales.
+
+
+================================================================================
+📌 RECOMENDACIONES PRIORITARIAS
+================================================================================
+
+URGENTE:
+- Unificar el dato de humedad (70% o 80%) en todos los archivos.
+- Incorporar las descargas eléctricas ya recibidas como lesiones consumadas.
+- Verificar Arts. 1269/1273 y 2615/2627 CCyCN en texto vigente.
+- Eliminar referencias a normativa de CABA (inaplicable en Merlo, PBA).
+
+IMPORTANTE:
+- Agregar a las demandas modelo: astreintes, citación en garantía, inhibición de
+  bienes, prueba anticipada.
+- Desarrollar jurídicamente el lucro cesante digital (YouTube/actividad freelance).
+- Incorporar todos los hechos de daño continuado sobre bienes nuevos.
+- Documentar la certificación municipal del intendente como prueba.
+
+COMPLEMENTARIO:
+- Identificar número específico del Convenio OIT citado.
+- Desarrollar encuadre penal del daño al techo del lavadero.
+- Incorporar Arts. 51/52, 772, 1770, 1977, 2561 CCyCN en los documentos donde faltan.
+- Explorar argumento de función sancionatoria del daño moral.
+
+================================================================================
+FIN DEL INFORME
+================================================================================
+
+
+
+================================================================================
+SECCIÓN B: REVISIÓN DOBLE — COMPLETITUD Y COHERENCIA TÉCNICA
+================================================================================
+
+REVISIÓN EXHAUSTIVA DOBLE — DOS ENFOQUES CONTEXTUALES
+========================================================
+Repositorio: moltenisoy/juez-dred
+Fecha: Abril 2026
+Alcance: Todos los archivos de la rama principal + carpeta "varios"
+========================================================
+
+
+ENFOQUE 1: PERSPECTIVA DE COMPLETITUD NORMATIVA Y ARTICULADO
+(¿Falta alguna norma, artículo, o fundamento jurídico que debería estar presente?)
+
+
+✅ ELEMENTOS NORMATIVOS CORRECTAMENTE CUBIERTOS:
+
+- CCyC Nacional: Arts. 10, 1710-1715, 1716, 1717, 1724-1728, 1737-1741, 1744, 1748, 1757-1758, 1760, 1895, 1970-1973, 1977, 2006, 2010, 2021-2024, 2166, 2615, 2621, 2626-2627, 2630, 2654-2658
+- Constitución Nacional: Arts. 14 bis, 17, 18, 19, 41, 75 inc. 22
+- Constitución PBA: Arts. 15, 28, 36
+- CPCCBA: Arts. 313/315/330, 326, 375, 383, 424, 457-478, 619, 623 bis, 636 bis, 641
+- Penal: Arts. 84, 94, 183, 186-189 ter, 248
+- Provincial: Ley 8912/77, Ley 13.951, Ley 15.513, Ley 6075/59, Ley 11.723, DL 6769/58, DL 7425/68
+- Municipal Merlo: Ord. 757/2000, Ord. 5726/19, Ord. 5835/2021, Ord. 5839/2021, Ord. 5140/2017
+- Técnico: CIRSOC 101, CIRSOC 201, Decreto 911/96, Ley 19.587, Res. SRT 51/97, 61/2023, 231/96, 550/2011, IRAM 3691
+- AySA: Res. MOP 641/2023
+- Internacional: CADH Art. 8.1 y 11, PIDESC Art. 11
+
+
+⚠️ ELEMENTOS IDENTIFICADOS COMO POTENCIALMENTE OMITIDOS O INSUFICIENTEMENTE DESARROLLADOS:
+
+1. Art. 1770 CCyC — Protección de la vida privada:
+   No se invoca expresamente en ningún archivo. Dado que el demandante describe imposibilidad de recibir visitas, pérdida de intimidad y ventana que no cierra (exposición), este artículo refuerza el daño moral por la invasión a la esfera privada del habitante. Se menciona el derecho a la intimidad (Art. 18 CN, CADH Art. 11) pero falta el artículo específico del CCyC que lo operativiza en materia de daños.
+
+2. Art. 1745 CCyC — Indemnización por fallecimiento / Art. 1746 — Indemnización por lesiones o incapacidad:
+   Si bien se mencionan lesiones culposas (Art. 94 CP), no se desarrolla la cuantificación civil de la incapacidad sobreviniente (Art. 1746 CCyC) para las afecciones respiratorias crónicas y el daño psicológico. Los documentos mencionan pericias médicas y psicológicas pero sin anclar su cuantificación al art. 1746 específicamente, que es la norma que obliga al juez a usar fórmulas matemáticas para calcular la incapacidad.
+
+3. Art. 1714-1715 CCyC — Punición excesiva / Atenuación de la responsabilidad:
+   En Documento_Juridico_Unificado_Merlo (1).txt y cuadro de situacion y marco.txt se mencionan astreintes, pero no se invoca explícitamente la posibilidad de daño punitivo o sanción pecuniaria disuasiva del Art. 1714. Si bien el daño punitivo en Argentina está más asociado a relaciones de consumo (Ley 24.240), la doctrina reciente ha debatido su extensión a casos de negligencia grave reiterada — exactamente el caso donde el demandado mantuvo la situación de riesgo por 2 años ignorando reclamos.
+
+4. Ley 24.240 (Defensa del Consumidor) — Relación con AySA:
+   El archivo Permisos y Seguridad Obra Merlo.txt menciona AySA y la instalación "esclava" del agua, pero ningún documento invoca la relación de consumo del damnificado con AySA bajo la Ley 24.240. Si AySA tenía conocimiento de la alteración del suministro compartido y no actuó, podría existir una responsabilidad concurrente del prestador del servicio público por omisión del deber de seguridad (Art. 5 y 40 Ley 24.240).
+
+5. Ley 25.675 (Ley General del Ambiente):
+   Se invoca el Art. 41 CN y Art. 28 Const. PBA sobre ambiente sano, pero no se menciona la Ley 25.675 que establece los principios de precaución, prevención y responsabilidad (Art. 4) y la obligación de recomponer el daño ambiental (Art. 28). La proliferación de moho y hongos por humedad >70% sostenida podría encuadrarse como "microambiente" dañado dentro del concepto de daño ambiental colectivo (o al menos individual homogéneo).
+
+6. Decreto 351/79 (Reglamentación Ley 19.587):
+   Se menciona tangencialmente en un archivo pero no se desarrolla su relevancia para el caso — especialmente los artículos sobre condiciones ambientales de trabajo en los lugares donde operaron los obreros (el techo del demandante), que refuerzan la clandestinidad de la obra.
+
+7. Art. 2564 inc. b) CCyC — Prescripción bienal de daños por ruina:
+   Si bien se cita correctamente el plazo trienal del Art. 2561, no se analiza la prescripción especial bienal del Art. 2564 inc. b) para reclamaciones por ruina de obra, que podría ser una defensa que intente la contraparte. Es importante mencionarlo para prevenirlo o refutarlo argumentando que se aplica el plazo trienal genérico por tratarse de responsabilidad extracontractual y no contractual de obra.
+
+8. Art. 1769 CCyC — Responsabilidad del profesional liberal:
+   Si bien se menciona la responsabilidad del director de obra, no se cita expresamente el Art. 1769 que establece que la actividad del profesional liberal no está comprendida en la responsabilidad objetiva del Art. 1757 (excepto cuando su actividad derive en uso de cosas riesgosas). Esto es relevante porque la contraparte podría intentar excluir al director de obra de la responsabilidad objetiva. Se debe argumentar que en este caso la actividad SÍ derivó en uso de cosas riesgosas (maquinaria sobre techo, tanque de 750kg).
+
+9. Lucro cesante por actividad de YouTube:
+   En MAMAAAAAAAAAA.txt se menciona la pérdida de ingresos por YouTube (con certificados de Google), la pérdida de servicio de internet (reclamo a Movistar) y la imposibilidad de usar el equipo de PC para generar contenido. Sin embargo, ninguno de los documentos jurídicos formales (demandas, cuadros de situación, informes) integra este rubro como lucro cesante con su base legal (Art. 1738 CCyC). Es un elemento probatorio concreto con documentación respaldatoria (certificados de Google, facturación en blanco) que no se trasladó a los escritos procesales.
+
+10. Reclamo a Movistar (interrupción servicio internet 10 días):
+    Mencionado en MAMAAAAAAAAAA.txt con número de reclamo, pero no integrado en ningún documento jurídico formal como daño emergente adicional ni como prueba del impacto laboral.
+
+
+========================================================
+
+ENFOQUE 2: PERSPECTIVA DE COHERENCIA FÁCTICA-PROBATORIA
+(¿Los hechos narrados tienen respaldo probatorio planificado? ¿Hay hechos sin prueba o prueba sin hecho?)
+
+
+✅ HECHOS CON RESPALDO PROBATORIO COMPLETO:
+
+- Daño estructural (techo, cielorraso, rajaduras) → 2 informes técnicos + fotos + acta notarial planificada
+- Obra clandestina sin permisos → Certificación del intendente Menéndez (mencionada en MAMAAAAAAAAAA.txt)
+- Mediación fracasada → Acta de cierre sin acuerdo
+- Tanque 750kg sin estudio estructural → Pericia ingeniero civil ofrecida
+- Riesgo eléctrico → Pericia eléctrica ofrecida + fotos + video
+
+
+⚠️ INCONSISTENCIAS Y VACÍOS IDENTIFICADOS:
+
+1. La carta al intendente Menéndez (menendez.txt):
+   Es un borrador sin formato de presentación formal. Menciona que se solicita una "certificación municipal" de la irregularidad de la obra, pero ningún otro archivo confirma que esta certificación fue efectivamente obtenida. En MAMAAAAAAAAAA.txt se la cita como "LA CARTA/DOCUMENTO DEL INTENDENTE CERTIFICANDO QUE LA OBRA SE REALIZO DE MANERA IRREGULAR", pero no hay confirmación de que exista. Si no fue obtenida, es un vacío probatorio CRÍTICO, porque la Ordenanza 5839/21 (Art. 32) permite que si el municipio declara la irregularidad, ya no hay que probarla en juicio civil.
+
+2. Estado de la PC y componentes electrónicos:
+   HUMEDAD.txt desarrolla extensamente el daño por humedad a GPUs, motherboards, PSUs y aplica el modelo de Peck para cuantificar. Pero ninguno de los dos modelos de demanda (Demanda y Denuncia Daño Temido.txt y Demanda y Denuncia Daño Temido 2.txt) incluye estos componentes electrónicos como rubro específico del daño emergente. Se mencionan genéricamente "herramientas de trabajo" pero no se individualizan los componentes de PC con marca, modelo y valor de reposición como exige el Art. 330 inc. 3 CPCC PBA (citado en el propio HUMEDAD.txt).
+
+3. Garantía del equipo de PC rechazada:
+   MAMAAAAAAAAAA.txt menciona que la PC estaba en garantía y que el fabricante rechazó el reclamo porque el daño era externo (por humedad). Este hecho es enormemente probatorio del nexo causal (humedad → daño al equipo) pero no aparece citado en ningún documento jurídico formal. El rechazo de garantía por el fabricante es una prueba indirecta del daño causado por la humedad del inmueble.
+
+4. Historial clínico:
+   Varios archivos mencionan la necesidad de acreditar alergia crónica y problemas respiratorios. En MAMAAAAAAAAAA.txt se afirma que "TODA MI VIDA E HISTORIA CLÍNICA ESTÁ EN UN SOLO LUGAR" (IMC) y que nunca hubo antecedentes alérgicos. En CASO JUAN.txt se incluye como paso: "SOLICITAR Y TRAMITAR HISTORIAL CLINICO DE IMC". Pero no hay confirmación de que esto se haya hecho. Si no se obtuvo antes de la demanda, es un vacío porque el Art. 1744 CCyC exige que el daño sea probado por quien lo invoca. La ausencia de antecedentes es tan probatoria como la presencia de los síntomas actuales.
+
+5. Discrepancia en el monto reclamado:
+   MAMAAAAAAAAAA.txt menciona "7 MILLONES PARA SER BUENOS Y ACEPTARLE 6500" como monto de la negociación. Sin embargo, ningún documento formal cuantifica el reclamo en una cifra específica. Los modelos de demanda dejan el valor en blanco ("$ [estimar conforme peritaje]"). Esto es correcto procesalmente, pero la discrepancia con el monto de la negociación sugiere que no existe un presupuesto detallado item por item que respalde esa cifra. Para el juicio, el Art. 330 inc. 6 CPCC PBA exige "petición en términos claros y precisos", lo que incluye una estimación fundada del reclamo.
+
+6. Contrato de copropiedad incumplido:
+   menendez.txt menciona un "contrato de copropiedad que incumplió" y se ofrece adjuntarlo. Pero ningún otro archivo desarrolla qué cláusulas específicas de ese contrato fueron violadas ni se cita el contrato como prueba documental en los modelos de demanda. Si existe un contrato de copropiedad con cláusulas específicas sobre modificaciones, es una fuente autónoma de antijuridicidad (Art. 1716-1717 CCyC por incumplimiento contractual ADEMÁS de la responsabilidad extracontractual).
+
+7. Testimonios:
+   CASO JUAN.txt planifica "MÍNIMO 6, 8 SEGURO" testigos presenciales y más de 20 vía Zoom. MAMAAAAAAAAAA.txt menciona "TESTIMONIO DE DECENA DE PERSONAS". Pero ningún documento jurídico identifica testigos por nombre ni especifica qué hechos precisan cada uno. El Art. 424 CPCCBA exige la individualización de testigos al momento de ofrecer la prueba.
+
+8. Fotografías de redes sociales pre-obra:
+   MAMAAAAAAAAAA.txt menciona "FOTOGRAFÍAS POSTEADAS EN REDES SOCIALES FECHADAS DEL ESTADO DE LA CASA DESDE TODO TIPO DE ÁNGULO PREVIO AL COMIENZO DE LA OBRA (DESDE 2 AÑOS ANTES)". Este es un elemento probatorio extraordinariamente valioso para refutar la defensa de antigüedad (desarrollada en RESPUESTA ANTE LA JUSTIFICACION...), pero no se integra en la sección de prueba documental de ninguno de los dos modelos de demanda.
+
+9. Video enviado por el demandado:
+   INFORME ABOGADO.txt menciona un "video enviado por el demandado fechado con metadatos peritables" mostrando el daño en el sistema flotante del tanque. Este video es prueba auto-incriminatoria del demandado (demuestra que conocía los daños y documentó la condición del techo). Debería mencionarse expresamente en la prueba documental y ofrecerse pericia informática sobre sus metadatos.
+
+10. Ofrecimiento de dinero por el demandado:
+    MAMAAAAAAAAAA.txt relata que en el primer intercambio de mensajes "OFRECIÓ DINERO PARA CALMARME". Esto constituye un reconocimiento tácito de responsabilidad (Art. 1720 CCyC) pero no se desarrolla jurídicamente en ningún documento formal ni se incluye como prueba documental (captura de mensajes).
+
+11. La "instalación esclava" del agua:
+    Se describe extensamente en MAMAAAAAAAAAA.txt y cuadro de situacion y marco.txt, pero en los modelos de demanda se menciona como punto 3 sin desarrollar la dependencia funcional que implica (corte de agua unilateral por el demandado). Esto podría encuadrar no solo como violación del código de edificación sino como una restricción al acceso a un servicio esencial protegido constitucionalmente (Art. 42 CN — derechos de usuarios y consumidores), aspecto que NO está citado en ningún archivo del repositorio.
+
+12. Art. 42 CN — Derechos de usuarios y consumidores:
+    No se invoca en ningún archivo pese a que la alteración del suministro de agua (servicio esencial) afecta directamente los derechos del damnificante como usuario del servicio de agua potable.
+
+
+========================================================
+
+RESUMEN DE ELEMENTOS FALTANTES O INSUFICIENTES
+
+| #  | Elemento                                          | Ubicación del vacío                        | Impacto   |
+|----|---------------------------------------------------|--------------------------------------------|-----------|
+| 1  | Art. 1770 CCyC (vida privada)                     | Ausente en todos los documentos jurídicos  | Medio     |
+| 2  | Art. 1746 CCyC (cuantificación incapacidad)       | No se ancla la pericia médica a este art.  | Alto      |
+| 3  | Art. 42 CN (derechos de usuario de servicios)     | Totalmente ausente                         | Medio     |
+| 4  | Certificación municipal de irregularidad          | Mencionada pero no confirmada su obtención | CRÍTICO   |
+| 5  | Componentes PC individualizados en demanda        | Solo en HUMEDAD.txt, no en escritos proc.  | Alto      |
+| 6  | Rechazo de garantía PC como prueba                | Solo en MAMAAAAAAAAAA.txt                  | Alto      |
+| 7  | Historial clínico IMC obtenido                    | Planificado en CASO JUAN.txt, no confirm.  | Alto      |
+| 8  | Lucro cesante YouTube con certificados            | Solo en MAMAAAAAAAAAA.txt                  | Alto      |
+| 9  | Contrato de copropiedad citado                    | Solo en menendez.txt                       | Medio     |
+| 10 | Fotos redes sociales pre-obra como prueba         | Solo en MAMAAAAAAAAAA.txt                  | Alto      |
+| 11 | Video del demandado como prueba                   | Solo en INFORME ABOGADO.txt                | Alto      |
+| 12 | Ofrecimiento de dinero = reconocimiento           | Solo en MAMAAAAAAAAAA.txt                  | CRÍTICO   |
+| 13 | Testigos identificados por nombre                 | Ningún archivo                             | Alto      |
+| 14 | Presupuesto detallado item por item               | No existe en ningún archivo                | Alto      |
+| 15 | Reclamo Movistar como prueba                      | Solo en MAMAAAAAAAAAA.txt                  | Medio     |
+| 16 | Art. 2564 inc. b) prescripción (prevención)       | No analizado en ningún archivo             | Medio     |
+
+
+========================================================
+
+CONCLUSIÓN
+
+La documentación del repositorio es sustancialmente completa en cuanto al marco normativo general (responsabilidad objetiva, relaciones de vecindad, normativa municipal de Merlo, seguridad laboral). Sin embargo, existe una brecha significativa entre el material fáctico-probatorio disponible (concentrado en MAMAAAAAAAAAA.txt, CASO JUAN.txt e INFORME ABOGADO.txt) y su integración efectiva en los documentos jurídicos formales (modelos de demanda y cuadros de situación).
+
+Los elementos más críticos que requieren atención inmediata son:
+
+1. Confirmar la obtención de la certificación municipal de irregularidad (o iniciar ese trámite urgentemente).
+2. Integrar el lucro cesante por YouTube, el rechazo de garantía de la PC, las fotos pre-obra de redes sociales y el ofrecimiento de dinero del demandado como prueba documental en los escritos procesales.
+3. Individualizar los componentes electrónicos con marca, modelo y valor de reposición en el cuerpo de la demanda.
+4. Identificar testigos por nombre antes de la presentación.
+
+

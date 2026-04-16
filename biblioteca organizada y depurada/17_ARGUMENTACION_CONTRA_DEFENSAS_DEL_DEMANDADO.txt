@@ -1,0 +1,254 @@
+ARGUMENTACIÓN JURÍDICA INTEGRAL
+Daños y Perjuicios por Obra de Ampliación Edilicia en Inmueble Lindero
+Localidad de Merlo — Partido de Merlo — Provincia de Buenos Aires
+Departamento Judicial Morón — Fuero Civil y Comercial
+
+I. INTRODUCCIÓN Y ENCUADRE DEL CASO
+El presente trabajo tiene por objeto suministrar al justiciable y a su letrado patrocinante un arsenal jurídico completo —constitucional, legal, reglamentario y jurisprudencial— para sostener y acreditar la responsabilidad civil del vecino que, durante la ejecución de una obra de ampliación edilicia, ocasionó daños directos e indirectos de diversa índole en el inmueble contiguo sito en la localidad de Merlo, Partido de Merlo, Provincia de Buenos Aires.
+Los daños directos consisten en el deterioro de la superficie del techo por el tránsito de obreros, la acumulación de materiales (ladrillos, escombros), el uso y depósito de herramientas y maquinaria sobre dicho techo. Los daños indirectos comprenden filtraciones y rajaduras en techo y paredes, producto del deterioro de la capa impermeabilizante del techo y del impacto de los escombros.
+La estrategia defensiva del demandado se centra en sostener que el inmueble dañado era antiguo y que los inmuebles antiguos no se encuentran en buenas condiciones, intentando con ello atribuir las causas de los daños al estado previo de la construcción y desvincularse de responsabilidad. Esta argumentación será desarticularada en sus dos dimensiones: la fáctica (es falsa o no probada) y la jurídica (aunque fuera parcialmente cierta, es irrelevante y hasta contraproducente para la defensa).
+
+II. MARCO NORMATIVO APLICABLE
+A. Constitución Nacional
+La Constitución Nacional provee el piso axiológico del sistema de responsabilidad civil aplicable:
+Art. 14 CN: garantiza el derecho de usar y disponer de la propiedad. El daño causado al inmueble del vecino viola el pleno ejercicio de este derecho.
+Art. 17 CN: la propiedad es inviolable. Nadie puede ser privado de ella sino en virtud de sentencia fundada en ley. Los daños producidos por la obra de ampliación constituyen una privación ilegítima del pleno goce de la propiedad del vecino afectado.
+Art. 19 CN — Principio del alterum non laedere: 'Las acciones privadas de los hombres que de ningún modo ofendan al orden y a la moral pública ni perjudiquen a un tercero, están sólo reservadas a Dios y exentas de la autoridad de los magistrados.' La Corte Suprema de Justicia de la Nación (CSJN) ha interpretado reiteradamente este artículo como fuente constitucional del deber genérico de no dañar. El demandado, al causar los daños descriptos, violó este principio de raigambre constitucional.
+Art. 42 CN: consagra el derecho a la protección de la salud, la seguridad y los intereses económicos de los ciudadanos, en directa vinculación con el deber de reparar el daño causado.
+
+B. Código Civil y Comercial de la Nación (CCyC) — Ley 26.994
+El Código Civil y Comercial de la Nación (vigente desde el 1° de agosto de 2015) contiene el sistema normativo de referencia para este caso:
+1. Función preventiva y resarcitoria del daño
+Art. 1708 CCyC: 'Las disposiciones de este Título son aplicables a la prevención del daño y a su reparación.' La norma unifica ambas funciones.
+Art. 1710 CCyC — Deber de prevención: 'Toda persona tiene el deber, en cuanto de ella dependa, de: a) evitar causar un daño no justificado; b) adoptar, de buena fe y conforme a las circunstancias, las medidas razonables para evitar que se produzca un daño, o disminuir su magnitud; c) no agravar el daño, si ya se produjo.' El demandado violó esta norma al no adoptar medidas de resguardo del inmueble lindero durante toda la ejecución de la obra.
+2. Fuentes de la responsabilidad y antijuridicidad
+Art. 1716 CCyC: 'La violación del deber de no dañar a otro, o el incumplimiento de una obligación, da lugar a la reparación del daño causado, conforme con las disposiciones de este Código.'
+Art. 1717 CCyC — Antijuridicidad: 'Cualquier acción u omisión que cause un daño a otro es antijurídica si no está justificada.' La conducta de los obreros y la del propietario de la obra que consintió el uso del techo lindero como superficie de trabajo y depósito no tiene justificación jurídica alguna.
+3. Factor de atribución objetivo — Responsabilidad por riesgo
+Art. 1721 CCyC: 'La atribución de un daño al responsable puede basarse en factores objetivos o subjetivos. En ausencia de normativa, el factor de atribución es la culpa.'
+Art. 1722 CCyC — Factor objetivo: 'El factor de atribución es objetivo cuando la culpa del agente es irrelevante a los efectos de atribuir responsabilidad. En tales casos, el responsable se libera demostrando la causa ajena, excepto disposición legal en contrario.'
+Art. 1757 CCyC — Hecho de las cosas y actividades riesgosas: 'Toda persona responde por el daño causado por el riesgo o vicio de las cosas, o de las actividades que sean riesgosas o peligrosas por su naturaleza, por los medios empleados o por las circunstancias de su realización. La responsabilidad es objetiva. No son eximentes la autorización administrativa para el uso de la cosa o la realización de la actividad, ni el cumplimiento de las técnicas de prevención.' La actividad de construcción/ampliación edilicia es considerada unánimemente por la jurisprudencia argentina como actividad riesgosa.
+Art. 1758 CCyC — Sujetos responsables: 'El dueño y el guardián son responsables concurrentes del daño causado por las cosas. Se considera guardián a quien ejerce, por sí o por terceros, el uso, la dirección y el control de la cosa, o a quien obtiene un provecho de ella. El dueño y el guardián no responden si prueban que la cosa fue usada en contra de su voluntad expresa o presunta.' El propietario de la obra y el constructor o empresa a cargo son responsables en forma concurrente.
+4. Relación causal
+Art. 1726 CCyC: 'Son reparables las consecuencias dañosas que tienen nexo adecuado de causalidad con el hecho productor del daño. Se indemnizan las consecuencias inmediatas y las mediatas previsibles.' Tanto los daños directos (pisado del techo, caída de escombros) como los indirectos (filtraciones, rajaduras por deterioro de la impermeabilización) son consecuencias inmediatas y mediatas previsibles de la actividad de la obra.
+Art. 1727 CCyC: define las consecuencias inmediatas (aquellas que acostumbran suceder según el curso natural y ordinario de las cosas) y las mediatas (las que resultan solamente de la conexión del hecho con un acontecimiento distinto). El tránsito de obreros sobre un techo que deteriora su capa impermeabilizante y provoca, con las lluvias, filtraciones y rajaduras, es consecuencia mediata previsible.
+5. Reparación plena
+Art. 1740 CCyC: 'La reparación del daño debe ser plena. Consiste en la restitución de la situación del damnificado al estado anterior al hecho dañoso, sea por el pago en dinero o en especie.' El demandado debe restituir el inmueble al estado en que se encontraba antes de la obra.
+Art. 1737 CCyC — Concepto de daño: 'Hay daño cuando se lesiona un derecho o un interés no reprobado por el ordenamiento jurídico, que tenga por objeto la persona, el patrimonio, o un derecho de incidencia colectiva.' Los daños patrimoniales sufridos en el inmueble encuadran perfectamente en esta definición.
+6. Relaciones de vecindad
+Art. 1973 CCyC — Inmisiones: 'Las molestias que ocasionan el humo, calor, olores, luminosidad, ruidos, vibraciones o daños similares por el ejercicio de actividades en inmuebles vecinos, no deben exceder la normal tolerancia teniendo en cuenta las condiciones del lugar y aunque medie autorización administrativa para aquéllas. Según las circunstancias del caso, los jueces pueden disponer la cesación de tales molestias o su indemnización.' El tránsito de obreros, la caída de escombros y el deterioro del techo lindero exceden largamente la normal tolerancia que se puede exigir a un vecino.
+Art. 1977 CCyC — Obligaciones del propietario: 'El propietario debe efectuar la obra de manera que no dañe al vecino y es responsable de los daños que pueda producir.'
+
+C. Código Civil de Vélez Sarsfield (anterior — aplicable si los hechos son previos a agosto de 2015)
+Si los hechos dañosos son previos a la entrada en vigor del CCyC (1/8/2015), se aplica el régimen del Código Civil derogado (art. 7 CCyC):
+Art. 1109 CC Vélez: responsabilidad subjetiva por culpa o negligencia.
+Art. 1113 CC Vélez (reformado por Ley 17.711): 'La obligación del que ha causado un daño se extiende a los daños que causaren los que están bajo su dependencia, o por las cosas de que se sirve, o que tiene a su cuidado. [...] si el daño hubiere sido causado por el riesgo o vicio de la cosa, sólo se eximirá total o parcialmente de responsabilidad acreditando la culpa de la víctima o de un tercero por quien no tiene el deber de responder.' Equivalente al actual art. 1757 CCyC.
+Art. 2615 CC Vélez: 'El propietario de un fundo no puede hacer excavaciones ni abrir fosos en su terreno que puedan causar la ruina de los edificios o plantaciones existentes en el fundo vecino, o de producir desmoronamientos de tierra.'
+Art. 2616 CC Vélez: 'Todo propietario debe mantener sus edificios de manera que la caída, o los materiales que de ellos se desprendan no puedan dañar a los vecinos o transeúntes, bajo la pena de satisfacer los daños e intereses que por su negligencia les causare.'
+Art. 2618 CC Vélez: Molestias entre vecinos que excedan la normal tolerancia.
+Art. 2621 CC Vélez: Los poseedores de inmuebles no pueden realizar construcciones cercanas a una pared divisoria, sea o no medianera, sin guardar las distancias prescriptas por los reglamentos y usos del país.
+Art. 2627 CC Vélez: 'Si para cualquier obra fuese indispensable poner andamios, u otro servicio provisorio en el inmueble del vecino, el dueño de éste no tendrá derecho para impedirlo, siendo a cargo del que construyese la obra la indemnización del daño que causare.' Esta norma es de enorme relevancia: incluso cuando la ley admite el uso del inmueble del vecino, obliga a indemnizar todo daño. A fortiori, cuando ese uso se realiza sin autorización alguna del vecino, la responsabilidad es plena.
+
+D. Normativa Nacional Reglamentaria
+1. Decreto Nacional 911/96 — Higiene y Seguridad para la Industria de la Construcción
+Este reglamento, vigente e indiscutido desde 1996, establece las obligaciones de seguridad que pesan sobre el empleador/constructor:
+Art. 2: Define como 'obra de construcción' a toda ampliación, remodelación o mejora de inmueble, público o privado. La ampliación realizada por el vecino queda expresamente comprendida.
+Art. 7: El empleador debe implementar acciones y proveer recursos para evitar daños a terceros. El no adoptar medidas protectoras del inmueble lindero viola directamente este artículo.
+Art. 46: Es obligatorio el mantenimiento y control del orden y limpieza en toda obra. Los materiales, herramientas y desechos no deben obstruir ni afectar áreas ajenas a la obra.
+Art. 47: En la programación de la obra, deben tenerse en cuenta las circulaciones peatonales y vehiculares y proveerse medios seguros de acceso y salidas. Usar el techo del vecino como superficie de circulación viola esta norma.
+Art. 55: Es obligatoria la instalación de protecciones y la supervisión directa del responsable de Higiene y Seguridad en todos los trabajos que presenten riesgo de accidente.
+2. Resolución SRT N° 550/2011
+Dictada en complemento del Decreto 911/96, establece con carácter específico que 'durante los procesos de demolición de edificaciones existentes surgen riesgos de derrumbe de obra que, además de afectar a los trabajadores, también pone en riesgo a construcciones linderas.' Impone la elaboración de una Memoria Descriptiva que incluya análisis de las edificaciones vecinas antes del inicio de los trabajos. Su omisión constituye una falta grave y genera presunción de responsabilidad.
+3. Ley Nacional 19.587 — Higiene y Seguridad en el Trabajo
+Obliga a los empleadores en toda industria, incluyendo la construcción, a adoptar medidas tendientes a evitar daños a terceros como consecuencia de la actividad laboral.
+
+E. Normativa Provincial — Provincia de Buenos Aires
+1. Reglamentos Municipales de Construcción (Partido de Merlo)
+El Municipio de Merlo aplica un reglamento de construcción que, siguiendo el modelo de las ordenanzas bonaerenses, establece:
+Obligación del representante técnico y director de obra de evitar daños a terceros, a linderos y a la vía pública (Reglamento de Construcciones tipo PBA).
+Paralización de obra cuando en razón de la misma se causaren daños o perjuicios a fincas linderas, personas y/o cosas (cláusulas estándar).
+El director técnico conduce al personal de la empresa y supervisa el correcto uso y manejo de materiales y maquinaria. Su responsabilidad por el uso del techo lindero es directa.
+2. Ley Provincial 13.059 y Decreto Reglamentario 1030/2010
+Regula el acondicionamiento térmico e impermeabilización en edificios de la Provincia de Buenos Aires, mediante normas IRAM obligatorias. El techo de un inmueble habitable debe contar con cubierta impermeable, imputrescible y con aislación térmica. Su deterioro por acción de la obra lindera afecta derechos reconocidos por esta normativa provincial.
+3. Código Procesal Civil y Comercial de la Provincia de Buenos Aires (CPCCBA) — Decreto-Ley 7425/68 y modificatorios
+Art. 375 CPCCBA — Carga de la prueba: 'Incumbirá la carga de la prueba a la parte que afirme la existencia de un hecho controvertido o de un precepto jurídico que el juez o el tribunal no tenga el deber de conocer.' Si la demandada alega que los daños se debían a un estado previo (concausa), la prueba de esa alegación le incumbe exclusivamente a ella.
+Art. 384 CPCCBA — Sana crítica: el juez valorará la prueba pericial conforme las reglas de la sana crítica racional. Un peritaje técnico que acredite el nexo causal entre la obra y los daños tiene plena fuerza probatoria.
+Art. 474 CPCCBA — Fuerza probatoria de la pericia: el perito es el auxiliar del juez en materias que requieren conocimientos técnicos especiales.
+
+III. JURISPRUDENCIA APLICABLE — DOCTRINA JUDICIAL CONSOLIDADA
+A. Jurisprudencia específica sobre la antigüedad del inmueble como defensa — Rechazo categórico
+Este es el núcleo de la confrontación. La jurisprudencia argentina —incluyendo tribunales de la Provincia de Buenos Aires y del fuero nacional con jurisdicción análoga— ha rechazado sistemáticamente el argumento de la antigüedad del inmueble como eximente o atenuante de la responsabilidad del constructor:
+
+"Sea cual fuese la antigüedad y el estado del inmueble vecino, la provocación de daños por demolición, excavación y construcción es un riesgo propio de la actividad."
+CNCiv., Sala G — Expte. 51.894/07 — 'Comesaña' — 06/02/2013.
+
+"El constructor no puede pretender liberarse de su responsabilidad por los daños que provocara en un inmueble vecino al edificar, pretextando que el edificio dañado es antiguo y que su obsolescencia fue la causa de la ruina; la antigüedad del edificio damnificado no es un eximente ni atenuante de la obligación de reparar que pesa sobre quien produjo los daños."
+López Mesa — Trigo Represas, 'Responsabilidad de los Profesionales', Ed. Lexis Nexis, pág. 658, jurisprudencia citada en nota 209; reproducido en múltiples fallos de la CNCiv.
+
+"Para finalizar, me referiré al agravio formulado por el apelante en cuanto plantea la existencia de una concausa, es decir un factor preexistente como lo es la antigüedad del inmueble propiedad del actor al cual se le anexa como concausa al otro factor objetivo de responsabilidad de la obra en construcción que coadyuvó concausalmente a producir daños y/o a agravar a los ya existentes, si los hubiera. Estimo que dicho planteo debe desestimarse, por cuanto era una prueba a cargo de los demandados (art. 375 del Cód. Procesal), es decir, que le incumbía la carga de la prueba a los adversarios accionados, demostrar el factor concausal. Por lo tanto, declaro improcedente dicho agravio."
+Cámara de Apelaciones en lo Civil y Comercial, Departamento Judicial Morón (Ramos Mejía) — Biblioteca JurisTodoElDerecho, publicado en 2021 (Expte. vinculado a obra en calle Castelli, Ramos Mejía). Nótese que Ramos Mejía integra el mismo Departamento Judicial que Merlo, siendo jurisprudencia de los tribunales de alzada con jurisdicción directa sobre este caso.
+
+"La generación de rajaduras ha originado la falla de las aislaciones hidráulicas, permitiendo el ingreso de humedades, con el consiguiente deterioro de revoques y pinturas. Si se tratase de obsolescencia del material deberían existir humedades ascendentes de cimientos en otros sitios de la edificación, lo cual no se verifica en la edificación de la actora."
+Fallo sobre daños en inmueble lindero por construcción vecina — Microjuris Argentina — 08/04/2024.
+
+Asimismo, en un fallo de la CNCiv. Sala B del 14/12/2005 ('Martel Paz y otros c/ Laplace Miguel y otros s/ Daños y Perjuicios', L. 426.406) se estableció:
+"Resulta sumamente difícil y en muchos casos imposible ejecutar una nueva construcción lindera con otra construida aproximadamente 70 años antes y reemplazar a otra obra de menos volumen, sin afectar la más antigua. La aparición de los daños en el inmueble de los actores, en forma coetánea a las obras en el edificio de los demandados, permite considerar a estas últimas fundada concausa de aquellos."
+Este fallo —además de rechazar la defensa de antigüedad— establece un principio crucial: la coetaneidad de los daños con la obra es prueba suficiente del nexo causal.
+
+B. Responsabilidad objetiva del dueño de la obra y del constructor
+"Los daños derivados de una obra en construcción constituye una actividad riesgosa encuadrable bajo la norma del art. 1113 del CCiv (hoy art. 1757 CCyC) y tanto el dueño del inmueble, la empresa constructora y los arquitectos que dirigieron la obra son responsables objetiva e indistintamente de los daños que ocasionen, a menos que estos demuestren que el daño ha sido provocado por culpa del propio damnificado o de un tercero extraño por quien no se deba responder."
+CNCiv. — Microjuris — 08/04/2024; también: CNCiv. Sala I, 'Consorcio de Propietarios Neuquén 2932/34/36 c/ M, F R y otro s/ Daños y perjuicios', 11/11/2013.
+
+"Al dueño lo carga el riesgo creado y al empresario locador el riesgo de empresa."
+CNCiv. Sala G — op. cit.
+
+"Al encontrarse frente a un factor de atribución de responsabilidad de carácter objetivo, los demandados deben demostrar que los daños son producto del caso fortuito o del hecho de la propia víctima o de un tercero por quien no tienen que responder, para eximirse de la responsabilidad."
+CNCiv. — Microjuris — 26/04/2021.
+
+C. Daños directos e indirectos: ambos son resarcibles
+"La humedad producida en un inmueble por el estado del edificio lindero en construcción es un daño originado en el vicio de la cosa que compromete la responsabilidad del dueño de la cosa como la del director."
+CNCiv. — Expte. documentado en Diario Judicial (pupilacdn).
+
+También la jurisprudencia ha establecido que los daños indirectos —filtraciones y rajaduras posteriores al hecho inicial— son consecuencias mediatas previsibles y, por tanto, plenamente indemnizables:
+"Los perjuicios ocasionados son consecuencias inmediatas y mediatas previsibles, encuadrando dentro de estas últimas, en el caso, los perjuicios ocasionados con posterioridad al hecho principal."
+CNCiv. — Sala G — citado supra.
+
+D. El director de obra responde aun cuando invoca falta de culpa
+"Teniendo en cuenta que no se encuentra discutido el rol del codemandado en la obra que le produjo daños a los actores, atento a su condición de guardián, deberá responder por las consecuencias dañosas conforme lo prevé el art. 1113 del CC derogado (hoy art. 1757 CCyC), motivo por el cual no pesaba sobre los vecinos la carga de demostrar la culpabilidad del director de la obra por los daños padecidos en su finca, sino por el contrario, era él quien debía probar la eximente que invocara, lo que no ocurrió en el caso."
+CNCiv. — 'Problemas de vivir junto a una obra en construcción' — Microjuris — 17/07/2020.
+
+IV. ARGUMENTACIÓN LÓGICA Y JURÍDICA FRENTE A LA DEFENSA DE ANTIGÜEDAD DEL INMUEBLE
+A. La defensa es jurídicamente inoperante: la carga de la prueba le pertenece al demandado
+Conforme el art. 375 del CPCCBA y la jurisprudencia del Departamento Judicial Morón citada, quien alega que los daños se debían a causas preexistentes al inmueble (estado de deterioro propio, falta de mantenimiento) asume la carga de probarlo. La mera alegación no tiene valor procesal alguno. Si el demandado no acredita fehacientemente —mediante pericia técnica, fotografías anteriores a la obra, informes municipales o registros notariales previos— el estado previo del inmueble, su defensa debe ser desestimada in limine.
+B. La antigüedad no es eximente ni atenuante: jurisprudencia consolidada
+Tal como fue citado en el apartado anterior, la jurisprudencia argentina es unánime: la antigüedad del edificio damnificado no es un eximente ni un atenuante de la responsabilidad del causante del daño. Esta conclusión se funda en los siguientes razonamientos:
+La actividad constructiva es objetivamente riesgosa. Quien la emprende asume los riesgos inherentes, incluido el de dañar estructuras contiguas sin importar su estado o antigüedad.
+El art. 1757 CCyC establece expresamente que no son eximentes ni 'el cumplimiento de las técnicas de prevención', ni la autorización administrativa. Si ni siquiera el cumplimiento de normas técnicas exime, mucho menos lo hace el argumento de que el vecino tenía un inmueble viejo.
+El riesgo de dañar inmuebles linderos antiguos o frágiles es un riesgo que el constructor debió prever al momento de planificar la obra. No preverlo es negligencia. Preverlo y no adoptar medidas de protección es un acto directamente antijurídico.
+C. El argumento de la antigüedad no disminuye la responsabilidad — LA AGRAVA
+Este es el argumento más poderoso, de naturaleza lógica y jurídica simultáneamente:
+Si el inmueble del actor estaba en malas condiciones estructurales —tal como falsamente alega la defensa—, eso no disminuye la responsabilidad del demandado. La agrava.
+Las razones son las siguientes:
+Un propietario que inicia una obra contigua a un inmueble en mal estado tiene un deber de cuidado mayor, no menor. Debe extremar las precauciones justamente porque la fragilidad de la estructura vecina hace más probable y más grave el daño. Es el mismo principio que rige en las obligaciones de seguridad: a mayor vulnerabilidad del bien ajeno, mayor es el estándar de cuidado exigible.
+La doctrina de la 'víctima con predisposición patológica' (tomada por analogía): en el derecho de daños, si una persona sufría una condición preexistente que la hacía más vulnerable al daño, el causante debe igualmente responder por la totalidad del daño producido, sin que la predisposición lo exima. No puede alegarse que 'el hueso ya estaba débil' para no pagar por la fractura que causó.
+Si el techo del inmueble ya estaba deteriorado, era menos resistente a cualquier esfuerzo adicional. Eso significa que el paso de obreros pesados, el depósito de materiales y la caída de escombros causaron en él un daño proporcionalmente mayor que si la estructura hubiera estado en perfectas condiciones. La antigüedad, lejos de atenuar el daño, amplifica sus consecuencias.
+El demandado decidió unilateralmente usar el techo del actor como plataforma de trabajo, sin solicitar autorización alguna. Esa decisión —absolutamente ilegítima— fue tomada sin evaluar el estado de la cubierta. Si el estado era malo, debió abstenerse de usarla, usar andamios propios, o adoptó el riesgo a su cargo. En ninguna hipótesis traslada la responsabilidad al actor.
+
+Síntesis: La defensa de antigüedad constituye una paradoja jurídica a favor del actor. Si el inmueble era antiguo y frágil, la previsibilidad del daño era mayor para un constructor diligente. Si la previsibilidad era mayor, más grave es la negligencia del demandado al no adoptar medidas de protección.
+D. El estado previo del inmueble no es causa del daño — lo fue la obra
+Para que prospere la concausa de antigüedad, el demandado debería acreditar que:
+Los daños reclamados ya existían ANTES del inicio de la obra (no que el inmueble era antiguo, sino que esos daños específicos preexistían).
+Los daños actuales NO guardan nexo causal con las tareas de la obra (tránsito de obreros, caída de escombros, etc.).
+Existía una causa autónoma, completamente independiente de la obra, que habría producido esos mismos daños en el mismo período.
+Nada de esto puede probarlo. El hecho de que los daños se manifestaron durante y/o inmediatamente después de la obra —coetaneidad temporal— crea una presunción judicial de nexo causal en favor del actor que el demandado debe destruir con prueba contundente, no con especulaciones sobre la antigüedad del inmueble.
+La jurisprudencia es taxativa: 'cuando no hay constancia precisa del momento en que se produjeron los daños, debe entenderse que se produjeron mientras la obra duró' (CNCiv. Sala H, Microjuris 2021).
+E. El acta de constatación previa: su ausencia beneficia al actor
+La buena práctica constructiva y la doctrina judicial recomiendan que, antes de iniciar una obra, el constructor realice un relevamiento del inmueble vecino y deje constancia notarial de su estado. Si el demandado no realizó dicha constatación previa, no puede ahora alegar que el inmueble estaba deteriorado antes de la obra: la ausencia de documentación previa juega en su contra, pues impide distinguir qué daños preexistían y cuáles fueron producidos por la obra.
+Si, contrariamente, existiera un acta notarial previa, el actor puede atacar su valor probatorio si los daños que ahora se reclaman son distintos a los allí consignados, o si los daños reclamados son consecuencia posterior (daños indirectos como filtraciones) de los actos iniciales (deterioro de la impermeabilización).
+
+V. RUBROS INDEMNIZATORIOS RECLAMABLES
+A. Daño emergente — Daño material directo
+Costo de reparación o reposición del techo deteriorado en su superficie (reparación del paso de obreros, materiales acumulados, impacto de escombros).
+Costo de reposición o reparación de la capa impermeabilizante del techo.
+Reparación de cielorrasos, revoques, pinturas y paredes interiores dañadas por filtraciones.
+Reparación o tratamiento de rajaduras en paredes y techo.
+Reparación de instalaciones eléctricas u otras afectadas por las filtraciones (si aplica).
+B. Daño emergente — Lucro cesante y privación de uso
+Si el inmueble era utilizado total o parcialmente para actividad productiva o locativa, procede el lucro cesante por el período de inhabilitación.
+Si el inmueble debió ser total o parcialmente evacuado para las reparaciones, procede la privación de uso.
+C. Daño moral
+El daño extrapatrimonial procede cuando los hechos causaron perturbación, angustia, inseguridad habitacional o padecimiento emocional a los ocupantes del inmueble. La jurisprudencia lo ha admitido en casos similares cuando la obra generó condiciones de inhabitabilidad o temor fundado sobre la seguridad de la vivienda.
+D. Desvalorización del inmueble
+En algunos casos análogos los tribunales también han admitido la disminución del valor venal del inmueble como consecuencia de los daños estructurales sufridos, aun cuando sean reparados, por las huellas que dejan o la incertidumbre que generan en el mercado inmobiliario.
+
+VI. SUJETOS RESPONSABLES — SOLIDARIDAD Y CONCURRENCIA
+La responsabilidad por los daños descriptos recae sobre los siguientes sujetos, en forma concurrente (antes llamada 'in solidum' o 'indistinta'):
+El propietario del inmueble donde se realizó la obra ampliación: responsable como dueño de la actividad riesgosa y comitente de la obra (arts. 1757 y 1758 CCyC).
+La empresa constructora o los obreros en relación de dependencia: responsables directos de los actos dañosos (tránsito sobre el techo, acumulación de materiales, caída de escombros) (arts. 1753, 1757 y 1758 CCyC).
+El director de obra y/o representante técnico matriculado: responsable en su carácter de guardián de la cosa riesgosa y por incumplimiento de su deber profesional de evitar daños a terceros (art. 1758 CCyC y normativa provincial de ejercicio profesional).
+Todos ellos responden con la totalidad de su patrimonio ante el actor, sin perjuicio de las acciones de regreso que entre sí puedan ejercer (art. 1751 CCyC).
+
+VII. ESTRATEGIA PROBATORIA RECOMENDADA
+A. Prueba pericial técnica
+Es la prueba reina del caso. Debe solicitarse la designación de un perito ingeniero civil o arquitecto. El peritaje debe determinar:
+Estado actual de los daños: superficie del techo, impermeabilización, rajaduras, filtraciones en paredes y cielorrasos.
+Nexo causal entre los daños verificados y el tipo de actividad realizada en la obra lindera (tránsito de personas con cargas, acumulación de materiales, impacto de escombros, vibración).
+Temporalidad: ¿los daños son compatibles con haberse producido durante el período de la obra?
+Refutación técnica de la concausa de antigüedad: ¿es posible que los daños se deban exclusivamente al paso del tiempo o al estado previo? La distribución y tipología de las humedad y fisuras deben analizarse: las de origen constructivo (obras linderas) no siguen los mismos patrones que las de origen vetustez.
+Valoración económica de las reparaciones necesarias.
+B. Prueba fotográfica y documental
+Fotografías tomadas durante y después de la obra que muestren a los obreros sobre el techo, los materiales acumulados, los escombros, etc.
+Fotografías del estado anterior al inicio de la obra (vecinos, fotos satelitales, imágenes de Google Maps históricas).
+Denuncias ante el Municipio de Merlo, con sus actas de inspección si las hubiere.
+Cartas documento, WhatsApp, correos electrónicos u otra comunicación enviada al vecino durante la obra.
+Expediente municipal de la obra (permiso, planos, director de obra designado, representante técnico).
+C. Prueba testimonial
+Testigos que hayan visto a los obreros transitar sobre el techo del actor.
+Testigos que hayan presenciado la acumulación de materiales y la caída de escombros.
+Testigos que puedan dar cuenta del estado del inmueble antes del inicio de la obra y compararlo con el estado posterior.
+D. Prueba informativa
+Informe al Municipio de Merlo sobre el expediente de obra (permiso, inspecciones, denuncias).
+Informe a los Colegios de Arquitectos o Ingenieros de la Provincia de Buenos Aires sobre el director de obra inscripto.
+Informe al Registro de la Propiedad Inmueble sobre el titular del inmueble donde se realizó la obra.
+
+VIII. RESUMEN EJECUTIVO — PUNTOS CLAVE PARA LA AUDIENCIA
+I. El demandado realizó una actividad objetivamente riesgosa (ampliación edilicia) que causó daños directos e indirectos al inmueble del actor.
+II. La responsabilidad es objetiva: basta probar el daño y el nexo causal. No es necesario probar culpa del demandado.
+III. La antigüedad del inmueble no es eximente ni atenuante. La jurisprudencia del propio Departamento Judicial Morón lo ha rechazado expresamente.
+IV. Si el inmueble estaba en malas condiciones, el demandado debió preverlo y adoptaba mayores medidas de cuidado. Su omisión agrava, no atenúa, su responsabilidad.
+V. La carga de probar la concausa de antigüedad recae exclusivamente sobre el demandado. Si no lo prueba, su defensa cae.
+VI. La coetaneidad de los daños con la obra genera presunción judicial de nexo causal a favor del actor.
+VII. Todos los sujetos intervinientes en la obra (propietario, constructor, director técnico) responden en forma concurrente con la totalidad de su patrimonio.
+
+IX. TABLA DE NORMATIVA Y JURISPRUDENCIA DE REFERENCIA
+Norma / Fuente
+Contenido relevante
+Aplicación al caso
+CN art. 17 y 19
+Inviolabilidad de la propiedad. Alterum non laedere.
+Fundamento constitucional de la acción.
+CCyC art. 1710
+Deber de prevención del daño.
+El demandado no adoptó medidas para evitar el daño.
+CCyC art. 1717
+Antijuridicidad objetiva.
+El uso del techo ajeno sin autorización es antijurídico.
+CCyC art. 1757/1758
+Responsabilidad objetiva por actividad riesgosa.
+La construcción es actividad riesgosa; basta el nexo causal.
+CCyC art. 1726/1727
+Consecuencias indemnizables (inmediatas y mediatas previsibles).
+Daños directos e indirectos son ambos resarcibles.
+CCyC art. 1740
+Reparación plena.
+Retorno al estado anterior a la obra.
+CCyC art. 1973
+Inmisiones y molestias de vecindad.
+Daños que exceden la normal tolerancia.
+CC Vélez art. 2627
+Uso del inmueble vecino en obra siempre obliga a indemnizar.
+A fortiori si se usó sin autorización.
+Decreto 911/96
+Reglamento H&S Construcción. Protección de terceros y linderos.
+El constructor debía proteger el inmueble vecino.
+Res. SRT 550/2011
+Riesgo a linderos en demolición/excavación. Memoria descriptiva obligatoria.
+Incumplimiento normativo del demandado.
+CPCCBA art. 375
+Carga de la prueba de la concausa recae sobre quien la alega.
+El demandado debe probar el estado previo, no el actor.
+CNCiv. Sala G (2013)
+'Sea cual fuese la antigüedad del inmueble vecino, la construcción es riesgo propio de la actividad.'
+Rechazo del argumento central de la defensa.
+Cám. Morón (2021)
+Concausa por antigüedad desestimada; carga probatoria del demandado.
+Tribunal de alzada con jurisdicción directa sobre Merlo.
+CNCiv. Sala B (2005)
+Coetaneidad de daños con la obra: presunción del nexo causal.
+Prueba del nexo causal a favor del actor.
+Doctrina consolidada
+'La antigüedad del inmueble damnificado no es eximente ni atenuante.'
+Refuerza la inutilidad de la defensa elegida.
+
+
+NOTA LEGAL: El presente documento constituye un análisis jurídico de referencia para uso exclusivo de la parte actora y su abogado patrocinante. No reemplaza el asesoramiento jurídico personalizado del profesional actuante, quien deberá adecuar la estrategia procesal a los hechos concretos, las pruebas disponibles y la normativa aplicable según la fecha de los hechos. Toda la normativa citada se encuentra vigente y aplicable en el Partido de Merlo, Provincia de Buenos Aires, en el fuero Civil y Comercial del Departamento Judicial Morón.

@@ -1,0 +1,1212 @@
+Análisis exhaustivo técnico-jurídico
+sobre la reparación plena de bienes
+tecnológicos y muebles por degradación
+higroscópica: Marco normativo de la
+Provincia de Buenos Aires y
+fundamentos de fiabilidad electrónica
+El presente informe constituye un análisis integral destinado a fundamentar una pretensión
+judicial en el ámbito de la Provincia de Buenos Aires, abordando la intersección crítica entre el
+derecho de daños y la ingeniería de fiabilidad de hardware. La problemática central radica en la
+afectación de bienes muebles y componentes electrónicos de alta complejidad, tales como
+unidades de procesamiento gráfico (GPU), placas base (motherboards) y fuentes de
+alimentación (PSU), debido a la exposición prolongada a niveles de humedad relativa
+superiores al 70%. Esta condición ambiental, sostenida de manera ininterrumpida por periodos
+superiores a un año por el accionar u omisión de un tercero, genera un deterioro de carácter
+activo y latente que compromete la integridad estructural y funcional de los activos.
+1 El marco
+jurídico argentino, tras la unificación del Código Civil y Comercial de la Nación, junto con las
+normas procesales de la Provincia de Buenos Aires, proporciona las herramientas necesarias
+para exigir una reparación plena que trascienda la mera compensación parcial, validando la
+recomposición total del valor de los bienes afectados.
+3
+I. Encuadre normativo nacional: La responsabilidad
+civil y el principio de reparación plena
+La arquitectura legal de la responsabilidad civil en Argentina se sustenta en el deber genérico
+de no dañar a otro (alterum non laedere), el cual adquiere una dimensión operativa a través de
+las funciones preventiva y resarcitoria consagradas en el Código Civil y Comercial de la Nación
+(CCyCN). Para un damnificado cuyos bienes tecnológicos han sufrido un acortamiento drástico
+de su vida útil por humedad, el derecho de daños ofrece un abanico de protecciones que
+comienzan con la evitación del perjuicio y culminan en la restitución total de la situación
+patrimonial afectada.
+6
+La función preventiva como imperativo de conducta
+El artículo 1710 del CCyCN establece el deber de toda persona de evitar causar un daño no
+justificado y, en caso de que este ya se esté produciendo, adoptar las medidas razonables para
+disminuir su magnitud o no agravarlo.
+6 En el contexto de la exposición a humedad excesiva, el
+demandado tiene una obligación activa de interrumpir la fuente del vapor de agua o la
+filtración que eleva la humedad por encima de los umbrales seguros. La omisión de estas
+medidas preventivas constituye una conducta antijurídica material que fundamenta la
+responsabilidad posterior. La acción preventiva, regulada en los artículos 1711 y 1712, permite al
+damnificado solicitar judicialmente el cese de la conducta dañosa antes de que el deterioro del
+hardware sea total, basándose en la previsibilidad de la producción de un daño o su
+agravamiento.
+9
+El principio de reparación plena y su aplicación a la tecnología
+El artículo 1740 del CCyCN es la piedra angular de la pretensión de recomposición total. Este
+artículo dispone que la reparación del daño debe ser plena, consistiendo en la restitución de la
+situación del damnificado al estado anterior al hecho dañoso.
+4 Cuando se trata de
+componentes electrónicos de precisión, el "estado anterior" no es simplemente un equipo que
+enciende, sino un equipo con una curva de fiabilidad y una expectativa de vida útil intactas
+según las especificaciones del fabricante. La jurisprudencia y la doctrina coinciden en que, si el
+reintegro específico es imposible o excesivamente oneroso, debe fijarse una indemnización en
+dinero que permita al damnificado adquirir bienes de idénticas características y estado de
+conservación.
+3
+Artículo CCyCN Concepto Jurídico Aplicación al Perjuicio por
+Humedad
+Art. 1710 Deber de prevención Obligación del demandado de
+mitigar la fuente de humedad
+Art. 1716 Deber de reparar Consecuencia directa de la
+violación del deber de no dañar
+Art. 1737 Concepto de daño Lesión a un interés no
+reprobado que afecta el
+patrimonio
+Art. 1738 Indemnización Incluye daño emergente, lucro
+cesante y pérdida de chance
+Art. 1740 Reparación plena Restitución al estado anterior
+mediante pago en dinero o
+especie
+Art. 1744 Prueba del daño Carga de acreditar el perjuicio
+por parte del invocante
+II. El proceso judicial en la Provincia de Buenos Aires:
+Requisitos de la demanda
+Para que el reclamo por daños tecnológicos sea viable en la jurisdicción bonaerense, debe
+ajustarse estrictamente a las formalidades del Código Procesal Civil y Comercial de la Provincia
+de Buenos Aires (CPCC PBA). El cumplimiento del artículo 330 es crítico, ya que define la
+estructura técnica del escrito inicial que debe presentar el damnificado.
+5
+Estructura técnica según el artículo 330 del CPCC PBA
+La demanda debe contener una designación exacta de la cosa demandada y una explicación
+clara de los hechos.
+5 En el caso de hardware degradado, esto implica:
+● Individualización de activos: Se debe listar cada componente (Motherboard, GPU, PSU)
+con su marca, modelo y número de serie, especificando su valor de mercado actual para
+la reposición total.
+5
+● Relación de causalidad: Los hechos deben demostrar cómo el accionar del demandado
+generó un microclima de humedad superior al 70%, y cómo este ambiente hostil
+interactuó con los componentes internos de los equipos.
+5
+● Fundamentación del derecho: La invocación de los artículos 1708 a 1780 del CCyCN es
+obligatoria para encuadrar la responsabilidad civil del demandado.
+5
+Requisito Art. 330 CPCC
+PBA
+Descripción Detallada para
+Hardware
+Relevancia Procesal
+Inc. 3: Cosa demandada Recomposición total del valor
+de reposición de
+componentes
+Evita la excepción de defecto
+legal
+Inc. 4: Hechos fundantes Exposición a >70% HR,
+oxidación y deterioro latente
+Establece el nexo causal
+adecuado
+Inc. 5: Derecho Aplicación de reparación
+plena y responsabilidad
+objetiva
+Brinda el marco sustantivo al
+juez
+Inc. 6: Petición Condena al pago de suma de
+dinero actualizada (deuda de
+valor)
+Define el objeto de la sentencia
+La prueba pericial y los artículos 457 a 478 del CPCC PBA
+Dado que el daño por humedad en MOSFETs y capacitores no siempre es visible a simple vista,
+la prueba pericial se convierte en el elemento probatorio central. El perito, como auxiliar de la
+justicia, debe poseer conocimientos técnicos ajenos al saber del magistrado para explicar la
+degradación de los materiales.
+15 Según el artículo 458 del CPCC PBA, el ofrecimiento de esta
+prueba debe realizarse en la demanda, indicando la especialidad del experto (ingeniería
+electrónica o informática) y proponiendo los puntos de pericia.
+17
+III. Fundamentos técnicos de la degradación por
+humedad en hardware de PC
+La pretensión de una recomposición total se basa en la realidad física de los componentes
+electrónicos. La humedad superior al 70% no es un riesgo potencial; es un agente de deterioro
+activo que inicia procesos químicos irreversibles en la microelectrónica de potencia.
+1
+El impacto en componentes críticos: Capacitores, MOSFETs y Bobinas
+El hardware de alto rendimiento depende de una entrega de energía extremadamente limpia y
+estable. Los componentes encargados de esta tarea son los más vulnerables a la humedad
+sostenida.
+2
+● Capacitores Electrolíticos y de Polímero: Estos elementos filtran el ruido eléctrico. La
+humedad penetra en las juntas de sellado, provocando la degradación del electrolito y la
+corrosión de las láminas de aluminio internas. Esto aumenta la Resistencia de Serie
+Equivalente (ESR), lo que se traduce en inestabilidad del sistema, reinicios aleatorios y,
+eventualmente, la explosión del componente por sobrepresión interna de hidrógeno.
+1
+● MOSFETs (Transistores de potencia): Encargados de la regulación de voltaje (VRM). La
+exposición a la humedad induce la corrosión de los contactos y la degradación de la capa
+de óxido. Un MOSFET degradado puede fallar "en corto", enviando 12V directos al
+procesador o la memoria de la GPU, lo que resulta en la destrucción total del equipo. Este
+es el "deterioro de carácter activo" al que se refiere el damnificado: el equipo es una
+bomba de tiempo eléctrica.
+2
+● Bobinas e Inductores: Aunque parecen robustos, la humedad genera oxidación en el
+núcleo ferromagnético, alterando su permeabilidad magnética y reduciendo la eficiencia
+de la inducción. Esto genera pérdida de energía en forma de calor y ruidos de alta
+frecuencia (coil whine) que indican un funcionamiento fuera de especificación.
+1
+La degradación del PCB y la migración iónica
+Las placas de circuito impreso (PCB) están fabricadas con resinas y fibras de vidrio que son
+higroscópicas. Bajo una humedad superior al 70%, el PCB absorbe vapor de agua, lo que
+reduce la resistencia de aislamiento entre las pistas de cobre. Este fenómeno permite la
+aparición de filamentos metálicos microscópicos conocidos como "dendritas", que crecen
+entre las pistas de diferentes voltajes, causando cortocircuitos intermitentes que degradan
+progresivamente la estabilidad del suministro eléctrico interno.
+19
+IV. Estándares internacionales de aceptabilidad y
+fiabilidad (IPC-A-610)
+Para validar judicialmente que una reparación parcial es insuficiente, se deben invocar los
+estándares internacionales de la industria electrónica, específicamente la norma IPC-A-610,
+que define los criterios de aceptabilidad para ensambles electrónicos terminados.
+20
+Clasificación de productos y criterios de falla
+La norma IPC-A-610 clasifica los dispositivos según su nivel de fiabilidad requerida:
+1. Clase 1 (Electrónica general): Productos cuya función principal es el único requisito.
+2. Clase 2 (Servicio dedicado): Productos que requieren rendimiento continuo y vida útil
+prolongada. La mayoría del hardware de computación personal y profesional pertenece a
+esta clase.
+22
+3. Clase 3 (Alta fiabilidad): Equipos críticos donde el fallo no es tolerable.
+Bajo este estándar, cualquier evidencia de corrosión, oxidación o depósitos de humedad en
+uniones de soldadura o terminales de componentes se considera un defecto de Clase 2, lo
+que implica que el producto ya no cumple con los estándares de calidad para los que fue
+diseñado.
+20 La norma exige que los ensamblajes se mantengan libres de humedad y
+contaminantes para garantizar su funcionamiento a largo plazo; por lo tanto, un hardware
+expuesto a >70% de humedad durante meses es, por definición técnica, un producto
+defectuoso que requiere reemplazo, no reparación.
+22
+El Modelo de Peck para el cálculo de la vida útil remanente
+La ingeniería de fiabilidad permite cuantificar el daño "potencial" mediante modelos de
+aceleración de fallos. El Modelo de Peck (o Arrhenius-Peck) es el estándar para predecir el
+tiempo hasta el fallo ( ) en función de la temperatura y la humedad relativa.
+26
+La ecuación del Factor de Aceleración ( ) se expresa como:
+Donde:
+● es la humedad relativa.
+● es una constante (típicamente 2.7 para corrosión en semiconductores).
+27
+● es la energía de activación (~0.7 eV a 0.9 eV).
+26
+Si comparamos una humedad normal de uso (45%) con la humedad de exposición (75%), el
+factor de aceleración solo por el componente de humedad es:
+Esto significa que cada mes de exposición a la humedad del 75% equivale a casi cuatro meses
+de desgaste normal. Una exposición de un año (12 meses) equivale a 47.5 meses (casi 4 años)
+de vida útil consumida. Si el hardware tenía una planificación económica de vida útil de 5 años,
+el accionar del tercero ha consumido el 80% de su valor útil en solo un año, validando la
+petición de recomposición total.
+26
+V. Jurisprudencia de la Provincia de Buenos Aires
+sobre daños tecnológicos y futuros
+La Suprema Corte de Justicia de la Provincia de Buenos Aires (SCBA) y las cámaras de
+apelación locales han sentado precedentes sobre la certeza del daño futuro y la necesidad de
+una reparación integral ante la pérdida de valor de bienes tecnológicos.
+30
+Daño cierto vs. Daño hipotético
+La justicia bonaerense establece que para que un daño sea resarcible debe ser cierto, lo cual
+incluye tanto el daño actual como el futuro que pueda predecirse con probabilidad objetiva.
+7
+En el caso de hardware con degradación química por humedad, el fallo futuro es una certeza
+técnica respaldada por leyes físicas (Modelo de Peck), no una mera hipótesis. La SCBA ha
+sostenido en diversos fallos que los intereses deben computarse desde el momento en que se
+produjo el hecho generador del daño, reconociendo que la mora del deudor comienza con la
+lesión al patrimonio.
+31
+Responsabilidad objetiva y deber de seguridad
+En casos como "Gaitán María Eugenia c/ Eden S.A.", se ha responsabilizado a prestadores de
+servicios por daños en computadoras derivados de factores externos, aplicando el concepto
+de responsabilidad objetiva.
+33 El artículo 1757 del CCyCN refuerza que quien realiza una
+actividad riesgosa o se sirve de una cosa que genera riesgos (como una instalación defectuosa
+que emite humedad) responde por los daños causados, independientemente de su culpa.
+11
+Esto simplifica la carga probatoria del demandante, quien solo debe demostrar el hecho, el
+daño y el nexo causal.
+30
+Caso / Doctrina Tribunal Criterio Relevante Aplicación al Caso
+Reparación Integral SCBA (Ac. 47.829) Los intereses se
+deben por el daño
+presente y el futuro
+cierto
+Valida el reclamo por
+acortamiento de vida
+útil
+Responsabilidad
+Objetiva
+Art. 1757 CCyCN El dueño o guardián
+de la cosa riesgosa
+responde siempre
+El demandado
+responde por la fuente
+de humedad
+Deuda de Valor Art. 772 CCyCN La indemnización
+debe reflejar el valor
+al momento del pago
+Asegura que se cobre
+el valor de un hardware
+nuevo
+VI. Argumentación técnica para la recomposición total
+frente a la parcial
+El damnificado debe enfatizar ante el tribunal por qué una compensación parcial o una
+reparación superficial no satisface el estándar legal de "Reparación Plena".
+4
+Inviabilidad de la reparación en microelectrónica
+A diferencia de un mueble de madera que puede ser barnizado, la electrónica de alta densidad
+(como una GPU moderna) posee pistas de apenas unos pocos nanómetros. Una vez que la
+corrosión ha comenzado en las esferas de soldadura (BGA) debajo de los chips de memoria o
+el procesador, no existe un método de reparación que garantice la eliminación total del agente
+corrosivo sin comprometer la integridad de la placa por estrés térmico.
+1
+1. Fallas Intermitentes: El daño por humedad genera comportamientos erráticos que son
+imposibles de diagnosticar con certeza absoluta. Un equipo "reparado" puede fallar en
+cualquier momento, impidiendo que el demandante cumpla con su planificación
+económica de uso estable.
+2
+2. Disminución del Valor Residual: Un hardware que ha sufrido corrosión pierde
+totalmente su valor de reventa en el mercado de usados. La reparación plena debe
+compensar esta pérdida de valor venal del activo.
+7
+3. Inestabilidad de Suministro: Como el resto de los componentes han trabajado bajo
+condiciones de inestabilidad eléctrica debido a la degradación de las fases de poder
+(VRM), el estrés acumulado en el procesador (CPU) y la memoria (VRAM) reduce su
+confiabilidad de manera irreversible. No se trata solo de los componentes dañados, sino
+del efecto dominó sobre el sistema completo.
+2
+VII. Guía técnica para la presentación judicial (Escrito
+de Demanda)
+Una presentación judicial apta para el nivel técnico requerido en la Provincia de Buenos Aires
+debe seguir una estructura rigurosa que entrelace la normativa con la evidencia empírica.
+Encabezado y Objeto
+Se debe presentar el reclamo por daños y perjuicios contra el demandado, solicitando una
+condena que abarque la recomposición total del valor de reposición de los bienes afectados
+por degradación higroscópica acelerada.
+Descripción de los Hechos
+Detalle preciso del periodo de exposición (meses/año) y de la magnitud de la humedad (>70%).
+Es vital citar estudios técnicos que demuestren que este nivel es crítico para la electrónica,
+superando los límites de diseño de fabricantes como ASUS, EVGA o MSI, quienes típicamente
+especifican humedades no condensantes menores al 60%.
+2
+Fundamentación Técnica: El "Deterioro de Carácter Activo"
+Explicar que el daño no es estático. El hardware, al ser energizado, genera calor que interactúa
+con la humedad absorbida en el PCB, acelerando la corrosión galvánica. Cada segundo de uso
+del equipo en ese estado constituye una agravación del daño inicial.
+1
+Prueba Pericial: Puntos de Pericia Estratégicos
+El demandante debe solicitar:
+1. Examen microscópico: Identificación de sales de corrosión y dendritas en el PCB y
+componentes SMD.
+20
+2. Test de ESR: Medición de la resistencia de serie equivalente en capacitores para
+demostrar su degradación funcional.
+1
+3. Análisis Térmico: Uso de cámaras termográficas para detectar "puntos calientes" en
+MOSFETs degradados que operan con baja eficiencia.
+1
+4. Dictamen de Fiabilidad: Que el perito calcule el acortamiento de la vida útil mediante el
+Modelo de Peck.
+26
+VIII. Consideraciones finales sobre los derechos del
+damnificado
+El sistema jurídico argentino, reforzado por la Constitución Nacional y los tratados de derechos
+humanos (Art. 1 CCyCN), protege el derecho a la propiedad y la integridad patrimonial.
+35 En la
+Provincia de Buenos Aires, la protección al consumidor y los principios generales del derecho
+civil facultan al juez para dictar sentencias que no solo compensen el daño pasado, sino que
+restablezcan la capacidad productiva del damnificado.
+32
+La pretensión de una recomposición total es la única que se ajusta al principio de reparación
+plena (Art. 1740 CCyCN), dado que:
+● Una reparación parcial es técnicamente inviable para garantizar la fiabilidad original.
+22
+● El daño futuro (fallo catastrófico) es una certeza científica derivada de la exposición
+prolongada a humedad extrema.
+26
+● El demandado, mediante su accionar negligente u omisivo, ha roto la planificación
+económica del damnificado, obligándolo a una renovación anticipada de activos que no
+estaba prevista.
+3
+Consecuentemente, las leyes, normas y precedentes citados en este informe proveen el
+sustento necesario para que la justicia de la Provincia de Buenos Aires valide la máxima cuota
+de recomposición, permitiendo al damnificado la restitución íntegra de su patrimonio
+tecnológico y mueble. La integración de la ciencia de la fiabilidad electrónica con el derecho
+procesal civil garantiza que el planteo judicial no sea visto como una mera expectativa, sino
+como el resarcimiento de un perjuicio material efectivo, presente y proyectado.
+3
+Para la acreditación de daños y la tramitación de un proceso judicial en la Provincia de Buenos Aires, el marco legal se rige estrictamente por el
+Código Procesal Civil y Comercial de la Provincia de Buenos Aires (CPCC PBA) y el Código Civil y Comercial de la Nación (CCyCN). A
+continuación, se detalla el proceso técnico y los alcances reales de la pretensión con el material probatorio descrito.
+I. El Proceso de Presentación y Acreditación (CPCC PBA)
+La demanda debe cumplir con los requisitos del Artículo 330 del CPCC PBA, que exige la designación exacta de la cosa demandada y la relación
+detallada de los hechos.
+1. Acreditación del Nexo Causal (Daño en el Inmueble): El informe técnico firmado y timbrado por un profesional sobre el estado del
+inmueble (filtraciones, humedad de cimiento, ingreso de agua) es fundamental. Bajo la jurisprudencia de la Provincia, cuando se
+prueba la deficiencia de la finca lindera o el accionar de un tercero que genera humedad ambiente, se establece una presunción de
+causalidad sobre el deterioro de los bienes muebles que se encuentran en dicho entorno.
+2. Prueba Documental (Boletas, Fotos y Videos):
+○ Las facturas o boletas de compra acreditan la titularidad y el valor de adquisición de los componentes.
+○ Las fotografías y videos sirven como prueba documental/visual del estado de oxidación y corrosión. Sin embargo, si la
+contraparte desconoce su autenticidad, su valor probatorio puede verse limitado si no se acompañan de una pericia que
+certifique que corresponden a los objetos reclamados y al lugar del hecho.
+3. El Informe Técnico de Parte vs. La Pericia Judicial: El informe del especialista que valida los daños en el inmueble tiene valor como
+"documental" o "principio de prueba". No obstante, para determinar la degradación técnica interna del hardware (vida útil de MOSFETs,
+capacitores, etc.), el Artículo 457 del CPCC PBA establece que la prueba pericial es el medio idóneo cuando se requieren
+conocimientos científicos ajenos al juez.
+II. Gestión del Costo de la Pericia: El Beneficio de Litigar sin Gastos
+Si el demandante no puede cubrir el costo de los honorarios periciales o los anticipos de gastos, la normativa de la Provincia de Buenos Aires
+prevé el Beneficio de Litigar sin Gastos (Artículos 78 a 86 del CPCC PBA).
+● Alcance: Este instituto permite que el litigante carente de recursos sea eximido de pagar la tasa de justicia y, fundamentalmente, los
+adelantos de gastos y honorarios de los peritos.
+● Oportunidad: Se puede solicitar antes de la demanda o en cualquier estado del proceso. Una vez solicitado, el beneficio es
+provisional y permite avanzar con las pericias sin realizar los desembolsos iniciales.
+III. Alcance Real y Validez de la Recomposición
+Con el material probatorio descrito (boletas, fotos, informe del inmueble y sin una pericia de hardware profunda inicial), el alcance del reclamo se
+sustenta en los siguientes pilares:
+1. Responsabilidad Objetiva (Art. 1757 y 1758 CCyCN): El demandado responde por el riesgo o vicio de la cosa (la fuente de
+humedad) o la actividad riesgosa. El damnificado solo debe probar el contacto material con el agente dañoso y el daño sufrido.
+2. Estimación Judicial (Art. 165 CPCC PBA): Si el informe del inmueble y las fotos demuestran que el daño existe (oxidación visible),
+pero la falta de una pericia técnica compleja impide determinar el monto exacto de la "vida útil remanente", el juez está facultado por
+el Artículo 165 para fijar el monto de la indemnización de manera prudencial basándose en las pruebas existentes.
+3. Teoría de las Cargas Probatorias Dinámicas: En la Provincia de Buenos Aires, se aplica el criterio de que la carga de la prueba recae
+sobre quien está en mejor condición técnica de probar (Art. 1735 CCyCN). Si el demandante prueba la humedad extrema y el
+demandado tiene acceso a los medios para demostrar que sus instalaciones no eran la causa, su silencio u omisión juega a favor del
+damnificado.
+IV. Riesgos de Insuficiencia Probatoria
+Es necesario informar objetivamente que prescindir totalmente de una pericia informática judicial (incluso si se gestiona vía Beneficio de Litigar
+sin Gastos) conlleva riesgos elevados:
+● Imposibilidad de probar Daños Latentes: Sin un perito que aplique estándares como la norma IPC-A-610 o cálculos de aceleración
+de falla (Modelo de Peck), el juez podría considerar que el daño se limita únicamente a lo visible (corrosión superficial) y rechazar la
+recomposición total por el "acortamiento de vida útil", calificándolo como un daño hipotético o no cierto.
+● Sentencia Arbitraria por falta de prueba técnica: Existen antecedentes donde demandas por daños en equipos eléctricos fueron
+rechazadas por no haberse acreditado técnicamente el nexo entre el evento (humedad/tensión) y la falla interna del componente, más
+allá de la existencia de facturas y fotos.
+Leyes y Normas Clave que acreditan la acción:
+● Constitución de la Provincia de Buenos Aires (Art. 15): Garantiza la tutela judicial continua y efectiva y el acceso a la justicia.
+● CCyCN Art. 1740: Reparación plena (restitución al estado anterior).
+● CCyCN Art. 1744: Prueba del daño (admite que el daño surja notorio de los hechos, como la oxidación visible en ambientes con >70%
+de humedad).
+● Ley 24.240 (Defensa del Consumidor), Art. 53: Si la relación fuera de consumo, establece la gratuidad del proceso y la carga de
+colaboración del proveedor.
+Obras citadas
+1. Humedad y ordenadores: efectos y soluciones - Murprotec, fecha de acceso:
+abril 11, 2026,
+https://www.murprotec.es/blog/la-humedad-afecta-el-funcionamiento-del-orde
+nador/
+2. ¿La humedad afecta el rendimiento de tus dispositivos electrónicos? Spoiler: sí -
+Deshu Technology - Deshumidificadores - La Solución Antihumedad, fecha de
+acceso: abril 11, 2026,
+https://deshu.com.ar/notas/blog/la-humedad-afecta-el-rendimiento-de-tus-disp
+ositivos-electronicos-spoiler-si/
+3. Código civil y comercial, reparación integral, daños y perjuicios, obligaciones de
+dar sumas de dinero, incapacidad sobreviniente, indemnización por incapacidad,
+daño resarcible - SAIJ, fecha de acceso: abril 11, 2026,
+https://www.saij.gob.ar/codigo-civil-comercial-reparacion-integral-danos-perjuici
+os-obligaciones-dar-sumas-dinero-incapacidad-sobreviniente-indemnizacion-in
+capacidad-dano-resarcible-su50019195/123456789-0abc-defg5919-1005soiram
+us?&o=23&f=Total%7CFecha%7CEstado%20de%20Vigencia%5B5%2C1%5D%7C
+Tema/Derecho%20civil/derechos%20personales/responsabilidad%20civil/da%F1o
+s%20y%20perjuicios/indemnizaci%F3n/reparaci%F3n%20integral%7COrganismo
+%5B5%2C1%5D%7CAutor%5B5%2C1%5D%7CJurisdicci%F3n/Local%7CTribunal
+%5B5%2C1%5D%7CPublicaci%F3n%5B5%2C1%5D%7CColecci%F3n%20tem%E1
+tica%5B5%2C1%5D%7CTipo%20de%20Documento&t=370
+4. Artículo 1740 del Código Civil de Argentina - Conceptos Jurídicos, fecha de
+acceso: abril 11, 2026,
+https://www.conceptosjuridicos.com/ar/codigo-civil-articulo-1740/
+5. Código Procesal Civil y Comercial de la Nación Tít. II - Proceso ordinario Cap. I -
+Demanda, fecha de acceso: abril 11, 2026,
+http://www.enre.gov.ar/web/bibliotd.nsf/58d19f48e1cdebd503256759004e862f/0
+c768a65a82bebe8032576560057c1f4?OpenDocument
+6. ALGUNAS INCONSISTENCIAS EN EL SISTEMA DE DAÑOS - Portal de Revistas -
+Universidad Austral, fecha de acceso: abril 11, 2026,
+https://ojs.austral.edu.ar/juridicaaustral/article/download/963/1125/6668
+7. Daño resarcible. Su concepción a la luz del Código Civil y Comercial - SUPREMA
+CORTE DE JUSTICIA, fecha de acceso: abril 11, 2026,
+https://www-2020.scba.gov.ar/leyorganica/CCyc30/pdfley/Calvo_Costa_Dano_re
+sarcible.pdf
+8. El daño resarcible en el Código Civil y Comercial de la Nación Argentina, fecha de
+acceso: abril 11, 2026,
+https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-2147202000
+0200009
+9. LAS FUNCIONES DE LA RESPONSABILIDAD CIVIL EN EL CÓDIGO CIVIL Y
+COMERCIAL DE LA NACIÓN - derecho.uba.ar, fecha de acceso: abril 11, 2026,
+https://www.derecho.uba.ar/docentes/pdf/estudios-de-derecho-privado/alterini.p
+df
+10. Aspectos procesales del daño resarcible en el Código Civil y Comercial. Elías,
+Jorge A., fecha de acceso: abril 11, 2026,
+https://aldiaargentina.microjuris.com/2017/10/04/aspectos-procesales-del-dano-r
+esarcible-en-el-codigo-civil-y-comercial-elias-jorge-a/
+11. CODIGO CIVIL Y COMERCIAL DE LA NACION - SCBA, fecha de acceso: abril 11,
+2026,
+https://www.scba.gob.ar/includes/descarga.asp?id=31428&n=POWER%20-%20Dr
+a.%20Weingarten%20(13-Ago).pdf
+12. Requisitos de la demanda: - derecho.uba.ar, fecha de acceso: abril 11, 2026,
+https://www.derecho.uba.ar/institucional/2016-proyecto-de-ley.pdf
+13. La demanda de daños y perjuicios y su contestación - EDITORIAL GARCÍA
+ALONSO, fecha de acceso: abril 11, 2026,
+https://garciaalonso.com.ar/blog/la-demanda-de-danos-y-perjuicios/
+14. Electrónica industrial: condensación y la humedad - Electronic Board, fecha de
+acceso: abril 11, 2026,
+https://www.electronicboard.es/humedad-condensacion-electronica-industrial/
+15. La prueba pericial en el proceso penal de la Provincia de ... - SCBA, fecha de
+acceso: abril 11, 2026,
+https://www.scba.gov.ar/pericial/capacitacion/La%20prueba%20pericial%20en%2
+0el%20proceso%20penal%20de%20la%20provincia%20de%20Buenos%20Aires
+.pdf?opcion=general
+16. La Prueba Pericial Consideraciones sobre la prueba pericial y su valoración en la
+decisión judicial - Portal de Revistas de la UNLP, fecha de acceso: abril 11, 2026,
+https://revistas.unlp.edu.ar/ReDeA/article/download/3913/3725/11443
+17. La prueba pericial en el proceso laboral de la Provincia de Buenos Aires - SCBA,
+fecha de acceso: abril 11, 2026,
+https://www.scba.gov.ar/pericial/capacitacion/La%20prueba%20pericial%20en%2
+0el%20proceso%20laboral%20de%20la%20provincia%20de%20Buenos%20Aire
+s.pdf?opcion=general
+18. PRUEBA DE PERITOS - UNAM, fecha de acceso: abril 11, 2026,
+https://archivos.juridicas.unam.mx/www/bjv/libros/3/1450/9.pdf
+19. ¿Qué tan perjudicial es la humedad para los equipos electrónicos? |
+3sTechnology, fecha de acceso: abril 11, 2026,
+https://www.3s.com.pa/blogs/post/%C2%BFqu%C3%A9-tan-perjudicial-es-la-hu
+medad-para-los-equipos-electr%C3%B3nicos
+20. Estándar IPC-A-610 para la calidad de ensamblajes electrónicos - componentes
+IC, fecha de acceso: abril 11, 2026,
+https://www.ic-components.es/blog/IPC-A-610-Standard-for-Electronic-Assembl
+y-Quality.jsp
+21. SSB-1: Guidelines for Using Plastic Encapsulated Microcircuits and
+Semiconductors in Military, Aerospace and Other Rugged Applic - NASA NEPP,
+fecha de acceso: abril 11, 2026,
+https://nepp.nasa.gov/docuploads/77082CF9-CD35-4B5F-9CAE5004DE386E64/
+Guidelines%20for%20using%20PEMs.pdf
+22. Una guía práctica de IPC-A-610 para ensamblaje de PCB y control ..., fecha de
+acceso: abril 11, 2026,
+https://www.ariat-tech.es/blog/A-Practical-Guide-to-IPC-A-610-for-PCB-Assem
+bly-and-Quality-Control.html
+23. Comprensión de la certificación IPC-A-610: el estándar de oro para la calidad del
+ensamblaje de PCB - PCBasic, fecha de acceso: abril 11, 2026,
+https://www.pcbasic.com/es/blog/ipc-a-610.html
+24. Normas de ensamblaje de PCB IPC-A-610: Una guía completa para el control de
+calidad en la fabricación de productos electrónicos - richpcba, fecha de acceso:
+abril 11, 2026,
+https://www.richpcba.com/es/blogs/https-pcb-assembly-standards-ipc-a-610-c
+omplete-guide/
+25. IPC A 610 para aceptabilidad de ensambles electrónicos, IPC calidad. - ALDELTA,
+fecha de acceso: abril 11, 2026,
+https://www.aldeltatec.com/blog-diseno-con-normas-y-certificaciones/ipc-a-61
+0-aceptabilidad-ensambles/
+26. Accelerated Temperature Humidity Testing Using the Arrhenius-Peck
+Relationship, fecha de acceso: abril 11, 2026,
+https://www.desolutions.com/resources/accelerated-temperature-humidity-testi
+ng-using-the-arrhenius-peck-relationship
+27. Temperature & Humidity Accelerated Life Testing - Accendo Reliability, fecha de
+acceso: abril 11, 2026,
+https://accendoreliability.com/temperature-humidity-accelerated-life-testing/
+28. El Daño de la humedad en equipos electrónicos - Seo Chemical, fecha de acceso:
+abril 11, 2026,
+https://seochemical.com.pe/el-dano-de-la-humedad-en-equipos-electronicos/
+29. Requisitos y precauciones de almacenamiento para componentes electrónicos,
+fecha de acceso: abril 11, 2026,
+https://www.gms-industrial.com/es/news/storage-requirements-and-precautions
+-for-electronic-components/
+30. ‰7;!Jè=+M9XŠ - SCBA, fecha de acceso: abril 11, 2026,
+https://www.scba.gov.ar/includes/descarga.asp?id=57226&n=Ver%20sentencioa%
+20(causa%20N%B0%2046.136).pdf
+31. Texto - JUBA - SCBA, fecha de acceso: abril 11, 2026,
+https://juba.scba.gov.ar/VerTextoCompleto.aspx?idFallo=146011
+32. Fórmula Polinómica – Daños y perjuicios - Fallecimiento Copete: La Cámara de
+Apelación en lo Civil y Comercial del Depar - SCBA, fecha de acceso: abril 11,
+2026,
+https://www.scba.gov.ar/includes/descarga.asp?id=42696&n=Ver%20sentencia%2
+0(causa%20N%B0%2034).pdf
+33. Debe resarcirse al usuario por los daños en su PC como consecuencia de una
+sobretensión derivada de una tormenta eléctrica. - al día | argentina, fecha de
+acceso: abril 11, 2026,
+https://aldiaargentina.microjuris.com/2012/08/03/debe-resarcirse-al-usuario-porlos-danos-en-su-pc-como-consecuencia-de-una-sobretension-derivada-de-un
+a-tormenta-electrica/
+34. Indicadores de Humedad: Guía Completa para la Industria Electrónica - SBC
+Group, fecha de acceso: abril 11, 2026,
+https://sbcgroup.com.mx/2025/06/02/indicadores-de-humedad-guia-completapara-la-industria-electronica/
+35. Código Civil y Comercial de la Nación - InfoLEG - Ministerio de Economía y
+Finanzas Públicas - Argentina, fecha de acceso: abril 11, 2026,
+https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-2399
+Para proporcionar la máxima claridad técnica y científica, a continuación se detallan las
+afirmaciones fácticas y medibles sobre los efectos de la humedad en componentes de
+hardware (Motherboards y GPUs), vinculando cada dato directamente con su respaldo en la
+literatura científica y estudios de fiabilidad:1. Sustrato y Propiedades Dieléctricas
+(PCB/FR4)El laminado FR4 (fibra de vidrio y resina epóxica) es higroscópico, y la absorción
+de agua altera sus constantes fundamentales, afectando la integridad de señales de alta
+velocidad (PCIe 4.0/5.0, VRAM).Incremento de la Constante Dieléctrica ($\epsilon_r$): En
+frecuencias de $3.2$ GHz, la constante dieléctrica del FR4 aumenta de $4.55$ (estado
+seco, $10\%$ RH) a $4.725$ en saturación ($95\%$ RH). [1]Degradación del Tangente de
+Pérdida ($\tan \delta$): La absorción de humedad provoca un aumento del $53\%$ en el
+factor de disipación a $3.2$ GHz (pasando de $0.0126$ a $0.0193$). En el rango de $1.2$
+a $10.2$ GHz, el incremento total de pérdidas oscila entre el $43\%$ y el $58\%$.
+[1]Velocidad de Saturación: En condiciones de $85^\circ$C y $85\%$ RH, los materiales
+FR4 alcanzan el punto de saturación de humedad en un periodo de $5$ a $6$ días para
+distancias menores a $0.5$ mm de la superficie. [1]2. Capacitores (Electrolíticos, Polímero y
+Film)Los capacitores son extremadamente sensibles a la humedad, lo que altera su
+Resistencia Serie Equivalente (ESR) y su capacidad de filtrado en las fases de alimentación
+de la GPU.Capacitores de Polímero Sólido: Bajo un estrés de $85^\circ$C y $85\%$ RH,
+estos componentes experimentan una duplicación ($100\%$ de incremento) de su ESR en
+un periodo de $1000$ horas, aunque la capacitancia se mantenga estable dentro del $\pm
+5\%$. [2]Capacitores de Película Metalizada (Film): La corrosión electroquímica de la
+metalización bajo humedad y polarización AC provoca una pérdida del $10\%$ de la
+capacitancia total en solo $500$ horas de exposición. [2]Capacitores Electrolíticos de
+Aluminio: Existe una correlación directa entre la pérdida de masa del electrolito y la falla
+funcional; una pérdida de masa del $20\%$ por evaporación o filtración de humedad se
+traduce en una caída de capacitancia del $30\%$ al $40\%$. [2]3. Inductores y Bobinas de
+PotenciaEn las GPUs, las bobinas ("molded inductors") sufren degradación en el núcleo
+magnético debido al fenómeno de percolación inducido por factores
+ambientales.Degradación del Factor de Calidad (Q): En condiciones de estrés térmico y
+eléctrico prolongado, el valor de Q (eficiencia del inductor) puede disminuir en más del
+$50\%$. Esto no es detectable a bajas frecuencias ($100$ kHz) pero se manifiesta
+críticamente a frecuencias de operación de VRM ($2$ MHz o superior). ``Pérdida de
+Eficiencia del Sistema: La formación de redes micro-conductoras entre partículas de hierro
+(percolación) puede generar pérdidas de eficiencia en el conversor DC/DC de entre el
+$30\%$ y el $50\%$ en casos extremos. ``Distorsión de Armónicos: La degradación del
+aislamiento inter-partícula en el núcleo del inductor puede aumentar el ruido y las emisiones
+electromagnéticas (EMI) hasta en $14$ dB. ``4. Metales, Soldaduras y Migración
+Electroquímica (ECM)La combinación de humedad y campos eléctricos en componentes
+densamente poblados (como los pads de una GPU) dispara el crecimiento de estructuras
+conductoras parásitas.Umbral Crítico para el Níquel: El crecimiento de dendritas de níquel y
+el aumento significativo de corrientes de fuga se activan drásticamente cuando la humedad
+relativa alcanza o supera el $97\%$. [3]Degradación de Contactos en GaAs: Las estructuras
+de contacto óhmico (comunes en componentes de comunicación de alta frecuencia)
+muestran una degradación de la resistencia de contacto del $22.9\%$ tras solo $100$ horas
+de exposición a condiciones de $85/85$. ``Resistencia a la Corrosión de Soldaduras SAC:
+Las aleaciones Sn-Cu-Ag (SAC305) presentan una densidad de corriente de corrosión
+($I_{corr}$) de aproximadamente $4.3 \times 10^{-6}$ A/cm$^2$ en entornos
+salinos/húmedos, demostrando ser más estables que las aleaciones binarias de
+estaño-plata. ``Corrosión Galvánica Au-Sn: La unión de conectores de oro (Au) con cables o
+soldaduras de estaño (Sn) genera un potencial galvánico de $0.5$ V, suficiente para iniciar
+la oxidación del estaño si se forma una película de agua adsorbida. [4]5. Compuestos
+Sintéticos y Adhesión (Underfill y Solder Mask)La humedad degrada la unión mecánica
+entre el chip de la GPU y el PCB, facilitando fallos por estrés térmico.Reducción de la
+Fuerza de Adhesión: La resistencia a la tensión de las uniones de cobre con resina epóxica
+(underfill) cae al $50\%$ o menos de su valor original tras $1000$ horas de envejecimiento
+acelerado. ``Debilitamiento por Absorción: En encapsulantes tipo polímero, el aumento de la
+humedad genera cambios en el esfuerzo normal del dado de silicio de hasta $30$ MPa en
+ensamblajes de laminado debido a la expansión higroscópica. ``Rigidez Dieléctrica de
+Aislamientos: En cables de cobre (como los de bobinas), la rigidez dieléctrica de la aislación
+se reduce significativamente al pasar de un entorno de $50\%$ RH a uno de $80\%$ RH,
+aumentando el riesgo de arco eléctrico. ``6. Modelado Matemático de Aceleración de
+FallasLa máxima fáctica que rige estas degradaciones se resume en la Ecuación de Peck,
+que cuantifica el Factor de Aceleración ($AF$) de falla por humedad:$$AF = \left(
+\frac{RH_{test}}{RH_{use}} \right)^n \exp \left$$Constantes Científicas: El exponente de
+humedad ($n$) se sitúa típicamente en $2.7$ para corrosión en electrónica, y la energía de
+activación ($E_a$) promedia los $0.8$ eV. [5, 6]Impacto de la Temperatura: Siguiendo la
+regla de Arrhenius, un incremento de $10^\circ$C en la temperatura de operación puede
+reducir a la mitad la vida útil de un componente electrónico en presencia de humedad. [7, 2]
+Para proporcionar la máxima claridad técnica y científica, a continuación se detallan las
+afirmaciones fácticas y medibles sobre los efectos de la humedad en componentes de
+hardware (Motherboards y GPUs), vinculando cada dato directamente con su respaldo
+en la literatura científica y estudios de fiabilidad:
+1. Sustrato y Propiedades Dieléctricas (PCB/FR4)
+El laminado FR4 (fibra de vidrio y resina epóxica) es higroscópico, y la absorción de
+agua altera sus constantes fundamentales, afectando la integridad de señales de alta
+velocidad (PCIe 4.0/5.0, VRAM).
+● Incremento de la Constante Dieléctrica ($\epsilon_r$): En frecuencias de
+$3.2$ GHz, la constante dieléctrica del FR4 aumenta de $4.55$ (estado seco,
+$10\%$ RH) a $4.725$ en saturación ($95\%$ RH). [1]
+● Degradación del Tangente de Pérdida ($\tan \delta$): La absorción de
+humedad provoca un aumento del $53\%$ en el factor de disipación a $3.2$
+GHz (pasando de $0.0126$ a $0.0193$). En el rango de $1.2$ a $10.2$ GHz, el
+incremento total de pérdidas oscila entre el $43\%$ y el $58\%$. [1]
+● Velocidad de Saturación: En condiciones de $85^\circ$C y $85\%$ RH, los
+materiales FR4 alcanzan el punto de saturación de humedad en un periodo de
+$5$ a $6$ días para distancias menores a $0.5$ mm de la superficie. [1]
+2. Capacitores (Electrolíticos, Polímero y Film)
+Los capacitores son extremadamente sensibles a la humedad, lo que altera su
+Resistencia Serie Equivalente (ESR) y su capacidad de filtrado en las fases de
+alimentación de la GPU.
+● Capacitores de Polímero Sólido: Bajo un estrés de $85^\circ$C y $85\%$ RH,
+estos componentes experimentan una duplicación ($100\%$ de incremento) de
+su ESR en un periodo de $1000$ horas, aunque la capacitancia se mantenga
+estable dentro del $\pm 5\%$. [2]
+● Capacitores de Película Metalizada (Film): La corrosión electroquímica de la
+metalización bajo humedad y polarización AC provoca una pérdida del $10\%$
+de la capacitancia total en solo $500$ horas de exposición. [2]
+● Capacitores Electrolíticos de Aluminio: Existe una correlación directa entre la
+pérdida de masa del electrolito y la falla funcional; una pérdida de masa del
+$20\%$ por evaporación o filtración de humedad se traduce en una caída de
+capacitancia del $30\%$ al $40\%$. [2]
+3. Inductores y Bobinas de Potencia
+En las GPUs, las bobinas ("molded inductors") sufren degradación en el núcleo
+magnético debido al fenómeno de percolación inducido por factores ambientales.
+● Degradación del Factor de Calidad (Q): En condiciones de estrés térmico y
+eléctrico prolongado, el valor de Q (eficiencia del inductor) puede disminuir en
+más del $50\%$. Esto no es detectable a bajas frecuencias ($100$ kHz) pero se
+manifiesta críticamente a frecuencias de operación de VRM ($2$ MHz o
+superior). ``
+● Pérdida de Eficiencia del Sistema: La formación de redes micro-conductoras
+entre partículas de hierro (percolación) puede generar pérdidas de eficiencia en
+el conversor DC/DC de entre el $30\%$ y el $50\%$ en casos extremos. ``
+● Distorsión de Armónicos: La degradación del aislamiento inter-partícula en el
+núcleo del inductor puede aumentar el ruido y las emisiones electromagnéticas
+(EMI) hasta en $14$ dB. ``
+4. Metales, Soldaduras y Migración Electroquímica (ECM)
+La combinación de humedad y campos eléctricos en componentes densamente
+poblados (como los pads de una GPU) dispara el crecimiento de estructuras
+conductoras parásitas.
+● Umbral Crítico para el Níquel: El crecimiento de dendritas de níquel y el
+aumento significativo de corrientes de fuga se activan drásticamente cuando la
+humedad relativa alcanza o supera el $97\%$. [3]
+● Degradación de Contactos en GaAs: Las estructuras de contacto óhmico
+(comunes en componentes de comunicación de alta frecuencia) muestran una
+degradación de la resistencia de contacto del $22.9\%$ tras solo $100$ horas de
+exposición a condiciones de $85/85$. ``
+● Resistencia a la Corrosión de Soldaduras SAC: Las aleaciones Sn-Cu-Ag
+(SAC305) presentan una densidad de corriente de corrosión ($I_{corr}$) de
+aproximadamente $4.3 \times 10^{-6}$ A/cm$^2$ en entornos salinos/húmedos,
+demostrando ser más estables que las aleaciones binarias de estaño-plata. ``
+● Corrosión Galvánica Au-Sn: La unión de conectores de oro (Au) con cables o
+soldaduras de estaño (Sn) genera un potencial galvánico de $0.5$ V, suficiente
+para iniciar la oxidación del estaño si se forma una película de agua adsorbida.
+[4]
+5. Compuestos Sintéticos y Adhesión (Underfill y Solder Mask)
+La humedad degrada la unión mecánica entre el chip de la GPU y el PCB, facilitando
+fallos por estrés térmico.
+● Reducción de la Fuerza de Adhesión: La resistencia a la tensión de las
+uniones de cobre con resina epóxica (underfill) cae al $50\%$ o menos de su
+valor original tras $1000$ horas de envejecimiento acelerado. ``
+● Debilitamiento por Absorción: En encapsulantes tipo polímero, el aumento de
+la humedad genera cambios en el esfuerzo normal del dado de silicio de hasta
+$30$ MPa en ensamblajes de laminado debido a la expansión higroscópica. ``
+● Rigidez Dieléctrica de Aislamientos: En cables de cobre (como los de
+bobinas), la rigidez dieléctrica de la aislación se reduce significativamente al
+pasar de un entorno de $50\%$ RH a uno de $80\%$ RH, aumentando el riesgo
+de arco eléctrico. ``
+6. Modelado Matemático de Aceleración de Fallas
+La máxima fáctica que rige estas degradaciones se resume en la Ecuación de Peck,
+que cuantifica el Factor de Aceleración ($AF$) de falla por humedad:
+$$AF = \left( \frac{RH_{test}}{RH_{use}} \right)^n \exp \left$$
+● Constantes Científicas: El exponente de humedad ($n$) se sitúa típicamente
+en $2.7$ para corrosión en electrónica, y la energía de activación ($E_a$)
+promedia los $0.8$ eV. [5, 6]
+● Impacto de la Temperatura: Siguiendo la regla de Arrhenius, un incremento de
+$10^\circ$C en la temperatura de operación puede reducir a la mitad la vida útil
+Bases Científicas y Mecanismos de
+Degradación por Humedad en
+Arquitecturas de Hardware de Alto
+Rendimiento: Un Análisis de
+Motherboards y GPUs
+La integridad operativa de los sistemas computacionales modernos, específicamente en el
+ámbito de las placas base (motherboards) y las unidades de procesamiento gráfico (GPUs),
+depende de una interacción sinérgica entre materiales metálicos, aleaciones complejas y
+compuestos sintéticos avanzados. Estas plataformas representan sistemas de interconexión de
+alta densidad donde la proximidad microscópica de los conductores y los elevados gradientes
+de potencial eléctrico generan una vulnerabilidad intrínseca a factores ambientales.
+1 La
+exposición prolongada a entornos de alta humedad relativa (RH) actúa como el catalizador
+principal de una serie de procesos fisicoquímicos que comprometen la fiabilidad a largo plazo.
+Este informe investiga de manera exhaustiva el marco teórico y las máximas fácticas que rigen
+la degradación de estos elementos, centrándose en los efectos sobre metales puros,
+soldaduras, capacitores, inductores y sistemas de protección.
+4
+Fundamentos de la Ciencia de Materiales en
+Motherboards y GPUs
+La arquitectura de una placa base o una GPU se fundamenta en el circuito impreso (PCB), un
+compuesto multicapa diseñado para proporcionar soporte mecánico y conectividad eléctrica.
+7
+La base estructural predominante es el laminado FR4 (Flame Retardant 4), compuesto por
+capas de tejido de fibra de vidrio impregnadas con una resina epóxica bromada que actúa
+como aislante térmico y eléctrico.
+7
+Metalurgia de Interconexiones y Capas de Acabado
+El cobre (Cu) de alta pureza constituye la red de vías y trazas conductoras debido a su
+excepcional conductividad. Sin embargo, el cobre es altamente susceptible a la oxidación y la
+corrosión en presencia de humedad y contaminantes iónicos.
+1 Para mitigar esta vulnerabilidad,
+se aplican acabados superficiales metálicos:
+Metal / Aleación Función Principal Propiedad Crítica
+Cobre (Cu) Trazas y planos de potencia Conductividad eléctrica (
+S/m)
+Oro (Au) Contactos y protección
+superficial
+Alta nobleza y resistencia a la
+oxidación
+Níquel (Ni) Barrera de difusión en ENIG Dureza mecánica y resistencia
+térmica
+Estaño (Sn) Base de soldaduras y
+recubrimientos
+Capacidad de mojado y bajo
+punto de fusión
+Aluminio (Al) Disipadores de calor y
+capacitores
+Alta conductividad térmica y
+ligereza
+Plata (Ag) Terminaciones de
+componentes
+Máxima conductividad; alta
+tasa de migración
+Las aleaciones de soldadura modernas han evolucionado hacia composiciones libres de plomo
+(Lead-Free), comúnmente basadas en el sistema Sn-Ag-Cu (SAC). Estas aleaciones, aunque
+ecológicamente preferibles, presentan una microestructura más compleja y una mayor
+propensión a la formación de "whiskers" y a la degradación electroquímica en comparación con
+las soldaduras tradicionales de Sn-Pb.
+2
+Polímeros Sintéticos y su Función Protectora
+Más allá del laminado base, se emplean diversos polímeros sintéticos:
+1. Máscara de Soldadura (Solder Mask): Generalmente epoxis fotosensibles que protegen
+las trazas de cobre del ambiente y evitan puentes de soldadura durante el ensamblaje.
+12
+2. Underfill y Encapsulantes: Resinas que se inyectan bajo los chips de la GPU para
+distribuir el estrés térmico y proteger las bolas de soldadura del Ball Grid Array (BGA).
+13
+3. Conformal Coatings: Recubrimientos de silicona, acrílico o poliuretano aplicados en
+entornos extremos para sellar la placa contra la humedad.
+12
+La máxima científica fundamental respecto a estos polímeros es su naturaleza higroscópica. A
+diferencia de los metales, los polímeros permiten el transporte de moléculas de agua a través
+de su matriz molecular mediante difusión libre, lo que significa que ninguna protección
+polimérica es absolutamente impermeable a largo plazo.
+16
+Dinámica de la Adsorción de Humedad y Difusión de
+Vapor de Agua
+El efecto de la humedad no requiere la presencia de agua líquida (lluvia o inmersión) para ser
+destructivo. La degradación comienza a nivel molecular mediante la adsorción de vapor de
+agua en las superficies y la absorción en el volumen de los materiales.
+18
+Formación de Capas de Agua Adsorbidas
+En cualquier superficie sólida expuesta al aire, se forma una capa de moléculas de agua cuya
+densidad depende de la humedad relativa. Según la teoría de Brunauer-Emmett-Teller (BET), a
+medida que la RH se acerca al 60-70%, el espesor de esta capa supera las tres monocapas
+moleculares.
+18 A partir de este umbral, el agua adsorbida comienza a exhibir propiedades de
+electrolito líquido, permitiendo la disolución de iones contaminantes y facilitando el flujo de
+corrientes de fuga superficiales.
+4
+La presencia de contaminantes higroscópicos, como los residuos de fundente (flux) o
+partículas atmosféricas, reduce drásticamente el punto de condensación crítico. Estos
+contaminantes poseen una Humedad Relativa de Delicuescencia (DRH), que es el nivel de
+humedad en el cual la sustancia absorbe suficiente agua para disolverse por completo y formar
+una solución conductora.
+18
+Difusión de Volumen y la Ley de Fick
+El transporte de humedad hacia el interior de los componentes y los laminados de la PCB se
+rige por la Ley de Difusión de Fick:
+Donde es el flujo de difusión, es el coeficiente de difusión del material y es la
+concentración de humedad.
+17 En materiales como el FR4 y los encapsulantes de los
+capacitores, la humedad difunde a través de los micro-huecos de la resina. Este proceso
+provoca una expansión volumétrica que genera tensiones mecánicas en las interfaces
+metal-polímero, aumentando el riesgo de delaminación y fallos en las vías de interconexión.
+14
+Migración Electroquímica (ECM) y Crecimiento de
+Dendritas
+El fenómeno más crítico derivado de la humedad en placas con tensión eléctrica es la
+Migración Electroquímica (ECM). Este proceso resulta en el crecimiento de filamentos
+metálicos conductores (dendritas) que puentean la separación entre conductores, causando
+cortocircuitos permanentes o intermitentes.
+4
+Mecanismo de Reacción Electroquímica
+El proceso de ECM requiere cuatro elementos: un electrolito (humedad), un campo eléctrico
+(diferencia de potencial), metales susceptibles y contaminantes iónicos.
+24 El ciclo se divide en
+tres fases científicamente demostradas:
+1. Disolución Anódica: En el ánodo (conductor con potencial positivo), el metal se oxida y
+se disuelve en la película de humedad:
+Simultáneamente, la hidrólisis del agua genera un ambiente localmente ácido en el ánodo,
+lo que acelera la corrosión:
+.
+10
+2. Migración de Iones: Los iones metálicos cargados positivamente ( , ,
+) son atraídos por el campo eléctrico y migran a través del electrolito hacia el
+cátodo (conductor con potencial negativo).
+10
+3. Deposición Catódica: Al llegar al cátodo, los iones se reducen nuevamente a metal
+sólido:
+Este depósito crece de forma fractal desde el cátodo hacia el ánodo. La máxima fáctica
+aquí es que el crecimiento es más rápido en puntos de alta intensidad de campo
+eléctrico, como esquinas de trazas o bordes de componentes.
+4
+Metal Propensión a ECM Características del Fallo
+Plata (Ag) Muy Alta Dendritas extremadamente
+rápidas y finas
+Cobre (Cu) Alta Crecimiento constante;
+requiere contaminantes iónicos
+Estaño (Sn) Moderada Común en soldaduras; suele
+formar "whiskers"
+Níquel (Ni) Baja Solo se observa en RH > 97% o
+condensación masiva
+Oro (Au) Nula/Despreciable Metal noble; solo migra en
+presencia de cloruros masivos
+Un estudio de caso fundamental demuestra que el níquel, aunque resistente, puede desarrollar
+dendritas en condiciones de humedad extrema (97% RH) si existen contaminantes como
+sulfatos atrapados bajo la máscara de soldadura.
+21
+El Efecto de la Humedad sobre Componentes Pasivos
+Críticos
+Los componentes que gestionan la potencia en GPUs y motherboards —capacitores,
+inductores y fusibles— presentan modos de degradación específicos y severos bajo exposición
+continua a la humedad.
+Degradación de Capacitores Electrolíticos y de Polímero
+Los capacitores son el eslabón más débil en la cadena de fiabilidad de una placa base.
+25
+Capacitores Electrolíticos de Aluminio (AEC)
+Estos componentes dependen de un electrolito líquido y una capa de óxido de aluminio (
+) como dieléctrico. La humedad afecta su integridad de dos maneras:
+● Corrosión de la Carcasa: El aluminio de la carcasa puede sufrir corrosión galvánica o por
+picaduras (pitting), lo que permite la fuga del electrolito.
+25
+● Hidratación del Dieléctrico: La humedad que penetra por el sello de goma reacciona
+con la capa de óxido, aumentando las corrientes de fuga y reduciendo la capacidad de
+almacenamiento de carga.
+25
+● Aumento de la ESR: La degradación química del electrolito debido a la contaminación
+con humedad eleva la Resistencia Serie Equivalente (ESR), lo que genera un
+calentamiento excesivo durante el funcionamiento y acelera el fallo del componente.
+27
+Capacitores de Polímero Sólido
+Aunque no sufren de "evaporación" de electrolito, son altamente sensibles a la humedad
+ambiental.
+● Máxima Científica: Se ha demostrado que en condiciones de 85°C y 85% RH, los
+capacitores de polímero pueden experimentar una duplicación de su ESR en menos de
+1,000 horas.
+27 Esto es crítico para las GPUs de alto consumo, donde una ESR elevada en
+las fases de alimentación provoca una entrega de voltaje inestable y ruido electrónico
+(ripple) que puede dañar el chip de video.
+27
+Capacitores de Película Metalizada
+Utilizados para filtrado de interferencias, su fallo principal bajo humedad es la "corrosión
+electroquímica de la metalización".
+27 La humedad oxida la delgada capa metálica depositada
+sobre el plástico, reduciendo el área efectiva de las placas y causando una pérdida progresiva
+de capacitancia.
+27
+Fenómeno de Percolación en Bobinas e Inductores de Potencia
+Los inductores modernos de las GPUs suelen ser de tipo "molded", donde la bobina de cobre
+está encapsulada en un núcleo de polvo metálico aglomerado con resina.
+29
+La máxima fáctica en estos componentes es el Fenómeno de Percolación. La exposición
+prolongada a alta humedad y temperatura degrada la capa aislante que recubre cada partícula
+de polvo de hierro en el núcleo.
+29
+● Consecuencia: Se forman redes micro-conductoras entre las partículas de hierro. Esto
+transforma el núcleo de un aislante magnético a un conductor eléctrico parcial, lo que
+dispara las pérdidas por corrientes de Foucault (Eddy currents).
+29
+● Efecto en el Sistema: El inductor se calienta masivamente y su eficiencia cae, lo que a
+menudo lleva a una falla catastrófica de los MOSFETs asociados en el sistema de
+regulación de voltaje (VRM) de la GPU.
+29
+Degradación de Fusibles y Sistemas de Protección
+Los fusibles en una GPU están diseñados para proteger contra sobrecorrientes mediante un
+elemento metálico calibrado de muy bajo espesor.
+● Oxidación y Reducción de Sección: La humedad constante promueve la oxidación del
+elemento fusible. Al ser un filamento tan delgado, incluso una capa mínima de corrosión
+reduce significativamente su sección transversal efectiva.
+30
+● Fallo por Fatiga Térmica y Corrosión: El aumento de la resistencia debido a la corrosión
+genera más calor bajo carga normal, lo que puede provocar que el fusible se funda a
+corrientes mucho menores que su valor nominal (disparos en falso) o que desarrolle una
+falla de circuito abierto de manera prematura.
+5
+Impacto en la Integridad de Señal y Propiedades
+Dieléctricas
+A medida que las frecuencias de operación de las GPUs y las memorias (GDDR6/X) superan los
+10-20 GHz, el comportamiento del sustrato de la PCB se vuelve un factor crítico.
+23
+Variación de la Constante Dieléctrica ( ) y la Tangente de Pérdida (
+)
+La molécula de agua es un dipolo altamente polar con una constante dieléctrica cercana a 80.
+Cuando el FR4 absorbe humedad, sus propiedades eléctricas cambian drásticamente.
+9
+Condición del FR4 Constante Dieléctrica (ϵr) Tangente de Pérdida (tanδ)
+Estado Seco (10% RH) ~4.55 ~0.0126
+Estado Saturado (95% RH) ~4.72 ~0.0193
+● Degradación de la Señal: El aumento de la constante dieléctrica reduce la velocidad de
+propagación de las señales eléctricas, provocando errores de sincronización (jitter).
+23
+● Pérdida por Absorción: El incremento de hasta un 58% en la tangente de pérdida
+significa que una mayor parte de la energía de la señal se disipa como calor en el
+sustrato, lo que atenúa la señal en buses de alta velocidad como el PCIe 4.0/5.0,
+pudiendo causar errores de bus y caídas de rendimiento.
+23
+Corrosión Galvánica y Atmosférica en Soldaduras y
+Contactos
+La unión de metales distintos en presencia de humedad crea celdas galvánicas microscópicas
+donde el metal menos noble se sacrifica y se corroe aceleradamente.
+34
+El Par Galvánico Au-Sn en Conectores
+Un punto crítico es el contacto entre conectores chapados en oro (Au) y cables o
+componentes chapados en estaño (Sn).
+34
+● Mecanismo: El oro es extremadamente noble ( V en el índice anódico), mientras
+que el estaño es mucho más activo ( V). La diferencia de potencial de V es
+suficiente para iniciar la corrosión del estaño en presencia de una película de humedad.
+34
+● Fretting Corrosion: La vibración térmica y mecánica, combinada con la humedad,
+acelera este proceso, creando una capa de óxido aislante en los contactos que provoca
+fallos intermitentes en la GPU o en los periféricos conectados.
+5
+Corrosión por Partículas y Smog
+Investigaciones recientes demuestran que la humedad combinada con partículas atmosféricas
+(smog) es exponencialmente más dañina.
+36 Las partículas finas ( ) son altamente
+higroscópicas y forman micro-celdas de corrosión por aireación diferencial. Iones como el
+cloruro ( ) y el sulfato ( ) presentes en el aire urbano rompen la capa pasiva del
+cobre y el aluminio, iniciando procesos de corrosión por picaduras (pitting) que pueden cortar
+una traza de la placa en cuestión de meses.
+31
+Factores Críticos en GPUs y Módulos de Potencia de
+Alto Voltaje
+Las GPUs modernas operan con corrientes que superan los 400A y voltajes internos que,
+aunque bajos, presentan gradientes de campo eléctrico muy altos debido a la miniaturización.
+El Riesgo de Condensación en Sistemas de Refrigeración Activa
+Una máxima de seguridad para GPUs en entornos húmedos es el control del punto de rocío. Si
+el sistema de refrigeración (especialmente en refrigeración líquida o con ventiladores de alto
+flujo) enfría la superficie de la placa por debajo de la temperatura ambiente, se produce
+condensación masiva.
+15
+● Cortocircuitos Instantáneos: El agua líquida conecta directamente los pads de los
+MOSFETs de potencia (12V) con las líneas de datos sensibles (0.8V - 1.8V), causando la
+destrucción instantánea del silicio de la GPU.
+3
+● Atrapamiento bajo el BGA: El agua condensada puede quedar atrapada por capilaridad
+bajo el chip de la GPU. Debido a la baja evaporación en esos espacios reducidos, la
+corrosión continúa incluso después de apagar el equipo.
+6
+Migración de Plomo en Pasivaciones de Vidrio
+En semiconductores de potencia, se ha descubierto un mecanismo inducido por humedad
+donde el plomo presente en las capas de pasivación de vidrio de los diodos y transistores
+puede disolverse localmente.
+38 Esto genera estructuras similares a "árboles" (water treeing)
+que provocan la ruptura dieléctrica del componente y su fallo explosivo.
+38
+Modelado de Fiabilidad y Pruebas de Estrés Acelerado
+La industria utiliza modelos matemáticos para predecir cuánto tiempo sobrevivirá una placa en
+un entorno húmedo. El modelo de Peck es el estándar para predecir fallos por corrosión en
+componentes encapsulados.
+39
+La Ecuación de Peck para la Aceleración por Humedad
+El factor de aceleración ( ) que relaciona la vida útil en condiciones normales frente a
+condiciones de alta humedad se calcula como:
+Donde:
+● es la humedad relativa.
+● es una constante (típicamente entre 2.7 y 3.0 para electrónica).
+39
+● es la energía de activación del proceso de corrosión (generalmente a eV).
+41
+● es la constante de Boltzmann.
+● es la temperatura absoluta en Kelvin.
+Esta fórmula demuestra que un incremento del 10% en la humedad relativa puede reducir la
+vida útil del hardware a la mitad, dependiendo de la temperatura de operación.
+40
+Estándares de Prueba JEDEC/IPC
+Para validar la resistencia, las motherboards y GPUs se someten a pruebas estandarizadas que
+representan condiciones de humedad extrema:
+Prueba Siglas Estándar Condiciones
+Típicas
+Objetivo
+Científico
+Temperature
+Humidity Bias
+THB JESD22-A101 85°C / 85% RH /
+1000h
+Evaluar corrosión y
+ECM a largo plazo
+Biased HAST BHAST JESD22-A110 130°C / 85% RH /
+96h
+Aceleración
+extrema de fallos
+bajo presión
+Unbiased HAST uHAST JESD22-A118 130°C / 85% RH Evaluar
+penetración de
+humedad sin bias
+Conductive
+Anodic Filament
+CAF IPC-TM-650 85°C / 85% RH Probar integridad
+de la fibra de
+vidrio de la PCB
+El cumplimiento de estas normas asegura que el hardware pueda operar en climas tropicales o
+subtropicales, pero la máxima fáctica final es que la degradación es acumulativa y no
+reversible.
+25
+Conclusiones sobre la Exposición Prolongada a la
+Humedad
+La investigación científica detallada en este informe confirma que la humedad es el enemigo
+más persistente y multifacético de la electrónica de alto rendimiento. Las consecuencias de
+una exposición prolongada en entornos de alta humedad relativa superan la simple oxidación
+superficial, manifestándose en fallos estructurales y eléctricos profundos:
+1. En Metales y Soldaduras: La formación de dendritas por migración electroquímica y la
+corrosión galvánica en las juntas de soldadura y conectores Au-Sn son las causas
+principales de cortocircuitos y fallos de contacto.
+4
+2. En Componentes de Potencia: Los capacitores experimentan un aumento drástico de la
+ESR y los inductores sufren el fenómeno de percolación, lo que degrada la eficiencia del
+sistema VRM y pone en riesgo la vida del procesador o la GPU.
+27
+3. En la PCB: La absorción de agua en el laminado FR4 altera las propiedades dieléctricas,
+comprometiendo la integridad de las señales de alta frecuencia y facilitando la creación
+de caminos conductores internos (CAF).
+17
+4. En el Sistema Completo: El riesgo de condensación por refrigeración inadecuada y la
+aceleración de la corrosión por contaminantes atmosféricos definen un límite estricto
+para la operación segura, que según las recomendaciones técnicas debe mantenerse
+idealmente entre el 40% y el 60% de humedad relativa.
+3
+La implementación de barreras físicas (como conformal coatings) y el control ambiental
+riguroso son las únicas defensas eficaces para mitigar estas máximas científicas de
+degradación en hardware crítico expuesto a condiciones de humedad continua.
+Obras citadas
+1. Understanding Motherboard Parts and Functions - Udemy Blog, fecha de acceso:
+abril 9, 2026, https://blog.udemy.com/motherboard-parts-and-functions/
+2. The Chemistry of a Graphics Processing Unit (GPU) - www.ChemistryIsLife.com,
+fecha de acceso: abril 9, 2026,
+https://www.chemistryislife.com/the-chemistry-of-a-graphics-processing-unit-g
+pu
+3. Environmental Monitoring for GPU Clusters: Temperature, Humidity, and Airflow
+Optimization - Introl, fecha de acceso: abril 9, 2026,
+https://introl.com/blog/environmental-monitoring-gpu-clusters-temperature-hu
+midity-airflow
+4. Electrochemical Migration in High Humidity Environments - Magnalytix, fecha de
+acceso: abril 9, 2026,
+https://magnalytix.com/tech-corner/blog/electrochemical-migration-humidity
+5. The Impact of High-Temperature and High-Humidity Environments on Electronic
+Components - blog - Onzuu, fecha de acceso: abril 9, 2026,
+https://www.onzuu.com/blog/the-impact-of-high-temperature-and-high-humidit
+y-environments-on-electronic-components
+6. Moisture Impact on Electronics: Risks & Solutions - ZESTRON, fecha de acceso:
+abril 9, 2026,
+https://www.zestron.com/en/know-how/applications-analytic/moisture-on-assem
+blies
+7. PCB Substrate and Core Materials: A Comprehensive Guide - KKPCB, fecha de
+acceso: abril 9, 2026,
+https://www.kkpcba.com/pcb-substrate-and-core-materials-a-comprehensive-g
+uide/
+8. Materials used in printed circuit board substrates - PentaLogix, fecha de acceso:
+abril 9, 2026,
+https://www.pentalogix.com/blog/2023/02/22/materials-used-in-printed-circuit-b
+oard-substrates/
+9. Understanding FR4 PCBs: A Comprehensive Guide | LionCircuits, fecha de
+acceso: abril 9, 2026, https://www.lioncircuits.com/blog/posts/fr4-pcbs
+10. High-Voltage Temperature Humidity Bias Test (HV-THB): Overview of Current Test
+Methodologies and Reliability Performances - MDPI, fecha de acceso: abril 9,
+2026, https://www.mdpi.com/2079-9292/9/11/1884
+11. Corrosion Issues in Solder Joint Design Paul T. Vianco Sandia National
+Laboratories Albuquerque, NM Abstract Corrosion is an imp - OSTI, fecha de
+acceso: abril 9, 2026, https://www.osti.gov/servlets/purl/14961
+12. The Impact of Solder Mask on PCB Delamination: Optimizing Application for Long
+Term Reliability - ALLPCB, fecha de acceso: abril 9, 2026,
+https://www.allpcb.com/allelectrohub/the-impact-of-solder-mask-on-pcb-delam
+ination-optimizing-application-for-long-term-reliability
+13. PRD-06379: Environmental Considerations for Power Electronics Systems |
+Wolfspeed, fecha de acceso: abril 9, 2026,
+https://assets.wolfspeed.com/uploads/2023/09/Wolfspeed_PRD-06379_Environm
+ental_Considerations_for_Power_Electronics_Application_Note.pdf
+14. Identifying and Mitigating Moisture Absorption in Underfill, fecha de acceso: abril
+9, 2026,
+https://eureka.patsnap.com/report-identifying-and-mitigating-moisture-absorpti
+on-in-underfill
+15. How does humidity affect the performance of an NVIDIA GPU? - Massed
+Compute, fecha de acceso: abril 9, 2026,
+https://massedcompute.com/faq-answers/?question=How%20does%20humidity
+%20affect%20the%20performance%20of%20an%20NVIDIA%20GPU?
+16. Moisture in Printed Circuit Boards: Risks and Prevention - Advanced Rework
+Technology, fecha de acceso: abril 9, 2026,
+https://rework.co.uk/blog/moisture-in-printed-circuit-boards-understanding-and
+-preventing-pcb-moisture/
+17. How Moisture Absorption and Desorption Impact PCB Assembly - Camptech II
+Circuits Inc., fecha de acceso: abril 9, 2026,
+https://camptechii.com/how-pcb-moisture-absorption-and-desorption-impact-p
+cb-assembly/
+18. Circuit analysis to predict humidity related failures in electronics - Methodology
+and recommendations - DTU Research Database, fecha de acceso: abril 9, 2026,
+https://orbit.dtu.dk/files/200989954/postprint.pdf
+19. Moisture-Related Failures of Microelectronics | Oneida Research ..., fecha de
+acceso: abril 9, 2026,
+https://orslabs.com/resources/publications/why-be-concerned-about-moisture/
+20. Understanding Electrochemical Migration on PCBs - ZESTRON Europe, fecha de
+acceso: abril 9, 2026,
+https://www.zestron.com/en/know-how/applications-analytic/electrochemical-mi
+gration-assemblies
+21. A CASE STUDY OF NICKEL DENDRITIC GROWTH ... - Circuit Insight, fecha de
+acceso: abril 9, 2026,
+https://www.circuitinsight.com/pdf/case_study_nickel_dendritic_growth_printed_
+circuit_boards_smta.pdf
+22. Understanding the Crucial Role of Solder Flux Chemistry in ..., fecha de acceso:
+abril 9, 2026,
+https://orbit.dtu.dk/files/393823314/Enhancing_Humidity_Robustness_of_Electroni
+cs_Understanding_the_Crucial_Role_of_Solder_Flux_Chemistry_in_Determining_H
+umidity_Boundary_for_Failure.pdf
+23. Humidity-dependent loss in PCB substrates - Global Electronics ..., fecha de
+acceso: abril 9, 2026,
+https://www.electronics.org/system/files/technical_resource/E10%26S07_01.pdf
+24. Dendrites and corrosion in electronics - Super Engineer, fecha de acceso: abril 9,
+2026, https://www.superengineer.net/blog/soldering-dendrite-corrosion
+25. Effect of Storage Conditions on Electrolytic Capacitors, fecha de acceso: abril 9,
+2026,
+https://www.capacitorconnect.com/effects-of-storage-conditions-on-electrolyti
+c-capacitors/
+26. The Causes of Electrolytic Capacitor Degradation | Advanced PCB Design Blog |
+Cadence, fecha de acceso: abril 9, 2026,
+https://resources.pcb.cadence.com/blog/2022-the-causes-of-electrolytic-capaci
+tor-degradation
+27. Degradation of Capacitors and its Failure Mechanisms, fecha de acceso: abril 9,
+2026,
+https://passive-components.eu/different-causes-of-capacitor-degradation-and-f
+ailure-mechanisms/
+28. A Degradation Model of Aluminum Electrolytic Capacitors for LED Drivers - Lamar
+University, fecha de acceso: abril 9, 2026,
+https://www.lamar.edu/engineering/_files/documents/mechanical/dr.-fan-publicati
+ons/2015/Sun_061_EuroSimE_2015_degradation.pdf
+29. APPLICATION NOTE - ANP142 | Effects of molded power inductor degradation
+due to higher voltage or temperature in a DC/DC converter - Würth Elektronik,
+fecha de acceso: abril 9, 2026,
+https://www.we-online.com/components/media/o849252v410%20ANP142b_Effec
+ts%20of%20molded%20power%20inductor%20degradation_EN.pdf
+30. How Humidity Affects Electronic Reliability and How It's Tested - PatSnap Eureka,
+fecha de acceso: abril 9, 2026,
+https://eureka.patsnap.com/article/how-humidity-affects-electronic-reliability-an
+d-how-its-tested
+31. Research Progress in Corrosion Protection Technology for Electronic
+Components - MDPI, fecha de acceso: abril 9, 2026,
+https://www.mdpi.com/2075-4701/13/9/1508
+32. High-Speed FR-4 PCB Design: Techniques for Signal Integrity - ALLPCB, fecha de
+acceso: abril 9, 2026,
+https://www.allpcb.com/blog/pcb-knowledge/high-speed-fr-4-pcb-design-tech
+niques-for-signal-integrity.html
+33. FR4 Dielectric Constant and Material Characteristics - PCBasic, fecha de acceso:
+abril 9, 2026, https://www.pcbasic.com/blog/fr4_dielectric_constant.html
+34. Effects of Galvanic Corrosion on Au-Sn Plated Contacts in Electronic ..., fecha de
+acceso: abril 9, 2026,
+https://www.digipas.com/documents/Effects-of-Galvanic-Corrosion-on-Au-Sn-Pl
+ated-Contacts.pdf
+35. Galvanic corrosion - Wikipedia, fecha de acceso: abril 9, 2026,
+https://en.wikipedia.org/wiki/Galvanic_corrosion
+36. The corrosion mechanism of printed circuit boards affected by haze atmospheric
+particles - PMC, fecha de acceso: abril 9, 2026,
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12376827/
+37. Understanding the 5 Key Impacts of Moisture and Humidity in Harsh Environment
+Electronic Design - Bulgin, fecha de acceso: abril 9, 2026,
+https://blog.bulgin.com/blog/understanding-the-5-key-impacts-of-moisture-and
+-humidity-in-harsh-environment-electronic-design
+38. A humidity-induced novel failure mechanism in power semiconductor diodes,
+fecha de acceso: abril 9, 2026,
+https://research.aalto.fi/en/publications/a-humidity-induced-novel-failure-mecha
+nism-in-power-semiconductor/
+39. Temperature & Humidity Accelerated Life Testing - Accendo Reliability, fecha de
+acceso: abril 9, 2026,
+https://accendoreliability.com/temperature-humidity-accelerated-life-testing/
+40. Accelerated Temperature Humidity Testing Using the Arrhenius-Peck
+Relationship, fecha de acceso: abril 9, 2026,
+https://www.desolutions.com/resources/accelerated-temperature-humidity-testi
+ng-using-the-arrhenius-peck-relationship
+41. Arrhenius Peck Equation for Testing | PDF - Scribd, fecha de acceso: abril 9, 2026,
+https://www.scribd.com/document/813625209/Arrhenius-Peck-Equation
+42. Accelerated Life Test Arrhenius Interactive Calculator - Firgelli Automations, fecha
+de acceso: abril 9, 2026,
+https://www.firgelliauto.com/blogs/calculators/accelerated-life-test-arrhenius-cal
+culator
+43. Temperature Humidity Bias (THB) Testing | IEC 60068-2-67 | Infinita Lab, fecha de
+acceso: abril 9, 2026,
+https://infinitalab.com/blog/temperature-humidity-bias-thb-testing/
+44. Modeling Effects of Relative Humidity, Moisture, and Extreme Environmental
+Conditions on Power Electronic Performance - Electrical and Computer
+Engineering, fecha de acceso: abril 9, 2026,
+https://ece.northeastern.edu/groups/power/lehman/Publications/Pub2009/2009
