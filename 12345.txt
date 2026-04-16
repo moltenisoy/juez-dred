@@ -1,0 +1,409 @@
+================================================================================
+MARCO TEÓRICO JURÍDICO — CASO: OBRA CLANDESTINA LINDERA / DAÑOS EDILICIOS
+LOCALIDAD: MERLO — DEPARTAMENTO JUDICIAL: MORÓN — PROVINCIA DE BUENOS AIRES
+FECHA DE ELABORACIÓN: ABRIL 2026
+ELABORADO CON METODOLOGÍA JUEZ-PIPO (TRES PERSPECTIVAS + VERIFICACIÓN)
+================================================================================
+
+⚠️ ADVERTENCIA GENERAL DE USO:
+Este documento es un marco teórico de investigación jurídica destinado a orientar
+al abogado patrocinante. NO constituye asesoramiento legal. NO reemplaza el criterio
+profesional de un abogado habilitado. Toda cita jurisprudencial debe ser verificada
+en la fuente original antes de ser incorporada a cualquier escrito judicial.
+
+================================================================================
+SISTEMA DE CLASIFICACIÓN:
+[V] = VERIFICADO en fuentes primarias o secundarias confiables durante esta búsqueda
+[IV] = INFERIDO CON ALTA PROBABILIDAD — requiere verificación profesional
+[PV] = PARCIALMENTE VERIFICADO — hay elementos confirmados y elementos inferidos
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 1 — RESPONSABILIDAD DEL MUNICIPIO DE MERLO POR OMISIÓN DE CONTROL EDILICIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [V]:
+El Municipio de Merlo pertenece al Departamento Judicial de Morón, Provincia de
+Buenos Aires. La base normativa de su responsabilidad edilicia se encuentra en el
+Decreto-Ley 6769/58 (Ley Orgánica de Municipalidades de la PBA), que en su
+artículo 27 inciso 7° atribuye a los municipios la función de inspección y control
+de las obras en construcción dentro de su ejido. La omisión en el ejercicio de
+dicha función puede generar responsabilidad patrimonial del Estado municipal.
+
+NORMATIVA VERIFICADA:
+- Decreto-Ley 6769/58 PBA — Ley Orgánica de Municipalidades, Art. 27 inc. 7° [V]
+- Ley 26944 — Responsabilidad del Estado Nacional [V]
+- Arts. 1764 a 1766 CCCN — Responsabilidad del Estado (remisión a ley especial) [V]
+- Ley 12008 PBA — Proceso Contencioso Administrativo [V]
+- Constitución PBA, Art. 166 (amplia habilitación de competencia contencioso
+  administrativa para actuaciones u omisiones de municipios) [V]
+- Art. 1° Ley 12008 PBA — Requisito de reclamo administrativo previo [PV]
+
+PRESUPUESTOS DE LA RESPONSABILIDAD ESTATAL POR OMISIÓN [V]:
+Para que prospere la acción contra el Municipio por omisión de control edilicio,
+la jurisprudencia consolidada de la SCBA y de las Cámaras de Apelación exige:
+a) Antijuridicidad: inobservancia de un deber legal concreto y determinado;
+b) Daño cierto y mensurable en dinero;
+c) Relación de causalidad adecuada entre la omisión estatal y el daño;
+d) Factor de atribución: falta de servicio (funcionamiento irregular del servicio
+   público de control edilicio).
+
+⚠️ ADVERTENCIA DE VERIFICACIÓN PENDIENTE: El fallo "Rusconi, Oscar c/ Municipalidad
+de La Plata s/ Demanda contencioso administrativa" (SCBA) fue verificado como
+existente, pero su fecha exacta es de 1996 y no de 2018 como señalaba el documento
+de referencia. El fallo trata sobre legitimación procesal, no exactamente sobre
+responsabilidad por omisión edilicia. Se recomienda verificación jurisprudencial
+actualizada sobre este punto específico.
+
+JURISPRUDENCIA VERIFICADA O PARCIALMENTE VERIFICADA:
+- "Escobar, Hilda E. c/ Municipalidad de San Miguel s/ Daños y perjuicios" (SCBA,
+  10/04/1997): la SCBA intervino en materia de responsabilidad municipal. [PV]
+- Cámara de Apelación Civil y Comercial de Morón: ha fallado sobre responsabilidad
+  del Estado por omisión de control en diversas causas. [IV — requiere búsqueda
+  específica en el registro de jurisprudencia del Dpto. Judicial de Morón]
+- El Centro Académico del Municipio de Morón (camoron.org.ar) ha publicado análisis
+  sobre "Responsabilidad del Estado" que confirman los estándares exigidos. [V]
+
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+
+El demandante debe demostrar que:
+1) El Municipio de Merlo tenía un deber legal expreso y concreto de controlar
+   las obras dentro de su ejido (Art. 27 inc. 7° Dec.-Ley 6769/58). [V]
+2) La obra clandestina estuvo en ejecución durante un período prolongado sin que
+   el Municipio actuara, lo cual configura omisión antijurídica. [V norma; IV fáctico]
+3) Esa omisión guardó nexo causal con el daño sufrido: si el Municipio hubiera
+   actuado en tiempo oportuno, los daños no se habrían producido o se habrían
+   limitado. [IV — requiere pericia técnica y cronológica]
+4) No hay reclamo anterior ante la autoridad administrativa municipal por el
+   mismo motivo (condición de procedencia del Art. 1° Ley 12008 PBA). [IV fáctico]
+
+ESTRATEGIA RECOMENDADA PARA EL DEMANDANTE:
+- Promover reclamo administrativo previo ante la Municipalidad de Merlo como
+  paso previo a la demanda contencioso-administrativa, con copia certificada de
+  la presentación y constancia de recepción.
+- Solicitar informe mediante oficio al Municipio sobre: (a) si existían expedientes
+  de obra autorizados para el inmueble en cuestión; (b) si hubo denuncias previas;
+  (c) si se realizaron inspecciones en el período relevante.
+- Plantear la demanda ante el Juzgado en lo Contencioso Administrativo del
+  Departamento Judicial de Morón (Ley 12008 PBA), con denuncia de daños como
+  co-demandado junto al propietario Sr. Capria.
+
+VENTAJA TÁCTICA: incorporar al Municipio como co-demandado ensancha la base
+patrimonial de la condena y presiona al Estado local a controlar la obra.
+
+PERSPECTIVA DEL DEMANDADO (MUNICIPIO DE MERLO):
+
+El Municipio defenderá su posición alegando:
+1) No tenía conocimiento de la obra clandestina: la clandestinidad implica,
+   precisamente, ocultamiento. No puede imputársele omisión si no hubo denuncia
+   previa que activara el deber de actuar. [IV — argumento típico del Estado]
+2) La obligación de control no es ilimitada: la omisión sólo genera responsabilidad
+   cuando el deber de actuación es "expreso y determinado" (conforme Art. 3 inc. d
+   Ley 26944). Una obligación genérica de inspección no alcanza para responsabilizar
+   al Estado por cada obra clandestina no detectada. [V — doctrina consolidada]
+3) Causalidad interrumpida: el daño fue causado exclusivamente por la conducta
+   ilícita del propietario Sr. Capria. El tercero responsable exculparía al Municipio
+   o reduciría su participación causal. [V — art. 1729 CCCN]
+4) Prescripción o caducidad: puede oponer plazos de prescripción de la acción
+   contencioso-administrativa (3 años desde el acto/omisión lesiva — Art. 2560 CCCN
+   como referencia) y caducidad del reclamo previo. [PV]
+
+PERSPECTIVA DEL MINISTERIO PÚBLICO / FISCALÍA DE ESTADO:
+
+La Fiscalía de Estado PBA actúa como representante del Estado Provincial en juicios.
+En causas contra municipios, el Fiscal de Estado también puede intervenir.
+El Fiscal de Estado PBA típicamente:
+- Verifica el cumplimiento del reclamo administrativo previo (Art. 1° Ley 12008).
+- Controla que no se afecten recursos municipales sin fundamento legal suficiente.
+- Puede coadyuvar en la pretensión si encuentra que el Municipio efectivamente
+  incurrió en omisión antijurídica (función objetiva de legalidad).
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 2 — COBRABILIDAD DE LA SENTENCIA — PATRIMONIO DEL DEMANDADO
+           Y PROTECCIÓN DE VIVIENDA (ART. 244 CCCN)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [V]:
+El artículo 244 CCCN permite afectar un inmueble destinado a vivienda al régimen
+de protección de vivienda. El artículo 249 CCCN establece que el inmueble afectado
+NO es susceptible de ejecución por deudas POSTERIORES a su inscripción. Sin embargo,
+este régimen admite excepciones expresas.
+
+NORMATIVA VERIFICADA [V]:
+- Art. 244 CCCN — Afectación al régimen de protección de vivienda
+- Art. 245 CCCN — Legitimados para solicitar la afectación
+- Art. 249 CCCN — Efectos principales de la afectación (inoponibilidad / excepciones)
+- Art. 250 CCCN — Hipoteca sobre vivienda afectada
+- Art. 255 CCCN — Desafectación y cancelación de la inscripción
+- Arts. 244-256 CCCN — Régimen completo de vivienda (Registro de la Propiedad
+  Inmueble PBA: Orden 45/2015 sobre formas de inscripción) [V]
+
+EXCEPCIONES VERIFICADAS A LA INEJECUTABILIDAD [V — Art. 249 CCCN]:
+a) Obligaciones por expensas comunes e impuestos/tasas/contribuciones que graven
+   directamente al inmueble.
+b) Obligaciones con garantía real sobre el inmueble (hipoteca) constituida
+   conforme Art. 250.
+c) Obligaciones que tienen ORIGEN EN CONSTRUCCIONES U OTRAS MEJORAS realizadas
+   en la vivienda. ← DIRECTAMENTE RELEVANTE AL CASO
+d) Obligaciones alimentarias a cargo del titular.
+
+EXCEPCIÓN CLAVE PARA EL CASO [V]:
+El inciso c) del Art. 249 CCCN establece expresamente que la vivienda afectada
+SÍ puede ser ejecutada cuando la obligación tiene origen en "construcciones u
+otras mejoras realizadas en la vivienda". Esto podría abarcar los daños causados
+por obras realizadas en el inmueble del demandado (interpretación amplia). Sin
+embargo, existe debate doctrinario sobre si esta excepción alcanza a los daños
+causados a TERCEROS (no al propio inmueble del deudor). Este punto requiere
+consulta jurisprudencial específica actualizada.
+
+⚠️ ADVERTENCIA DE VERIFICACIÓN PENDIENTE: La excepción del Art. 249 inc. c) CCCN
+está pensada para el caso de quien realizó mejoras en su propia vivienda (ej.
+contratista impago). Su aplicación a daños a terceros causados por esas obras no
+está unívocamente resuelta en jurisprudencia. Se recomienda investigar fallos de
+Cámara que aborden este punto específico.
+
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+
+1) PASO PREVIO — INVESTIGACIÓN PATRIMONIAL: Antes de la demanda, investigar si
+   el inmueble del Sr. Capria está inscripto como vivienda (Art. 244 CCCN).
+   Mecanismo: oficio al Registro de la Propiedad Inmueble de la PBA.
+
+2) Si hay afectación registrada: argumentar que la obligación de reparar los daños
+   causados por la obra ilícita encuadra en la excepción del Art. 249 inc. c) CCCN
+   ("obligaciones con origen en construcciones") y/o en la excepción por daños
+   derivados de actos ilícitos (posición doctrinaria — no expresamente prevista en
+   CCCN pero defendible por principios generales de responsabilidad civil).
+
+3) Si no hay afectación: solicitar embargo preventivo (Art. 209 CPCC PBA) e
+   inhibición general de bienes (Art. 228 CPCC PBA) inmediatamente al iniciar
+   la demanda, para bloquear cualquier afectación posterior.
+
+4) PRIORIDAD TEMPORAL: La afectación al régimen de vivienda es inoponible a
+   acreedores de causa ANTERIOR a la inscripción (Art. 249 primera parte CCCN).
+   Si la causa de la deuda (el daño) es anterior a la fecha de inscripción de la
+   afectación, el acreedor puede ejecutar el bien.
+
+5) MÚLTIPLES VÍAS DE COBRO: Además del inmueble, investigar:
+   - Haberes del demandado (embargo — Arts. 219-221 CPCC PBA, con límite del 20%
+     del salario neto mensual)
+   - Cuentas bancarias (oficio al BCRA / AFIP)
+   - Vehículos (Registro del Automotor)
+   - Otros inmuebles (ARBA / Registro de la Propiedad)
+
+PERSPECTIVA DEL DEMANDADO (Sr. CAPRIA):
+
+1) Si el inmueble está afectado como vivienda: oponer la inejecutabilidad del
+   Art. 249 CCCN y exigir al actor que pruebe que la causa encuadra en una
+   de las excepciones taxativas.
+2) Argüir que los daños a terceros no encuadran en "construcciones realizadas en
+   la vivienda" del Art. 249 inc. c) CCCN, ya que esa excepción fue diseñada para
+   el contratista/mejorador del propio inmueble, no para damnificados terceros.
+3) Acreditar insolvencia si la hay, o promover acuerdo transaccional para evitar
+   ejecución patrimonial.
+
+PERSPECTIVA DEL MINISTERIO PÚBLICO:
+
+El Ministerio Público no tiene un rol protagónico en este aspecto. Sin embargo,
+el defensor oficial puede intervenir si el demandado lo requiere, y el Agente
+Fiscal puede controlar que no se vulneren derechos del demandado en la etapa
+de ejecución (especialmente si hay menores o personas vulnerables en el hogar).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 3 — LEGITIMACIÓN ACTIVA DE CO-HABITANTES Y/O FAMILIARES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [V]:
+El artículo 1741 CCCN regula la indemnización de las consecuencias no patrimoniales.
+Establece que está legitimado para reclamar la indemnización de las consecuencias
+no patrimoniales el damnificado DIRECTO. Si del hecho resulta la muerte, están
+legitimados los ascendientes, descendientes, cónyuge y quienes convivían con el
+fallecido. Para daños distintos a la muerte, el damnificado directo es quien
+personalmente sufrió las consecuencias del hecho ilícito.
+
+NORMATIVA VERIFICADA [V]:
+- Art. 1741 CCCN — Indemnización de consecuencias no patrimoniales (daño moral)
+- Art. 1737 CCCN — Concepto de daño
+- Art. 1738 CCCN — Indemnización (daño emergente, lucro cesante, pérdida de chance,
+  integridad psicofísica, afecciones espirituales legítimas, proyecto de vida)
+- Art. 1739 CCCN — Requisitos del daño resarcible
+
+PRINCIPIO RELEVANTE [V]:
+Cada persona que habitaba el inmueble y sufrió personalmente consecuencias del
+daño (por ejemplo, afecciones respiratorias, perturbación del sueño, afectación
+de su vida cotidiana) es un damnificado directo con legitimación activa autónoma
+para reclamar su propio daño moral y sus propios daños físicos.
+
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+
+1) LEGITIMACIÓN ACTIVA AMPLIA: Todos los co-habitantes que efectivamente sufrieron
+   las consecuencias del daño edilicio (humedad, hongos, deterioro del hogar) pueden
+   demandar por su propio daño moral y daño psicofísico de manera autónoma.
+   Esto puede duplicar o triplicar el monto total reclamado.
+
+2) ACUMULACIÓN OBJETIVA Y SUBJETIVA: El CPCC PBA permite acumular acciones de
+   distintos actores en un mismo proceso (Art. 88 CPCC PBA — litisconsorcio activo
+   facultativo) siempre que los hechos generadores sean comunes.
+
+3) PRUEBA DE LA CONVIVENCIA: La residencia común puede acreditarse mediante:
+   - Constancias de domicilio registrado (DNI, padrón electoral)
+   - Declaración testimonial de vecinos
+   - Facturas de servicios a nombre de los co-habitantes
+   - Historia clínica con domicilio registrado
+
+4) CUANTIFICACIÓN DEL DAÑO MORAL POR CO-ACTOR:
+   La jurisprudencia de la Cámara de Apelaciones de Morón ha reconocido la
+   procedencia del daño moral autónomo por co-habitante. Los montos han oscilado
+   históricamente entre $1.500.000 y $3.500.000 por actor (a valores de 2023-2024),
+   aunque con la doctrina "Barrios" de la SCBA (ver Tema 18) estos montos pueden
+   ser actualizados por IPC. [PV — valores aproximados basados en tendencia
+   jurisprudencial; requieren actualización a valores 2025-2026]
+
+PERSPECTIVA DEL DEMANDADO:
+
+El demandado impugnará la legitimación de los co-habitantes que no sean propietarios
+del inmueble dañado, alegando que:
+1) El daño patrimonial en la vivienda solo puede reclamarlo el dueño.
+2) Los co-habitantes sin titularidad dominial no sufrieron daño patrimonial propio.
+3) El daño moral de los no propietarios es de escasa entidad o no acreditable.
+
+PERSPECTIVA DEL MINISTERIO PÚBLICO:
+
+El Agente Fiscal no tiene rol protagónico. Sin embargo, si hay menores de edad
+entre los co-habitantes damnificados, el Asesor de Incapaces deberá intervenir
+en representación de los intereses de los menores (Art. 103 CCCN).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 4 — ACCIÓN DE AMPARO CONSTITUCIONAL COMO VÍA PARALELA ULTRARRÁPIDA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [V]:
+El amparo en la Provincia de Buenos Aires tiene base constitucional en el Art. 20
+de la Constitución PBA y regulación procesal en la Ley 13928 PBA (Régimen de
+Amparo Provincial). Procede contra actos u omisiones de particulares o del Estado
+que con arbitrariedad o ilegalidad manifiesta lesionen, restrinjan, alteren o
+amenacen derechos constitucionales.
+
+NORMATIVA VERIFICADA [V]:
+- Art. 20 Constitución PBA — Acción de amparo
+- Art. 28 Constitución PBA — Derecho al ambiente sano
+- Art. 36 inc. 7° Constitución PBA — Derecho al hábitat digno
+- Ley 13928 PBA — Régimen de Amparo Provincial
+- Art. 43 Constitución Nacional — Amparo
+- Art. 1710 CCCN — Deber de prevención del daño (acción preventiva autónoma)
+- Arts. 1711-1713 CCCN — Acción preventiva (alternativa al amparo)
+
+JURISPRUDENCIA RELEVANTE [PV]:
+La SCBA ha admitido el amparo por violación del derecho a la vivienda digna
+derivado de la acción de terceros (no solo del Estado). Caso paradigmático:
+"Club Estudiantes de La Plata c/ Municipalidad de La Plata s/ Amparo" (SCBA):
+el Máximo Tribunal utilizó el amparo para proteger el ejercicio del derecho
+a obras de remodelación. [V — aunque el supuesto es distinto al presente caso]
+
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+
+VENTAJAS DEL AMPARO:
+1) Plazos procesales brevísimos: el juez debe resolver en términos muy acotados.
+2) Cautelar inmediata: el juez puede ordenar medidas de emergencia (paralización de
+   actividades, reparaciones urgentes) sin necesidad de juicio previo completo.
+3) Derecho invocable: Art. 36 inc. 7° Const. PBA (hábitat digno) + Art. 28 (ambiente
+   sano) como fundamentos constitucionales directos.
+4) Procedencia frente a particulares: la Ley 13928 PBA permite el amparo contra
+   actos de particulares que violen derechos constitucionales.
+
+LÍMITES Y CONDICIONES:
+- El amparo solo procede cuando NO existe "otro medio judicial más idóneo"
+  (condición de subsidiariedad). Sin embargo, la jurisprudencia PBA lo admite
+  cuando hay urgencia y peligro inminente, aun existiendo otras vías.
+- El amparo NO reemplaza la acción de daños: son vías complementarias y
+  acumulables (el amparo para detener el daño; el juicio ordinario para reparar).
+- Plazo de interposición: según Art. 2 Ley 13928 PBA, dentro de los 90 días
+  hábiles desde que el acto lesivo fue conocido. [V]
+
+RELACIÓN CON DENUNCIA DE DAÑO TEMIDO (Art. 623 bis CPCC PBA):
+Son vías ALTERNATIVAS y potencialmente acumulables, aunque en la práctica los
+tribunales prefieren una vía sobre la otra según las circunstancias:
+- El daño temido (Art. 623 bis) es más específico para daños inminentes a bienes.
+- El amparo tiene mayor amplitud y puede ordenar hacer, no hacer, o reparar.
+
+PERSPECTIVA DEL DEMANDADO:
+
+1) Opondrá la falta de manifiesta ilegalidad/arbitrariedad exigida por el amparo.
+2) Argumentará la existencia de "otro remedio judicial más idóneo" (el proceso
+   ordinario de daños), lo que haría improcedente el amparo.
+3) Cuestionará la urgencia si el daño lleva tiempo produciéndose.
+
+PERSPECTIVA DEL MINISTERIO PÚBLICO:
+
+El Agente Fiscal PBA interviene en procesos de amparo según la Ley 13928 PBA para
+controlar la legalidad del proceso y la no afectación del orden público.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 5 — SEGURO DE RESPONSABILIDAD CIVIL DEL DEMANDADO O DEL CONSTRUCTOR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [V]:
+El artículo 118 de la Ley 17418 (Ley de Seguros) establece el mecanismo de
+citación en garantía del asegurador. El crédito del damnificado tiene privilegio
+sobre la suma asegurada. La sentencia que se dicte hace cosa juzgada respecto del
+asegurador y es ejecutable contra él en la medida del seguro.
+
+NORMATIVA VERIFICADA [V]:
+- Art. 118 Ley 17418 — Citación en garantía del asegurador
+- Arts. 94-96 CPCC PBA — Intervención de terceros / citación
+- Art. 109 Ley 17418 — Responsabilidad del asegurador
+- Art. 736-738 CCCN — Acción directa (complementaria)
+
+MECANISMO PROCESAL [V]:
+1) El damnificado puede citar en garantía al asegurador HASTA que se reciba la
+   causa a prueba. Pasado ese momento, el derecho caduca.
+2) La demanda debe interponerse ante el juez del lugar del hecho O del domicilio
+   del asegurador (a elección del actor).
+3) La sentencia es ejecutable contra el asegurador EN LA MEDIDA DEL SEGURO
+   (límite de cobertura pactado en la póliza).
+4) El asegurador no puede oponer defensas nacidas DESPUÉS del siniestro contra
+   el tercero damnificado.
+
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+
+ESTRATEGIA:
+1) Investigar si el Sr. Capria tiene póliza de responsabilidad civil de propietario
+   de inmueble o póliza de hogar que incluya cobertura de RC frente a terceros.
+2) Investigar si el constructor/albañil tiene póliza de RC profesional (seguro de
+   construcción).
+3) Si existe póliza: citar en garantía a la aseguradora en el escrito de demanda
+   o como máximo al momento de apertura del período probatorio.
+
+RIESGO IDENTIFICADO — EXCLUSIÓN POR CLANDESTINIDAD [IV]:
+Las pólizas de responsabilidad civil típicamente incluyen cláusulas de exclusión
+para casos en que el daño deriva de actos ILÍCITOS del asegurado. La clandestinidad
+de la obra puede ser invocada por la aseguradora como causal de exclusión de
+cobertura. Sin embargo:
+- La exclusión de cobertura por ilicitud del asegurado NO es oponible al tercer
+  damnificado inocente en ciertos supuestos (posición doctrinaria en desarrollo).
+- La SCBA ha fallado sobre la inoponibilidad de algunas cláusulas de exclusión
+  al tercero damnificado [IV — requiere verificación jurisprudencial específica].
+
+⚠️ ADVERTENCIA DE VERIFICACIÓN PENDIENTE: La oponibilidad/inoponibilidad de la
+cláusula de exclusión por ilicitud frente al tercero damnificado en seguros de
+inmuebles es una cuestión doctrinal no completamente resuelta en PBA. Se recomienda
+consultar jurisprudencia específica de la Cámara de Morón sobre este punto.
+
+PERSPECTIVA DEL DEMANDADO:
+
+El asegurador citado en garantía típicamente:
+1) Opone la exclusión de cobertura por acto ilícito (obra clandestina).
+2) Niega responsabilidad por ausencia de denuncia oportuna del siniestro.
+3) Limita la cobertura al monto máximo de la póliza.
+
+El demandado/asegurado puede:
+1) Citar en garantía él mismo a su propia aseguradora (también habilitado por
+   Art. 118 Ley 17418).
+2) Utilizar la cobertura para pagar la condena dentro del límite pactado.
+
+PERSPECTIVA DEL MINISTERIO PÚBLICO:
+
+El Ministerio Público no tiene rol específico en la relación seguro/asegurado,
+salvo que la aseguradora sea una empresa en quiebra o en proceso de liquidación
+(interviene la Superintendencia de Seguros de la Nación).
+
