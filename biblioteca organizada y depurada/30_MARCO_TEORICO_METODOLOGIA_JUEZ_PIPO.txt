@@ -1,0 +1,203 @@
+================================================================================
+MARCO TEÓRICO JURÍDICO — CASO: OBRA CLANDESTINA LINDERA / DAÑOS EDILICIOS
+LOCALIDAD: MERLO — DEPARTAMENTO JUDICIAL: MORÓN — PROVINCIA DE BUENOS AIRES
+FECHA DE ELABORACIÓN: ABRIL 2026
+ELABORADO CON METODOLOGÍA JUEZ-PIPO (TRES PERSPECTIVAS + VERIFICACIÓN)
+================================================================================
+
+⚠️ ADVERTENCIA GENERAL DE USO:
+Este documento es un marco teórico de investigación jurídica destinado a orientar
+al abogado patrocinante. NO constituye asesoramiento legal. NO reemplaza el criterio
+profesional de un abogado habilitado. Toda cita jurisprudencial debe ser verificada
+en la fuente original antes de ser incorporada a cualquier escrito judicial.
+
+================================================================================
+SISTEMA DE CLASIFICACIÓN:
+[V] = VERIFICADO en fuentes primarias o secundarias confiables durante esta búsqueda
+[IV] = INFERIDO CON ALTA PROBABILIDAD — requiere verificación profesional
+[PV] = PARCIALMENTE VERIFICADO — hay elementos confirmados y elementos inferidos
+================================================================================
+
+ESTE ARCHIVO FORMA PARTE DE UNA SERIE DE DOCUMENTOS TEÓRICOS QUE DESARROLLAN
+18 TEMAS JURÍDICOS CON LA METODOLOGÍA JUEZ-PIPO:
+
+ARCHIVOS RELACIONADOS EN ESTA BIBLIOTECA:
+- 30_MARCO_TEORICO_METODOLOGIA_JUEZ_PIPO.txt (este archivo)
+- 31_RESPONSABILIDAD_MUNICIPAL_POR_OMISION.txt (Tema 1)
+- 32_COBRABILIDAD_Y_PROTECCION_VIVIENDA.txt (Temas 2-3)
+- 33_AMPARO_Y_SEGUROS_RC.txt (Temas 4-5)
+- 34_COSTAS_Y_DEPRECIACION_INMUEBLE.txt (Temas 6-7)
+- 35_CADUCIDAD_RECONVENCION_LITISCONSORCIO.txt (Temas 8-10)
+- 36_LEY_AMBIENTE_Y_PRUEBA_ANTICIPADA.txt (Temas 11-12)
+- 37_APELACION_Y_COLEGIOS_PROFESIONALES.txt (Temas 13-14)
+- 38_DANO_PSICOFISICO_E_INTERESES_BARRIOS.txt (Temas 15-18)
+
+================================================================================
+DESCRIPCIÓN DE LA METODOLOGÍA JUEZ-PIPO
+================================================================================
+
+La metodología JUEZ-PIPO organiza el análisis jurídico desde tres perspectivas
+independientes para lograr un análisis integral y equilibrado:
+
+1. PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA
+   Analiza la normativa, jurisprudencia y doctrina desde el punto de vista
+   estratégico del damnificado que busca la reparación de sus daños.
+
+2. PERSPECTIVA DEL DEMANDADO
+   Anticipa las defensas y argumentos que el demandado puede oponer,
+   permitiendo preparar respuestas y fortalecer la posición del actor.
+
+3. PERSPECTIVA DEL MINISTERIO PÚBLICO / ÓRGANOS DE CONTROL
+   Identifica cuándo y cómo intervienen los órganos estatales (Fiscalía,
+   Asesoría de Incapaces, Fiscalía de Estado) y qué rol cumplen.
+
+CADA TEMA SE DESARROLLA CON:
+- Encuadre general del instituto jurídico
+- Normativa aplicable (verificada/inferida)
+- Jurisprudencia relevante (verificada cuando disponible)
+- Las tres perspectivas mencionadas
+- Advertencias sobre puntos no verificados o discutidos
+
+================================================================================
+RESUMEN EJECUTIVO DE LOS 18 TEMAS DESARROLLADOS
+================================================================================
+
+TEMA 1 — RESPONSABILIDAD DEL MUNICIPIO DE MERLO POR OMISIÓN DE CONTROL EDILICIO
+→ Art. 27 inc. 7° Dec.-Ley 6769/58 PBA, responsabilidad por falta de servicio.
+
+TEMA 2 — COBRABILIDAD DE LA SENTENCIA — PATRIMONIO Y PROTECCIÓN DE VIVIENDA
+→ Arts. 244-249 CCCN, excepciones a la inejecutabilidad del hogar.
+
+TEMA 3 — LEGITIMACIÓN ACTIVA DE CO-HABITANTES Y/O FAMILIARES
+→ Art. 1741 CCCN, daño moral autónomo de cada conviviente.
+
+TEMA 4 — ACCIÓN DE AMPARO CONSTITUCIONAL COMO VÍA PARALELA ULTRARRÁPIDA
+→ Art. 20 Const. PBA, Ley 13928 PBA, tutela de urgencia.
+
+TEMA 5 — SEGURO DE RESPONSABILIDAD CIVIL DEL DEMANDADO O DEL CONSTRUCTOR
+→ Art. 118 Ley 17418, citación en garantía del asegurador.
+
+TEMA 6 — RÉGIMEN DE COSTAS Y HONORARIOS PROFESIONALES
+→ Arts. 68-77 CPCC PBA, Ley 14967 PBA de honorarios.
+
+TEMA 7 — DEPRECIACIÓN DEL INMUEBLE COMO RUBRO AUTÓNOMO ("MINUS VALÍA")
+→ Art. 1738 CCCN, desvalorización venal post-reparación.
+
+TEMA 8 — CADUCIDAD DE INSTANCIA — RIESGO PROCESAL
+→ Art. 310 CPCC PBA, plazos y actos interruptivos.
+
+TEMA 9 — RECONVENCIÓN DEL DEMANDADO — RIESGO DE CONTRARECLAMO
+→ Art. 357 CPCC PBA, posibles fundamentos de reconvención.
+
+TEMA 10 — LITISCONSORCIO PASIVO — IDENTIFICACIÓN DE TODOS LOS RESPONSABLES
+→ Arts. 88-89, 94-96 CPCC PBA, Art. 1751 CCCN, responsabilidad solidaria.
+
+TEMA 11 — LEY 25.675 — LEY GENERAL DEL AMBIENTE Y PRINCIPIO PRECAUTORIO
+→ Arts. 4, 27-30 Ley 25675, responsabilidad objetiva ambiental.
+
+TEMA 12 — PRUEBA ANTICIPADA PRE-DEMANDA (DESARROLLO COMPLETO)
+→ Art. 326 CPCC PBA, pericia antes de reparar para preservar escenario.
+
+TEMA 13 — RECURSO DE APELACIÓN Y SEGUNDA INSTANCIA
+→ Arts. 244-279 CPCC PBA, Cámara de Apelaciones de Morón.
+
+TEMA 14 — DENUNCIA ANTE COLEGIOS PROFESIONALES
+→ CAPBA, Colegio de Ingenieros, acción disciplinaria.
+
+TEMA 15 — LEY PROVINCIAL 14.449 (ACCESO JUSTO AL HÁBITAT)
+→ Aplicabilidad limitada en conflictos entre particulares.
+
+TEMA 16 — DAÑO PSICOFÍSICO COMO RUBRO AUTÓNOMO (DISTINTO DEL DAÑO MORAL)
+→ Art. 1738 CCCN, incapacidad sobreviniente vs. daño extrapatrimonial.
+
+TEMA 17 — INHIBICIÓN GENERAL DE BIENES DEL DEMANDADO
+→ Art. 228 CPCC PBA, medida cautelar subsidiaria.
+
+TEMA 18 — INTERESES APLICABLES — NUEVA DOCTRINA "BARRIOS" (SCBA 2024)
+→ Inconstitucionalidad Art. 7 Ley 23928, tasa pura 6% + IPC.
+
+TEMA ADICIONAL — DENUNCIA DE DAÑO TEMIDO (ART. 623 BIS CPCC PBA)
+→ Medida cautelar-preventiva de urgencia.
+
+================================================================================
+NORMATIVA CLAVE CONSOLIDADA (VERIFICADA)
+================================================================================
+
+CÓDIGO CIVIL Y COMERCIAL (CCCN):
+- Arts. 1737-1748: régimen de daños resarcibles y cuantificación
+- Arts. 1749-1758: responsabilidad por el hecho propio y por la cosa
+- Arts. 1757-1758: responsabilidad por riesgo creado
+- Art. 1748: curso de intereses desde cada daño producido
+- Art. 1751: responsabilidad solidaria por pluralidad de autores
+- Art. 1764-1766: responsabilidad del Estado
+- Arts. 244-256: régimen de protección de vivienda
+- Art. 1741: indemnización de consecuencias no patrimoniales
+- Arts. 1710-1713: acción preventiva
+- Art. 770: anatocismo
+
+CPCC PBA:
+- Art. 228: inhibición general de bienes
+- Arts. 209-221: embargo
+- Art. 310: caducidad de instancia (6 meses en 1era instancia; 3 en 2da)
+- Art. 326: prueba anticipada (pericial)
+- Art. 357: reconvención
+- Arts. 88-89: litisconsorcio
+- Arts. 94-96: citación de terceros
+- Art. 623 bis: denuncia de daño temido
+- Art. 623 ter: allanamiento para reparaciones urgentes
+- Arts. 244-259: apelación
+- Art. 278: recurso extraordinario ante SCBA
+- Arts. 68-77: costas
+
+LEYES NACIONALES:
+- Ley 25675: Ley General del Ambiente (daño objetivo, principio precautorio)
+- Ley 17418 Art. 118: citación en garantía del asegurador
+- Ley 26944: Responsabilidad del Estado Nacional
+- Ley 23928 Art. 7: inconstitucionalidad sobreviniente declarada por SCBA
+
+LEYES PROVINCIALES PBA:
+- Decreto-Ley 6769/58: Ley Orgánica de Municipalidades PBA
+- Ley 12008: Proceso Contencioso Administrativo PBA
+- Ley 13928: Régimen de Amparo Provincial PBA
+- Ley 14449: Acceso Justo al Hábitat PBA
+- Ley 14967: Arancel de Honorarios de Abogados PBA
+- Ley 13986: Modifica Arts. 310 y 315 CPCC PBA (caducidad de instancia)
+
+================================================================================
+FALLOS VERIFICADOS DE MAYOR RELEVANCIA
+================================================================================
+
+1) SCBA, C. 124.096, "BARRIOS c/ LASCANO", sentencia 17/04/2024 [★★★ CRÍTICO]:
+   Inconstitucionalidad sobrevenida del Art. 7 Ley 23928 / prohibición de indexar.
+   Nueva doctrina: capital a valores actuales + 6% anual hasta sentencia +
+   tasa activa Banco Provincia desde sentencia hasta pago.
+
+2) SCBA, L. 94.446, "GINOSSI c/ Asociación Mutual UTA", sentencia 21/10/2009:
+   Doctrina de la tasa pasiva BIP del Banco Provincia. SUPERADA por "Barrios"
+   en causas de daños con actualización.
+
+3) CNACiv., Sala I, "Consorcio Neuquén 2932/34/36 c/ M, F.R.", 11/11/2013:
+   "Al tratarse de una obra en construcción, su guarda recae en quien tiene a su
+   cargo la ejecución de los trabajos, con responsabilidad análoga a la del dueño."
+
+4) Cámara Civil y Com. Morón: jurisprudencia sobre daños por filtraciones,
+   tasa activa aplicable, desvalorización de inmueble.
+
+================================================================================
+ZONAS DE INCERTIDUMBRE E INFORMACIÓN NO VERIFICADA
+================================================================================
+
+1. Aplicación del Art. 249 inc. c) CCCN a daños causados a terceros.
+
+2. Jurisprudencia específica de la Cámara de Morón en materia de daños por
+   obra clandestina lindera (solo tendencias generales verificadas).
+
+3. Oponibilidad de cláusula de exclusión de cobertura por ilicitud del asegurado.
+
+4. Aplicabilidad directa de la Ley 14449 PBA a conflictos entre particulares.
+
+5. Montos actualizados de daño moral y psicofísico para 2025-2026.
+
+================================================================================
+FIN DEL DOCUMENTO — VER ARCHIVOS 31-38 PARA DESARROLLO DE CADA TEMA
+================================================================================

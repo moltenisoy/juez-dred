@@ -1,0 +1,177 @@
+================================================================================
+TEMAS 11-12 — LEY GENERAL DEL AMBIENTE Y PRUEBA ANTICIPADA
+================================================================================
+METODOLOGÍA: JUEZ-PIPO (TRES PERSPECTIVAS + VERIFICACIÓN)
+ARCHIVO: 36 de la Biblioteca Organizada y Depurada
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 11 — LEY 25.675 — LEY GENERAL DEL AMBIENTE Y PRINCIPIO PRECAUTORIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [V]:
+La Ley 25675 (Ley General del Ambiente, sancionada 6/11/2002, BO 28/11/2002)
+establece los presupuestos mínimos para la gestión sustentable del ambiente.
+Es de aplicación en todo el territorio nacional y complementa las normas
+provinciales sin reemplazarlas.
+
+NORMATIVA VERIFICADA [V]:
+- Art. 4 Ley 25675 — Principio precautorio: "Cuando haya peligro de daño grave
+  o irreversible la ausencia de información o certeza científica no deberá
+  utilizarse como razón para postergar la adopción de medidas eficaces."
+- Art. 27 Ley 25675 — Daño ambiental: "toda alteración relevante que modifique
+  negativamente el ambiente, sus recursos, el equilibrio de los ecosistemas,
+  o los bienes o valores colectivos."
+- Art. 28 Ley 25675 — "El que cause el daño ambiental será objetivamente
+  responsable de su restablecimiento al estado anterior a su producción."
+- Art. 29 Ley 25675 — La responsabilidad civil es independiente de la
+  administrativa. SE PRESUME iuris tantum la responsabilidad del autor del
+  daño ambiental si existen infracciones a las normas ambientales administrativas.
+- Art. 30 Ley 25675 — Legitimación para accionar (incluye el damnificado directo).
+- Art. 32 Ley 25675 — Competencia judicial: en la causa en la que se demande
+  daño ambiental, la competencia es federal cuando el daño supera fronteras
+  provinciales; si es un daño LOCAL, la competencia es provincial ordinaria.
+
+REGLAS PROBATORIAS FAVORABLES AL DEMANDANTE [V]:
+1) Responsabilidad OBJETIVA (Art. 28): no se requiere probar culpa del demandado.
+2) Presunción IURIS TANTUM de responsabilidad si hay infracción administrativa
+   previa (Art. 29): la obra clandestina ES una infracción administrativa. Si hay
+   resolución municipal de clausura o multa, esa infracción PRESUME la
+   responsabilidad del demandado ante la Ley 25675.
+3) La exención de responsabilidad SOLO prospera acreditando culpa exclusiva de
+   la víctima o de un tercero por quien no debe responder (Art. 29).
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+--------------------------------------------------------------------------------
+
+APLICABILIDAD AL CASO:
+La humedad sostenida >70% con proliferación de hongos y moho constituye:
+a) Una alteración relevante del microambiente del hogar.
+b) Una afectación a la salud de los habitantes (nexo con daño ambiental).
+c) Una violación de normas municipales de construcción (infracción administrativa
+   que activa la presunción del Art. 29 Ley 25675).
+
+ESTRATEGIA:
+1) Incorporar la Ley 25675 como marco normativo adicional en la demanda, junto
+   con el CCCN y el CPCC PBA.
+2) Invocar el principio precautorio (Art. 4) para fundamentar medidas cautelares
+   urgentes sin necesidad de probar el daño en forma acabada desde el inicio.
+3) Invocar la presunción del Art. 29 si hay actas de clausura o multas municipales.
+4) La responsabilidad objetiva del Art. 28 invierte la carga de la prueba.
+
+⚠️ ADVERTENCIA DE VERIFICACIÓN PENDIENTE: La aplicabilidad de la Ley 25675 a
+microambientes privados (daño ambiental doméstico) por obra privada de un
+particular no está pacíficamente resuelta en jurisprudencia PBA. Doctrinariamente,
+Cafferatta y otros autores ambientalistas la admiten. Se recomienda verificar
+si la Cámara de Morón ha reconocido esta aplicabilidad.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDADO:
+--------------------------------------------------------------------------------
+
+1) Alegar que el daño no configura "daño ambiental de incidencia colectiva"
+   sino un daño individual/privado, no regulado por la Ley 25675 (cuyo cap. de
+   daño ambiental está pensado para daños colectivos).
+2) Oponer que la Ley 25675 no se aplica a daños entre particulares en ámbitos
+   privados (micro-ambiente doméstico).
+3) Si hay infracciones administrativas, intentar su revocación o cuestionamiento.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL MINISTERIO PÚBLICO:
+--------------------------------------------------------------------------------
+
+En causas con componente ambiental, el Ministerio Público Fiscal puede intervenir
+de oficio en defensa del ambiente (Art. 30 Ley 25675) y el Defensor del Pueblo
+tiene legitimación activa propia.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 12 — PRUEBA ANTICIPADA PRE-DEMANDA (DESARROLLO COMPLETO)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [V]:
+El artículo 326 CPCC PBA regula la producción de prueba anticipada. Permite a
+quien sea o vaya a ser parte en un proceso obtener prueba antes de la demanda
+cuando existan motivos justificados para temer que la producción de esa prueba
+resulte imposible o muy dificultosa en el período probatorio.
+
+NORMATIVA VERIFICADA [V]:
+- Art. 326 CPCC PBA — Prueba anticipada:
+  INCISO 1: Declaración de testigos con avanzada edad, enfermedad grave o
+            próximos a ausentarse del país.
+  INCISO 2: Reconocimiento judicial o dictamen pericial para hacer constar
+            el estado, calidad o condición de cosas o lugares. ← DIRECTAMENTE
+            APLICABLE AL CASO (estado de humedad del inmueble dañado)
+  INCISO 3: [derogado o no aplicable]
+  INCISO 4: Exhibición, resguardo o secuestro de documentos.
+- Art. 327 CPCC PBA — Pedido de medidas preliminares, resolución y diligenciamiento.
+- Art. 328 CPCC PBA — Producción de prueba anticipada después de trabada la litis.
+
+JURISPRUDENCIA VERIFICADA:
+- Cámara Civil y Com. San Nicolás, Sala 1°, Causa 910760, RSI-832-91 (26/12/1991)
+  in re "Fane SA c/ Rosario Refrescos SACIFI": admitió el adelantamiento de
+  trabajos periciales tendientes a constatar daños para que el propietario pudiera
+  disponer de la prueba sin esperar el período probatorio ordinario. [V]
+- Cámara Nacional en lo Civil confirmó rechazo de prueba anticipada cuando
+  habían transcurrido casi DOS años desde el informe técnico inicial: la urgencia
+  no puede invocarse cuando el peticionante esperó tanto tiempo para solicitarla.
+  [V — importante: la prueba anticipada debe pedirse CON URGENCIA]
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+--------------------------------------------------------------------------------
+
+IMPORTANCIA CRÍTICA PARA EL CASO:
+El dilema central es: el demandante necesita reparar su vivienda (no puede seguir
+viviendo en condiciones insalubres), pero si repara ANTES de producir la prueba
+pericial, destruye el escenario probatorio que acredita el daño causado por la
+obra clandestina. La solución técnico-jurídica es la PRUEBA ANTICIPADA.
+
+PROCEDIMIENTO COMPLETO:
+1) Presentar solicitud ante el Juzgado Civil y Comercial de Merlo (1ra instancia,
+   Departamento Judicial de Morón) ANTES de iniciar la demanda.
+2) El escrito debe indicar: (a) carácter de futuro demandante; (b) identificación
+   del futuro demandado; (c) descripción de la prueba a producir; (d) urgencia:
+   necesidad de reparar la vivienda que destruiría el escenario probatorio.
+3) PRUEBA PERICIAL SOLICITADA:
+   a) PERITO INGENIERO CIVIL O ARQUITECTO: para constatar tipo, extensión y
+      causa del daño edilicio (fisuras, humedades, deterioro estructural).
+   b) PERITO AMBIENTAL O EDÁFOSCOPIO: para medir humedad relativa y presencia
+      de hongos (Aspergillus, Cladosporium, Stachybotrys, etc.).
+   c) PERITO ELECTRICISTA: si hay daños en instalaciones eléctricas.
+   d) TASADOR INMOBILIARIO: para establecer el valor del inmueble y la
+      disminución de valor (vincula con Tema 7).
+4) El juez designará el perito, quien practicará la diligencia con notificación
+   al futuro demandado (para garantizar su derecho de controlar la prueba).
+5) ACTA NOTARIAL COMPLEMENTARIA: no reemplaza a la pericia anticipada, pero
+   la complementa. Es útil para documentar el estado visible del inmueble.
+6) Una vez producida la prueba anticipada, SE PUEDE REPARAR EL INMUEBLE sin
+   perder el escenario probatorio.
+
+RELACIÓN CON ACTA NOTARIAL [PV]:
+El acta notarial de constatación y la pericia anticipada son instrumentos
+complementarios, no excluyentes:
+- El acta notarial documenta lo que el notario ve, pero no tiene valor técnico.
+- La pericia anticipada establece causas, efectos y valuaciones con valor probatorio
+  de peritaje (Art. 474 CPCC PBA — fuerza probatoria del dictamen pericial).
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDADO:
+--------------------------------------------------------------------------------
+
+1) Puede controlar la producción de la pericia anticipada, designar consultor
+   técnico de parte, y formular objeciones al dictamen.
+2) Puede intentar nulificar la prueba anticipada si no fue debidamente notificado.
+3) Si la prueba anticipada ya fue producida, difícilmente puede desconocer las
+   condiciones documentadas en ese momento.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL MINISTERIO PÚBLICO:
+--------------------------------------------------------------------------------
+
+Sin intervención específica en prueba anticipada en causas civiles, excepto
+si hay menores de edad afectados.
+
+================================================================================
+FIN DE TEMAS 11-12
+================================================================================

@@ -1,0 +1,132 @@
+================================================================================
+TEMAS 13-14 — APELACIÓN Y DENUNCIA ANTE COLEGIOS PROFESIONALES
+================================================================================
+METODOLOGÍA: JUEZ-PIPO (TRES PERSPECTIVAS + VERIFICACIÓN)
+ARCHIVO: 37 de la Biblioteca Organizada y Depurada
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 13 — RECURSO DE APELACIÓN Y SEGUNDA INSTANCIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [V]:
+La segunda instancia en causas civiles del Departamento Judicial de Morón
+corresponde a la CÁMARA DE APELACIÓN EN LO CIVIL Y COMERCIAL DE MORÓN,
+integrada por dos Salas (Sala I y Sala II). Es el tribunal de alzada competente
+para revisar las sentencias del Juzgado Civil y Comercial de Merlo.
+
+NORMATIVA VERIFICADA [V]:
+- Arts. 244-259 CPCC PBA — Apelación
+- Art. 244 CPCC PBA: El recurso de apelación debe interponerse dentro de los
+  5 días de notificada la sentencia, para las definitivas, y 3 días para
+  los interlocutorios (salvo disposición especial).
+- Art. 254 CPCC PBA — Expresión de agravios: el apelante debe fundar el recurso
+  dentro del plazo que fije el juez (generalmente 10-15 días en la Cámara).
+- Art. 278 CPCC PBA — Recurso extraordinario ante la SCBA (inaplicabilidad
+  de ley). Procede cuando la sentencia de Cámara aplique incorrectamente doctrina
+  legal de la SCBA o ley sustantiva.
+- Art. 279 CPCC PBA — Requisitos del recurso de inaplicabilidad.
+
+CADUCIDAD EN SEGUNDA INSTANCIA [V]:
+Art. 310 inc. 2° CPCC PBA: 3 meses en segunda instancia. El plazo corre desde
+el último acto procesal de impulso.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+--------------------------------------------------------------------------------
+
+ANTE SENTENCIA DE PRIMERA INSTANCIA DESFAVORABLE:
+1) Apelar dentro de los 5 días de notificada la sentencia definitiva.
+2) Fundar el recurso mediante expresión de agravios: señalar con precisión
+   qué parte de la sentencia fue errónea y por qué.
+3) La Cámara de Morón revisará los hechos y el derecho.
+4) Si la Cámara también falla en contra, recurrir en queja a la SCBA por
+   inaplicabilidad de ley (Art. 278 CPCC PBA), solo si hay violación de
+   doctrina legal de la SCBA.
+
+ANTE SENTENCIA DE PRIMERA INSTANCIA FAVORABLE (parcialmente):
+1) Puede apelar la parte que no prosperó del reclamo (agravios parciales).
+2) El demandado también puede apelar la parte que le fue desfavorable.
+3) La Cámara puede confirmar, modificar o revocar la sentencia de primera
+   instancia en la medida del recurso.
+
+⚠️ ADVERTENCIA DE VERIFICACIÓN PENDIENTE: La doctrina específica de la Cámara
+de Apelaciones de Morón en materia de daños por obra clandestina lindera
+(Sala I y Sala II) requiere investigación en la base de jurisprudencia del
+sitio camoron.org.ar o acceso al repositorio del Poder Judicial PBA.
+Se han verificado algunos fallos de la Cámara de Morón en la investigación
+(ver temas 5 y 7), pero no se pudo verificar doctrina sistemática consolidada.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDADO:
+--------------------------------------------------------------------------------
+
+1) Ante sentencia condenatoria de primera instancia: apelar dentro de los 5 días.
+2) Sostener en la expresión de agravios que la sentencia: (a) aplicó
+   incorrectamente los factores de atribución; (b) exageró los montos
+   indemnizatorios; (c) no consideró su defensa de caso fortuito u otro eximente.
+3) Puede solicitar efecto suspensivo del recurso para diferir el pago de
+   la condena durante la tramitación del recurso (con caución).
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL MINISTERIO PÚBLICO:
+--------------------------------------------------------------------------------
+
+La Fiscalía de Estado interviene en causas donde el Estado provincial es parte.
+En causas entre particulares, no tiene rol en segunda instancia.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 14 — DENUNCIA ANTE COLEGIOS PROFESIONALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [V]:
+El CAPBA (Consejo Profesional de Arquitectura y Urbanismo de la Provincia de
+Buenos Aires) y el Colegio de Ingenieros de la Provincia de Buenos Aires tienen
+regímenes disciplinarios propios para sus matriculados.
+
+Si un arquitecto, ingeniero o maestro mayor de obras (MMO) participó de manera
+formal o informal en la obra clandestina, puede ser objeto de:
+a) Denuncia disciplinaria ante el CAPBA/Colegio de Ingenieros.
+b) Acción de responsabilidad civil profesional (Art. 1768 CCCN — responsabilidad
+   del profesional liberal).
+
+NORMATIVA RELEVANTE [PV]:
+- Ley 10405 PBA — Ejercicio profesional de arquitectura y urbanismo (CAPBA) [IV]
+- Ley 12490 PBA — Estatuto del Consejo Profesional de Arquitectura PBA [IV]
+- Art. 1768 CCCN — Responsabilidad del profesional liberal
+- Art. 1769 CCCN — Responsabilidad del profesional médico (por analogía)
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+--------------------------------------------------------------------------------
+
+VALOR ESTRATÉGICO DE LA DENUNCIA PROFESIONAL:
+1) Genera PRESIÓN ADICIONAL sobre el profesional para que colabore con el
+   proceso civil o revele información sobre la obra.
+2) Si el Colegio sanciona al profesional, esa resolución puede ser ofrecida
+   en el juicio civil como PRUEBA DOCUMENTAL que acredita la antijuridicidad
+   de la conducta.
+3) La denuncia es GRATUITA y puede realizarse sin abogado.
+4) No interrumpe ni es necesaria para el juicio civil: ambas vías son independientes.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDADO (PROFESIONAL):
+--------------------------------------------------------------------------------
+
+1) Puede presentar su descargo ante el Colegio demostrando que su actuación
+   fue correcta dentro del marco legal.
+2) Puede alegar que actuó de buena fe desconociendo la clandestinidad declarada
+   por el propietario.
+3) La sanción disciplinaria no tiene efecto automático en el proceso civil.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL MINISTERIO PÚBLICO (RÉGIMEN DISCIPLINARIO):
+--------------------------------------------------------------------------------
+
+El órgano instructor es el propio Colegio Profesional. La Fiscalía estatal no
+interviene, salvo que la conducta configure delito (ej. ejercicio ilegal de
+la profesión si el profesional no tenía matrícula).
+
+================================================================================
+FIN DE TEMAS 13-14
+================================================================================

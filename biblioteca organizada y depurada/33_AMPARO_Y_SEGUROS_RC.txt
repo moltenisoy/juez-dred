@@ -1,0 +1,156 @@
+================================================================================
+TEMAS 4-5 — AMPARO CONSTITUCIONAL Y SEGUROS DE RESPONSABILIDAD CIVIL
+================================================================================
+METODOLOGÍA: JUEZ-PIPO (TRES PERSPECTIVAS + VERIFICACIÓN)
+ARCHIVO: 33 de la Biblioteca Organizada y Depurada
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 4 — ACCIÓN DE AMPARO CONSTITUCIONAL COMO VÍA PARALELA ULTRARRÁPIDA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [V]:
+El amparo en la Provincia de Buenos Aires tiene base constitucional en el Art. 20
+de la Constitución PBA y regulación procesal en la Ley 13928 PBA (Régimen de
+Amparo Provincial). Procede contra actos u omisiones de particulares o del Estado
+que con arbitrariedad o ilegalidad manifiesta lesionen, restrinjan, alteren o
+amenacen derechos constitucionales.
+
+NORMATIVA VERIFICADA [V]:
+- Art. 20 Constitución PBA — Acción de amparo
+- Art. 28 Constitución PBA — Derecho al ambiente sano
+- Art. 36 inc. 7° Constitución PBA — Derecho al hábitat digno
+- Ley 13928 PBA — Régimen de Amparo Provincial
+- Art. 43 Constitución Nacional — Amparo
+- Art. 1710 CCCN — Deber de prevención del daño (acción preventiva autónoma)
+- Arts. 1711-1713 CCCN — Acción preventiva (alternativa al amparo)
+
+JURISPRUDENCIA RELEVANTE [PV]:
+La SCBA ha admitido el amparo por violación del derecho a la vivienda digna
+derivado de la acción de terceros (no solo del Estado). Caso paradigmático:
+"Club Estudiantes de La Plata c/ Municipalidad de La Plata s/ Amparo" (SCBA):
+el Máximo Tribunal utilizó el amparo para proteger el ejercicio del derecho
+a obras de remodelación. [V — aunque el supuesto es distinto al presente caso]
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+--------------------------------------------------------------------------------
+
+VENTAJAS DEL AMPARO:
+1) Plazos procesales brevísimos: el juez debe resolver en términos muy acotados.
+2) Cautelar inmediata: el juez puede ordenar medidas de emergencia (paralización de
+   actividades, reparaciones urgentes) sin necesidad de juicio previo completo.
+3) Derecho invocable: Art. 36 inc. 7° Const. PBA (hábitat digno) + Art. 28 (ambiente
+   sano) como fundamentos constitucionales directos.
+4) Procedencia frente a particulares: la Ley 13928 PBA permite el amparo contra
+   actos de particulares que violen derechos constitucionales.
+
+LÍMITES Y CONDICIONES:
+- El amparo solo procede cuando NO existe "otro medio judicial más idóneo"
+  (condición de subsidiariedad). Sin embargo, la jurisprudencia PBA lo admite
+  cuando hay urgencia y peligro inminente, aun existiendo otras vías.
+- El amparo NO reemplaza la acción de daños: son vías complementarias y
+  acumulables (el amparo para detener el daño; el juicio ordinario para reparar).
+- Plazo de interposición: según Art. 2 Ley 13928 PBA, dentro de los 90 días
+  hábiles desde que el acto lesivo fue conocido. [V]
+
+RELACIÓN CON DENUNCIA DE DAÑO TEMIDO (Art. 623 bis CPCC PBA):
+Son vías ALTERNATIVAS y potencialmente acumulables, aunque en la práctica los
+tribunales prefieren una vía sobre la otra según las circunstancias:
+- El daño temido (Art. 623 bis) es más específico para daños inminentes a bienes.
+- El amparo tiene mayor amplitud y puede ordenar hacer, no hacer, o reparar.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDADO:
+--------------------------------------------------------------------------------
+
+1) Opondrá la falta de manifiesta ilegalidad/arbitrariedad exigida por el amparo.
+2) Argumentará la existencia de "otro remedio judicial más idóneo" (el proceso
+   ordinario de daños), lo que haría improcedente el amparo.
+3) Cuestionará la urgencia si el daño lleva tiempo produciéndose.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL MINISTERIO PÚBLICO:
+--------------------------------------------------------------------------------
+
+El Agente Fiscal PBA interviene en procesos de amparo según la Ley 13928 PBA para
+controlar la legalidad del proceso y la no afectación del orden público.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 5 — SEGURO DE RESPONSABILIDAD CIVIL DEL DEMANDADO O DEL CONSTRUCTOR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [V]:
+El artículo 118 de la Ley 17418 (Ley de Seguros) establece el mecanismo de
+citación en garantía del asegurador. El crédito del damnificado tiene privilegio
+sobre la suma asegurada. La sentencia que se dicte hace cosa juzgada respecto del
+asegurador y es ejecutable contra él en la medida del seguro.
+
+NORMATIVA VERIFICADA [V]:
+- Art. 118 Ley 17418 — Citación en garantía del asegurador
+- Arts. 94-96 CPCC PBA — Intervención de terceros / citación
+- Art. 109 Ley 17418 — Responsabilidad del asegurador
+- Art. 736-738 CCCN — Acción directa (complementaria)
+
+MECANISMO PROCESAL [V]:
+1) El damnificado puede citar en garantía al asegurador HASTA que se reciba la
+   causa a prueba. Pasado ese momento, el derecho caduca.
+2) La demanda debe interponerse ante el juez del lugar del hecho O del domicilio
+   del asegurador (a elección del actor).
+3) La sentencia es ejecutable contra el asegurador EN LA MEDIDA DEL SEGURO
+   (límite de cobertura pactado en la póliza).
+4) El asegurador no puede oponer defensas nacidas DESPUÉS del siniestro contra
+   el tercero damnificado.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+--------------------------------------------------------------------------------
+
+ESTRATEGIA:
+1) Investigar si el Sr. Capria tiene póliza de responsabilidad civil de propietario
+   de inmueble o póliza de hogar que incluya cobertura de RC frente a terceros.
+2) Investigar si el constructor/albañil tiene póliza de RC profesional (seguro de
+   construcción).
+3) Si existe póliza: citar en garantía a la aseguradora en el escrito de demanda
+   o como máximo al momento de apertura del período probatorio.
+
+RIESGO IDENTIFICADO — EXCLUSIÓN POR CLANDESTINIDAD [IV]:
+Las pólizas de responsabilidad civil típicamente incluyen cláusulas de exclusión
+para casos en que el daño deriva de actos ILÍCITOS del asegurado. La clandestinidad
+de la obra puede ser invocada por la aseguradora como causal de exclusión de
+cobertura. Sin embargo:
+- La exclusión de cobertura por ilicitud del asegurado NO es oponible al tercer
+  damnificado inocente en ciertos supuestos (posición doctrinaria en desarrollo).
+- La SCBA ha fallado sobre la inoponibilidad de algunas cláusulas de exclusión
+  al tercero damnificado [IV — requiere verificación jurisprudencial específica].
+
+⚠️ ADVERTENCIA DE VERIFICACIÓN PENDIENTE: La oponibilidad/inoponibilidad de la
+cláusula de exclusión por ilicitud frente al tercero damnificado en seguros de
+inmuebles es una cuestión doctrinal no completamente resuelta en PBA. Se recomienda
+consultar jurisprudencia específica de la Cámara de Morón sobre este punto.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDADO:
+--------------------------------------------------------------------------------
+
+El asegurador citado en garantía típicamente:
+1) Opone la exclusión de cobertura por acto ilícito (obra clandestina).
+2) Niega responsabilidad por ausencia de denuncia oportuna del siniestro.
+3) Limita la cobertura al monto máximo de la póliza.
+
+El demandado/asegurado puede:
+1) Citar en garantía él mismo a su propia aseguradora (también habilitado por
+   Art. 118 Ley 17418).
+2) Utilizar la cobertura para pagar la condena dentro del límite pactado.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL MINISTERIO PÚBLICO:
+--------------------------------------------------------------------------------
+
+El Ministerio Público no tiene rol específico en la relación seguro/asegurado,
+salvo que la aseguradora sea una empresa en quiebra o en proceso de liquidación
+(interviene la Superintendencia de Seguros de la Nación).
+
+================================================================================
+FIN DE TEMAS 4-5
+================================================================================

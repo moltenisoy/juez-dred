@@ -1,0 +1,112 @@
+================================================================================
+TEMA 1 — RESPONSABILIDAD DEL MUNICIPIO DE MERLO POR OMISIÓN DE CONTROL EDILICIO
+================================================================================
+METODOLOGÍA: JUEZ-PIPO (TRES PERSPECTIVAS + VERIFICACIÓN)
+ARCHIVO: 31 de la Biblioteca Organizada y Depurada
+================================================================================
+
+ENCUADRE GENERAL [V]:
+El Municipio de Merlo pertenece al Departamento Judicial de Morón, Provincia de
+Buenos Aires. La base normativa de su responsabilidad edilicia se encuentra en el
+Decreto-Ley 6769/58 (Ley Orgánica de Municipalidades de la PBA), que en su
+artículo 27 inciso 7° atribuye a los municipios la función de inspección y control
+de las obras en construcción dentro de su ejido. La omisión en el ejercicio de
+dicha función puede generar responsabilidad patrimonial del Estado municipal.
+
+NORMATIVA VERIFICADA:
+- Decreto-Ley 6769/58 PBA — Ley Orgánica de Municipalidades, Art. 27 inc. 7° [V]
+- Ley 26944 — Responsabilidad del Estado Nacional [V]
+- Arts. 1764 a 1766 CCCN — Responsabilidad del Estado (remisión a ley especial) [V]
+- Ley 12008 PBA — Proceso Contencioso Administrativo [V]
+- Constitución PBA, Art. 166 (amplia habilitación de competencia contencioso
+  administrativa para actuaciones u omisiones de municipios) [V]
+- Art. 1° Ley 12008 PBA — Requisito de reclamo administrativo previo [PV]
+
+PRESUPUESTOS DE LA RESPONSABILIDAD ESTATAL POR OMISIÓN [V]:
+Para que prospere la acción contra el Municipio por omisión de control edilicio,
+la jurisprudencia consolidada de la SCBA y de las Cámaras de Apelación exige:
+a) Antijuridicidad: inobservancia de un deber legal concreto y determinado;
+b) Daño cierto y mensurable en dinero;
+c) Relación de causalidad adecuada entre la omisión estatal y el daño;
+d) Factor de atribución: falta de servicio (funcionamiento irregular del servicio
+   público de control edilicio).
+
+⚠️ ADVERTENCIA DE VERIFICACIÓN PENDIENTE: El fallo "Rusconi, Oscar c/ Municipalidad
+de La Plata s/ Demanda contencioso administrativa" (SCBA) fue verificado como
+existente, pero su fecha exacta es de 1996 y no de 2018 como señalaba el documento
+de referencia. El fallo trata sobre legitimación procesal, no exactamente sobre
+responsabilidad por omisión edilicia. Se recomienda verificación jurisprudencial
+actualizada sobre este punto específico.
+
+JURISPRUDENCIA VERIFICADA O PARCIALMENTE VERIFICADA:
+- "Escobar, Hilda E. c/ Municipalidad de San Miguel s/ Daños y perjuicios" (SCBA,
+  10/04/1997): la SCBA intervino en materia de responsabilidad municipal. [PV]
+- Cámara de Apelación Civil y Comercial de Morón: ha fallado sobre responsabilidad
+  del Estado por omisión de control en diversas causas. [IV — requiere búsqueda
+  específica en el registro de jurisprudencia del Dpto. Judicial de Morón]
+- El Centro Académico del Municipio de Morón (camoron.org.ar) ha publicado análisis
+  sobre "Responsabilidad del Estado" que confirman los estándares exigidos. [V]
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+--------------------------------------------------------------------------------
+
+El demandante debe demostrar que:
+1) El Municipio de Merlo tenía un deber legal expreso y concreto de controlar
+   las obras dentro de su ejido (Art. 27 inc. 7° Dec.-Ley 6769/58). [V]
+2) La obra clandestina estuvo en ejecución durante un período prolongado sin que
+   el Municipio actuara, lo cual configura omisión antijurídica. [V norma; IV fáctico]
+3) Esa omisión guardó nexo causal con el daño sufrido: si el Municipio hubiera
+   actuado en tiempo oportuno, los daños no se habrían producido o se habrían
+   limitado. [IV — requiere pericia técnica y cronológica]
+4) No hay reclamo anterior ante la autoridad administrativa municipal por el
+   mismo motivo (condición de procedencia del Art. 1° Ley 12008 PBA). [IV fáctico]
+
+ESTRATEGIA RECOMENDADA PARA EL DEMANDANTE:
+- Promover reclamo administrativo previo ante la Municipalidad de Merlo como
+  paso previo a la demanda contencioso-administrativa, con copia certificada de
+  la presentación y constancia de recepción.
+- Solicitar informe mediante oficio al Municipio sobre: (a) si existían expedientes
+  de obra autorizados para el inmueble en cuestión; (b) si hubo denuncias previas;
+  (c) si se realizaron inspecciones en el período relevante.
+- Plantear la demanda ante el Juzgado en lo Contencioso Administrativo del
+  Departamento Judicial de Morón (Ley 12008 PBA), con denuncia de daños como
+  co-demandado junto al propietario Sr. Capria.
+
+VENTAJA TÁCTICA: incorporar al Municipio como co-demandado ensancha la base
+patrimonial de la condena y presiona al Estado local a controlar la obra.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDADO (MUNICIPIO DE MERLO):
+--------------------------------------------------------------------------------
+
+El Municipio defenderá su posición alegando:
+1) No tenía conocimiento de la obra clandestina: la clandestinidad implica,
+   precisamente, ocultamiento. No puede imputársele omisión si no hubo denuncia
+   previa que activara el deber de actuar. [IV — argumento típico del Estado]
+2) La obligación de control no es ilimitada: la omisión sólo genera responsabilidad
+   cuando el deber de actuación es "expreso y determinado" (conforme Art. 3 inc. d
+   Ley 26944). Una obligación genérica de inspección no alcanza para responsabilizar
+   al Estado por cada obra clandestina no detectada. [V — doctrina consolidada]
+3) Causalidad interrumpida: el daño fue causado exclusivamente por la conducta
+   ilícita del propietario Sr. Capria. El tercero responsable exculparía al Municipio
+   o reduciría su participación causal. [V — art. 1729 CCCN]
+4) Prescripción o caducidad: puede oponer plazos de prescripción de la acción
+   contencioso-administrativa (3 años desde el acto/omisión lesiva — Art. 2560 CCCN
+   como referencia) y caducidad del reclamo previo. [PV]
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL MINISTERIO PÚBLICO / FISCALÍA DE ESTADO:
+--------------------------------------------------------------------------------
+
+La Fiscalía de Estado PBA actúa como representante del Estado Provincial en juicios.
+En causas contra municipios, el Fiscal de Estado también puede intervenir.
+El Fiscal de Estado PBA típicamente:
+- Verifica el cumplimiento del reclamo administrativo previo (Art. 1° Ley 12008).
+- Controla que no se afecten recursos municipales sin fundamento legal suficiente.
+- Puede coadyuvar en la pretensión si encuentra que el Municipio efectivamente
+  incurrió en omisión antijurídica (función objetiva de legalidad).
+
+================================================================================
+FIN DEL TEMA 1
+================================================================================
