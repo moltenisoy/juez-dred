@@ -284,18 +284,89 @@ CARPETA VARIOS/:
   Riesgos Edilicios y Eléctricos_ Responsabilidad Legal.txt → 12
   técnico-regulatorio CARGAS.txt → 24
 
+NUEVOS ARCHIVOS EN RAÍZ (Marco Teórico Jurídico — Abril 2026):
+  12345.txt → 30, 31, 32, 33 (Temas 1-5: Marco, Municipio, Cobrabilidad, Amparo, Seguros)
+  678910.txt → 30, 34, 35 (Temas 6-10: Costas, Depreciación, Caducidad, Reconvención, Litisconsorcio)
+  111213.txt → 30, 36, 37 (Temas 11-13: Ley Ambiente, Prueba Anticipada, Apelación)
+  141516.txt → 30, 37, 38 (Temas 14-16: Colegios Profesionales, Ley Hábitat, Daño Psicofísico)
+  1718.txt → 30, 38 (Temas 17-18: Inhibición, Intereses Barrios, Daño Temido)
+
+================================================================================
+            SECCIÓN NUEVA: MARCO TEÓRICO JURÍDICO JUEZ-PIPO (30-38)
+================================================================================
+
+INCORPORADOS EN ABRIL 2026: 9 archivos nuevos con 18 temas teóricos jurídicos
+desarrollados con la metodología JUEZ-PIPO (tres perspectivas + verificación).
+Fuentes originales: 12345.txt, 678910.txt, 111213.txt, 141516.txt, 1718.txt
+
+30_MARCO_TEORICO_METODOLOGIA_JUEZ_PIPO.txt
+   → Documento introductorio que describe la metodología JUEZ-PIPO, lista
+     los 18 temas desarrollados y consolida la normativa clave verificada.
+     Incluye advertencias de uso y zonas de incertidumbre.
+   FUENTES ORIGINALES: 12345.txt, 678910.txt, 111213.txt, 141516.txt, 1718.txt
+
+31_RESPONSABILIDAD_MUNICIPAL_POR_OMISION.txt
+   → Tema 1: Responsabilidad del Municipio de Merlo por omisión de control
+     edilicio. Art. 27 inc. 7° Dec.-Ley 6769/58 PBA, falta de servicio,
+     jurisprudencia de SCBA y Cámara de Morón.
+   FUENTE ORIGINAL: 12345.txt (Tema 1)
+
+32_COBRABILIDAD_Y_PROTECCION_VIVIENDA.txt
+   → Temas 2-3: Cobrabilidad de la sentencia, protección de vivienda (Arts.
+     244-249 CCCN), excepciones a la inejecutabilidad, y legitimación activa
+     de co-habitantes (Art. 1741 CCCN, daño moral autónomo).
+   FUENTE ORIGINAL: 12345.txt (Temas 2-3)
+
+33_AMPARO_Y_SEGUROS_RC.txt
+   → Temas 4-5: Acción de amparo constitucional (Art. 20 Const. PBA, Ley
+     13928 PBA), tutela ultrarrápida, y seguro de responsabilidad civil
+     (Art. 118 Ley 17418, citación en garantía del asegurador).
+   FUENTE ORIGINAL: 12345.txt (Temas 4-5)
+
+34_COSTAS_Y_DEPRECIACION_INMUEBLE.txt
+   → Temas 6-7: Régimen de costas y honorarios (Arts. 68-77 CPCC PBA, Ley
+     14967 PBA), y depreciación del inmueble como rubro autónomo (minus
+     valía/desvalorización venal, Art. 1738 CCCN).
+   FUENTE ORIGINAL: 678910.txt (Temas 6-7)
+
+35_CADUCIDAD_RECONVENCION_LITISCONSORCIO.txt
+   → Temas 8-10: Caducidad de instancia (Art. 310 CPCC PBA), reconvención
+     del demandado (Art. 357 CPCC PBA), y litisconsorcio pasivo para
+     identificar todos los responsables (Arts. 88-96 CPCC PBA, Art. 1751 CCCN).
+   FUENTE ORIGINAL: 678910.txt (Temas 8-10)
+
+36_LEY_AMBIENTE_Y_PRUEBA_ANTICIPADA.txt
+   → Temas 11-12: Ley General del Ambiente 25675 (principio precautorio,
+     responsabilidad objetiva), y prueba anticipada pre-demanda (Art. 326
+     CPCC PBA) para preservar escenario probatorio antes de reparar.
+   FUENTE ORIGINAL: 111213.txt (Temas 11-12)
+
+37_APELACION_Y_COLEGIOS_PROFESIONALES.txt
+   → Temas 13-14: Recurso de apelación y segunda instancia en la Cámara
+     de Morón (Arts. 244-279 CPCC PBA), y denuncia ante colegios profesionales
+     (CAPBA, Colegio de Ingenieros, Art. 1768 CCCN).
+   FUENTE ORIGINAL: 111213.txt y 141516.txt (Temas 13-14)
+
+38_DANO_PSICOFISICO_E_INTERESES_BARRIOS.txt
+   → Temas 15-18 y adicional: Ley 14449 de hábitat, daño psicofísico vs.
+     daño moral (Art. 1738 CCCN), inhibición general de bienes (Art. 228
+     CPCC PBA), NUEVA DOCTRINA "BARRIOS" SCBA 2024 sobre intereses y
+     actualización monetaria, y denuncia de daño temido (Art. 623 bis).
+   FUENTES ORIGINALES: 141516.txt, 1718.txt (Temas 15-18 y adicional)
+
 ================================================================================
                VERIFICACIÓN DE COMPLETITUD — NINGÚN ARCHIVO PERDIDO
 ================================================================================
 
-Total de archivos originales en el repositorio: 34
-  - Archivos en raíz: 15
+Total de archivos originales en el repositorio: 39 (34 originales + 5 nuevos)
+  - Archivos en raíz: 20 (15 originales + 5 nuevos)
   - Archivos en carpeta varios/: 19
 
-Archivos en la biblioteca organizada: 29
+Archivos en la biblioteca organizada: 38
   - 1 archivo eliminado por duplicado exacto (Demanda v2)
   - 4 archivos combinados en compilaciones (3 en archivo 02, 3 en archivo 25,
     2 en archivo 27 = 8 fuentes en 3 destinos, ganancia neta: 5 archivos)
+  - 9 archivos nuevos (30-38) integrando los 5 documentos de marco teórico
 
 TODA LA INFORMACIÓN ORIGINAL HA SIDO PRESERVADA.
 SOLO SE ELIMINÓ EL CONTENIDO VERIFICADAMENTE IDÉNTICO.

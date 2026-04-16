@@ -1,0 +1,176 @@
+================================================================================
+TEMAS 2-3 — COBRABILIDAD Y PROTECCIÓN DE VIVIENDA / LEGITIMACIÓN ACTIVA
+================================================================================
+METODOLOGÍA: JUEZ-PIPO (TRES PERSPECTIVAS + VERIFICACIÓN)
+ARCHIVO: 32 de la Biblioteca Organizada y Depurada
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 2 — COBRABILIDAD DE LA SENTENCIA — PATRIMONIO DEL DEMANDADO
+          Y PROTECCIÓN DE VIVIENDA (ART. 244 CCCN)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [V]:
+El artículo 244 CCCN permite afectar un inmueble destinado a vivienda al régimen
+de protección de vivienda. El artículo 249 CCCN establece que el inmueble afectado
+NO es susceptible de ejecución por deudas POSTERIORES a su inscripción. Sin embargo,
+este régimen admite excepciones expresas.
+
+NORMATIVA VERIFICADA [V]:
+- Art. 244 CCCN — Afectación al régimen de protección de vivienda
+- Art. 245 CCCN — Legitimados para solicitar la afectación
+- Art. 249 CCCN — Efectos principales de la afectación (inoponibilidad / excepciones)
+- Art. 250 CCCN — Hipoteca sobre vivienda afectada
+- Art. 255 CCCN — Desafectación y cancelación de la inscripción
+- Arts. 244-256 CCCN — Régimen completo de vivienda (Registro de la Propiedad
+  Inmueble PBA: Orden 45/2015 sobre formas de inscripción) [V]
+
+EXCEPCIONES VERIFICADAS A LA INEJECUTABILIDAD [V — Art. 249 CCCN]:
+a) Obligaciones por expensas comunes e impuestos/tasas/contribuciones que graven
+   directamente al inmueble.
+b) Obligaciones con garantía real sobre el inmueble (hipoteca) constituida
+   conforme Art. 250.
+c) Obligaciones que tienen ORIGEN EN CONSTRUCCIONES U OTRAS MEJORAS realizadas
+   en la vivienda. ← DIRECTAMENTE RELEVANTE AL CASO
+d) Obligaciones alimentarias a cargo del titular.
+
+EXCEPCIÓN CLAVE PARA EL CASO [V]:
+El inciso c) del Art. 249 CCCN establece expresamente que la vivienda afectada
+SÍ puede ser ejecutada cuando la obligación tiene origen en "construcciones u
+otras mejoras realizadas en la vivienda". Esto podría abarcar los daños causados
+por obras realizadas en el inmueble del demandado (interpretación amplia). Sin
+embargo, existe debate doctrinario sobre si esta excepción alcanza a los daños
+causados a TERCEROS (no al propio inmueble del deudor). Este punto requiere
+consulta jurisprudencial específica actualizada.
+
+⚠️ ADVERTENCIA DE VERIFICACIÓN PENDIENTE: La excepción del Art. 249 inc. c) CCCN
+está pensada para el caso de quien realizó mejoras en su propia vivienda (ej.
+contratista impago). Su aplicación a daños a terceros causados por esas obras no
+está unívocamente resuelta en jurisprudencia. Se recomienda investigar fallos de
+Cámara que aborden este punto específico.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+--------------------------------------------------------------------------------
+
+1) PASO PREVIO — INVESTIGACIÓN PATRIMONIAL: Antes de la demanda, investigar si
+   el inmueble del Sr. Capria está inscripto como vivienda (Art. 244 CCCN).
+   Mecanismo: oficio al Registro de la Propiedad Inmueble de la PBA.
+
+2) Si hay afectación registrada: argumentar que la obligación de reparar los daños
+   causados por la obra ilícita encuadra en la excepción del Art. 249 inc. c) CCCN
+   ("obligaciones con origen en construcciones") y/o en la excepción por daños
+   derivados de actos ilícitos (posición doctrinaria — no expresamente prevista en
+   CCCN pero defendible por principios generales de responsabilidad civil).
+
+3) Si no hay afectación: solicitar embargo preventivo (Art. 209 CPCC PBA) e
+   inhibición general de bienes (Art. 228 CPCC PBA) inmediatamente al iniciar
+   la demanda, para bloquear cualquier afectación posterior.
+
+4) PRIORIDAD TEMPORAL: La afectación al régimen de vivienda es inoponible a
+   acreedores de causa ANTERIOR a la inscripción (Art. 249 primera parte CCCN).
+   Si la causa de la deuda (el daño) es anterior a la fecha de inscripción de la
+   afectación, el acreedor puede ejecutar el bien.
+
+5) MÚLTIPLES VÍAS DE COBRO: Además del inmueble, investigar:
+   - Haberes del demandado (embargo — Arts. 219-221 CPCC PBA, con límite del 20%
+     del salario neto mensual)
+   - Cuentas bancarias (oficio al BCRA / AFIP)
+   - Vehículos (Registro del Automotor)
+   - Otros inmuebles (ARBA / Registro de la Propiedad)
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDADO (Sr. CAPRIA):
+--------------------------------------------------------------------------------
+
+1) Si el inmueble está afectado como vivienda: oponer la inejecutabilidad del
+   Art. 249 CCCN y exigir al actor que pruebe que la causa encuadra en una
+   de las excepciones taxativas.
+2) Argüir que los daños a terceros no encuadran en "construcciones realizadas en
+   la vivienda" del Art. 249 inc. c) CCCN, ya que esa excepción fue diseñada para
+   el contratista/mejorador del propio inmueble, no para damnificados terceros.
+3) Acreditar insolvencia si la hay, o promover acuerdo transaccional para evitar
+   ejecución patrimonial.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL MINISTERIO PÚBLICO:
+--------------------------------------------------------------------------------
+
+El Ministerio Público no tiene un rol protagónico en este aspecto. Sin embargo,
+el defensor oficial puede intervenir si el demandado lo requiere, y el Agente
+Fiscal puede controlar que no se vulneren derechos del demandado en la etapa
+de ejecución (especialmente si hay menores o personas vulnerables en el hogar).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 3 — LEGITIMACIÓN ACTIVA DE CO-HABITANTES Y/O FAMILIARES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [V]:
+El artículo 1741 CCCN regula la indemnización de las consecuencias no patrimoniales.
+Establece que está legitimado para reclamar la indemnización de las consecuencias
+no patrimoniales el damnificado DIRECTO. Si del hecho resulta la muerte, están
+legitimados los ascendientes, descendientes, cónyuge y quienes convivían con el
+fallecido. Para daños distintos a la muerte, el damnificado directo es quien
+personalmente sufrió las consecuencias del hecho ilícito.
+
+NORMATIVA VERIFICADA [V]:
+- Art. 1741 CCCN — Indemnización de consecuencias no patrimoniales (daño moral)
+- Art. 1737 CCCN — Concepto de daño
+- Art. 1738 CCCN — Indemnización (daño emergente, lucro cesante, pérdida de chance,
+  integridad psicofísica, afecciones espirituales legítimas, proyecto de vida)
+- Art. 1739 CCCN — Requisitos del daño resarcible
+
+PRINCIPIO RELEVANTE [V]:
+Cada persona que habitaba el inmueble y sufrió personalmente consecuencias del
+daño (por ejemplo, afecciones respiratorias, perturbación del sueño, afectación
+de su vida cotidiana) es un damnificado directo con legitimación activa autónoma
+para reclamar su propio daño moral y sus propios daños físicos.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+--------------------------------------------------------------------------------
+
+1) LEGITIMACIÓN ACTIVA AMPLIA: Todos los co-habitantes que efectivamente sufrieron
+   las consecuencias del daño edilicio (humedad, hongos, deterioro del hogar) pueden
+   demandar por su propio daño moral y daño psicofísico de manera autónoma.
+   Esto puede duplicar o triplicar el monto total reclamado.
+
+2) ACUMULACIÓN OBJETIVA Y SUBJETIVA: El CPCC PBA permite acumular acciones de
+   distintos actores en un mismo proceso (Art. 88 CPCC PBA — litisconsorcio activo
+   facultativo) siempre que los hechos generadores sean comunes.
+
+3) PRUEBA DE LA CONVIVENCIA: La residencia común puede acreditarse mediante:
+   - Constancias de domicilio registrado (DNI, padrón electoral)
+   - Declaración testimonial de vecinos
+   - Facturas de servicios a nombre de los co-habitantes
+   - Historia clínica con domicilio registrado
+
+4) CUANTIFICACIÓN DEL DAÑO MORAL POR CO-ACTOR:
+   La jurisprudencia de la Cámara de Apelaciones de Morón ha reconocido la
+   procedencia del daño moral autónomo por co-habitante. Los montos han oscilado
+   históricamente entre $1.500.000 y $3.500.000 por actor (a valores de 2023-2024),
+   aunque con la doctrina "Barrios" de la SCBA (ver Tema 18) estos montos pueden
+   ser actualizados por IPC. [PV — valores aproximados basados en tendencia
+   jurisprudencial; requieren actualización a valores 2025-2026]
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDADO:
+--------------------------------------------------------------------------------
+
+El demandado impugnará la legitimación de los co-habitantes que no sean propietarios
+del inmueble dañado, alegando que:
+1) El daño patrimonial en la vivienda solo puede reclamarlo el dueño.
+2) Los co-habitantes sin titularidad dominial no sufrieron daño patrimonial propio.
+3) El daño moral de los no propietarios es de escasa entidad o no acreditable.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL MINISTERIO PÚBLICO:
+--------------------------------------------------------------------------------
+
+El Agente Fiscal no tiene rol protagónico. Sin embargo, si hay menores de edad
+entre los co-habitantes damnificados, el Asesor de Incapaces deberá intervenir
+en representación de los intereses de los menores (Art. 103 CCCN).
+
+================================================================================
+FIN DE TEMAS 2-3
+================================================================================

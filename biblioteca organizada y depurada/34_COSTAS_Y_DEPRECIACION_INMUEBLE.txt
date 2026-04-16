@@ -1,0 +1,127 @@
+================================================================================
+TEMAS 6-7 — COSTAS, HONORARIOS Y DEPRECIACIÓN DEL INMUEBLE
+================================================================================
+METODOLOGÍA: JUEZ-PIPO (TRES PERSPECTIVAS + VERIFICACIÓN)
+ARCHIVO: 34 de la Biblioteca Organizada y Depurada
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 6 — RÉGIMEN DE COSTAS Y HONORARIOS PROFESIONALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [V]:
+El principio rector en PBA es el "principio objetivo de la derrota": el vencido
+paga las costas. Existe regulación de honorarios de abogados en la Ley 14967 PBA.
+
+NORMATIVA VERIFICADA [V]:
+- Arts. 68-77 CPCC PBA — Régimen de costas
+- Art. 68 CPCC PBA: Las costas se imponen a la parte vencida en el proceso.
+  El juez puede eximir de costas al vencido cuando encuentre razón fundada para
+  considerarlo de buena fe.
+- Art. 71 CPCC PBA: Si el resultado del pleito fuera parcialmente favorable a
+  ambas partes, el tribunal distribuirá las costas en proporción al éxito.
+- Ley 14967 PBA — Arancel de Honorarios de Abogados y Procuradores (vigente) [V]
+- Arts. 461-478 CPCC PBA — Peritos: sus honorarios son una carga procesal
+  significativa y se fijan con arreglo a la complejidad y extensión de la tarea.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+--------------------------------------------------------------------------------
+
+1) Si la demanda prospera totalmente: las costas se imponen al demandado (Art. 68).
+2) Si prospera parcialmente: costas en proporción al éxito de cada parte.
+3) HONORARIOS DE PERITOS: son pagados inicialmente por quien ofreció la prueba
+   y luego recuperados en la condena. Representan un costo inicial significativo
+   (perito ingeniero, perito médico/psicológico, perito tasador).
+4) BENEFICIO DE LITIGAR SIN GASTOS (Art. 78 y ss. CPCC PBA): si el demandante
+   carece de recursos, puede solicitar este beneficio para eximirse provisoriamente
+   del pago de costas y honorarios.
+5) HONORARIOS DEL ABOGADO PATROCINANTE: se regulan conforme la Ley 14967 PBA
+   como porcentaje del monto de condena (escala progresiva).
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDADO:
+--------------------------------------------------------------------------------
+
+1) Si pierde el juicio, debe pagar costas de ambas partes + honorarios de peritos.
+2) Puede impugnar la regulación de honorarios del abogado contrario si la
+   considera excesiva (Art. 47 Ley 14967 PBA).
+3) Puede pedir regulación a favor de su propio abogado si hay algún progreso
+   parcial.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL MINISTERIO PÚBLICO:
+--------------------------------------------------------------------------------
+
+El Ministerio Público no participa en la distribución de costas en casos civiles
+ordinarios. Solo interviene para proteger menores o incapaces en cuanto a su
+exención de costas por representación (Art. 78 CPCC PBA).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 7 — DEPRECIACIÓN DEL INMUEBLE COMO RUBRO AUTÓNOMO DE DAÑO
+         ("DESVALORIZACIÓN VENAL" / "MINUS VALÍA")
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [V]:
+La "desvalorización venal" o "minus valía" es un rubro indemnizatorio autónomo
+que reconoce que un bien dañado, aun después de ser reparado, puede conservar
+un "estigma" de haber sufrido daños estructurales que reduce su valor de mercado.
+Este principio fue desarrollado inicialmente en materia de vehículos (automotores)
+pero la jurisprudencia lo ha extendido a inmuebles.
+
+NORMATIVA APLICABLE [V]:
+- Art. 1738 CCCN — Indemnización: incluye "pérdida" de valor patrimonial
+- Art. 1740 CCCN — Principio de reparación plena
+- Art. 1739 CCCN — Requisitos: daño cierto, personal y subsistente
+
+JURISPRUDENCIA VERIFICADA SOBRE DESVALORIZACIÓN [V]:
+La Cámara de Apelación en lo Civil y Comercial de Morón (camoron.org.ar) ha
+publicado jurisprudencia sobre daños por obras linderas. En un fallo analizado
+(disponible en camoron.org.ar, sección "responsabilidad civil"), la vocal
+interviniente rechazó el rubro "desvalorización del inmueble" por falta de
+acreditación específica, pero reconoció su procedencia en principio cuando
+existen daños estructurales acreditados pericialmente.
+
+La jurisprudencia ha adoptado dos criterios:
+a) CRITERIO AMPLIO: La desvalorización es una consecuencia natural y normal de
+   los daños estructurales (se presume in re ipsa). Solo requiere pericial de
+   estimación del porcentaje de reducción de valor.
+b) CRITERIO ESTRICTO: La desvalorización es un perjuicio eventual, cuya
+   configuración requiere prueba acabada (especialmente pericial técnica que
+   acredite que el daño estructural subsiste pese a la reparación y reduce el
+   valor de mercado).
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+--------------------------------------------------------------------------------
+
+1) RECLAMAR el rubro de manera explícita y autónoma, diferenciado del costo de
+   reparación. Fundamentos: Art. 1738 CCCN (reparación plena) + principio de
+   no enriquecimiento injusto del causante del daño.
+2) PRUEBA ESPECÍFICA: contratar un perito tasador inmobiliario que emita dictamen
+   sobre: (a) el valor del inmueble ANTES del daño; (b) el valor luego de la
+   reparación completa; (c) la diferencia porcentual imputable al estigma de haber
+   sufrido daños estructurales por humedad/obra clandestina.
+3) JURISPRUDENCIA DE SOPORTE: Citar el caso "Suárez c/ AYSA" (Cámara Nacional)
+   que reconoció desvalorización de inmueble por obra lindera. [V — caso verificado
+   en vLex Argentina como precedente en materia de obras]
+4) ACUMULACIÓN: El rubro es acumulable con el costo de reparación (no se superponen).
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDADO:
+--------------------------------------------------------------------------------
+
+1) Impugnar la procedencia del rubro argumentando falta de acreditación.
+2) Sostener que una reparación completa restituye el bien a su estado anterior,
+   sin generar estigma de mercado apreciable.
+3) Cuestionar la metodología pericial del perito tasador.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL MINISTERIO PÚBLICO:
+--------------------------------------------------------------------------------
+
+Sin intervención específica en este rubro en materia civil.
+
+================================================================================
+FIN DE TEMAS 6-7
+================================================================================

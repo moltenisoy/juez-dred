@@ -1,0 +1,341 @@
+================================================================================
+TEMAS 15-18 — DAÑO PSICOFÍSICO, INHIBICIÓN, INTERESES Y DAÑO TEMIDO
+================================================================================
+METODOLOGÍA: JUEZ-PIPO (TRES PERSPECTIVAS + VERIFICACIÓN)
+ARCHIVO: 38 de la Biblioteca Organizada y Depurada
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 15 — LEY PROVINCIAL 14.449 (ACCESO JUSTO AL HÁBITAT)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [PV]:
+La Ley 14449 PBA (sancionada en 2012) establece medidas de protección del
+derecho al hábitat digno. Es una ley de contenido principalmente urbanístico
+y de acceso a la vivienda, orientada a regular el suelo urbano y los asentamientos
+informales.
+
+⚠️ ADVERTENCIA DE VERIFICACIÓN PENDIENTE: La aplicabilidad directa de la Ley
+14449 PBA a conflictos entre particulares por daños edilicios (como el presente
+caso) es INCIERTA. Esta ley fue diseñada principalmente para regular las políticas
+públicas de hábitat y las relaciones entre el Estado y los particulares en materia
+de acceso al suelo. Su invocación en un litigio privado entre vecinos requiere
+una argumentación jurídica sofisticada y jurisprudencia que expresamente la
+aplique en ese contexto.
+
+POSIBLE USO PARA EL DEMANDANTE:
+1) La Ley 14449 puede invocarse como MARCO NORMATIVO que refuerza la obligación
+   del Municipio de garantizar el hábitat digno de los vecinos.
+2) Puede ser útil para ampliar los fundamentos del amparo constitucional (Tema 4)
+   en combinación con el Art. 36 inc. 7° Const. PBA.
+3) No se recomienda como fundamento principal de la demanda de daños entre
+   particulares, sino como argumentación de contexto constitucional.
+
+DEFENSA DEL DEMANDADO:
+Puede oponer que la Ley 14449 no regula relaciones entre particulares y que
+su invocación en este contexto es improcedente.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 16 — DAÑO PSICOFÍSICO COMO RUBRO AUTÓNOMO (DISTINTO DEL DAÑO MORAL)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [V]:
+El CCCN distingue entre: (a) daño patrimonial (Art. 1738 — daño emergente, lucro
+cesante, pérdida de chance) y (b) consecuencias no patrimoniales (Art. 1741 —
+daño moral / afecciones espirituales). La INTEGRIDAD PSICOFÍSICA es mencionada
+en el Art. 1738 como un elemento incluido en la indemnización. La doctrina y
+jurisprudencia argentina distinguen entre el daño psicofísico (afectación objetiva
+de la salud física y psíquica, con componente patrimonial) y el daño moral
+(sufrimiento subjetivo, extrapatrimonial).
+
+NORMATIVA VERIFICADA [V]:
+- Art. 1738 CCCN — La indemnización comprende especialmente las consecuencias de
+  la violación de la "integridad personal, su salud psicofísica".
+- Art. 1741 CCCN — Consecuencias no patrimoniales (daño moral).
+- Art. 1737 CCCN — Daño como lesión a un derecho/interés.
+- Art. 1739 CCCN — Requisitos: certeza, personalidad, subsistencia.
+
+DISTINCIÓN CLAVE [V]:
+- DAÑO PSICOFÍSICO (incapacidad sobreviniente): Es la disminución funcional
+  objetiva de la capacidad física y/o psíquica de la persona. Se mide en
+  porcentajes de incapacidad laborativa o vital. Tiene componente patrimonial
+  porque reduce la capacidad de la persona para trabajar y desenvolverse.
+  Requiere PERICIA MÉDICA que establezca el porcentaje de incapacidad.
+- DAÑO MORAL (consecuencias no patrimoniales): Es la modificación disvaliosa
+  del espíritu, el sufrimiento, la angustia, el dolor. No se mide en porcentajes
+  sino en la apreciación judicial de la intensidad y duración del padecimiento.
+
+APLICACIÓN AL CASO — NEXO CAUSAL HUMEDAD/HONGOS/SALUD [PV]:
+La humedad sostenida >70% con proliferación de hongos (Aspergillus, Cladosporium,
+Stachybotrys chartarum) puede causar:
+a) Patologías respiratorias: asma, bronquitis crónica, rinitis, EPOC exacerbada.
+b) Dermatológicas: dermatitis, urticaria.
+c) Oftalmológicas: conjuntivitis crónica.
+d) Psicológicas: ansiedad, insomnio, depresión reactiva por vivir en condiciones
+   deterioradas.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+--------------------------------------------------------------------------------
+
+PRUEBA NECESARIA:
+1) HISTORIA CLÍNICA: Debe documentar las consultas médicas por patologías
+   respiratorias o dermatológicas durante el período de daño.
+2) PERITO MÉDICO (neumólogo/alergólogo): para establecer nexo causal entre
+   la exposición a hongos/humedad y las patologías diagnosticadas.
+3) PERITO PSICOLÓGICO: para acreditar el daño psicológico (ansiedad, insomnio,
+   afectación del proyecto de vida).
+4) Informe de médico tratante.
+5) Estudios complementarios (espirometría, pruebas de alergia).
+
+CUANTIFICACIÓN [V — valores aproximados para orientación]:
+La jurisprudencia PBA (2023-2024) ha fijado:
+- Incapacidad psicofísica (10% de incapacidad): entre $2.500.000 y $3.600.000
+  (valores actualizados a 2023; con la doctrina "Barrios" de 2024, estos montos
+  deben actualizarse por IPC al valor actual 2026).
+- Daño moral por habitabilidad deteriorada: entre $1.500.000 y $3.000.000 por
+  actor principal (valores 2023-2024, sujetos a actualización).
+⚠️ ADVERTENCIA: Todos los valores monetarios citados son APROXIMACIONES basadas
+en jurisprudencia de 2023-2024 y deben ser actualizados a valores 2026 aplicando
+el IPC o el índice pertinente conforme la doctrina "Barrios" de la SCBA.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDADO:
+--------------------------------------------------------------------------------
+
+1) Impugnar el nexo causal: la existencia de patologías respiratorias puede tener
+   causas distintas a la obra clandestina (tabaquismo, otras exposiciones, etc.).
+2) Cuestionar la peritación médica.
+3) Argumentar que las patologías preexistían al daño.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL MINISTERIO PÚBLICO:
+--------------------------------------------------------------------------------
+
+Sin rol específico en materia de cuantificación del daño psicofísico en causas
+civiles entre particulares.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 17 — INHIBICIÓN GENERAL DE BIENES DEL DEMANDADO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [V]:
+El artículo 228 CPCC PBA establece la inhibición general de bienes como medida
+cautelar subsidiaria al embargo. Impide al demandado disponer de CUALQUIER BIEN
+de su patrimonio (inmuebles y muebles registrables como automotores).
+
+NORMATIVA VERIFICADA [V]:
+- Art. 228 CPCC PBA — Inhibición general de bienes
+  "En todos los casos en que habiendo lugar a embargo éste no pudiere hacerse
+  efectivo, por no conocerse bienes del deudor o por no cubrir los conocidos el
+  importe del crédito reclamado, podrá solicitarse contra él la inhibición general
+  de bienes, siempre que se justifique la verosimilitud del derecho y la urgencia
+  de la medida, y se dé caución suficiente por las costas y daños que pudiere
+  ocasionarse."
+- Art. 209 CPCC PBA — Embargo preventivo
+- Arts. 219-221 CPCC PBA — Embargo de haberes (límite del 20% del salario neto)
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+--------------------------------------------------------------------------------
+
+SUBSIDIARIEDAD OBLIGATORIA [V]:
+La inhibición general SOLO procede cuando el embargo preventivo no es posible
+o no alcanza para cubrir el crédito reclamado. Es una medida de ÚLTIMO RECURSO,
+no la primera opción.
+
+PROCEDIMIENTO:
+1) Intentar primero el embargo sobre bienes conocidos (inmueble, automotor, cuenta
+   bancaria identificada).
+2) Solo si los bienes embargados son insuficientes o desconocidos, solicitar la
+   inhibición general.
+3) La inhibición se inscribe en el Registro de la Propiedad Inmueble PBA y en
+   el Registro Nacional de Propiedad del Automotor.
+4) Impide al inhibido vender, hipotecar o gravar CUALQUIER bien registrable.
+
+INVESTIGACIÓN PATRIMONIAL PREVIA:
+Para demostrar la subsidiariedad (condición de procedencia), el actor debe
+hacer una investigación patrimonial razonable:
+- Oficio al Registro de la Propiedad Inmueble PBA: bienes registrados.
+- Oficio al Registro Nacional del Automotor: vehículos a nombre del demandado.
+- Oficio a AFIP: declaración jurada de bienes (si es contribuyente).
+- Oficio a BCRA: cuentas bancarias (a través del sistema SIRCREB).
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDADO:
+--------------------------------------------------------------------------------
+
+1) Puede levantar la inhibición ofreciendo un bien determinado como garantía
+   del crédito reclamado (caución).
+2) Puede cuestionar la verosimilitud del derecho o la falta de justificación
+   de la medida.
+3) Puede demostrar que tiene bienes suficientes para garantizar el crédito,
+   haciendo innecesaria la inhibición.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL MINISTERIO PÚBLICO:
+--------------------------------------------------------------------------------
+
+Sin intervención específica en medidas cautelares de carácter patrimonial.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA 18 — INTERESES APLICABLES — TASA Y CÓMPUTO
+          NUEVA DOCTRINA LEGAL DE LA SCBA — FALLO "BARRIOS" (2024)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+★★★ INFORMACIÓN CRÍTICA Y ACTUALÍSIMA — FALLO "BARRIOS" SCBA (17/04/2024) ★★★
+
+ENCUADRE GENERAL [V]:
+La Suprema Corte de Justicia de la Provincia de Buenos Aires dictó, el 17 de
+abril de 2024, sentencia en la causa C. 124.096, "BARRIOS, HÉCTOR FRANCISCO Y
+OTRA C/ LASCANO, SANDRA BEATRIZ Y OTRA S/ DAÑOS Y PERJUICIOS".
+
+Este fallo representó un CAMBIO RADICAL en la doctrina legal de la SCBA en
+materia de intereses y actualización monetaria.
+
+CONTENIDO DEL FALLO "BARRIOS" [V]:
+1) Declaró la INCONSTITUCIONALIDAD SOBREVINIENTE del Art. 7 de la Ley 23.928
+   (texto según Ley 25.561), en cuanto prohíbe la actualización monetaria o
+   indexación de créditos para las obligaciones dinerarias.
+2) Fundamento: los efectos de la depreciación del signo monetario sobre
+   indemnizaciones fijadas en pesos producen una merma al crédito de tal
+   magnitud que conduce a resultados desproporcionados, lesivos del derecho
+   de propiedad (Arts. 17 y 18 CN).
+3) Estableció criterios para la determinación de las deudas de valor:
+   - El juez o tribunal es quien establece el mecanismo específico de preservación
+     del crédito (libre elección del índice de actualización más idóneo al caso).
+   - Se respetan: interdicción del enriquecimiento sin causa, interdicción del
+     abuso del derecho, buena fe, equidad, equivalencia de las prestaciones,
+     morigeración de los resultados excesivos.
+
+APLICACIÓN PRÁCTICA VERIFICADA EN TRIBUNALES BONAERENSES [V]:
+
+a) CÁMARA SEGUNDA DE APELACIONES DE LA PLATA, SALA 2°, causa "Buscalia c/
+   Rambeaud", 3/5/24: aplicó la doctrina "Barrios":
+   "Siendo cuantificados los daños a valores actuales de sentencia, debe aplicarse
+   la tasa de interés pura del 6% anual desde la fecha del accidente y hasta la
+   sentencia, más luego la tasa activa del Banco de la Provincia de Buenos Aires
+   desde la sentencia hasta el efectivo pago."
+
+b) CÁMARA PRIMERA DE LOMAS DE ZAMORA, Sala 3°, causa "Iannello c/ Empresa
+   Tomás Guido", 7/5/24: actualizó el capital por IPC desde la sentencia + tasa
+   pura del 6% anual desde la fecha del hecho.
+
+c) TRIBUNAL DE TRABAJO DE MERCEDES (2024): aplicó "Barrios" declarando la
+   inconstitucionalidad del Art. 7 Ley 23928 y actualizando por SMVM.
+
+d) TRIBUNAL DE TRABAJO DE JUNÍN (2024): declaró la inconstitucionalidad y
+   actualizó por IPC + tasa pura 6% anual.
+
+RÉGIMEN DE INTERESES VIGENTE POST-"BARRIOS" PARA CAUSAS CIVILES EN PBA [V]:
+
+PERÍODO 1 — Desde el hecho dañoso hasta la sentencia (cuando el capital se
+fija a valores actuales):
+→ TASA PURA del 6% ANUAL (sin actualización adicional, porque el capital
+  ya está actualizado a valores de sentencia).
+
+PERÍODO 2 — Desde la sentencia hasta el efectivo pago:
+→ TASA ACTIVA del Banco de la Provincia de Buenos Aires en operaciones
+  de descuento a 30 días.
+
+ALTERNATIVA (cuando el capital NO se fija a valores actuales de sentencia):
+→ Actualización por IPC (Índice de Precios al Consumidor — INDEC) desde la
+  fecha del hecho hasta el pago + tasa pura del 6% anual adicional.
+
+DOCTRINA PREVIA — "GINOSSI" Y SU ESTADO ACTUAL [V]:
+- SCBA, causa L. 94.446, "Ginossi, Juan Carlos c/ Asociación Mutual UTA",
+  sentencia del 21/10/2009: estableció la tasa PASIVA del Banco de la Provincia
+  de Buenos Aires como tasa de interés moratorio de referencia.
+- Esta doctrina fue aplicada durante más de 14 años.
+- Con el fallo "Barrios" (2024) la doctrina "Ginossi" quedó SUPERADA para las
+  causas de daños y perjuicios en las que se aplica actualización monetaria.
+
+CÓMPUTO DESDE EL HECHO [V]:
+Art. 1748 CCCN: "El curso de los intereses comienza desde que se produce cada
+perjuicio." Esto significa que los intereses NO corren desde la demanda sino
+desde cada daño producido. Este principio es particularmente importante cuando
+los daños se produjeron meses o años antes de la demanda.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+--------------------------------------------------------------------------------
+
+ESTRATEGIA ÓPTIMA:
+1) Cuantificar los daños A VALORES ACTUALES DE LA DEMANDA (no históricos).
+2) Reclamar tasa pura del 6% anual desde la fecha de cada daño hasta la sentencia.
+3) Reclamar tasa activa del Banco Provincia desde la sentencia hasta el pago.
+4) Alternativamente: solicitar actualización por IPC + 6% anual en todo el período.
+5) Fundar en la doctrina "Barrios" (SCBA, C. 124.096, 17/04/2024).
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDADO:
+--------------------------------------------------------------------------------
+
+1) Puede cuestionar el índice de actualización elegido por el actor.
+2) Puede solicitar morigeración del resultado si arroja sumas excesivas
+   (la propia doctrina "Barrios" establece ese límite).
+3) Puede argumentar que la declaración de inconstitucionalidad del Art. 7 Ley
+   23928 requiere análisis casuístico y no es automática.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL MINISTERIO PÚBLICO:
+--------------------------------------------------------------------------------
+
+En causas civiles entre particulares, el Ministerio Público no tiene intervención
+específica en la liquidación de intereses. En causas contra el Estado, la Fiscalía
+de Estado puede controlar que la actualización no genere enriquecimiento injusto.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TEMA ADICIONAL — DENUNCIA DE DAÑO TEMIDO (ART. 623 BIS CPCC PBA)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ENCUADRE GENERAL [V]:
+Aunque este tema era parte del conocimiento previo del caso, se sistematiza aquí
+para complementar el marco teórico.
+
+NORMATIVA VERIFICADA [V]:
+- Art. 623 bis CPCC PBA: "Quien tema que de un edificio o de otra cosa derive
+  un daño grave e inminente a sus bienes, puede solicitar al juez las medidas
+  de seguridad adecuadas, si no mediare anterior intervención de autoridad
+  administrativa por el mismo motivo."
+- Art. 623 ter CPCC PBA: Cuando deterioros o averías producidos en un edificio
+  ocasionen grave daño a otro y el ocupante del primero se opusiere a realizar
+  o permitir las reparaciones necesarias, puede requerirse allanamiento de domicilio
+  para ejecutar las reparaciones urgentes.
+- Arts. 1710-1713 CCCN — Acción preventiva (base de fondo para el daño temido).
+- Art. 2192 CCCN (segundo párrafo) — Temor fundado de sufrir un daño en el objeto.
+
+NATURALEZA JURÍDICA [V]:
+La denuncia de daño temido no es un juicio contradictorio en términos estrictos:
+es una medida tendiente a que el juez brinde una solución inmediata a la situación
+denunciada. Tiene naturaleza cautelar-preventiva. No prejuzga sobre la indemnización
+de daños (que requiere proceso de conocimiento).
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
+--------------------------------------------------------------------------------
+
+VENTAJAS:
+1) Resolución judicial INMEDIATA (sin esperar sentencia definitiva).
+2) El juez puede ordenar al demandado que realice las reparaciones urgentes.
+3) El juez puede ordenar el ingreso al inmueble del demandado para constatar
+   el estado de su obra (Art. 623 ter CPCC PBA).
+4) Es compatible con el proceso de daños y perjuicios: son vías acumulables.
+
+CONDICIÓN DE PROCEDENCIA [V]:
+"Si no mediare anterior intervención de autoridad administrativa por el mismo
+motivo." Si el actor ya denunció ante el Municipio y el Municipio ya intervino,
+no procede el daño temido por la misma cuestión.
+
+--------------------------------------------------------------------------------
+PERSPECTIVA DEL DEMANDADO:
+--------------------------------------------------------------------------------
+
+1) Argumentar que no hay daño "grave e inminente" sino situación ya consolidada.
+2) Demostrar que ya realizó o está realizando las reparaciones necesarias.
+3) Si hubo intervención administrativa previa, plantear la inadmisibilidad
+   de la denuncia de daño temido (condición del Art. 623 bis CPCC PBA).
+
+================================================================================
+FIN DE TEMAS 15-18 Y ADICIONAL
+================================================================================
