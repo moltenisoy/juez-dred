@@ -242,10 +242,10 @@ JURISDICCIÓN: Departamento Judicial de Morón, Provincia de Buenos Aires
               a inejecutabilidad, legitimación de co-habitantes
    USAR CUANDO: Te preocupa si podrás COBRAR la sentencia o si varios habitan
 
-📁 33_AMPARO_Y_SEGUROS_RC.txt
-   CONTENIDO: Temas 4-5: Amparo constitucional (Ley 13928 PBA) y seguro de RC
-              del demandado (Art. 118 Ley 17418)
-   USAR CUANDO: Consideras vía de AMPARO o quieres citar al ASEGURADOR
+📁 33_AMPARO_CONSTITUCIONAL.txt
+   CONTENIDO: Tema 4: Amparo constitucional (Ley 13928 PBA), tutela
+              ultrarrápida
+   USAR CUANDO: Consideras vía de AMPARO
 
 📁 34_COSTAS_Y_DEPRECIACION_INMUEBLE.txt
    CONTENIDO: Temas 6-7: Régimen de COSTAS (Ley 14967 PBA) y DEPRECIACIÓN del
@@ -260,7 +260,7 @@ JURISDICCIÓN: Departamento Judicial de Morón, Provincia de Buenos Aires
 📁 36_LEY_AMBIENTE_Y_PRUEBA_ANTICIPADA.txt
    CONTENIDO: Temas 11-12: Ley 25675 (principio precautorio, responsabilidad
               objetiva ambiental) y PRUEBA ANTICIPADA (Art. 326 CPCC PBA)
-   USAR CUANDO: Quieres invocar ley ambiental o REPARAR SIN PERDER PRUEBA
+   USAR CUANDO: Quieres invocar ley ambiental o PRESERVAR PRUEBA ANTICIPADA
 
 📁 37_APELACION_Y_COLEGIOS_PROFESIONALES.txt
    CONTENIDO: Temas 13-14: Recurso de APELACIÓN (Cámara Morón) y denuncia ante
@@ -272,6 +272,12 @@ JURISDICCIÓN: Departamento Judicial de Morón, Provincia de Buenos Aires
               bienes, NUEVA DOCTRINA "BARRIOS" 2024 sobre intereses e IPC,
               denuncia de daño temido (Art. 623 bis)
    USAR CUANDO: Necesitas cuantificar daños con doctrina actualizada 2024
+
+📁 39_PROMPTS_INVESTIGACION_Y_PRECEDENTES.txt
+   CONTENIDO: Dos prompts de investigación — (1) análisis de vacíos desde 6
+              perspectivas (Poder Judicial, abogados, denunciante, peritos,
+              denunciado, municipio) y (2) búsqueda de precedentes y jurisprudencia
+   USAR CUANDO: Quieres investigar qué FALTA o buscar PRECEDENTES y FALLOS
 
 ================================================================================
                   GUÍA RÁPIDA DE SELECCIÓN POR TIPO DE CONSULTA
@@ -294,20 +300,21 @@ JURISDICCIÓN: Departamento Judicial de Morón, Provincia de Buenos Aires
 │ Demandar al Municipio                │ 31                                    │
 │ Cobrar la sentencia                  │ 32, 34                                │
 │ Vía de amparo                        │ 33                                    │
-│ Citar al seguro del demandado        │ 33                                    │
-│ Reparar sin perder prueba            │ 36                                    │
 │ Cuantificar con doctrina 2024        │ 38                                    │
 │ Intereses y actualización monetaria  │ 38                                    │
 │ Habitabilidad perdida                │ 28, 15                                │
 │ Pérdida de ingresos digitales        │ 19                                    │
 │ Mediación fracasada, qué sigue       │ 18, 04                                │
+│ Buscar qué FALTA en el caso          │ 39                                    │
+│ Buscar PRECEDENTES y fallos           │ 39                                    │
 └──────────────────────────────────────┴───────────────────────────────────────┘
 
 ================================================================================
                     INFORMACIÓN TÉCNICA DE LA BIBLIOTECA
 ================================================================================
 
-Total de archivos: 38
+Total de archivos: 41 (incluye 00_INDICE_DETALLADO, 00_INDICE_CONSULTAS_IA, 
+                       01_INDICE_GENERAL, 02-38 documentos, 39 prompts)
 Total de líneas de texto: ~14,200
 Jurisdicción: Provincia de Buenos Aires, Argentina
 Departamento Judicial: Morón

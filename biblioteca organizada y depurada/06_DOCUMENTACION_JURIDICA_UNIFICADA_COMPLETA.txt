@@ -188,9 +188,6 @@ Art. 343 | Protección contra la humedad. Las capas aisladoras horizontales y ve
 Art. 344 | Los muros exteriores deben ser revocados y terminados para garantizar su conservación y evitar deterioro del predio vecino.
 Sección XXV completa | Muros y cerramientos. Incluye todas las obligaciones relacionadas con la correcta ejecución y mantenimiento de muros linderos.
 
-6.1.3. Seguros obligatorios
-Las prestatarias y contratistas DEBEN contar con seguros de responsabilidad civil por daños a terceros y sus pertenencias. La verificación de la existencia y vigencia de esta póliza es una diligencia procesal prioritaria para citar en garantía a la aseguradora.
-
 6.1.4. Procedimiento de Permiso de Obra (obligatorio para la obra demandada)
 La edificación de un primer piso sobre inmueble de planta baja REQUIERE PERMISO DE OBRA (no simple Aviso de Obra), con presentación de:
 • Planos generales en escala 1:100.
@@ -438,7 +435,6 @@ III.2 — Documentación a visar ante el Colegio Profesional
 • Visado de Encomienda Profesional Digital — sello de intervención del colegio (Ley 10.405, Art. 23; Res. CAPBA 101/09)
 • Boleta de Cuota de Ejercicio Profesional (CEP) — Res. CAPBA 101/09, Art. 4 y 5; Res. 30/23
 • Comprobante de Aportes Previsionales (Ley 12.490) — 20% total (10% profesional / 10% comitente)
-• Seguro de Responsabilidad Civil Profesional — póliza vigente con cobertura para errores u omisiones técnicas
 
 ⚠️ CONSECUENCIA DE LA AUSENCIA DE VISADO:
 En caso de siniestro, la ausencia de este visado puede ser interpretada como ejercicio irregular de la profesión, exponiendo al profesional y al comitente a severas sanciones civiles y penales (Ley 10.405, Art. 23: Falta Grave).
@@ -460,9 +456,6 @@ Base: Arts. 2166 y siguientes del CCyC; Arts. 8.5.7 y 8.5.8 del Código Urbano d
 
 IV.3 — Notificación Fehaciente Previa al Inicio de Obras
 Comunicación previa con detalle de tareas a realizar y duración estimada.
-
-IV.4 — Póliza de Seguro de Responsabilidad Civil por Daños a Terceros
-Cobertura específica por daños a propiedad vecina durante ejecución de trabajos sobre techo ajeno. Para maniobras de izaje con grúa: cobertura mínima exigida superior a $450.000.000 (valores de referencia 2025/2026).
 
 IV.5 — Cálculo de Volumen Mínimo de Reservorio y Plano de Instalación de Agua Compartida
 Cálculo según suma de superficies impermeables de parcelas involucradas y plano de detalle de modificaciones al sistema existente con interconexión al inmueble vecino.
@@ -496,7 +489,6 @@ NIVEL PROVINCIAL (Buenos Aires):
 • Visado de Encomienda Profesional Digital — Ley 10.405, Art. 23; Res. CAPBA 101/09
 • Boleta de Cuota de Ejercicio Profesional (CEP) — Res. CAPBA 101/09; Res. 30/23
 • Comprobante de Aportes Previsionales (Ley 12.490) — 20% sobre honorarios mínimos
-• Seguro de Responsabilidad Civil Profesional
 
 NIVEL MUNICIPAL (Merlo):
 • Permiso de Obra / Ampliación y Reforma — Ordenanza 757-HCD-2000, Sección 1.1; Ordenanza 5839/21
@@ -531,7 +523,7 @@ El proceso civil en la Provincia de Buenos Aires se rige por el Código Procesal
 
 MEDIO DE PRUEBA | ARTÍCULO CPCCBA | OBJETIVO EN EL CASO
 --- | --- | ---
-Prueba documental | Arts. 383 y ss. | Acompañar fallo previo, boletas digitales, actas notariales, expediente de obra del municipio, póliza de seguro.
+Prueba documental | Arts. 383 y ss. | Acompañar fallo previo, boletas digitales, actas notariales, expediente de obra del municipio.
 Prueba testimonial | Arts. 424 y ss. | Testigos (vecinos, familiares, amigos) que declaren sobre la existencia y calidad de los bienes antes del siniestro y el estado del inmueble.
 Prueba pericial | Arts. 457 y ss. | Peritos especializados determinan la cuantía económica del daño y su origen técnico.
 Prueba anticipada | Art. 326 | Permite solicitar medidas de prueba anticipada antes o durante el inicio del juicio cuando existe riesgo de que la prueba se pierda o sea difícil de producir. PRIORITARIO ante la evolución del daño y posibles reparaciones cosméticas.
@@ -549,7 +541,6 @@ Perito Ingeniero Electricista | Acreditar el daño en la red eléctrica, luminar
 Perito Tasador (Martillero Público) | Determinar el valor de reposición de muebles, marcos metálicos, puertas, indumentaria, colchón y elementos de cama. El Art. 1740 CCyC exige que el monto alcance para bienes de similar calidad.
 Perito Informático | Verificar la integridad de archivos fotográficos, metadatos de imágenes (fecha, hora, coordenadas GPS) y autenticidad del perfil de redes sociales donde se publicaron fotos del inmueble en condiciones previas.
 Perito Médico (si corresponde) | Acreditar daños a la salud (problemas respiratorios, alergias) derivados de la humedad extrema y proliferación de hongos.
-Perito de Seguros (si hay citación en garantía) | Verificar si los daños están cubiertos por la póliza de la obra lindera. Necesario para desvirtuar cláusulas de exclusión abusivas.
 
 11.3. Prueba digital — Fotografías y redes sociales
 
@@ -597,7 +588,6 @@ HERRAMIENTAS PROCESALES PRIORITARIAS:
 • Solicitar acceso al expediente de obra ante el Municipio de Merlo (Art. 16 Ord. 5726/19) para identificar al Director de Obra y Constructor matriculados.
 • Solicitar prueba anticipada (Art. 326 CPCCBA) antes de que se realicen reparaciones cosméticas que eliminen evidencias.
 • Iniciar acta notarial de constatación del estado del inmueble y de las publicaciones en redes sociales (Art. 312 CCyC).
-• Citar en garantía a la aseguradora de responsabilidad civil de la obra (verificar la póliza obligatoria).
 • Denunciar ante el Colegio de Arquitectos o Ingenieros por falta de ética profesional.
 
 12.2. PERSPECTIVA DEL DEMANDADO — PARTE DEFENSORA
@@ -637,7 +627,7 @@ Reubicar cargas pesadas sobre losa existente sin verificación de capacidad port
 Modificar la instalación del suministro de agua sin adoptar medidas de estanqueidad que eviten daños al lindero | CCyC Art. 1710 (deber de prevención); Ord. 757/00 Arts. 162/167 | Omisión antijurídica que agrava la situación procesal.
 Prolongar los daños durante casi dos años sin adoptar medidas de cesación | CCyC Art. 1710 (deber de prevención); CCyC Art. 10 (abuso del derecho) | Habilita astreintes y eleva el monto de daño moral.
 Ejecutar la obra sin Permiso de Obra o con documentación incompleta (sin memoria de cálculo estructural) | Ord. 757/00 / Ord. 5835/21 (requisitos de permiso de obra) | Irregularidad burocrática documentable vía expediente municipal. Agrava la responsabilidad.
-No contratar o no mantener vigente el seguro de responsabilidad civil de obra | Ord. 757/00 (seguros obligatorios) | Habilita acciones directas contra el propietario y, si existe, contra la aseguradora.
+No contratar profesionales habilitados para dirigir la obra | Ley 10.405; Ley 6075/59 PBA | Habilita acciones directas contra el propietario por responsabilidad objetiva.
 No instalar pantallas de protección y vallas provisorias hacia linderos (h mínima 2 m) | Resolución 1069/91; Decreto 911/96 | Falta de seguridad laboral y vecinal. Elemento que agrava la negligencia del constructor.
 No respetar la cuantía mínima de armadura por temperatura en la losa de cubierta | CIRSOC 201 | Causa técnica acreditable pericialmente de las fisuras que permiten el ingreso de agua.
 Falta de supervisión del Director de Obra que permitió el deterioro del inmueble lindero durante dos años | CCyC Art. 1269; Ley 6075/59 PBA | Responsabilidad profesional. Base para denuncia ante el Colegio de Arquitectos o Ingenieros.
@@ -678,7 +668,6 @@ Prueba anticipada | Art. 326 CPCCBA | Asegurar evidencias antes de que se realic
 Acción preventiva | CCyC Art. 1711 | Solicitar judicialmente que se detenga la obra o se adopten medidas de seguridad inmediatas.
 Denuncia administrativa ante el Municipio de Merlo | Ord. 757/00 Art. 168; Ord. 5726/19 | Paralización de la obra. Actuación de oficio del municipio. Registro público de la irregularidad.
 Acceso al expediente de obra municipal | Art. 16 Ord. 5726/19 | Identificar al Director de Obra y Constructor matriculados. Constatar la existencia del permiso y su alcance.
-Citación en garantía de la aseguradora | Ord. 757/00 (seguros obligatorios) | Incorporar a la aseguradora como demandada. Asegurar el cobro efectivo de la indemnización.
 Denuncia ante el Colegio de Arquitectos / Ingenieros de PBA | Ley 6075/59 PBA; CCyC Art. 1269 | Sanción disciplinaria profesional. Refuerza el argumento de negligencia en el proceso civil.
 Denuncia penal (si se acredita estrago culposo o daño doloso) | CP Arts. 183/189/191/229 | Proceso penal independiente. Inhabilitación profesional. Puede tener efecto demostrativo en el civil.
 Astreintes (sanciones conminatorias) | CCyC Art. 10 + doctrina PBA | Multa por día de incumplimiento de la sentencia. Se impone ante la actitud de indiferencia del demandado.

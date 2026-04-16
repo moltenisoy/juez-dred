@@ -324,13 +324,7 @@ HECHOS/ELEMENTOS FÁCTICOS CON COBERTURA NORMATIVA INSUFICIENTE O AUSENTE:
    - Dado que el demandado ha demostrado indiferencia durante 2 años, las astreintes
      son un recurso procesal que debería pedirse expresamente.
 
-2. CITACIÓN EN GARANTÍA DE LA ASEGURADORA
-   - Mencionada en DOCUMENTACION_UNIFICADA (línea 684) pero NO ESTÁ EN NINGUNA
-     DEMANDA MODELO.
-   - Si el demandado o el constructor tienen seguro de responsabilidad civil, la
-     citación en garantía asegura el cobro efectivo.
-
-3. DENUNCIA ANTE EL COLEGIO DE ARQUITECTOS/INGENIEROS
+2. DENUNCIA ANTE EL COLEGIO DE ARQUITECTOS/INGENIEROS
    - Mencionada en DOCUMENTACION_UNIFICADA (línea 685) pero no desarrollada como
      acción paralela en ningún otro archivo.
    - Es una acción que genera prueba adicional y puede resultar en inhabilitación
@@ -377,8 +371,8 @@ la revisión exhaustiva desde ambas ópticas revela que:
 4. LA INCONSISTENCIA 70% vs 80% DE HUMEDAD debe resolverse antes de la presentación
    formal.
 
-5. FALTAN PETICIONES CONCRETAS en las demandas modelo: astreintes, citación en
-   garantía de aseguradora, inhibición general de bienes, y prueba anticipada.
+5. FALTAN PETICIONES CONCRETAS en las demandas modelo: astreintes,
+   inhibición general de bienes, y prueba anticipada.
 
 6. HAY HECHOS DE DAÑO CONTINUADO (placas PVC nuevas dañadas en febrero 2025, puerta
    de baño nueva ya corroída, caño de agua roto por depresión del tanque) que son
@@ -401,7 +395,7 @@ URGENTE:
 - Eliminar referencias a normativa de CABA (inaplicable en Merlo, PBA).
 
 IMPORTANTE:
-- Agregar a las demandas modelo: astreintes, citación en garantía, inhibición de
+- Agregar a las demandas modelo: astreintes, inhibición de
   bienes, prueba anticipada.
 - Desarrollar jurídicamente el lucro cesante digital (YouTube/actividad freelance).
 - Incorporar todos los hechos de daño continuado sobre bienes nuevos.

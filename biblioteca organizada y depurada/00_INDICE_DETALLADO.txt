@@ -1,0 +1,732 @@
+================================================================================
+                     ÍNDICE DETALLADO DE LA BIBLIOTECA
+              CASO: DAÑOS POR OBRA LINDERA — PARTIDO DE MERLO
+                   PROVINCIA DE BUENOS AIRES, ARGENTINA
+================================================================================
+
+Este índice presenta todos los archivos de la biblioteca con sus ejes temáticos
+principales, sin desarrollo de contenido. Complementa al Índice General (01) y
+al Índice para Consultas IA (00) con un nivel de detalle intermedio.
+
+Última actualización: Abril 2026
+
+================================================================================
+                    SECCIÓN A — DOCUMENTOS PERSONALES
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+02_RELATO_DE_HECHOS_INVENTARIO_Y_NOTAS.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Relato de Hechos, Inventario de Daños y Notas Personales del Caso
+EJES TEMÁTICOS:
+  • Síntesis del daño: Llave eléctrica bañada en agua, humedad crónica,
+    riesgo de electrocución
+  • Daño estructural: Reubicación de tanque (750 kg), depresión de losa,
+    filtraciones sistémicas
+  • Inventario de daños por sector: Techo, baño, pasillo, hall, lavadero
+  • Daños patrimoniales indirectos: Destrucción de bienes muebles,
+    herramientas de trabajo, indumentaria, electrodomésticos
+  • Daño a la salud: Problemas respiratorios, alergias por hongos y
+    humedad prolongada (>70%)
+  • Daño psicológico: Aislamiento social forzado, estrés, imposibilidad
+    de recibir visitas con dignidad
+  • Estrategia probatoria: Fotografías fechadas, videos, informes técnicos,
+    historias clínicas, testimonios
+  • Evidencia disponible y pasos pendientes
+  • Notas sobre negociación con la contraparte
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+03_CARTA_AL_INTENDENTE_MENENDEZ.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Carta al Intendente Gustavo Menéndez — Pedido de Certificación Municipal
+EJES TEMÁTICOS:
+  • Descripción del hecho originario: Ampliación vertical sin permisos
+  • Irregularidades constructivas: Ausencia de permisos, planos, contrato de obra
+  • Incumplimiento contractual: Violación de contrato de copropiedad
+  • Daños durante ejecución: Maquinaria pesada sobre techo, perforación de losa
+  • Riesgo crítico principal: Tanque de agua reubicado sin soporte adecuado
+  • Documentación adjunta: Plano original, boleto compra-venta, fotografías,
+    contrato de copropiedad, informe técnico
+  • Solicitud: Certificación municipal de obra irregular
+
+================================================================================
+                    SECCIÓN B — MODELOS DE DEMANDA
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04_MODELO_DE_DEMANDA_PRINCIPAL.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Modelo de Demanda por Daños y Perjuicios, Denuncia de Daño Temido
+       y Solicitud de Tutela Anticipada
+EJES TEMÁTICOS:
+  • Encabezado y carátula procesal
+  • Objeto de la pretensión principal
+  • Cuestiones previas: Mediación prejudicial, celeridad procesal, tutela anticipada
+  • Exposición de hechos: 5 hechos lesivos específicos documentados
+  • Fundamentación jurídica exhaustiva en 6 niveles: Nacional, seguridad laboral,
+    técnico (CIRSOC), provincial, municipal y penal
+  • Prueba ofrecida: Documental, pericial técnica, eléctrica, médica, psicológica,
+    tasación
+  • Petitorio: 7 peticiones concretas incluyendo tutela anticipada, reparación
+    integral y multas
+  • Denuncia de daño temido / Interdicto de obra ruinosa (Art. 623 bis CPCCBA)
+  • Responsabilidad multi-nivel: Constructora, director de obra, propietario
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+05_ESQUEMA_Y_ESTRUCTURA_DE_DEMANDA.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Esquema y Estructura Formal de Demanda según Art. 313 CPCC PBA
+EJES TEMÁTICOS:
+  • Marco normativo y vía procesal aplicable
+  • Estructura formal del escrito inicial (Art. 313 CPCCBA)
+  • Esquema completo de demanda en 6 secciones: Encabezado, mediación,
+    hechos, fundamentación, prueba, petitorio
+  • Responsabilidad objetiva del constructor (Art. 1757 CCyC)
+  • Mediación prejudicial obligatoria (Ley 13.951)
+  • Medidas cautelares: Prohibición de innovar, embargo
+  • Responsables solidarios: Propietario, constructora, director de obra
+  • Jurisprudencia aplicable: Caso "Barrios" para actualización de montos
+  • Prescripción: 3 años desde evento dañoso
+
+================================================================================
+               SECCIÓN C — DOCUMENTACIÓN JURÍDICA UNIFICADA
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+06_DOCUMENTACION_JURIDICA_UNIFICADA_COMPLETA.txt [★ MUY EXTENSO — 79 KB]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Documentación Jurídico-Técnica Unificada Completa — Daños por Obra Lindera
+EJES TEMÁTICOS:
+  • Encuadre general del caso: Hechos, consecuencias, factor de atribución
+  • Marco constitucional nacional: CN Arts. 17, 19, 41, 42, 75 inc. 22
+  • Marco constitucional provincial: PBA Arts. 28, 36
+  • Código Civil y Comercial completo: Arts. 10 a 1758
+    — Responsabilidad civil objetiva
+    — Relaciones de vecindad
+    — Contratos de obra
+  • Normativa procesal: CPCCBA completo
+  • Seguridad e higiene en construcción: Decreto 911/96, Ley 19.587
+  • Normas técnicas: CIRSOC 101 (cargas), CIRSOC 201 (deflexiones)
+  • Normativa municipal de Merlo: Ordenanzas 757/00, 5835/21, 5726/19
+  • Código de edificación de Merlo
+  • Derecho penal: Estrago culposo (Art. 189 CP)
+  • Tablas de incumplimientos específicos del demandado
+  • Estrategia probatoria integral
+  • Cuadro de acciones procesales disponibles
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+07_DOCUMENTO_JURIDICO_UNIFICADO_INCUMPLIMIENTOS.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Documento Jurídico Unificado — Cuadro de Incumplimientos del Demandado
+EJES TEMÁTICOS:
+  • Síntesis fáctica: 6 conductas lesivas específicas del demandado
+  • Marco normativo por nivel: Nacional, seguridad, provincial, municipal, penal
+  • Cuadro de incumplimientos de documentación habilitante: 8 permisos inexistentes
+  • Violaciones técnicas CIRSOC: Cargas, impactos dinámicos, deflexiones,
+    fisuración
+  • Cuadro de daños acreditables: Materiales, patrimoniales indirectos, morales,
+    psicofísicos
+  • Estrategia probatoria: Documental, pericial, testimonial, notarial
+  • Daño moral in re ipsa (presumido de los propios hechos)
+  • Astreintes: Graduación y procedimiento
+  • Actualización monetaria: Doctrina "Barrios" (IPC/CER/RIPTE + 6% anual)
+  • Protocolo de tres perspectivas jurídicas "JUEZITO-EL-ROBOTITO"
+  • Tutela anticipada y celeridad procesal
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+08_ANALISIS_JURIDICO_COMPLETO_OBRA_CLANDESTINA.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Análisis Jurídico Completo — Obra de Ampliación Clandestina
+EJES TEMÁTICOS:
+  • Competencia territorial: Departamento Judicial de Morón
+  • Protocolo de análisis "Juez-Pipo" con tres perspectivas independientes
+  • Vías de acción paralelas y complementarias:
+    — (A) Administrativa municipal (inmediata)
+    — (B) Cautelar / Daño temido
+    — (C) Mediación + Demanda civil ordinaria
+    — (D) Penal
+  • Doble capa de antijuridicidad: Formal (violación normativa) + Material (daño)
+  • Responsabilidad objetiva: Inversión de carga probatoria
+  • Culpa grave / Dolo eventual: Construcción sin estudios estructurales
+  • Nexo causal robusto: Obra como causa directa sin alternativa plausible
+  • Jurisprudencia reciente: Cámara Quilmes 2024, SCBA "Salimberri", CSJN "Barcalá"
+  • Desarticulación de defensas: Vecino no puede alegar desconocimiento
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+09_CUADRO_DE_SITUACION_JURIDICO_PROBATORIA.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Cuadro de Situación Jurídico-Probatoria — Estado del Caso
+EJES TEMÁTICOS:
+  • Sistematización legal exhaustiva: Tabla artículo por artículo
+  • Responsabilidad objetiva (Art. 1757 CCCN) aplicada a construcciones
+  • Falta de documentación habilitante: 9 documentos inexistentes
+  • Violaciones técnicas CIRSOC específicas
+  • Daño eléctrico crítico: Caja térmica expuesta, peligro de electrocución
+  • Daño moral in re ipsa: Presumido sin necesidad de peritaje psicológico
+  • Medidas de celeridad: Tutela anticipada para remoción de tanque e
+    impermeabilización provisoria
+  • Estado probatorio: Qué se tiene, qué falta, cómo acreditar cada rubro
+  • Cuadro de daños acreditables: Estructurales, patrimoniales, morales,
+    psicofísicos
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+10_RESUMEN_EJECUTIVO.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Informe Jurídico — Resumen Ejecutivo para Demanda
+EJES TEMÁTICOS:
+  • Prescripción: Corre desde cesación del daño, no desde inicio (daño continuado)
+  • Beneficio de litigar sin gastos (Arts. 78-86 CPCCBA)
+  • Astreintes (Art. 804 CCCN + Art. 37 CPCCBA): Procedimiento bifásico
+  • Actualización monetaria: Doctrina "Barrios" SCBA (IPC/CER/RIPTE + 6% anual)
+  • Embargo preventivo (Art. 209 CPCCBA): Compatible con prohibición de innovar
+  • Competencia territorial: Merlo (actualización 2025)
+  • Checklist pre-demanda: 13 pasos verificables antes de iniciar el juicio
+
+================================================================================
+               SECCIÓN D — INFORMES JURÍDICOS ESPECIALIZADOS
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+11_INFORME_JURIDICO_ACREDITACION_DE_DANOS.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Informe Jurídico Exhaustivo sobre Acreditación de Daños
+EJES TEMÁTICOS:
+  • Encuadre general del caso y normativa aplicable
+  • Código Civil y Comercial: Responsabilidad por actividad riesgosa (Art. 1757)
+  • Constitución Nacional: Arts. 14, 17, 19, 42, 75 inc. 22
+  • Tratados Internacionales: CADH, PIDESC (jerarquía constitucional)
+  • Código Penal: Estrago culposo, daño agravado
+  • Normativa local de construcción
+  • Rubros indemnizables: Análisis específico de cada uno
+  • Medios probatorios detallados para cada rubro
+  • Requisitos del CPCCBA para la prueba
+  • Etapa prejudicial
+  • Prueba pericial: Técnica, médica, psicológica
+  • Daño moral y su acreditación
+  • Jurisprudencia orientativa
+  • Próximos pasos sugeridos
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+12_RESPONSABILIDAD_CIVIL_Y_REGIMEN_PROBATORIO.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Marco Jurídico y Jurisprudencial de la Responsabilidad por Riesgo Edilicio
+EJES TEMÁTICOS:
+  • Responsabilidad civil objetiva: Riesgo y vicio de la cosa
+  • Distinción entre vicio de la cosa y riesgo
+  • Sujetos responsables: Dueño y guardián (concurrencia de la guarda)
+  • Función preventiva: Deber de evitar el daño no justificado
+  • Mandato preventivo y discrecionalidad del juez
+  • Estrago culposo y peligro común (Art. 189 CP)
+  • Delitos contra la seguridad pública vinculados a inmuebles
+  • Responsabilidad por daños en red eléctrica interna
+  • Deber de seguridad del propietario
+  • Empresa distribuidora de electricidad y límite de responsabilidad
+  • Jurisprudencia sobre accidentes eléctricos en inmuebles
+  • Denuncia y poder de policía municipal
+  • Interdicto de obra ruinosa y denuncia de daño temido
+  • Concepto jurídico de "ruina": Estructural vs. funcional
+  • Causalidad adecuada y daño indirecto
+  • Factores que interrumpen el nexo causal
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+13_ANALISIS_JURIDICO_INTEGRAL_DANOS_PERSONALES.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Análisis Jurídico Integral de Daños Personales, Emocionales y Costos de
+       Mudanza
+EJES TEMÁTICOS:
+  • Responsabilidad por actividad riesgosa (Art. 1757 CCyC)
+  • Daño resarcible (Art. 1737 CCyC)
+  • Daño emergente patrimonial
+  • Daño moral (Art. 1741 CCyC)
+  • Nexo causal adecuado: Consecuencias inmediatas y mediatas previsibles
+  • Reparación plena (Art. 1740 CCyC)
+  • Riesgos a integridad física: Electrocución, caída de fragmentos
+  • Afecciones respiratorias y alérgicas por humedad
+  • Abandono forzoso del hogar
+  • Daño moral por privación del domicilio
+  • Pérdida de chances
+  • Prueba pericial: Arquitectura, ingeniería, medicina
+  • Costos de mudanza como rubro indemnizable
+  • Normativa constitucional y código penal
+  • Jurisprudencia sobre daño moral por habitabilidad
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+14_MARCO_LEGAL_DANOS_OBRA_VECINA.txt [★ MUY EXTENSO]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Régimen de Responsabilidad Civil y Penal por Daños Derivados de Obras
+       en Construcción — Provincia de Buenos Aires
+EJES TEMÁTICOS:
+  • Función preventiva de la responsabilidad y deber de evitar el daño
+  • Principio de prevención en la práctica edilicia
+  • Responsabilidad objetiva por riesgo y actividad peligrosa
+  • Solidaridad y concurrencia de responsables
+  • Función resarcitoria y determinación de la obligación de reparar
+  • Daño material directo causado por obra lindera
+  • Daño indirecto: Filtraciones, rajaduras
+  • Molestias que exceden la normal tolerancia (inmisiones)
+  • Responsabilidad por ruina total o parcial
+  • Carga de la prueba en responsabilidad civil
+  • Análisis jurisprudencial por tipo de daño
+  • Defensa por "antigüedad del inmueble": Análisis y refutación
+  • Causalidad e imputabilidad en obras linderas
+  • Medidas preventivas y acción preventiva
+  • Prescripción de acciones
+  • Acreditación probatoria con jurisprudencia reciente
+
+================================================================================
+         SECCIÓN E — PADECIMIENTOS, JUSTIFICACIÓN Y ARGUMENTACIÓN
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+15_PADECIMIENTOS_Y_DANO_MORAL.txt [★ MUY EXTENSO]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Investigación Jurídica: Padecimientos Específicos y Daño Moral por
+       Obra Lindera
+EJES TEMÁTICOS:
+  • Marco jurídico aplicable (CCyCN, CN, Const. PBA, Jurisprudencia)
+  • Análisis individualizado de 8 padecimientos:
+    1. Humedad superior al 70% de manera continua — Inmisiones dañosas
+    2. Riesgo por instalación eléctrica expuesta a humedad
+    3. Imposibilidad de uso de indumentaria por deterioro
+    4. Riesgo de caída de fragmentos de techo
+    5. Dormir en colchón degradado por humedad, sin calefacción
+    6. Impedimento de vida social y de pareja
+    7. Consecuencias psicológicas/psiquiátricas
+    8. Obligación de abandonar el hogar
+  • Normal tolerancia superada (Art. 1973 CCyC)
+  • Daño ambiental doméstico
+  • Daño moral presunto por entidad de los hechos (in re ipsa)
+  • Proyecto de vida afectado
+  • Derecho a vivienda digna
+  • Normativa y jurisprudencia aplicable a cada padecimiento
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+16_JUSTIFICACION_Y_VALIDACION_DEL_RECLAMO.txt [★ MUY EXTENSO]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Justificación, Validación y Acreditación del Reclamo por Daños Causados
+       por Obra de Expansión Vecinal
+EJES TEMÁTICOS:
+  • Objeto del documento y alcance
+  • Cuadro de situación fáctica:
+    — Daños durante la ejecución de la obra (tránsito obreros, impacto,
+      apilamiento materiales)
+    — Daños posteriores (filtraciones, rajaduras, deterioro estructural)
+  • Marco normativo integral aplicable
+  • Análisis de infracciones y prohibiciones violadas
+  • Nexo causal entre la obra y los daños
+  • Responsabilidad objetiva del vecino constructor
+  • Cuantificación y rubros indemnizables (patrimoniales y extrapatrimoniales)
+  • Argumentos de validación del reclamo
+  • Fundamentos contra posibles defensas del demandado
+  • Vías procesales y medidas urgentes
+  • Petitorio
+  • Sobrecarga estructural no permitida
+  • Uso de carretilla sobre superficie frágil
+  • Incumplimiento normativa CIRSOC
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+17_ARGUMENTACION_CONTRA_DEFENSAS_DEL_DEMANDADO.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Argumentación Jurídica Integral contra Defensas del Demandado
+EJES TEMÁTICOS:
+  • Constitucionalidad del reclamo (Arts. 14, 17, 19, 42, 75 CN)
+  • Deber de prevención del daño
+  • Responsabilidad objetiva por actividad riesgosa
+  • Sujetos responsables concurrentes
+  • Relaciones de vecindad
+  • Higiene y seguridad en construcción (Decreto 911/96)
+  • Desarticulación de 5 defensas específicas:
+    — DEFENSA 1: "El inmueble era antiguo"
+    — DEFENSA 2: "Los daños provienen de falta de mantenimiento"
+    — DEFENSA 3: "La culpa es exclusiva de la víctima"
+    — DEFENSA 4: "No hay prueba de nexo causal"
+    — DEFENSA 5: "Prescripción de la acción"
+  • Jurisprudencia sobre antigüedad del inmueble como no eximente
+  • Responsabilidad concurrente — Jurisprudencia
+  • Imprevisibilidad del daño — Rechazo doctrinario
+  • Validación probatoria del caso
+
+================================================================================
+                SECCIÓN F — ESTRATEGIA PROBATORIA
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+18_ESTRATEGIA_PROBATORIA_POST_MEDIACION.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Informe Técnico-Legal: Demanda por Daños y Perjuicios Post-Mediación
+EJES TEMÁTICOS:
+  • Factor tiempo y prescripción de la acción (3 años, Art. 2561 CCCN)
+  • Efecto de la mediación sobre la prescripción (suspensión)
+  • Acreditación del nexo causal dos años después
+  • Daño continuado y progresivo
+  • Valoración de evidencia digital: Fotos de redes sociales y metadatos
+  • Peritaje informático forense
+  • Facturas y antigüedad de bienes como prueba
+  • Eficacia de informes técnicos de parte (MMO y Arquitecto)
+  • Prueba testimonial en etapa judicial
+  • Daños específicos a reclamar: Daño emergente, riesgo eléctrico,
+    daño moral, lucro cesante
+  • Responsabilidad objetiva: Eximentes limitadas
+  • Culpa de la víctima: Estándar restrictivo
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+19_INVESTIGACION_JURIDICA_LUCRO_CESANTE_HARDWARE_AGUA.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Investigación Jurídica sobre Lucro Cesante, Daño a Hardware y Servidumbre
+       de Agua
+EJES TEMÁTICOS:
+  • TEMA 1 — Lucro cesante por pérdida de ingresos digitales (YouTube/AdSense):
+    Acreditación de ingresos intangibles, instrumentos privados de terceros,
+    pérdida de chance, probabilidad objetiva
+  • TEMA 2 — Daño a equipos electrónicos (PC Workstation):
+    Corrosión por humedad (>70% HR), norma IPC-A-610, vida útil de componentes,
+    reparación vs. reposición, valor de reposición a nuevo
+  • TEMA 3 — Servidumbre de agua — Modificación unilateral:
+    Acción negatoria, turbación del dominio, restablecimiento de instalación,
+    vía de hecho, instalación "esclava" de agua
+  • TEMA 4 — Cartas documento: Necesidad y efectos jurídicos
+  • Mora en daños extracontractuales
+  • Jurisprudencia de cámaras de PBA para cada tema
+  • Recomendaciones procesales específicas
+
+================================================================================
+               SECCIÓN G — NORMATIVA TÉCNICA ESPECIALIZADA
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+20_DANOS_POR_HUMEDAD_A_BIENES_Y_EQUIPOS_ELECTRONICOS.txt [★ MUY EXTENSO]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Análisis Técnico-Jurídico sobre Reparación Plena de Bienes Tecnológicos
+       y Muebles por Degradación Higroscópica
+EJES TEMÁTICOS:
+  • Función preventiva y resarcitoria del derecho de daños
+  • Deber de prevención (Art. 1710 CCyC)
+  • Principio de reparación plena (Art. 1740 CCyC) aplicado a tecnología
+  • Concepto de daño (Art. 1737), indemnización (Art. 1738), prueba (Art. 1744)
+  • Bienes tecnológicos: PC Workstation profesional
+  • Degradación higroscópica: Humedad relativa >70%
+  • Corrosión de componentes electrónicos (SMD, GPU, PSU)
+  • Fiabilidad electrónica comprometida
+  • Norma IPC-A-610 (estándares de aceptabilidad electrónica)
+  • Vida útil comprometida vs. falla actual
+  • Criterio de reposición vs. reparación
+  • Jurisdicción PBA: Requisitos de demanda (Art. 330 CPCC PBA)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+21_REGIMEN_DESAGUE_Y_AGUAS_PLUVIALES.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Análisis Integral del Régimen Jurídico de Desagües Pluviales, Servidumbres
+       de Drenaje y Responsabilidad por Obras de Remodelación — Partido de Merlo
+EJES TEMÁTICOS:
+  • Marco regulatorio de desagües pluviales en Merlo
+  • Jerarquía normativa: Nacional, provincial, municipal
+  • Ilegalidad del desagüe pluvial en caída libre hacia la vereda
+  • Requerimientos técnicos de evacuación
+  • Riesgo de la caída libre y separación de pared
+  • Servidumbres de drenaje
+  • Modificación unilateral de sistemas compartidos
+  • Sanciones municipales aplicables
+  • Responsabilidad civil por desvío de aguas
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+22_REGIMEN_PROBATORIO_DANOS_EDILICIOS.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Tratamiento Técnico-Jurídico de la Responsabilidad Civil y el Régimen
+       Probatorio por Daños Derivados de Obras Linderas — PBA
+EJES TEMÁTICOS:
+  • Régimen de responsabilidad civil en el CCCN
+  • Responsabilidad objetiva por riesgo o vicio de las cosas y actividades
+  • Principio de prevención y mitigación del daño
+  • Relaciones de vecindad y régimen de inmisiones
+  • Normal tolerancia (Art. 1973 CCyC)
+  • Abuso del derecho en la construcción
+  • Acreditación judicial de daños edilicios en PBA
+  • Requisitos de los tribunales bonaerenses
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+23_NORMATIVA_CONSTRUCCION_INMUEBLES_LINDEROS.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Régimen Jurídico y Técnico para la Intervención en Inmuebles Linderos
+       y Estructuras de Carga — Normativa Nacional, Provincial y Municipal
+EJES TEMÁTICOS:
+  • Código Civil y Comercial como eje rector de la medianería
+  • Clasificación legal de muros y su implicancia constructiva
+  • Derechos de carga y modificación en muros medianeros
+  • Obligación de reconstrucción y estanqueidad
+  • Restricciones al dominio y relaciones de vecindad
+  • Requisitos técnicos y estructurales: Reglamentos CIRSOC 101 y 201
+  • Ordenamiento territorial: Ley 8912/77 PBA
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+24_NORMATIVA_TECNICA_CARGAS_ESTRUCTURALES_CIRSOC.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Análisis Técnico-Regulatorio para Instalación de Cargas Pesadas (≥750 kg)
+       sobre Estructuras de Losa
+EJES TEMÁTICOS:
+  • Marco regulatorio nacional: Reglamentos de seguridad estructural
+  • Reglamento CIRSOC 101: Naturaleza de las cargas (permanentes, variables, dinámicas)
+  • Reglamento CIRSOC 201: Verificación de estructuras existentes de hormigón armado
+  • Seguridad e higiene: Obligaciones en el movimiento de cargas críticas
+  • Requisitos del Plan de Izaje (Rigging Plan)
+  • Nivel Nacional: Obligaciones estructurales y de seguridad
+  • Nivel Provincial (PBA): Obligaciones profesionales
+  • Nivel Municipal (Merlo): Requisitos administrativos y de edificación
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+25_PERMISOS_Y_DOCUMENTACION_REQUERIDA_OBRA.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Permisos y Documentación Requerida para Obra de Ampliación — Compilación
+       de Tres Fuentes
+EJES TEMÁTICOS:
+  • SECCIÓN A — Permisos municipales, provinciales y documentación civil:
+    Niveles de habilitación, documentación entre particulares, seguridad
+  • SECCIÓN B — Documentación técnica, profesional y de seguridad:
+    Permisos municipales, documentación para instalación de agua compartida,
+    autorizaciones sobre propiedad vecina, seguridad e higiene
+  • SECCIÓN C — Permisos, seguridad e higiene con detalle normativo:
+    Normas SRT, Decreto 911/96, medidas técnicas obligatorias
+  • Todas las secciones son complementarias entre sí
+
+================================================================================
+               SECCIÓN H — CELERIDAD Y TUTELA PROCESAL
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+26_CELERIDAD_PROCESAL_Y_TUTELA_ANTICIPADA.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Fundamentos de la Tutela Judicial Diferenciada y la Celeridad Procesal
+       en la Jurisprudencia de PBA
+EJES TEMÁTICOS:
+  • Tutela judicial efectiva como piedra angular (Art. 15 Const. PBA)
+  • Plazo razonable (CADH)
+  • Vulnerabilidad etaria como factor de prioridad
+  • Interés superior del niño en procesos de familia
+  • Protección reforzada de personas mayores
+  • Salud y discapacidad: Urgencia por integridad física
+  • Salud mental y revisión de capacidad
+  • Vulnerabilidad económica como barrera y justificativo
+  • Procesos con celeridad intrínseca: Caso de los alimentos
+  • Innovaciones de la Ley 15.513 y el CPCC
+  • Adaptabilidad de formas procesales
+  • Medidas autosatisfactivas en PBA
+
+================================================================================
+             SECCIÓN I — REVISIÓN, COMPLEMENTOS Y VACÍOS
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+27_INFORME_DE_REVISION_VACIOS_Y_OMISIONES.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Informes de Revisión Exhaustiva — Vacíos, Omisiones y Recomendaciones
+EJES TEMÁTICOS:
+  • SECCIÓN A — Revisión línea por línea (enfoque jurídico-procesal):
+    Completitud jurídico-procesal, completitud técnico-probatoria,
+    elementos correctamente cubiertos, elementos faltantes o insuficientes,
+    omisiones detectadas con recomendaciones
+  • SECCIÓN B — Revisión doble (enfoque analítico-conceptual):
+    Completitud normativa, coherencia técnica entre archivos,
+    vacíos normativos identificados, recomendaciones de mejora
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+28_NORMATIVA_DAÑOS_EDILICIOS_HABITABILIDAD.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Informe Técnico-Jurídico sobre Responsabilidad por Daños Edilicios,
+       Habitabilidad y Afectación a la Vida de Relación — Merlo
+EJES TEMÁTICOS:
+  • Transcripción literal del documento de padecimientos
+  • Encuadre jurídico en el Partido de Merlo y PBA
+  • Responsabilidad objetiva y nexo causal
+  • Consecuencias de la obra en la habitabilidad del inmueble
+  • Deber de prevención y reparación
+  • Inhabilitación de espacios y afectación de la vida de relación
+  • Código de edificación de Merlo
+  • Jurisprudencia SCBA sobre habitabilidad
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+29_DOCUMENTACION_JURIDICA_DANOS_COMPLEMENTARIA.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Documentación Jurídica Complementaria — Formulaciones Alternativas
+EJES TEMÁTICOS:
+  • Encuadre general del caso: Hechos determinantes
+  • Sujeto responsable y fundamento legal
+  • CCCN: Responsabilidad civil — Marco general
+  • Daños resarcibles: Categorías y rubros
+  • Normativa aplicable en tres niveles jerárquicos: Nacional, provincial, municipal
+  • Formulaciones alternativas de conceptos jurídicos (complemento al archivo 06)
+
+================================================================================
+             SECCIÓN J — MARCO TEÓRICO JUEZ-PIPO (ABRIL 2026)
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+30_MARCO_TEORICO_METODOLOGIA_JUEZ_PIPO.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Marco Teórico Jurídico — Metodología JUEZ-PIPO — Resumen de 18 Temas
+EJES TEMÁTICOS:
+  • Descripción de la metodología JUEZ-PIPO (tres perspectivas + verificación):
+    Perspectiva del demandante, del demandado, del ministerio público
+  • Resumen ejecutivo de los 18 temas desarrollados (archivos 31-38)
+  • Normativa clave consolidada y verificada
+  • Fallos verificados citados en los 18 temas
+  • Zonas de incertidumbre identificadas
+  • Advertencias de uso del marco teórico
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+31_RESPONSABILIDAD_MUNICIPAL_POR_OMISION.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Tema 1 — Responsabilidad del Municipio de Merlo por Omisión de Control
+       Edilicio
+EJES TEMÁTICOS:
+  • Art. 27 inc. 7° Dec.-Ley 6769/58 PBA: Poder de policía edilicio municipal
+  • Falta de servicio por omisión de control
+  • Presupuestos de la responsabilidad estatal por omisión
+  • Jurisprudencia SCBA y Cámara de Morón
+  • Perspectiva del demandante: Estrategia para demandar al municipio
+  • Perspectiva del municipio como demandado: Defensas previsibles
+  • Perspectiva del ministerio público: Intervención
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+32_COBRABILIDAD_Y_PROTECCION_VIVIENDA.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Temas 2-3 — Cobrabilidad de la Sentencia y Legitimación Activa
+EJES TEMÁTICOS:
+  • TEMA 2 — Cobrabilidad de la sentencia:
+    Patrimonio del demandado, protección de vivienda (Arts. 244-249 CCCN),
+    excepciones a la inejecutabilidad, herramientas de ejecución
+  • TEMA 3 — Legitimación activa de co-habitantes y familiares:
+    Art. 1741 CCCN (daño moral autónomo), legitimación de convivientes,
+    reclamación independiente de co-habitantes
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+33_AMPARO_CONSTITUCIONAL.txt (antes: 33_AMPARO_Y_SEGUROS_RC.txt)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Tema 4 — Acción de Amparo Constitucional como Vía Paralela Ultrarrápida
+EJES TEMÁTICOS:
+  • Art. 20 Constitución PBA — Acción de amparo
+  • Ley 13928 PBA — Régimen de Amparo Provincial
+  • Art. 43 Constitución Nacional — Amparo
+  • Procedencia frente a particulares
+  • Plazo de interposición: 90 días hábiles
+  • Ventajas: Plazos brevísimos, cautelar inmediata, derecho a hábitat digno
+  • Límites: Subsidiariedad, no reemplaza acción de daños
+  • Relación con denuncia de daño temido (Art. 623 bis CPCC PBA)
+  • Jurisprudencia SCBA sobre amparo por vivienda digna
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+34_COSTAS_Y_DEPRECIACION_INMUEBLE.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Temas 6-7 — Costas, Honorarios y Depreciación del Inmueble
+EJES TEMÁTICOS:
+  • TEMA 6 — Régimen de costas y honorarios profesionales:
+    Arts. 68-77 CPCC PBA, Ley 14967 PBA (honorarios), principio objetivo
+    de la derrota, excepciones, costas en mediación, beneficio de litigar
+    sin gastos
+  • TEMA 7 — Depreciación del inmueble como rubro autónomo:
+    Desvalorización venal / minus valía, Art. 1738 CCCN, prueba pericial
+    (tasación), jurisprudencia sobre depreciación por cercanía a obra
+    irregular
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+35_CADUCIDAD_RECONVENCION_LITISCONSORCIO.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Temas 8-10 — Caducidad de Instancia, Reconvención y Litisconsorcio Pasivo
+EJES TEMÁTICOS:
+  • TEMA 8 — Caducidad de instancia (Art. 310 CPCC PBA):
+    Plazos (6 meses en 1ra instancia, 3 meses en 2da), actos interruptivos,
+    riesgo procesal por inactividad, estrategias de prevención
+  • TEMA 9 — Reconvención del demandado (Art. 357 CPCC PBA):
+    Causales previsibles de reconvención, plazo para contestar (15 días),
+    conexidad entre demanda y reconvención
+  • TEMA 10 — Litisconsorcio pasivo (Arts. 88-96 CPCC PBA, Art. 1751 CCCN):
+    Identificación de todos los responsables, demanda conjunta contra
+    propietario, constructor, director de obra, municipio
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+36_LEY_AMBIENTE_Y_PRUEBA_ANTICIPADA.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Temas 11-12 — Ley General del Ambiente y Prueba Anticipada
+EJES TEMÁTICOS:
+  • TEMA 11 — Ley 25.675 (Ley General del Ambiente):
+    Principio precautorio (Art. 4), daño ambiental (Art. 27),
+    responsabilidad objetiva (Art. 28), presunción de responsabilidad por
+    infracción administrativa (Art. 29), legitimación del damnificado (Art. 30),
+    competencia judicial (Art. 32), reglas probatorias favorables,
+    aplicabilidad a microambientes privados
+  • TEMA 12 — Prueba anticipada pre-demanda (Art. 326 CPCC PBA):
+    Inciso 2 (reconocimiento judicial / dictamen pericial), procedimiento
+    completo, pericias solicitables, acta notarial complementaria,
+    preservación del escenario probatorio
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+37_APELACION_Y_COLEGIOS_PROFESIONALES.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Temas 13-14 — Recurso de Apelación y Denuncia ante Colegios Profesionales
+EJES TEMÁTICOS:
+  • TEMA 13 — Recurso de apelación y segunda instancia:
+    Arts. 244-279 CPCC PBA, Cámara de Morón como alzada,
+    cuestiones apelables (monto, prueba, costas), plazo de interposición
+    (5 días), caducidad en segunda instancia
+  • TEMA 14 — Denuncia ante colegios profesionales:
+    CAPBA (Colegio de Arquitectos PBA), CPIC (Colegio de Ingenieros),
+    Art. 1768 CCCN (responsabilidad profesional), procedimiento disciplinario,
+    consecuencias de la denuncia, efecto sobre el juicio civil
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+38_DANO_PSICOFISICO_E_INTERESES_BARRIOS.txt [★ EXTENSO]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Temas 15-18 — Ley Hábitat, Daño Psicofísico, Inhibición, Intereses
+       y Daño Temido
+EJES TEMÁTICOS:
+  • TEMA 15 — Ley Provincial 14.449 (Acceso Justo al Hábitat):
+    Principios rectores, posible uso para el demandante
+  • TEMA 16 — Daño psicofísico como rubro autónomo (Art. 1738 CCCN):
+    Distinción entre daño psicofísico y daño moral, prueba médica requerida,
+    cuantificación independiente
+  • TEMA 17 — Inhibición general de bienes (Art. 228 CPCC PBA):
+    Embargo preventivo, inhibición general, medidas cautelares sobre
+    bienes del demandado
+  • TEMA 18 — NUEVA DOCTRINA "BARRIOS" SCBA 2024:
+    Intereses y actualización monetaria, IPC como mecanismo de actualización,
+    tasa activa, efectos retroactivos
+  • ADICIONAL — Denuncia de daño temido (Art. 623 bis CPCC PBA):
+    Procedimiento, relación con medida cautelar y amparo
+
+================================================================================
+                    MAPA DE EJES TRANSVERSALES
+================================================================================
+
+Los siguientes ejes aparecen en múltiples archivos de la biblioteca:
+
+1. RESPONSABILIDAD OBJETIVA (Arts. 1757-1758 CCCN)
+   → Archivos: 04, 05, 06, 07, 08, 09, 11, 12, 13, 14, 16, 17, 18, 22, 28, 29
+
+2. DEBER DE PREVENCIÓN (Art. 1710 CCCN)
+   → Archivos: 06, 08, 11, 12, 13, 14, 20, 22, 28, 36
+
+3. REPARACIÓN PLENA (Art. 1740 CCCN)
+   → Archivos: 06, 11, 13, 14, 16, 19, 20, 29
+
+4. RELACIONES DE VECINDAD E INMISIONES (Arts. 1971-1973 CCCN)
+   → Archivos: 06, 12, 14, 15, 22, 23
+
+5. NORMATIVA CIRSOC (101/201)
+   → Archivos: 06, 07, 09, 16, 23, 24
+
+6. DAÑO MORAL Y PADECIMIENTOS
+   → Archivos: 07, 09, 11, 13, 15, 16, 28, 38
+
+7. NEXO CAUSAL
+   → Archivos: 08, 11, 12, 13, 14, 16, 17, 18
+
+8. DEFENSAS DEL DEMANDADO Y SU REFUTACIÓN
+   → Archivos: 14, 16, 17, 35
+
+9. PRUEBA Y ACREDITACIÓN
+   → Archivos: 09, 11, 18, 19, 20, 22
+
+10. TUTELA ANTICIPADA Y CELERIDAD PROCESAL
+    → Archivos: 04, 07, 09, 26
+
+================================================================================
+                    FIN DEL ÍNDICE DETALLADO
+================================================================================

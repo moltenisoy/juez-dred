@@ -317,10 +317,9 @@ Fuentes originales: 12345.txt, 678910.txt, 111213.txt, 141516.txt, 1718.txt
      de co-habitantes (Art. 1741 CCCN, daño moral autónomo).
    FUENTE ORIGINAL: 12345.txt (Temas 2-3)
 
-33_AMPARO_Y_SEGUROS_RC.txt
-   → Temas 4-5: Acción de amparo constitucional (Art. 20 Const. PBA, Ley
-     13928 PBA), tutela ultrarrápida, y seguro de responsabilidad civil
-     (Art. 118 Ley 17418, citación en garantía del asegurador).
+33_AMPARO_CONSTITUCIONAL.txt
+   → Tema 4: Acción de amparo constitucional (Art. 20 Const. PBA, Ley
+     13928 PBA), tutela ultrarrápida, procedencia frente a particulares.
    FUENTE ORIGINAL: 12345.txt (Temas 4-5)
 
 34_COSTAS_Y_DEPRECIACION_INMUEBLE.txt
@@ -338,7 +337,7 @@ Fuentes originales: 12345.txt, 678910.txt, 111213.txt, 141516.txt, 1718.txt
 36_LEY_AMBIENTE_Y_PRUEBA_ANTICIPADA.txt
    → Temas 11-12: Ley General del Ambiente 25675 (principio precautorio,
      responsabilidad objetiva), y prueba anticipada pre-demanda (Art. 326
-     CPCC PBA) para preservar escenario probatorio antes de reparar.
+     CPCC PBA) para preservar escenario probatorio.
    FUENTE ORIGINAL: 111213.txt (Temas 11-12)
 
 37_APELACION_Y_COLEGIOS_PROFESIONALES.txt
@@ -354,18 +353,21 @@ Fuentes originales: 12345.txt, 678910.txt, 111213.txt, 141516.txt, 1718.txt
      actualización monetaria, y denuncia de daño temido (Art. 623 bis).
    FUENTES ORIGINALES: 141516.txt, 1718.txt (Temas 15-18 y adicional)
 
+39_PROMPTS_INVESTIGACION_Y_PRECEDENTES.txt
+   → Prompts para investigación de vacíos (desde 6 perspectivas: Poder Judicial,
+     abogados, denunciante, peritos, denunciado, damnificado) y para búsqueda
+     de precedentes jurisprudenciales, casos similares, leyes y decretos aplicables.
+
 ================================================================================
                VERIFICACIÓN DE COMPLETITUD — NINGÚN ARCHIVO PERDIDO
 ================================================================================
 
-Total de archivos fuente en el repositorio: 39 (34 originales + 5 de marco teórico)
-  - Archivos en raíz: 20 (15 originales + 5 de marco teórico JUEZ-PIPO)
-  - Archivos en carpeta varios/: 19
-
-Archivos en la biblioteca organizada: 39
-  - 00: Índice inteligente para consultas con IA (nuevo)
-  - 01-29: Documentación original organizada temáticamente
-  - 30-38: Marco teórico JUEZ-PIPO (9 archivos derivados de los 5 documentos fuente)
+Total de archivos en la biblioteca organizada: 41
+  - 00: Índice para consultas IA, Índice detallado
+  - 01: Índice general
+  - 02-29: Documentación original organizada temáticamente
+  - 30-38: Marco teórico JUEZ-PIPO (9 archivos)
+  - 39: Prompts de investigación y precedentes
   
 Notas sobre la organización:
   - 1 archivo eliminado por duplicado exacto (Demanda v2)
