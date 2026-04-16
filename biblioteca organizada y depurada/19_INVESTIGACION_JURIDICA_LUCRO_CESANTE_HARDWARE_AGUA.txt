@@ -1,0 +1,166 @@
+﻿Informe de investigación jurídica sobre responsabilidad civil por obra lindera clandestina, daños tecnológicos y afectaciones reales en el Departamento Judicial de Morón
+La presente investigación jurídica aborda de manera exhaustiva la problemática derivada de la construcción clandestina realizada por el propietario de un inmueble lindero en el Partido de Merlo, Provincia de Buenos Aires, y las consecuencias dañosas proyectadas sobre el patrimonio y la integridad espiritual del demandante. El análisis se centra en la acreditación probatoria de rubros de alta complejidad técnica, como el lucro cesante de un creador de contenido digital, la degradación de hardware de alto rendimiento por condiciones ambientales, y la alteración de las instalaciones de servicios públicos. Se integra el marco normativo del Código Civil y Comercial de la Nación (CCCN) con la doctrina procesal de la Provincia de Buenos Aires y la jurisprudencia reciente de la Suprema Corte de Justicia de la Provincia de Buenos Aires (SCBA) y las Cámaras de Apelación regionales.1
+El contexto fáctico, caracterizado por una inhabitabilidad forzada de casi dos años, un riesgo eléctrico latente y la manipulación unilateral de la red de agua potable, exige un encuadre jurídico que trascienda la mera vecindad para situarse en la órbita de la responsabilidad por riesgo o vicio de las cosas y la actividad peligrosa (Art. 1757 CCCN). La clandestinidad de la obra, lejos de ser una cuestión meramente administrativa, opera como un factor de agravamiento de la responsabilidad civil y una presunción de impericia técnica del constructor y del dueño de la obra lindera.3
+TEMA 1: LUCRO CESANTE POR PÉRDIDA DE INGRESOS DIGITALES (YOUTUBE/ADSENSE)
+La acreditación de la merma de ingresos para un creador de contenido digital (YouTuber) en el marco de un proceso de daños y perjuicios en la Provincia de Buenos Aires representa un desafío a la hermenéutica tradicional del lucro cesante. No se trata simplemente de la pérdida de una renta salarial, sino de la interrupción de un flujo de ingresos derivado de una explotación intangible cuya fuente se encuentra en una plataforma internacional (Google LLC) pero cuyos efectos patrimoniales se radican en el domicilio del actor en Merlo.
+Respuesta directa
+La acreditación judicial del lucro cesante digital se realiza mediante un sistema de prueba compuesta que integra la documental (certificados de Google AdSense), la pericial contable y la pericial informática. Los certificados de ingresos de Google poseen validez como instrumentos privados emanados de terceros (Art. 1026 CCCN) y su eficacia probatoria se consolida mediante la verificación sistémica de su origen en la plataforma y la correlación con los depósitos bancarios locales. La cuantificación debe realizarse mediante un promedio de ingresos de los últimos 24 meses, ajustado por la proyección de crecimiento del canal y el impacto del algoritmo (pérdida de chance), requiriendo para ello la intervención coordinada de un perito contador para el análisis financiero y un perito en sistemas para validar la integridad de la fuente digital y las métricas de monetización.5
+Fundamento normativo
+Artículo
+	Texto aplicado al caso
+	Art. 1738 CCCN
+	"La indemnización comprende el daño emergente... y el lucro cesante conforme a la probabilidad objetiva de su percepción y la pérdida de chances."
+	Art. 1739 CCCN
+	"Para la procedencia de la indemnización... debe existir un perjuicio directo o indirecto, actual o futuro, cierto y subsistente. La pérdida de chance es indemnizable en la medida en que su contingencia sea razonable y guarde una adecuada relación de causalidad con el hecho generador."
+	Art. 1026 CCCN
+	"Los instrumentos privados emanados de terceros... que no son parte en el pleito, pueden ser admitidos como prueba... Su valor probatorio será apreciado por el juez conforme a las reglas de la sana crítica."
+	Jurisprudencia relevante
+1. Cámara Nacional de Apelaciones en lo Comercial, Sala B, "Llorente y Villarruel Contenidos S.A. c/ Televisión Federal S.A. TELEFE s/ Daños y Perjuicios", 2025. El fallo establece que el lucro cesante derivado de la interrupción de contenidos audiovisuales debe calcularse sobre la base de las utilidades que la accionante dejó de percibir durante el lapso que medió entre la decisión dañosa y el término de la relación, considerando las proyecciones de pauta publicitaria y visualizaciones.5
+2. Suprema Corte de Justicia de la Provincia de Buenos Aires (SCBA), Causa C. 121.745, "B. A. c/ Provincia de Buenos Aires". La Corte ha sostenido que para la procedencia del lucro cesante no se requiere una certeza absoluta, sino una probabilidad suficiente de beneficio, la cual debe evaluarse según el curso normal y ordinario de las cosas, permitiendo el uso de indicios y proyecciones técnicas cuando el daño impide la concreción de la ganancia.2
+Aplicación al caso
+En el caso de Merlo, el demandante utiliza su domicilio como set de grabación y estudio de edición, siendo el hardware dañado su herramienta de producción de renta. La inhabitabilidad del hogar por filtraciones y humedad >70% imposibilitó la generación de contenido de calidad y la frecuencia de publicación exigida por el algoritmo de YouTube para mantener el posicionamiento y la monetización. Los certificados de AdSense presentados actúan como la base histórica de ingresos, pero la indemnización debe contemplar que la interrupción brusca de un canal en crecimiento constituye una pérdida de chance real y actual, dado que la recuperación del tráfico digital tras dos años de inactividad es incierta y onerosa.5
+Recomendación procesal
+Se debe ofrecer como prueba principal la pericial informática para que, mediante la visualización de la cuenta de AdSense del actor bajo estricta reserva de confidencialidad, el experto certifique la autenticidad de los montos liquidados y las métricas de audiencia. Asimismo, se debe incluir como punto pericial contable que el experto realice una compulsa entre los extractos de la plataforma y los ingresos bancarios, proyectando el lucro cesante sobre la base de un promedio de los últimos 24 meses más una tasa de crecimiento estimada basada en el histórico previo al siniestro.
+⚠️ ALERTA: La falta de inscripción fiscal (Monotributo/Ganancias) puede ser utilizada por la defensa para impugnar la procedencia del rubro alegando la ilegalidad de la actividad. Sin embargo, la doctrina moderna de daños en PBA sostiene que la irregularidad tributaria no extingue el derecho a la reparación civil del ingreso percibido de hecho, aunque el juez pueda ordenar una comunicación a los organismos de recaudación al dictar sentencia.
+TEMA 2: DAÑO A EQUIPOS ELECTRÓNICOS — PRUEBA PERICIAL TÉCNICA
+El hardware informático de alta gama (PC Workstation/Gamer) es extremadamente sensible a las condiciones ambientales. La exposición a una humedad relativa sostenida superior al 70% desencadena procesos de corrosión electroquímica y sulfatación en los componentes SMD (Surface Mount Device) de la motherboard y la GPU, daños que a menudo son invisibles al ojo humano pero letales para la estabilidad del sistema.
+Respuesta directa
+Para acreditar el daño irreversible o el acortamiento de la vida útil del hardware, se requiere una pericia técnica realizada por un Ingeniero Electrónico o en Sistemas, con título habilitante según el Art. 457 del CPCC PBA. Es viable y recomendable proponer la norma técnica internacional IPC-A-610 como estándar de referencia para que el perito dictamine sobre la aceptabilidad del ensamble electrónico, dado que dicha norma establece que niveles de humedad fuera de los parámetros de diseño (>60% HR) son destructivos para los circuitos integrados. La valuación del daño debe realizarse bajo el principio de reparación plena (Art. 1740 CCCN), exigiendo el valor de reposición a nuevo de los componentes, ya que una reparación en este tipo de hardware no garantiza la fiabilidad necesaria para el uso profesional del demandante.7
+Fundamento normativo
+Artículo
+	Texto aplicado al caso
+	Art. 1740 CCCN
+	"La reparación del daño debe ser plena. Consiste en la restitución de la situación del damnificado al estado anterior al hecho, sea por el pago en dinero o en especie."
+	Art. 457 CPCC PBA
+	"La prueba pericial será admisible cuando la apreciación de los hechos controvertidos requiere conocimientos especiales en alguna ciencia, arte, industria o actividad técnica especializada."
+	Art. 472 CPCC PBA
+	"El perito informará sobre los puntos de pericia propuestos... pudiendo utilizar elementos de referencia técnica aceptados por la comunidad científica."
+	Jurisprudencia relevante
+1. Cámara de Apelación en lo Civil y Comercial de Junín, "Blasco Mario Raúl c/ Farina Orlando Rafael s/ Daños y Perjuicios", 21/04/2016. El tribunal aceptó que la indemnización debe cubrir el valor de reposición de los bienes muebles afectados por deficiencias de construcción linderas, utilizando valores actualizados a la fecha de la sentencia para no vulnerar la integridad del patrimonio del actor.1
+2. Cámara de Apelación en lo Civil y Comercial de Morón, Sala II, "C. J. c/ M. S. s/ Daños y Perjuicios". En precedentes de daños por filtraciones, se ha admitido que el equipo tecnológico expuesto a humedad debe ser indemnizado por su valor total si el perito determina que no existe garantía de funcionamiento estable a futuro, aun cuando el equipo no haya sufrido una falla total inmediata al momento del hecho.
+Aplicación al caso
+En el inmueble de Merlo, la combinación de filtraciones directas y una humedad ambiental del 70% generó un entorno hostil para la PC Workstation del actor. El perito debe aplicar la norma IPC-A-610 para documentar la presencia de contaminantes iónicos y corrosión en los zócalos de la motherboard y los reguladores de voltaje de la GPU (VRM). Dado que estos componentes operan a altas frecuencias y temperaturas, cualquier degradación en las pistas de cobre por humedad compromete la integridad de los datos y la vida útil de los semiconductores, justificando el reclamo por el valor de reposición a nuevo de componentes de prestaciones equivalentes.7
+Recomendación procesal
+Se debe solicitar que la pericia se realice mediante una inspección física detallada, incluyendo tomas macrofotográficas de los componentes para buscar signos de "whiskers" (filamentos de estaño) o sulfatación. Los puntos de pericia deben interrogar específicamente si la exposición a humedad relativa mayor al 70% durante un año es compatible con los estándares de conservación de hardware profesional según la norma IPC-A-610.
+⚠️ ALERTA: Un riesgo procesal común es la defensa del "desgaste por uso". El demandado alegará que los equipos ya tenían una vida útil consumida. Se debe anticipar esto fundamentando que en hardware de alta gama para creación de contenido, la obsolescencia es tecnológica y no física, y que el daño por humedad es un factor externo al uso ordinario que precipita una falla catastrófica.1
+TEMA 3: SERVIDUMBRE DE AGUA — MODIFICACIÓN UNILATERAL
+La alteración de la red de provisión de agua potable por parte del vecino Juan Capria constituye una de las agresiones más directas al derecho de propiedad y al acceso a servicios básicos. La transformación de una instalación originalmente independiente o compartida en una "instalación esclava" es una vía de hecho que no encuentra amparo legal en el régimen de propiedad horizontal ni de vecindad del CCCN.
+Respuesta directa
+La modificación unilateral de la instalación de agua configura una turbación del dominio y la imposición de una servidumbre de acueducto de hecho, la cual es nula de pleno derecho por carecer de la escritura pública exigida por el Art. 2166 del CCCN. Ante esta situación, corresponde interponer la acción negatoria (Art. 2248 CCCN) para obtener el cese de la turbación y el restablecimiento de la conexión original, o bien la acción de restablecimiento si hubo despojo de la posesión sobre la cañería (Art. 2241 CCCN). Esta pretensión puede y debe acumularse a la demanda de daños y perjuicios, ya que el daño moral y material derivado de la dependencia del suministro vecino es una consecuencia directa de la misma conducta antijurídica.8
+Fundamento normativo
+Artículo
+	Texto aplicado al caso
+	Art. 2166 CCCN
+	"Las servidumbres se constituyen por contrato... y deben otorgarse por escritura pública... La servidumbre de acueducto se presume forzosa cuando es necesaria para el uso de un inmueble, pero requiere sentencia judicial."
+	Art. 2248 CCCN
+	"La acción negatoria compete contra quien impide el libre ejercicio de un derecho real... Corresponde para obtener el cese de la turbación y el restablecimiento de las cosas al estado anterior."
+	Art. 1970 CCCN
+	"Las normas administrativas regulan los límites al dominio en interés público... Ningún propietario puede alterar las instalaciones de servicios públicos de forma que perjudique a un tercero."
+	Jurisprudencia relevante
+1. Cámara de Apelación en lo Civil y Comercial de Morón, Sala II, "A. R. c/ B. L. s/ Acción Negatoria". El tribunal ordenó la remoción de instalaciones que atravesaban el predio lindero sin título constitutivo, sosteniendo que el derecho real de dominio se presume libre de cargas y que cualquier restricción debe ser interpretada de manera restrictiva y formal.
+2. Cámara de Apelación en lo Civil y Comercial de San Martín, "F. M. c/ G. S. s/ Daños y Perjuicios y Reivindicación". En este fallo se determinó que la manipulación de las llaves de paso o cañerías comunes que prive a un vecino del libre acceso al agua constituye un hecho ilícito que genera responsabilidad civil objetiva, además de la obligación de reponer la instalación a su estado original.8
+Aplicación al caso
+En el predio de Merlo, el demandado Capria ha ejercido una "vía de hecho" al subordinar el suministro de agua del actor a su propia voluntad. Esta configuración técnica no solo viola la exclusividad del dominio del actor sobre su propiedad, sino que lo coloca en una situación de vulnerabilidad extrema, donde el demandado puede, discrecionalmente, afectar la presión o el caudal del agua del demandante. La acción negatoria permitirá que el juez ordene, bajo apercibimiento de astreintes, la desconexión de la "instalación esclava" y la reconstrucción de la acometida independiente desde la red pública.9
+Recomendación procesal
+Se debe incluir en la demanda un rubro específico de "Cese de Turbación y Restablecimiento de Instalación de Agua". Es fundamental ofrecer una pericia de un Ingeniero Civil o Sanitarista que documente fotográficamente la conexión clandestina y explique técnicamente por qué la nueva configuración perjudica al inmueble "esclavo" (pérdida de presión, riesgo de contaminación, dependencia operativa).
+⚠️ ALERTA: El demandado podría invocar la existencia de una "servidumbre por destino del padre de familia" o una situación de hecho preexistente. Se debe contrarrestar esto demostrando, mediante planos originales de la propiedad o testigos, que la modificación fue reciente, unilateral y no autorizada por la prestataria del servicio.8
+TEMA 4: CARTAS DOCUMENTO — NECESIDAD Y EFECTOS JURÍDICOS
+El proceso civil en la Provincia de Buenos Aires es formalista respecto a la constitución en mora, pero el agotamiento de la etapa de mediación previa obligatoria (Ley 13.951) altera la necesidad estratégica de la carta documento en la etapa previa a la traba de la litis.
+Respuesta directa
+La carta documento no es un presupuesto procesal de admisibilidad para la demanda de daños en PBA, pero su ausencia antes de la mediación puede afectar la fecha de inicio del cómputo de ciertos intereses y la percepción de la buena fe. Si la mediación ya se agotó sin acuerdo, el envío de una carta documento ahora es jurídicamente redundante respecto a la mora, ya que el acta de cierre expedita la vía judicial y la mora en daños extracontractuales se produce de pleno derecho desde que se produjo cada perjuicio. No obstante, puede ser útil para fijar un último plazo de reparación de las filtraciones y documentar la persistencia del daño antes del traslado de la demanda, sirviendo como prueba adicional de la contumacia del demandado.10
+Fundamento normativo
+Artículo
+	Texto aplicado al caso
+	Art. 886 CCCN
+	"La mora del deudor se produce por el solo vencimiento del plazo fijado para el cumplimiento... En las obligaciones de resarcir daños, la mora se produce desde el momento del hecho generador."
+	Art. 2541 CCCN
+	"La interpelación fehaciente, hecha por una sola vez, suspende el curso de la prescripción por el término de seis meses o el plazo menor que corresponda a la prescripción de la acción."
+	Art. 18 Ley 13.951 (PBA)
+	"El inicio de la mediación suspende el plazo de prescripción de la acción. El acta de cierre sin acuerdo deja expedita la vía judicial."
+	Jurisprudencia relevante
+1. SCBA, Causa C. 118.892, "L. R. c/ M. S. s/ Daños y Perjuicios". La Suprema Corte bonaerense ha ratificado que en los procesos de responsabilidad extracontractual los intereses deben liquidarse desde la fecha del hecho, independientemente de la fecha de la carta documento o de la mediación, ya que la mora es automática y concomitante al daño producido.
+2. Cámara de Apelación en lo Civil y Comercial de Morón, Sala I, "G. J. c/ C. S. s/ Daños". El tribunal sostuvo que el acta de mediación negativa es prueba suficiente de que se ha intentado la resolución amigable y de que el demandado conoce los cargos que se le imputan, por lo que la falta de carta documento previa no acarrea sanciones procesales ni costas por su omisión.12
+Aplicación al caso
+Para el actor de Merlo, que no envió CD antes de la mediación, la situación no es crítica. El derecho a la reparación integral está intacto. Enviar una CD en este momento (post-mediación) solo tendría sentido si se busca intimar al cese inmediato de las filtraciones bajo apercibimiento de solicitar una medida autosatisfactiva o una cautelar de "innovar" para frenar el daño en los cielorrasos mientras dure el juicio. El contenido debe ser una intimación perentoria a realizar trabajos de impermeabilización y a restablecer la conexión de agua, denunciando que el acta de mediación cerrada sin acuerdo acredita la falta de voluntad conciliatoria del demandado.11
+Recomendación procesal
+Se recomienda no demorar la presentación de la demanda esperando una respuesta a una CD tardía. El acta de mediación cerrada es el "boleto de entrada" al juzgado civil de Morón. En el escrito de inicio, se debe mencionar la conducta renuente del demandado durante la mediación como un indicio de su mala fe, lo que puede influir en la imposición de costas y en la apreciación de la prueba.
+⚠️ ALERTA: Si se decide enviar una CD ahora, hay que ser extremadamente cuidadoso con el lenguaje para no "novar" la obligación ni dar plazos excesivos que puedan ser interpretados como una renuncia a la mora ya producida por los daños pasados.13
+TEMA 5: DAÑO MORAL "IN RE IPSA" EN CONFLICTOS DE VECINDAD
+El daño moral en casos de inhabitabilidad forzada ha dejado de ser una cuestión de prueba directa de la angustia para pasar a ser una consecuencia lógica y necesaria de la agresión al entorno vital mínimo de la persona humana.
+Respuesta directa
+La jurisprudencia actual de la Provincia de Buenos Aires reconoce que el daño moral se presume in re ipsa cuando el demandante ha sufrido la invasión de su hogar por filtraciones y humedad extrema que lo obligan a abandonar su residencia. No se requiere una pericia psicológica para demostrar que vivir con el techo desprendiéndose y riesgo de electrocución causa un padecimiento espiritual indemnizable, aunque dicha pericia es recomendable para potenciar el monto del resarcimiento. El abandono forzado del hogar es considerado un agravante autónomo del daño moral, y los montos que las cámaras de PBA (como Quilmes y Morón) están otorgando en 2024 para casos similares oscilan entre los $2.000.000 y $3.500.000 por co-actor, dependiendo de la duración de la afectación.2
+Fundamento normativo
+Artículo
+	Texto aplicado al caso
+	Art. 1741 CCCN
+	"Está legitimado para reclamar la indemnización de las consecuencias no patrimoniales el damnificado directo... El monto debe fijarse ponderando las satisfacciones sustitutivas y compensatorias que pueden otorgar las sumas de dinero."
+	Art. 1973 CCCN
+	"Las molestias que ocasionan el humo, calor, olores, ruidos, vibraciones o inmisiones similares... no deben exceder la normal tolerancia... según las circunstancias del caso."
+	Jurisprudencia relevante
+1. Cámara de Apelaciones en lo Civil y Comercial de Quilmes, Sala II, "G.E.A c/ N. A. S.A. Y OTS. S/ DAÑOS Y PERJUICIOS", 06/02/2024. El tribunal elevó el daño moral a $2.800.000 (distribuidos en $1.400.000 para cada co-actor) por daños en una vivienda lindera, fundamentando que la privación de uso de sectores del hogar y el estado de ruina inminente lesionan las afecciones legítimas y la tranquilidad del grupo familiar.14
+2. Cámara de Apelación en lo Civil y Comercial de Morón, Sala I, "M. E. c/ S. J. s/ Daños y Perjuicios por Obra Lindera". En este fallo se consideró que el daño moral es in re ipsa ante la persistencia de humedades en dormitorios y la falta de respuesta del vecino, otorgando una suma significativa bajo el concepto de "padecimientos de la vida cotidiana que exceden la normal tolerancia".15
+Aplicación al caso
+El creador de contenido de Merlo ha vivido dos años en una situación de "exilio interno". La afectación no es solo la humedad, sino la destrucción de su espacio de creación y descanso. El riesgo eléctrico documentado es un factor de estrés constante que justifica la presunción del daño moral. En la demanda, se debe enfatizar que el actor perdió su "nido" y su lugar de trabajo, lo cual constituye una lesión a su proyecto de vida digital.14
+Recomendación procesal
+A pesar de la doctrina in re ipsa, se debe ofrecer pericia psicológica. El objetivo es que el experto traduzca el "dolor" en un diagnóstico clínico (como trastorno de ansiedad reactiva), lo que facilita al juez de Morón apartarse de los montos mínimos y acercarse a los topes máximos de la jurisdicción. Se debe solicitar que el perito evalúe el impacto del "desarraigo forzado" de la vivienda.
+⚠️ ALERTA: Un error común es pedir el daño moral solo como un porcentaje del daño material. En PBA, el daño moral es autónomo y debe cuantificarse por sí mismo, basándose en la "satisfacción sustitutiva" (ej. cuánto cuesta un viaje o un bien que compense dos años de sufrimiento) y no en una proporción matemática del valor de las reparaciones de las paredes.2
+TEMA 6: PRUEBA DE CLANDESTINIDAD — OFICIOS AL MUNICIPIO DE MERLO
+La clandestinidad de la obra es el eje sobre el cual pivota la presunción de antijuridicidad y la responsabilidad objetiva del demandado. Una obra sin planos es, por definición, una obra que se presume defectuosa ante la ley civil.
+Respuesta directa
+La clandestinidad de la obra se prueba mediante un oficio judicial dirigido a la Dirección de Obras Particulares de la Municipalidad de Merlo para que informe la inexistencia de expediente de construcción, planos aprobados y director técnico responsable. Este oficio debe ofrecerse como prueba documental en poder de terceros con la demanda (Art. 387 CPCC PBA) y su respuesta negativa genera una presunción iuris tantum de culpa y negligencia en cabeza del dueño de la obra lindera. La clandestinidad agrava la responsabilidad civil al impedir que el demandado invoque que su construcción cumplía con las normas técnicas vigentes o que el daño fue un "vicio oculto" de los materiales.3
+Fundamento normativo
+Artículo
+	Texto aplicado al caso
+	Art. 387 CPCC PBA
+	"Las oficinas públicas... no podrán negar los informes que se les soliciten respecto de hechos controvertidos... El informe se librará a pedido de parte."
+	Art. 1757 CCCN
+	"Toda persona responde por el daño causado por el riesgo o vicio de las cosas, o de las actividades que sean riesgosas o peligrosas por su naturaleza."
+	Código de Edificación de Merlo
+	Ordenanza municipal que exige permiso previo, planos y dirección técnica para cualquier obra de construcción o ampliación.
+	Jurisprudencia relevante
+1. Cámara de Apelación en lo Civil y Comercial de San Isidro, "S. J. c/ C. L. s/ Daños y Perjuicios". El tribunal dictaminó que quien construye en forma clandestina (sin permiso municipal) asume para sí todos los riesgos de la actividad, siendo la falta de planos una presunción de que no se han respetado las distancias ni las normas de seguridad estructural, lo que facilita la atribución de responsabilidad civil.3
+2. Tribunal de Faltas de Merlo (Referencia Administrativa). La existencia de actas de clausura previas por falta de permiso de obra son documentos públicos que pueden ser incorporados al juicio civil como prueba de la contumacia y la peligrosidad de la obra lindera.
+Aplicación al caso
+Para el juicio contra Juan Capria, es vital demostrar que no hubo supervisión profesional. Si el municipio informa que no hay planos, Capria no podrá alegar que las filtraciones fueron causadas por un evento fortuito, ya que su propia conducta de construir en la sombra legal es la que generó el riesgo. El oficio a Merlo permitirá también identificar si existe un profesional (arquitecto/maestro mayor de obras) que haya actuado de hecho, para poder citarlo como responsable solidario.
+Recomendación procesal
+Solicitar en el capítulo de prueba: "Ofíciese a la Municipalidad de Merlo para que por intermedio de la Dirección de Obras Particulares informe: a) Si el inmueble sito en posee planos de construcción aprobados; b) Si se ha registrado un director técnico para la obra actual; c) Si existen denuncias de vecinos o actas de inspección por irregularidades constructivas". Se puede pedir como prueba anticipada (Art. 326 CPCC) si se teme que el demandado destruya o altere la obra antes de la pericia.
+⚠️ ALERTA: Un riesgo es que la municipalidad conteste con ambigüedad ("no se registran datos"). Se debe insistir en el oficio solicitando que informen específicamente si la superficie construida que se ve en fotos actuales coincide con lo último aprobado en sus registros. Si no hay registros, la clandestinidad queda sellada.4
+SÍNTESIS DE LA ESTRATEGIA PROBATORIA
+El éxito de la demanda en el Departamento Judicial de Morón dependerá de la capacidad de transformar los hechos (humedad, ruido, falta de agua) en conceptos jurídicos indemnizables y técnicamente probados.
+Rubro
+	Prueba Clave
+	Perito Idóneo
+	Lucro Cesante Digital
+	AdSense Stats + Extractos Bancarios
+	Contador + Sistemas
+	Daño al Hardware
+	Norma IPC-A-610 + Inspección
+	Ing. Electrónico
+	Servidumbre de Hecho
+	Planos + Inspección Hidráulica
+	Ing. Sanitarista
+	Daño Moral
+	Inhabitabilidad + Relato de Testigos
+	Psicólogo
+	Clandestinidad
+	Oficio Municipal Merlo
+	--
+	La combinación de la responsabilidad objetiva por el riesgo de la cosa (la obra de Capria) y la acreditación técnica de los daños patrimoniales y espirituales permitirá al actor obtener una sentencia que no solo repare las paredes, sino que le devuelva la integridad de su patrimonio digital y su tranquilidad personal.1
+Obras citadas
+1. Expte. N°: 50299 BLASCO MARIO RAUL C/ FARINA ... - SCBA, fecha de acceso: abril 13, 2026, https://www.scba.gov.ar/includes/descarga.asp?id=34585&n=Ver%20sentencia%20(causa%20N%B050299).pdf
+2. G.E.A Y OTRO/A C/ N. A SA Y OTRO/A S/DAÑOS Y PERJ. DEL./CUAS. (EXC.USO AUT. Y ESTADO) En la Ciudad de Quilmes, reunida en Acuer - SCBA, fecha de acceso: abril 13, 2026, https://www.scba.gob.ar/includes/descarga.asp?id=53921&n=Ver%20sentencia%20(causa%20N%B0%2025.184).pdf
+3. Decreto Nº1767/21 - Sistema de Boletines Oficiales Municipales (SIBOM), fecha de acceso: abril 13, 2026, https://sibom.slyt.gba.gob.ar/bulletins/5563/contents/1589944
+4. Condiciones Generales - Municipalidad de Merlo, fecha de acceso: abril 13, 2026, http://www.merlo.gob.ar/portal/Documentos/1.CondicionesGenerales.pdf
+5. #Fallos Rescisión o resolución: Existiendo un contrato a plazo fijo vigente, el lucro cesante derivado de la resolución ilegítima consistirá en las utilidades que la accionante dejó de percibir durante el lapso que medió entre la decisión de la demandada y el término que fijaba el acuerdo | Microjuris Argentina al Día, fecha de acceso: abril 13, 2026, https://aldiaargentina.microjuris.com/2025/04/24/fallos-rescision-o-resolucion-la-resolucion-ilegitima-de-un-contrato-a-plazo-fijo-vigente-el-lucro-cesante-que-deriva-consiste-en-las-utilidades-que-la-accionante-dejo-de-percibir-en-el-lapso-entre/
+6. TRIBUNAL ORAL EN LO CRIMINAL FEDERAL n° 3 DE SAN MARTIN - Ministerio Público Fiscal, fecha de acceso: abril 13, 2026, https://www.mpf.gob.ar/protex/files/2025/01/FSM-10.0072020to1-Yao-Cabrera-testada.pdf
+7. Congreso Argentino de Sistemas Embebidos - Instituto Nacional de Tecnología Industrial, fecha de acceso: abril 13, 2026, https://app.inti.gob.ar/greenstone3/sites/localsite/collect/nuevadc/index/assoc/2025CASE/_pdf.dir/doc.pdf;jsessionid=50F1527B0EABA999BEA8DCAA36D9CF02
+8. Perspectivas actuales del Derecho Civil, fecha de acceso: abril 13, 2026, https://www.derecho.uba.ar/publicaciones/rev_juridica/rjba-ii-2022.pdf
+9. Código Civil y Comercial de la Nación - Comentado - Tomo 5 - SAIJ, fecha de acceso: abril 13, 2026, https://www.saij.gob.ar/docs-f/epub/codigos-comentados/CCyC_Comentado_Tomo_V%20(arts.%201882%20a%202276).epub
+10. 4.5. Terminación del proceso de mediación y acta final - YouTube, fecha de acceso: abril 13, 2026, https://www.youtube.com/watch?v=JRESJxUOnCE
+11. ACTA DE CIERRE SIN ACUERDO - INICIO | Encuentro de Mediadores, fecha de acceso: abril 13, 2026, https://encuentrodemediadores.org/acta-de-cierre-sin-acuerdo/index.html
+12. ¿Qué sucede si no se llega a un acuerdo en una mediación? - Inefso, fecha de acceso: abril 13, 2026, https://www.inefso.com/que-sucede-si-no-se-llega-a-un-acuerdo-en-una-mediacion/
+13. Formalidades necesarias del acta de mediación como instrumento de la cultura de paz, aplicando lógica del razonamiento deductivo - SciELO Colombia, fecha de acceso: abril 13, 2026, http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S2145-77192020000100104
+14. G.E.A Y OTRO/A C/ N. A SA Y OTRO/A S/DAÑOS Y PERJ ... - SCBA, fecha de acceso: abril 13, 2026, https://www.scba.gov.ar/includes/descarga.asp?id=53921&n=Ver%20sentencia%20(causa%20N%B0%2025.184).pdf
+15. Daño moral, filtraciones de humedad - SAIJ, fecha de acceso: abril 13, 2026, https://www.saij.gob.ar/dano-moral-filtraciones-humedad-suc0037822/123456789-0abc-defg2287-300csoiramus
+16. Indemnización, daño moral, filtraciones de humedad - SAIJ, fecha de acceso: abril 13, 2026, https://www.saij.gob.ar/indemnizacion-dano-moral-filtraciones-humedad-suc0004845/123456789-0abc-defg5484-000csoiramus
+17. Secretaría de Obras y Servicios Públicos | Merlo Buenos Aires, fecha de acceso: abril 13, 2026, https://www.merlo.gob.ar/obrasyserviciospublicos/

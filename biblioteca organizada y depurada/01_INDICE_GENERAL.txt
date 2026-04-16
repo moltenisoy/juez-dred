@@ -1,0 +1,303 @@
+================================================================================
+                    BIBLIOTECA ORGANIZADA Y DEPURADA
+            CASO: DAÑOS POR OBRA LINDERA — PARTIDO DE MERLO
+                   PROVINCIA DE BUENOS AIRES, ARGENTINA
+================================================================================
+
+DESCRIPCIÓN GENERAL
+Este repositorio contiene la totalidad de la documentación jurídica, técnica,
+probatoria y personal relativa al caso de daños y perjuicios causados por una
+obra de ampliación edilicia clandestina ejecutada en un inmueble lindero en el
+Partido de Merlo, Provincia de Buenos Aires.
+
+La información ha sido organizada temáticamente, eliminando únicamente el
+contenido que se encontraba duplicado de manera idéntica (misma información,
+mismo texto). No se eliminó contenido por el solo hecho de tratar temas
+similares desde ángulos, fuentes o niveles de detalle diferentes.
+
+DUPLICADOS ELIMINADOS:
+- "Demanda y Denuncia Daño Temido 2.txt": contenido idéntico a la versión 1,
+  con la única diferencia del formato de líneas (saltos de línea). Se conserva
+  una única versión en el archivo 04.
+
+CRITERIO DE ORGANIZACIÓN:
+Los archivos están numerados (01 a 29) y agrupados por categoría temática:
+- 01-03: Índice, relato personal y carta al intendente
+- 04-05: Modelos y estructura de demanda
+- 06-10: Documentación jurídica unificada, análisis y resúmenes
+- 11-15: Informes jurídicos especializados y padecimientos
+- 16-17: Justificación del reclamo y argumentación defensiva
+- 18-19: Estrategia probatoria e investigación especializada
+- 20-24: Normativa técnica específica (humedad, desagüe, riesgos, CIRSOC)
+- 25-26: Permisos requeridos y celeridad procesal
+- 27-29: Informes de revisión y documentación complementaria
+
+================================================================================
+                         ÍNDICE DE ARCHIVOS
+================================================================================
+
+01_INDICE_GENERAL.txt
+   → Este archivo. Índice y guía de la biblioteca.
+
+02_RELATO_DE_HECHOS_INVENTARIO_Y_NOTAS.txt
+   → Compilación de documentos personales del damnificado:
+     Sección A: Presentación del caso, riesgos principales (llave eléctrica
+     mojada, tanque sobre losa flotante) y pasos pendientes.
+     Sección B: Inventario detallado de daños por sector (techo, baño,
+     pasillo, hall, lavadero) con descripción de cada daño y evidencia.
+     Sección C: Notas personales sobre argumentos, evidencia disponible,
+     negociación con la contraparte y estrategia personal.
+   FUENTES ORIGINALES: CASO JUAN.txt, INFORME ABOGADO.txt, MAMAAAAAAAAAA.txt
+
+03_CARTA_AL_INTENDENTE_MENENDEZ.txt
+   → Carta dirigida al Intendente Gustavo Menéndez solicitando certificación
+     municipal de la irregularidad de la edificación del vecino Juan Capria.
+     Incluye descripción breve del caso y documentación adjunta.
+   FUENTE ORIGINAL: menendez.txt
+
+04_MODELO_DE_DEMANDA_PRINCIPAL.txt
+   → Modelo completo de demanda judicial por daños y perjuicios, denuncia de
+     daño temido (interdicto de obra ruinosa) y solicitud de tutela anticipada
+     con celeridad procesal contra Juan Capria. Incluye: encabezado, objeto,
+     cuestiones previas, hechos, fundamentación jurídica exhaustiva, prueba
+     ofrecida y petitorio.
+   FUENTE ORIGINAL: Demanda y Denuncia Daño Temido.txt
+   DUPLICADO ELIMINADO: Demanda y Denuncia Daño Temido 2.txt (mismo contenido)
+
+05_ESQUEMA_Y_ESTRUCTURA_DE_DEMANDA.txt
+   → Esquema/modelo alternativo de demanda con estructura formal detallada
+     según Art. 313 CPCC PBA. Incluye: marco normativo, vía procesal,
+     estructura del escrito, medidas cautelares, responsables a demandar,
+     actualización de montos y consideraciones prácticas.
+   FUENTE ORIGINAL: modelo presentacion.txt
+
+06_DOCUMENTACION_JURIDICA_UNIFICADA_COMPLETA.txt
+   → Compilación jurídico-técnica más extensa (79 KB). Sistematiza normativa
+     desde nivel constitucional hasta municipal. Incluye: marco constitucional
+     (CN y Const. PBA), CCyC completo, normativa procesal (CPCCBA), derecho
+     penal, normativa municipal de Merlo, ordenanzas, código de edificación,
+     reglamentos CIRSOC, seguridad laboral y estrategia probatoria.
+   FUENTE ORIGINAL: DOCUMENTACION_UNIFICADA_OBRA_LINDERA_MERLO.txt
+
+07_DOCUMENTO_JURIDICO_UNIFICADO_INCUMPLIMIENTOS.txt
+   → Documento jurídico unificado con enfoque específico en los incumplimientos
+     del demandado. Detalla cada obligación no cumplida (permisos, planos,
+     seguridad) y las consecuencias jurídicas. Protocolo "JUEZITO-EL-ROBOTITO"
+     con tres perspectivas jurídicas independientes.
+   FUENTE ORIGINAL: Documento_Juridico_Unificado_Merlo (1).txt
+
+08_ANALISIS_JURIDICO_COMPLETO_OBRA_CLANDESTINA.txt
+   → Análisis jurídico integral con protocolo "Juez-Pipo" (tres perspectivas).
+     Incluye: dónde presentar la demanda (Morón vs Merlo), encuadre general,
+     normativa detallada por niveles, jurisprudencia y estrategia.
+   FUENTE ORIGINAL: ANALISIS_JURIDICO_COMPLETO_OBRA_CLANDESTINA_MERLO.txt
+
+09_CUADRO_DE_SITUACION_JURIDICO_PROBATORIA.txt
+   → Cuadro de situación con énfasis en el estado probatorio del caso.
+     Enfocado en qué se tiene, qué falta y cómo acreditar cada rubro.
+   FUENTE ORIGINAL: cuadro de situacion y marco.txt
+
+10_RESUMEN_EJECUTIVO.txt
+   → Versión condensada del caso para presentación rápida. Resume hechos,
+     normativa, rubros indemnizables y acciones a seguir.
+   FUENTE ORIGINAL: Resumen_Ejecutivo_Obra_Lindera_Merlo.txt
+
+11_INFORME_JURIDICO_ACREDITACION_DE_DANOS.txt
+   → Informe jurídico exhaustivo sobre acreditación de daños. Detalla cada
+     rubro indemnizable, medios probatorios, requisitos del CPCCBA,
+     constitución y tratados internacionales. Incluye secciones sobre
+     etapa prejudicial, prueba pericial y daño moral.
+   FUENTE ORIGINAL: juicio.txt
+
+12_RESPONSABILIDAD_CIVIL_Y_REGIMEN_PROBATORIO.txt
+   → Marco jurídico y jurisprudencial sobre responsabilidad por riesgo
+     edilicio y deficiencias en instalaciones en PBA. Incluye: responsabilidad
+     objetiva (Art. 1757), acción preventiva, estrago culposo, sujetos
+     responsables y régimen probatorio detallado.
+   FUENTE ORIGINAL: Riesgos Edilicios y Eléctricos_ Responsabilidad Legal.txt
+
+13_ANALISIS_JURIDICO_INTEGRAL_DANOS_PERSONALES.txt
+   → Análisis jurídico integral enfocado en daños personales, emocionales y
+     costos de mudanza. Cubre: responsabilidad por actividad riesgosa, daño
+     resarcible, prevención, nexo causal, reparación plena, normativa
+     constitucional, código penal, jurisprudencia y próximos pasos.
+   FUENTE ORIGINAL: juicio daños personales emocionales mudanza claude.txt
+
+14_MARCO_LEGAL_DANOS_OBRA_VECINA.txt
+   → Régimen de responsabilidad civil y penal por daños derivados de obras
+     en construcción en PBA. Incluye: función preventiva, responsabilidad
+     objetiva, acción preventiva, mitigación del daño, y estrategias de
+     acreditación probatoria con jurisprudencia reciente.
+   FUENTE ORIGINAL: DAÑOS POR OBRA VECINA MARCO LEGAL.txt
+
+15_PADECIMIENTOS_Y_DANO_MORAL.txt
+   → Enumeración y análisis jurídico de cada padecimiento específico sufrido:
+     1) Humedad mayor a 70%, 2) Riesgo eléctrico, 3) Indumentaria dañada,
+     4) Riesgo de caída de fragmentos, 5) Degradación de cama/calefacción,
+     6) Impedimento social, 7) Daño psicológico, 8) Abandono forzoso.
+     Con normativa y jurisprudencia aplicable a cada uno.
+   FUENTE ORIGINAL: PADECIMIENTOS.txt
+
+16_JUSTIFICACION_Y_VALIDACION_DEL_RECLAMO.txt
+   → Documento extenso de justificación, validación y acreditación del reclamo.
+     Incluye: cuadro fáctico, marco normativo integral, infracciones,
+     nexo causal, responsabilidad objetiva, cuantificación, argumentos
+     de validación, respuesta a defensas posibles, vías procesales y petitorio.
+   FUENTE ORIGINAL: JUSTIFICACION_RECLAMO_DAÑOS_EXPANSION_VECINAL.txt
+
+17_ARGUMENTACION_CONTRA_DEFENSAS_DEL_DEMANDADO.txt
+   → Argumentación jurídica específica para desarticular la defensa del
+     demandado basada en que "el inmueble ya era viejo". Desarticula en
+     dimensión fáctica (es falsa/no probada) y jurídica (es irrelevante
+     y contraproducente). Con normativa CCyC, jurisprudencia y doctrina.
+   FUENTE ORIGINAL: RESPUESTA ANTE LA JUSTIFICACION EN QUE EL INMUEBLE
+   YA ERA VIEJO O NO ESTABA EN BUENAS CONDICIONES.txt
+
+18_ESTRATEGIA_PROBATORIA_POST_MEDIACION.txt
+   → Guía de estrategia probatoria posterior a la mediación. Detalla
+     qué pruebas ofrecer, cómo producirlas y su valor en el expediente.
+   FUENTE ORIGINAL: Prueba de Daños por Obra Vecina (1).txt
+
+19_INVESTIGACION_JURIDICA_LUCRO_CESANTE_HARDWARE_AGUA.txt
+   → Investigación jurídica especializada en tres temas complejos:
+     Tema 1: Lucro cesante por pérdida de ingresos digitales (YouTube/AdSense)
+     Tema 2: Daño a equipos electrónicos (prueba pericial técnica, IPC-A-610)
+     Tema 3: Servidumbre de agua (modificación unilateral, acción negatoria)
+     Con jurisprudencia de cámaras de PBA y recomendaciones procesales.
+   FUENTE ORIGINAL: Investigación Jurídica_ Daños por Obra Vecina.txt
+
+20_DANOS_POR_HUMEDAD_A_BIENES_Y_EQUIPOS_ELECTRONICOS.txt
+   → Análisis técnico-jurídico sobre reparación plena de bienes tecnológicos
+     y muebles por degradación higroscópica. Incluye: principio de reparación
+     plena (Art. 1740), fiabilidad electrónica, norma IPC-A-610, estándares
+     de conservación de hardware y régimen probatorio en PBA.
+   FUENTE ORIGINAL: HUMEDAD.txt
+
+21_REGIMEN_DESAGUE_Y_AGUAS_PLUVIALES.txt
+   → Análisis integral del régimen jurídico de desagües pluviales,
+     servidumbres de drenaje y responsabilidad por obras de remodelación
+     en el Partido de Merlo. Incluye: ilegalidad del desagüe en caída libre,
+     requerimientos técnicos, modificación de sistemas compartidos,
+     sanciones municipales y responsabilidad civil.
+   FUENTE ORIGINAL: DESAGUE.txt
+
+22_REGIMEN_PROBATORIO_DANOS_EDILICIOS.txt
+   → Tratamiento técnico-jurídico de la responsabilidad civil y el régimen
+     probatorio por daños derivados de obras linderas en PBA. Incluye:
+     régimen de responsabilidad en el CCCN, principio de prevención,
+     acreditación judicial y requisitos de los tribunales bonaerenses.
+   FUENTE ORIGINAL: RECLAMO POR DAÑOS EN PROPIEDAD.txt
+
+23_NORMATIVA_CONSTRUCCION_INMUEBLES_LINDEROS.txt
+   → Régimen jurídico y técnico para la intervención en inmuebles linderos.
+     Incluye: CCyC (medianería, clasificación de muros, derechos de carga),
+     relaciones de vecindad, reglamentos CIRSOC 101 y 201 (cargas y
+     sobrecargas), y restricciones al dominio.
+   FUENTE ORIGINAL: Normativa Construcción Inmuebles Linderos Argentina.txt
+
+24_NORMATIVA_TECNICA_CARGAS_ESTRUCTURALES_CIRSOC.txt
+   → Análisis técnico-regulatorio para instalación de cargas pesadas
+     (mayor o igual a 750 kg) sobre estructuras de losa. Incluye: CIRSOC 101
+     (cargas y sobrecargas), CIRSOC 201 (hormigón armado), normativa SRT,
+     requisitos municipales y procedimientos de verificación estructural.
+   FUENTE ORIGINAL: técnico-regulatorio CARGAS.txt
+
+25_PERMISOS_Y_DOCUMENTACION_REQUERIDA_OBRA.txt
+   → Compilación de TRES fuentes independientes sobre permisos y documentación
+     requerida para la obra:
+     Sección A: Permisos municipales, provinciales y documentación civil
+     Sección B: Documentación técnica, profesional y de seguridad
+     Sección C: Permisos, seguridad e higiene con detalle normativo
+     Todas las secciones aportan detalles complementarios.
+   FUENTES ORIGINALES: claude requisitos.txt, kimi requisitos de obra.txt,
+   Permisos y Seguridad Obra Merlo.txt
+
+26_CELERIDAD_PROCESAL_Y_TUTELA_ANTICIPADA.txt
+   → Fundamentos de la tutela judicial diferenciada y la celeridad procesal
+     en la jurisprudencia de PBA. Incluye: tutela judicial efectiva (Art. 15
+     Const. PBA), plazo razonable (CADH), adaptabilidad de formas,
+     vulnerabilidad, tutela anticipada y medidas autosatisfactivas.
+   FUENTE ORIGINAL: Celeridad Procesal en Provincia de Buenos Aires.txt
+
+27_INFORME_DE_REVISION_VACIOS_Y_OMISIONES.txt
+   → Compilación de DOS informes de revisión exhaustiva:
+     Sección A: Revisión línea por línea desde enfoque jurídico-procesal
+     (elementos faltantes, inconsistencias, artículos omitidos).
+     Sección B: Revisión doble desde enfoque de completitud y coherencia
+     técnica (vacíos normativos, recomendaciones de mejora).
+   FUENTES ORIGINALES: INFORME_REVISION_EXHAUSTIVA.txt,
+   INFORME_REVISION_EXHAUSTIVA_DOBLE.txt
+
+28_NORMATIVA_DAÑOS_EDILICIOS_HABITABILIDAD.txt
+   → Informe técnico-jurídico sobre responsabilidad por daños edilicios,
+     habitabilidad y afectación a la vida de relación en Merlo. Incluye
+     transcripción del documento de padecimientos y su análisis legal,
+     aplicación del código de edificación de Merlo y jurisprudencia SCBA.
+   FUENTE ORIGINAL: RECLAMO JUDICIAL NORMATIVA.txt
+
+29_DOCUMENTACION_JURIDICA_DANOS_COMPLEMENTARIA.txt
+   → Versión complementaria de la documentación jurídico-técnica unificada.
+     Comparte base temática con el archivo 06 pero con diferente estructura
+     y menor extensión. Aporta formulaciones alternativas de algunos
+     conceptos jurídicos. Se conserva para no perder ninguna formulación.
+   FUENTE ORIGINAL: DOCUMENTACION_JURIDICA_DAÑOS_OBRA_LINDERA_MERLO.txt
+
+================================================================================
+                    MAPA DE ARCHIVOS ORIGINALES → DESTINO
+================================================================================
+
+RAÍZ DEL REPOSITORIO:
+  ANALISIS_JURIDICO_COMPLETO_OBRA_CLANDESTINA_MERLO.txt → 08
+  cuadro de situacion y marco.txt → 09
+  DESAGUE.txt → 21
+  DOCUMENTACION_JURIDICA_DAÑOS_OBRA_LINDERA_MERLO.txt → 29
+  DOCUMENTACION_UNIFICADA_OBRA_LINDERA_MERLO.txt → 06
+  Documento_Juridico_Unificado_Merlo (1).txt → 07
+  INFORME_REVISION_EXHAUSTIVA.txt → 27 (Sección A)
+  INFORME_REVISION_EXHAUSTIVA_DOBLE.txt → 27 (Sección B)
+  Investigación Jurídica_ Daños por Obra Vecina.txt → 19
+  juicio.txt → 11
+  JUSTIFICACION_RECLAMO_DAÑOS_EXPANSION_VECINAL.txt → 16
+  PADECIMIENTOS.txt → 15
+  Prueba de Daños por Obra Vecina (1).txt → 18
+  RESPUESTA ANTE LA JUSTIFICACION... → 17
+  Resumen_Ejecutivo_Obra_Lindera_Merlo.txt → 10
+
+CARPETA VARIOS/:
+  CASO JUAN.txt → 02 (Sección A)
+  Celeridad Procesal en Provincia de Buenos Aires.txt → 26
+  claude requisitos.txt → 25 (Sección A)
+  DAÑOS POR OBRA VECINA MARCO LEGAL.txt → 14
+  Demanda y Denuncia Daño Temido.txt → 04
+  Demanda y Denuncia Daño Temido 2.txt → ELIMINADO (duplicado exacto de 04)
+  HUMEDAD.txt → 20
+  INFORME ABOGADO.txt → 02 (Sección B)
+  juicio daños personales emocionales mudanza claude.txt → 13
+  kimi requisitos de obra.txt → 25 (Sección B)
+  MAMAAAAAAAAAA.txt → 02 (Sección C)
+  menendez.txt → 03
+  modelo presentacion.txt → 05
+  Normativa Construcción Inmuebles Linderos Argentina.txt → 23
+  Permisos y Seguridad Obra Merlo.txt → 25 (Sección C)
+  RECLAMO JUDICIAL NORMATIVA.txt → 28
+  RECLAMO POR DAÑOS EN PROPIEDAD.txt → 22
+  Riesgos Edilicios y Eléctricos_ Responsabilidad Legal.txt → 12
+  técnico-regulatorio CARGAS.txt → 24
+
+================================================================================
+               VERIFICACIÓN DE COMPLETITUD — NINGÚN ARCHIVO PERDIDO
+================================================================================
+
+Total de archivos originales en el repositorio: 34
+  - Archivos en raíz: 15
+  - Archivos en carpeta varios/: 19
+
+Archivos en la biblioteca organizada: 29
+  - 1 archivo eliminado por duplicado exacto (Demanda v2)
+  - 4 archivos combinados en compilaciones (3 en archivo 02, 3 en archivo 25,
+    2 en archivo 27 = 8 fuentes en 3 destinos, ganancia neta: 5 archivos)
+
+TODA LA INFORMACIÓN ORIGINAL HA SIDO PRESERVADA.
+SOLO SE ELIMINÓ EL CONTENIDO VERIFICADAMENTE IDÉNTICO.
+
+================================================================================

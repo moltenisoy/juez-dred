@@ -1,0 +1,73 @@
+1. Marco Normativo y Vía Procesal Aplicable
+Base de responsabilidad: La construcción constituye una actividad riesgosa. Aplica la responsabilidad objetiva del art. 1757 del Código Civil y Comercial (análogo al antiguo art. 1113 CC), extendida al dueño de la obra, constructora, arquitecto/director de obra y fiduciario si existiere . No es necesario probar culpa; basta acreditar el nexo causal entre la obra y los daños.
+Vía procesal recomendada: Juicio ordinario de daños y perjuicios (Proceso Ordinario – Libro II, Título II del CPCC PBA).
+Requisito previo indispensable: En PBA rige la mediación prejudicial obligatoria (Ley 13.951). Deberás acreditar al inicio del juicio el acta de cierre sin acuerdo emitida por un mediador matriculado .
+Medidas cautelares previas (urgentes): Dado el riesgo de irreparabilidad, se recomienda solicitar simultáneamente con la demanda (o incluso previa a ella bajo caución):
+Prohibición de innovar (art. 191 y siguientes CPCC PBA): para detener la construcción mientras se pericia.
+Embargo en construcción: afectación de los fondos o materiales de la obra.
+2. Estructura Formal del Escrito Inicial (Art. 313 CPCC PBA)
+Según el artículo 313 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires, la demanda debe contener :
+Nombre, domicilio real y especial del demandante (constituir domicilio legal dentro del radio del juzgado).
+Nombre y domicilio del demandado (propietario de la obra, constructora, director de obra, etc.).
+Designación precisa de lo demandado (indemnización integral por daños materiales y extrapatrimoniales).
+Hechos explicados claramente (cronología de la construcción irregular, daños sufridos, riesgos actuales).
+Derecho expuesto sucintamente (fundamentación jurídica).
+Petición en términos claros y precisos (condena específica).
+Valor de la causa (debe precisarse o justificar su estimación si no es posible determinarlo exactamente).
+Acreditación de mediación previa (acta de cierre sin acuerdo).
+3. Esquema/Modelo de Demanda (Estructura Sugerida)
+A continuación presento el esquema que deberá completar tu abogado:
+I. ENCABEZADO
+Juzgado Civil y Comercial N° [ ] del Departamento Judicial [ ]
+Carátula: [Tu nombre] c/ [Nombre del propietario vecino y constructora] s/ DAÑOS Y PERJUICIOS (Ordinario)
+Valor de la causa: $ [estimar conforme peritaje o dejar a su determinación judicial fundando la imposibilidad actual de precisar].
+II. CUESTIÓN PREVIA – MEDIACIÓN
+"Que el presente asunto ha sido llevado a la instancia de mediación prejudicial obligatoria ante el Mediador Matriculado Dr. [ ], resultando infructuosa la misma conforme Acta de Cierre sin Acuerdo de fecha [ ], que se acompaña a fs. [ ]."
+III. EXPOSICIÓN DE HECHOS
+(Narración cronológica y pormenorizada que incluya):
+Ubicación y características de tu inmueble.
+Datos de la construcción irregular lindera (falta de permisos, desvíos de límites, excavaciones, etc.).
+Daños materiales directos: grietas, humedades, filtraciones, roturas estructurales, afectación de cimientos (acreditar con peritaje previo de arquitecto/ingeniero).
+Daños materiales indirectos: depreciación del valor del inmueble, costos de reubicación temporal si fuere necesario.
+Bienes muebles y herramientas de trabajo dañadas (indirectamente por vibraciones, polvo, humedad): detallar inventario y valor.
+Daño emocional/psicológico: cuadros de ansiedad, estrés, insomnio derivados de la exposición constante al riesgo y la incertidumbre (sustentar con peritaje psicológico/psiquiátrico).
+Daño a la salud: afecciones respiratorias por polvo, ruido excesivo, exposición a sustancias tóxicas (amianto, etc.), acreditado con historia clínica y peritaje médico.
+Riesgo activo a la integridad física: inestabilidad estructural, caída de elementos, excavaciones que comprometen la seguridad del inmueble habitado.
+Condiciones insalubres: falta de ventilación, humedad permanente, proliferación de hongos, obligando a vivir en condiciones degradadas.
+Daño laboral: imposibilidad de ejercer actividad profesional en el domicilio (si corresponde), pérdida de ingresos.
+IV. FUNDAMENTACIÓN JURÍDICA
+Arts. 1757, 1740 y siguientes CCyC (responsabilidad objetiva por riesgo de la cosa y daños).
+Arts. 2618, 2619 CCyC (límites al dominio, prohibición de causar daños al vecino).
+Arts. 313, 315 CPCC PBA (forma de la demanda y agregación de prueba).
+Jurisprudencia: CSJN "Lacasa" y Cámara Civil Quilmes (2024) sobre responsabilidad solidaria de constructores y propietarios .
+V. PRUEBA OFRECIDA (Art. 315 CPCC PBA)
+Documental: escritura de propiedad, fotografías fechadas, videos, denuncias municipales, cartas documento previas, presupuestos de reparación.
+Pericial:
+Perito arquitecto/ingeniero civil (daños estructurales, nexo causal, costo de reparación).
+Perito médico (daños a la salud).
+Perito psicólogo/psiquiatra (daño psicológico/emocional).
+Perito tasador (depreciación del inmueble).
+Testifical: testigos presenciales de los hechos y el estado previo del inmueble.
+VI. PETITORIO (claro y preciso)
+Condénese a los demandados a abonar:
+Daño Material:
+Costo de reparación del inmueble (reintegración al estado anterior).
+Valor de reposición de bienes muebles y herramientas de trabajo dañadas.
+Depreciación del valor del inmueble (si corresponde).
+Daño Emergente: gastos extraordinarios incurridos (alquiler temporal, mudanza, tratamientos médicos).
+Lucro Cesante: pérdida de ingresos laborales derivados de la situación.
+Daño Moral (Emocional/Psicológico): suma compensatoria por el sufrimiento psíquico, menoscabo en la calidad de vida, privación del disfrute normal del hogar .
+Daño a la Salud: indemnización por incapacidad temporaria o permanente (si fuere el caso).
+Medidas de No Innovar: se solicita prohibición de continuar obras hasta sentencia definitiva.
+Costas e intereses: desde el evento dañoso o la notificación de la demanda según corresponda.
+4. Consideraciones Prácticas Importantes
+Peritaje previo: Antes de iniciar la demanda, es crucial realizar un peritaje extrajudicial de arquitecto/ingeniero que acredite fehacientemente el nexo causal entre la obra y los daños. La jurisprudencia provincial reciente admite el "daño moral derivado" cuando existe afección a la vivienda familiar .
+Responsables: Demandar solidariamente a:
+Propietario del inmueble lindero.
+Constructora/empresa constructora.
+Arquitecto/Director de obra (responsable por la guarda intelectual de la obra).
+Fiduciario (si la obra está en fideicomiso).
+Actualización de montos: La Cámara de Apelaciones de Trenque Lauquen (2024) ha confirmado la aplicación de la fórmula de actualización "caso Barrios" (SCBA) para daños, fijando montos a valores actuales al momento de la sentencia .
+Prescripción: La acción de daños prescribe en 3 años desde el evento dañoso (art. 2572 CCyC).
+Nota crucial: Dada la complejidad de acreditar daños psicológicos, laborales y de salud indirectos, es indispensable el patrocinio de un abogado litigante que cuide los plazos procesales, la correcta citación de todos los responsables y la producción de la prueba pericial .
+Este esquema debe ser adaptado a tu caso concreto por un profesional matriculado, quien determinará si corresponde también vías alternativas como acción de amparo ambiental (si hay amenaza inminente e irreparable) ante el fuero contencioso administrativo, o la denuncia en la municipalidad para la clausura de la obra irregular.
