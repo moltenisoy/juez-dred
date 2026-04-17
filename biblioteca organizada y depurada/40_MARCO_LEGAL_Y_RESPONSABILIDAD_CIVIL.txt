@@ -1,0 +1,561 @@
+================================================================================
+ARCHIVO 40 — MARCO LEGAL Y RESPONSABILIDAD CIVIL
+CASO: DAÑOS POR OBRA CLANDESTINA LINDERA — MERLO, PBA
+DEPARTAMENTO JUDICIAL: MORÓN — PROVINCIA DE BUENOS AIRES
+ELABORADO: ABRIL 2026 — SISTEMA JUEZ-DRED
+================================================================================
+
+⚠️ ADVERTENCIA: Este documento es orientación jurídica general. NO reemplaza
+el criterio de un abogado matriculado. Toda cita debe verificarse en fuente
+original antes de incorporarse a escrito judicial.
+
+================================================================================
+SECCIÓN 1 — NORMATIVA DE FONDO APLICABLE
+================================================================================
+
+1.1 CÓDIGO CIVIL Y COMERCIAL DE LA NACIÓN (Ley 26.994)
+
+RESPONSABILIDAD CIVIL — FUNCIÓN PREVENTIVA Y RESARCITORIA:
+— Art. 1710: Deber de prevención del daño.
+— Art. 1711-1713: Acción preventiva autónoma.
+— Art. 1716: Deber genérico de no dañar (neminem laedere). Base constitucional
+  y civil de toda acción de daños.
+— Art. 1729: Hecho del damnificado como eximente.
+— Art. 1730: Caso fortuito. Fuerza mayor.
+— Art. 1731: Hecho de un tercero.
+— Art. 1735: Cargas probatorias dinámicas. La carga de la prueba recae sobre
+  quien está en mejor condición técnica de probar. Si el demandante prueba la
+  humedad extrema y el demandado tiene acceso a los medios para demostrar que
+  sus instalaciones no eran la causa, su silencio u omisión juega a favor
+  del damnificado.
+— Art. 1737: Concepto de daño.
+— Art. 1738: Indemnización. Comprende daño emergente, lucro cesante, pérdida
+  de chance, integridad psicofísica, afecciones espirituales legítimas,
+  proyecto de vida.
+— Art. 1739: Requisitos del daño resarcible: certeza, personalidad, subsistencia.
+— Art. 1740: Reparación plena (restitución al estado anterior).
+— Art. 1741: Indemnización de consecuencias no patrimoniales (daño moral).
+  Legitimado: el damnificado directo. Si hay muerte: ascendientes, descendientes,
+  cónyuge y convivientes.
+— Art. 1744: Prueba del daño. Admite que el daño surja notorio de los hechos
+  (ejemplo: oxidación visible en ambientes con >70% de humedad).
+— Art. 1748: Curso de los intereses. Se devengan desde que se produce cada
+  perjuicio (NO desde la demanda).
+— Art. 1749: Responsabilidad subjetiva del agente.
+— Art. 1751: Responsabilidad solidaria por daños causados por pluralidad de autores.
+— Art. 1753: Responsabilidad del principal por el hecho del dependiente.
+— Art. 1757: Actividad riesgosa o peligrosa. Quien realiza actividad riesgosa
+  responde por el daño causado. NO es eximente la autorización administrativa
+  ni el cumplimiento de técnicas de prevención. La construcción de obras es
+  jurisprudencialmente reconocida como actividad riesgosa.
+— Art. 1758: Responsabilidad objetiva. El dueño y el guardián de la cosa
+  riesgosa responden objetiva e indistintamente. Se considera guardián quien
+  ejerce dirección y control de la cosa u obtiene provecho.
+— Art. 1764 a 1766: Responsabilidad del Estado (remisión a ley especial).
+— Art. 1768: Responsabilidad del profesional liberal.
+— Art. 1973: Inmisiones entre fundos vecinos. Las molestias producidas por
+  actividades en inmuebles vecinos (vibraciones, ruidos, humedades) no deben
+  exceder la normal tolerancia. El juez puede disponer indemnización, cese
+  de la causa y remoción.
+
+RELACIONES DE VECINDAD Y MEDIANERÍA:
+— Art. 1970/1971: Límites al dominio — normas administrativas.
+— Arts. 2007 y ss.: Medianería y distancias medianeras.
+— Arts. 2009 y ss.: Régimen de medianería. Si la planta alta supera la altura
+  de las medianeras existentes, deben elevarse a cargo del que construye.
+— Art. 2014: Medianería — costo de construcción del muro.
+— Arts. 2620/2621 CC (Vélez — aplicable a hechos anteriores a agosto 2015):
+  Prohibición de realizar construcciones cercanas a pared divisoria sin guardar
+  distancias reglamentarias y sin perjudicar inmuebles vecinos.
+
+PROTECCIÓN DE VIVIENDA:
+— Art. 244: Afectación al régimen de protección de vivienda.
+— Art. 245: Legitimados para solicitar la afectación.
+— Art. 249: Efectos. El inmueble afectado NO es susceptible de ejecución por
+  deudas POSTERIORES a su inscripción. EXCEPCIONES (Art. 249 CCCN):
+  a) Obligaciones por expensas comunes e impuestos/tasas/contribuciones.
+  b) Obligaciones con garantía real (hipoteca) — Art. 250.
+  c) Obligaciones con ORIGEN EN CONSTRUCCIONES U OTRAS MEJORAS realizadas
+     en la vivienda. ← DIRECTAMENTE RELEVANTE AL CASO.
+  d) Obligaciones alimentarias.
+— Art. 250: Hipoteca sobre vivienda afectada.
+— Art. 255: Desafectación y cancelación.
+⚠️ ADVERTENCIA: La excepción del Art. 249 inc. c) está pensada para el
+contratista/mejorador del propio inmueble. Su aplicación a daños a TERCEROS
+causados por esas obras no está unívocamente resuelta en jurisprudencia.
+
+PRESCRIPCIÓN:
+— Art. 2553: La prescripción debe oponerse dentro del plazo para contestar
+  la demanda en los procesos de conocimiento.
+— Art. 2554: El transcurso del plazo comienza el día en que la prestación
+  es exigible.
+— Art. 2561: Prescripción especial — 3 años para reclamo de indemnización
+  derivado de responsabilidad civil (extracontractual). El plazo corre desde
+  el conocimiento del daño o la causa del daño.
+— Art. 2564 inc. c: Ruina de obra — prescripción especial de 1 año desde
+  que se produce la ruina, dentro de los 10 años de recibida la obra. Para
+  daños de vecindad rige el art. 2561.
+— Principio de la Actio Nata: La prescripción no puede comenzar a correr si
+  la acción no ha nacido o si el titular se encuentra ante imposibilidad
+  jurídica de conocer la entidad del daño.
+
+DAÑO CONTINUADO — PRESCRIPCIÓN ESPECIAL:
+En el supuesto de daños continuados (filtraciones y humedades activas
+derivadas de obra lindera), el plazo de prescripción de 3 años del art. 2561
+NO comienza a correr desde el primer acto generador, sino que su cómputo
+se desplaza o renueva día tras día mientras la causa dañosa persista y el
+perjuicio no haya cesado. Cada nueva filtración constituye un nuevo evento
+dañoso que actualiza la pretensión.
+Riesgo procesal: la contraparte puede intentar encuadrar como "daño
+instantáneo con efectos permanentes", argumentando que el plazo corre
+desde la primera mancha de humedad. Se debe describir el agravamiento
+progresivo y la persistencia de la causa.
+
+INTERESES Y ACTUALIZACIÓN MONETARIA:
+— Art. 770: Anatocismo (capitalización de intereses).
+— Art. 772: Cuantificación de un valor. El monto debe referirse al valor
+  real al momento que corresponda evaluar la deuda.
+
+CONSTRUCCIÓN:
+— Arts. 1273/1276: Constructor, subcontratistas y profesionales son
+  responsables frente a terceros de cualquier daño por incumplimiento de
+  normas administrativas. Nula cualquier cláusula que dispense
+  responsabilidad por daños a la solidez de la obra.
+— Art. 1277 CCyC: El constructor, los subcontratistas y los profesionales
+  que intervienen en una construcción están obligados a observar las normas
+  administrativas y son responsables, incluso frente a terceros, de cualquier
+  daño producido por el incumplimiento de tales disposiciones.
+— Art. 1113 CC (Vélez — aplicable a hechos anteriores a agosto 2015):
+  Responsabilidad objetiva por riesgo o vicio de la cosa. El dueño y
+  guardián responden salvo que prueben culpa del damnificado o de un tercero
+  ajeno.
+— Art. 1647 CC (Vélez): Los empresarios constructores son responsables, por
+  la inobservancia de las disposiciones municipales o policiales, de todo
+  daño que causen a los vecinos. Responsabilidad objetiva de naturaleza
+  extracontractual. Solo exime: caso fortuito, culpa exclusiva de la
+  víctima, o la de un tercero por quien no deba responder.
+
+ACCIÓN DIRECTA:
+— Art. 736-738: Acción directa (complementaria).
+
+1.2 NORMATIVA PROCESAL — CPCC PBA (Ley 7425)
+
+— Art. 5: Competencia territorial.
+— Arts. 68-77: Régimen de costas. Art. 68: costas al vencido. Art. 71:
+  distribución proporcional si resultado parcialmente favorable a ambas partes.
+— Arts. 78-86: Beneficio de Litigar sin Gastos (BLSG).
+— Art. 88: Litisconsorcio activo facultativo.
+— Art. 89: Litisconsorcio necesario.
+— Arts. 94-96: Intervención de terceros / citación.
+— Art. 165: Estimación judicial. Si la falta de pericia técnica compleja
+  impide determinar el monto exacto, el juez está facultado para fijar el
+  monto de la indemnización de manera prudencial.
+— Art. 209: Embargo preventivo.
+— Arts. 219-221: Embargo de haberes (límite del 20% del salario neto mensual).
+— Art. 228: Inhibición general de bienes.
+— Art. 310: Caducidad de instancia (6 meses en 1era instancia; 3 meses
+  en 2da instancia y procesos sumarios).
+— Art. 326: Prueba anticipada.
+— Art. 330: Requisitos de la demanda.
+— Art. 357: Reconvención.
+— Art. 384: Sana crítica — apreciación de la prueba.
+— Arts. 457 a 474: Prueba pericial.
+— Art. 474: Fuerza probatoria del dictamen pericial.
+— Art. 623 bis: Denuncia de daño temido.
+— Art. 623 ter: Allanamiento de domicilio para reparaciones urgentes.
+— Arts. 244-259: Apelación.
+— Art. 278: Recurso extraordinario ante la SCBA (inaplicabilidad de ley).
+
+1.3 LEGISLACIÓN NACIONAL
+
+— Ley 25675 — Ley General del Ambiente:
+  Art. 4: Principio precautorio.
+  Art. 27: Daño ambiental.
+  Art. 28: Responsabilidad objetiva del causante del daño ambiental.
+  Art. 29: Presunción iuris tantum de responsabilidad si hay infracción
+  administrativa previa. La obra clandestina ES infracción administrativa.
+  Art. 30: Legitimación para accionar.
+  Art. 32: Competencia judicial.
+— Ley 26944: Responsabilidad del Estado Nacional.
+— Ley 23928 Art. 7: Prohibición de indexar — declarada INCONSTITUCIONAL
+  sobreviniente por la SCBA en fallo "Barrios" (2024).
+
+1.4 LEGISLACIÓN PROVINCIAL PBA
+
+— Decreto-Ley 6769/58: Ley Orgánica de Municipalidades PBA. Art. 27 inc. 7°:
+  atribuye a municipios la función de inspección y control de obras.
+— Ley 8912/77: Ordenamiento territorial y uso del suelo, PBA.
+— Ley 12008: Proceso Contencioso Administrativo PBA.
+— Ley 13928: Régimen de Amparo Provincial PBA.
+— Ley 14432 PBA: Inembargabilidad de vivienda única. Art. 5 inc. B:
+  inoponible ante deudas originadas en la propia construcción o mejoras.
+— Ley 14449 PBA: Acceso Justo al Hábitat (aplicabilidad directa a
+  conflictos entre particulares es INCIERTA — diseñada para políticas públicas).
+— Ley 14967 PBA: Arancel de Honorarios de Abogados y Procuradores.
+— Ley 13986 PBA: Modifica Arts. 310 y 315 CPCC PBA (caducidad de instancia).
+— Ley 13951 PBA: Mediación obligatoria.
+— Constitución PBA:
+  Art. 15: Tutela judicial continua y efectiva.
+  Art. 20: Acción de amparo.
+  Art. 28: Derecho al ambiente sano.
+  Art. 36 inc. 7°: Derecho al hábitat digno.
+  Art. 166: Habilitación de competencia contencioso-administrativa.
+
+1.5 NORMATIVA MUNICIPAL Y PROFESIONAL
+
+— Ordenanzas municipales del Partido de Merlo sobre construcción y edificación.
+— Ordenanza Nº 5839/21 Código de Edificación Municipal de Merlo.
+— Ordenanza Nº 5494 Merlo.
+— Ordenanza Nº 742/16 Merlo.
+— Decreto Provincial 6964/65 y modificatorios (Arancel profesional de
+  Arquitectos e Ingenieros, PBA).
+— Leyes 10.405 y 12.490 (CAPBA — regulación profesional).
+— Decreto Nacional 911/96 (seguridad en construcción).
+— Decreto 4123/72 (Reglamento General de Construcciones PBA).
+
+================================================================================
+SECCIÓN 2 — RESPONSABILIDAD OBJETIVA POR ACTIVIDAD RIESGOSA
+================================================================================
+
+2.1 ENCUADRE GENERAL
+
+La construcción de un edificio es jurisprudencialmente reconocida como
+actividad riesgosa conforme al art. 1757/1758 del CCyCN, lo que genera
+responsabilidad OBJETIVA en cabeza de los siguientes sujetos de forma
+concurrente e indistinta:
+
+a) El propietario/comitente del inmueble lindero donde se ejecutó la obra.
+b) La empresa o persona física que ejecutó la obra (empresario constructor).
+c) El profesional director técnico de la obra (arquitecto o ingeniero).
+d) El profesional proyectista, si hubiere intervenido.
+
+La responsabilidad es OBJETIVA: el damnificado NO necesita probar culpa.
+Solo debe acreditar:
+  (i)   El daño sufrido en su inmueble y bienes.
+  (ii)  La actividad constructiva en el predio lindero.
+  (iii) La relación de causalidad entre (i) y (ii).
+
+2.2 EXIMENTES DE RESPONSABILIDAD OBJETIVA
+
+Son tres y solo tres:
+a) Culpa exclusiva de la víctima.
+b) Hecho de un tercero ajeno por quien no se debe responder.
+c) Caso fortuito extraño al riesgo inherente de la actividad constructiva.
+
+NO eximen:
+— La autorización municipal de la obra.
+— El cumplimiento de normas técnicas de prevención.
+— La antigüedad del inmueble dañado (Basabe c/ Miodyk, Cám. Lomas de
+  Zamora, 2006: la antigüedad/obsolescencia de la pared no exime al
+  constructor).
+
+2.3 EFECTO DE LA CLANDESTINIDAD DE LA OBRA
+
+La falta de permiso es prueba directa e instantánea de la "inobservancia
+de disposiciones municipales" que el art. 1647 CC / art. 1277 CCyC convierte
+en fuente autónoma de responsabilidad. Incluso si la obra hubiera tenido
+todos los permisos, igualmente respondería por los daños. La falta de
+permisos es un agravante que se suma sobre una responsabilidad objetiva
+que ya existía.
+
+La ausencia de toda documentación por parte del denunciado:
+— Agrega causa autónoma de responsabilidad subjetiva (art. 1647 CC / 1277 CCyC).
+— Destruye todas las defensas técnicas habituales.
+— Impide alegar cumplimiento de normas técnicas.
+— Impide alegar que los daños preexistían (no hizo relevamiento previo).
+— Impide argumentar diligencia profesional adecuada.
+— Le quita la posibilidad de invocar que la autorización administrativa lo exime.
+
+================================================================================
+SECCIÓN 3 — RESPONSABILIDAD DEL MUNICIPIO DE MERLO POR OMISIÓN
+================================================================================
+
+El Municipio de Merlo pertenece al Departamento Judicial de Morón, PBA.
+Base normativa: Decreto-Ley 6769/58 PBA — Ley Orgánica de Municipalidades,
+Art. 27 inc. 7° — atribuye a los municipios la función de inspección y
+control de las obras en construcción dentro de su ejido.
+
+Normativa verificada:
+— Decreto-Ley 6769/58 PBA — Art. 27 inc. 7°.
+— Ley 26944 — Responsabilidad del Estado Nacional.
+— Arts. 1764 a 1766 CCCN — Responsabilidad del Estado (remisión a ley especial).
+— Ley 12008 PBA — Proceso Contencioso Administrativo.
+— Constitución PBA, Art. 166.
+— Art. 1° Ley 12008 PBA — Requisito de reclamo administrativo previo.
+
+PRESUPUESTOS DE LA RESPONSABILIDAD ESTATAL POR OMISIÓN:
+a) Antijuridicidad: inobservancia de un deber legal concreto y determinado.
+b) Daño cierto y mensurable en dinero.
+c) Relación de causalidad adecuada entre la omisión estatal y el daño.
+d) Factor de atribución: falta de servicio (funcionamiento irregular del
+   servicio público de control edilicio).
+
+Jurisprudencia:
+— "Escobar, Hilda E. c/ Municipalidad de San Miguel s/ Daños y perjuicios"
+  (SCBA, 10/04/1997): intervino en materia de responsabilidad municipal.
+— GCBA c/ Tunnel Ceretti — CNCiv. (2021): Responsabilidad concurrente del
+  GCBA (100%) por no supervisar constructoras. Prueba: cartas documento +
+  informes técnicos + testimonios. Art. 1113 CC.
+
+Ventaja táctica: incorporar al Municipio como co-demandado ensancha la
+base patrimonial de la condena y presiona al Estado local a controlar la obra.
+
+================================================================================
+SECCIÓN 4 — JURISPRUDENCIA VERIFICADA
+================================================================================
+
+4.1 FALLOS DE LA PROVINCIA DE BUENOS AIRES
+
+CASO 1 — Beltrandi c/ Fideicomiso Vergara 1625-Banfield
+Tribunal: Cámara Apel. Civil y Comercial – Lomas de Zamora (Sala I)
+Fecha: 17/10/2024
+Expediente: LZ-31597-2014
+Hechos: Edificación de un edificio de 10 pisos en terreno lindero produjo
+demolición de la vivienda previa, daño a la medianera trasera (fisuras,
+filtraciones). La obra rompió estructuras y muro vecino.
+Decisión: Confirma condena. Se ratificó la responsabilidad objetiva de
+la constructora y propietarios lindantes. Se confirmó indemnización ajustada
+a ARS 17.540.000 con intereses, condenando a todos los demandados (con costas).
+El daño fue probado pericialmente. Intereses desde fecha del acta notarial.
+Prueba central: pericia arquitectónica + constatación notarial.
+Enlace: scba.gov.ar — Sentencia causa N° 31.597.
+
+CASO 2 — G.E.A. y otro/a c/ N.A. S.A. y otros
+Tribunal: Cámara Apel. Civil y Comercial – Quilmes (Sala II)
+Fecha: 06/02/2024
+Expediente: QL-25184-2022
+Hechos: Construcción de obra en inmueble vecino provocó asentamientos
+diferenciales y rajaduras en la casa vecina. La pericia técnica determinó
+vibraciones y filtraciones causadas por maquinarias en obra.
+Decisión: Revoca parcialmente. Se aplica responsabilidad objetiva (art. 1113
+CCivC) a dueños y contratistas. Se incrementa el daño moral a ARS 2.800.000
+total (ARS 1.400.000 a cada actor). Costas modificadas (70% demandado, 30% actor).
+Enlace: scba.gob.ar — Sentencia causa N° 25.184.
+
+CASO 3 — Molinuevo c/ Obras del Plata SRL
+Tribunal: CNCiv. Sala I
+Fecha: 11/02/2015
+Cita: MJ-JU-M-924
+Hechos: Rajaduras y humedades por demolición lindera.
+Decisión: Responsabilidad solidaria constructora + subcontratista. Confirmada
+relación causal por pericias + testimonios (incluido el propio maestro mayor
+de obra). Rechazada privación de uso futuro y desvalorización del inmueble.
+
+CASO 4 — Andrade c/ Maluendez
+Tribunal: Cámara Civil San Isidro, Sala III
+Fecha: 2014
+Hechos: Rotura techo de vidrio, filtraciones, daño a muebles de cocina,
+rotura de plantas, daño a motobomba.
+Prueba: Actas notariales pre y post obra + fotografías + testimonios.
+Decisión: Demanda admitida en parte.
+
+CASO 5 — Basabe c/ Miodyk
+Tribunal: Cámara Civil Lomas de Zamora
+Fecha: 26/09/2006
+Cita: CC0001 LZ 61812
+Hechos: Daños por obra nueva en edificio lindero.
+Decisión: La antigüedad/obsolescencia de la pared no exime al constructor.
+Daños materiales: procedentes. Daño moral: RECHAZADO.
+
+CASO 6 — Causa s/ embargo obra en construcción — Rosario (2020-2023)
+Hechos: Demolición sin cartel ni permiso; inundaciones reiteradas con
+daños a amueblamientos, electrodomésticos, piso de granito, empapelado.
+Decisión: Se trabó embargo sobre la obra en construcción.
+
+CASO 7 — Consorcio Pueyrredón 1774 c/ MABE
+Tribunal: CNCiv. (2022)
+Hechos: Dos actas notariales (2006 y 2008) + pericia arquitectónica.
+El demandado alegó imposibilidad de vincular daños de 8-10 años con la obra.
+Decisión: Cámara rechazó el argumento. El perito razonó técnicamente el
+nexo causal y el dictamen no fue impugnado en tiempo y forma.
+
+CASO 8 — GCBA c/ Tunnel Ceretti
+Tribunal: CNCiv. (2021)
+Hechos: Túnel vehicular daña finca lindera.
+Decisión: Responsabilidad concurrente del GCBA (100%) por no supervisar
+constructoras. Art. 1113 CC.
+
+4.2 JURISPRUDENCIA SOBRE PRESCRIPCIÓN Y DAÑO CONTINUADO
+
+— SCBA, "M. M. J. A. y o. c/ O. M. J. y o. s/ Daños y perjuicios",
+  Ac. 45288, 27/12/1991: "La prescripción tiene comienzo cuando surgió a
+  la vida jurídica la pretensión demandable. La imposibilidad jurídica que
+  obstaculizó el ejercicio de la pretensión suspende o impide el inicio del
+  curso de la prescripción."
+
+— "Cambiaux c. Empresa Provincial de Energía", Cámara de Apelaciones,
+  17/03/2025: "Escapan del cómputo los daños continuados, en los cuales
+  el ilícito se sigue produciendo en forma permanente. La prescripción no
+  comienza a correr mientras la causa generadora del daño no haya cesado."
+
+4.3 JURISPRUDENCIA SOBRE INTERESES — FALLO "BARRIOS" (SCBA, 2024)
+
+SCBA, C. 124.096, "BARRIOS, HÉCTOR FRANCISCO Y OTRA C/ LASCANO, SANDRA
+BEATRIZ Y OTRA S/ DAÑOS Y PERJUICIOS", 17/04/2024.
+
+Contenido:
+1) Declaró INCONSTITUCIONALIDAD SOBREVINIENTE del Art. 7 Ley 23.928
+   en cuanto prohíbe actualización monetaria/indexación.
+2) Fundamento: los efectos de la depreciación del signo monetario producen
+   merma al crédito que conduce a resultados lesivos del derecho de
+   propiedad (Arts. 17 y 18 CN).
+3) El juez establece el mecanismo de preservación del crédito.
+
+RÉGIMEN POST-"BARRIOS":
+— PERÍODO 1 (hecho dañoso → sentencia, capital a valores actuales):
+  Tasa pura del 6% ANUAL.
+— PERÍODO 2 (sentencia → efectivo pago):
+  Tasa activa del Banco de la Provincia de Buenos Aires a 30 días.
+— ALTERNATIVA (capital NO a valores actuales): Actualización por IPC + 6% anual.
+
+Jurisprudencia aplicando "Barrios":
+— Cámara 2da La Plata, Sala 2°, "Buscalia c/ Rambeaud", 3/5/2024.
+— Cámara 1ra Lomas de Zamora, Sala 3°, "Iannello c/ Empresa Tomás Guido", 7/5/2024.
+— Tribunal de Trabajo de Mercedes (2024).
+— Tribunal de Trabajo de Junín (2024).
+
+Doctrina previa "Ginossi" (SCBA, L. 94.446, 21/10/2009): tasa pasiva BIP.
+SUPERADA por "Barrios" en causas de daños con actualización.
+
+— SCBA, C. 121.134, "Nidera S.A. c/ Provincia de Buenos Aires", 3/5/2018:
+  "En las obligaciones de valor, el interés que debe aplicarse sobre el monto
+  fijado a valores actuales es el del 6% anual."
+
+4.4 FALLOS SOBRE FUERZA PROBATORIA PERICIAL
+
+— SCBA, Ac. 45797 S 14-5-1991 (A y S 1991-I-710): La fuerza probatoria del
+  dictamen pericial solo puede enervarse por fundadas razones científicas o
+  técnicas. No resulta suficiente la discrepancia subjetiva de las partes.
+  El apartamiento judicial del dictamen pericial debe fundarse en razones
+  de mucha entidad y rigor técnico.
+
+— Microjuris Argentina, fallo 14/01/2025: Procedencia de demanda de daños
+  a vecina afectada por construcción de edificio lindero. El perito
+  ingeniero actuante fue pieza central de la condena.
+
+— Microjuris Argentina, fallo 08/04/2024: Rajaduras por asentamientos
+  diferenciales por construcción lindero = actividad riesgosa bajo art. 1757
+  CCyCN. Responsabilidad objetiva del dueño, constructora y arquitectos
+  directores en forma concurrente.
+
+4.5 JURISPRUDENCIA SOBRE COBRABILIDAD Y VIVIENDA
+
+— Cámara de Apelaciones de La Plata, Causa 275.701, 24/06/2022: "La
+  protección de la vivienda única no es absoluta. Existen excepciones
+  vinculadas al origen de la deuda."
+
+— Cámara de Morón, 28/03/1988 (Ref. SAIJ): "La inembargabilidad de la
+  vivienda requiere inscripción previa en el registro. Si la deuda es
+  anterior a la inscripción o si se trata de excepciones legales vinculadas
+  a la construcción, el embargo debe prosperar."
+
+4.6 JURISPRUDENCIA SOBRE BENEFICIO DE LITIGAR SIN GASTOS
+
+— Cámara de Apelaciones Civil y Comercial de Mar del Plata, "A. S. C. c/
+  Aquino Elsa s/ Reivindicación", 14/12/2021: "El beneficio de litigar sin
+  gastos garantiza el acceso a la justicia."
+
+— CSJN, 3/10/1997 (Id SAIJ: SUA0048240): "El beneficio provisional de
+  litigar sin gastos abarca no sólo el pago de impuestos y sellados, sino
+  también la posibilidad de obtener la traba de una medida cautelar sin
+  el previo otorgamiento de la caución o fianza."
+
+4.7 JURISPRUDENCIA SOBRE ASTREINTES
+
+— Cámara Contencioso Administrativa de San Martín, "Pérez, Aida Esther c/
+  Ministerio de Salud s/ Amparo", Causa 11948, 25/09/2024: "Ante
+  incumplimiento de medida cautelar y riesgo de vida, se confirman astreintes
+  de $150.000 por cada día de retardo."
+
+— "Solares, Fernando Raúl c/ Dias Elio Damián", Juzgado Civil y Comercial,
+  16/05/2024: Se elevaron astreintes de $1.000 a $2.000 diarios.
+
+================================================================================
+SECCIÓN 5 — LEGITIMACIÓN ACTIVA Y PASIVA
+================================================================================
+
+5.1 LEGITIMACIÓN ACTIVA
+
+Cada persona que habitaba el inmueble y sufrió personalmente consecuencias
+del daño es un damnificado directo con legitimación activa autónoma para
+reclamar su propio daño moral y daños físicos (Art. 1741 CCCN).
+
+Acumulación: Art. 88 CPCC PBA — litisconsorcio activo facultativo.
+
+Prueba de convivencia:
+— Constancias de domicilio (DNI, padrón electoral).
+— Declaración testimonial de vecinos.
+— Facturas de servicios a nombre de los co-habitantes.
+— Historia clínica con domicilio registrado.
+
+Si hay menores de edad entre los damnificados, el Asesor de Incapaces
+deberá intervenir (Art. 103 CCCN).
+
+5.2 LEGITIMACIÓN PASIVA — LITISCONSORCIO
+
+Responsables a identificar y citar:
+1) PROPIETARIO DEL INMUEBLE (Sr. Capria): responsabilidad directa.
+2) CONSTRUCTOR/ALBAÑIL: si es identificable (UOCRA, AFIP, testimoniales).
+3) DIRECTOR TÉCNICO (arquitecto o ingeniero): si hubo profesional vinculado.
+4) MUNICIPIO DE MERLO: co-demandado por omisión de control.
+
+Mecanismo para identificar al constructor:
+— Oficios a UOCRA solicitando información de trabajadores.
+— Oficio a AFIP sobre empleados declarados.
+— Testimonial de vecinos.
+— Acta notarial.
+
+Jurisprudencia: CNACiv., Sala I, "Consorcio de Propietarios Neuquén
+2932/34/36 c/ M, F R y otro s/ Daños y perjuicios" (11/11/2013): "Al
+tratarse de una obra en construcción, su guarda recae en quien tiene a su
+cargo la ejecución de los trabajos, con responsabilidad análoga a la del
+dueño de la cosa."
+
+La responsabilidad es solidaria (Art. 1751 CCCN).
+
+================================================================================
+SECCIÓN 6 — PERSPECTIVA DEL DEMANDADO
+================================================================================
+
+6.1 ARGUMENTOS DEFENSIVOS DISPONIBLES
+
+a) Cuestionar la relación de causalidad: Daños preexistentes, vetustez,
+   falta de mantenimiento, causas ajenas.
+b) Ruptura del nexo causal: Caso fortuito, fuerza mayor, culpa exclusiva
+   de la víctima (arts. 1729-1731 CCCN).
+c) Concurrencia de causas: Solicitar reducción proporcional.
+d) Cuestionar extensión de los daños reclamados.
+e) Prescripción: 3 años desde el conocimiento del daño (art. 2561 CCCN).
+
+6.2 RIESGOS DE LA POSICIÓN DEFENSIVA
+
+— Jurisprudencia bonaerense pacífica en responsabilidad objetiva.
+— SCBA: criterio consolidado de dar pleno valor al dictamen pericial.
+— La falta de estudios técnicos previos agrava la posición defensiva.
+— La ausencia de documentación (planos, permisos, estudio estructural)
+  impide al denunciado contradecir técnicamente el informe del demandante.
+— La única defensa viable en la práctica es impugnar el nexo causal,
+  pero requiere prueba positiva que el denunciado no tiene.
+
+================================================================================
+SECCIÓN 7 — LEY DEL AMBIENTE — APLICABILIDAD AL CASO
+================================================================================
+
+La humedad sostenida >70% con proliferación de hongos constituye:
+a) Alteración relevante del microambiente del hogar.
+b) Afectación a la salud de los habitantes.
+c) Violación de normas municipales de construcción (infracción administrativa
+   que activa la presunción del Art. 29 Ley 25675).
+
+Reglas probatorias favorables:
+1) Responsabilidad OBJETIVA (Art. 28).
+2) Presunción iuris tantum si hay infracción administrativa (Art. 29).
+3) Exención de responsabilidad SOLO por culpa exclusiva de la víctima o
+   tercero por quien no debe responder.
+
+⚠️ La aplicabilidad de la Ley 25675 a microambientes privados por obra
+privada de un particular no está pacíficamente resuelta en jurisprudencia PBA.
+
+================================================================================
+FIN DEL ARCHIVO 40 — MARCO LEGAL Y RESPONSABILIDAD CIVIL
+================================================================================
