@@ -1,0 +1,110 @@
+========================================================================
+  INFORME DE DUPLICADOS ELIMINADOS
+========================================================================
+
+Se eliminaron 12 archivos duplicados tras revisión exhaustiva.
+Su contenido ya está cubierto por los archivos numerados 02-43.
+
+ARCHIVOS ELIMINADOS Y JUSTIFICACIÓN:
+========================================================================
+
+1. 29_DOCUMENTACION_JURIDICA_DANOS_COMPLEMENTARIA.txt
+   → Duplicado ~90% del archivo 06 (misma estructura de 15 secciones,
+     formulaciones alternativas). Contenido cubierto por: 06, 40-43.
+
+2. MARCO_TEORICO_JURIDICO_MERLO_PBA_2024.txt
+   → Contenido 100% volcado en archivos 30-38 (los 18 temas del
+     marco teórico Juez-Pipo ya están organizados individualmente).
+
+3. Marco Teórico Denuncia Daños Edilicios Merlo.txt
+   → Duplicado ~85% de archivos 30-38 (mismos 18 temas en formato
+     académico). Contenido cubierto por: 30-38.
+
+4. Investigación Procesal Civil Daños Obra Lindera.txt
+   → Sus 6 temas (prescripción, BLSG, astreintes, actualización
+     monetaria, embargo, competencia) ya están en 41_ESTRATEGIA_PROCESAL.
+
+5. INFORME_JURIDICO_DANOS_OBRA_LINDERA_MERLO.txt
+   → Fragmento (empieza en Sección 4). Su contenido sobre guía pericial,
+     costos y clasificación probatoria ya está en 42_REGIMEN_PROBATORIO.
+
+6. claudenuwevo.txt
+   → Output de IA sin integrar. Sus fallos verificados (Molinuevo,
+     Andrade, Basabe, Rosario) están en 40_MARCO_LEGAL §4.
+     Clasificación probatoria cubierta por 42.
+
+7. kimi ultimo.txt
+   → Requisitos de construcción y copropiedad ya cubiertos por:
+     23 (linderos), 24 (CIRSOC), 25 (permisos), 43 (incumplimientos).
+
+8. nuevo2.txt
+   → Contenido estrecho (acreditación hardware) ya cubierto por
+     19_LUCRO_CESANTE_HARDWARE y 42_REGIMEN_PROBATORIO.
+
+9. requisitos super importante.txt
+   → Los 19 requisitos enumerados ya están en 43_INCUMPLIMIENTOS §2
+     y en 25_PERMISOS_DOCUMENTACION.
+
+10. super importante.txt
+    → Inventario 9 bloques (A-I) y 3 perspectivas ya cubiertos por
+      07_INCUMPLIMIENTOS y archivos 30-38.
+
+11. Resumen Ejecutivo.txt
+    → Tabla de jurisprudencia PBA ya integrada en 40_MARCO_LEGAL §4.
+      Resumen del caso cubierto por 10_RESUMEN_EJECUTIVO.
+
+12. Requisitos Construcción Edilicia Copropiedad Merlo.txt
+    → Requisitos de copropiedad, permisos Merlo, CIRSOC, AySA ya
+      cubiertos por archivos 23, 24, 25, 43.
+
+========================================================================
+ARCHIVOS QUE PERMANECEN (43 archivos):
+========================================================================
+00_INDICE_CONSULTAS_IA.txt
+00_INDICE_DETALLADO.txt
+01_INDICE_GENERAL.txt
+02_RELATO_DE_HECHOS_INVENTARIO_Y_NOTAS.txt
+03_CARTA_AL_INTENDENTE_MENENDEZ.txt
+04_MODELO_DE_DEMANDA_PRINCIPAL.txt
+05_ESQUEMA_Y_ESTRUCTURA_DE_DEMANDA.txt
+06_DOCUMENTACION_JURIDICA_UNIFICADA_COMPLETA.txt
+07_DOCUMENTO_JURIDICO_UNIFICADO_INCUMPLIMIENTOS.txt
+08_ANALISIS_JURIDICO_COMPLETO_OBRA_CLANDESTINA.txt
+09_CUADRO_DE_SITUACION_JURIDICO_PROBATORIA.txt
+10_RESUMEN_EJECUTIVO.txt
+11_INFORME_JURIDICO_ACREDITACION_DE_DANOS.txt
+12_RESPONSABILIDAD_CIVIL_Y_REGIMEN_PROBATORIO.txt
+13_ANALISIS_JURIDICO_INTEGRAL_DANOS_PERSONALES.txt
+14_MARCO_LEGAL_DANOS_OBRA_VECINA.txt
+15_PADECIMIENTOS_Y_DANO_MORAL.txt
+16_JUSTIFICACION_Y_VALIDACION_DEL_RECLAMO.txt
+17_ARGUMENTACION_CONTRA_DEFENSAS_DEL_DEMANDADO.txt
+18_ESTRATEGIA_PROBATORIA_POST_MEDIACION.txt
+19_INVESTIGACION_JURIDICA_LUCRO_CESANTE_HARDWARE_AGUA.txt
+20_DANOS_POR_HUMEDAD_A_BIENES_Y_EQUIPOS_ELECTRONICOS.txt
+21_REGIMEN_DESAGUE_Y_AGUAS_PLUVIALES.txt
+22_REGIMEN_PROBATORIO_DANOS_EDILICIOS.txt
+23_NORMATIVA_CONSTRUCCION_INMUEBLES_LINDEROS.txt
+24_NORMATIVA_TECNICA_CARGAS_ESTRUCTURALES_CIRSOC.txt
+25_PERMISOS_Y_DOCUMENTACION_REQUERIDA_OBRA.txt
+26_CELERIDAD_PROCESAL_Y_TUTELA_ANTICIPADA.txt
+27_INFORME_DE_REVISION_VACIOS_Y_OMISIONES.txt
+28_NORMATIVA_DAÑOS_EDILICIOS_HABITABILIDAD.txt
+30_MARCO_TEORICO_METODOLOGIA_JUEZ_PIPO.txt
+31_RESPONSABILIDAD_MUNICIPAL_POR_OMISION.txt
+32_COBRABILIDAD_Y_PROTECCION_VIVIENDA.txt
+33_AMPARO_CONSTITUCIONAL.txt
+34_COSTAS_Y_DEPRECIACION_INMUEBLE.txt
+35_CADUCIDAD_RECONVENCION_LITISCONSORCIO.txt
+36_LEY_AMBIENTE_Y_PRUEBA_ANTICIPADA.txt
+37_APELACION_Y_COLEGIOS_PROFESIONALES.txt
+38_DANO_PSICOFISICO_E_INTERESES_BARRIOS.txt
+39_PROMPTS_INVESTIGACION_Y_PRECEDENTES.txt
+40_MARCO_LEGAL_Y_RESPONSABILIDAD_CIVIL.txt
+41_ESTRATEGIA_PROCESAL_Y_HERRAMIENTAS_JUDICIALES.txt
+42_REGIMEN_PROBATORIO_Y_PERICIAL.txt
+43_INCUMPLIMIENTOS_DANOS_Y_RUBROS_INDEMNIZATORIOS.txt
+44_INDICE_ENUNCIATIVO_TEMATICAS.txt (NUEVO)
+45_PROMPT_INVESTIGACION_FALTANTES.txt (NUEVO)
+46_INFORME_DUPLICADOS_ELIMINADOS.txt (NUEVO)
+========================================================================
