@@ -6,7 +6,7 @@
 PROPÓSITO DE ESTE DOCUMENTO
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Este índice está diseñado para que un modelo de IA pueda orientarte sobre qué
-archivos adjuntar según tu consulta específica. La biblioteca contiene 38
+archivos adjuntar según tu consulta específica. La biblioteca contiene 44
 documentos jurídicos sobre un caso de DAÑOS POR OBRA CLANDESTINA LINDERA en el
 Partido de Merlo, Provincia de Buenos Aires, Argentina.
 
@@ -35,7 +35,7 @@ HECHOS PRINCIPALES:
 JURISDICCIÓN: Departamento Judicial de Morón, Provincia de Buenos Aires
 
 ================================================================================
-                MAPA TEMÁTICO DE LA BIBLIOTECA (38 ARCHIVOS)
+                MAPA TEMÁTICO DE LA BIBLIOTECA (44 ARCHIVOS)
 ================================================================================
 
                     ╔═══════════════════════════════════════╗
@@ -279,6 +279,47 @@ JURISDICCIÓN: Departamento Judicial de Morón, Provincia de Buenos Aires
               denunciado, municipio) y (2) búsqueda de precedentes y jurisprudencia
    USAR CUANDO: Quieres investigar qué FALTA o buscar PRECEDENTES y FALLOS
 
+
+                    ╔═══════════════════════════════════════╗
+                    ║   SECCIÓN K: DOCUMENTOS DEPURADOS     ║
+                    ║     TEMÁTICOS (ABRIL 2026)            ║
+                    ╚═══════════════════════════════════════╝
+
+📁 40_MARCO_LEGAL_Y_RESPONSABILIDAD_CIVIL.txt [★ EXTENSO]
+   CONTENIDO: Normativa de fondo aplicable (CCyC, CPCC PBA, leyes nacionales,
+              provinciales y municipales), responsabilidad objetiva por actividad
+              riesgosa, responsabilidad del Municipio de Merlo por omisión,
+              jurisprudencia verificada (SCBA, Cámara de Morón, fallo "Barrios"),
+              legitimación activa y pasiva, ley del ambiente
+   USAR CUANDO: Necesitas el MARCO LEGAL COMPLETO actualizado con jurisprudencia
+                verificada y normativa consolidada en un solo documento
+
+📁 41_ESTRATEGIA_PROCESAL_Y_HERRAMIENTAS_JUDICIALES.txt
+   CONTENIDO: Competencia territorial (Morón), beneficio de litigar sin gastos,
+              medidas cautelares (embargo, inhibición, innovativa), astreintes,
+              denuncia de daño temido, acción de amparo constitucional,
+              actualización monetaria (doctrina "Barrios"), caducidad de instancia
+   USAR CUANDO: Necesitas la ESTRATEGIA PROCESAL completa con todas las
+                herramientas judiciales disponibles en un solo lugar
+
+📁 42_REGIMEN_PROBATORIO_Y_PERICIAL.txt
+   CONTENIDO: Guía completa del informe pericial técnico (quién lo hace,
+              jerarquía de validez, estructura obligatoria), costos aproximados
+              a abril 2026, dónde contratar peritos, prueba anticipada
+              pre-demanda, clasificación de material probatorio por validez,
+              estrategia probatoria óptima (secuencia)
+   USAR CUANDO: Necesitas saber TODO sobre PRUEBAS Y PERICIAS: qué pericial
+                pedir, cuánto cuesta, qué validez tiene cada prueba
+
+📁 43_INCUMPLIMIENTOS_DANOS_Y_RUBROS_INDEMNIZATORIOS.txt
+   CONTENIDO: Daños materiales documentados, incumplimientos normativos de la
+              obra clandestina (10 categorías), rubros indemnizatorios reclamables
+              (daño emergente, lucro cesante, daño moral, daño psicofísico,
+              minus valía, bienes muebles), datos técnicos CIRSOC sobre losa
+   USAR CUANDO: Necesitas el LISTADO COMPLETO de incumplimientos y de todos
+                los RUBROS INDEMNIZATORIOS con su fundamentación
+
+
 ================================================================================
                   GUÍA RÁPIDA DE SELECCIÓN POR TIPO DE CONSULTA
 ================================================================================
@@ -307,14 +348,19 @@ JURISDICCIÓN: Departamento Judicial de Morón, Provincia de Buenos Aires
 │ Mediación fracasada, qué sigue       │ 18, 04                                │
 │ Buscar qué FALTA en el caso          │ 39                                    │
 │ Buscar PRECEDENTES y fallos           │ 39                                    │
+│ Marco legal completo consolidado     │ 40                                    │
+│ Estrategia procesal integral         │ 41                                    │
+│ Pericias y régimen probatorio        │ 42                                    │
+│ Incumplimientos y rubros indemn.     │ 43                                    │
 └──────────────────────────────────────┴───────────────────────────────────────┘
 
 ================================================================================
                     INFORMACIÓN TÉCNICA DE LA BIBLIOTECA
 ================================================================================
 
-Total de archivos: 41 (incluye 00_INDICE_DETALLADO, 00_INDICE_CONSULTAS_IA, 
-                       01_INDICE_GENERAL, 02-38 documentos, 39 prompts)
+Total de archivos: 47 (incluye 00_INDICE_DETALLADO, 00_INDICE_CONSULTAS_IA,
+                       01_INDICE_GENERAL, 02-38 documentos, 39 prompts,
+                       40-43 documentos depurados temáticos)
 Total de líneas de texto: ~14,200
 Jurisdicción: Provincia de Buenos Aires, Argentina
 Departamento Judicial: Morón

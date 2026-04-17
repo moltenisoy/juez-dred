@@ -21,7 +21,7 @@ DUPLICADOS ELIMINADOS:
   una única versión en el archivo 04.
 
 CRITERIO DE ORGANIZACIÓN:
-Los archivos están numerados (01 a 29) y agrupados por categoría temática:
+Los archivos están numerados (01 a 43) y agrupados por categoría temática:
 - 01-03: Índice, relato personal y carta al intendente
 - 04-05: Modelos y estructura de demanda
 - 06-10: Documentación jurídica unificada, análisis y resúmenes
@@ -31,6 +31,9 @@ Los archivos están numerados (01 a 29) y agrupados por categoría temática:
 - 20-24: Normativa técnica específica (humedad, desagüe, riesgos, CIRSOC)
 - 25-26: Permisos requeridos y celeridad procesal
 - 27-29: Informes de revisión y documentación complementaria
+- 30-38: Marco teórico jurídico JUEZ-PIPO (18 temas)
+- 39: Prompts de investigación y precedentes
+- 40-43: Documentos depurados temáticos consolidados
 
 ================================================================================
                          ÍNDICE DE ARCHIVOS
@@ -359,15 +362,56 @@ Fuentes originales: 12345.txt, 678910.txt, 111213.txt, 141516.txt, 1718.txt
      de precedentes jurisprudenciales, casos similares, leyes y decretos aplicables.
 
 ================================================================================
+     SECCIÓN NUEVA: DOCUMENTOS DEPURADOS TEMÁTICOS (40-43) — ABRIL 2026
+================================================================================
+
+INCORPORADOS EN ABRIL 2026: 4 archivos depurados que consolidan y reorganizan
+temáticamente la información de toda la biblioteca en ejes principales.
+Fuentes: archivos fuente complementarios de la biblioteca.
+
+40_MARCO_LEGAL_Y_RESPONSABILIDAD_CIVIL.txt
+   → Documento consolidado de marco legal: normativa de fondo (CCyC, CPCC PBA,
+     leyes nacionales, provinciales y municipales), responsabilidad objetiva por
+     actividad riesgosa, responsabilidad del Municipio de Merlo por omisión,
+     jurisprudencia verificada (SCBA, Cámara de Morón, fallo "Barrios" 2024),
+     legitimación activa y pasiva, ley del ambiente.
+   FUENTES: Consolidación depurada de la biblioteca existente
+
+41_ESTRATEGIA_PROCESAL_Y_HERRAMIENTAS_JUDICIALES.txt
+   → Guía procesal integral: competencia territorial (Morón), beneficio de
+     litigar sin gastos, medidas cautelares (embargo preventivo, inhibición
+     general, innovativa), astreintes, denuncia de daño temido (Art. 623 bis),
+     acción de amparo constitucional, actualización monetaria (doctrina
+     "Barrios"), caducidad de instancia.
+   FUENTES: Consolidación depurada de la biblioteca existente
+
+42_REGIMEN_PROBATORIO_Y_PERICIAL.txt
+   → Guía completa de pruebas y pericias: informe pericial técnico (quién lo
+     hace, jerarquía de validez, estructura obligatoria, formato), costos
+     aproximados a abril 2026, dónde contratar peritos en PBA, prueba
+     anticipada pre-demanda (Art. 326 CPCC PBA), clasificación de material
+     probatorio por validez, estrategia probatoria óptima (secuencia).
+   FUENTES: Consolidación depurada de la biblioteca existente
+
+43_INCUMPLIMIENTOS_DANOS_Y_RUBROS_INDEMNIZATORIOS.txt
+   → Listado exhaustivo de daños materiales documentados, incumplimientos
+     normativos de la obra clandestina (10 categorías con detalle), rubros
+     indemnizatorios reclamables (daño emergente, lucro cesante, daño moral,
+     daño psicofísico autónomo, desvalorización del inmueble, bienes muebles),
+     datos técnicos CIRSOC sobre sobrecargas en losa.
+   FUENTES: Consolidación depurada de la biblioteca existente
+
+================================================================================
                VERIFICACIÓN DE COMPLETITUD — NINGÚN ARCHIVO PERDIDO
 ================================================================================
 
-Total de archivos en la biblioteca organizada: 41
+Total de archivos en la biblioteca organizada: 47
   - 00: Índice para consultas IA, Índice detallado
   - 01: Índice general
   - 02-29: Documentación original organizada temáticamente
   - 30-38: Marco teórico JUEZ-PIPO (9 archivos)
   - 39: Prompts de investigación y precedentes
+  - 40-43: Documentos depurados temáticos (4 archivos)
   
 Notas sobre la organización:
   - 1 archivo eliminado por duplicado exacto (Demanda v2)
