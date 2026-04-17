@@ -1,0 +1,428 @@
+================================================================================
+ARCHIVO 43 — INCUMPLIMIENTOS NORMATIVOS, DAÑOS Y RUBROS INDEMNIZATORIOS
+CASO: DAÑOS POR OBRA CLANDESTINA LINDERA — MERLO, PBA
+DEPARTAMENTO JUDICIAL: MORÓN — PROVINCIA DE BUENOS AIRES
+ELABORADO: ABRIL 2026 — SISTEMA JUEZ-DRED
+================================================================================
+
+⚠️ ADVERTENCIA: Este documento es orientación jurídica general. NO reemplaza
+el criterio de un abogado matriculado.
+
+================================================================================
+SECCIÓN 1 — DAÑOS MATERIALES DOCUMENTADOS EN EL INMUEBLE
+================================================================================
+
+El inmueble ubicado en la localidad de Merlo, Partido de Merlo, ha sufrido
+daños materiales extensos que incluyen:
+
+DAÑOS ESTRUCTURALES:
+— Rajaduras en techo, paredes y revestimientos.
+— Filtraciones de agua con deterioro continuo.
+— Caída de fragmentos de cielorraso.
+— Hongos y humedad estructural (humedad sostenida >70%).
+— Asentamientos diferenciales.
+
+DAÑOS EN INSTALACIONES:
+— Red eléctrica expuesta a humedad (riesgo eléctrico: llave térmica mojada).
+— Puertas y marcos metálicos con corrosión.
+
+DAÑOS EN BIENES MUEBLES:
+— Muebles y piso de madera dañados.
+— Indumentaria percudida.
+— Colchón arruinado.
+— Electrodomésticos oxidados.
+— Componentes de hardware informático afectados en funcionamiento e
+  integridad física.
+
+CONDICIÓN HABITACIONAL:
+— Inhabitabilidad forzada.
+— Riesgo de vida (caída de cielorraso, humedad >70%, riesgo eléctrico).
+— Proliferación de hongos: Aspergillus, Cladosporium, Stachybotrys.
+
+Estos daños se atribuyen causalmente a una obra de edificación realizada en
+el inmueble lindero, llevada a cabo sin estudios técnicos estructurales
+obligatorios previos y con incorrecta reubicación de elementos, configurando
+presunta negligencia profesional e incumplimiento normativo.
+
+================================================================================
+SECCIÓN 2 — INCUMPLIMIENTOS NORMATIVOS DE LA OBRA CLANDESTINA
+================================================================================
+
+La obra constituye simultáneamente:
+a) Una infracción administrativa autónoma y verificable.
+b) Un factor de atribución de responsabilidad subjetiva específico
+   (art. 1647 CC / art. 1277 CCyC).
+c) Una situación procesal que destruye la mayoría de las defensas técnicas.
+d) Un contexto que modifica la dinámica probatoria en contra del denunciado.
+
+LISTADO DE INCUMPLIMIENTOS:
+
+2.1 PERMISOS Y AUTORIZACIONES MUNICIPALES
+
+— Sin permiso de obra ante Municipalidad de Merlo.
+— Sin planos aprobados.
+— Sin visado catastral.
+— Sin pago de tasas de construcción ni derechos de construcción.
+— Sin cartel de obra en fachada (infracción autónoma sancionada con multa,
+  arts. 169/172 de ordenanzas tipo PBA).
+— Sin aviso de inicio de obra ante Obras Particulares.
+— Sin inspecciones parciales durante la ejecución.
+— Sin certificado de inspección final de obra.
+
+2.2 REQUISITOS ESTRUCTURALES INCUMPLIDOS
+
+— Sin estudio de aptitud estructural de la losa existente.
+— Sin cálculo estructural para cargas sobre losa flotante >700 kg.
+  NOTA TÉCNICA: La losa existente (diseñada para ~1,00 kN/m² de
+  sobrecarga como cubierta inaccesible, ~102 kgf/m²) debería soportar
+  con la planta alta entre 7,00 y 9,40 kN/m² de carga total combinada.
+  Esa carga es 7 a 9 VECES la sobrecarga original de diseño.
+— Sin memoria de cálculo estructural firmada por profesional habilitado.
+— Sin verificación de cimentaciones (zapatas, vigas de encadenado).
+— Sin planos de estructura con detalle de armadura.
+— Sin proyecto de refuerzo estructural previo.
+— Tanque de 750 kg sobre losa sin cálculo de sobrecargas.
+
+2.3 REQUISITOS PROFESIONALES INCUMPLIDOS
+
+— Sin director técnico de obra (arquitecto o ingeniero).
+— Sin contrato de proyecto y dirección técnica visado por Colegio Profesional
+  (Distrito V PBA).
+— Sin informe técnico del estado estructural del edificio existente visado
+  por Consejo Profesional.
+— Sin libro de obra.
+— Sin encomienda profesional visada ante CIPBA o CAPBA.
+
+2.4 REQUISITOS DE COPROPIEDAD INCUMPLIDOS (LEY 13.512 / CCC)
+
+— Art. 2052 CCC (CRÍTICO): Se requiere UNANIMIDAD cuando la mejora modifica
+  la estructura sustancialmente o beneficia a un solo propietario. Agregar
+  planta alta es por definición modificación estructural sustancial. Con
+  tres copropietarios, los tres deben consentir.
+— Sin acta de asamblea de copropietarios aprobando la obra.
+— Sin instrumento fehaciente de consentimiento de los 3 copropietarios.
+— Sin verificación del Reglamento de Copropiedad sobre mayorías exigidas.
+— Sin modificación del Reglamento de Copropiedad por obra que altera
+  superficies o porcentuales.
+— Sin certificado de dominio e inhibiciones de todos los copropietarios.
+
+2.5 REQUISITOS DE INSTALACIONES INCUMPLIDOS
+
+INSTALACIÓN DE AGUA:
+— Sin solicitud de factibilidad técnica ante AySA (prestadora en Merlo
+  desde 2017).
+— Sin plano de instalaciones sanitarias aprobado.
+— Sin instalador sanitarista habilitado ante ERAS.
+— Sin convenio OPCT si AySA exige obras de red.
+— Sin cumplimiento de Resolución MOP 641/2023 (Guía de Ejecución de
+  Instalaciones Sanitarias Domiciliarias).
+
+INSTALACIÓN ELÉCTRICA:
+— Sin plano de instalaciones eléctricas firmado por electricista
+  matriculado (Norma AEA 90364 / IRAM 2004).
+— Sin contrato de instalador habilitado ante EDENOR.
+— Sin solicitud de ampliación de carga ante EDENOR si nueva planta
+  eleva potencia instalada.
+— Sin verificación de capacidad del tablero general existente.
+
+INSTALACIÓN DE GAS (si aplica):
+— Sin plano de instalación de gas firmado por gasista matriculado
+  ante ENARGAS (Decreto 1738/92).
+— Sin solicitud de factibilidad técnica ante la distribuidora local.
+
+2.6 REQUISITOS DE SEGURIDAD INCUMPLIDOS
+
+— Sin seguro de accidentes de trabajo (ART) — Ley 24.557.
+— Sin seguro de responsabilidad civil de obra.
+— Sin vallado perimetral (cerco de seguridad).
+— Sin protección de linderos y medianeras (apuntalamientos).
+— Sin apuntalamiento provisional de la losa durante ejecución
+  (para cargas >700 kg — norma CIRSOC).
+— Sin plan de contingencia para trabajos en altura.
+— Sin cumplimiento del Decreto Nacional 911/96.
+
+2.7 REQUISITOS URBANÍSTICOS NO VERIFICADOS
+
+— Verificación del Factor de Ocupación Total (FOT) de la parcela.
+— Verificación del Factor de Ocupación del Suelo (FOS).
+— Verificación del plano límite de altura para la zona.
+— Verificación de retiros mínimos obligatorios (frente, fondo, laterales).
+— Consulta de uso conforme del suelo para la zona.
+
+2.8 REQUISITOS DE MEDIANERÍA INCUMPLIDOS
+
+— Sin verificación del estado de las medianeras vecinas.
+— Sin notificación fehaciente a propietarios linderos.
+— Sin acuerdo con lindero si nueva estructura apoya sobre medianera.
+— Arts. 2009 y ss. CCC — Régimen de medianería.
+
+2.9 REQUISITOS ANTE LA PROVINCIA DE BUENOS AIRES INCUMPLIDOS
+
+— Sin certificado de dominio e inhibiciones ante Registro de la Propiedad.
+— Sin Impuesto Inmobiliario al día ante ARBA.
+— Sin visado de contratos ante Colegio de Ingenieros Distrito V PBA.
+— Sin declaratoria de construcción ante ARBA (Formulario R-550I).
+
+2.10 RELEVAMIENTO PREVIO OMITIDO
+
+El denunciado no realizó el informe previo del estado del inmueble afectado.
+Antes de comenzar la obra se debe relevar el estado del consorcio con fotos
+y acta labrada por escribano, para constatar la medianera y unidades
+funcionales previo al inicio de la construcción. Al no haberlo hecho, no
+puede alegar que los daños preexistían. No tiene ninguna prueba del estado
+previo. Todo daño documentado por el demandante queda sin contrapeso.
+
+================================================================================
+SECCIÓN 3 — RUBROS INDEMNIZATORIOS RECLAMABLES
+================================================================================
+
+3.1 DAÑO EMERGENTE
+
+— Costo de reparación de rajaduras, cielorraso, techo, paredes, revoques.
+— Costo de tratamiento anti-humedad, impermeabilización, fungicidas.
+— Reemplazo de red eléctrica afectada.
+— Reemplazo de puertas y marcos metálicos.
+— Reemplazo de piso y muebles de madera.
+— Reemplazo de colchón, indumentaria, electrodomésticos.
+— Reparación o reemplazo de componentes de hardware informático.
+— Honorarios del perito de parte.
+— Honorarios del abogado (según regulación arancelaria).
+
+3.2 LUCRO CESANTE
+
+— Si el inmueble es parcialmente locado o produce renta, la pérdida de
+  esa renta durante el período de inhabitabilidad parcial o total.
+
+3.3 DAÑO MORAL (Art. 1741 CCCN)
+
+— Menoscabo a la tranquilidad, integridad patrimonial del hogar, salud
+  (exposición a hongos y humedad) y calidad de vida del habitante.
+— El daño moral se presume "in re ipsa" ante acto antijurídico
+  (art. 1078 CC / 1744 CCyC), pero se requiere acreditar afectación real
+  de esfera íntima, vida cotidiana, proyecto de vida, o salud psicológica.
+— Daño moral por simples molestias sin afectación personal: RECHAZADO
+  (Basabe, Lomas de Zamora, 2006).
+— Cuantificación jurisprudencial de la Cámara de Morón: entre $1.500.000
+  y $3.500.000 por actor (valores 2023-2024, sujetos a actualización por
+  IPC según doctrina "Barrios").
+
+3.4 DAÑO PSICOFÍSICO COMO RUBRO AUTÓNOMO (DISTINTO DEL DAÑO MORAL)
+
+Distinción clave:
+— DAÑO PSICOFÍSICO (incapacidad sobreviniente): Disminución funcional
+  objetiva de capacidad física y/o psíquica. Se mide en porcentajes de
+  incapacidad. Componente patrimonial. Requiere PERICIA MÉDICA.
+— DAÑO MORAL: Modificación disvaliosa del espíritu. No se mide en
+  porcentajes sino en apreciación judicial.
+
+Patologías por exposición a hongos y humedad >70%:
+a) Respiratorias: asma, bronquitis crónica, rinitis, EPOC exacerbada.
+b) Dermatológicas: dermatitis, urticaria.
+c) Oftalmológicas: conjuntivitis crónica.
+d) Psicológicas: ansiedad, insomnio, depresión reactiva.
+
+Prueba necesaria:
+1) Historia clínica con consultas médicas.
+2) Perito médico (neumólogo/alergólogo) para nexo causal.
+3) Perito psicológico para daño psicológico.
+4) Informe de médico tratante.
+5) Estudios complementarios (espirometría, pruebas de alergia).
+
+Cuantificación jurisprudencial PBA (valores 2023-2024):
+— Incapacidad psicofísica (10% de incapacidad): $2.500.000 — $3.600.000.
+— Daño moral por habitabilidad deteriorada: $1.500.000 — $3.000.000 por
+  actor principal.
+⚠️ Valores sujetos a actualización 2026 aplicando IPC según doctrina
+"Barrios" de la SCBA.
+
+3.5 DESVALORIZACIÓN DEL INMUEBLE (MINUS VALÍA)
+
+Rubro autónomo que reconoce que un bien dañado, aun reparado, conserva un
+"estigma" que reduce su valor de mercado. Desarrollado en vehículos,
+extendido a inmuebles por la jurisprudencia.
+
+Art. 1738 CCCN — Incluye "pérdida" de valor patrimonial.
+Art. 1740 CCCN — Principio de reparación plena.
+
+Cámara de Apelación de Morón (camoron.org.ar): rechazó el rubro por falta
+de acreditación pero reconoció procedencia en principio cuando hay daños
+estructurales acreditados pericialmente.
+
+Dos criterios jurisprudenciales:
+a) AMPLIO: Se presume in re ipsa. Solo requiere pericial de estimación.
+b) ESTRICTO: Requiere prueba acabada de que el daño subsiste y reduce
+   valor de mercado.
+
+⚠️ En Molinuevo: RECHAZADA la "privación de uso futuro" y "desvalorización
+del inmueble". La jurisprudencia tiende a rechazar lucro cesante
+especulativo sin acreditación concreta.
+
+Prueba específica requerida:
+— Perito tasador inmobiliario que dictamine: (a) valor ANTES del daño;
+  (b) valor luego de reparación completa; (c) diferencia porcentual
+  imputable al estigma.
+— Caso de soporte: "Suárez c/ AYSA" (Cámara Nacional) reconoció
+  desvalorización de inmueble por obra lindera.
+— El rubro es ACUMULABLE con el costo de reparación (no se superponen).
+
+3.6 DAÑOS EN BIENES MUEBLES ESPECÍFICOS
+
+Daños reclamables verificados en jurisprudencia:
+— Muebles de cocina (Andrade c/ Maluendez).
+— Motobomba (Andrade c/ Maluendez).
+— Amueblamientos (Causa Rosario 2020-2023).
+— Electrodomésticos (Causa Rosario 2020-2023).
+— Piso de granito (Causa Rosario 2020-2023).
+— Empapelado (Causa Rosario 2020-2023).
+— Plantas y jardín (Andrade c/ Maluendez).
+
+Para hardware informático: facturas acreditan titularidad y valor.
+El informe técnico del inmueble crea presunción de causalidad sobre
+deterioro de bienes muebles en el entorno.
+
+================================================================================
+SECCIÓN 4 — DATOS TÉCNICOS CIRSOC — SOBRECARGAS SOBRE LOSA
+================================================================================
+
+4.1 NORMAS CIRSOC APLICABLES
+
+— CIRSOC 101 (edición 2005 — vigente y de referencia nacional): Reglamento
+  Argentino de Cargas Permanentes y Sobrecargas Mínimas de Diseño.
+— CIRSOC 101 (edición 2022 — en proceso de adopción formal).
+— CIRSOC 201 (2005, actualización 2024): Estructuras de Hormigón Armado.
+— INPRES-CIRSOC 103: Sismorresistencia (menor relevancia en GBA).
+
+4.2 SITUACIÓN ACTUAL — LOSA COMO CUBIERTA DE PLANTA BAJA
+
+Cubierta inaccesible (solo mantenimiento): 1,00 kN/m² (~102 kgf/m²).
+Azotea accesible (recreación): 3,00 kN/m² (~306 kgf/m²).
+
+Si la losa existente fue diseñada como cubierta inaccesible (caso más
+probable en vivienda de planta baja sin previsión de planta alta), su
+sobrecarga de diseño original es de solo 1 kN/m² (~102 kgf/m²).
+
+4.3 SITUACIÓN PROYECTADA — NUEVA PLANTA ALTA
+
+Dormitorios/estar/comedor: 2,00 kN/m² (~204 kgf/m²).
+Baños: 2,00 kN/m² (~204 kgf/m²).
+Escalera de acceso: 3,00 kN/m² (~306 kgf/m²).
+Balcones/terrazas accesibles: 3,00 kN/m² (~306 kgf/m²).
+
+4.4 CARGAS PERMANENTES DE LA NUEVA PLANTA
+
+Losa de hormigón armado 0,12 m: ~2,40 kN/m² (~245 kgf/m²).
+Contrapiso + carpeta + piso: ~0,80 a 1,20 kN/m² (~82 a 122 kgf/m²).
+Muros de mampostería: 1,50 a 3,00 kN/m² (variable).
+Cubierta liviana planta alta: ~0,40 a 0,80 kN/m².
+TOTAL CARGA PERMANENTE ESTIMADA: ~5,00 a 7,40 kN/m² (~510 a 755 kgf/m²).
+
+4.5 CONCLUSIÓN TÉCNICA
+
+La losa existente (diseñada para ~1,00 kN/m²) debería soportar con la
+planta alta entre 7,00 y 9,40 kN/m² de carga total combinada (permanente
++ variable). Esa carga es 7 a 9 VECES la sobrecarga original de diseño,
+sin contar el peso propio de la losa existente.
+
+================================================================================
+SECCIÓN 5 — REQUISITOS LEGALES DE CONSTRUCCIÓN EN MERLO (REFERENCIA)
+================================================================================
+
+5.1 PERMISOS MUNICIPALES
+
+— Solicitud de permiso de obra ante Dirección de Obras Particulares
+  (Av. del Libertador Gral. San Martín 391, Merlo).
+— Visado catastral ante Catastro Municipal.
+— Certificado de deuda cero ante Departamento de Propiedad del Inmueble.
+— Planos de arquitectura (2 copias en polietileno).
+— Planos de estructura (2 copias): cálculo estructural completo.
+— Memoria descriptiva de la obra.
+— Contrato de proyecto y dirección técnica visado por Colegio Profesional.
+— Informe técnico del estado estructural visado por Consejo Profesional.
+— Autorización del consorcio (3 copropietarios) incorporada al expediente.
+— Pago de Derechos de Construcción.
+— Sellado municipal por presentación de planos.
+— Cartel de obra en fachada.
+— Solicitud de Inspección Final.
+— Certificado de Inspección Final de Obra.
+
+5.2 ALÍCUOTAS DE DERECHOS DE CONSTRUCCIÓN EN MERLO
+
+(Ord. Impositiva, Expte. Nº 4076-11751/19 y concordantes)
+Vivienda Unifamiliar:
+— Hasta 70m²: 0,25%
+— 71-150m²: 0,35%
+— 151-300m²: 0,40%
+— 301-500m²: 0,45%
+— Más de 500m²: 0,50%
+Vivienda Multifamiliar:
+— Hasta 70m²: 0,30%
+— 71-150m²: 0,40%
+— 151-300m²: 0,50%
+— 301-500m²: 0,60%
+— Más de 500m²: 0,70%
+⚠️ Valores actualizados anualmente.
+
+5.3 REQUISITOS DE SERVICIOS
+
+AySA (prestadora en Merlo desde 2017):
+— Factibilidad técnica de agua y cloaca.
+— Plano de instalaciones sanitarias aprobado por instalador habilitado ERAS.
+— Título de propiedad para acreditar titularidad.
+— Plano conforme a obra.
+— Resolución MOP 641/2023.
+
+EDENOR:
+— Factibilidad técnica para ampliación de carga eléctrica.
+— Proyecto de instalación eléctrica.
+
+Gas:
+— Verificación de capacidad de instalación existente.
+— Proyecto de gasista matriculado (Decreto 1738/92).
+
+5.4 NORMATIVA DE COPROPIEDAD (CCC)
+
+— Art. 2051: Para mejoras u obras nuevas sobre partes comunes, se requiere
+  consentimiento de la mayoría, previo informe técnico.
+— Art. 2052: Se requiere UNANIMIDAD cuando la mejora modifica la estructura
+  sustancialmente o solo beneficia a un propietario.
+— Ley 13.512 Art. 7°: Consentimiento unánime para elevar nuevos pisos.
+— Debe modificarse el Reglamento de Copropiedad (escritura pública +
+  inscripción en Registro de la Propiedad + actualización de porcentajes).
+— Art. 5° Ley 13.512: Prohibido cambiar forma externa del frente sin
+  consentimiento unánime; prohibida toda innovación que afecte seguridad.
+
+Si se construye sin consentimiento de co-titulares: la obra puede ser
+demolida por orden judicial, puede enfrentar daños y perjuicios, y el
+municipio puede paralizar la obra.
+
+5.5 TASA DE SERVICIOS GENERALES (ABL)
+
+Las mejoras que se introduzcan en inmuebles sobre la base de planos
+aprobados se incorporarán a la categoría correspondiente a los 24 meses
+de la fecha de aprobación, salvo que antes hubieran obtenido Certificado
+de Inspección Final.
+
+================================================================================
+SECCIÓN 6 — ZONAS DE INCERTIDUMBRE
+================================================================================
+
+1. Distrito exacto de CAPBA/CIPBA para el Partido de Merlo.
+2. Valores de costos de informe en pesos argentinos son orientativos.
+3. Ordenanzas municipales del Partido de Merlo que regulan la
+   obligatoriedad de estudios técnicos previos no fueron verificadas
+   directamente; consultar HCD o Dirección de Obras.
+4. Si los daños incluyen componentes de salud (hongos, riesgo eléctrico),
+   podrían habilitarse acciones administrativas adicionales.
+5. La aplicación de la excepción del Art. 249 inc. c) CCCN a daños
+   causados a TERCEROS por obras (no al propio inmueble del deudor).
+6. La jurisprudencia específica de la Cámara de Morón (Salas I y II)
+   en daños por obra clandestina lindera.
+7. Montos actualizados de daño moral y psicofísico 2025-2026.
+8. Vigencia del texto de normas CAPBA (régimen disciplinario).
+9. Zonificación específica del inmueble en Merlo (alturas máximas, FOT/FOS).
+10. Estado actual de AySA post-Decreto 805/2025.
+11. Adopción formal de CIRSOC 101-2005 por el Municipio de Merlo.
+
+================================================================================
+FIN DEL ARCHIVO 43 — INCUMPLIMIENTOS, DAÑOS Y RUBROS INDEMNIZATORIOS
+================================================================================
