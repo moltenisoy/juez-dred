@@ -1,0 +1,442 @@
+================================================================================
+ARCHIVO 42 — RÉGIMEN PROBATORIO Y PERICIAL
+CASO: DAÑOS POR OBRA CLANDESTINA LINDERA — MERLO, PBA
+DEPARTAMENTO JUDICIAL: MORÓN — PROVINCIA DE BUENOS AIRES
+ELABORADO: ABRIL 2026 — SISTEMA JUEZ-DRED
+================================================================================
+
+⚠️ ADVERTENCIA: Este documento es orientación jurídica general. NO reemplaza
+el criterio de un abogado matriculado.
+
+================================================================================
+SECCIÓN 1 — INFORME PERICIAL TÉCNICO: GUÍA COMPLETA
+================================================================================
+
+1.1 ¿QUIÉN LO HACE?
+
+Un SOLO profesional puede emitir un informe pericial técnico integral:
+
+  INGENIERO CIVIL (con especialidad en patologías edilicias o estructuras)
+  — O —
+  ARQUITECTO (colegiado en CAPBA, con experiencia pericial)
+
+Ambos tienen habilitación plena para emitir dictámenes periciales en causas
+de daños por edificación en la Provincia de Buenos Aires.
+
+En la práctica tribunalicia bonaerense, el INGENIERO CIVIL es el perfil
+preferido para causas con daños estructurales causales, porque su formación
+en cálculo estructural, suelos y cimentaciones le permite establecer con
+mayor autoridad técnica la relación de causalidad.
+
+El informe integral cubre:
+  ✓ Daños estructurales (rajaduras, cielorraso, techo, paredes)
+  ✓ Filtraciones, humedad y hongos
+  ✓ Red eléctrica expuesta y comprometida
+  ✓ Puertas y marcos metálicos afectados por corrosión
+  ✓ Muebles, piso de madera y demás bienes muebles del hogar
+  ✓ Electrodomésticos, indumentaria, colchón, hardware
+  ✓ Causalidad entre todos los daños y la obra lindante
+  ✓ Cuantificación económica de todos los rubros
+
+1.2 JERARQUÍA DE VALIDEZ PROBATORIA
+
+NIVEL 1 — MÁXIMA VALIDEZ (vinculante, alto peso judicial)
+Pericia de oficio — Designada por el Juzgado.
+El juez designa al perito de la lista oficial del Poder Judicial
+(Acuerdo SCBA 2728 y concordantes). Este dictamen es el de mayor
+peso probatorio. Solo rebatible con fundada crítica científica.
+Se solicita dentro del proceso judicial.
+
+NIVEL 2 — ALTA VALIDEZ (prueba de parte — documental técnica)
+Informe pericial de parte — Encargado y pagado por el damnificado.
+Emitido por ingeniero civil o arquitecto matriculado en CIPBA o CAPBA.
+Es la herramienta que debe obtenerse ANTES de iniciar la demanda.
+Funciona como prueba documental y como base para la pericia de oficio.
+Tiene plena validez judicial cuando cumple los requisitos formales.
+
+NIVEL 3 — VALIDEZ MEDIA (respaldo documental)
+Informe técnico simple — Profesional no inscripto en lista de peritos.
+Matrícula vigente pero sin inscripción pericial. Menor peso en juicio.
+
+NIVEL 4 — VALIDEZ MÍNIMA (solo orientativo)
+Presupuestos de reparación — Emitidos por empresas constructoras o
+técnicos sin matriculación específica. No constituyen prueba pericial
+pero son útiles para cuantificar el daño.
+
+RECOMENDACIÓN: Obtener informe pericial de parte (Nivel 2) emitido por
+Ingeniero Civil inscripto en CIPBA o listado del Dpto. Judicial de Morón.
+Luego, solicitar pericia de oficio (Nivel 1) dentro del proceso.
+
+1.3 ESTRUCTURA Y CONTENIDO OBLIGATORIO DEL INFORME PERICIAL
+
+ENCABEZADO E IDENTIFICACIÓN DEL PERITO:
+— Nombre completo y matrícula profesional vigente.
+— Número y tipo de título (Ingeniero Civil / Arquitecto).
+— Colegio profesional y número de matrícula.
+— Declaración de aceptación del cargo y juramento de objetividad.
+— Datos del comitente.
+
+OBJETO DE LA PERICIA:
+— Descripción precisa de los hechos que motivan la pericia.
+— Indicación de la obra lindera como presunto origen causal.
+— Referencia a falta de estudios técnicos previos y mala praxis.
+
+DESCRIPCIÓN DEL INMUEBLE DAMNIFICADO:
+— Ubicación, partida inmobiliaria, datos catastrales.
+— Descripción tipológica (materialidad, antigüedad, estado previo).
+— Plano de relevamiento (croquis o plano de situación).
+
+RELEVAMIENTO DE DAÑOS (componente central):
+— Descripción técnica de CADA daño:
+  * Rajaduras: ubicación, dirección, abertura, profundidad.
+  * Cielorraso: área afectada, desprendimientos, humedades.
+  * Techo: punto de entrada de agua, causa probable.
+  * Paredes: tipo de fisura, extensión, humedad asociada.
+  * Red eléctrica: tramos expuestos, riesgo determinado.
+  * Puertas/marcos: grado de corrosión y causa.
+  * Piso/muebles: tipo de daño, extensión.
+  * Bienes muebles: inventario valorizado (electrodomésticos,
+    hardware, colchón, ropa).
+— Registro fotográfico numerado y fechado de CADA daño.
+— Metodología (inspección visual, sondeos, higrómetro, análisis fisuras).
+
+ANÁLISIS DE CAUSALIDAD (componente de mayor peso legal):
+— Descripción de la obra lindera.
+— Falta de estudios técnicos previos: identificar si existía obligación
+  municipal/provincial de presentar estudio de suelo, cálculo estructural,
+  encomienda visada ante CIPBA/CAPBA.
+— Análisis técnico:
+  * Asentamientos diferenciales por excavación/pilotaje.
+  * Vibraciones por maquinaria.
+  * Impermeabilización de medianera no ejecutada.
+  * Corte o alteración de la capa freática.
+— NEXO CAUSAL: conclusión expresa sobre relación de causalidad adecuada.
+
+CUANTIFICACIÓN ECONÓMICA:
+— Costo de reparación de cada rubro (valores de mercado a fecha de informe).
+— Costo de reposición de bienes muebles (valores de reposición actuales,
+  no valor de uso).
+— TOTAL general.
+
+CONCLUSIONES Y DICTAMEN:
+— Síntesis de daños constatados.
+— Dictamen expreso sobre causalidad.
+— Recomendaciones de reparación y urgencia.
+— Firma y sello del profesional.
+— Fecha.
+
+DOCUMENTACIÓN ANEXA OBLIGATORIA:
+— Fotografías numeradas.
+— Plano de relevamiento de daños.
+— Presupuestos de reparación (al menos 2).
+— Currículum vitae del perito.
+— Constancia de matrícula vigente.
+— Copia de la encomienda visada ante CIPBA o CAPBA.
+
+1.4 FORMATO DEL INFORME
+
+— Papel A4, encuadernado o foliado correlativamente.
+— Redacción técnica pero comprensible.
+— Firma ológrafa y sello del profesional en cada hoja.
+— Visado: encomienda visada ante CIPBA (ingenieros) o CAPBA Distrito
+  correspondiente (arquitectos).
+
+⚠️ VERIFICACIÓN PENDIENTE: El Partido de Merlo pertenece al CIPBA
+Distrito VI según jurisdicción del Dpto. Judicial de Morón, y al CAPBA
+del distrito que cubre el oeste del conurbano. Verificar el distrito
+exacto antes de contratar al profesional.
+
+================================================================================
+SECCIÓN 2 — COSTOS APROXIMADOS A LA FECHA (ABRIL 2026)
+================================================================================
+
+Basados en:
+a) Tabla de Valores Referenciales del CAPBA vigente desde 01/04/2026:
+   Unidad Referencial (UR) de $1.518.000 (Resoluciones N° 8/26 y 7/26
+   CAUBA, Asamblea Extraordinaria N° 62 del 02/12/2025 de la CAAITBA).
+b) Tablas arancelarias del Decreto 6964/65 y modificatorios.
+c) Valores mínimos Título II, Art. 5° tabla CAPBA: oct. 2025 Inc. a)
+   $66.000 e Inc. b) $363.000, actualizados al nuevo UR de abril 2026.
+
+2.1 INFORME PERICIAL TÉCNICO INTEGRAL (Ingeniero Civil o Arquitecto)
+
+Componentes:
+— Honorario base (Inciso a): ~$76.000 mínimo (proyección UR abril 2026).
+— Honorario por trabajo de campo e informe (Inciso b): ~$420.000 mínimo.
+— Componente convencional: variable según complejidad.
+
+RANGO ESTIMADO TOTAL (orientativo):
+— Complejidad media: $500.000 — $1.500.000
+— Alta complejidad (ensayos de suelo, sondeos, asentamientos, múltiples
+  visitas): $1.500.000 — $4.000.000
+— Ratificación en juicio (audiencia de peritos): $300.000 — $800.000
+
+Equivalencia en USD (TCO BNA ~$1.220):
+— Complejidad media: USD 410 — USD 1.230
+— Alta complejidad: USD 1.230 — USD 3.280
+
+2.2 PROFESIONALES COMPLEMENTARIOS (NO OBLIGATORIOS)
+
+— Tasador de bienes (electrodomésticos, hardware, indumentaria):
+  $150.000 — $400.000.
+— Perito electricista matriculado: $100.000 — $300.000.
+RECOMENDACIÓN: Un único Ingeniero Civil de experiencia reconocida.
+La integralidad del informe en una sola firma tiene mayor coherencia.
+
+2.3 COSTOS ADICIONALES
+
+— Acta notarial de constatación: $150.000 — $400.000.
+— Honorarios de abogado al inicio: $500.000 — $2.000.000 + porcentaje.
+— Tasa de justicia: ~3% a 3,5% del monto reclamado (Ley 14.394 PBA).
+
+================================================================================
+SECCIÓN 3 — DÓNDE CONTRATAR AL PERITO
+================================================================================
+
+Para un caso en Merlo, PBA:
+
+a) CIPBA (Consejo de Ingeniería Civil PBA):
+   Listado de peritos inscriptos para Dpto. Judicial de Morón.
+   Web: www.cipba.com.ar
+
+b) CAPBA (Colegio de Arquitectos PBA):
+   Distrito correspondiente al oeste del conurbano.
+
+c) Poder Judicial de la PBA:
+   Solicitar al Juzgado Civil de Morón el listado oficial de peritos
+   designables para Ingeniería Civil o Arquitectura.
+
+d) CPIC (Ciudad Autónoma de Buenos Aires):
+   Consejo Profesional de Ingeniería Civil — peritos que pueden actuar
+   en el conurbano bonaerense.
+
+VERIFICAR SIEMPRE:
+✓ Matrícula profesional vigente (no inhabilitada).
+✓ Inscripción en lista de peritos judiciales actualizada.
+✓ Experiencia en patologías edilicias y daños por obra.
+✓ Referencias de actuaciones judiciales previas exitosas.
+
+================================================================================
+SECCIÓN 4 — PRUEBA ANTICIPADA PRE-DEMANDA
+================================================================================
+
+Regulación: Art. 326 CPCC PBA.
+Inc. 2: Reconocimiento judicial o dictamen pericial para hacer constar
+el estado, calidad o condición de cosas o lugares. ← DIRECTAMENTE APLICABLE.
+
+Jurisprudencia:
+— Cámara Civil y Com. San Nicolás, Sala 1°, Causa 910760, RSI-832-91
+  (26/12/1991), "Fane SA c/ Rosario Refrescos SACIFI": admitió
+  adelantamiento de trabajos periciales para constatar daños.
+— Cámara Nacional en lo Civil: confirmó rechazo cuando transcurrieron
+  casi DOS años desde el informe técnico inicial — la urgencia no puede
+  invocarse si el peticionante esperó demasiado.
+
+IMPORTANCIA CRÍTICA:
+El demandante necesita reparar pero si repara ANTES de producir la prueba
+pericial, destruye el escenario probatorio. Solución: PRUEBA ANTICIPADA.
+
+PROCEDIMIENTO:
+1) Presentar solicitud ante el Juzgado Civil de Morón ANTES de la demanda.
+2) Indicar: carácter de futuro demandante, identificación del futuro
+   demandado, descripción de la prueba, urgencia por necesidad de reparar.
+3) Prueba pericial solicitada:
+   a) PERITO INGENIERO CIVIL O ARQUITECTO: daño edilicio.
+   b) PERITO AMBIENTAL: humedad relativa y hongos (Aspergillus,
+      Cladosporium, Stachybotrys, etc.).
+   c) PERITO ELECTRICISTA: si hay daños en instalaciones eléctricas.
+   d) TASADOR INMOBILIARIO: valor del inmueble y disminución.
+4) El juez designa perito con notificación al futuro demandado.
+5) Acta notarial complementaria (no reemplaza la pericia).
+6) Una vez producida, SE PUEDE REPARAR sin perder el escenario probatorio.
+
+La pericia anticipada establece causas, efectos y valuaciones con valor
+probatorio de peritaje (Art. 474 CPCC PBA). El acta notarial solo
+documenta lo que el notario ve, sin valor técnico.
+
+================================================================================
+SECCIÓN 5 — CLASIFICACIÓN DE MATERIAL PROBATORIO POR VALIDEZ
+================================================================================
+
+5.1 PRUEBA VÁLIDA
+
+PERICIA JUDICIAL DE ARQUITECTO O INGENIERO:
+— Es la prueba reina. Sana crítica (arts. 384 y 474 CPCC PBA).
+— Debe: a) identificar tipo y extensión del daño; b) establecer nexo
+  causal; c) discriminar daños previos/propios.
+— Si no se impugna en plazo procesal, sus conclusiones prevalecen.
+
+ACTA NOTARIAL DE CONSTATACIÓN PREVIA AL INICIO DE OBRA:
+— Prueba preconstituida fundamental. El escribano constata in situ el
+  estado del inmueble ANTES de la obra.
+— Valor probatorio pleno para lo que el escribano percibe por sus sentidos.
+— Fe pública, solo atacable por redargución de falsedad.
+— Fallos Beltrandi y Pueyrredón: hito de cómputo de intereses y prueba
+  de estado previo.
+
+ACTA NOTARIAL DE CONSTATACIÓN POSTERIOR (DAÑOS):
+— Igual fundamento que la anterior. Las "manifestaciones auténticas"
+  del escribano tienen fe pública.
+— Lo que las partes declaran no goza de igual fuerza.
+
+PRUEBA ANTICIPADA (PERICIA O RECONOCIMIENTO JUDICIAL):
+— Art. 326 inc. 2 CPCC. Procede cuando hay peligro de pérdida de prueba.
+— Cámara Civil y Com. San Nicolás (Causa 910760, 1991): admitió
+  adelantamiento de pericias para constatar daños en lindero.
+— Interrumpe prescripción según criterio mayoritario.
+
+TESTIMONIO DE TESTIGOS PRESENCIALES:
+— Exige examen judicial. En Molinuevo, el testimonio del maestro mayor
+  de obra fue decisivo. Deben ser presenciales y coherentes con el plexo.
+
+INFORME DE INSPECTOR MUNICIPAL / ACTA DE INFRACCIÓN:
+— Instrumento público según ordenanzas municipales bonaerenses.
+— En GCBA/Tunnel Ceretti: base de responsabilidad por incumplimiento
+  del poder de policía edilicio.
+
+CARTAS DOCUMENTO / INTIMACIONES FEHACIENTES:
+— Prueban conocimiento del demandado y puesta en mora.
+— En Ceretti: datan los daños. Interrumpen prescripción (art. 2546 CCyC).
+
+PRESUPUESTOS DE REPARACIÓN:
+— En Andrade: presupuestos discriminados por rubro fueron aceptados.
+— Deben ser congruentes con las conclusiones periciales.
+
+INFORME PSICOLÓGICO PARA DAÑO MORAL:
+— En Molinuevo: el informe de la Lic. Viale fue valorado para
+  cuantificar daño moral, junto con testimonios de afectación al
+  proyecto de vida.
+— El daño moral se presume "in re ipsa" (art. 1078 CC / 1744 CCyC),
+  pero la pericia refuerza la cuantificación.
+
+FOTOGRAFÍAS ADJUNTAS A ACTA NOTARIAL:
+— Tienen valor de constatación pública. Fallos Andrade y Beltrandi
+  las mencionan expresamente. El escribano certifica que las tomó
+  en el momento de la constatación.
+
+5.2 PRUEBA CONDICIONAL
+
+FOTOGRAFÍAS SIMPLES DEL DEMANDANTE (SIN NOTARIZAR):
+— Valoradas por "sana crítica". Solas no acreditan origen ni fecha.
+— En Andrade: el demandado las desconoció pero testigos confirmaron.
+— Solo eficaces como corroboración de pericia o acta notarial.
+
+CAPTURAS DE REDES SOCIALES:
+— "Novopixe c/ Ruggieri", Cámara Mar del Plata Sala II (2024):
+  requieren prueba complementaria. Admisibles pero eficacia reducida
+  si no van con: a) acta notarial de la publicación; b) pericia
+  informática con hash; c) reconocimiento judicial.
+
+INFORME UNILATERAL DE PROFESIONAL CONTRATADO POR LA PARTE:
+— "Consorcio Pueyrredón": "adolecen de la misma subjetividad que las
+  declaraciones de la parte". No reemplazan pericia judicial.
+— Tienen valor orientativo, reforzados por pericia oficial.
+
+5.3 PRUEBA RECHAZADA O INVÁLIDA
+
+CAPTURAS DE PANTALLA SIMPLES IMPRESAS:
+— Por sí solas NO tienen validez probatoria. Fácilmente manipulables.
+— Deben hashearse, almacenarse en soporte no regrabable (CD-ROM, DVD-ROM)
+  y ofrecerse como documento electrónico con pericia informática.
+
+ANTIGÜEDAD DE LA CONSTRUCCIÓN COMO EXIMENTE:
+— RECHAZADA. Basabe (Lomas de Zamora, 2006): la antigüedad/obsolescencia
+  de la pared NO exime al constructor.
+
+IMPUGNACIÓN TARDÍA DEL DICTAMEN PERICIAL:
+— INVÁLIDA. En Pueyrredón y Molinuevo: quien no impugnó en plazo procesal
+  y solo cuestionó al alegar, tuvo argumento rechazado. El silencio
+  consolida las conclusiones del perito.
+
+DESVALORIZACIÓN DEL INMUEBLE / PRIVACIÓN DE USO FUTURO:
+— RECHAZADA frecuentemente. En Molinuevo: expresamente rechazada la
+  "privación de uso futuro" y "desvalorización del inmueble".
+— La jurisprudencia tiende a rechazar lucro cesante especulativo sin
+  acreditación concreta.
+
+DAÑO MORAL POR SIMPLES MOLESTIAS:
+— RECHAZADA. Basabe: "el daño moral de los propietarios del inmueble
+  vecino" fue rechazado. "El simple detrimento de los bienes materiales
+  sin ataques al orden afectivo no justifica el daño moral."
+— Se requiere acreditar afectación real de la esfera íntima, vida
+  cotidiana, proyecto de vida, o salud psicológica.
+
+================================================================================
+SECCIÓN 6 — ESTRATEGIA PROBATORIA ÓPTIMA (SECUENCIA)
+================================================================================
+
+1) Acta notarial ANTES del inicio de obra (estado previo).
+2) Acta notarial de daños durante/después.
+3) Prueba anticipada pericial judicial (Art. 326 CPCC PBA).
+4) Denuncia municipal + acta de inspección.
+5) Cartas documento al responsable.
+6) Testimonios.
+7) Presupuestos de reparación congruentes con pericia.
+
+================================================================================
+SECCIÓN 7 — ACREDITACIÓN DE DAÑOS EN HARDWARE INFORMÁTICO
+================================================================================
+
+Acreditación del nexo causal (daño en inmueble → daño en hardware):
+El informe técnico sobre el estado del inmueble (filtraciones, humedad de
+cimiento, ingreso de agua) es fundamental. Cuando se prueba la deficiencia
+de la finca lindera que genera humedad ambiente, se establece presunción
+de causalidad sobre el deterioro de bienes muebles en dicho entorno.
+
+Prueba documental:
+— Facturas/boletas: acreditan titularidad y valor de adquisición.
+— Fotografías y videos: prueba visual de oxidación y corrosión. Si la
+  contraparte desconoce autenticidad, valor limitado sin pericia.
+
+Informe técnico de parte vs. pericia judicial:
+— El informe del especialista tiene valor como "documental" o "principio
+  de prueba". Para degradación técnica interna (vida útil de MOSFETs,
+  capacitores, etc.), el Art. 457 CPCC PBA establece que la prueba
+  pericial es el medio idóneo.
+
+Estimación judicial (Art. 165 CPCC PBA):
+Si las fotos demuestran daño (oxidación visible) pero no hay pericia
+técnica compleja, el juez puede fijar el monto prudencialmente.
+
+Cargas dinámicas (Art. 1735 CCyCN):
+La carga de la prueba recae sobre quien está en mejor condición de probar.
+Si el demandante prueba humedad extrema y el demandado no demuestra que
+sus instalaciones no eran la causa, su silencio juega a favor del actor.
+
+⚠️ RIESGO de insuficiencia probatoria: Sin perito que aplique estándares
+(norma IPC-A-610, Modelo de Peck), el juez podría limitar el daño a lo
+visible (corrosión superficial) y rechazar la recomposición total por
+"acortamiento de vida útil" como daño hipotético.
+
+================================================================================
+SECCIÓN 8 — EFECTO PROBATORIO DE LA CLANDESTINIDAD DE LA OBRA
+================================================================================
+
+La ausencia de toda documentación por parte del denunciado produce:
+
+1) Activación de cargas dinámicas de prueba (Art. 1735 CCyCN): el juez
+   desplaza la carga hacia quien esté en mejores condiciones de producir
+   la prueba. El denunciado, al no tener ningún documento, no puede
+   probar nada.
+
+2) Fortalecimiento del informe de parte: no hay nada que lo contradiga
+   técnicamente.
+
+3) Imposibilidad de alegar daños preexistentes: El denunciado no realizó
+   relevamiento previo del estado del inmueble afectado. No tiene prueba
+   del estado previo. Todo daño documentado por el demandante queda sin
+   contrapeso documental.
+
+4) La única defensa viable del denunciado es impugnar el nexo causal
+   del informe técnico, pero las impugnaciones deben ser técnicas y
+   específicas (no genéricas). Sin documentación propia, cualquier
+   impugnación será genérica y la jurisprudencia las rechaza.
+
+5) El informe de parte NO equivale a pericia judicial. Para consolidar
+   la posición, lo óptimo es que sea confirmado por la pericia oficial
+   del proceso judicial. Si el informe de parte está bien fundado y la
+   pericia oficial lo ratifica, la posición del denunciado colapsa.
+
+================================================================================
+FIN DEL ARCHIVO 42 — RÉGIMEN PROBATORIO Y PERICIAL
+================================================================================
