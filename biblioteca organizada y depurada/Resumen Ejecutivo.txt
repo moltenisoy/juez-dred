@@ -1,0 +1,396 @@
+Resumen Ejecutivo
+En los últimos tres años la Provincia de Buenos Aires no registra numerosos precedentes sobre
+demandas vecinales por obras lindantes, pero destacan algunos fallos claves. Por ejemplo, la Cámara
+de Lomas de Zamora (17/10/2024) admitió la demanda de la propietaria afectada por la demolición de
+la casa contigua y la construcción de un edificio de diez pisos . Se confirmó la condena a la
+constructora y propietarios lindantes, ajustando el monto indemnizatorio (ars 17.540.000) y los
+intereses . En igual sentido, la Cámara de Quilmes (6/2/2024) ratificó indemnizar a los dueños por
+rajaduras y filtraciones causadas por obras vecinas, aplicando responsabilidad objetiva (art. 1113 CCivC)
+contra el dueño de la obra y la constructora . En apelación se incrementó la indemnización por
+daño moral (a 2.8 M) e incluyó a la aseguradora responsable .
+En estos casos se repiten criterios sólidos: asume responsabilidad objetiva por actividad riesgosa (obra
+edilicia) y existe nexo causal demostrado por peritos (fisuras, humedad, etc.) . No se encontró en
+la jurisprudencia provincial reciente divergencia significativa: el dueño/constructora asume los riesgos
+aun sin culpa directa. Tampoco se identifican precedentes recientes sobre prescripción o cautelares
+específicos para construcciones vecinas.
+Recomendaciones prácticas: Reforzar la prueba pericial (inspección técnica previa y posterior,
+informes de ingenieros) y fotográfica para documentar daños. Gestionar medidas provisionales
+(clausura o preservación de estructuras) de forma temprana aunque no figuren como estándares en
+jurisprudencia (falta casos recientes). Se sugiere citar en garantía a la aseguradora de la obra y destacar
+la responsabilidad solidaria de todos los intervinientes (propietario, director de obra, constructora)
+. En resumen, la estrategia debe enfocarse en acreditar cabalmente el nexo causal (pericias e
+inspecciones judiciales) y aprovechar la responsabilidad objetiva consagrada en el art. 1113 CCivC,
+minimizando debates sobre culpa o prescripción, que en la práctica son rechazados si existe prueba
+fehaciente de daño . A modo de limitaciones, cabe notar la escasez de fallos provinciales
+recientes sobre obras públicas o cautelares específicas; buena parte de la doctrina proviene de casos
+federales o anteriores.
+1 2
+2
+3 4
+4
+1 3
+3
+4
+1 2
+1
+Casos Relevantes (PBA)
+Carátula /
+Expte.
+Fecha Tribunal
+(Sala) Hechos clave Decisión y
+fundamento clave
+Enlace
+fuente
+Beltrandi
+Jorge
+Sebastián c/
+Fdo. Vergara
+1625-Banfield
+y otros s/
+Daños y
+perjuicios <br>
+Expte.
+LZ-31597-2014
+17/10/2024
+Cámara
+Apel. Civil
+y
+Comercial
+– Lomas
+de
+Zamora
+(Sala I)
+Edificación de
+un edificio de
+10 pisos en
+terreno lindero
+produjo
+demolición de
+la vivienda
+previa, daño a
+la medianera
+trasera (fisuras,
+filtraciones)
+. La obra
+rompió
+estructuras y
+muro vecino.
+Confirma
+condena. Se
+ratificó la
+responsabilidad
+objetiva de la
+constructora y
+propietarios
+lindantes en
+cuanto a la
+ejecución
+defectuosa. Se
+confirmó
+indemnización
+(ajustada a
+ARS 17.540.000)
+con intereses,
+condenando a
+todos los
+demandados (con
+costas) . El
+fallo subraya que
+el daño fue
+probado
+pericialmente y
+que pesa sobre la
+constructora el
+deber de
+reparación
+.
+[Sentencia
+oficial
+SCBA][42]
+1
+2
+1
+2
+2
+Carátula /
+Expte.
+Fecha Tribunal
+(Sala) Hechos clave Decisión y
+fundamento clave
+Enlace
+fuente
+G.E.A. y otro/a
+c/ N.A. S.A. y
+otros s/ Daños
+y perjuicios
+<br> Expte.
+QL-25184-2022
+06/02/2024
+Cámara
+Apel. Civil
+y
+Comercial
+– Quilmes
+(Sala II)
+Construcción
+de una obra en
+inmueble
+vecino provocó
+asentamientos
+diferenciales y
+rajaduras en la
+casa vecina. La
+pericia técnica
+determinó
+vibraciones y
+filtraciones
+causadas por
+maquinarias en
+obra, afectando
+la vivienda del
+actor .
+Revoca
+parcialmente. Se
+aplica
+responsabilidad
+objetiva (art. 1113
+CCivC) a dueños y
+contratistas de la
+obra. Se
+incrementa el
+daño moral a
+ARS 2.800.000
+total
+(ARS 1.400.000 a
+cada actor) y
+se extiende la
+condena a la
+aseguradora de la
+constructora
+(F.P.S. S.A.) por el
+monto de la
+cobertura. Se
+confirmaron los
+demás rubros
+indemnizatorios y
+se reasignaron
+costas (70% a
+demandado, 30%
+a actor) .
+[Sentencia
+oficial
+SCBA][68]
+Tabla: Comparativo de fallos. En ambos casos, los tribunales confirmaron procedencia de la demanda.
+Destaca la responsabilidad objetiva por “riesgo de la cosa” (art. 1113 CCivC) y la relevancia de la prueba
+pericial para establecer nexo causal .
+Criterios Reiterados
+Legitimación activa/pasiva: Se adminten como actores los propietarios vecinales directamente
+damnificados (o sus gestores). Los sujetos pasivos son quienes intervinieron en la obra:
+propietarios lindantes, contratistas y, cuando corresponde, aseguradoras vinculadas .
+Esto confirma que la demanda puede dirigirse contra todos los que tengan relación con la obra
+riesgosa. No se exige que el demandante sea propietario original; quien demuestre perjuicio
+concreto (p. ej. condómino) puede activar la acción resarcitoria, actuando incluso como gestor de
+copropietarios (Principio actio ad exhibendum).
+Prescripción: En los fallos recientes no se mencionan plazos impeditivos concretos. Dado que se
+trató de daños en construcción, aplican los plazos generales del CCivC (general 10 años para
+obligación extracontractual, 5 o 2 según casos). En la práctica, los tribunales parecen
+concentrarse en la prueba del daño y causalidad, sin invocar prescripción al no haber dilaciones
+extremas en la demanda.
+3
+4
+4
+1 3
+•
+3 4
+•
+3
+Prueba pericial: Elemento clave. En Beltrandi el ingeniero forense determinó que la rotura de la
+medianera ocurrió durante la demolición próxima ; ese informe fue vinculante. La Sala afirmó
+que el nexo causal quedó probado “por la consideración y evaluación de los daños” tal como
+certificó el perito . En G.E.A., se aceptó la pericia de vibraciones como evidencia suficiente. En
+ambos casos, la pericia técnica fue imprescindible para admitir el reclamo y configurar la
+responsabilidad, alineándose con la doctrina de “riesgo de la cosa”.
+Medidas cautelares: No se registran precedentes recientes en PBA sobre dictar demoliciones o
+clausuras preventivas específicas en estos litigios. En principio, la jurisprudencia admite medidas
+tendientes a evitar agravios mayores, pero los casos vistos no explicitan aplicación de cautelar
+(más allá de suspender definitivas si correspondía). En general, si existiera riesgo inminente (por
+ejemplo, obra ilegal activa), cabría instar al juez medidas provisionales (demolición o
+paralización) basándose en el peligro en la demora y el principio precautorio, aunque no hay
+pronunciamientos locales específicos.
+Indemnización: Se reconocen daños materiales y morales. En G.E.A. se otorgó daño moral por la
+alteración grave de la habitabilidad (valorizado en $1.400.000 por actor) . Beltrandi se orientó
+a cuantificar los daños materiales (arreglo medianeras, reparaciones) sumando intereses . En
+ambos, las indemnizaciones son “nominales” (sin indexar) conforme al art. 7 de la Ley 23.928
+(principio nominalista), como lo ratificó la Cámara de Quilmes . Las cortes provinciales
+respaldan la cautela al momento de cuantificar, ajustando sumas si resultan desproporcionadas
+.
+Obra privada vs. pública: No se hallaron fallos provinciales recientes referidos a obras públicas
+(ej. municipales o provinciales) que afecten propiedad privada. Sin embargo, la doctrina indica
+que para obra pública rige régimen especial (lex specialis): responsabilidad estatal objetiva,
+régimen de indemnización según leyes (p.ej. Ley 13.133 PBA sobre responsabilidad del Estado).
+En cambio, las fallos hallados solo tratan obras privadas. De todos modos, las pautas de prueba
+(pericia, nexo) y de responsabilidad (imprudencia, riesgo) son análogas; la diferencia será quién
+responde legalmente (ente estatal o sus contratistas).
+Tabla Comparativa de Fallos (resumen)
+Carátula / Tribunal /
+Fecha Hechos Decisión clave
+Beltrandi c/ Fdo.
+Vergara 1625-
+Banfield y otros <br>
+Cám. Apl. Civ. Lomas
+Zamora (I), 17/10/2024
+Demolición de casa vecina y
+construcción contigua de 10
+pisos provocó fisuras y
+filtraciones en pared
+medianera .
+Confirma condena civil. Se aplica
+responsabilidad objetiva de
+constructora/propietarios (art. 1113
+CCivC). Se fija indemnización
+(ARS 17.540.000) por daños materiales,
+con intereses .
+G.E.A. y otro/a c/ N.A.
+S.A. y otros <br> Cám.
+Apl. Civ. Quilmes (II),
+06/02/2024
+Asentamientos diferenciales
+en vivienda causaron
+rajaduras y pérdida de
+servicio por obras de edificio
+lindero. Peritaje vinculó
+vibraciones y suelo removido
+con los daños.
+Revoca parcialmente: responsabilidad
+objetiva del dueño y construc. (art. 1113
+CCivC). Eleva indemnización por daño
+moral a $2.800.000 total (1.4M c/actor) y
+amplía condena a aseguradora F.P.S.
+S.A. . Costas modificadas.
+•
+1
+1
+•
+•
+4
+2
+5
+2
+•
+6
+1
+2
+3
+4
+4
+Carátula / Tribunal /
+Fecha Hechos Decisión clave
+Otros (jurisprudencia
+federal y doctrina)
+Consultas y casos históricos
+sugieren: propietarios /
+locatarios se responsabilizan
+por daños a inmuebles
+linderos causados por sus
+actividades (industriales o
+constructivas) .
+Sin precedentes PBA recientes específicos,
+pero se aplica análogamente
+responsabilidad objetiva por obras, y el
+propietario de un inmueble dañado por
+obra vecina puede reclamar
+indemnización (material y moral)
+proveniente de pruebas fehacientes de
+daño y culpa del demandado .
+Fuente de tablas: Fallos judiciales citados .
+timeline
+ title Líneas de tiempo de fallos (PBA)
+ 2024 : 06/02/2024 G.E.A. y otro/a c/ N.A. S.A. y otros s/ Daños y
+perjuicios (Cámara Quilmes)
+ 2024 : 17/10/2024 Beltrandi c/ Fdo. Vergara 1625-Banfield y otros s/
+Daños (Cámara Lomas de Zamora)
+graph LR
+ A[Construcción vecina] --> B[Daños en inmueble linderos]
+ B --> C[Informe pericial]
+ C --> D[Nexo causal probado]
+ D --> E[Responsabilidad objetiva (art. 1113 CCivC)]
+ E --> F[Indemnización (daño material/moral)]
+ F --> G[Ejecución de condena]
+ style E fill:#ffcccc,stroke:#c00,color:#000;font-weight:bold
+ style F fill:#ccffcc,stroke:#090,color:#000;font-weight:bold
+Conclusiones Prácticas
+Estrategia probatoria: Documentar con precisión las obras y daños. Conviene solicitar
+inspección ocular judicial y designar peritos (ingeniero civil o arquitecto) para dictámenes
+técnicos. Fotografías y certificaciones notariales antes/después fortalecen la prueba. No basarse
+en “imputaciones genéricas”: los tribunales exigen pericia concreta que establezca cómo la obra
+causó el daño (ver dictamen en Beltrandi ).
+Medidas cautelares: Aunque la jurisprudencia reciente no exige una fórmula especial, es
+recomendable peticionar cuanto antes medidas urgentes si la obra está en curso (p. ej. clausura
+o suspensión de tareas) para evitar agravios mayores. Fundamente el peligro en la demora en
+proteger el inmueble afectado y cite responsabilidad objetiva subyacente (por ejemplo, riesgo
+estructural).
+Legitimación y partes: Demandar al propietario del inmueble donde se ejecuta la obra y al/los
+responsables de la obra (empresa constructora, director de obra), además de invitar en garantía
+7
+1 4
+6 1 2 3 4
+3 4
+1 2
+•
+1
+•
+•
+5
+a la aseguradora contratada. Los casos citados demuestran que se acepta accionar contra todos
+los involucrados (como en Quilmes, donde se incluyó a la aseguradora) .
+Contenidos de la demanda: Enfocar el reclamo en la afectación de la habitabilidad (humedades,
+grietas, perjuicio funcional), describiendo los daños específicos y vinculación temporal con la
+obra. Incluir daños materiales (reparación de paredes, instalaciones) y daño moral por privación
+del uso o deterioro de la vivienda, justificando montos con normas de cálculo razonable (referir a
+precedentes similares y a pericia económica).
+Riesgos procesales: Preparar contraargumentos a defensas típicas: negará el demandado su
+responsabilidad o invocará prescripción. Exponer desde el inicio el ciclo temporal: cuándo
+empezó la obra y cuándo aparecieron los daños (para derrotar prescripción). En la práctica local,
+el tribunal espera que el demandante pruebe la continuidad en el uso de su vivienda (p. ej. con
+testigos) y el vínculo con la obra, sin cargarlo con demostrar la culpa ajena. Concentrarse en la
+regla de riesgo, que desplaza la carga de la prueba al demandado, es más eficaz que discutir
+culpa o vicios propios del inmueble (salvo que existan claros).
+Limitaciones: La escasa jurisprudencia reciente en PBA implica que algunas respuestas (sobre
+cautelares específicas o diferenciales de obra pública) se inferirán de principios generales y
+casos federales. Asimismo, en litigios muy técnicos conviene prever costos de pericia y tiempo
+de proceso (los fallos citados muestran que estos casos suelen tramitarse varios años).
+En suma, la experiencia judicial provincial aconseja centrar la demanda en hechos contundentes (daño
+acreditado con peritaje), aprovechar el régimen objetivo de responsabilidad por obra y estructurar la
+prueba desde el inicio con informes expertos, para lograr condenas a los responsables de la obra
+lindera .
+Limitaciones de la búsqueda: Se enfatiza que sólo se hallaron casos judiciales provinciales recientes
+en materia de obras privadas (construcciones de consorcios o casas particulares). No se identificaron
+fallos 2023-2026 referidos expresamente a obras públicas en terrenos privados ni específicas medidas
+cautelares en la provincia. Se asumió como daños graves el supuesto base (pérdida de habitabilidad),
+dado que los expedientes encontrados ilustran situaciones de filtraciones, grietas y humedades severas
+.
+Fuentes: Jurisprudencia oficial de la Provincia de Buenos Aires (Suprema Corte y Cámaras de Apelación)
+en fallos publicados . Estos textos fueron consultados en los sitios del Poder Judicial
+PBA y citados conforme sus registros oficiales.
+scba.gov.ar
+https://www.scba.gov.ar/includes/descarga.asp?id=55593&n=Ver%20sentencia%20(causa%20N%B0%2031.597).pdf
+scba.gob.ar
+https://www.scba.gob.ar/includes/descarga.asp?id=53921&n=Ver%20sentencia%20(causa%20N%B0%2025.184).pdf
+#Fallos Construcción de obra: Procedencia de una demanda de daños, generados a un inmueble a
+raíz de una construcción realizada en inmueble vecino | Microjuris Argentina al Día
+https://aldiaargentina.microjuris.com/2024/04/08/fallos-construccion-de-obra-procedencia-de-una-demanda-de-danosgenerados-a-un-inmueble-a-raiz-de-una-construccion-realizada-en-inmueble-vecino/
+4
+•
+•
+•
+1 4
+1
+6 1 2 3 4
+1 2 6
+3 4
+5
+6
+El locatario de un inmueble y titular de una explotación industrial es responsable ante el daño
+ocasionado a un inmueble lindero, por rajaduras, filtraciones y humedades derivadas del uso de
+máquinas | Microjuris Argentina al Día
+https://aldiaargentina.microjuris.com/2017/05/17/el-locatario-de-un-inmueble-y-titular-de-una-explotacion-industrial-esresponsable-ante-el-dano-ocasionado-a-un-inmueble-lindero-por-rajaduras-filtraciones-y-humedades-derivadas-del-uso-demaquinas/
