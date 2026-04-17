@@ -1,0 +1,426 @@
+================================================================================
+ARCHIVO 41 — ESTRATEGIA PROCESAL Y HERRAMIENTAS JUDICIALES
+CASO: DAÑOS POR OBRA CLANDESTINA LINDERA — MERLO, PBA
+DEPARTAMENTO JUDICIAL: MORÓN — PROVINCIA DE BUENOS AIRES
+ELABORADO: ABRIL 2026 — SISTEMA JUEZ-DRED
+================================================================================
+
+⚠️ ADVERTENCIA: Este documento es orientación jurídica general. NO reemplaza
+el criterio de un abogado matriculado.
+
+================================================================================
+SECCIÓN 1 — COMPETENCIA TERRITORIAL
+================================================================================
+
+El Partido de Merlo integra plenamente el Departamento Judicial de Morón
+para el fuero Civil y Comercial.
+
+Fundamento normativo:
+— Ley 5827 (Orgánica del Poder Judicial PBA): Define cabeceras departamentales.
+— Art. 15 Ley 5827: Morón tiene competencia territorial en los partidos de
+  Morón, Hurlingham, Ituzaingó y Merlo (hasta la efectiva puesta en marcha
+  de los nuevos órganos en Merlo).
+— Art. 5 CPCC PBA: Competencia por naturaleza de las pretensiones.
+— Ley 13.859: Creó el Departamento Judicial de Merlo, pero su implementación
+  en materia civil y comercial no es total.
+
+Datos del Departamento Judicial de Morón:
+— 12 Juzgados de Primera Instancia en lo Civil y Comercial.
+— Centralizados en el edificio de Almirante Brown y Colón.
+— Receptoría General de Expedientes: titular Dra. María G. Corradi,
+  planta baja del palacio de justicia de Morón.
+
+Sistema de ingreso: Exclusivamente por medios electrónicos (Acordadas
+SCBA 3975/20 y mod.). Mesa de Entradas Virtual (MEV) y sistema Augusta.
+
+⚠️ ALERTA: Merlo ya tiene algunos órganos judiciales propios (Juzgados de
+Familia y de Paz), pero para juicios ordinarios de daños y perjuicios, la
+competencia sigue radicada en Morón. Presentar la demanda en un departamento
+equivocado generaría excepción de incompetencia. Verificar que el mediador
+esté matriculado en Morón conforme Ley 13.951.
+
+Encabezamiento de la demanda: "Promueve Demanda por Daños y Perjuicios.
+Objeto: Daños en Propiedad Lindera. Jurisdicción: Departamento Judicial
+de Morón".
+
+================================================================================
+SECCIÓN 2 — BENEFICIO DE LITIGAR SIN GASTOS (BLSG)
+================================================================================
+
+Regulación: Arts. 78-86 CPCC PBA (Ley 7425).
+
+Art. 78: "Los que carecieren de recursos podrán solicitar, antes de
+presentar la demanda o en cualquier estado del proceso, la concesión
+del beneficio de litigar sin gastos..."
+Art. 79: Contenido de la solicitud (hechos, caja de previsión, prueba).
+Art. 83: Hasta que se dicte resolución, tramitación gratuita.
+Art. 84: El beneficiario queda exento de todo pago de tasas, sellados,
+costas y honorarios hasta que mejore de fortuna.
+
+Se puede iniciar simultáneamente con la demanda o incluso antes.
+Su interposición otorga de inmediato un BENEFICIO PROVISIONAL que permite
+avanzar con el juicio mientras se produce la prueba de la carencia de recursos.
+
+Alcance del BLSG:
+— Eximición de tasa de justicia.
+— Eximición de sellados.
+— Eximición de adelantos de gastos y honorarios de peritos.
+— Posibilidad de obtener medida cautelar sin contracautela real
+  (basta la juratoria).
+
+Requisitos de prueba: Proponer dos testigos que declaren sobre la
+situación patrimonial del solicitante.
+
+Aplicación al caso: Permite que el Juzgado de Morón designe un Ingeniero
+Civil y un Perito Electricista de oficio sin costo para el demandante.
+
+⚠️ ALERTA — Mejora de fortuna: Si el actor gana el juicio, deberá pagar
+costas pendientes (tasa de justicia y honorarios) con hasta la tercera
+parte de lo que reciba (Art. 84 CPCC). Si los testigos son contradictorios
+o se demuestra que tiene bienes no declarados, el beneficio puede ser
+rechazado, obligándolo a pagar la tasa de justicia (2.2% del monto de
+demanda) bajo apercibimiento de paralización del proceso.
+
+================================================================================
+SECCIÓN 3 — MEDIDAS CAUTELARES
+================================================================================
+
+3.1 EMBARGO PREVENTIVO SOBRE INMUEBLE DEL DEMANDADO
+
+Fundamento: Art. 209 CPCC PBA.
+Procede plenamente sobre el inmueble donde se emplaza la obra lindera,
+aun cuando sea la vivienda del demandado.
+
+Ley 14.432 PBA (vivienda única): inoponible ante deudas originadas en
+la propia construcción o mejoras de la vivienda (Art. 5 inc. B).
+
+Con BLSG, la contracautela es meramente "juratoria" (declaración bajo
+juramento de responder por eventuales daños).
+
+Verosimilitud: Acta de cierre de mediación + fotografías del peligro.
+Peligro en la demora: Estado de la obra clandestina.
+
+⚠️ La Ley 14.432 es frecuentemente declarada inconstitucional por los
+juzgados de PBA por invadir facultades del Congreso Nacional (Art. 75
+inc. 12 CN), ya que el régimen de protección de vivienda está unificado
+en el CCCN (Art. 244).
+
+3.2 INHIBICIÓN GENERAL DE BIENES
+
+Fundamento: Art. 228 CPCC PBA.
+SUBSIDIARIA al embargo — solo procede cuando el embargo no es posible
+o no alcanza para cubrir el crédito reclamado.
+
+Se inscribe en el Registro de la Propiedad Inmueble PBA y en el Registro
+Nacional de Propiedad del Automotor.
+Impide al inhibido vender, hipotecar o gravar CUALQUIER bien registrable.
+
+Investigación patrimonial previa requerida:
+— Oficio al Registro de la Propiedad Inmueble PBA.
+— Oficio al Registro Nacional del Automotor.
+— Oficio a AFIP.
+— Oficio a BCRA (sistema SIRCREB).
+
+3.3 EMBARGO DE HABERES
+
+Arts. 219-221 CPCC PBA. Límite del 20% del salario neto mensual.
+
+3.4 MEDIDA CAUTELAR INNOVATIVA
+
+Solicitar retiro inmediato del tanque de 750 kg y la impermeabilización
+de la losa. Incluir pedido de astreintes por cada día de retraso, una vez
+vencido el plazo que fije el juez (48 o 72 horas).
+
+================================================================================
+SECCIÓN 4 — ASTREINTES / SANCIONES CONMINATORIAS
+================================================================================
+
+Fundamento normativo:
+— Art. 804 CCCN: "Los jueces pueden imponer condenaciones conminatorias
+  pecuniarias a quienes no cumplen deberes jurídicos impuestos en una
+  resolución judicial. Las condenas se gradúan en proporción al caudal
+  económico de quien debe satisfacerlas y pueden ser dejadas sin efecto
+  o reajustadas."
+— Art. 37 CPCC PBA: Sanciones conminatorias proporcionales.
+
+En casos de riesgo de vida o integridad física, los montos suelen ser
+entre $50.000 y $200.000 diarios (valores 2024-2025).
+
+Jurisprudencia:
+— Cámara CA de San Martín, "Pérez c/ Ministerio de Salud", Causa 11948,
+  25/09/2024: astreintes de $150.000 por día de retardo.
+— "Solares c/ Dias", 16/05/2024: astreintes elevadas de $1.000 a $2.000
+  diarios por mora.
+
+⚠️ Las astreintes NO son definitivas. Tienen carácter provisional. Pueden
+ser reducidas si el demandado demuestra impedimento fáctico justificado.
+No ingresan al patrimonio del acreedor hasta liquidación firme y consentida.
+
+================================================================================
+SECCIÓN 5 — DENUNCIA DE DAÑO TEMIDO
+================================================================================
+
+Fundamento: Art. 623 bis CPCC PBA: "Quien tema que de un edificio o de
+otra cosa derive un daño grave e inminente a sus bienes, puede solicitar
+al juez las medidas de seguridad adecuadas, si no mediare anterior
+intervención de autoridad administrativa por el mismo motivo."
+Art. 623 ter CPCC PBA: Allanamiento de domicilio para reparaciones urgentes.
+Arts. 1710-1713 CCCN — Acción preventiva.
+Art. 2192 CCCN — Temor fundado de sufrir un daño.
+
+Naturaleza: Cautelar-preventiva. No prejuzga sobre la indemnización.
+
+Ventajas:
+1) Resolución judicial INMEDIATA.
+2) El juez puede ordenar reparaciones urgentes.
+3) Puede ordenar ingreso al inmueble del demandado (Art. 623 ter).
+4) Compatible con el proceso de daños: vías acumulables.
+
+Condición de procedencia: Solo procede "si no mediare anterior
+intervención de autoridad administrativa por el mismo motivo."
+
+================================================================================
+SECCIÓN 6 — ACCIÓN DE AMPARO CONSTITUCIONAL
+================================================================================
+
+Base constitucional: Art. 20 Constitución PBA.
+Regulación procesal: Ley 13928 PBA.
+Art. 43 Constitución Nacional.
+Art. 1710 CCCN — Deber de prevención.
+
+Procede contra actos u omisiones de particulares o del Estado que con
+arbitrariedad o ilegalidad manifiesta lesionen derechos constitucionales.
+
+Ventajas:
+1) Plazos brevísimos.
+2) Cautelar inmediata.
+3) Derechos invocables: Art. 36 inc. 7° Const. PBA (hábitat digno) +
+   Art. 28 (ambiente sano).
+4) Procede frente a particulares (Ley 13928 PBA).
+
+Límites:
+— Solo procede cuando NO existe "otro medio judicial más idóneo"
+  (subsidiariedad). Admitido si hay urgencia y peligro inminente.
+— NO reemplaza la acción de daños: son vías complementarias.
+— Plazo de interposición: 90 días hábiles desde que el acto lesivo fue
+  conocido (Art. 2 Ley 13928 PBA).
+
+Relación con daño temido (Art. 623 bis): Son vías ALTERNATIVAS y
+potencialmente acumulables. El daño temido es más específico para daños
+inminentes a bienes. El amparo tiene mayor amplitud.
+
+================================================================================
+SECCIÓN 7 — ACTUALIZACIÓN MONETARIA / TASA DE INTERÉS
+================================================================================
+
+Doctrina vigente: Fallo "Barrios" (SCBA, C. 124.096, abril 2024).
+
+Para "deudas de valor" (como daños por obra lindera):
+— Cuantificar a valores reales al momento de la sentencia.
+— Desde el hecho hasta sentencia: interés puro del 6% anual.
+— Desde sentencia hasta pago: actualización por IPC o CER + 6% puro.
+
+Petitorio recomendado: "La suma de $ [estimada hoy], o lo que en más o
+en menos resulte de la prueba, cuantificada a valores actuales al momento
+de la sentencia conforme Art. 772 CCCN y doctrina 'Barrios'."
+
+⚠️ RIESGO — Pluspetición inexcusable: Si el actor reclama suma fija
+exorbitante sin usar la fórmula "lo que en más o en menos resulte de la
+prueba", puede ser condenado al pago de costas por la diferencia. Siempre
+invocar la naturaleza de "obligación de valor".
+
+Cómputo de intereses: Art. 1748 CCCN — Los intereses NO corren desde la
+demanda sino desde que se produce cada perjuicio.
+
+================================================================================
+SECCIÓN 8 — CADUCIDAD DE INSTANCIA
+================================================================================
+
+Regulación: Art. 310 CPCC PBA.
+— Inc. 1: 6 meses en primera o única instancia.
+— Inc. 2: 3 meses en segunda o ulterior instancia y justicia de paz.
+— Inc. 3: 3 meses en procesos sumarios, sumarísimos y ejecutivo.
+— Inc. 4: En el que se opere la prescripción de la acción, si fuera menor.
+
+Ley 13986 PBA (2009): La caducidad puede solicitarse por el demandado
+solo UNA VEZ en primera instancia. Antes de decretarse, el tribunal
+intima por 5 días para actividad procesal útil.
+
+Actos que interrumpen la caducidad:
+— Cualquier presentación, ofrecimiento de prueba, peticiones al tribunal,
+  notificaciones impulsadas por la parte actora.
+— Debe ser dentro del expediente.
+
+Consecuencias: La instancia caduca pero la acción NO prescribe si el plazo
+de prescripción aún no venció. Sin embargo, la prescripción declarada
+caduca se tiene como no interrumpida (Art. 2547 CCCN).
+
+Estrategia preventiva:
+1) Calendarizar plazos desde el inicio.
+2) Presentar escritos de impulso regularmente.
+3) Ante riesgo: presentar cualquier petición al tribunal.
+
+================================================================================
+SECCIÓN 9 — RECONVENCIÓN DEL DEMANDADO
+================================================================================
+
+Regulación: Art. 357 CPCC PBA — En proceso ordinario, el demandado puede
+reconvenir en el mismo escrito de contestación de demanda. La reconvención
+debe derivar de la misma relación jurídica o ser conexa.
+
+Posibles fundamentos de reconvención del Sr. Capria:
+1) Deuda de medianería: Si muro medianero, puede reclamar la mitad del
+   costo de construcción (Art. 2014 CCCN).
+2) Servidumbres: Si el demandante usara alguna sin derecho.
+3) Molestias anteriores: Si causó molestias al vecino previo a la obra.
+
+Defensa ante reconvención:
+— Anticipar fundamentos y reunir prueba contrarreconvencional.
+— Si hay deuda de medianería pendiente, negociar antes del juicio.
+— Oponer falta de conexidad si los hechos son independientes.
+
+================================================================================
+SECCIÓN 10 — RECURSO DE APELACIÓN Y SEGUNDA INSTANCIA
+================================================================================
+
+Segunda instancia: Cámara de Apelación en lo Civil y Comercial de Morón,
+integrada por dos Salas (Sala I y Sala II).
+
+Regulación: Arts. 244-259 CPCC PBA.
+— Art. 244: Recurso de apelación dentro de 5 días de notificada la
+  sentencia definitiva. 3 días para interlocutorios.
+— Art. 254: Expresión de agravios en plazo fijado por juez (10-15 días).
+— Art. 278: Recurso extraordinario ante SCBA (inaplicabilidad de ley).
+  Procede cuando la sentencia aplica incorrectamente doctrina legal de SCBA.
+
+Caducidad en segunda instancia: 3 meses (Art. 310 inc. 2° CPCC PBA).
+
+================================================================================
+SECCIÓN 11 — RÉGIMEN DE COSTAS Y HONORARIOS
+================================================================================
+
+Principio rector en PBA: "Principio objetivo de la derrota" — el vencido
+paga las costas.
+
+Regulación: Arts. 68-77 CPCC PBA.
+— Art. 68: Costas al vencido. El juez puede eximir si hay razón fundada.
+— Art. 71: Si resultado parcialmente favorable, distribución proporcional.
+— Ley 14967 PBA: Arancel de Honorarios de Abogados y Procuradores.
+— Arts. 461-478 CPCC PBA: Honorarios de peritos como carga procesal.
+
+Si la demanda prospera totalmente: costas al demandado.
+Si prospera parcialmente: costas en proporción.
+Honorarios de peritos: pagados inicialmente por quien ofreció la prueba,
+recuperados en la condena.
+
+================================================================================
+SECCIÓN 12 — DENUNCIA ANTE COLEGIOS PROFESIONALES
+================================================================================
+
+Si un arquitecto, ingeniero o maestro mayor de obras participó en la obra
+clandestina, puede ser objeto de:
+a) Denuncia disciplinaria ante CAPBA/Colegio de Ingenieros.
+b) Acción de responsabilidad civil profesional (Art. 1768 CCCN).
+
+Normativa: Ley 10405 PBA — Ejercicio profesional de arquitectura.
+Ley 12490 PBA — Estatuto del Consejo Profesional.
+
+Valor estratégico:
+1) Presión adicional sobre el profesional.
+2) Si el Colegio sanciona, la resolución es PRUEBA DOCUMENTAL en juicio.
+3) La denuncia es GRATUITA y sin abogado.
+4) Independiente del juicio civil.
+
+================================================================================
+SECCIÓN 13 — ESTRATEGIA PROCESAL INTEGRADA (RESUMEN PARA ESCRITO JUDICIAL)
+================================================================================
+
+Secuencia recomendada del escrito inicial:
+
+1) TUTELA ANTICIPADA URGENTE: Peticionar retiro del tanque e
+   impermeabilización de la losa como medida cautelar previa, ofreciendo
+   caución juratoria bajo el BLSG.
+
+2) IMPOSICIÓN DE ASTREINTES: Solicitar que la orden anterior se dicte bajo
+   apercibimiento de sanción de $100.000 diarios para garantizar cumplimiento.
+
+3) EMBARGO PREVENTIVO: Solicitar anotación de embargo sobre la propiedad
+   de Juan Capria invocando la excepción de "deuda por construcción" a la
+   inembargabilidad de vivienda.
+
+4) CUANTIFICACIÓN DE DEUDA DE VALOR: Utilizar doctrina "Barrios" para
+   exigir "valores actuales al momento de la sentencia" más el 6% de
+   interés puro.
+
+5) PRUEBA PERICIAL ANTICIPADA: Solicitar que el perito ingeniero realice
+   inspección in situ de inmediato para evitar que el demandado "maquille"
+   los daños antes de la apertura a prueba regular.
+
+Este enfoque maximiza la protección del actor vulnerable y asegura que el
+proceso judicial sea una herramienta efectiva de reparación.
+
+================================================================================
+SECCIÓN 14 — INVESTIGACIÓN PATRIMONIAL DEL DEMANDADO
+================================================================================
+
+Paso previo: Investigar si el inmueble del Sr. Capria está inscripto
+como vivienda (Art. 244 CCCN) — Oficio al Registro de la Propiedad
+Inmueble de la PBA.
+
+Si hay afectación registrada: Argumentar excepción Art. 249 inc. c) CCCN
+y/o daños derivados de actos ilícitos.
+
+Si no hay afectación: Solicitar embargo preventivo (Art. 209) e inhibición
+general (Art. 228) inmediatamente.
+
+Prioridad temporal: Si la causa de la deuda es ANTERIOR a la inscripción
+de la afectación, el acreedor puede ejecutar el bien (Art. 249 primera
+parte CCCN).
+
+Múltiples vías de cobro:
+— Haberes del demandado (embargo Arts. 219-221, con límite 20%).
+— Cuentas bancarias (oficio BCRA/AFIP).
+— Vehículos (Registro del Automotor).
+— Otros inmuebles (ARBA / Registro de la Propiedad).
+
+================================================================================
+SECCIÓN 15 — VÍAS ADMINISTRATIVAS PARALELAS
+================================================================================
+
+Denuncia municipal:
+— Paralización inmediata de la obra (Reglamento General de Construcciones PBA).
+— Multas y juez de faltas.
+— El juez de faltas puede convertir la multa en "acción de reparación del
+  daño ocasionado, volviendo las cosas al estado anterior".
+
+Art. 1277 CCyC: El constructor, subcontratistas y profesionales son
+responsables incluso frente a terceros de cualquier daño por incumplimiento
+de normas administrativas. El fiscal o juzgado de faltas puede actuar.
+
+Denuncia administrativa ante:
+— Defensoría del Pueblo del Partido de Merlo.
+— Dirección de Bromatología / Salud Pública Municipal (hongos/insalubres).
+— Subsecretaría de Control Urbano o Inspección de Obras del Municipio.
+
+Frente penal potencial:
+Si el denunciado realizó la obra con pleno conocimiento de la ausencia de
+permisos y resultó en daños concretos, puede configurarse el tipo de daños
+del art. 183/184 CP (en modalidad culposa) o construcción ilegal con
+resultado dañoso.
+
+================================================================================
+SECCIÓN 16 — MEDIACIÓN PREJUDICIAL OBLIGATORIA
+================================================================================
+
+Ley 13.951 PBA: Mediación obligatoria previa a la demanda.
+El acta de mediación es prueba de la fecha del reclamo.
+Suspende la prescripción (Art. 2546 CCyCN).
+El mediador debe estar matriculado en Morón.
+El acta de cierre de mediación habilita la vía judicial.
+
+Interrupción de prescripción: Carta documento, acta notarial, mediación
+prejudicial obligatoria (Art. 2546 CCyCN).
+
+================================================================================
+FIN DEL ARCHIVO 41 — ESTRATEGIA PROCESAL Y HERRAMIENTAS JUDICIALES
+================================================================================
