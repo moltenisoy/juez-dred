@@ -305,5 +305,46 @@ T. CLASIFICACIÓN DE REQUISITOS Y SECUENCIA CONSTRUCTIVA (NUEVO)
 - Doble vía sancionatoria (municipal + judicial)
 
 ========================================================================
+U. REQUISITOS SERVICIOS, URBANISMO E INSTALACIONES (NUEVO — fase 2)
+   Análisis cuatro perspectivas: denunciante / denunciado / justicia /
+   peritaje de las pruebas
+========================================================================
+- Instalaciones eléctricas: AEA 90364, EDENOR, ampliación de carga
+- Instalación de gas: ENARGAS, Decreto 1738/92, MetroGAS
+- Código de Ordenamiento Territorial Merlo: FOT, FOS, plano límite
+  de altura, retiros mínimos obligatorios, uso conforme del suelo
+- Medianeras régimen detallado: Arts. 2009+ CCC, notificación a
+  linderos, cargas sobre medianera, estructura independiente
+- Seguridad contra incendio: Decreto 351/79 Anexo VII, escalera
+  ancho mínimo 0,90m, pendiente máxima 42%, salidas de emergencia
+- Declaratoria de mejoras ARBA: Formulario R-550I, Ley 10.707
+- Requisitos AySA: factibilidad técnica, ERAS, Resolución MOP
+  641/2023, convenio OPCT, Decreto 805/2025 (privatización)
+- Alícuotas Derechos de Construcción Merlo (tabla por superficie
+  y destino: 0,25% a 0,70%), Tasa Servicios Generales 24 meses
+- Copropiedad: unanimidad vs. mayoría (Arts. 2051/2052 CCC),
+  consecuencias del incumplimiento, demolición por orden judicial
+- Análisis CIRSOC sobrecargas comparativas: cubierta (1,00 kN/m²)
+  vs. entrepiso (2,00 kN/m²), cargas permanentes 5-7,4 kN/m²,
+  multiplicación de cargas 7-9 veces diseño original
+- Libro de Obra, Aviso de Inicio de Obra, Plano de Mensura
+  Actualizado, Verificación de Aceras, Inspecciones Parciales
+
+========================================================================
+V. HERRAMIENTAS PROBATORIAS COMPLEMENTARIAS (NUEVO — fase 2)
+   Análisis cuatro perspectivas: denunciante / denunciado / justicia /
+   peritaje de las pruebas
+========================================================================
+- Art. 165 CPCC PBA: estimación judicial prudencial
+- Art. 1735 CCCN: cargas probatorias dinámicas
+- Art. 1744 CCCN: prueba del daño — notoriedad
+- Art. 330 CPCC PBA: requisitos formales de la demanda
+- Riesgos de insuficiencia probatoria (sentencia arbitraria)
+- Informe técnico de parte vs. pericia judicial (tabla comparativa)
+- Ley 14.432 PBA: inembargabilidad automática vivienda única
+- SCBA "Rodríguez c/ Paleo": inconstitucionalidad Ley 14.432
+- Tasa de justicia PBA: 2,2% del monto reclamado
+
+========================================================================
 FIN DEL ÍNDICE ENUNCIATIVO
 ========================================================================

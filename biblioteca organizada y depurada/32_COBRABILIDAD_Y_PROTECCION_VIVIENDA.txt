@@ -216,5 +216,51 @@ OFICIOS A ORGANISMOS PÚBLICOS PARA INVESTIGACIÓN PATRIMONIAL:
 - AFIP (consulta de inscripción tributaria y bienes registrados).
 
 ================================================================================
+CONTENIDO ADICIONAL — LEY 14.432 PBA (INEMBARGABILIDAD AUTOMÁTICA)
+================================================================================
+
+NORMATIVA COMPLEMENTARIA AL RÉGIMEN DE VIVIENDA:
+En la Provincia de Buenos Aires, la Ley 14.432 pretende establecer una
+inembargabilidad AUTOMÁTICA para la vivienda única y de ocupación
+permanente, sin necesidad de inscripción previa ante el Registro de la
+Propiedad. Esta ley ampliaría la protección más allá del régimen
+voluntario de los Arts. 244-256 CCCN.
+
+JURISPRUDENCIA CRÍTICA — INCONSTITUCIONALIDAD:
+La SCBA ha declarado la INCONSTITUCIONALIDAD de esta norma provincial
+en diversos fallos, incluyendo "Rodríguez c/ Paleo", argumentando que
+las provincias NO tienen facultades para legislar sobre la garantía
+común de los acreedores, materia delegada al Congreso Nacional en el
+Código Civil y Comercial.
+
+CONSECUENCIA PRÁCTICA PARA EL CASO:
+Si el demandado en Merlo NO inscribió voluntariamente su casa como
+vivienda ante el Registro de la Propiedad (conforme Art. 244 CCCN),
+el inmueble PODRÍA ser embargado a pesar de la Ley 14.432, dado que
+la SCBA la declaró inconstitucional.
+
+PERSPECTIVA DEL DENUNCIANTE:
+La declaración de inconstitucionalidad de la Ley 14.432 es FAVORABLE
+al denunciante, ya que reduce las defensas patrimoniales del denunciado.
+Si el inmueble no fue inscripto voluntariamente como vivienda, no goza
+de protección especial.
+
+PERSPECTIVA DEL DENUNCIADO:
+El denunciado puede invocar la Ley 14.432 PBA como defensa, pero la
+jurisprudencia de la SCBA es contraria a su aplicación. Solo la
+inscripción voluntaria (Art. 244 CCCN) le brinda protección efectiva.
+
+PERSPECTIVA DE LA JUSTICIA:
+El juez deberá resolver la cuestión siguiendo la doctrina de la SCBA
+sobre la inconstitucionalidad de la Ley 14.432. La tendencia
+jurisprudencial dominante es no aplicar esta ley provincial cuando se
+invoca la garantía patrimonial del acreedor.
+
+PERSPECTIVA DEL PERITAJE:
+No aplica directamente al peritaje técnico. Sin embargo, el perito
+tasador puede incluir en su informe el estado registral del inmueble
+como dato de contexto para la valoración patrimonial.
+
+================================================================================
 FIN DE TEMAS 2-3
 ================================================================================

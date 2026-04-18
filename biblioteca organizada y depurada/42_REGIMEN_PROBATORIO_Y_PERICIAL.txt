@@ -438,5 +438,140 @@ La ausencia de toda documentación por parte del denunciado produce:
    pericia oficial lo ratifica, la posición del denunciado colapsa.
 
 ================================================================================
+CONTENIDO ADICIONAL — HERRAMIENTAS PROBATORIAS COMPLEMENTARIAS
+(Fuente: análisis cuatro perspectivas de archivos sueltos)
+================================================================================
+
+ART. 165 CPCC PBA — ESTIMACIÓN JUDICIAL PRUDENCIAL:
+Cuando la existencia del daño está probada pero su cuantificación exacta
+es imposible o muy difícil, el juez puede fijar el monto de la
+indemnización de acuerdo a su prudente arbitrio. Este artículo es un
+salvavidas procesal para el denunciante cuando la prueba pericial no
+puede establecer un monto preciso.
+
+PERSPECTIVA DEL DENUNCIANTE:
+Si el perito no puede cuantificar un rubro con exactitud (por ejemplo,
+la depreciación del inmueble o el lucro cesante por ingresos digitales),
+el Art. 165 permite que el juez lo estime prudencialmente. Esto reduce
+el riesgo de que un rubro sea rechazado por falta de cuantificación
+exacta. PERO: la existencia del daño SÍ debe estar probada.
+
+PERSPECTIVA DEL DENUNCIADO:
+Puede cuestionar la aplicación del Art. 165 argumentando que el
+demandante tuvo los medios para cuantificar el daño con precisión y
+no lo hizo por negligencia procesal.
+
+PERSPECTIVA DE LA JUSTICIA:
+El juez utiliza el Art. 165 como última ratio cuando la prueba de la
+existencia del daño es contundente pero su cuantificación exacta no
+fue posible. No es un recurso automático sino discrecional.
+
+PERSPECTIVA DEL PERITAJE:
+El perito debe intentar siempre cuantificar el daño con la mayor
+precisión posible. Si no puede, debe explicar técnicamente por qué y
+ofrecer un rango estimativo. Esto facilita la aplicación del Art. 165
+con un parámetro técnico de referencia.
+
+────────────────────────────────────────────────────────────────────────
+
+ART. 1735 CCCN — CARGAS PROBATORIAS DINÁMICAS:
+El juez puede distribuir la carga de la prueba de la culpa o de haber
+actuado con la diligencia debida, ponderando cuál de las partes se
+halla en mejor situación para aportarla. En el caso de obra clandestina,
+el denunciado es quien tiene mayor acceso a la documentación técnica de
+la obra (planos, permisos, contratos, facturas).
+
+PERSPECTIVA DEL DENUNCIANTE:
+Puede invocar el Art. 1735 para que el juez imponga al denunciado la
+carga de demostrar que actuó con diligencia (que tenía permisos, que
+contrató profesionales habilitados, etc.). La inversión de la carga
+probatoria es especialmente útil cuando el denunciante no tiene acceso
+a la documentación del denunciado.
+
+PERSPECTIVA DEL DENUNCIADO:
+Si el juez aplica cargas probatorias dinámicas, el denunciado debe
+probar afirmativamente que cumplió con sus obligaciones legales. La
+mera negativa genérica no es suficiente.
+
+PERSPECTIVA DE LA JUSTICIA:
+La aplicación de cargas dinámicas es facultativa del juez. Se justifica
+cuando una parte tiene claramente más acceso a la información relevante.
+
+PERSPECTIVA DEL PERITAJE:
+El perito puede señalar en su dictamen qué documentación debería existir
+(planos, memoria de cálculo, libro de obra, ART) y si le fue exhibida o
+no. La ausencia de documentación técnica es un dato pericial relevante.
+
+────────────────────────────────────────────────────────────────────────
+
+ART. 1744 CCCN — PRUEBA DEL DAÑO:
+El daño debe ser acreditado por quien lo invoca, excepto que la ley lo
+impute o presuma, o que surja notorio de los propios hechos.
+
+PERSPECTIVA DEL DENUNCIANTE:
+Cuando los daños son NOTORIOS (humedad visible, grietas, hongos), la
+prueba se simplifica. La notoriedad del daño reduce la exigencia
+probatoria. Sin embargo, el NEXO CAUSAL con la obra clandestina sí
+debe acreditarse mediante pericia.
+
+PERSPECTIVA DEL DENUNCIADO:
+Puede intentar cuestionar la notoriedad del daño o argumentar que los
+daños visibles tienen otra causa.
+
+PERSPECTIVA DE LA JUSTICIA:
+El juez puede apreciar la notoriedad del daño a partir del material
+probatorio (fotografías, videos, acta notarial).
+
+PERSPECTIVA DEL PERITAJE:
+El perito corrobora técnicamente lo que es visualmente notorio y agrega
+la explicación causal: POR QUÉ los daños visibles fueron causados por
+la obra clandestina y no por otra causa.
+
+────────────────────────────────────────────────────────────────────────
+
+ART. 330 CPCC PBA — REQUISITOS FORMALES DE LA DEMANDA:
+La demanda debe contener: (a) nombre y domicilio del demandante;
+(b) nombre y domicilio del demandado; (c) la cosa demandada, designada
+con precisión; (d) los hechos en que se funde, explicados claramente;
+(e) el derecho expuesto sucintamente; (f) la petición en términos claros
+y positivos.
+
+PERSPECTIVA DEL DENUNCIANTE:
+El cumplimiento estricto del Art. 330 evita nulidades y objeciones
+formales del demandado. Es especialmente importante la precisión en la
+designación de la "cosa demandada" (cada rubro indemnizatorio debe estar
+claramente identificado) y en la exposición de los hechos (cronología
+detallada del daño).
+
+────────────────────────────────────────────────────────────────────────
+
+RIESGOS DE INSUFICIENCIA PROBATORIA:
+Si la prueba ofrecida es insuficiente o deficiente, el riesgo procesal
+es grave:
+- La sentencia puede rechazar rubros indemnizatorios por falta de
+  acreditación (no basta alegar: hay que probar)
+- Una sentencia con rubros rechazados puede ser calificada de
+  "sentencia arbitraria" si el juez ignora prueba relevante, pero
+  la carga de recurrir recae sobre el demandante
+- La relación entre informe técnico de parte y pericia judicial es
+  COMPLEMENTARIA: el informe de parte establece la hipótesis; la pericia
+  judicial la valida o la refuta con imparcialidad oficial
+
+DISTINCIÓN INFORME TÉCNICO DE PARTE vs. PERICIA JUDICIAL:
+┌────────────────────────┬─────────────────────────────────────────────┐
+│ INFORME TÉCNICO PARTE  │ PERICIA JUDICIAL                            │
+├────────────────────────┼─────────────────────────────────────────────┤
+│ Lo encarga el cliente  │ Lo designa el juez                          │
+│ Lo paga el cliente     │ Lo pagan las partes o el beneficiado        │
+│ No tiene imparcialidad │ Se presume imparcial                        │
+│ No sustituye pericia   │ Tiene fuerza probatoria (Art. 474 CPCC)     │
+│ Establece hipótesis    │ Valida o refuta la hipótesis                │
+│ Útil para prejudicial  │ Decisivo para la sentencia                  │
+└────────────────────────┴─────────────────────────────────────────────┘
+
+Si el informe de parte es sólido y la pericia judicial lo ratifica,
+la posición del denunciado colapsa procesalmente.
+
+================================================================================
 FIN DEL ARCHIVO 42 — RÉGIMEN PROBATORIO Y PERICIAL
 ================================================================================
