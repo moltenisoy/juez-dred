@@ -1,0 +1,149 @@
+========================================================================
+  PROMPT DE INVESTIGACIÓN PARA COMPLETAR INFORMACIÓN FALTANTE
+  Generado tras revisión exhaustiva de toda la biblioteca
+========================================================================
+
+CONTEXTO PARA EL MODELO:
+Eres un investigador jurídico especializado en derecho civil, procesal y
+de daños en la Provincia de Buenos Aires, Argentina. Tienes acceso a
+legislación, jurisprudencia y doctrina actualizada a 2026. Se te encarga
+investigar y recolectar información puntual que falta en un caso de
+daños por obra clandestina lindera en Merlo, PBA.
+
+NOTA: NO investigar ni incluir nada sobre seguros/aseguradora del
+demandado ni sobre realizar reparaciones antes de presentar la denuncia.
+
+========================================================================
+INVESTIGAR Y DESARROLLAR CADA UNO DE LOS SIGUIENTES PUNTOS:
+========================================================================
+
+1. CUANTIFICACIÓN MONETARIA DE RUBROS INDEMNIZATORIOS
+   - Investigar montos otorgados en sentencias PBA 2023-2026 para cada
+     rubro: daño emergente por obra lindera, lucro cesante, daño moral,
+     daño psicofísico, depreciación inmueble, pérdida de chance.
+   - Presentar tabla con rangos en pesos argentinos actualizados,
+     identificando el fallo y la sala que los otorgó.
+
+2. CRONOLOGÍA MODELO PARA DAÑO CONTINUADO
+   - Investigar qué requisitos exige la jurisprudencia PBA para acreditar
+     una cronología de daño continuado a los fines de la prescripción.
+   - Proporcionar modelo de línea de tiempo con hitos procesales mínimos.
+
+3. IDENTIFICACIÓN DE RESPONSABLES EN OBRA CLANDESTINA
+   - Investigar mecanismos legales disponibles en PBA para identificar
+     al constructor y director de obra cuando la obra es clandestina
+     (sin permiso municipal, sin planos, sin visado colegial).
+   - Incluir: oficios a colegios profesionales, informes municipales,
+     prueba testimonial, medidas preliminares Art. 323 CPCC.
+
+4. PROCEDIMIENTO DE DENUNCIA MUNICIPAL EN MERLO
+   - Investigar el procedimiento vigente en la Municipalidad de Merlo
+     para denunciar obra clandestina o irregular.
+   - Incluir: formulario, área responsable, plazos legales de respuesta,
+     consecuencias de la inacción municipal, recursos disponibles.
+
+5. INFORME PSICOLÓGICO/PSIQUIÁTRICO COMO PRUEBA
+   - Investigar requisitos para que un informe psicológico o psiquiátrico
+     sea admisible como prueba en juicio civil PBA.
+   - Incluir: quién debe emitirlo, formato requerido, CIE-10/DSM-5,
+     relación causal con el hecho dañoso, baremos vigentes PBA.
+
+6. HISTORIAL CLÍNICO Y PRUEBA MÉDICA
+   - Investigar cómo se acreditan daños a la salud (respiratorios,
+     alérgicos) por exposición a humedad en el marco de un juicio civil.
+   - Incluir: estudios médicos necesarios, cadena causal, pericias
+     médicas, jurisprudencia sobre daño a la salud por vivienda.
+
+7. TASACIÓN INMOBILIARIA COMO PRUEBA
+   - Investigar metodología aceptada en PBA para acreditar la
+     depreciación de un inmueble por daños de obra lindera.
+   - Incluir: método de tasación (antes/después), tasador habilitado,
+     cuerpo de tasadores judiciales, costos estimados 2026.
+
+8. PRESUPUESTOS DE REPARACIÓN ACTUALIZADOS
+   - Investigar qué validez tienen los presupuestos de reparación
+     como prueba en juicio civil PBA.
+   - Incluir: cuántos presupuestos presentar, requisitos formales,
+     actualización por índice IERIC o similar, jurisprudencia.
+
+9. COMPROBANTES DE INGRESOS DIGITALES (YOUTUBE/ADSENSE)
+   - Investigar cómo se acredita lucro cesante por pérdida de ingresos
+     digitales (YouTube, AdSense) en juicio civil argentino.
+   - Incluir: documentación admisible, informes Google, prueba
+     informática, jurisprudencia sobre ingresos digitales.
+
+10. ACTA NOTARIAL DE CONSTATACIÓN
+    - Investigar procedimiento completo para obtener acta notarial de
+      constatación de daños edilicios en PBA.
+    - Incluir: costo estimado 2026, escribanos especializados zona
+      Merlo/Morón, contenido mínimo del acta, valor probatorio.
+
+11. CARTA DOCUMENTO AL DEMANDADO
+    - Proporcionar modelo de carta documento para intimar al responsable
+      de obra clandestina que causa daños.
+    - Incluir: texto modelo, efectos jurídicos (interrupción prescripción,
+      constitución en mora), plazos, Correo Argentino vs. alternativas.
+
+12. INFORME DE ELECTRICISTA MATRICULADO
+    - Investigar requisitos para que un informe de electricista sea
+      válido como prueba en juicio civil PBA.
+    - Incluir: matrícula habilitante, formato, protocolo de inspección,
+      normativa AEA aplicable, costo estimado 2026.
+
+13. ANÁLISIS DE VIABILIDAD ECONÓMICA DEL JUICIO
+    - Investigar costos totales estimados de un juicio civil por daños
+      en PBA en 2026: tasa de justicia, honorarios, pericias, gastos.
+    - Incluir: tabla comparativa con/sin BLSG, plazos estimados de
+      duración, probabilidad de cobro según tipo de demandado.
+
+14. INVESTIGACIÓN PATRIMONIAL DEL DEMANDADO
+    - Investigar mecanismos disponibles en PBA para conocer la solvencia
+      del demandado antes de iniciar juicio.
+    - Incluir: informe ARBA, Registro de la Propiedad Inmueble,
+      Registro Automotor, BCRA informe deudores, AFIP, costos.
+
+15. PRUEBA DE CONDICIÓN PREVIA DEL INMUEBLE
+    - Investigar cómo acreditar el buen estado previo del inmueble
+      dañado (antes de la obra lindera).
+    - Incluir: Google Street View como prueba, declaraciones testimoniales,
+      fotografías antiguas, registros municipales, escritura.
+
+16. NORMATIVA DE GAS NATURAL EN CONSTRUCCIÓN
+    - Investigar normativa aplicable a instalaciones de gas en obras
+      linderas en PBA/Merlo.
+    - Incluir: normativas Enargas, NAG 200, requisitos para matriculados,
+      responsabilidades por daño a instalación de gas vecina.
+
+17. MODELO DE CARTA DOCUMENTO (TEXTO COMPLETO)
+    - Proporcionar texto completo de carta documento para:
+      a) Intimar al vecino constructor clandestino
+      b) Intimar a la Municipalidad de Merlo por omisión de control
+    - Adaptar al caso: daños por obra lindera clandestina, humedad,
+      daño estructural, riesgo eléctrico.
+
+18. DOCUMENTACIÓN PARA BLSG (BENEFICIO DE LITIGAR SIN GASTOS)
+    - Investigar documentación completa necesaria para solicitar BLSG
+      en fuero civil PBA.
+    - Incluir: checklist de documentos (ingresos, gastos, grupo familiar,
+      certificados), modelo de solicitud, plazo de resolución.
+
+19. JURISPRUDENCIA VERIFICADA 2024-2026 SOBRE OBRA CLANDESTINA
+    - Buscar fallos recientes (2024-2026) de Cámaras de Apelación PBA
+      sobre daños causados por obra clandestina o irregular lindera.
+    - Incluir: carátula completa, tribunal, fecha, montos otorgados,
+      rubros reconocidos, doctrina aplicada.
+
+20. ACTA DE CIERRE DE MEDIACIÓN — EFECTOS JURÍDICOS
+    - Investigar qué efectos jurídicos tiene el acta de cierre de
+      mediación sin acuerdo en PBA (Ley 13951).
+    - Incluir: plazo para demandar post-mediación, valor como prueba,
+      cómo se relaciona con la prescripción, requisitos formales.
+
+========================================================================
+FORMATO DE RESPUESTA REQUERIDO:
+Para cada punto, proporcionar:
+  a) Normativa aplicable (artículos específicos)
+  b) Jurisprudencia relevante (con cita completa verificable)
+  c) Información práctica (costos, plazos, contactos si corresponde)
+  d) Fuentes consultadas
+========================================================================
