@@ -103,7 +103,10 @@ Peligro en la demora: Estado de la obra clandestina.
 ⚠️ La Ley 14.432 es frecuentemente declarada inconstitucional por los
 juzgados de PBA por invadir facultades del Congreso Nacional (Art. 75
 inc. 12 CN), ya que el régimen de protección de vivienda está unificado
-en el CCCN (Art. 244).
+en el CCCN (Art. 244). Caso paradigmático: SCBA, "Rodríguez c/ Paleo"
+(causa 60155): declaró que las provincias carecen de facultades para
+legislar sobre la garantía común de los acreedores, materia delegada
+al Congreso Nacional.
 
 3.2 INHIBICIÓN GENERAL DE BIENES
 
@@ -420,6 +423,73 @@ El acta de cierre de mediación habilita la vía judicial.
 
 Interrupción de prescripción: Carta documento, acta notarial, mediación
 prejudicial obligatoria (Art. 2546 CCyCN).
+
+================================================================================
+SECCIÓN 17 — PRESCRIPCIÓN EN DAÑO CONTINUADO
+================================================================================
+
+CONCEPTO:
+En el supuesto de daños continuados —como las filtraciones y humedades activas
+derivadas de una obra lindera— el plazo de prescripción de 3 años previsto en
+el Art. 2561 CCCN NO comienza a correr desde el primer acto generador. Su
+cómputo se desplaza o se renueva día tras día mientras la causa dañosa persista
+y el perjuicio no haya cesado o se haya consolidado definitivamente.
+
+Distinción clave: "daño continuado" vs "daño instantáneo con efectos permanentes":
+— DAÑO CONTINUADO: El ilícito se sigue produciendo en forma permanente. Cada
+  nueva filtración constituye un nuevo evento dañoso que actualiza la pretensión.
+  La acción resarcitoria se mantiene expedita mientras la inmisión (agua,
+  humedad) siga ingresando al predio afectado.
+— DAÑO INSTANTÁNEO CON EFECTOS PERMANENTES: El hecho se agota en un momento y
+  solo sus secuelas perduran. El plazo corre desde el hecho (o su conocimiento).
+
+FUNDAMENTO NORMATIVO:
+— Art. 2561 CCCN: "El reclamo de la indemnización de daños derivados de la
+  responsabilidad civil prescribe a los tres años."
+— Art. 2554 CCCN: "El transcurso del plazo de prescripción comienza el día en
+  que la prestación es exigible."
+— Art. 2553 CCCN: "La prescripción debe oponerse dentro del plazo para contestar
+  la demanda en los procesos de conocimiento..."
+— Principio de la Actio Nata: Doctrina aceptada por la SCBA — la prescripción
+  no puede comenzar a correr si la acción no ha nacido o si el titular del
+  derecho se encuentra ante imposibilidad jurídica de conocer la entidad del daño.
+
+JURISPRUDENCIA:
+
+— SCBA, Ac. 45288, "M. M. J. A. y o. c/ O. M. J. y o. s/ Daños y perjuicios"
+  (27/12/1991): "La prescripción tiene comienzo cuando surgió a la vida jurídica
+  la pretensión demandable. La imposibilidad jurídica que obstaculizó el
+  ejercicio de la pretensión suspende o impide el inicio del curso de la
+  prescripción, pues no puede prescribir una acción que aún no se halla
+  expedita para su titular."
+
+— "Cambiaux c/ Empresa Provincial de Energía" (Cámara Civil, citado como
+  doctrina aplicable, ref. sentencia 17/03/2025): "Escapan del cómputo los
+  daños continuados, en los cuales el ilícito se sigue produciendo en forma
+  permanente. En estos casos, la prescripción no comienza a correr mientras
+  la causa generadora del daño no haya cesado, pues el perjuicio se renueva
+  día a día en su potencialidad ofensiva."
+
+APLICACIÓN AL CASO:
+Dado que la obra es clandestina y el tanque de 750 kg permanece sobre la losa
+sin cálculo estructural, la fuente del daño es una amenaza activa y constante.
+Las filtraciones con humedad >70% y el riesgo eléctrico por llave térmica
+mojada califican estrictamente como "daño continuado". Aunque el problema haya
+comenzado hace casi dos años, la acción está plenamente vigente porque el
+ilícito se está "cometiendo" hoy mismo a través de la filtración permanente
+y la omisión de reparaciones hidráulicas en el predio lindero.
+
+⚠️ ALERTA — Riesgo procesal:
+La contraparte puede intentar encuadrar el caso como un "daño instantáneo con
+efectos permanentes", argumentando que el plazo debe contarse desde la primera
+mancha de humedad. Para neutralizar esto:
+1) La demanda debe describir el AGRAVAMIENTO PROGRESIVO y la PERSISTENCIA de la
+   causa (el agua sigue entrando).
+2) No esperar a que la obra termine para demandar — la SCBA sostiene que si el
+   daño se exterioriza y es conocido, la prescripción corre, pero en el daño
+   continuado esta "exteriorización" es diaria.
+3) Documentar con actas notariales o informes técnicos el estado actual para
+   demostrar que la causa dañosa PERSISTE a la fecha de la demanda.
 
 ================================================================================
 FIN DEL ARCHIVO 41 — ESTRATEGIA PROCESAL Y HERRAMIENTAS JUDICIALES

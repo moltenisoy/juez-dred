@@ -393,6 +393,47 @@ integridad del patrimonio edificado dependen de este cumplimiento holístico, ev
 simple reposicionamiento de equipo se transforme en una tragedia estructural o una pesadilla
 legal para los involucrados.
 3
+JURISPRUDENCIA SOBRE RESPONSABILIDAD PROFESIONAL POR CARGAS EN LOSAS
+Los tribunales argentinos han determinado responsabilidad de profesionales
+(arquitectos e ingenieros) en los siguientes supuestos relacionados con
+cargas sobre losas:
+
+1. FALTA DE ADVERTENCIA
+   — Cuando el profesional no advirtió los límites de carga de la estructura.
+   — Cuando permitió colocación de cargas no contempladas en el diseño original.
+   — La omisión de advertir constituye incumplimiento contractual.
+
+2. FALTA DE CONSTANCIA FEHACIENTE
+   — Cuando no quedó constancia expresa y fehaciente de la advertencia
+     profesional al propietario.
+   — La carga de la prueba recae sobre el profesional.
+   — Se requiere documentación escrita para eximir responsabilidad.
+
+3. OBLIGACIONES DEL DIRECTOR DE OBRA
+   — Vigilar e inspeccionar que los trabajos cumplan con lo proyectado.
+   — Garantizar que materiales cumplan especificaciones.
+   — Verificar que las cargas no excedan lo previsto en el diseño.
+
+4. CASOS ESPECÍFICOS DOCUMENTADOS
+   — Fallas por colocación de jacuzzis en terrazas.
+   — Daños por instalación de tanques de agua sobredimensionados.
+   — Fisuras por maquinaria industrial en losas de vivienda.
+   — Colapsos parciales por acumulación de materiales de construcción.
+
+CRITERIOS DE LOS TRIBUNALES:
+a) El profesional NO puede alegar que la sobrecarga fue decisión exclusiva
+   del propietario si no advirtió fehacientemente sobre los riesgos.
+b) La obligación de advertencia incluye:
+   — Comunicación escrita al comitente.
+   — Detalle técnico de los límites de carga.
+   — Consecuencias potenciales del exceso.
+c) El acto formal de entrega de la obra NO libera de:
+   — Vicios ocultos.
+   — Ruina de la estructura.
+   — Defectos que se manifiesten posteriormente.
+d) La responsabilidad subsiste aun cuando el propietario hubiera insistido
+   en la colocación de la carga, si el profesional no se opuso formalmente.
+
 El incumplimiento de las normativas para la colocación de cargas pesadas sobre
 losas conlleva distintos tipos de responsabilidades legales. Según la gravedad y
 la jurisdicción, la carátula puede variar desde una falta administrativa hasta un
