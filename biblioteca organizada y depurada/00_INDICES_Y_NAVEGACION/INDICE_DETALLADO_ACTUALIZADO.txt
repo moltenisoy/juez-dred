@@ -1,0 +1,520 @@
+════════════════════════════════════════════════════════════════════════════════
+ÍNDICE DETALLADO ACTUALIZADO — BIBLIOTECA ORGANIZADA Y DEPURADA
+════════════════════════════════════════════════════════════════════════════════
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  00_INDICES_Y_NAVEGACION                                                    ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+Esta carpeta contiene los índices de navegación del proyecto. Permite orientarse
+rápidamente dentro de la estructura de carpetas y conocer el contenido de cada
+archivo sin necesidad de abrirlos uno por uno.
+
+  ► INDICE_ESTRUCTURA.txt
+    Mapa visual del árbol completo de carpetas y archivos del proyecto. Cada
+    carpeta tiene una descripción breve de su contenido temático. Consultarlo
+    para ubicar rápidamente un archivo o entender la organización general.
+    Útil como punto de entrada inicial a la biblioteca.
+
+  ► INDICE_DETALLADO_ACTUALIZADO.txt
+    Índice completo con reseña descriptiva de cada carpeta y cada archivo.
+    Incluye ejes temáticos, contenido y orientación sobre cuándo consultar
+    cada documento. Es el presente archivo. Consultarlo para decidir qué
+    documento leer según la necesidad jurídica concreta.
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  01_CASO_HECHOS_Y_RESUMEN                                                   ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+Agrupa los documentos que describen los hechos del caso desde la perspectiva
+del damnificado: relato fáctico, inventario de daños, comunicaciones con
+autoridades y síntesis ejecutiva de cuestiones procesales clave.
+
+  ► 02_RELATO_DE_HECHOS_INVENTARIO_Y_NOTAS.txt
+    Compilación de documentos personales del demandante: narrativa organizadora
+    del caso, inventario detallado de daños por sector (techo, paredes,
+    instalación eléctrica, bienes muebles) y notas sobre evidencia. Sus ejes
+    son los daños estructurales activos, riesgos de electrocución, filtraciones
+    progresivas y deterioro psicológico. Consultarlo para entender los hechos
+    concretos y compilar la cronología de daños.
+
+  ► 03_CARTA_AL_INTENDENTE_MENENDEZ.txt
+    Carta formal dirigida al intendente de Merlo solicitando certificación
+    municipal de irregularidades en la obra lindera clandestina. Documenta la
+    falta de permisos, modificaciones sin autorización y reubicación de tanque
+    en terreno inseguro. Consultarlo para acreditar intentos extrajudiciales
+    de resolución y comunicación previa con autoridades municipales.
+
+  ► 09_CUADRO_DE_SITUACION_JURIDICO_PROBATORIA.txt
+    Matriz exhaustiva que cruza hechos fácticos con normativa aplicable en tres
+    niveles (nacional, provincial, municipal), identificando incumplimientos y
+    esquema probatorio para cada uno. Sus ejes son la responsabilidad objetiva
+    por riesgo de obra, violación de límites de dominio y desvíos de aguas
+    pluviales. Consultarlo como referencia integral para fundamentación jurídica
+    y como herramienta de navegación rápida de la normativa aplicable.
+
+  ► 10_RESUMEN_EJECUTIVO.txt
+    Síntesis de cuestiones procesales clave: prescripción, beneficio de litigar
+    sin gastos, astreintes, actualización monetaria, embargo preventivo y
+    competencia territorial (Merlo/Morón). Consultarlo para decisiones tácticas
+    previas a la demanda: verificar si procede beneficio sin gastos, evaluar
+    embargo y plantear tutela anticipada.
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  02_DEMANDA_Y_ESTRUCTURA_PROCESAL                                           ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+Contiene el modelo completo de demanda y el esquema formal del escrito judicial.
+Son los documentos centrales para la redacción del escrito de inicio conforme
+al Código Procesal Civil y Comercial de la Provincia de Buenos Aires.
+
+  ► 04_MODELO_DE_DEMANDA_PRINCIPAL.txt
+    Modelo completo de demanda por daños, denuncia de daño temido e interdicto
+    de obra ruinosa con solicitud de tutela anticipada y celeridad procesal.
+    Incluye exposición de hechos estructurada, invocación de normativa en cinco
+    niveles y petición resolutiva. Consultarlo como plantilla directa para la
+    redacción del escrito inicial, adaptable según peritajes y hechos concretos.
+
+  ► 05_ESQUEMA_Y_ESTRUCTURA_DE_DEMANDA.txt
+    Marco procesal y esquema organizacional de demanda conforme CPCC PBA
+    (art. 313). Estructura formal con secciones: mediación previa, hechos,
+    fundamentación, prueba ofrecida y pericial multidisciplinaria. Consultarlo
+    para verificar conformidad estructural del escrito con normas procedimentales
+    y como checklist de elementos formales obligatorios.
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  03_MARCO_LEGAL_Y_NORMATIVO                                                 ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+Reúne toda la normativa de fondo aplicable al caso: documentación jurídica
+unificada, régimen de responsabilidad civil y reglamentación técnica de
+construcción. Se divide en tres subcarpetas temáticas.
+
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │ 03a_Documentacion_Juridica_Unificada                                     │
+  └──────────────────────────────────────────────────────────────────────────┘
+
+  Compilaciones jurídicas integrales que sistematizan la normativa aplicable,
+  los incumplimientos detectados y el análisis de la obra clandestina como
+  hecho jurídico único.
+
+  ► 06_DOCUMENTACION_JURIDICA_UNIFICADA_COMPLETA.txt
+    Sistematización unificada de normativa técnica, jurídica y de responsabilidad
+    por obra lindera. Compila permisos, seguridad e higiene, CIRSOC y
+    responsables solidarios (dueño, director de obra, constructor, municipio).
+    Consultarlo como referencia completa para auditoría de cumplimiento
+    normativo e identificación de responsables concurrentes para citar en demanda.
+
+  ► 07_DOCUMENTO_JURIDICO_UNIFICADO_INCUMPLIMIENTOS.txt
+    Cuadro de situación jurídico-probatoria desde la perspectiva de los
+    incumplimientos: hechos fácticos, daños directos e indirectos, núcleo del
+    reproche jurídico y categorías de omisiones (municipales, técnicas, de
+    vecindad). Consultarlo para la argumentación del reproche específico y la
+    elaboración de párrafos de "estado de la cuestión" en la demanda.
+
+  ► 08_ANALISIS_JURIDICO_COMPLETO_OBRA_CLANDESTINA.txt
+    Análisis exhaustivo de competencia territorial (Merlo vs. Morón),
+    responsabilidad por riesgo, función preventiva y delito penal de estrago
+    culposo. Aborda la prevalencia del Código Civil sobre permisos municipales
+    y la acción preventiva. Consultarlo para resolver dudas sobre competencia,
+    plantear querella penal paralela y fundamentar urgencia por riesgo.
+
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │ 03b_Responsabilidad_Civil                                                │
+  └──────────────────────────────────────────────────────────────────────────┘
+
+  Régimen de responsabilidad objetiva, solidaria y municipal. Analiza los
+  factores de atribución, la concurrencia de responsables y la fundamentación
+  para no requerir prueba de culpa.
+
+  ► 12_RESPONSABILIDAD_CIVIL_Y_REGIMEN_PROBATORIO.txt
+    Marco comprehensivo de responsabilidad civil y penal por obra: factor de
+    atribución objetivo, sujetos responsables, guarda material, función
+    preventiva y deber de evitar daño. Consultarlo para fundamentar por qué
+    no es necesario probar culpa, construir argumento de imputación objetiva
+    y plantear medidas preventivas urgentes.
+
+  ► 14_MARCO_LEGAL_DANOS_OBRA_VECINA.txt
+    Régimen de responsabilidad, sujetos responsables, concurrencia de guarda,
+    distinción entre riesgo y vicio, mediación prejudicial y jurisprudencia
+    específica bonaerense. Consultarlo para la construcción de la teoría del
+    caso sobre responsabilidad concurrente y búsqueda de jurisprudencia
+    favorable de tribunales bonaerenses.
+
+  ► 31_RESPONSABILIDAD_MUNICIPAL_POR_OMISION.txt
+    Análisis de responsabilidad del Municipio de Merlo por omisión de control
+    edilicio conforme Decreto-Ley 6769/58 y Ley 26944. Desarrolla los
+    presupuestos de responsabilidad estatal por falta de servicio e inspección.
+    Consultarlo si hubo denuncias municipales previas sin respuesta y para
+    evaluar demanda contra el municipio de forma subsidiaria o acumulada.
+
+  ► 40_MARCO_LEGAL_Y_RESPONSABILIDAD_CIVIL.txt
+    Síntesis de normativa de fondo (CCCN arts. 1710-1757): responsabilidad
+    objetiva, daño emergente, lucro cesante, daño moral, actualización
+    monetaria e intereses. Aborda la presunción de daño notorio (>70%
+    humedad). Consultarlo para cuantificación de daño, argumentación de
+    actualización monetaria y fundamentación de daño moral ex re ipsa.
+
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │ 03c_Normativa_Tecnica                                                    │
+  └──────────────────────────────────────────────────────────────────────────┘
+
+  Reglamentación técnica de construcción: normas CIRSOC, permisos municipales,
+  restricciones al dominio, habitabilidad y secuencia constructiva obligatoria.
+
+  ► 23_NORMATIVA_CONSTRUCCION_INMUEBLES_LINDEROS.txt
+    Régimen jurídico de modificaciones en inmuebles linderos: CCyC arts.
+    2006-2630, clasificación de muros, obligaciones de carga, restricciones al
+    dominio y escurrimiento de aguas. Consultarlo para fundamentar
+    incumplimiento de límites al dominio y violación del art. 2630 sobre
+    desagüe de aguas pluviales.
+
+  ► 24_NORMATIVA_TECNICA_CARGAS_ESTRUCTURALES_CIRSOC.txt
+    Análisis técnico exhaustivo de CIRSOC 101 y 201: definición de cargas
+    permanentes y sobrecargas, tanque de 750 kg como carga concentrada,
+    verificación de flecha en losa. Aborda la depresión de losa como indicio
+    de sobreexigencia. Consultarlo como base técnica para peritaje de
+    ingeniero estructural y para argumentar obligatoriedad del cálculo previo.
+
+  ► 25_PERMISOS_Y_DOCUMENTACION_REQUERIDA_OBRA.txt
+    Listado exhaustivo de permisos municipales, provinciales y documentación
+    civil requerida para ampliación legal: expediente de obra, plano municipal,
+    plano estructural, libre deuda, visado profesional. Consultarlo para
+    demostrar clandestinidad de la obra y verificar qué documentación nunca fue
+    presentada ante la Dirección de Obras de Merlo.
+
+  ► 28_NORMATIVA_DAÑOS_EDILICIOS_HABITABILIDAD.txt
+    Informe técnico-jurídico sobre responsabilidad por daños edilicios,
+    habitabilidad y afectación a la vida de vecinos por obra en construcción
+    lindera. Documenta humedad extrema (>70%), riesgo eléctrico y deterioro
+    de bienes muebles. Consultarlo para acreditar el cuadro de daños
+    específicos y la causalidad entre obra lindera y padecimiento.
+
+  ► 49_CLASIFICACION_REQUISITOS_Y_SECUENCIA_CONSTRUCTIVA.txt
+    Clasificación de 19 requisitos incumplidos por la obra, tipificando cada
+    infracción normativa (falta grave, administrativa, contravención civil)
+    según la Ordenanza de Merlo, con secuencia cronológica de 9 pasos.
+    Consultarlo para fundamentar cuáles requisitos se omitieron y qué sanción
+    legal corresponde a cada uno (clausura, demolición, multas, nulidad).
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  04_DANOS_Y_RUBROS_INDEMNIZATORIOS                                          ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+Documenta todos los daños acreditados y rubros reclamables del caso. Se
+subdivide en daños materiales/edilicios, daños personales/morales y lucro
+cesante/patrimoniales.
+
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │ 04a_Danos_Materiales_Y_Edilicios                                         │
+  └──────────────────────────────────────────────────────────────────────────┘
+
+  Daños a la estructura del inmueble, instalaciones, bienes muebles y equipos
+  electrónicos. Incluye filtraciones, humedad, deterioro de membrana y
+  sistemas de desagüe.
+
+  ► 11_INFORME_JURIDICO_ACREDITACION_DE_DANOS.txt
+    Informe jurídico sobre responsabilidad civil objetiva (art. 1757 CCyC),
+    daño resarcible, normas de inmisiones y rubros indemnizables (art. 1738).
+    Aborda responsabilidad concurrente de propietario y constructor, nexo
+    causal, daño emergente y lucro cesante. Consultarlo para estructurar la
+    fundamentación legal del reclamo e identificar rubros patrimoniales y
+    extrapatrimoniales.
+
+  ► 20_DANOS_POR_HUMEDAD_A_BIENES_Y_EQUIPOS_ELECTRONICOS.txt
+    Análisis exhaustivo de degradación de hardware informático de precisión
+    (GPU, motherboard) expuesto a humedad relativa >70% sostenida. Incluye
+    mecanismos técnicos de corrosión electroquímica y norma IPC-A-610.
+    Consultarlo para fundamentar el reclamo por daño a equipos tecnológicos
+    con pericia técnica que demuestre irreversibilidad del daño.
+
+  ► 21_REGIMEN_DESAGUE_Y_AGUAS_PLUVIALES.txt
+    Análisis integral de normativa técnica y legal de sistemas de drenaje
+    pluvial, servidumbres de escurrimiento y responsabilidad por modificación
+    unilateral. Aborda separación obligatoria agua pluvial/cloacal y la
+    jerarquía normativa (CCyC, Ley 11.820, Ordenanzas Merlo). Consultarlo
+    si la obra alteró los sistemas de drenaje o derivó el escurrimiento
+    pluvial hacia el inmueble vecino.
+
+  ► 43_INCUMPLIMIENTOS_DANOS_Y_RUBROS_INDEMNIZATORIOS.txt
+    Catálogo exhaustivo de daños materiales documentados (estructurales,
+    instalaciones, bienes muebles, habitabilidad) y los incumplimientos
+    normativos que los originaron. Detalla rajaduras, filtraciones,
+    asentamientos, riesgo eléctrico, hongos patógenos e inhabilitabilidad
+    de uso. Consultarlo para armar la pretensión indemnizatoria con
+    correspondencia entre cada rubro dañado y su incumplimiento específico.
+
+  ► 47_DETERIORO_MEMBRANA_PRESION_HIDRAULICA.txt
+    Análisis técnico sobre agua estancada en membrana asfáltica, presión
+    hidráulica, normativas de desagüe pluvial y ciclos de congelación-
+    descongelación. Aborda pendiente insuficiente y presión hidrostática.
+    Consultarlo cuando haya deterioro de membrana en cubierta por deficiente
+    drenaje causado por la obra lindera.
+
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │ 04b_Danos_Personales_Y_Morales                                           │
+  └──────────────────────────────────────────────────────────────────────────┘
+
+  Daño moral, daño psicofísico y padecimientos del damnificado como rubros
+  autónomos reclamables. Incluye fundamentación constitucional y jurisprudencia.
+
+  ► 13_ANALISIS_JURIDICO_INTEGRAL_DANOS_PERSONALES.txt
+    Marco completo de responsabilidad civil extracontractual por obra lindera,
+    rubros patrimoniales (gastos mudanza, alquiler, servicios) y
+    extrapatrimoniales (estrés, angustia, imposibilidad de vida social).
+    Incluye protección constitucional y reparación plena. Consultarlo para
+    justificar todos los rubros indemnizables derivados de la afectación
+    a la vida cotidiana.
+
+  ► 15_PADECIMIENTOS_Y_DANO_MORAL.txt
+    Investigación jurídica sobre consecuencias psicofísicas de habitar en
+    ambiente hostil (humedad, riesgos, hongos). Desarrolla daño moral
+    acreditado por decantación normativa (art. 1741 CCyC), presunciones
+    hominis y padecimiento sostenido ~2 años. Consultarlo para argumentar
+    daño moral acreditado automáticamente por condición notoria de
+    inhabitabilidad, sin prueba adicional de perturbación psíquica.
+
+  ► 38_DANO_PSICOFISICO_E_INTERESES_BARRIOS.txt
+    Distinción entre daño psicofísico (afectación objetiva de salud) y daño
+    moral (subjetivo). Analiza la Ley 14.449 PBA sobre acceso a hábitat
+    digno y su aplicabilidad en conflictos privados. Consultarlo para
+    diferenciar y fundamentar separadamente el daño psicofísico verificable
+    (deterioro de salud con componente patrimonial) del daño moral.
+
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │ 04c_Lucro_Cesante_Y_Patrimoniales                                        │
+  └──────────────────────────────────────────────────────────────────────────┘
+
+  Lucro cesante por actividad digital interrumpida, costas procesales y
+  depreciación patrimonial del inmueble afectado.
+
+  ► 19_INVESTIGACION_JURIDICA_LUCRO_CESANTE_HARDWARE_AGUA.txt
+    Investigación sobre acreditación probatoria de lucro cesante para creadores
+    de contenido digital (YouTube/AdSense) afectados por la obra. Incluye
+    metodología pericial compuesta con certificados AdSense, pericia contable
+    e informática. Consultarlo si el demandante usaba el inmueble para
+    actividad profesional digital y la obra interrumpió sus ingresos.
+
+  ► 34_COSTAS_Y_DEPRECIACION_INMUEBLE.txt
+    Régimen de costas según CPCC PBA (principio objetivo de derrota), cálculo
+    de honorarios profesionales (Ley 14967 PBA), regulación de peritos y
+    depreciación patrimonial del inmueble dañado. Consultarlo para incorporar
+    a la pretensión el rubro de costas y honorarios periciales, y para tasar
+    la desvalorización del inmueble por filtraciones y asentamientos.
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  05_JUSTIFICACION_Y_ARGUMENTACION                                           ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+Documentos que validan la procedencia del reclamo y preparan la refutación
+anticipada de las defensas que pueda oponer el demandado. Útiles para la
+redacción de los fundamentos de derecho y la réplica.
+
+  ► 16_JUSTIFICACION_Y_VALIDACION_DEL_RECLAMO.txt
+    Documento de justificación integral: situación fáctica, marco normativo,
+    análisis de infracciones, nexo causal, responsabilidad objetiva y
+    cuantificación. Incluye refutación de defensas y vías procesales.
+    Consultarlo como guía estructural para la demanda: identifica qué
+    argumentos probar, en qué orden, y cómo rebatir defensas previsibles.
+
+  ► 17_ARGUMENTACION_CONTRA_DEFENSAS_DEL_DEMANDADO.txt
+    Arsenal jurídico para rebatir la defensa típica del demandado ("inmueble
+    antiguo, ya estaba dañado"). Analiza daños directos (pisado de techo,
+    escombros) e indirectos (filtraciones por deterioro de impermeabilización)
+    con relación causal inmediata y mediata previsible. Consultarlo para
+    preparar respuesta a contestación de demanda y rebatir la estrategia
+    defensiva sobre estado previo del inmueble.
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  06_ESTRATEGIA_PROBATORIA_Y_REGIMEN                                         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+Régimen de prueba aplicable, estrategia probatoria post-mediación, pericias
+técnicas y jurisprudencia con casos reales. Cubre desde la planificación de
+la prueba hasta precedentes favorables descargables.
+
+  ► 18_ESTRATEGIA_PROBATORIA_POST_MEDIACION.txt
+    Metodología probatoria post-mediación: plazo de prescripción (3 años),
+    acreditación de nexo causal tras 2 años, valoración de fotos de redes
+    sociales e informes técnicos de parte. Aborda suspensión de prescripción,
+    metadatos digitales y comparación fotográfica. Consultarlo para construir
+    estrategia probatoria cuando se pasa a demanda después de mediar.
+
+  ► 22_REGIMEN_PROBATORIO_DANOS_EDILICIOS.txt
+    Tratamiento técnico-jurídico del régimen de responsabilidad civil objetiva,
+    métodos de acreditación judicial y requisitos de tribunales bonaerenses
+    para reparación integral. Desarrolla art. 1757 CCyC y cargas dinámicas.
+    Consultarlo para fundamentar por qué no es necesario probar negligencia
+    y cómo estructurar la estrategia probatoria ante tribunales de PBA.
+
+  ► 36_LEY_AMBIENTE_Y_PRUEBA_ANTICIPADA.txt
+    Ley 25675 (Ley General del Ambiente): principios precautorios,
+    responsabilidad objetiva ambiental y prueba anticipada. Aborda la
+    presunción iuris tantum de responsabilidad por infracción administrativa
+    previa y daño ambiental en viviendas. Consultarlo para invocar presunción
+    de responsabilidad por incumplimiento de normas municipales.
+
+  ► 42_REGIMEN_PROBATORIO_Y_PERICIAL.txt
+    Guía completa sobre pericia técnica integral en daños edilicios: jerarquía
+    de validez probatoria, roles de ingeniero civil vs. arquitecto, pericia
+    de oficio (máxima validez judicial) y cuantificación económica.
+    Consultarlo para estructurar la prueba técnica, elegir perito y entender
+    cómo el juez jerarquiza pericias conflictivas.
+
+  ► 48_PERICIAS_REALES_JURISPRUDENCIA_CASOS.txt
+    Casos reales 2021-2026 de daños por obra lindera en PBA: sentencias con
+    pericias, formato/estructura de informes periciales y fuentes descargables.
+    Incluye refutación de defensa "daño preexistente" e indemnización por daño
+    material, moral y psicológico. Consultarlo como precedentes jurisprudenciales
+    concretos y para modelar el informe pericial del caso.
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  07_HERRAMIENTAS_PROCESALES                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+Herramientas y mecanismos procesales disponibles: tutela anticipada, medidas
+cautelares, amparo constitucional, caducidad, recursos de apelación y
+estrategia procesal integral para todas las etapas del juicio.
+
+  ► 26_CELERIDAD_PROCESAL_Y_TUTELA_ANTICIPADA.txt
+    Tutela judicial efectiva, plazo razonable y adaptabilidad de formas
+    procesales. Desarrolla vulnerabilidad etaria y de salud como causas de
+    prioridad, medidas autosatisfactivas y garantía constitucional de justicia
+    en tiempo útil (art. 15 Const. PBA). Consultarlo para solicitar
+    tratamiento prioritario y justificar tutela anticipada.
+
+  ► 32_COBRABILIDAD_Y_PROTECCION_VIVIENDA.txt
+    Régimen de protección de vivienda (arts. 244-256 CCCN): limitaciones a la
+    ejecución y excepciones para mejoras/construcciones. Debate doctrinario
+    sobre si la excepción alcanza daños a terceros. Consultarlo si el
+    demandado opone protección de vivienda como defensa y para verificar si
+    la sentencia será cobrable sobre el inmueble lindero.
+
+  ► 33_AMPARO_CONSTITUCIONAL.txt
+    Acción de amparo PBA (Ley 13928): base en art. 20 Const. PBA,
+    procedimiento ultrarrápido contra particulares/Estado, derecho al hábitat
+    digno (art. 36 inc. 7° Const. PBA). Aborda cautelares inmediatas y
+    plazos brevísimos. Consultarlo para medidas urgentes de paralización de
+    obra clandestina y reparaciones emergentes sin esperar juicio ordinario.
+
+  ► 35_CADUCIDAD_RECONVENCION_LITISCONSORCIO.txt
+    Art. 310 CPCC PBA: plazos de caducidad (6 meses primera instancia, 3
+    meses segunda), efectos, actos interruptivos, reconvención y litisconsorcio
+    pasivo. Consultarlo para evitar caducidad en juicios largos (3-5 años),
+    anticipar defensa por litisconsorcio incompleto y planificar estrategia
+    con múltiples demandados (propietario + constructor + municipio).
+
+  ► 37_APELACION_Y_COLEGIOS_PROFESIONALES.txt
+    Apelación en lo civil/comercial Morón: plazos (5 días definitiva, 3
+    interlocutorio), expresión de agravios, recurso extraordinario SCBA y
+    denuncia ante colegios profesionales. Consultarlo ante sentencia
+    desfavorable de primera instancia, para denunciar profesionales
+    clandestinos y para recursos ante Cámara de Apelaciones.
+
+  ► 41_ESTRATEGIA_PROCESAL_Y_HERRAMIENTAS_JUDICIALES.txt
+    Competencia territorial (Dept. Judicial Morón), Beneficio de Litigar Sin
+    Gastos (BLSG), medidas cautelares, embargo, astreintes, actualización
+    monetaria y prescripción. Incluye documentación requerida para incoar
+    demanda. Consultarlo para preparar la demanda inicial, garantizar el
+    patrimonio del demandado y acceder a BLSG.
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  08_MARCO_TEORICO_JUEZ_PIPO                                                 ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+Contiene la metodología JUEZ-PIPO de análisis multiperspectiva que estructura
+todo el proyecto. Define las tres perspectivas de análisis (demandante,
+demandado, control público) y la lógica de verificación cruzada.
+
+  ► 30_MARCO_TEORICO_METODOLOGIA_JUEZ_PIPO.txt
+    Metodología de tres perspectivas (demandante, demandado, control público +
+    verificación) y estructura general del marco teórico. Mapea 18 temas
+    jurídicos interconectados con clasificación de verificación: [V]=verificado,
+    [IV]=inferido, [PV]=parcial. Consultarlo como guía general de la
+    estructura del caso y para entender cómo los temas se interrelacionan.
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  09_NORMATIVA_URBANISTICA_SERVICIOS_MERLO                                    ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+Normativa técnica municipal específica de Merlo: requisitos de servicios
+(eléctricos, sanitarios), urbanismo, instalaciones y perspectivas cruzadas
+(denunciante, denunciado, justicia, peritaje).
+
+  ► 50_REQUISITOS_SERVICIOS_URBANISMO_INSTALACIONES_MERLO.txt
+    Normativa técnica municipal de Merlo: instalaciones eléctricas (AEA 90364,
+    IRAM 2004, EDENOR), requisitos de servicios y urbanismo. Analiza
+    incumplimientos desde cuatro perspectivas: denunciante, denunciado,
+    justicia y peritaje. Consultarlo para acreditar incumplimientos técnicos
+    de la obra y riesgos de seguridad (daño temido art. 623 bis CPCC PBA).
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  10_REVISION_VACIOS_Y_CONTROL                                                ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+Informes de auditoría interna de la biblioteca: revisión de vacíos, omisiones
+y registro de archivos duplicados eliminados. Herramientas de control de
+calidad documental del proyecto.
+
+  ► 27_INFORME_DE_REVISION_VACIOS_Y_OMISIONES.txt
+    Dos informes de revisión exhaustiva del caso (enfoque jurídico-procesal +
+    enfoque fáctico): análisis línea por línea de la totalidad de archivos,
+    verificación de cobertura de 18 temas jurídicos y coherencia normativa.
+    Consultarlo como auditoría interna de calidad jurídica y para identificar
+    qué aspectos aún necesitan desarrollo.
+
+  ► 46_INFORME_DUPLICADOS_ELIMINADOS.txt
+    Registro de 12 archivos duplicados eliminados de la biblioteca con
+    justificación de por qué cada uno era redundante y referencia a los
+    archivos que absorbieron su contenido. Consultarlo para entender la
+    estructura final limpia, no buscar archivos descartados y como
+    trazabilidad de las mejoras realizadas.
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  11_PROMPTS_E_INVESTIGACION                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+Prompts reutilizables para investigación jurídica con inteligencia artificial.
+Permiten consultar IA especializada para completar vacíos, buscar precedentes
+y profundizar en temas específicos del caso.
+
+  ► 39_PROMPTS_INVESTIGACION_Y_PRECEDENTES.txt
+    Prompts reutilizables para investigación con IA: estructura integral del
+    caso (18 temas + análisis desde 6 ópticas) y modelo de consulta a IA
+    jurídica especializada. Consultarlo como plantilla para consultar IA
+    jurídica, estructurar búsquedas de jurisprudencia específica y optimizar
+    investigación documental.
+
+  ► 45_PROMPT_INVESTIGACION_FALTANTES.txt
+    Prompt detallado para completar información faltante: 10 puntos concretos
+    a investigar (cuantificación monetaria 2023-2026, cronología de daño
+    continuado, responsables, denuncia municipal, prueba psicológica).
+    Consultarlo como checklist de temas prioritarios pendientes y para
+    dirigir investigación específica que complemente datos fácticos.
+
+
+════════════════════════════════════════════════════════════════════════════════
+INFORMACIÓN TÉCNICA
+════════════════════════════════════════════════════════════════════════════════
+
+  Total de archivos .............. 49
+  Total de carpetas principales .. 12
+  Total de subcarpetas ........... 6
+  Total de carpetas (todas) ...... 18
+  Fecha de última reorganización . 18 de abril de 2026
+  Jurisdicción del caso .......... Merlo, Provincia de Buenos Aires
+                                   (Departamento Judicial de Morón)
+
+════════════════════════════════════════════════════════════════════════════════
