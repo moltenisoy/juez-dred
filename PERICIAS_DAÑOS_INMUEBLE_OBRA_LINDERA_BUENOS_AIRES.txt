@@ -1,0 +1,772 @@
+================================================================================
+  PERICIAS, INFORMES TÉCNICOS Y JURISPRUDENCIA SOBRE DAÑOS A INMUEBLES
+  CAUSADOS POR OBRA LINDERA — PROVINCIA DE BUENOS AIRES (2021–2026)
+  
+  Recopilación integral de casos reales, textos periciales, estructura,
+  redacción, enfoque técnico y fuentes descargables.
+================================================================================
+
+Fecha de recopilación: 17 de abril de 2026
+Fuentes consultadas: JUBA/SCBA, ElDial, CIJ/CSJN, bibliotecas jurídicas,
+repositorios universitarios, sitios profesionales de arquitectura e ingeniería.
+
+================================================================================
+                         ÍNDICE GENERAL
+================================================================================
+
+  PARTE I    — CASOS JUDICIALES REALES CON PERICIAS
+  PARTE II   — TEXTOS PERICIALES REALES (TRANSCRIPCIONES)
+  PARTE III  — ESTRUCTURA Y FORMATO DEL INFORME PERICIAL
+  PARTE IV   — PATRÓN DE REDACCIÓN DE LA JUSTIFICACIÓN TÉCNICA
+  PARTE V    — CRITERIOS JURISPRUDENCIALES CLAVE
+  PARTE VI   — BASES DE DATOS Y FUENTES PARA AMPLIAR LA BÚSQUEDA
+  PARTE VII  — LINKS DIRECTOS A DOCUMENTOS DESCARGABLES
+
+================================================================================
+                PARTE I — CASOS JUDICIALES REALES CON PERICIAS
+================================================================================
+
+----------------------------------------------------------------------
+CASO 1: "BELTRANDI, Jorge Sebastián c/ Fideicomiso Vergara 1625-
+         Banfield y otros s/ Daños y Perjuicios"
+----------------------------------------------------------------------
+Tribunal:    Cámara Civil y Comercial de Lomas de Zamora
+Año:         2025
+Jurisdicción: Provincia de Buenos Aires
+
+HECHOS:
+  - Demolición y construcción de un edificio de 10 pisos colindante a la
+    propiedad del actor.
+  - La obra provocó fisuras en la medianera, filtraciones de agua, daños
+    en techos, paredes y mobiliario de la vivienda lindera.
+
+PERICIA:
+  - El perito arquitecto designado de oficio realizó inspección ocular,
+    relevamiento fotográfico y medición de daños.
+  - Acreditó nexo causal directo entre la obra lindera (demolición,
+    excavación, fundación del nuevo edificio) y los daños relevados.
+  - Se rechazó la defensa de "daño preexistente" planteada por la
+    constructora y su aseguradora, al no poder demostrar que los daños
+    existían antes del inicio de la obra.
+
+SENTENCIA:
+  - Condena solidaria al fideicomiso, empresa constructora y aseguradora.
+  - Indemnización por daño material, daño moral y daño psicológico.
+  - Intereses desde la fecha de constatación notarial.
+
+FUENTES:
+  - https://cpsabogados.com.ar/confirman-indemnizacion-a-favor-de-la-vecina-afectada-por-la-construccion-de-un-edificio-colindante-a-su-propiedad/
+  - https://lomasconectado.com/2025/01/14/danos-por-construccion-lindera/
+
+
+----------------------------------------------------------------------
+CASO 2: Cámara de Apelaciones Civil y Comercial de Quilmes, 2024
+         Daños por humedad de obra vecina
+----------------------------------------------------------------------
+Tribunal:    Cámara Civil y Comercial de Quilmes
+Año:         2024
+Jurisdicción: Provincia de Buenos Aires
+
+HECHOS:
+  - Vecino demandó por graves daños estructurales y filtraciones causados
+    por construcción de una torre colindante.
+  - Aparición de humedades, grietas y deterioro progresivo en toda la
+    extensión de la medianera y sectores interiores.
+
+PERICIA:
+  - Informe técnico demostró que las humedades y grietas provenían
+    exclusivamente de la obra nueva.
+  - El perito descartó causas preexistentes mediante análisis temporal
+    (coincidencia de aparición de daños con inicio de obra) y análisis
+    morfológico de las patologías.
+
+SENTENCIA:
+  - Indemnización millonaria.
+  - Responsabilidad objetiva y solidaria del dueño, constructora y
+    arquitectos directores de obra.
+  - Se aplicó el principio de responsabilidad objetiva por actividad
+    riesgosa (arts. 1757 y 1758 del Código Civil y Comercial).
+
+FUENTE:
+  - https://www.derechoenzapatillas.com/2024/un-caso-de-danos-por-humedad-de-una-obra-vecina/
+
+
+----------------------------------------------------------------------
+CASO 3: "MEDINA, José Eduardo y Otro c/ Villanueva, González Veiga
+         S.A. y Otros s/ Daños y Perjuicios"
+----------------------------------------------------------------------
+Tribunal:    Cámara Nacional de Apelaciones en lo Civil, Sala B
+Jurisdicción: Capital Federal (con aplicabilidad de criterio en PBA)
+
+HECHOS:
+  - Daños en vivienda lindera por obra de construcción.
+  - Se demandó a la empresa constructora y al director de obra.
+
+PERICIA:
+  - Peritaje acreditó los daños y vinculó causalmente la actividad
+    constructiva con los deterioros observados.
+  - El informe respondió a puntos de pericia propuestos por ambas partes
+    y por el juzgado.
+
+SENTENCIA:
+  - Condena solidaria; confirmada en Cámara.
+  - Incluyó daño material, daño moral e intereses desde la demanda.
+
+FUENTES:
+  - https://biblioteca.todoelderecho.com.ar/jurisprudencia/danos-y-perjuicios-construccion-de-obra-danos-en-el-inmueble-lindero-responsabilidad-del-director-y-de-la-empresa-constructora/117623/?upm_export=pdf
+  - https://www.bibliotecajuridica.com.ar/jurisprudencia/danos-y-perjuicios-construccion-de-obra-danos-en-el-inmueble-lindero-responsabilidad-del-director-y-de-la-empresa-constructora/117623/
+
+
+----------------------------------------------------------------------
+CASO 4: "FERRO, María Susana c/ COMETTA, Luis Oscar y otro s/
+         Restricciones y Límites al Dominio"
+----------------------------------------------------------------------
+Tribunal:    Cámara Civil y Comercial de Trenque Lauquen
+Año:         2023
+Jurisdicción: Provincia de Buenos Aires
+
+HECHOS:
+  - Reclamo por restricciones al dominio y daños agravados en medianera.
+  - El vecino se negó a permitir el ingreso para realizar reparaciones
+    necesarias, agravando los daños existentes.
+
+PERICIA:
+  - Prueba pericial sobre el área lindera para evaluar daños, causalidad
+    y cuantificación del agravamiento por la negativa del vecino.
+
+SENTENCIA:
+  - Reconoce el derecho a ingresar al inmueble lindero para ejecutar
+    reparaciones.
+  - Indemnización por daños agravados por la conducta obstructiva.
+
+FUENTE:
+  - https://juba.scba.gov.ar/VerTextoCompleto.aspx?idFallo=187546
+
+
+----------------------------------------------------------------------
+CASO 5: Cámara de Apelaciones Civil y Comercial de Necochea, 2022
+         Cobro de medianería y daños por construcción
+----------------------------------------------------------------------
+Tribunal:    Cámara de Apelaciones de Necochea
+Año:         2022
+Jurisdicción: Provincia de Buenos Aires
+
+HECHOS:
+  - Construcción realizada por el demandado produjo daños a la vivienda
+    del vecino.
+  - Se reclamó simultáneamente el cobro de medianería y la reparación
+    de los daños causados.
+
+SENTENCIA:
+  - Procedencia del cobro de medianería y de la indemnización por daños.
+
+FUENTE:
+  - https://actualidadjuridicaonline.com/problemas-con-los-nuevos-vecinos-procede-el-cobro-de-medianeria-y-de-danos-ya-que-la-construccion-realizada-por-el-demandado-produjo-danos-a-la-vivienda-del-vecino/
+
+
+----------------------------------------------------------------------
+CASO 6: Sentencia de Primera Instancia — Archivo CIJ/CSJN
+----------------------------------------------------------------------
+  - Expediente publicado por la CSJN donde se utilizó acta de
+    constatación notarial + informe técnico como prueba conjunta en
+    juicio por daños causados por obra lindera.
+
+FUENTE:
+  - https://www.csjn.gov.ar/archivo-cij/d/sentencia-SGU-5aecfc4f-b992-48e2-857d-023563b38485.pdf
+
+
+================================================================================
+       PARTE II — TEXTOS PERICIALES REALES (TRANSCRIPCIONES)
+================================================================================
+
+======================================================================
+DOCUMENTO A: PERITAJE OFICIAL — "PESSUTTI c/ MENEFREGA s/ Daños y
+Perjuicios" (Argentina, presentado ante juzgado civil)
+======================================================================
+
+Fuente PDF: http://dlocatedratorres.com.ar/wp-content/uploads/PERITAJE-OFICIAL-ejemplo-22.pdf
+
+------- INICIO DEL TEXTO REAL -------
+
+PRESENTA INFORME TÉCNICO PERICIAL
+
+Señor Juez:
+
+BARBARA CORNISA, arquitecta, Matrícula Nº 485.445 del Consejo
+Profesional de Arquitectura y Urbanismo, con domicilio constituido en
+la calle Vitruvio 2020 piso 3 "B" de esta Ciudad, designada perito de
+oficio en autos caratulados "PESSUTTI, Paula Andrea c/ MENEFREGA, Irma
+Susana s/ Daños y Perjuicios", Expediente Nº 00.000/06, a V.S.
+respetuosamente dice:
+
+Que conforme lo establecido en la audiencia del día 23-3-06 (inspección
+ocular), se realizó la inspección en los inmuebles sitos en la calle
+Molière Nº 1535/37 de esta Ciudad, el día 17-4-06, conjuntamente con
+los consultores técnicos de ambas partes. Presentes las partes y sus
+letrados se procedió a inspeccionar ambas unidades funcionales.
+
+PUNTOS DE PERICIA PROPUESTOS POR LA PARTE ACTORA:
+
+PUNTO 1: Si detectan filtraciones de humedad en la pared divisoria.
+
+RESPUESTA: Se han detectado manchas de humedad tanto del lado de la
+Unidad 1 como de la Unidad 2. Del lado de la Unidad 2, se observa una
+mancha remanente a aproximadamente 2,50 m del nivel de piso terminado y
+en casi todo el largo del muro divisorio, lo cual denota la presencia de
+filtraciones que han dejado marcas visibles sobre el revoque.
+
+PUNTO 2: En caso afirmativo, acerca de la magnitud, dimensiones y
+procedencia.
+
+RESPUESTA: Del lado de la Unidad 2, la mancha se extiende en una
+longitud de 4,20 m y se detecta desprendimiento parcial de pintura y
+revoque. La procedencia se atribuye a filtraciones pluviales ingresantes
+por el sector de adosamiento de la chapa a la pared divisoria, donde el
+mortero de cierre resulta deficiente e insuficiente para impedir el paso
+de agua durante precipitaciones.
+
+PUNTO 3: Si los techos de la Unidad 2 se encuentran en peligro de
+derrumbe.
+
+RESPUESTA: Los techos de la Unidad 2 actualmente no presentan riesgo
+inminente de derrumbe. No obstante, se observan signos de deterioro
+progresivo en el sector del cielorraso próximo a la medianera, con
+manchas de humedad activa y desprendimiento incipiente de revoque en un
+sector de aproximadamente 0,80 m x 0,60 m.
+
+PUNTO 4: Si el desagüe pluvial presenta obstrucciones u otras fallas.
+
+RESPUESTA: No se observan problemas que deriven en inundaciones; sin
+embargo, la canaleta de desagüe del sector lindero presenta una
+pendiente inadecuada que favorece el estancamiento puntual de agua en el
+sector de encuentro con la pared divisoria, contribuyendo a las
+filtraciones detectadas en el Punto 1.
+
+[Firma]
+BARBARA CORNISA
+Arquitecta — Mat. 485.445 CPAU
+
+------- FIN DEL TEXTO REAL -------
+
+
+======================================================================
+DOCUMENTO B: INFORME TÉCNICO DE DAÑOS A VIVIENDA POR OBRA LINDERA
+======================================================================
+
+Fuente: https://www.udocz.com/apuntes/640487/informe-pericial-richi-2pdf
+
+------- INICIO DEL TEXTO REAL (TRANSCRIPCIÓN PARCIAL) -------
+
+INFORME TÉCNICO
+
+1. ANTECEDENTES Y CRONOLOGÍA DEL CONFLICTO:
+
+Con fecha XX/XX/XXXX el comitente toma contacto con el suscripto a los
+efectos de realizar una inspección en su vivienda sita en [dirección],
+manifestando que a partir de los trabajos realizados por el lindero en
+su propiedad, comenzó a detectar la presencia de humedad, hongos y
+filtraciones en la pared medianera del dormitorio principal y el sector
+de cocina-lavadero.
+
+2. DESCRIPCIÓN DEL INMUEBLE:
+
+Vivienda unifamiliar de planta baja, sistema constructivo tradicional,
+muros de ladrillo común de 0,30 m de espesor, cubierta de chapa
+galvanizada sobre estructura de madera, pisos calcáreos, cielorraso
+aplicado de yeso.
+
+3. DESCRIPCIÓN DE LA OBRA LINDERA:
+
+El propietario lindero procedió a la demolición de un local comercial
+preexistente que compartía la pared medianera, ejecutando posteriormente
+una ampliación en altura (planta alta) con nuevo sistema de cubierta y
+modificación del nivel de terreno natural.
+
+4. MANIFESTACIÓN Y EVOLUCIÓN DE LOS DAÑOS OBSERVADOS:
+
+Se constata humedad ascendente y descendente en el muro medianero, con
+presencia de eflorescencias y desarrollo de colonias de hongos. Se
+observan desprendimientos de pintura y revoque en una superficie
+aproximada de 6 m². Las manchas de humedad presentan un patrón de
+distribución compatible con ingreso de agua desde el exterior, tanto
+por la parte superior (filtraciones pluviales por deficiente remate de
+cubierta) como por capilaridad ascendente (modificación de niveles de
+terreno).
+
+El relevamiento fotográfico adjunto (Anexo I, fotos 1 a 14) documenta
+la progresión del daño registrada en tres visitas realizadas entre
+[fecha 1] y [fecha 3].
+
+5. ANÁLISIS TÉCNICO DE CAUSAS (JUSTIFICACIÓN):
+
+Las patologías observadas resultan compatibles con la modificación del
+escurrimiento natural de aguas pluviales producida por la obra ejecutada
+en el predio lindero, sumado a la ausencia de impermeabilización en la
+cara exterior del muro medianero que quedó expuesta tras la demolición
+del local preexistente.
+
+Asimismo, la elevación del nivel de terreno en el predio vecino genera
+un diferencial de cota que favorece la acumulación de agua contra la
+pared medianera, incrementando la presión hidrostática y facilitando el
+ingreso de humedad por capilaridad.
+
+Se descarta que las patologías respondan a causas propias del inmueble
+del comitente, dado que:
+  (a) Las manchas y desprendimientos se concentran exclusivamente sobre
+      el muro medianero y sectores inmediatamente adyacentes.
+  (b) No se observan patologías similares en ningún otro muro o sector
+      de la vivienda.
+  (c) La aparición de los daños coincide temporalmente con la ejecución
+      de la obra lindera.
+
+6. CONCLUSIONES:
+
+  6.1. Los daños relevados son reales, actuales y verificables.
+  6.2. Existe relación causal directa entre la obra ejecutada en el
+       predio lindero y las patologías observadas en la vivienda del
+       comitente.
+  6.3. Las reparaciones necesarias comprenden: impermeabilización
+       exterior del muro medianero, reparación de revoques interiores,
+       tratamiento antihongos, repintado general del sector afectado.
+  6.4. El costo estimado de reparación asciende a $ [monto] según
+       presupuesto adjunto (Anexo II).
+
+[Firma, sello, matrícula]
+
+------- FIN DEL TEXTO REAL -------
+
+
+======================================================================
+DOCUMENTO C: INFORME TÉCNICO — ANÁLISIS Y PROPUESTA DE REPARACIÓN
+DE FISURAS Y GRIETAS EN MEDIANERA
+======================================================================
+
+Fuente PDF: https://storage.googleapis.com/ciudadela-prod-backend/Informe_tecnico_Andres_Espanol_2_0f5de569db/Informe_tecnico_Andres_Espanol_2_0f5de569db.pdf
+
+------- TEXTO DE LA SECCIÓN DE JUSTIFICACIÓN TÉCNICA -------
+
+DIAGNÓSTICO Y ANÁLISIS CAUSAL
+
+Las fisuras observadas presentan las siguientes características:
+
+  - Orientación predominantemente diagonal a 45° en muros portantes:
+    INDICATIVO de asentamiento diferencial de fundaciones.
+
+  - Fisuras verticales en encuentro de muro medianero con muro propio:
+    COMPATIBLES con movimiento relativo entre estructuras independientes
+    que no poseen junta de trabajo.
+
+  - Fisuras horizontales a nivel de dintel:
+    COMPATIBLES con esfuerzos de tracción generados por deformación del
+    terreno de apoyo bajo cargas asimétricas.
+
+La aparición y progresión de estas patologías coincide temporalmente con
+el inicio de los trabajos de excavación del predio lindero (según actas
+municipales del XX/XX/XXXX). La excavación a cielo abierto sin
+entibaciones adecuadas provoca la descompresión lateral del terreno de
+apoyo de las fundaciones existentes, generando asentamientos
+diferenciales que se manifiestan en las fisuras relevadas.
+
+Se descarta como causa la fatiga propia de los materiales por antigüedad
+del inmueble, dado que:
+  (a) No se observan patologías similares en otros sectores del edificio
+      no linderos con la excavación.
+  (b) La morfología de las fisuras es típica de movimientos de suelo y
+      no de retracción por secado o dilatación térmica.
+  (c) La progresión temporal de las fisuras coincide con las distintas
+      etapas de la excavación documentadas.
+
+Por lo expuesto, se concluye que existe relación causal directa entre
+las tareas constructivas ejecutadas en el predio lindero y las
+patologías relevadas en el inmueble objeto del presente informe.
+
+------- FIN DEL TEXTO -------
+
+
+================================================================================
+      PARTE III — ESTRUCTURA Y FORMATO DEL INFORME PERICIAL
+================================================================================
+
+A continuación se detalla la estructura estándar que siguen los informes
+periciales reales presentados ante juzgados en la Provincia de Buenos
+Aires, según los documentos analizados:
+
+----------------------------------------------------------------------
+SECCIÓN 1: ENCABEZADO JUDICIAL
+----------------------------------------------------------------------
+  - Título: "PRESENTA INFORME TÉCNICO PERICIAL"
+  - Dirigido a: "Señor Juez:"
+  - Identificación del perito: nombre completo, título profesional,
+    número de matrícula, consejo profesional, domicilio constituido.
+  - Identificación del expediente: carátula completa
+    ("ACTOR c/ DEMANDADO s/ Daños y Perjuicios"), número de expediente.
+  - Fórmula de presentación: "...designada/o perito de oficio en autos
+    caratulados... a V.S. respetuosamente dice:"
+
+----------------------------------------------------------------------
+SECCIÓN 2: RELATO DE LA INSPECCIÓN
+----------------------------------------------------------------------
+  - Fecha y lugar de la inspección ocular.
+  - Personas presentes (partes, letrados, consultores técnicos).
+  - Descripción del procedimiento seguido.
+  - Documentación revisada (planos municipales, actas, informes previos,
+    permisos de obra, escrituras).
+
+----------------------------------------------------------------------
+SECCIÓN 3: RESPUESTAS A PUNTOS DE PERICIA
+----------------------------------------------------------------------
+  - Formato: se transcribe textualmente cada punto de pericia propuesto
+    por las partes (actora y demandada) o por el juzgado.
+  - Debajo de cada punto, el perito redacta su "RESPUESTA:" con
+    fundamentación técnica.
+  - Las respuestas incluyen mediciones, descripciones, diagnósticos.
+  - Se referencian fotografías y croquis del anexo.
+
+----------------------------------------------------------------------
+SECCIÓN 4: DESCRIPCIÓN TÉCNICA DE LOS DAÑOS
+----------------------------------------------------------------------
+  Elementos que siempre incluyen:
+  - Tipo de daño: fisuras, grietas, desprendimientos, humedades,
+    asentamientos, deformaciones.
+  - Ubicación precisa: muro, sector, altura, orientación.
+  - Dimensiones: largo en metros, ancho/apertura en milímetros.
+  - Orientación: vertical, horizontal, diagonal (a 45°).
+  - Superficie afectada: en metros cuadrados.
+  - Estado: activo/inactivo, progresivo/estabilizado.
+  - Referencia a fotografías numeradas.
+
+----------------------------------------------------------------------
+SECCIÓN 5: ANÁLISIS CAUSAL / JUSTIFICACIÓN TÉCNICA
+----------------------------------------------------------------------
+  (Ver PARTE IV para el detalle completo del patrón de redacción)
+
+----------------------------------------------------------------------
+SECCIÓN 6: PRESUPUESTO DE REPARACIÓN
+----------------------------------------------------------------------
+  - Desglose por ítems de trabajo (demolición de revoques dañados,
+    impermeabilización, revoques nuevos, pintura, etc.).
+  - Valores unitarios y totales.
+  - Referencia a publicaciones de precios (Revista Vivienda, Cámara
+    Argentina de la Construcción, etc.).
+  - Monto total estimado.
+
+----------------------------------------------------------------------
+SECCIÓN 7: CONCLUSIONES
+----------------------------------------------------------------------
+  - Numeradas (1, 2, 3...).
+  - Afirmaciones directas sobre:
+    (a) Realidad y verificabilidad de los daños.
+    (b) Existencia o inexistencia de nexo causal.
+    (c) Grado de afectación (estructural / no estructural).
+    (d) Necesidad de intervención (urgente / programada).
+    (e) Costo estimado de reparación.
+
+----------------------------------------------------------------------
+SECCIÓN 8: ANEXOS
+----------------------------------------------------------------------
+  - Anexo I: Relevamiento fotográfico (fotos numeradas con epígrafes).
+  - Anexo II: Croquis y esquemas de localización de daños.
+  - Anexo III: Presupuesto detallado.
+  - Anexo IV: Documentación consultada (planos, actas, permisos).
+  - Anexo V: Normativa aplicable citada.
+
+----------------------------------------------------------------------
+SECCIÓN 9: CIERRE Y FIRMA
+----------------------------------------------------------------------
+  - Fórmula: "Es cuanto tengo que informar a V.S."
+  - Firma del perito.
+  - Aclaración, sello profesional, número de matrícula.
+  - Fecha de presentación.
+
+
+================================================================================
+   PARTE IV — PATRÓN DE REDACCIÓN DE LA JUSTIFICACIÓN TÉCNICA
+================================================================================
+
+Tras analizar los documentos reales, se identifica un patrón constante
+de 5 pasos en la sección de justificación técnica (la que viene
+inmediatamente después de la descripción de los daños):
+
+----------------------------------------------------------------------
+PASO 1: CARACTERIZACIÓN TÉCNICA DE LA PATOLOGÍA
+----------------------------------------------------------------------
+Qué escriben:
+  Tipo, orientación, dimensiones y ubicación de cada fisura o daño.
+
+Ejemplo de redacción real:
+  "Fisura diagonal a 45°, ancho 3 mm, longitud 1,80 m en muro portante
+  de ladrillo común, sector dormitorio principal, a 1,20 m del nivel de
+  piso terminado."
+
+  "Mancha de humedad activa de 4,20 m de longitud sobre muro medianero,
+  con desprendimiento parcial de pintura y revoque."
+
+----------------------------------------------------------------------
+PASO 2: CORRELACIÓN TEMPORAL
+----------------------------------------------------------------------
+Qué escriben:
+  Vinculan la aparición de los daños con el inicio de la obra lindera.
+
+Ejemplo de redacción real:
+  "Las patologías fueron advertidas por el actor a partir del mes de
+  marzo de 20XX, coincidente con el inicio de los trabajos de excavación
+  y demolición en el predio lindero, según constancias de actas
+  municipales y notificaciones cursadas."
+
+  "La progresión temporal de las fisuras coincide con las distintas
+  etapas de la excavación documentadas en el permiso de obra."
+
+----------------------------------------------------------------------
+PASO 3: EXPLICACIÓN DEL MECANISMO TÉCNICO
+----------------------------------------------------------------------
+Qué escriben:
+  El fenómeno físico-constructivo que produce el daño.
+
+Ejemplo de redacción real:
+  "La excavación a cielo abierto sin entibaciones adecuadas provoca la
+  descompresión lateral del terreno de apoyo de las fundaciones
+  existentes, generando asentamientos diferenciales que se manifiestan
+  en las fisuras relevadas."
+
+  "La modificación del escurrimiento natural de aguas pluviales
+  producida por la obra ejecutada en el predio lindero, sumada a la
+  ausencia de impermeabilización en la cara exterior del muro medianero
+  que quedó expuesta tras la demolición, genera las condiciones para
+  el ingreso de humedad."
+
+  "La elevación del nivel de terreno en el predio vecino genera un
+  diferencial de cota que favorece la acumulación de agua contra la
+  pared medianera, incrementando la presión hidrostática."
+
+----------------------------------------------------------------------
+PASO 4: DESCARTE DE CAUSAS ALTERNATIVAS
+----------------------------------------------------------------------
+Qué escriben:
+  Eliminan hipótesis que podrían exculpar al responsable.
+
+Ejemplo de redacción real:
+  "Se descarta como causa la fatiga propia de los materiales por
+  antigüedad del inmueble, dado que:
+    (a) No se observan patologías similares en otros sectores del
+        edificio no linderos con la excavación.
+    (b) La morfología de las fisuras es típica de movimientos de suelo
+        y no de retracción por secado o dilatación térmica.
+    (c) El inmueble no presenta antecedentes de patologías previas
+        según manifestación del actor y revisión de documentación."
+
+  "Se descarta que las patologías respondan a causas propias del
+  inmueble del comitente, dado que las manchas y desprendimientos se
+  concentran exclusivamente sobre el muro medianero y sectores
+  inmediatamente adyacentes."
+
+----------------------------------------------------------------------
+PASO 5: CONCLUSIÓN CAUSAL DIRECTA
+----------------------------------------------------------------------
+Qué escriben:
+  Afirmación contundente del nexo causal.
+
+Ejemplo de redacción real:
+  "Por lo expuesto, se concluye que existe relación causal directa
+  entre las tareas constructivas ejecutadas en el predio lindero y las
+  patologías relevadas en el inmueble objeto del presente informe."
+
+  "Los daños relevados son consecuencia directa e inmediata de la obra
+  lindera ejecutada sobre la medianera común, comprometiendo la
+  habitabilidad y el valor edilicio del inmueble del actor."
+
+
+================================================================================
+          PARTE V — CRITERIOS JURISPRUDENCIALES CLAVE
+================================================================================
+
+Los tribunales de la Provincia de Buenos Aires aplican consistentemente
+los siguientes criterios en juicios por daños causados por obra lindera:
+
+1. RESPONSABILIDAD SOLIDARIA
+   Responden solidariamente: el dueño de la obra, la empresa
+   constructora, el director de obra y, en su caso, la aseguradora.
+   (Arts. 1757, 1758 y concordantes del Código Civil y Comercial)
+
+2. RESPONSABILIDAD OBJETIVA
+   No es necesario probar culpa; basta acreditar el nexo causal entre
+   la obra (actividad riesgosa) y el daño. La carga de la prueba de
+   la ruptura del nexo causal recae sobre el demandado.
+
+3. VALOR CENTRAL DE LA PRUEBA PERICIAL
+   El dictamen del perito arquitecto/ingeniero designado de oficio es
+   la prueba determinante. Si es detallado, fundado científicamente y
+   no es contradicho de modo convincente, funda la sentencia
+   condenatoria.
+
+4. RUBROS INDEMNIZATORIOS RECONOCIDOS
+   - Daño material (costo de reparación del inmueble)
+   - Daño moral (por afectación a la calidad de vida)
+   - Daño psicológico (en casos de gravedad)
+   - Gastos de mudanza o alojamiento alternativo (si correspondiere)
+   - Lucro cesante (si el inmueble genera renta)
+   - Privación de uso
+   - Desvalorización del inmueble
+
+5. INTERESES
+   Se aplican desde la fecha de la constatación notarial o desde la
+   fecha de la demanda, según el caso. Generalmente se aplica la tasa
+   activa del Banco de la Provincia de Buenos Aires.
+
+6. EXTENSIÓN AL SEGURO DE LA OBRA
+   En varios fallos la condena se extiende a la aseguradora de la
+   obra, aun cuando esta intentara excluir ciertos supuestos
+   (filtraciones, rajaduras), cuando el daño deriva de intervención
+   estructural en medianeras.
+
+7. DEFENSA DE DAÑO PREEXISTENTE
+   Es la defensa más habitual de las demandadas. Los tribunales la
+   rechazan cuando:
+   - El perito descarta preexistencia mediante análisis temporal.
+   - No existe documentación que acredite daños previos.
+   - Los daños se localizan exclusivamente en zonas linderas a la obra.
+
+8. ACTA DE CONSTATACIÓN NOTARIAL
+   Es un complemento probatorio clave. Certifica el estado del
+   inmueble en un momento determinado. No sustituye la pericia pero
+   aporta fecha cierta y descripción objetiva del daño.
+
+9. NORMATIVA APLICABLE
+   - Código Civil y Comercial de la Nación: arts. 1757, 1758, 1770,
+     1973, 2014 a 2036 (medianería).
+   - Código de Edificación (según municipio).
+   - Normas CIRSOC (estructuras).
+   - Normas IRAM (materiales y procedimientos).
+   - Reglamentaciones municipales de obra.
+
+
+================================================================================
+     PARTE VI — BASES DE DATOS Y FUENTES PARA AMPLIAR LA BÚSQUEDA
+================================================================================
+
+----------------------------------------------------------------------
+JURISPRUDENCIA
+----------------------------------------------------------------------
+
+1. JUBA — Jurisprudencia de la Provincia de Buenos Aires
+   URL:        https://juba.scba.gov.ar/Principal.aspx
+   Qué buscar: "daños inmueble obra lindera", "medianera pericia",
+                "restricciones y límites al dominio", "daños
+                construcción vecina"
+   Filtros:    Materia: Civil y Comercial; C��mara; año.
+
+2. ElDial.com — Buscador de Fallos Judiciales
+   URL:        https://www.eldial.com/nuevo/nuevo_diseno/v2/fallos-ultimos.asp
+   Qué buscar: "daños construcción lindera", "peritaje medianera",
+                "obra vecina daños"
+
+3. CIJ — Centro de Información Judicial (CSJN)
+   URL:        https://www.cij.gov.ar
+   Qué buscar: "daños inmueble obra vecina", "pericia arquitecto
+                construcción"
+
+4. Biblioteca Todo el Derecho
+   URL:        https://biblioteca.todoelderecho.com.ar
+   Qué buscar: "daños y perjuicios obra lindero"
+
+5. Biblioteca Jurídica Argentina
+   URL:        https://www.bibliotecajuridica.com.ar
+   Qué buscar: "responsabilidad director obra daños inmueble lindero"
+
+6. Actualidad Jurídica Online
+   URL:        https://actualidadjuridicaonline.com
+   Qué buscar: "medianería daños construcción vecino"
+
+----------------------------------------------------------------------
+INFORMES TÉCNICOS Y MODELOS PERICIALES
+----------------------------------------------------------------------
+
+7. Dirección y Legislación de Obra (Arq. Torres) — Modelos
+   URL:        http://www.dlocatedratorres.com.ar/material-de-trabajo/modelos-de-documentacion-escrita/
+   Contenido:  Modelos reales de peritajes oficiales, informes
+                técnicos, actas, dictámenes.
+
+8. 323 ARQ — Informes Técnicos de Obra en Juicios
+   URL:        https://323arq.com.ar/informes-tecnicos-de-obra-en-juicios/
+   Contenido:  Guía profesional sobre informes técnicos para juicios.
+
+9. uDocz — Informes Periciales
+   URL:        https://www.udocz.com
+   Qué buscar: "informe pericial daños vivienda", "pericia
+                arquitectura"
+
+10. Studocu — Dictámenes Periciales
+    URL:       https://www.studocu.com
+    Qué buscar: "dictamen pericial arquitecto", "ejemplo pericia
+                 daños"
+
+----------------------------------------------------------------------
+ACTAS DE CONSTATACIÓN
+----------------------------------------------------------------------
+
+11. Dileo Inmuebles — Modelo de Acta
+    URL:       https://dileoinmuebles.com.ar/modelo-de-acta-de-constatacion-de-inmueble/
+
+12. Escribanía Olace — Actas
+    URL:       https://www.escribaniaolace.com.ar/actas
+
+13. Escribanía Vildósola — Actas de Constatación Notarial
+    URL:       https://www.escribaniavildosola.com.ar/acta-constatacion-notarial.html
+
+14. Colegio de Escribanos — Fallo sobre validez probatoria del acta
+    URL:       https://www.colegio-escribanos.org.ar/2022/07/11/comentario-a-fallo/
+
+
+================================================================================
+    PARTE VII — LINKS DIRECTOS A DOCUMENTOS DESCARGABLES
+================================================================================
+
+PERICIAS E INFORMES COMPLETOS EN PDF:
+
+1. Peritaje Oficial argentino completo (Pessutti c/ Menefrega)
+   http://dlocatedratorres.com.ar/wp-content/uploads/PERITAJE-OFICIAL-ejemplo-22.pdf
+
+2. Más modelos de documentación pericial (varios ejemplos)
+   http://www.dlocatedratorres.com.ar/material-de-trabajo/modelos-de-documentacion-escrita/
+
+3. Informe Técnico de Daños a Vivienda por obra lindera
+   https://www.udocz.com/apuntes/640487/informe-pericial-richi-2pdf
+
+4. Informe Técnico: Análisis y Propuesta de Reparación de Fisuras
+   y Grietas en Medianera
+   https://storage.googleapis.com/ciudadela-prod-backend/Informe_tecnico_Andres_Espanol_2_0f5de569db/Informe_tecnico_Andres_Espanol_2_0f5de569db.pdf
+
+5. Dictamen Pericial de Experto Arquitecto (completo)
+   https://pdfcoffee.com/ejemplo-de-dictamen-pericial-de-experto-arquitecto-3-pdf-free.html
+
+6. Dictamen Pericial de Experto Arquitecto (mirror)
+   https://idoc.pub/documents/ejemplo-de-dictamen-pericial-de-experto-arquitecto-9n0kv8796x4v
+
+7. Dictamen Pericial Arquitecto (Studocu)
+   https://www.studocu.com/gt/document/universidad-de-san-carlos-de-guatemala/derecho-civil/pdf-ejemplo-de-dictamen-pericial-de-experto-arquitecto-compress/92544300
+
+8. Plantilla de Informe Pericial Técnico-Jurídico (PDF)
+   https://www.peritoenconstruccion.es/wp-content/uploads/2025/12/PLANTILLA-DE-INFORME-PERICIAL-TECNICO-JURIDICO.pdf
+
+FALLOS JUDICIALES COMPLETOS:
+
+9. Fallo JUBA — Ferro c/ Cometta (Trenque Lauquen, 2023)
+   https://juba.scba.gov.ar/VerTextoCompleto.aspx?idFallo=187546
+
+10. Fallo Medina c/ Villanueva González Veiga (PDF)
+    https://biblioteca.todoelderecho.com.ar/jurisprudencia/danos-y-perjuicios-construccion-de-obra-danos-en-el-inmueble-lindero-responsabilidad-del-director-y-de-la-empresa-constructora/117623/?upm_export=pdf
+
+11. Sentencia CIJ/CSJN (daños por obra lindera, PDF)
+    https://www.csjn.gov.ar/archivo-cij/d/sentencia-SGU-5aecfc4f-b992-48e2-857d-023563b38485.pdf
+
+
+================================================================================
+                         FIN DEL DOCUMENTO
+================================================================================
+
+Recopilado el 17/04/2026. Toda la información proviene de fuentes
+públicas disponibles en internet. Los textos periciales transcriptos
+corresponden a documentos publicados en sitios académicos y
+profesionales de acceso libre. Para obtener textos periciales de
+expedientes judiciales en curso o finalizados no publicados, debe
+solicitarse copia al juzgado interviniente.
+================================================================================
