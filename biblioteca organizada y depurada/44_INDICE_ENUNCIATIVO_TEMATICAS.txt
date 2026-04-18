@@ -279,6 +279,30 @@ S. PERICIAS REALES Y CASOS JUDICIALES (NUEVO 18/04/2026)
 - Patrón de justificación técnica (5 pasos)
 - Bases de datos jurisprudenciales (JUBA, ElDial, CIJ)
 - Links a documentos PDF descargables
+- Jurisprudencia demolición en copropiedad (CNCiv Salas D, A, M)
+- Legitimación individual del copropietario
+- Criterio dominante: demolición como regla
+- Excepción de equidad (solo obras menores sin afectación estructural)
+- Doble vía sancionatoria (municipal y judicial)
+
+========================================================================
+T. CLASIFICACIÓN DE REQUISITOS Y SECUENCIA CONSTRUCTIVA (NUEVO)
+========================================================================
+- 19 requisitos clasificados por tipo de infracción
+- Tipos: falta grave, falta administrativa, contravención civil,
+  omisión tributaria, falta técnica, contravención registral
+- Consecuencias jurídicas específicas de cada omisión
+- Resumen estadístico de infracciones (19 autónomas)
+- Sellados y tasas adicionales (H1-H6)
+- Secuencia cronológica legal obligatoria (9 pasos)
+- Requisitos de seguridad contra incendio para nueva planta
+- Escalera de acceso: ancho mínimo 0,90m, pendiente máxima 42%
+- Argumentos estratégicos derivados de requisitos omitidos
+- Argumento estructural CIRSOC (multiplicación de cargas)
+- Argumento urbanístico (COT, FOT, altura)
+- Argumento eléctrico y de servicios comunes
+- Argumento ambiental vecinal (ruido, vibración, polvo)
+- Doble vía sancionatoria (municipal + judicial)
 
 ========================================================================
 FIN DEL ÍNDICE ENUNCIATIVO
