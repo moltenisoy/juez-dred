@@ -169,5 +169,33 @@ ACUMULACIÓN COSTO DE REPARACIÓN + DEPRECIACIÓN:
 - No existe doble indemnización porque cubren perjuicios diferentes.
 
 ================================================================================
+CONTENIDO ADICIONAL — TASA DE JUSTICIA EN PBA
+================================================================================
+
+TASA DE JUSTICIA:
+La tasa de justicia en la Provincia de Buenos Aires es del 2,2% del
+monto reclamado en la demanda. Este costo debe ser considerado en la
+planificación económica del proceso.
+
+PERSPECTIVA DEL DENUNCIANTE:
+La tasa de justicia puede ser una barrera económica significativa
+si el monto reclamado es elevado. Sin embargo, puede ser eximida
+mediante el BENEFICIO DE LITIGAR SIN GASTOS (Art. 78 y ss. CPCC PBA),
+que permite al demandante eximirse provisoriamente del pago de tasas
+y costas hasta que mejore su fortuna.
+
+PERSPECTIVA DEL DENUNCIADO:
+Si el demandado pierde el juicio, las costas (incluyendo la tasa de
+justicia) se le imponen como parte de la condena (Art. 68 CPCC PBA).
+
+PERSPECTIVA DE LA JUSTICIA:
+El juez verifica el pago de la tasa de justicia como requisito de
+admisibilidad. Si el actor solicita el beneficio de litigar sin gastos,
+se tramita como incidente previo o paralelo.
+
+PERSPECTIVA DEL PERITAJE:
+No aplica directamente al peritaje técnico.
+
+================================================================================
 FIN DE TEMAS 6-7
 ================================================================================

@@ -1,0 +1,612 @@
+================================================================================
+  ARCHIVO 50 — REQUISITOS DE SERVICIOS, URBANISMO E INSTALACIONES
+  PARTIDO DE MERLO — PROVINCIA DE BUENOS AIRES
+  CUATRO PERSPECTIVAS: DENUNCIANTE / DENUNCIADO / JUSTICIA / PERITAJE
+  Fuente: Análisis de archivos sueltos del repositorio (abril 2026)
+================================================================================
+
+NOTA SOBRE POLÍTICA DE CONTENIDO: Este archivo NO incluye contenido sobre
+seguros/aseguradora del denunciado ni sobre realizar reparaciones antes de
+la denuncia, conforme a las directivas del caso.
+
+================================================================================
+SECCIÓN 1 — INSTALACIONES ELÉCTRICAS (NORMATIVA AEA Y EDENOR)
+================================================================================
+
+NORMATIVA APLICABLE:
+- Reglamento de la Asociación Electrotécnica Argentina (AEA 90364)
+- Normas IRAM 2004 concordantes
+- EDENOR como distribuidora en Merlo (Zona Oeste), conforme documentos ENRE
+
+REQUISITOS TÉCNICOS PARA AMPLIACIÓN ELÉCTRICA:
+1. Plano de instalaciones eléctricas de la nueva planta, firmado por
+   electricista matriculado ante el Consejo Profesional de Ingeniería PBA
+   (Fundamento: AEA 90364 / IRAM 2004)
+2. Contrato de instalador electricista habilitado ante EDENOR
+   (EDENOR exige instalador habilitado para toda modificación domiciliaria)
+3. Solicitud de ampliación de carga ante EDENOR si la nueva planta eleva la
+   potencia instalada del inmueble (puede requerir cambio de medidor o
+   refuerzo de acometida)
+4. Verificación de la capacidad del tablero general existente para soportar
+   los nuevos circuitos (obligación del director de obra — AEA 90364)
+5. Plano conforme a obra de instalaciones eléctricas post-obra
+   (exigencia para obtener Certificado Final de Obra ante municipio)
+
+───────────────────────────────────────────────────────────────────────────
+PERSPECTIVA DEL DENUNCIANTE:
+El incumplimiento de cualquiera de estos requisitos constituye evidencia
+adicional de clandestinidad e imprudencia. Si la obra no contó con plano
+eléctrico ni instalador habilitado, el denunciante puede invocar:
+- Riesgo de electrocución (daño temido, Art. 623 bis CPCC PBA)
+- Falta de seguridad en instalaciones eléctricas como agravante
+- Solicitar informe a EDENOR sobre si se tramitó ampliación de carga
+
+PERSPECTIVA DEL DENUNCIADO:
+Puede intentar acreditar que las instalaciones eléctricas fueron realizadas
+por personal idóneo, pero sin documentación de EDENOR ni plano visado, la
+defensa es débil. La ausencia de plano eléctrico es una falta administrativa.
+
+PERSPECTIVA DE LA JUSTICIA:
+El juez puede oficiar a EDENOR para verificar si existe trámite de
+ampliación de carga. La ausencia de documentación eléctrica constituye un
+indicio de irregularidad que refuerza la calificación de obra clandestina.
+
+PERSPECTIVA DEL PERITAJE:
+El perito debe verificar: estado de tableros, secciones de cables,
+protecciones térmicas y diferenciales, puesta a tierra, distancias
+mínimas a líneas de media tensión (0,8 m mínimo). La ausencia de estas
+verificaciones es un incumplimiento autónomo.
+───────────────────────────────────────────────────────────────────────────
+
+================================================================================
+SECCIÓN 2 — INSTALACIÓN DE GAS (ENARGAS Y DISTRIBUIDORA LOCAL)
+================================================================================
+
+NORMATIVA APLICABLE:
+- Decreto 1738/92 — Reglamento del Servicio de Gas Natural
+- ENARGAS como ente regulador nacional
+- Distribuidora local: MetroGAS u otra (verificar prestador actual en Merlo)
+
+REQUISITOS PARA AMPLIACIÓN DE GAS:
+1. Plano de instalación de gas firmado por gasista matriculado ante ENARGAS
+   (si la nueva planta tiene artefactos a gas: calefacción, cocina, agua
+   caliente) — Fundamento: Decreto 1738/92
+2. Solicitud de factibilidad técnica de gas ante la distribuidora local
+   si se amplía la instalación existente
+3. Certificación de la instalación por gasista habilitado y posterior
+   verificación de la distribuidora (obligatorio previo a conexión)
+4. Verificación de conductos y tirajes (chimeneas) conforme normas IRAM
+   si la nueva planta requiere ventilación de artefactos
+
+───────────────────────────────────────────────────────────────────────────
+PERSPECTIVA DEL DENUNCIANTE:
+Si la obra incluyó modificación de instalaciones de gas sin gasista
+habilitado, esto constituye un riesgo de explosión/intoxicación que
+agrava la situación. Puede denunciarse ante ENARGAS y la distribuidora.
+
+PERSPECTIVA DEL DENUNCIADO:
+Debe acreditar que toda modificación de gas fue realizada por profesional
+habilitado ante ENARGAS. Sin certificación, enfrenta responsabilidad
+agravada por riesgo a la vida.
+
+PERSPECTIVA DE LA JUSTICIA:
+El juez puede oficiar a ENARGAS y a la distribuidora para verificar
+la existencia de trámites y certificaciones. La falta de habilitación
+gasista constituye infracción administrativa grave.
+
+PERSPECTIVA DEL PERITAJE:
+El perito debe verificar: existencia de matrícula del gasista, estado
+de artefactos, ventilación reglamentaria, hermeticidad de cañerías,
+conductos de evacuación. La falta de certificación es un hallazgo
+técnico autónomo.
+───────────────────────────────────────────────────────────────────────────
+
+================================================================================
+SECCIÓN 3 — CÓDIGO DE ORDENAMIENTO TERRITORIAL DE MERLO (COT)
+================================================================================
+
+⚠️ VERIFICACIÓN PENDIENTE: No se accedió al texto completo actualizado
+del COT del Partido de Merlo. Los parámetros que se mencionan son de
+aplicación general en municipios bonaerenses y deben verificarse para
+la zona catastral específica del inmueble.
+
+PARÁMETROS URBANÍSTICOS QUE CONDICIONAN LA VIABILIDAD DE LA OBRA:
+
+1. FACTOR DE OCUPACIÓN TOTAL (FOT):
+   Limita la superficie cubierta total (planta baja + planta alta) como
+   múltiplo de la superficie del terreno. Si el proyecto supera el FOT
+   permitido, la planta alta es IMPOSIBLE jurídicamente sin excepción
+   o variante urbanística.
+
+2. FACTOR DE OCUPACIÓN DEL SUELO (FOS):
+   Limita la huella en planta baja. Aunque la planta alta no siempre
+   consume FOS directamente, en algunos COT sí se computa.
+
+3. PLANO LÍMITE DE ALTURA:
+   Muchas zonas residenciales en Merlo tienen altura máxima de 7 a 9
+   metros. Una planta alta generalmente implica una altura total de
+   entre 5,5 y 7 metros (admisible en principio, pero debe verificarse).
+
+4. RETIROS MÍNIMOS OBLIGATORIOS (frente, fondo, laterales):
+   La nueva planta alta debe respetar los retiros exigidos. Si la planta
+   baja existente tiene retiros que no cumplen la normativa actual, la
+   ampliación vertical puede estar condicionada.
+
+5. USO CONFORME DEL SUELO:
+   Si el inmueble está en zona mixta, industrial o de usos especiales,
+   el destino de la planta alta (vivienda, comercio) debe ser compatible
+   con el uso permitido en la zona.
+
+───────────────────────────────────────────────────────────────────────────
+PERSPECTIVA DEL DENUNCIANTE:
+Si la obra excede el FOT, la altura máxima o los retiros mínimos, el
+denunciante tiene un argumento adicional para la demolición: la obra es
+antirreglamentaria incluso si tuviera permiso. Puede solicitar al juez
+un oficio a la Dirección de Obras Particulares de Merlo para verificar
+estos parámetros.
+
+PERSPECTIVA DEL DENUNCIADO:
+Si la obra cumple los parámetros urbanísticos, puede argumentar que el
+proyecto era técnicamente viable aunque le faltaran los permisos formales.
+Sin embargo, esto NO exime de la obligación de tramitar el permiso.
+
+PERSPECTIVA DE LA JUSTICIA:
+El juez debe verificar si la obra cumple la normativa urbanística vigente.
+El incumplimiento de FOT, altura o retiros es un agravante que favorece
+la orden de demolición. La Dirección de Obras Particulares debe informar
+los parámetros aplicables a la zona catastral.
+
+PERSPECTIVA DEL PERITAJE:
+El perito debe incluir en su dictamen:
+- Verificación de la superficie total cubierta vs. FOT permitido
+- Medición de la altura real de la obra vs. plano límite de la zona
+- Verificación de retiros (frente, fondo, laterales)
+- Determinación de si el uso propuesto es conforme a la zonificación
+Estos datos son autónomos del análisis de daños y constituyen prueba
+objetiva de la antirreglamentariedad de la obra.
+───────────────────────────────────────────────────────────────────────────
+
+================================================================================
+SECCIÓN 4 — MEDIANERAS (RÉGIMEN DETALLADO)
+================================================================================
+
+NORMATIVA APLICABLE:
+- Código Civil y Comercial de la Nación, Arts. 2009 y siguientes
+  (Régimen de medianería)
+
+REQUISITOS CUANDO LA PLANTA ALTA INVOLUCRA MEDIANERAS:
+
+1. Verificación del estado de las medianeras vecinas: si la planta alta
+   supera la altura de las medianeras existentes, deben elevarse a cargo
+   del que construye (Arts. 2009 y ss. CCC)
+2. Notificación fehaciente a los propietarios linderos antes de iniciar
+   obras que afecten o sobrepasen las medianeras (obligación del director
+   de obra — buenas prácticas y normativa civil)
+3. Si las medianeras son comunes: el costo de elevación y refuerzo se rige
+   por las reglas del CCC sobre medianería (Arts. 2009 y ss.)
+4. Verificación de cargas de la planta alta sobre la medianera: si la nueva
+   estructura apoya sobre la medianera existente, se requiere acuerdo con
+   el lindero o estructura independiente
+
+───────────────────────────────────────────────────────────────────────────
+PERSPECTIVA DEL DENUNCIANTE:
+La falta de notificación fehaciente al lindero antes de afectar la
+medianera constituye un incumplimiento civil autónomo. Si la nueva planta
+alta apoya cargas sobre la medianera sin acuerdo, el denunciante puede
+reclamar daños a la medianera como rubro independiente.
+
+PERSPECTIVA DEL DENUNCIADO:
+Debe acreditar que notificó al lindero y obtuvo acuerdo para toda
+modificación de medianeras. Sin notificación fehaciente, la posición
+es extremadamente débil.
+
+PERSPECTIVA DE LA JUSTICIA:
+El juez evaluará si existió consentimiento del lindero para las
+modificaciones en la medianera. La ausencia de notificación refuerza
+el carácter unilateral e ilícito de la obra.
+
+PERSPECTIVA DEL PERITAJE:
+El perito debe documentar: estado de las medianeras, si la nueva
+estructura apoya sobre ellas, si fueron elevadas unilateralmente,
+el tipo de apoyo (directo vs. independiente), y cualquier daño
+derivado de las cargas impuestas sin verificación estructural.
+───────────────────────────────────────────────────────────────────────────
+
+================================================================================
+SECCIÓN 5 — SEGURIDAD CONTRA INCENDIO (NUEVA PLANTA)
+================================================================================
+
+NORMATIVA APLICABLE:
+- Decreto 351/79 — Higiene y Seguridad en el Trabajo, Anexo VII
+- Reglamento General de Construcciones PBA
+- Ley provincial de Defensa Civil (uso mixto)
+
+⚠️ VERIFICACIÓN PENDIENTE: Los requisitos específicos de Bomberos del
+Partido de Merlo deben verificarse directamente ante el Cuartel de
+Bomberos local.
+
+REQUISITOS PARA LA NUEVA PLANTA:
+1. Verificación de cumplimiento de normas de protección contra incendio
+   para la nueva planta (ventilación, salidas de emergencia, ancho
+   mínimo de escalera de acceso)
+2. Escalera de acceso a planta alta: ancho mínimo 0,90 m (residencial),
+   pasamanos en ambos lados si supera 1,20 m, pendiente máxima del 42%
+3. Verificación de salida de emergencia o vía de escape alternativa si
+   la planta alta tiene más de un ambiente habitado
+4. Si el inmueble tiene uso mixto (comercial en PB + residencial en PA):
+   plano de protección contra incendio ante Bomberos
+
+───────────────────────────────────────────────────────────────────────────
+PERSPECTIVA DEL DENUNCIANTE:
+El incumplimiento de normas contra incendio es un agravante grave.
+Si la escalera no cumple el ancho mínimo o la pendiente máxima, esto
+constituye un riesgo para la vida que refuerza la pretensión de
+demolición o cese de obra.
+
+PERSPECTIVA DEL DENUNCIADO:
+Debe acreditar que la obra cumple con las normas de seguridad contra
+incendio. Sin escalera reglamentaria, la defensa es inviable.
+
+PERSPECTIVA DE LA JUSTICIA:
+El juez puede oficiar a Bomberos Voluntarios de Merlo para que informen
+si la obra cumple las normas de protección contra incendio. El
+incumplimiento puede justificar una medida cautelar de clausura inmediata.
+
+PERSPECTIVA DEL PERITAJE:
+El perito debe medir: ancho de escalera, pendiente, existencia de
+pasamanos, salidas de emergencia, ventilación de ambientes, materiales
+utilizados en medios de escape. El incumplimiento de Decreto 351/79
+Anexo VII es un hallazgo pericial objetivo.
+───────────────────────────────────────────────────────────────────────────
+
+================================================================================
+SECCIÓN 6 — DECLARATORIA DE MEJORAS ANTE ARBA
+================================================================================
+
+NORMATIVA APLICABLE:
+- Ley 10.707 PBA y concordantes — Código Fiscal PBA
+- ARBA (Agencia de Recaudación PBA)
+- Formulario R-550I — Declaratoria de Mejoras
+
+REQUISITOS:
+1. Declaratoria de construcción ante ARBA una vez aprobados los planos y
+   finalizada la obra: se presentan los planos municipales aprobados para
+   actualización de la valuación fiscal (Formulario R-550I)
+2. Si la obra no se declara ante ARBA, puede generar deuda por diferencia
+   de alícuota del Impuesto Inmobiliario a partir de la detección de la
+   mejora (Ley 10.707 y concordantes)
+3. El Municipio de Merlo informa a ARBA la aprobación de planos, lo que
+   puede disparar automáticamente la reliquidación del Inmobiliario
+   (Convenio ARBA-Municipios PBA)
+
+───────────────────────────────────────────────────────────────────────────
+PERSPECTIVA DEL DENUNCIANTE:
+La falta de declaratoria ante ARBA es un incumplimiento tributario
+adicional que demuestra el patrón de clandestinidad. El denunciante puede
+solicitar al juez un oficio a ARBA para verificar si la mejora fue
+declarada. La omisión tributaria es un indicio más de la irregularidad
+total de la obra.
+
+PERSPECTIVA DEL DENUNCIADO:
+Si no declaró la mejora ante ARBA, enfrenta: (a) deuda fiscal retroactiva;
+(b) multa por omisión tributaria; (c) un indicio adicional de clandestinidad
+utilizable en su contra en el proceso civil.
+
+PERSPECTIVA DE LA JUSTICIA:
+El juez puede oficiar a ARBA para verificar la declaratoria. La
+información de ARBA complementa el cuadro probatorio de la clandestinidad.
+
+PERSPECTIVA DEL PERITAJE:
+El perito puede incluir en su informe la existencia de una mejora no
+declarada como dato objetivo que integra el cuadro de irregularidades.
+No es función del perito evaluar la consecuencia tributaria, pero sí
+documentar la discrepancia entre lo construido y lo registrado.
+───────────────────────────────────────────────────────────────────────────
+
+================================================================================
+SECCIÓN 7 — REQUISITOS ANTE AySA (AGUA Y SANEAMIENTO)
+================================================================================
+
+NORMATIVA APLICABLE:
+- AySA como prestadora del servicio de agua potable en Merlo (desde 2017)
+- Resolución MOP 641/2023 — "Guía de Ejecución de Instalaciones Sanitarias
+  Domiciliarias"
+- ERAS (Ente Regulador de Agua y Saneamiento) — Nómina de Instaladores
+  Sanitaristas habilitados
+
+⚠️ VERIFICACIÓN PENDIENTE: El estado actual de privatización de AySA
+(Ley Bases, Decreto 805/2025) puede implicar cambios en los trámites
+y organismos de control durante el proceso.
+
+REQUISITOS DETALLADOS:
+1. Solicitud de Factibilidad Técnica de Agua y Cloaca ante AySA
+   (AySA puede exigir obras de renovación/instalación de redes como
+   condición para la factibilidad — plazo puede superar 30 días)
+2. Plano de instalaciones sanitarias aprobado, firmado por instalador
+   sanitarista habilitado ante el ERAS
+3. Título de propiedad / documentación de dominio para acreditar
+   titularidad ante AySA
+4. Actualización de titularidad de la cuenta de servicios AySA
+5. Plano conforme a obra de las nuevas instalaciones sanitarias (agua
+   fría, agua caliente si aplica, cloacas) — post-obra
+6. Convenio OPCT si AySA exige obras de red (las obras necesarias
+   estarán a cargo del usuario mediante firma de convenio)
+7. Resolución MOP 641/2023: rige el proyecto, dirección y ejecución de
+   toda ampliación, modificación o reparación de instalaciones sanitarias
+   domiciliarias (norma nacional obligatoria)
+8. Si hay modificación de medidor o conexión domiciliaria: trámite ante
+   AySA con formulario y pago de cargo de conexión/modificación
+
+───────────────────────────────────────────────────────────────────────────
+PERSPECTIVA DEL DENUNCIANTE:
+La modificación unilateral de la instalación de agua sin factibilidad
+de AySA ni instalador habilitado es un incumplimiento grave. El
+denunciante puede solicitar al juez oficio a AySA para verificar si
+se tramitó factibilidad. La ausencia de trámite refuerza la ilicitud
+de la modificación del ingreso de agua denunciada.
+
+PERSPECTIVA DEL DENUNCIADO:
+Sin factibilidad de AySA ni plano sanitario aprobado, la modificación
+del servicio de agua es irregular. El denunciado debe acreditar que la
+obra fue ejecutada por instalador sanitarista habilitado ante ERAS.
+
+PERSPECTIVA DE LA JUSTICIA:
+El juez puede oficiar a AySA y al ERAS para verificar: (a) si existe
+trámite de factibilidad; (b) si el instalador está habilitado;
+(c) si se presentó plano conforme a obra. Estos datos son verificables
+y objetivos.
+
+PERSPECTIVA DEL PERITAJE:
+El perito debe verificar: estado de la instalación sanitaria, si la
+modificación del ingreso de agua fue realizada por profesional habilitado,
+conformidad con Resolución MOP 641/2023, estado de conexiones y
+medidores. La falta de habilitación del instalador es un hallazgo
+pericial autónomo que refuerza la calificación de obra clandestina.
+───────────────────────────────────────────────────────────────────────────
+
+================================================================================
+SECCIÓN 8 — ALÍCUOTAS DE DERECHOS DE CONSTRUCCIÓN EN MERLO
+================================================================================
+
+Según la Ordenanza Impositiva de Merlo (Expte. Nº 4076-11751/19 y
+concordantes), todo tipo de obra nueva o ampliación abona Derechos de
+Construcción calculados como porcentaje del valor estimado de la obra:
+
+TABLA DE ALÍCUOTAS POR DESTINO Y SUPERFICIE:
+┌─────────────────────┬──────────┬──────────┬──────────┬──────────┬──────────┐
+│ Destino             │Hasta 70m²│71-150 m² │151-300 m²│301-500 m²│Más 500 m²│
+├─────────────────────┼──────────┼──────────┼──────────┼──────────┼──────────┤
+│ Vivienda Unifamiliar│ 0,25%    │ 0,35%    │ 0,40%    │ 0,45%    │ 0,50%    │
+│ Vivienda Multifamil.│ 0,30%    │ 0,40%    │ 0,50%    │ 0,60%    │ 0,70%    │
+└─────────────────────┴──────────┴──────────┴──────────┴──────────┴──────────┘
+
+⚠️ VERIFICACIÓN PENDIENTE: Los valores de la Ordenanza Impositiva se
+actualizan anualmente. Los porcentajes corresponden al expediente
+identificado (2019). Verificar la Ordenanza Impositiva vigente para el
+año en curso ante la Municipalidad de Merlo.
+
+TASA DE SERVICIOS GENERALES (ABL / INMOBILIARIO MUNICIPAL):
+Las mejoras que se introduzcan en inmuebles sobre la base de planos
+aprobados se incorporarán a la categoría correspondiente a los fines
+del cobro de la tasa, a los VEINTICUATRO (24) MESES de la fecha de la
+aprobación, salvo que antes hubieran obtenido el Certificado de
+Inspección Final o se encontraren en condiciones de ser habilitados
+total o parcialmente, en cuyo caso se incorporarán de inmediato.
+
+───────────────────────────────────────────────────────────────────────────
+PERSPECTIVA DEL DENUNCIANTE:
+La no presentación de la obra ante el municipio implica que no se
+pagaron los Derechos de Construcción correspondientes. Esto es una
+omisión tributaria que se suma al cuadro de clandestinidad.
+
+PERSPECTIVA DEL DENUNCIADO:
+La omisión de pago de derechos de construcción es una falta grave que
+puede generar multa hasta 100% del gravamen omitido, más recargo por
+presentación espontánea o por intimación.
+
+PERSPECTIVA DE LA JUSTICIA:
+El juez puede verificar mediante oficio al municipio si se abonaron los
+derechos de construcción. La omisión refuerza la calificación de la obra
+como clandestina.
+
+PERSPECTIVA DEL PERITAJE:
+No es función del perito evaluar la cuestión tributaria directamente,
+pero puede incluir como dato objetivo que la obra carece de permiso
+municipal y, en consecuencia, no se abonaron los derechos correspondientes.
+───────────────────────────────────────────────────────────────────────────
+
+================================================================================
+SECCIÓN 9 — COPROPIEDAD: UNANIMIDAD VS. MAYORÍA (Arts. 2051/2052 CCC)
+================================================================================
+
+NORMATIVA APLICABLE:
+- Código Civil y Comercial de la Nación, Título V (Propiedad Horizontal):
+  Art. 2051 CCC: Para mejoras u obras nuevas sobre cosas y partes comunes
+  se requiere consentimiento de la mayoría de los propietarios, previo
+  informe técnico de profesional autorizado.
+  Art. 2052 CCC (CRÍTICO): Se requiere UNANIMIDAD cuando la mejora u obra
+  nueva "gravita o modifica la estructura del inmueble de una manera
+  sustancial" o cuando "sólo beneficia a un propietario".
+
+APLICACIÓN AL CASO:
+Agregar una planta alta es, por definición, una modificación estructural
+sustancial. Con tres copropietarios, esto significa que los tres deben
+consentir (UNANIMIDAD).
+
+CONSECUENCIAS DEL INCUMPLIMIENTO:
+- La obra puede ser demolida por orden judicial (Art. 2052 CCC)
+- El promotor enfrenta daños y perjuicios
+- El municipio puede paralizar la obra al no poder acreditar titularidad
+  o consentimiento en el trámite de permiso
+- Cualquier copropietario puede individualmente solicitar medida cautelar
+  de paralización o exigir demolición
+
+───────────────────────────────────────────────────────────────────────────
+PERSPECTIVA DEL DENUNCIANTE (copropietario afectado):
+El denunciante tiene derecho a:
+- Negarse a cualquier obra que modifique estructuralmente el inmueble común
+- Solicitar medida cautelar de paralización ante la justicia civil
+- Exigir demolición de lo construido sin autorización (Art. 2052 CCC)
+- Reclamar daños y perjuicios por la obra no autorizada
+
+PERSPECTIVA DEL DENUNCIADO (promotor de la obra):
+Para que la obra sea lícita, debió:
+- Convocar asamblea de copropietarios con orden del día específico
+- Obtener consentimiento escrito de los otros dos copropietarios
+  (idealmente por escritura pública o instrumento fehaciente)
+- Si alguno se negó, recurrir a la vía judicial (Art. 2051 in fine CCC),
+  aunque la unanimidad hace muy difícil prosperar si hay oposición fundada
+
+PERSPECTIVA DE LA JUSTICIA:
+La justicia verifica: (a) si existió acta de asamblea aprobando la obra;
+(b) si se obtuvo consentimiento unánime (no solo mayoritario); (c) si el
+Reglamento de Copropiedad exige mayoría agravada o unanimidad. La
+ausencia de consentimiento unánime para obra estructural sustancial
+conduce a la nulidad de la obra.
+
+PERSPECTIVA DEL PERITAJE:
+El perito debe documentar: (a) si la obra modifica la estructura del
+inmueble de manera sustancial; (b) si genera cargas sobre losa y
+cimientos que afectan a todos los copropietarios; (c) si altera la
+fachada; (d) si modifica los coeficientes de copropiedad. Estos datos
+técnicos son determinantes para calificar si se requería unanimidad.
+───────────────────────────────────────────────────────────────────────────
+
+================================================================================
+SECCIÓN 10 — ANÁLISIS CIRSOC: SOBRECARGAS COMPARATIVAS
+================================================================================
+
+ACLARACIÓN CONCEPTUAL:
+La "losa flotante" mencionada en el caso refiere a la losa de cubierta
+de la planta baja existente, diseñada como cubierta (con sobrecargas de
+mantenimiento bajas) que pretende transformarse en entrepiso (con
+sobrecargas residenciales plenas). Este cambio de destino es el NÚCLEO
+del problema estructural.
+
+COMPARACIÓN DE SOBRECARGAS CIRSOC 101-2005:
+
+SITUACIÓN ACTUAL (losa como cubierta):
+┌─────────────────────────────────────────────┬────────────┬──────────────┐
+│ Destino actual de la losa                   │ Sobrecarga │ En kgf/m²    │
+├─────────────────────────────────────────────┼────────────┼──────────────┤
+│ Cubierta inaccesible (solo mantenimiento)   │ 1,00 kN/m² │ ≈ 102 kgf/m² │
+│ Azotea accesible (recreación)               │ 3,00 kN/m² │ ≈ 306 kgf/m² │
+└─────────────────────────────────────────────┴────────────┴──────────────┘
+
+SITUACIÓN PROYECTADA (entrepiso residencial):
+┌─────────────────────────────────────────────┬────────────┬──────────────┐
+│ Destino de la nueva planta alta             │ Sobrecarga │ En kgf/m²    │
+├─────────────────────────────────────────────┼────────────┼──────────────┤
+│ Dormitorios / estar / comedor               │ 2,00 kN/m² │ ≈ 204 kgf/m² │
+│ Baños                                       │ 2,00 kN/m² │ ≈ 204 kgf/m² │
+│ Escalera de acceso (proyección horizontal)  │ 3,00 kN/m² │ ≈ 306 kgf/m² │
+│ Balcones / terrazas accesibles              │ 3,00 kN/m² │ ≈ 306 kgf/m² │
+└─────────────────────────────────────────────┴────────────┴──────────────┘
+
+CARGAS PERMANENTES DE LA NUEVA PLANTA (además de la sobrecarga de uso):
+┌─────────────────────────────────────────────┬────────────────────────────┐
+│ Elemento de la nueva planta alta            │ Peso aproximado (CIRSOC)   │
+├─────────────────────────────────────────────┼────────────────────────────┤
+│ Losa de hormigón armado de 0,12 m espesor   │ ≈ 2,40 kN/m² (245 kgf/m²) │
+│ Contrapiso + carpeta + piso                 │ ≈ 0,80-1,20 kN/m² (82-122) │
+│ Muros de mampostería (tabiques)             │ Variable: 1,50-3,00 kN/m²  │
+│ Cubierta liviana de la planta alta          │ ≈ 0,40-0,80 kN/m²          │
+├─────────────────────────────────────────────┼────────────────────────────┤
+│ TOTAL CARGA PERMANENTE ESTIMADA             │ ≈ 5,00-7,40 kN/m²          │
+│                                             │ (≈ 510-755 kgf/m²)         │
+└─────────────────────────────────────────────┴────────────────────────────┘
+
+CONCLUSIÓN TÉCNICA CRÍTICA:
+La losa existente (diseñada para ≈ 1,00 kN/m² de sobrecarga) debería
+soportar, con la planta alta, entre 7,00 y 9,40 kN/m² de carga total
+combinada (permanente + variable). Esa carga total es entre 7 y 9 VECES
+la sobrecarga para la que fue originalmente calculada la cubierta, SIN
+contar el peso propio de la losa existente que ya estaba al límite de
+su diseño.
+
+La referencia a "cargas superiores a 700 kg" del caso es una expresión
+coloquial no estandarizada. En términos CIRSOC, la situación real es
+una multiplicación de cargas de entre 7 y 9 veces el diseño original.
+
+───────────────────────────────────────────────────────────────────────────
+PERSPECTIVA DEL DENUNCIANTE:
+Esta comparación numérica es un argumento DEMOLEDOR (literal y
+figurativo). El denunciante debe solicitar que el perito incluya estas
+tablas en su dictamen para demostrar que la losa está sometida a cargas
+entre 7 y 9 veces superiores a su diseño original.
+
+PERSPECTIVA DEL DENUNCIADO:
+La única defensa posible es presentar un informe estructural que
+demuestre que la losa fue sobredimensionada en su diseño original y puede
+soportar las nuevas cargas. Sin este informe, la posición es indefendible.
+
+PERSPECTIVA DE LA JUSTICIA:
+Las tablas CIRSOC son datos técnicos objetivos verificables. El juez
+puede apreciar que la multiplicación de cargas es un hecho técnico, no
+una opinión, y que la ausencia de verificación estructural previa
+constituye temeridad constructiva.
+
+PERSPECTIVA DEL PERITAJE:
+El perito DEBE incluir:
+- Identificación del tipo de losa existente (cubierta vs. entrepiso)
+- Cálculo de la sobrecarga de diseño original
+- Cálculo de las cargas totales (permanentes + variables) de la nueva
+  planta alta
+- Ratio de multiplicación de cargas (resultado esperado: 7-9x)
+- Conclusión sobre la aptitud o no de la losa para el nuevo destino
+Este análisis es el núcleo técnico del peritaje estructural.
+───────────────────────────────────────────────────────────────────────────
+
+================================================================================
+SECCIÓN 11 — REQUISITOS DE OBRA COMPLEMENTARIOS
+================================================================================
+
+REQUISITOS ADICIONALES IDENTIFICADOS EN LOS ARCHIVOS SUELTOS:
+
+A) LIBRO DE OBRA: El director de obra debe llevar un libro foliado con
+   registro de todas las etapas constructivas, firmado en cada visita
+   (Exigencia colegial — Colegio de Arquitectos Distrito V PBA)
+
+B) AVISO DE INICIO DE OBRA: Antes de comenzar los trabajos, el director
+   debe presentar el aviso de inicio ante Obras Particulares del municipio
+   (Reglamento General de Construcciones PBA)
+
+C) PLANO DE MENSURA ACTUALIZADO: Si la obra genera nuevas superficies
+   cubiertas, puede exigirse actualización catastral ante el Departamento
+   de Catastro Municipal y el Catastro Provincial — ARBA (Ley 10.707 PBA)
+
+D) VERIFICACIÓN DE ACERAS: La normativa municipal de Merlo exige que las
+   aceras del inmueble estén en buen estado durante y después de la obra
+
+E) INSPECCIONES PARCIALES: Las Obras Particulares de Merlo pueden disponer
+   inspecciones intermedias durante la ejecución (no solo la final)
+
+───────────────────────────────────────────────────────────────────────────
+PERSPECTIVA DEL DENUNCIANTE:
+La ausencia de libro de obra, aviso de inicio y plano de mensura son
+omisiones documentales que refuerzan el patrón de clandestinidad total.
+Son incumplimientos autónomos que pueden ofrecerse como prueba.
+
+PERSPECTIVA DEL DENUNCIADO:
+Sin libro de obra ni aviso de inicio, el denunciado no tiene forma de
+acreditar que la obra se ejecutó con dirección técnica profesional.
+
+PERSPECTIVA DE LA JUSTICIA:
+El juez puede oficiar al municipio para verificar si existe aviso de
+inicio de obra, si se realizaron inspecciones parciales, y si se
+actualizó el catastro.
+
+PERSPECTIVA DEL PERITAJE:
+El perito puede solicitar el libro de obra al director técnico (si
+existiera). Su ausencia es un hallazgo que indica falta de dirección
+técnica profesional.
+───────────────────────────────────────────────────────────────────────────
+
+================================================================================
+FUENTES DE ESTE ARCHIVO:
+- super importante.txt (análisis detallado de requisitos ampliación)
+- Requisitos Construcción Edilicia Copropiedad Merlo.txt
+- MARCO_TEORICO_JURIDICO_MERLO_PBA_2024.txt
+================================================================================
+FIN DEL ARCHIVO 50 — REQUISITOS DE SERVICIOS, URBANISMO E INSTALACIONES
+================================================================================

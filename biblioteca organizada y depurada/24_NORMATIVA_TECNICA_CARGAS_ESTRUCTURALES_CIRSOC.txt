@@ -850,3 +850,21 @@ A nivel Partido de Merlo:
 — ⚠️ VERIFICACIÓN PENDIENTE: La versión 2024 del CIRSOC 201 está en proceso
   de adopción formal. No se confirmó si la Dirección de Obras Particulares
   de Merlo ya lo exige para memorias de cálculo presentadas en 2025/2026.
+
+================================================================================
+CONTENIDO ADICIONAL — TABLAS COMPARATIVAS DE SOBRECARGAS CIRSOC 101-2005
+(Fuente: análisis cuatro perspectivas de archivos sueltos)
+================================================================================
+
+PARA EL ANÁLISIS DETALLADO DE SOBRECARGAS COMPARATIVAS (cubierta vs.
+entrepiso), TABLAS NUMÉRICAS, CARGAS PERMANENTES Y CONCLUSIÓN SOBRE LA
+MULTIPLICACIÓN DE CARGAS (7-9 VECES), ver:
+
+→ ARCHIVO 50: REQUISITOS_SERVICIOS_URBANISMO_INSTALACIONES_MERLO.txt
+  Sección 10 — Análisis CIRSOC: Sobrecargas Comparativas
+
+Nota: La referencia a "cargas superiores a 700 kg" es una expresión
+coloquial no estandarizada. En términos CIRSOC, la situación real es
+que la losa existente (diseñada para ≈ 1,00 kN/m² de sobrecarga) debería
+soportar entre 7,00 y 9,40 kN/m² de carga total combinada con la planta
+alta, es decir entre 7 y 9 VECES la sobrecarga de diseño original.
