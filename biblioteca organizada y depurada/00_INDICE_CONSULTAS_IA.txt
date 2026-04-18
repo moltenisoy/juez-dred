@@ -279,6 +279,27 @@ JURISDICCIÓN: Departamento Judicial de Morón, Provincia de Buenos Aires
               denunciado, municipio) y (2) búsqueda de precedentes y jurisprudencia
    USAR CUANDO: Quieres investigar qué FALTA o buscar PRECEDENTES y FALLOS
 
+
+                    ╔═══════════════════════════════════════╗
+                    ║   SECCIÓN K: REQUISITOS DE SERVICIOS, ║
+                    ║   URBANISMO E INSTALACIONES (NUEVO)   ║
+                    ╚═══════════════════════════════════════╝
+
+📁 50_REQUISITOS_SERVICIOS_URBANISMO_INSTALACIONES_MERLO.txt [★ EXTENSO]
+   CONTENIDO: 11 secciones con requisitos técnico-legales para obra edilicia
+              en Merlo: instalaciones eléctricas (AEA 90364, EDENOR), gas
+              (ENARGAS), urbanismo (COT Merlo: FOT, FOS, altura, retiros),
+              medianeras (Arts. 2009+ CCC), seguridad contra incendio (Decreto
+              351/79), ARBA (Formulario R-550I), AySA (Resolución MOP 641/2023),
+              alícuotas de Derechos de Construcción Merlo, copropiedad Arts.
+              2051/2052 CCC, tablas comparativas CIRSOC 101-2005, requisitos
+              complementarios (Libro de Obra, Aviso de Inicio).
+              Cada sección analizada desde 4 perspectivas: denunciante,
+              denunciado, justicia y peritaje de las pruebas.
+   USAR CUANDO: Necesitas argumentar sobre servicios públicos, instalaciones
+                técnicas, normativa urbanística de Merlo, o fundamentar
+                incumplimientos técnicos específicos
+
 ================================================================================
                   GUÍA RÁPIDA DE SELECCIÓN POR TIPO DE CONSULTA
 ================================================================================
@@ -309,20 +330,38 @@ JURISDICCIÓN: Departamento Judicial de Morón, Provincia de Buenos Aires
 │ Buscar PRECEDENTES y fallos           │ 39                                    │
 └──────────────────────────────────────┴───────────────────────────────────────┘
 
+┌──────────────────────────────────────┬───────────────────────────────────────┐
+│ CONSULTAS ADICIONALES (fase 2)       │ ARCHIVOS A ADJUNTAR                   │
+├──────────────────────────────────────┼───────────────────────────────────────┤
+│ Instalaciones eléctricas/gas/AySA    │ 50                                    │
+│ Urbanismo Merlo (FOT, FOS, altura)   │ 50                                    │
+│ Medianeras régimen detallado         │ 50, 23                                │
+│ Seguridad contra incendio            │ 50                                    │
+│ Derechos de construcción Merlo       │ 50                                    │
+│ Copropiedad unanimidad vs mayoría    │ 50                                    │
+│ Sobrecargas CIRSOC comparativas      │ 50, 24                                │
+│ Cargas probatorias dinámicas         │ 42                                    │
+│ Estimación judicial Art. 165         │ 42                                    │
+│ Informe de parte vs pericia judicial │ 42                                    │
+│ Ley 14.432 (vivienda única PBA)      │ 32                                    │
+│ Tasa de justicia PBA                 │ 34                                    │
+└──────────────────────────────────────┴───────────────────────────────────────┘
+
 ================================================================================
                     INFORMACIÓN TÉCNICA DE LA BIBLIOTECA
 ================================================================================
 
-Total de archivos: 41 (incluye 00_INDICE_DETALLADO, 00_INDICE_CONSULTAS_IA, 
-                       01_INDICE_GENERAL, 02-38 documentos, 39 prompts)
-Total de líneas de texto: ~14,200
+Total de archivos: 51 (incluye 00_INDICE_DETALLADO, 00_INDICE_CONSULTAS_IA, 
+                       01_INDICE_GENERAL, 02-39 documentos, 40-43 depurados,
+                       44 índice enunciativo, 45-46 prompts, 47-50 especializados)
 Jurisdicción: Provincia de Buenos Aires, Argentina
 Departamento Judicial: Morón
 Partido: Merlo
-Última actualización: Abril 2026
+Última actualización: Abril 2026 (fase 2)
 
 METODOLOGÍA UTILIZADA:
 • Protocolo JUEZ-PIPO (tres perspectivas: demandante, demandado, ministerio público)
+• Análisis cuatro perspectivas (denunciante, denunciado, justicia, peritaje)
 • Verificación de normativa [V], inferencia [IV], verificación parcial [PV]
 • Doctrina actualizada post-fallo "Barrios" SCBA 17/04/2024
 

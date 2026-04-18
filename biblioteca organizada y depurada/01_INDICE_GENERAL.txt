@@ -467,3 +467,62 @@ Los siguientes archivos recibieron información complementaria nueva:
    FUENTE: informe_normativo_merlo.txt
 
 ================================================================================
+           ARCHIVOS NUEVOS Y COMPLEMENTADOS (18/04/2026 — fase 2)
+     Fuente: Análisis cuatro perspectivas de archivos sueltos del repo
+     (denunciante / denunciado / justicia / peritaje de las pruebas)
+================================================================================
+
+50_REQUISITOS_SERVICIOS_URBANISMO_INSTALACIONES_MERLO.txt [NUEVO]
+   → Requisitos de servicios, urbanismo e instalaciones para obra edilicia
+     en Merlo, con análisis desde CUATRO perspectivas: denunciante,
+     denunciado, justicia y peritaje de las pruebas.
+     Sección 1: Instalaciones eléctricas (AEA 90364, EDENOR)
+     Sección 2: Instalación de gas (ENARGAS, Decreto 1738/92, MetroGAS)
+     Sección 3: Código de Ordenamiento Territorial de Merlo (FOT, FOS,
+                altura máxima, retiros mínimos, uso conforme)
+     Sección 4: Medianeras — régimen detallado (Arts. 2009+ CCC)
+     Sección 5: Seguridad contra incendio (Decreto 351/79, Anexo VII)
+     Sección 6: Declaratoria de mejoras ante ARBA (Formulario R-550I)
+     Sección 7: Requisitos ante AySA (Resolución MOP 641/2023, ERAS)
+     Sección 8: Alícuotas de Derechos de Construcción Merlo (tabla
+                por destino y superficie), Tasa de Servicios Generales
+     Sección 9: Copropiedad — unanimidad vs. mayoría (Arts. 2051/2052 CCC)
+     Sección 10: Análisis CIRSOC sobrecargas comparativas (cubierta vs.
+                 entrepiso, multiplicación de cargas 7-9x)
+     Sección 11: Requisitos complementarios (Libro de Obra, Aviso de
+                 Inicio, Plano de Mensura, Inspecciones Parciales)
+   FUENTES: "super importante.txt", "Requisitos Construcción Edilicia
+            Copropiedad Merlo.txt", "MARCO_TEORICO_JURIDICO_MERLO_PBA_2024.txt"
+
+Los siguientes archivos recibieron información complementaria nueva (fase 2):
+
+24_NORMATIVA_TECNICA_CARGAS_ESTRUCTURALES_CIRSOC.txt
+   → Agregada: Referencia cruzada al archivo 50 con tablas comparativas
+     de sobrecargas CIRSOC 101-2005 (cubierta vs. entrepiso) y conclusión
+     técnica sobre multiplicación de cargas (7-9 veces el diseño original).
+   FUENTE: "super importante.txt"
+
+32_COBRABILIDAD_Y_PROTECCION_VIVIENDA.txt
+   → Agregada: Ley 14.432 PBA (inembargabilidad automática vivienda única),
+     SCBA "Rodríguez c/ Paleo" (declaración de inconstitucionalidad),
+     consecuencia práctica (el inmueble puede ser embargado si no fue
+     inscripto voluntariamente como vivienda — Art. 244 CCCN),
+     análisis desde 4 perspectivas.
+   FUENTE: "Marco Teórico Denuncia Daños Edilicios Merlo.txt"
+
+34_COSTAS_Y_DEPRECIACION_INMUEBLE.txt
+   → Agregada: Tasa de justicia del 2,2% del monto reclamado en PBA,
+     relación con el Beneficio de Litigar sin Gastos (Art. 78 CPCC PBA),
+     análisis desde 4 perspectivas.
+   FUENTE: "Marco Teórico Denuncia Daños Edilicios Merlo.txt"
+
+42_REGIMEN_PROBATORIO_Y_PERICIAL.txt
+   → Agregados: Art. 165 CPCC PBA (estimación judicial prudencial),
+     Art. 1735 CCCN (cargas probatorias dinámicas), Art. 1744 CCCN
+     (prueba del daño — notoriedad), Art. 330 CPCC PBA (requisitos
+     formales de la demanda), riesgos de insuficiencia probatoria,
+     tabla comparativa informe técnico de parte vs. pericia judicial,
+     análisis desde 4 perspectivas para cada herramienta.
+   FUENTE: "kimi ultimo.txt"
+
+================================================================================
