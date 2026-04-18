@@ -1,0 +1,427 @@
+================================================================================
+ARCHIVO 53 - CRONOLOGÍA DE DAÑO CONTINUADO E IDENTIFICACIÓN DE RESPONSABLES
+================================================================================
+Fecha de elaboración: Junio 2025
+Fuentes: Microjuris 2018, Infoleg, CPCCPBA, CPCC Nación, doctrina procesal
+Aplicable a: Caso obra clandestina lindera - Merlo, Provincia de Buenos Aires
+================================================================================
+
+================================================================================
+SECCIÓN A - CRONOLOGÍA MODELO PARA DAÑO CONTINUADO
+================================================================================
+
+NORMATIVA APLICABLE:
+- Art. 2571 CCCN: Plazo genérico de prescripción de TRES (3) AÑOS para la
+  acción de daños y perjuicios.
+- Art. 2573 CCCN: En caso de DAÑO CONTINUO, el plazo de prescripción se
+  computa desde la CESACIÓN del daño. Mientras el daño continúe produciéndose,
+  el plazo prescriptivo no comienza a correr.
+
+CONCEPTO: El daño continuado es aquel que se prolonga en el tiempo, no se
+agota en un único acto sino que se renueva y agrava de manera sostenida. En
+el caso de obra clandestina lindera, los daños (humedades, fisuras,
+filtraciones) típicamente se manifiestan de manera progresiva mientras
+subsista la causa que los origina.
+
+IMPORTANCIA: La correcta documentación cronológica de la evolución del daño
+es esencial para: (1) acreditar el carácter continuo del perjuicio, (2)
+demostrar que el plazo prescriptivo no ha transcurrido, y (3) establecer la
+relación causal entre la obra y cada manifestación de daño.
+
+--------------------------------------------------------------------------------
+CRONOLOGÍA - 7 HITOS CON EVIDENCIA SUGERIDA
+--------------------------------------------------------------------------------
+
+HITO 1: INICIO DE LA OBRA CLANDESTINA
+........................................
+Descripción: Fecha de comienzo de los trabajos de construcción en la propiedad
+lindera sin permiso municipal.
+
+Evidencia sugerida:
+- Fotografías con fecha cierta (metadatos digitales o fecha impresa) que
+  muestren el inicio de los trabajos (excavaciones, movimiento de materiales,
+  presencia de maquinaria, montaje de andamios).
+- Prueba testimonial de vecinos que presenciaron el comienzo de la obra y
+  pueden atestiguar la fecha aproximada de inicio y las características de
+  los trabajos realizados.
+- Imágenes satelitales históricas (Google Earth Pro permite visualizar
+  imágenes históricas del predio).
+
+HITO 2: PRIMERAS MANIFESTACIONES DEL DAÑO
+..........................................
+Descripción: Momento en que comienzan a manifestarse los primeros deterioros
+en la propiedad del damnificado.
+
+Evidencia sugerida:
+- Fotografías de las primeras filtraciones de agua, grietas incipientes,
+  manchas de humedad, con fecha cierta (metadatos o testigos de yeso con
+  fecha).
+- Mensajes al vecino/propietario de la obra lindera (WhatsApp, SMS, correo
+  electrónico) comunicándole la aparición de los daños. Estos mensajes
+  tienen valor probatorio como prueba documental y además acreditan el
+  conocimiento del responsable desde fecha temprana.
+- Registro fotográfico periódico (semanal o mensual) que muestre la
+  progresión de los deterioros.
+
+HITO 3: DENUNCIA MUNICIPAL
+...........................
+Descripción: Presentación formal de la denuncia ante la Dirección de Obras
+Privadas de la Municipalidad de Merlo.
+
+Evidencia sugerida:
+- Copia de la presentación ante la Dirección de Obras Privadas del Municipio
+  de Merlo con cargo de recepción (sello, fecha, número de expediente).
+- Número de expediente administrativo municipal asignado a la denuncia.
+- Constancia de inspección municipal (si la hubo) o constancia de la falta
+  de respuesta municipal.
+- Fotografías del estado del inmueble al momento de la denuncia.
+
+HITO 4: CONSULTA MÉDICA INICIAL
+................................
+Descripción: Primera atención médica o psicológica motivada por los efectos
+de la situación habitacional sobre la salud del damnificado y/o su grupo
+familiar.
+
+Evidencia sugerida:
+- Historia clínica con registro de la consulta que establezca RELACIÓN
+  CAUSAL entre el cuadro clínico y la situación de vivienda afectada por
+  la obra lindera (ej: cuadro de ansiedad vinculado a deterioro
+  habitacional, patologías respiratorias por exposición a humedad/moho).
+- Certificados médicos con diagnóstico y mención de la causa.
+- Recetas médicas y comprobantes de compra de medicación.
+- Derivaciones a especialistas (neumonología, alergia, psiquiatría).
+
+HITO 5: ACTA NOTARIAL
+......................
+Descripción: Constatación notarial del estado de situación del inmueble
+dañado.
+
+Evidencia sugerida:
+- Documento notarial (acta de constatación) labrada por escribano público
+  que describe detalladamente el estado del inmueble, los daños observados,
+  las condiciones de habitabilidad, y toda otra circunstancia relevante.
+- El acta debe incluir relevamiento fotográfico realizado por el escribano
+  o bajo su supervisión.
+- Fecha cierta del acta que sirve como punto de referencia temporal
+  incontrovertible del estado de los daños.
+
+IMPORTANCIA: El acta notarial tiene fe pública y constituye prueba de
+altísimo valor. Establece de manera incontrovertible el estado del inmueble
+a una fecha determinada.
+
+HITO 6: MEDIDAS PRELIMINARES (Art. 323 CPCC)
+.............................................
+Descripción: Solicitud judicial de medidas preliminares o diligencias previas
+a la interposición de la demanda.
+
+Evidencia sugerida:
+- Solicitud judicial de medidas preliminares conforme Art. 323 CPCCPBA
+  (prueba anticipada, inspección judicial, pericias preventivas).
+- Resolución judicial que admite las medidas solicitadas.
+- Actuaciones producidas (ej: pericia técnica anticipada sobre el estado
+  del inmueble, declaración jurada del propietario lindero sobre la obra
+  realizada).
+
+OBJETIVO: Preservar prueba que podría desaparecer o modificarse, e
+identificar responsables antes de la demanda.
+
+HITO 7: INTERPOSICIÓN DE LA DEMANDA
+....................................
+Descripción: Presentación formal de la demanda judicial por daños y
+perjuicios.
+
+Evidencia sugerida:
+- Escrito de demanda con toda la documentación respaldatoria acumulada en
+  los hitos anteriores.
+- La demanda debe interponerse DENTRO DE LOS 3 AÑOS contados desde la
+  última manifestación del daño (Art. 2573 CCCN).
+- Si el daño es continuo y persiste al momento de demandar, el plazo de
+  prescripción no ha comenzado a correr, conforme la regla del art. 2573.
+
+CÁLCULO PRESCRIPTIVO: Si la última manifestación verificable del daño
+ocurrió en fecha X, la demanda debe interponerse antes de X + 3 años.
+Si el daño continúa al momento de la demanda, no hay riesgo prescriptivo
+respecto del daño continuado, pero conviene acreditarlo documentalmente.
+
+================================================================================
+SECCIÓN B - IDENTIFICACIÓN DE RESPONSABLES EN OBRA CLANDESTINA
+================================================================================
+
+NORMATIVA APLICABLE:
+- Art. 323 CPCCPBA: Diligencias preliminares en el ámbito de la Provincia
+  de Buenos Aires.
+- Art. 323 inc. 6 CPCC Nación: Diligencias preliminares, que incluye la
+  citación para que el futuro demandado preste declaración jurada sobre
+  hechos relativos a su legitimación pasiva.
+
+PROBLEMA: En obras clandestinas, frecuentemente no existe documentación
+pública que identifique al director de obra, proyectista, constructor o
+maestro mayor de obra interviniente, dado que la obra carece de permiso
+municipal y de profesional responsable inscripto. La identificación de
+los responsables requiere mecanismos específicos.
+
+--------------------------------------------------------------------------------
+MECANISMO 1: OFICIOS A COLEGIOS PROFESIONALES
+--------------------------------------------------------------------------------
+
+Destinatarios:
+- CPAU (Consejo Profesional de Arquitectura y Urbanismo)
+- CPICPBA (Colegio de Profesionales de la Ingeniería Civil de la Provincia
+  de Buenos Aires)
+- CAPM (Colegio de Arquitectos de la Provincia de Buenos Aires)
+
+Solicitud: Requerir información sobre profesionales matriculados que hayan
+registrado planos, proyectos o direcciones de obra en la zona y dirección
+donde se emplaza la obra clandestina.
+
+Resultado esperado:
+- Si algún profesional registró actividad en esa dirección, se identifica
+  al director de obra y/o proyectista responsable.
+- Si ningún profesional tiene registros, se confirma la clandestinidad
+  total de la obra (ausencia de dirección técnica habilitada).
+
+Vía procesal: Oficio judicial en el marco de las diligencias preliminares
+(art. 323 CPCCPBA) o como prueba informativa durante el proceso (art. 396
+CPCCPBA).
+
+--------------------------------------------------------------------------------
+MECANISMO 2: INFORME MUNICIPAL (Dirección de Obras Privadas de Merlo)
+--------------------------------------------------------------------------------
+
+Solicitud: Requerir a la Dirección de Obras Privadas de la Municipalidad
+de Merlo que informe:
+- Si existe expediente de obra para la dirección [DIRECCIÓN DE LA OBRA].
+- Si se otorgó permiso de obra, y en caso afirmativo, bajo qué número,
+  fecha, y con qué profesional responsable.
+- Si se realizaron inspecciones, y en caso afirmativo, adjuntar actas de
+  inspección.
+- Si existen actas de infracción, clausura o intimación vinculadas a la
+  dirección denunciada.
+
+Resultado esperado:
+- Si existe expediente municipal: se identifican los profesionales, el
+  propietario, y el alcance de la obra autorizada.
+- Si NO existe permiso de obra: se ACREDITA LA CLANDESTINIDAD de la
+  construcción, lo que refuerza la antijuridicidad de la conducta y la
+  responsabilidad objetiva del propietario.
+
+Vía procesal: Oficio judicial (art. 396 CPCCPBA) o pedido administrativo
+directo por el interesado.
+
+--------------------------------------------------------------------------------
+MECANISMO 3: PRUEBA TESTIMONIAL
+--------------------------------------------------------------------------------
+
+Testigos potenciales:
+- Albañiles y operarios que trabajaron en la obra: pueden identificar al
+  contratista, al propietario que les pagaba, y al profesional que daba
+  indicaciones técnicas (si lo había).
+- Vecinos del barrio: pueden atestiguar sobre la duración de la obra, las
+  características de los trabajos, las personas que ingresaban al predio,
+  los vehículos de proveedores, y el horario de trabajo.
+- Proveedores de materiales de construcción: pueden identificar al comprador
+  de los materiales (corralón, ferretería), lo que vincula económicamente
+  al responsable con la obra.
+
+Valor probatorio: La prueba testimonial es especialmente relevante en obras
+clandestinas donde no existe documentación formal. Los testimonios coincidentes
+de múltiples testigos independientes generan una presunción fuerte sobre la
+identidad de los responsables.
+
+Vía procesal: Prueba testimonial anticipada (art. 326 CPCCPBA) si existe
+riesgo de que los testigos no estén disponibles al momento del juicio, o
+como prueba ordinaria durante el proceso.
+
+--------------------------------------------------------------------------------
+MECANISMO 4: MEDIDAS PRELIMINARES (Art. 323 CPCCPBA)
+--------------------------------------------------------------------------------
+
+Medidas específicas solicitables:
+
+a) DECLARACIÓN JURADA DEL PROPIETARIO: Solicitar judicialmente que el
+   propietario del inmueble lindero preste declaración jurada sobre:
+   - Quién proyectó la obra.
+   - Quién la dirigió técnicamente.
+   - Quién fue el constructor o empresa constructora.
+   - Con qué profesionales contrató.
+   - Si obtuvo permiso municipal.
+
+b) EXHIBICIÓN DE CONTRATOS: Requerir la exhibición de contratos de obra,
+   presupuestos, recibos de pago a constructores y profesionales, y toda
+   documentación vinculada a la ejecución de la obra.
+
+c) CONSTITUCIÓN DE DOMICILIO: Solicitar que el propietario constituya
+   domicilio procesal a los efectos de las futuras notificaciones del
+   proceso judicial.
+
+Fundamento: Art. 323 CPCCPBA establece que quien pretenda demandar puede
+solicitar previamente las diligencias necesarias para preparar el proceso,
+incluyendo la identificación de los legitimados pasivos.
+
+FUENTES CONSULTADAS:
+- Microjuris 2018: Análisis de diligencias preliminares en el ámbito de
+  la Provincia de Buenos Aires, con especial referencia a su utilidad para
+  identificar responsables en obras clandestinas.
+- Infoleg: Art. 323 del Código Procesal Civil y Comercial de la Nación.
+- Studocu: Modelo de solicitud de diligencias preliminares para casos de
+  daños por obra lindera.
+
+================================================================================
+SECCIÓN C - ANÁLISIS DESDE 4 ENFOQUES
+================================================================================
+
+--------------------------------------------------------------------------------
+ENFOQUE 1: DEMANDANTE (Parte actora / Damnificado)
+--------------------------------------------------------------------------------
+
+VALOR ESTRATÉGICO DE LA CRONOLOGÍA:
+
+1. La cronología de 7 hitos proporciona una hoja de ruta clara para la
+   construcción del caso. Cada hito genera evidencia que se acumula y
+   fortalece progresivamente la posición del demandante.
+
+2. El carácter continuo del daño (art. 2573 CCCN) es la principal protección
+   contra la defensa de prescripción. Mientras el daño persista, el plazo no
+   comienza a correr. La documentación cronológica periódica (fotos mensuales,
+   informes técnicos de seguimiento) es esencial para acreditar la continuidad.
+
+3. Los mensajes al vecino (Hito 2) tienen doble valor: (a) acreditan el
+   conocimiento del responsable desde fecha temprana, y (b) documentan la
+   conducta diligente del damnificado que intentó resolver la situación antes
+   de judicializarla.
+
+4. El acta notarial (Hito 5) es la pieza probatoria más sólida del arsenal
+   documental. Tiene fe pública y es prácticamente incontrovertible. Debe
+   realizarse lo antes posible para fijar el estado de los daños.
+
+VALOR ESTRATÉGICO DE LA IDENTIFICACIÓN DE RESPONSABLES:
+
+1. Los oficios a Colegios Profesionales permiten identificar al director de
+   obra cuya responsabilidad es objetiva como guardián (jurisprudencia N.G.R.
+   c/ K.M.G., Archivo 51).
+
+2. El informe municipal negativo (ausencia de permiso) es una prueba
+   contundente de clandestinidad que refuerza la antijuridicidad.
+
+3. Las medidas preliminares (art. 323 CPCCPBA) permiten obtener información
+   crucial ANTES de la demanda, lo que mejora la estrategia y evita demandar
+   a personas equivocadas.
+
+RECOMENDACIONES:
+- Iniciar la documentación cronológica de inmediato si aún no se ha hecho.
+- Solicitar diligencias preliminares como primer acto procesal para
+  identificar a todos los responsables antes de demandar.
+- No demorar el acta notarial: cuanto antes se labra, mayor es su valor
+  como punto de referencia temporal.
+
+--------------------------------------------------------------------------------
+ENFOQUE 2: DEMANDADO (Propietario obra lindera / Constructor)
+--------------------------------------------------------------------------------
+
+ANÁLISIS DE RIESGOS:
+
+1. La cronología documentada dificulta significativamente la defensa basada
+   en prescripción. Si el actor puede acreditar daño continuo con evidencia
+   periódica, la excepción de prescripción será rechazada (art. 2573 CCCN).
+
+2. Los mecanismos de identificación de responsables (oficios, informes
+   municipales, testimoniales) hacen prácticamente imposible ocultarse detrás
+   de la informalidad de la obra clandestina. Aunque no existan documentos
+   formales, la prueba testimonial y los oficios permiten reconstruir la
+   cadena de responsabilidad.
+
+3. La declaración jurada solicitada como medida preliminar (art. 323) obliga
+   al propietario a identificar a los profesionales y constructores. Negarse
+   o faltar a la verdad genera consecuencias procesales adversas.
+
+POSIBLES DEFENSAS:
+- Alegar que los daños son preexistentes a la obra (requiere pericia que lo
+  acredite).
+- Cuestionar la cadena causal entre cada hito cronológico y los daños
+  reclamados.
+- Argumentar que el daño cesó en una fecha determinada y que desde entonces
+  transcurrió el plazo de prescripción de 3 años.
+- Ofrecer prueba técnica de parte que contradiga la continuidad del daño.
+
+--------------------------------------------------------------------------------
+ENFOQUE 3: PODER JUDICIAL (Criterios de valoración)
+--------------------------------------------------------------------------------
+
+VALORACIÓN DE LA CRONOLOGÍA:
+
+1. El juez debe verificar si el daño reviste carácter continuo conforme art.
+   2573 CCCN, analizando la evidencia cronológica presentada. La existencia
+   de documentación periódica (fotos, informes, mensajes) con fechas ciertas
+   es determinante para resolver la excepción de prescripción.
+
+2. Los 7 hitos de la cronología configuran un estándar probatorio razonable
+   para casos de daño continuado por obra lindera. El magistrado puede
+   valorar la diligencia del actor en función de cuántos hitos documentó
+   efectivamente.
+
+3. El acta notarial tiene fe pública y establece un punto de referencia
+   temporal incontrovertible. El juez puede tomarla como base para determinar
+   el estado de los daños a una fecha determinada.
+
+VALORACIÓN DE LA IDENTIFICACIÓN DE RESPONSABLES:
+
+1. Las diligencias preliminares (art. 323 CPCCPBA) están diseñadas
+   precisamente para identificar a los legitimados pasivos. El juez debe
+   evaluar su procedencia con criterio amplio, especialmente en obras
+   clandestinas donde la información no está disponible públicamente.
+
+2. La ausencia de permiso municipal (informe negativo de la Dirección de
+   Obras Privadas) genera una presunción de clandestinidad que invierte la
+   carga probatoria: es el demandado quien debe acreditar la regularidad
+   de su obra.
+
+3. La prueba testimonial cobra especial relevancia en obras clandestinas.
+   El juez debe valorar la concordancia de testimonios independientes para
+   establecer la identidad de los responsables.
+
+--------------------------------------------------------------------------------
+ENFOQUE 4: PERITAJE (Criterios técnicos)
+--------------------------------------------------------------------------------
+
+CRONOLOGÍA TÉCNICA DEL DAÑO:
+
+1. El perito debe pronunciarse sobre la COMPATIBILIDAD TEMPORAL entre la
+   cronología de la obra lindera y la aparición de los daños. Si la obra
+   comenzó en fecha X y los primeros daños aparecieron en fecha Y, el perito
+   debe explicar si ese lapso es técnicamente coherente con el tipo de daño
+   observado (ej: asentamientos diferenciales suelen manifestarse semanas
+   o meses después de la excavación).
+
+2. PROGRESIÓN DEL DAÑO: El perito debe analizar la evidencia fotográfica
+   cronológica para determinar si los daños evolucionaron de manera
+   consistente con un proceso continuo (ej: grieta que se amplía
+   progresivamente) o si hubo un evento puntual.
+
+3. CESACIÓN DEL DAÑO: Determinar técnicamente si el daño continúa
+   produciéndose al momento de la pericia o si cesó en algún momento
+   anterior. Esto es crucial para la prescripción (art. 2573 CCCN).
+
+IDENTIFICACIÓN TÉCNICA DE RESPONSABLES:
+
+1. El perito técnico puede contribuir a la identificación de responsables
+   analizando las características de la obra (técnicas constructivas
+   empleadas, calidad de materiales, nivel de complejidad) que permitan
+   inferir si intervino un profesional habilitado o si se trató de
+   construcción informal.
+
+2. El relevamiento de la obra lindera puede revelar defectos técnicos
+   (falta de capa aisladora, cimientos insuficientes, ausencia de drenaje
+   pluvial) que solo un perito puede identificar y que son relevantes para
+   determinar la causa técnica del daño.
+
+3. La pericia debe incluir análisis de suelos y fundaciones si los daños
+   sugieren asentamientos diferenciales, ya que esto vincula técnicamente
+   la excavación/construcción lindera con los movimientos del terreno.
+
+================================================================================
+FIN DEL ARCHIVO 53
+================================================================================
+Fuentes: Microjuris 2018 (diligencias preliminares PBA), Infoleg (Art. 323
+CPCC Nación), Studocu (modelo solicitud diligencias), CCCN Arts. 2571 y
+2573, CPCCPBA Art. 323.
+================================================================================

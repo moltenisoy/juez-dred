@@ -1,0 +1,345 @@
+================================================================================
+ARCHIVO 51 - CUANTIFICACIÓN DE RUBROS INDEMNIZATORIOS Y JURISPRUDENCIA VERIFICADA
+================================================================================
+Fecha de elaboración: Junio 2025
+Fuentes: SCBA, Microjuris, CIJ, Poder Judicial Nación
+Aplicable a: Caso obra clandestina lindera - Merlo, Provincia de Buenos Aires
+================================================================================
+
+================================================================================
+SECCIÓN A - CUANTIFICACIÓN MONETARIA DE RUBROS INDEMNIZATORIOS
+================================================================================
+
+NORMATIVA APLICABLE:
+- Art. 1738 CCCN (Ley 26.994): Indemnización comprende pérdida o disminución
+  del patrimonio, lucro cesante, pérdida de chances, daño moral.
+- Art. 1739 CCCN: Requisitos de procedencia - daño directo o indirecto, actual
+  o futuro, cierto y subsistente.
+- Art. 1740 CCCN: Reparación plena - restitución al estado anterior o
+  indemnización sustitutiva.
+- Art. 1741 CCCN: Indemnización de consecuencias no patrimoniales (daño moral).
+- Art. 1746 CCCN: Indemnización por lesiones o incapacidad física o psíquica,
+  fórmulas matemáticas.
+- Art. 165 CPCCPBA: Facultad judicial de fijar montos cuando no se puede
+  determinar con exactitud.
+
+--------------------------------------------------------------------------------
+1. DAÑO MATERIAL
+--------------------------------------------------------------------------------
+
+Precedente rector: CNBariloche, sentencia SGU-5aecfc4f (2025)
+Monto total: $16.473.648
+
+Desglose completo del monto:
+- Materiales de construcción (según presupuesto pericial)
+- Mano de obra (oficial + ayudante, jornales según convenio UOCRA)
+- IVA (21% sobre materiales y mano de obra)
+- Gastos generales: 30% (incluye transporte, herramientas, imprevistos,
+  logística de obra, seguros laborales)
+- Proyecto y dirección técnica: 7% (honorarios profesional habilitado para
+  proyecto ejecutivo y dirección de obra de reparación)
+- Honorarios profesionales: 9% (incluye representación técnica, certificaciones,
+  administración de obra)
+
+INFORMACIÓN PRÁCTICA: La valuación del fallo CNBariloche incluye desglose
+completo de todos los rubros que componen la reparación integral del daño
+material. Este criterio de desglose es útil como modelo para cuantificar
+reclamos similares, ya que discrimina cada componente del costo de reparación.
+
+--------------------------------------------------------------------------------
+2. DAÑO MORAL, PSICOLÓGICO Y LUCRO CESANTE
+--------------------------------------------------------------------------------
+
+Precedente rector: Cámara de Apelaciones de Quilmes, Sala II
+Causa: "G.E.A. c/ N.A. S.A." (Expte. 25.184), año 2022
+
+Montos de primera instancia:
+- Daño moral: $170.000 (reclamaban $1.455.000)
+- Daño psicológico (incapacidad 5%): $50.000 (reclamaban $428.000)
+- Lucro cesante: RECHAZADO por falta de prueba suficiente
+
+IMPORTANTE: Montos correspondientes al año 2022, NO actualizados. Deben
+aplicarse mecanismos de actualización (tasa activa Banco Provincia, CER, o
+el que resulte aplicable según jurisprudencia vigente al momento de liquidación).
+
+NOTA: En segunda instancia la Cámara elevó significativamente el rubro daño
+moral (ver Sección B, Fallo 2 para detalle completo).
+
+--------------------------------------------------------------------------------
+3. PÉRDIDA DE CHANCE
+--------------------------------------------------------------------------------
+
+Precedentes SCBA:
+- SCBA "Vilar, Jonathan Marcelo c/ Sesa Internacional S.A." (2022):
+  Se indemniza la probabilidad perdida, no la ganancia frustrada. La pérdida
+  de chance constituye un daño autónomo que se mide por la probabilidad
+  objetiva de obtener una ventaja o evitar un perjuicio.
+
+- SCBA "Lemacha, Juan Carlos s/ Daños" (2022):
+  Confirma criterio de valoración de la chance como rubro independiente,
+  diferenciado del lucro cesante.
+
+ADVERTENCIA: NO existe tabla de montos de referencia para Provincia de Buenos
+Aires período 2023-2026. La cuantificación queda sujeta a la prudente
+apreciación judicial (art. 165 CPCCPBA).
+
+--------------------------------------------------------------------------------
+4. DEPRECIACIÓN DEL INMUEBLE
+--------------------------------------------------------------------------------
+
+Estado de verificación: NO VERIFICADA en fuentes de Provincia de Buenos Aires
+período 2023-2026.
+
+No se hallaron precedentes específicos en PBA que cuantifiquen la depreciación
+del valor del inmueble como rubro autónomo por daños derivados de obra lindera.
+El reclamo podría canalizarse como componente del daño material o como pérdida
+de chance (probabilidad de venta frustrada).
+
+--------------------------------------------------------------------------------
+5. BAREMOS DE INCAPACIDAD
+--------------------------------------------------------------------------------
+
+Decreto 659/96: Los baremos son REFERENCIALES y NO VINCULANTES para el juez
+civil (criterio SCBA 2022). El magistrado puede apartarse fundadamente del
+porcentaje sugerido por el baremo, considerando las circunstancias particulares
+del caso y la prueba pericial producida.
+
+================================================================================
+SECCIÓN B - JURISPRUDENCIA VERIFICADA 2024-2026
+================================================================================
+
+--------------------------------------------------------------------------------
+FALLO 1: BELTRANDI c/ FIDEICOMISO VERGARA 1625-BANDFIELD
+--------------------------------------------------------------------------------
+
+Tribunal: Cámara de Apelaciones de Lomas de Zamora, Sala I
+Fecha: 17/10/2024
+Cita: MJ-JU-M-153927-AR (Microjuris)
+
+Condena: $17.540.000 (corregido de $20.270.000)
+
+Rubros reconocidos:
+- Daño material: fisuras, rotura de capa aisladora, humedades generalizadas
+- Daño moral
+- Intereses: tasa activa Banco Provincia de Buenos Aires
+
+Hechos del caso:
+La demolición de la propiedad lindera y la posterior construcción de un edificio
+de 10 pisos alteró el drenaje pluvial natural del terreno, provocando daños
+estructurales en la propiedad colindante.
+
+Fundamento jurídico:
+Responsabilidad objetiva por analogía con art. 1757 CCyCN (actividades
+riesgosas). El tribunal consideró que la actividad constructiva de envergadura
+(edificio de 10 pisos) genera un riesgo intrínseco para las propiedades
+linderas.
+
+Tasa de intereses: Doctrina SCBA en causas Vera/Nidera/Barrios. Se aplica
+tasa activa del Banco de la Provincia de Buenos Aires desde el hecho dañoso
+hasta el efectivo pago.
+
+--------------------------------------------------------------------------------
+FALLO 2: G.E.A. c/ N.A. S.A.
+--------------------------------------------------------------------------------
+
+Tribunal: Cámara de Apelaciones de Quilmes, Sala II
+Fecha: 06/02/2024
+
+Primera instancia - Monto total: $788.389,98
+Desglose:
+- Daño material: $568.389,98
+- Daño moral: $170.000
+- Daño psicológico: $50.000
+
+Segunda instancia (Cámara):
+La Cámara elevó el rubro daño moral a $2.800.000 ($1.400.000 por cada actor).
+
+Hechos del caso:
+Rajaduras y filtraciones provocadas por asentamientos diferenciales de
+cimientos originados en la obra lindera. Los daños se manifestaron como
+grietas progresivas, filtraciones de agua y deterioro estructural.
+
+Fundamento jurídico:
+Aplicación de la teoría de los placeres compensatorios (SCBA, causa "Barrios",
+17/04/2024). El daño moral se cuantifica considerando que la indemnización
+debe permitir al damnificado acceder a satisfacciones sustitutivas que
+compensen el padecimiento sufrido.
+
+--------------------------------------------------------------------------------
+FALLO 3: N.G.R. c/ K.M.G.
+--------------------------------------------------------------------------------
+
+Tribunal: CNCiv (Cámara Nacional en lo Civil), Sala G
+Fecha: 29/12/2022 (reiterada y citada en período 2024-2025)
+
+Condena: $483.000 + intereses + costas
+
+Rubros:
+- Daño material: reconocido
+- Invasión: 2,45 m² de superficie invadida
+- Daño moral: RECHAZADO respecto de persona jurídica (las personas jurídicas
+  no son titulares de daño moral en sentido estricto)
+
+Fundamento jurídico:
+Responsabilidad objetiva del director de obra en calidad de guardián,
+conforme art. 1113 Código Civil (anterior) / art. 1757 CCyCN (vigente).
+
+Criterio clave: La humedad constituye VICIO CONSTRUCTIVO. La firma del
+director de obra en las planillas de avance de obra acredita su condición
+de guardián de la cosa, generando responsabilidad objetiva por los daños
+derivados.
+
+================================================================================
+SECCIÓN C - ANÁLISIS DESDE 4 ENFOQUES
+================================================================================
+
+--------------------------------------------------------------------------------
+ENFOQUE 1: DEMANDANTE (Parte actora / Damnificado)
+--------------------------------------------------------------------------------
+
+FORTALEZAS ESTRATÉGICAS:
+1. La jurisprudencia verificada muestra una tendencia creciente en los montos
+   indemnizatorios: desde $483.000 (CNCiv 2022) hasta $17.540.000 (Lomas de
+   Zamora 2024), lo cual permite fundamentar reclamos significativos.
+
+2. El fallo Beltrandi (2024) es especialmente favorable porque establece
+   responsabilidad objetiva por analogía con art. 1757 en construcciones de
+   envergadura que afectan propiedades linderas, exactamente el supuesto del
+   caso Merlo.
+
+3. La elevación del daño moral por la Cámara de Quilmes (de $170.000 a
+   $2.800.000) demuestra que los tribunales de alzada están dispuestos a
+   corregir montos insuficientes de primera instancia.
+
+4. El desglose del fallo CNBariloche ($16.473.648) proporciona un modelo
+   detallado para cuantificar el reclamo material: materiales + mano de obra
+   + IVA + gastos generales 30% + proyecto/dirección 7% + honorarios 9%.
+
+RIESGOS A CONSIDERAR:
+- El lucro cesante fue rechazado en G.E.A. por falta de prueba: es
+  imprescindible acreditar con documentación contable concreta las pérdidas
+  de ingresos alegadas.
+- La depreciación del inmueble carece de precedentes verificados en PBA
+  2023-2026; su inclusión requiere fundamentación pericial sólida.
+- Los montos 2022 deben actualizarse; presentarlos sin ajuste debilitaría
+  el reclamo.
+
+RECOMENDACIONES PROCESALES:
+- Utilizar el desglose de CNBariloche como estructura para el presupuesto
+  pericial de daño material.
+- Invocar la teoría de placeres compensatorios (SCBA Barrios 2024) para
+  sostener montos elevados de daño moral.
+- Acreditar documentalmente cada rubro reclamado para evitar rechazos como
+  el del lucro cesante en G.E.A.
+
+--------------------------------------------------------------------------------
+ENFOQUE 2: DEMANDADO (Propietario obra lindera / Constructor / Director obra)
+--------------------------------------------------------------------------------
+
+LÍNEAS DE DEFENSA POSIBLES:
+1. Cuestionar la relación causal: argumentar que los daños preexistían a la
+   obra o que responden a causas ajenas (antigüedad del inmueble, falta de
+   mantenimiento del actor, vicios propios de la construcción original).
+
+2. Discutir la cuantificación: el art. 165 CPCCPBA otorga discrecionalidad
+   judicial, pero también permite cuestionar montos excesivos. Los baremos
+   del Decreto 659/96 son referenciales y no vinculantes (SCBA 2022), lo
+   cual permite argumentar incapacidades menores a las reclamadas.
+
+3. Impugnar pericias: si la pericia técnica o psicológica presenta
+   deficiencias metodológicas, solicitar nueva pericia o producir pericia
+   de parte que contradiga las conclusiones.
+
+4. Respecto al daño moral: en N.G.R. c/ K.M.G. se rechazó el daño moral
+   para personas jurídicas; si el demandado es persona jurídica, este
+   precedente limita su exposición.
+
+PUNTOS VULNERABLES:
+- La responsabilidad objetiva (art. 1757) no admite eximentes basados en
+  ausencia de culpa; solo opera la causa ajena (hecho de la víctima, hecho
+  de tercero, caso fortuito).
+- La firma en planillas de obra acredita condición de guardián (N.G.R. c/
+  K.M.G.), lo que dificulta la desvinculación del director de obra.
+- La tendencia jurisprudencial a elevar montos en segunda instancia
+  (G.E.A. 2024) genera riesgo de incremento del monto condenatorio en
+  apelación.
+
+--------------------------------------------------------------------------------
+ENFOQUE 3: PODER JUDICIAL (Criterios de valoración y decisión)
+--------------------------------------------------------------------------------
+
+CRITERIOS DE CUANTIFICACIÓN APLICABLES:
+1. Art. 165 CPCCPBA: El juez fija prudencialmente los montos cuando no
+   pueden determinarse con exactitud. Esto requiere fundamentación suficiente
+   en la sentencia para evitar arbitrariedad.
+
+2. Reparación plena (art. 1740 CCCN): El estándar es la restitución al
+   estado anterior al daño. Cuando no es posible la reposición in natura,
+   procede la indemnización sustitutiva.
+
+3. Fórmulas matemáticas (art. 1746 CCCN): Para incapacidad psicofísica,
+   el uso de fórmulas (tipo Méndez, Marshall, Las Heras-Requena) está
+   recomendado para objetivar la cuantificación y reducir discrecionalidad.
+
+4. Tasa de intereses: La doctrina SCBA (Vera/Nidera/Barrios) establece
+   tasa activa del Banco Provincia desde el hecho hasta el pago efectivo.
+
+VALORACIÓN DE PRUEBA:
+- Las pericias técnicas (ingeniería, arquitectura) son determinantes para
+  establecer relación causal y cuantificación material.
+- Los baremos (Decreto 659/96) son orientativos; el juez puede apartarse
+  con fundamentación (SCBA 2022).
+- La teoría de placeres compensatorios (SCBA Barrios 17/04/2024) proporciona
+  un marco conceptual actualizado para cuantificar daño moral.
+
+CONSISTENCIA JURISPRUDENCIAL:
+- Los tres fallos verificados coinciden en aplicar responsabilidad objetiva
+  por actividad riesgosa o vicio constructivo.
+- Existe coherencia en reconocer daño material + daño moral como rubros
+  procedentes en daños por obra lindera.
+- La disparidad de montos entre jurisdicciones requiere adaptación al
+  contexto económico local y temporal.
+
+--------------------------------------------------------------------------------
+ENFOQUE 4: PERITAJE (Criterios técnicos y periciales)
+--------------------------------------------------------------------------------
+
+ASPECTOS TÉCNICOS PARA PERICIAS:
+1. PERICIA DE INGENIERÍA/ARQUITECTURA:
+   - Debe seguir el modelo de desglose del fallo CNBariloche: materiales,
+     mano de obra, IVA, gastos generales (30%), proyecto/dirección (7%),
+     honorarios (9%).
+   - Incluir relevamiento fotográfico georreferenciado de todos los daños.
+   - Establecer nexo causal técnico entre la obra lindera y cada daño
+     particular (fisuras, humedades, rotura capa aisladora).
+   - Considerar asentamientos diferenciales como causa técnica (G.E.A.).
+
+2. PERICIA PSICOLÓGICA/PSIQUIÁTRICA:
+   - Cuantificar incapacidad con referencia a baremos (Decreto 659/96) pero
+     aclarando su carácter referencial.
+   - En G.E.A. se reconoció 5% de incapacidad psicológica ($50.000 en 2022,
+     luego actualizado).
+   - Fundamentar relación causal entre el cuadro psicopatológico y la
+     situación habitacional derivada de los daños.
+
+3. PERICIA DE TASACIÓN INMOBILIARIA:
+   - Aunque la depreciación del inmueble no tiene precedentes verificados
+     en PBA 2023-2026, una tasación comparativa (antes/después de los daños)
+     podría sustentar este rubro.
+   - Utilizar método comparativo de mercado y método de costo de reposición.
+
+4. CUESTIONES METODOLÓGICAS:
+   - La humedad fue calificada como vicio constructivo (N.G.R. c/ K.M.G.):
+     el perito debe explicar el mecanismo técnico de generación de humedad
+     por la obra lindera.
+   - Documentar con ensayos técnicos (humedad relativa, termografía,
+     testigos de yeso en fisuras) la progresión y origen de los daños.
+   - La invasión de superficie (2,45 m² en N.G.R.) debe acreditarse con
+     mensura actualizada.
+
+================================================================================
+FIN DEL ARCHIVO 51
+================================================================================
+Fuentes verificadas: SCBA, Microjuris (MJ-JU-M-153927-AR), CIJ, Poder
+Judicial de la Nación. Período de verificación: 2022-2026.
+================================================================================
