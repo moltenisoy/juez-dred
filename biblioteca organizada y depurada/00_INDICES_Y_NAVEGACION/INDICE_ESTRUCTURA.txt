@@ -1,0 +1,95 @@
+════════════════════════════════════════════════════════════════════
+ÍNDICE DE ESTRUCTURA — BIBLIOTECA ORGANIZADA Y DEPURADA
+════════════════════════════════════════════════════════════════════
+
+biblioteca organizada y depurada/
+│
+├── 00_INDICES_Y_NAVEGACION/  — Mapa de estructura y reseña detallada de cada archivo del proyecto
+│   ├── INDICE_ESTRUCTURA.txt
+│   └── INDICE_DETALLADO_ACTUALIZADO.txt
+│
+├── 01_CASO_HECHOS_Y_RESUMEN/  — Relato del caso, inventario de daños, documentos personales y resumen
+│   ├── 02_RELATO_DE_HECHOS_INVENTARIO_Y_NOTAS.txt
+│   ├── 03_CARTA_AL_INTENDENTE_MENENDEZ.txt
+│   ├── 09_CUADRO_DE_SITUACION_JURIDICO_PROBATORIA.txt
+│   └── 10_RESUMEN_EJECUTIVO.txt
+│
+├── 02_DEMANDA_Y_ESTRUCTURA_PROCESAL/  — Modelo de demanda y esquema formal del escrito judicial
+│   ├── 04_MODELO_DE_DEMANDA_PRINCIPAL.txt
+│   └── 05_ESQUEMA_Y_ESTRUCTURA_DE_DEMANDA.txt
+│
+├── 03_MARCO_LEGAL_Y_NORMATIVO/  — Normativa de fondo, responsabilidad civil y reglamentación técnica
+│   │
+│   ├── 03a_Documentacion_Juridica_Unificada/  — Compilaciones jurídicas integrales sobre obra clandestina e incumplimientos
+│   │   ├── 06_DOCUMENTACION_JURIDICA_UNIFICADA_COMPLETA.txt
+│   │   ├── 07_DOCUMENTO_JURIDICO_UNIFICADO_INCUMPLIMIENTOS.txt
+│   │   └── 08_ANALISIS_JURIDICO_COMPLETO_OBRA_CLANDESTINA.txt
+│   │
+│   ├── 03b_Responsabilidad_Civil/  — Régimen de responsabilidad objetiva, solidaria y municipal
+│   │   ├── 12_RESPONSABILIDAD_CIVIL_Y_REGIMEN_PROBATORIO.txt
+│   │   ├── 14_MARCO_LEGAL_DANOS_OBRA_VECINA.txt
+│   │   ├── 31_RESPONSABILIDAD_MUNICIPAL_POR_OMISION.txt
+│   │   └── 40_MARCO_LEGAL_Y_RESPONSABILIDAD_CIVIL.txt
+│   │
+│   └── 03c_Normativa_Tecnica/  — Reglamentación CIRSOC, permisos, construcción y habitabilidad
+│       ├── 23_NORMATIVA_CONSTRUCCION_INMUEBLES_LINDEROS.txt
+│       ├── 24_NORMATIVA_TECNICA_CARGAS_ESTRUCTURALES_CIRSOC.txt
+│       ├── 25_PERMISOS_Y_DOCUMENTACION_REQUERIDA_OBRA.txt
+│       ├── 28_NORMATIVA_DAÑOS_EDILICIOS_HABITABILIDAD.txt
+│       └── 49_CLASIFICACION_REQUISITOS_Y_SECUENCIA_CONSTRUCTIVA.txt
+│
+├── 04_DANOS_Y_RUBROS_INDEMNIZATORIOS/  — Daños acreditados y rubros reclamables (materiales, personales, lucro)
+│   │
+│   ├── 04a_Danos_Materiales_Y_Edilicios/  — Daños estructurales, filtraciones, humedad, bienes muebles y equipos
+│   │   ├── 11_INFORME_JURIDICO_ACREDITACION_DE_DANOS.txt
+│   │   ├── 20_DANOS_POR_HUMEDAD_A_BIENES_Y_EQUIPOS_ELECTRONICOS.txt
+│   │   ├── 21_REGIMEN_DESAGUE_Y_AGUAS_PLUVIALES.txt
+│   │   ├── 43_INCUMPLIMIENTOS_DANOS_Y_RUBROS_INDEMNIZATORIOS.txt
+│   │   └── 47_DETERIORO_MEMBRANA_PRESION_HIDRAULICA.txt
+│   │
+│   ├── 04b_Danos_Personales_Y_Morales/  — Daño moral, psicofísico y padecimientos del damnificado
+│   │   ├── 13_ANALISIS_JURIDICO_INTEGRAL_DANOS_PERSONALES.txt
+│   │   ├── 15_PADECIMIENTOS_Y_DANO_MORAL.txt
+│   │   └── 38_DANO_PSICOFISICO_E_INTERESES_BARRIOS.txt
+│   │
+│   └── 04c_Lucro_Cesante_Y_Patrimoniales/  — Lucro cesante digital, costas y depreciación del inmueble
+│       ├── 19_INVESTIGACION_JURIDICA_LUCRO_CESANTE_HARDWARE_AGUA.txt
+│       └── 34_COSTAS_Y_DEPRECIACION_INMUEBLE.txt
+│
+├── 05_JUSTIFICACION_Y_ARGUMENTACION/  — Validación del reclamo y refutación de defensas del demandado
+│   ├── 16_JUSTIFICACION_Y_VALIDACION_DEL_RECLAMO.txt
+│   └── 17_ARGUMENTACION_CONTRA_DEFENSAS_DEL_DEMANDADO.txt
+│
+├── 06_ESTRATEGIA_PROBATORIA_Y_REGIMEN/  — Régimen de prueba, pericias, estrategia post-mediación y precedentes
+│   ├── 18_ESTRATEGIA_PROBATORIA_POST_MEDIACION.txt
+│   ├── 22_REGIMEN_PROBATORIO_DANOS_EDILICIOS.txt
+│   ├── 36_LEY_AMBIENTE_Y_PRUEBA_ANTICIPADA.txt
+│   ├── 42_REGIMEN_PROBATORIO_Y_PERICIAL.txt
+│   └── 48_PERICIAS_REALES_JURISPRUDENCIA_CASOS.txt
+│
+├── 07_HERRAMIENTAS_PROCESALES/  — Tutela anticipada, cautelares, amparo, caducidad y recursos
+│   ├── 26_CELERIDAD_PROCESAL_Y_TUTELA_ANTICIPADA.txt
+│   ├── 32_COBRABILIDAD_Y_PROTECCION_VIVIENDA.txt
+│   ├── 33_AMPARO_CONSTITUCIONAL.txt
+│   ├── 35_CADUCIDAD_RECONVENCION_LITISCONSORCIO.txt
+│   ├── 37_APELACION_Y_COLEGIOS_PROFESIONALES.txt
+│   └── 41_ESTRATEGIA_PROCESAL_Y_HERRAMIENTAS_JUDICIALES.txt
+│
+├── 08_MARCO_TEORICO_JUEZ_PIPO/  — Metodología de análisis multiperspectiva del caso (JUEZ-PIPO)
+│   └── 30_MARCO_TEORICO_METODOLOGIA_JUEZ_PIPO.txt
+│
+├── 09_NORMATIVA_URBANISTICA_SERVICIOS_MERLO/  — Requisitos técnicos de servicios, urbanismo e instalaciones en Merlo
+│   └── 50_REQUISITOS_SERVICIOS_URBANISMO_INSTALACIONES_MERLO.txt
+│
+├── 10_REVISION_VACIOS_Y_CONTROL/  — Informes de auditoría interna, vacíos y eliminación de duplicados
+│   ├── 27_INFORME_DE_REVISION_VACIOS_Y_OMISIONES.txt
+│   └── 46_INFORME_DUPLICADOS_ELIMINADOS.txt
+│
+└── 11_PROMPTS_E_INVESTIGACION/  — Prompts reutilizables para investigación jurídica con IA
+    ├── 39_PROMPTS_INVESTIGACION_Y_PRECEDENTES.txt
+    └── 45_PROMPT_INVESTIGACION_FALTANTES.txt
+
+════════════════════════════════════════════════════════════════════
+Total: 49 archivos en 12 carpetas principales y 6 subcarpetas
+Última reorganización: 18 de abril de 2026
+════════════════════════════════════════════════════════════════════
