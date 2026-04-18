@@ -129,6 +129,13 @@ INSTALACIÓN DE GAS (si aplica):
 — Sin plano de instalación de gas firmado por gasista matriculado
   ante ENARGAS (Decreto 1738/92).
 — Sin solicitud de factibilidad técnica ante la distribuidora local.
+— Sin certificación de la instalación de gas por gasista habilitado
+  y posterior verificación de la distribuidora (obligatorio previo
+  a la conexión y uso de artefactos).
+— Sin verificación de conductos y tirajes (chimeneas) para artefactos
+  conforme normas IRAM de instalaciones de gas.
+⚠️ La prestación del servicio de gas en Merlo puede corresponder a
+MetroGAS o a una distribuidora regional. Verificar el prestador actual.
 
 2.6 REQUISITOS DE SEGURIDAD INCUMPLIDOS
 
@@ -152,9 +159,15 @@ INSTALACIÓN DE GAS (si aplica):
 2.8 REQUISITOS DE MEDIANERÍA INCUMPLIDOS
 
 — Sin verificación del estado de las medianeras vecinas.
-— Sin notificación fehaciente a propietarios linderos.
+— Sin notificación fehaciente a propietarios linderos antes de iniciar
+  obras que afecten o sobrepasen las medianeras.
 — Sin acuerdo con lindero si nueva estructura apoya sobre medianera.
-— Arts. 2009 y ss. CCC — Régimen de medianería.
+— Si la planta alta supera la altura de las medianeras existentes, deben
+  elevarse a cargo del que construye (Arts. 2009 y ss. CCC).
+— Si las medianeras son comunes: el costo de elevación y refuerzo se rige
+  por las reglas del CCC sobre medianería. La nueva extensión (muro de
+  elevación) se considera privativa de quien la hizo hasta tanto el vecino
+  adquiera su medianería pagando la parte proporcional.
 
 2.9 REQUISITOS ANTE LA PROVINCIA DE BUENOS AIRES INCUMPLIDOS
 
@@ -162,8 +175,27 @@ INSTALACIÓN DE GAS (si aplica):
 — Sin Impuesto Inmobiliario al día ante ARBA.
 — Sin visado de contratos ante Colegio de Ingenieros Distrito V PBA.
 — Sin declaratoria de construcción ante ARBA (Formulario R-550I).
+— ARBA notificación automática: el Municipio de Merlo informa a ARBA la
+  aprobación de planos (Convenio ARBA-Municipios PBA), lo que puede
+  disparar automáticamente la reliquidación del Inmobiliario. Si la obra
+  no se declara en ARBA, puede generar deuda por diferencia de alícuota
+  a partir de la detección de la mejora (Ley 10.707, Código Fiscal PBA).
 
-2.10 RELEVAMIENTO PREVIO OMITIDO
+2.10 REQUISITOS ADICIONALES OMITIDOS
+
+— Sin libro de obra foliado (obligación del director de obra, exigencia
+  colegial — Colegio de Arquitectos Distrito V PBA).
+— Sin aviso de inicio de obra ante Obras Particulares (Reglamento General
+  de Construcciones PBA, práctica generalizada en municipios bonaerenses).
+— Sin inspecciones parciales durante la ejecución (Obras Particulares de
+  Merlo puede disponer inspecciones intermedias, no solo la final).
+— Sin plano de mensura actualizado (si la obra genera nuevas superficies
+  cubiertas, puede exigirse actualización catastral ante el Departamento
+  de Catastro Municipal y el Catastro Provincial — Ley 10.707 PBA).
+— Sin verificación de que las aceras del inmueble estén en buen estado
+  durante y después de la obra (exigencia normativa municipal de Merlo).
+
+2.11 RELEVAMIENTO PREVIO OMITIDO
 
 El denunciado no realizó el informe previo del estado del inmueble afectado.
 Antes de comenzar la obra se debe relevar el estado del consorcio con fotos
@@ -417,11 +449,21 @@ SECCIÓN 6 — ZONAS DE INCERTIDUMBRE
    causados a TERCEROS por obras (no al propio inmueble del deudor).
 6. La jurisprudencia específica de la Cámara de Morón (Salas I y II)
    en daños por obra clandestina lindera.
+   (Ver jurisprudencia de demolición en copropiedad en archivo 48, Parte VIII.)
 7. Montos actualizados de daño moral y psicofísico 2025-2026.
 8. Vigencia del texto de normas CAPBA (régimen disciplinario).
 9. Zonificación específica del inmueble en Merlo (alturas máximas, FOT/FOS).
-10. Estado actual de AySA post-Decreto 805/2025.
+10. Estado actual de AySA post-Decreto 805/2025: el proceso de privatización
+    puede implicar cambios en trámites, plazos y costos.
 11. Adopción formal de CIRSOC 101-2005 por el Municipio de Merlo.
+12. Empresa distribuidora de gas en Merlo: puede ser MetroGAS u otra.
+13. Requisitos específicos de Bomberos de Merlo para visado de planos de
+    seguridad contra incendio (ver archivo 49, sección 4).
+
+REFERENCIA: Ver archivo 49 para la CLASIFICACIÓN de los 19 requisitos por
+tipo y gravedad de infracción (falta grave, falta administrativa,
+contravención civil, omisión tributaria) y la SECUENCIA CRONOLÓGICA legal
+que debió seguirse.
 
 ================================================================================
 FIN DEL ARCHIVO 43 — INCUMPLIMIENTOS, DAÑOS Y RUBROS INDEMNIZATORIOS

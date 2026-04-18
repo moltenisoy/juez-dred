@@ -781,3 +781,22 @@ EJES TRANSVERSALES ADICIONALES:
 
 12. PERICIAS REALES, JURISPRUDENCIA CON CASOS CONCRETOS Y FUENTES
     → Archivos: 48
+
+13. CLASIFICACIÓN DE REQUISITOS POR TIPO DE INFRACCIÓN Y SECUENCIA CONSTRUCTIVA
+    → Archivos: 49
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+49_CLASIFICACION_REQUISITOS_Y_SECUENCIA_CONSTRUCTIVA.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Clasificación de Requisitos por Tipo de Infracción y Secuencia
+Constructiva Legal Obligatoria
+EJES TEMÁTICOS:
+  • 19 requisitos clasificados por tipo y gravedad de infracción
+  • Tipos: falta grave (7), falta administrativa (4), contravención civil (3),
+    omisión tributaria (2), falta técnica (1), contravención registral (1)
+  • Consecuencias jurídicas específicas por cada omisión
+  • Sellados y tasas adicionales omitidos (H1-H6)
+  • Secuencia cronológica legal obligatoria (9 pasos)
+  • Requisitos de seguridad contra incendio para nueva planta (N1-N4)
+  • 5 argumentos estratégicos derivados de requisitos omitidos
+  • Fuente: "requisitos super importante.txt" y "super importante.txt"

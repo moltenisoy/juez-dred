@@ -773,3 +773,80 @@ acceso: abril 10, 2026, https://www.merlo.gob.ar/contacto/
 62. TEXTO ORIGINAL - RESOLUCIÓN 503 / 2014 - MINISTERIO DE TRABAJO, EMPLEO
 Y SEGURIDAD SOCIAL | Argentina.gob.ar, fecha de acceso: abril 10, 2026,
 https://www.argentina.gob.ar/normativa/nacional/227747/tex
+
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — ANÁLISIS DE VERSIONES CIRSOC Y ACLARACIÓN CONCEPTUAL
+(Fuente: Archivo "super importante.txt")
+================================================================================
+
+I. ACLARACIÓN CONCEPTUAL — ¿QUÉ ES LA "LOSA FLOTANTE" EN ESTE CASO?
+
+En el contexto del expediente, la "losa flotante" hace referencia a la losa
+de cubierta de la planta baja existente, sobre la que se pretende construir
+la nueva planta alta. Esta losa fue diseñada como CUBIERTA (con sobrecargas
+de mantenimiento bajas) y ahora pretende transformarse en ENTREPISO (con
+sobrecargas residenciales plenas). Este cambio de destino es el NÚCLEO del
+problema estructural.
+
+La referencia a "cargas superiores a 700 kg" del caso es una expresión
+coloquial no estandarizada. En términos CIRSOC, la situación real es que la
+losa existente (diseñada para ~1,00 kN/m² de sobrecarga) debería soportar,
+con la planta alta, entre 7,00 y 9,40 kN/m² de carga total combinada
+(permanente + variable). Esa carga total es entre 7 y 9 VECES la sobrecarga
+para la que fue originalmente calculada la cubierta, sin contar el peso
+propio de la losa existente.
+
+II. EDICIONES Y VERSIONES DEL CIRSOC 101
+
+— CIRSOC 101 (edición 1982): Versión original. Establece para cubiertas
+  inaccesibles con inclinación menor a 3° la sobrecarga de 1,00 kN/m².
+
+— CIRSOC 101 (edición 2005): Reemplazó a la de 1982. Fue desarrollada
+  adoptando como base los capítulos 3 y 4 del documento ASCE 7 (norma
+  americana), adaptado a la realidad argentina por el INTI-CIRSOC. Incorpora
+  fórmulas para reducción de sobrecargas en función del área tributaria y el
+  destino, pero los valores mínimos para vivienda se mantienen en rangos
+  similares. Es el Reglamento Argentino de Cargas Permanentes y Sobrecargas
+  Mínimas de Diseño para Edificios y otras Estructuras. Es la edición de
+  referencia nacional vigente.
+
+— CIRSOC 101 (Proyecto 2022): Edición de julio de 2022 que introduce
+  actualizaciones a la edición 2005. En proceso de adopción formal.
+
+— CIRSOC 201 (2005, actualización 2024): Estructuras de Hormigón Armado.
+  Armoniza los estándares nacionales con el código internacional ACI 318-19.
+
+Diferencia práctica clave entre ediciones:
+La edición 1982 y la 2005 difieren en el MÉTODO DE COMBINACIÓN DE CARGAS.
+La edición 2005 incorpora fórmulas para reducción de sobrecargas en función
+del área tributaria y el destino. Sin embargo, los valores mínimos para
+vivienda son similares en ambas.
+
+III. JERARQUÍA NORMATIVA CIRSOC — NIVELES NACIONAL, PROVINCIAL Y MUNICIPAL
+
+A nivel nacional:
+— El CIRSOC 101 tiene carácter de norma de referencia nacional, pero su
+  adopción obligatoria depende de cada jurisdicción.
+
+A nivel Provincia de Buenos Aires:
+— El Reglamento General de Construcciones de la PBA (Decreto 4123/72 y
+  modificatorias) establece los requisitos mínimos para toda construcción
+  en el territorio provincial. Dicho reglamento remite a las normas CIRSOC
+  para el cálculo estructural.
+— La Provincia NO tiene un código de construcción unificado independiente
+  de los municipios para la aplicación de CIRSOC en edificios residenciales
+  de baja altura.
+
+A nivel Partido de Merlo:
+— El Partido de Merlo aplica el Reglamento General de Construcciones
+  provincial (Decreto 4123/72) con las ordenanzas locales que lo complementan.
+— ⚠️ VERIFICACIÓN PENDIENTE: No se pudo verificar qué edición del CIRSOC 101
+  ha adoptado formalmente el partido de Merlo. En la práctica, las Direcciones
+  de Obras Particulares bonaerenses suelen aceptar la edición 2005 como
+  referencia estándar. Los ingenieros calculistas presentan memorias de
+  cálculo usando la edición 2005 y esta es aceptada por el municipio, pero
+  no se confirmó una ordenanza de Merlo que la adopte expresamente.
+— ⚠️ VERIFICACIÓN PENDIENTE: La versión 2024 del CIRSOC 201 está en proceso
+  de adopción formal. No se confirmó si la Dirección de Obras Particulares
+  de Merlo ya lo exige para memorias de cálculo presentadas en 2025/2026.

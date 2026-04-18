@@ -1,0 +1,365 @@
+================================================================================
+ARCHIVO 49 — CLASIFICACIÓN DE REQUISITOS POR TIPO DE INFRACCIÓN
+Y SECUENCIA CONSTRUCTIVA LEGAL OBLIGATORIA
+CASO: OBRA DE AMPLIACIÓN EN COPROPIEDAD — MERLO, PBA
+FUENTE: Archivos "super importante.txt" y "requisitos super importante.txt"
+ELABORADO: ABRIL 2026 — SISTEMA JUEZ-DRED
+================================================================================
+
+⚠️ ADVERTENCIA: Este documento es orientación jurídica general. NO reemplaza
+el criterio de un abogado matriculado. Toda cita debe verificarse en fuente
+original antes de incorporarse a escrito judicial.
+
+================================================================================
+SECCIÓN 1 — CLASIFICACIÓN DE 19 REQUISITOS POR TIPO Y GRAVEDAD DE INFRACCIÓN
+================================================================================
+
+Cada requisito omitido por el demandado se clasifica según el TIPO de
+infracción que configura y la CONSECUENCIA JURÍDICA específica de su
+incumplimiento. Esta clasificación permite al abogado presentar cada omisión
+como una infracción autónoma con fundamentación normativa diferenciada.
+
+TIPOS DE INFRACCIÓN:
+— Falta grave: puede derivar en clausura, demolición o suspensión de servicios.
+— Falta administrativa: genera rechazo de trámite, recargos, multas menores.
+— Contravención civil: habilita acción judicial, nulidad de actos, daños.
+— Omisión tributaria: multa, recargo, imposibilidad de tramitar.
+— Contravención registral: inoponibilidad frente a terceros.
+— Falta técnica: multa y obligación de demolición/reubicación.
+
+------------------------------------------------------------------------
+
+REQUISITO 1: Obtención de Permiso de Edificación Municipal para edificación
+de planta superior (ampliación) en inmueble de copropiedad.
+TIPO: Falta grave.
+FUNDAMENTO: Ordenanza Nº 5839/21 — Código de Edificación Municipal de Merlo.
+CONSECUENCIA: Posible clausura, multa y sello "sujeto a demolición".
+
+REQUISITO 2: Presentación de planos arquitectónicos completos (plantas, cortes,
+vistas y detalles) visados por profesional matriculado.
+TIPO: Falta administrativa.
+FUNDAMENTO: Ordenanza Nº 5494 Merlo.
+CONSECUENCIA: Recargo por intimación municipal y multa.
+
+REQUISITO 3: Presentación de planos estructurales y cálculos de estructuras
+para la planta superior.
+TIPO: Falta grave.
+FUNDAMENTO: Ordenanza Nº 5839/21 Merlo.
+CONSECUENCIA: Obliga a informe técnico de estabilidad y posible demolición
+si afecta seguridad.
+
+REQUISITO 4: Informe técnico realizado por ingeniero civil sobre estabilidad
+estructural y comportamiento de la estructura existente ante la ampliación
+(incluyendo ensayo de cargas y medidas de seguridad).
+TIPO: Falta grave.
+FUNDAMENTO: Ordenanza Nº 5839/21 Merlo.
+CONSECUENCIA: Rechazo del trámite y clausura.
+
+REQUISITO 5: Consentimiento unánime de los 3 copropietarios (asamblea y
+escritura pública) para sobreelevación que afecta partes comunes o
+porcentuales de dominio.
+TIPO: Contravención civil.
+FUNDAMENTO: Ley Nacional 13.512 de Propiedad Horizontal (prevalente sobre
+normativa municipal) — art. 7 Ley 13.512.
+CONSECUENCIA: Nulidad de obra y acción judicial.
+
+REQUISITO 6: Modificación del Reglamento de Copropiedad si genera nuevas
+unidades funcionales o altera porcentajes (mayoría 2/3 o unánime según caso,
+con inscripción registral).
+TIPO: Contravención civil.
+FUNDAMENTO: Ley Nacional 13.512 y Decreto 2080/80.
+CONSECUENCIA: No inscribible y oponible.
+
+REQUISITO 7: Pago de Derechos de Construcción según Ordenanza Fiscal
+Tarifaria Nº 5494 (cálculo por m² y coeficientes de zonificación, más
+declaración jurada de valor de obra).
+TIPO: Omisión tributaria (falta grave).
+CONSECUENCIA: Multa hasta 100% del gravamen + recargo por presentación
+espontánea o por intimación.
+
+REQUISITO 8: Solicitud y verificación de líneas y niveles comunales por la
+Dirección de Obras Particulares de Merlo.
+TIPO: Falta.
+FUNDAMENTO: Ordenanza Nº 742/16 Merlo.
+CONSECUENCIA: Multa y paralización de obra.
+
+REQUISITO 9: Permiso específico para modificación de la instalación de
+ingreso de agua corriente (sanitaria) y certificado de aptitud hidráulica
+AySA.
+TIPO: Falta grave.
+FUNDAMENTO: Normativa municipal Merlo y AySA provincial.
+CONSECUENCIA: Posible clausura, multa y suspensión de servicio.
+
+REQUISITO 10: Acuerdo escrito y notarial con propietario vecino lindero
+para modificaciones en su inmueble y reubicación del tanque cisterna de
+750 litros (cumpliendo distancias medianeras Código Civil y Comercial).
+TIPO: Contravención civil.
+FUNDAMENTO: Arts. 2007 y ss. Código Civil y Comercial de la Nación
+(prevalente sobre normativa municipal).
+CONSECUENCIA: Acción de medianería y daños.
+
+REQUISITO 11: Plano y cálculo estructural de losa flotante para reubicación
+del tanque cisterna de 750 litros (incluyendo detalles de impermeabilización,
+anclaje y distancia mínima a medianera).
+TIPO: Falta técnica.
+FUNDAMENTO: Código de Edificación Merlo y normas provinciales.
+CONSECUENCIA: Multa y obligación de demolición/reubicación.
+
+REQUISITO 12: Estudio de interferencia de redes de servicios y certificado
+de AySA u organismo provincial para modificación de ingreso de agua
+(incluyendo informe de cambios en inmueble y planos sanitarios).
+TIPO: Falta grave.
+FUNDAMENTO: Normativa provincial y municipal.
+CONSECUENCIA: Multa y suspensión de servicio.
+
+REQUISITO 13: Certificado de libre deuda de tasas municipales y contribución
+territorial.
+TIPO: Omisión tributaria.
+CONSECUENCIA: Imposibilidad de tramitar permiso y multa.
+
+REQUISITO 14: Presentación de memoria descriptiva y cronograma de obra
+(incluyendo reubicación de tanque).
+TIPO: Falta administrativa.
+FUNDAMENTO: Ordenanza Nº 5839/21 Merlo.
+CONSECUENCIA: Rechazo de plano.
+
+REQUISITO 15: Certificado final de obra y habilitación parcial o total
+posterior a la finalización.
+TIPO: Falta grave.
+FUNDAMENTO: Ordenanza Nº 5494 Merlo.
+CONSECUENCIA: Multa y no inscripción catastral.
+
+REQUISITO 16: Cumplimiento de indicadores urbanísticos del Decreto-Ley
+Provincial 8912/77 (F.O.S. y F.O.T. prevalentes sobre normativa municipal).
+TIPO: Falta grave (provincial).
+CONSECUENCIA: Anulación del permiso municipal y demolición.
+
+REQUISITO 17: Inscripción registral de la modificación en el Registro de la
+Propiedad Inmueble (si altera dominio o crea unidad nueva).
+TIPO: Contravención registral.
+FUNDAMENTO: Ley Nacional 13.512.
+CONSECUENCIA: No oponible a terceros.
+
+REQUISITO 18: Visado por Colegio Profesional correspondiente
+(Arquitectos/Ingenieros) de todos los planos y documentación técnica.
+TIPO: Falta administrativa.
+FUNDAMENTO: Normativa municipal Merlo.
+CONSECUENCIA: Rechazo de trámite y multa.
+
+REQUISITO 19: Presentación de plano de antecedentes de la construcción
+existente.
+TIPO: Falta administrativa.
+FUNDAMENTO: Ordenanza Nº 5839/21 Merlo.
+CONSECUENCIA: Rechazo de plano.
+
+================================================================================
+RESUMEN ESTADÍSTICO DE INFRACCIONES
+================================================================================
+
+Faltas graves: 7 (Requisitos 1, 3, 4, 9, 12, 15, 16)
+Faltas administrativas: 4 (Requisitos 2, 14, 18, 19)
+Contravenciones civiles: 3 (Requisitos 5, 6, 10)
+Omisiones tributarias: 2 (Requisitos 7, 13)
+Faltas técnicas: 1 (Requisito 11)
+Contravenciones registrales: 1 (Requisito 17)
+Faltas: 1 (Requisito 8)
+TOTAL: 19 infracciones autónomas e independientes.
+
+NOTA PROCESAL: Cada una de estas 19 infracciones constituye un hecho
+antijurídico autónomo (Art. 1717 CCyC) que refuerza la responsabilidad
+del demandado. Su acumulación configura un patrón de conducta
+omisiva grave y sistemática.
+
+
+================================================================================
+SECCIÓN 2 — SELLADOS Y TASAS ADICIONALES OMITIDOS
+================================================================================
+
+Además de los derechos de construcción (ver archivo 43, sección 5.2),
+existen tasas y sellados complementarios que debieron abonarse y no fueron
+abonados:
+
+H1: Sellado por presentación de planos.
+— Monto fijo por tipo de trámite — Ordenanza Impositiva Merlo.
+
+H2: Derecho de inspección de obra.
+— Abonado por cada inspección que realice Obras Particulares.
+
+H3: Tasa por Certificado Final de Obra.
+— Emitida al aprobar la inspección final.
+
+H4: Sellado ante Colegios Profesionales.
+— Por visado de planos y contratos profesionales.
+
+H5: Tasa de servicios administrativos AySA.
+— Por trámites de factibilidad y modificación de instalaciones.
+
+H6: Contribución por mejoras (ARBA).
+— Si la obra genera aumento de la valuación fiscal, ARBA puede liquidar
+  contribución por mejoras.
+
+
+================================================================================
+SECCIÓN 3 — SECUENCIA CRONOLÓGICA LEGAL QUE DEBIÓ CUMPLIRSE
+================================================================================
+
+La obra de ampliación debió seguir obligatoriamente la siguiente secuencia.
+Su incumplimiento total agrava la calificación de la obra como clandestina.
+
+PASO 1: REUNIR DOCUMENTACIÓN DE COPROPIEDAD
+— Consentimiento escrito de los 3 copropietarios (escritura pública
+  o instrumento fehaciente).
+— Revisar y, si es necesario, modificar el Reglamento de Copropiedad
+  (con inscripción en Registro de la Propiedad).
+
+PASO 2: CONTRATAR PROFESIONALES HABILITADOS
+— Arquitecto o Ingeniero director de obra (matriculado Distrito V PBA).
+— Ingeniero Calculista (para estructura).
+— Instalador sanitarista habilitado ante ERAS.
+— Electricista matriculado ante CPIC PBA.
+— Gasista matriculado ante ENARGAS (si aplica).
+
+PASO 3: GESTIONAR FACTIBILIDAD TÉCNICA ANTE AySA
+— Solicitar factibilidad antes de diseñar definitivamente la instalación
+  de agua. AySA puede exigir como condición la ejecución de obras de
+  renovación/instalación de redes de servicios.
+— Plazo de respuesta de AySA: puede superar los 30 días.
+
+PASO 4: ELABORAR Y VISAR DOCUMENTACIÓN TÉCNICA
+— Planos de arquitectura (visados por Colegio Profesional).
+— Planos de estructura + memoria de cálculo (visados por CIPBA).
+— Planos de instalaciones sanitarias (firmados por instalador ERAS).
+— Planos de instalaciones eléctricas (firmados por electricista CPIC).
+— Planos de instalación de gas (si aplica, firmados por gasista ENARGAS).
+— Planos de seguridad contra incendio (si uso mixto).
+
+PASO 5: TRAMITAR PERMISO DE OBRA ANTE MUNICIPIO DE MERLO
+— Dirección de Obras Particulares (Av. del Libertador Gral. San Martín
+  391, Merlo).
+— Pago de Derechos de Construcción, sellados y tasas.
+— Obtención del permiso aprobado.
+— Presentar aviso de inicio de obra.
+
+PASO 6: EJECUCIÓN DE LA OBRA
+— Con ART contratada, vallado perimetral, cartel de obra.
+— Libro de Obra obligatorio (foliado, firmado en cada visita).
+— Inspecciones parciales durante la ejecución.
+— Notificación fehaciente a propietarios linderos.
+
+PASO 7: INSPECCIÓN FINAL Y CERTIFICADO DE OBRA
+— Solicitar inspección final ante Obras Particulares.
+— Obtener Certificado de Inspección Final de Obra.
+
+PASO 8: REGULARIZACIÓN ANTE AySA Y SERVICIOS
+— Presentar planos conforme a obra de instalaciones sanitarias.
+— Tramitar eventuales modificaciones de cuenta ante AySA.
+— Presentar plano conforme a obra de instalaciones eléctricas.
+— Verificación y certificación de instalación de gas (si aplica).
+
+PASO 9: ACTUALIZACIÓN ANTE ARBA Y REGISTRO DE LA PROPIEDAD
+— Presentar planos aprobados para actualización catastral (ARBA).
+— Declaratoria de construcción ante ARBA (Formulario R-550I).
+— Inscribir modificaciones del Reglamento de Copropiedad (si corresponde).
+— Plano de mensura actualizado ante Catastro Municipal y Catastro
+  Provincial (ARBA) si la obra genera nuevas superficies cubiertas.
+
+NOTA: El demandado no cumplió NINGUNO de estos 9 pasos.
+
+
+================================================================================
+SECCIÓN 4 — REQUISITOS DE SEGURIDAD CONTRA INCENDIO PARA LA NUEVA PLANTA
+================================================================================
+
+La adición de planta alta genera requisitos de seguridad contra incendio
+específicos que van más allá de la seguridad de obra (ya cubierta en archivo
+25) y se refieren al DISEÑO Y HABITABILIDAD de la nueva planta.
+
+⚠️ Los requisitos específicos de Bomberos del Partido de Merlo deben
+verificarse directamente ante el Cuartel de Bomberos local.
+
+N1: Verificación de cumplimiento de normas de protección contra incendio
+para la nueva planta: ventilación, salidas de emergencia, ancho mínimo
+de escalera de acceso.
+FUNDAMENTO: Decreto 351/79 — Higiene y Seguridad — Anexo VII; Reglamento
+General de Construcciones PBA.
+
+N2: La escalera de acceso a la planta alta debe cumplir:
+— Ancho mínimo: 0,90 m (residencial).
+— Pasamanos en ambos lados si supera 1,20 m de ancho.
+— Pendiente máxima: 42%.
+FUNDAMENTO: Reglamento General de Construcciones PBA.
+
+N3: Verificación de salida de emergencia o vía de escape alternativa si
+la planta alta tiene más de un ambiente habitado.
+FUNDAMENTO: Buenas prácticas y normativa de seguridad.
+
+N4: Si el inmueble tiene uso mixto (comercial en PB + residencial en PA):
+plano de protección contra incendio ante Bomberos.
+FUNDAMENTO: Ley provincial de Defensa Civil.
+
+
+================================================================================
+SECCIÓN 5 — ARGUMENTOS ESTRATÉGICOS DERIVADOS DE LOS REQUISITOS OMITIDOS
+================================================================================
+
+Los requisitos omitidos habilitan ARGUMENTOS ADICIONALES para la parte
+actora que refuerzan la posición procesal:
+
+5.1 ARGUMENTO ESTRUCTURAL REFORZADO CON CIRSOC:
+La nueva planta alta no solo impone cargas sobre la losa existente, sino
+que TRANSFORMA lo que era una cubierta (sobrecargas de mantenimiento del
+orden de 1,00 kN/m²) en un entrepiso residencial (sobrecargas mínimas de
+2,00 kN/m²). Esta DUPLICACIÓN de la sobrecarga de diseño requiere
+verificación estructural exhaustiva. Si el informe técnico determina que
+la losa existente no es apta, este dictamen constituye argumento
+definitivo para impedir la obra en sede judicial o administrativa.
+
+5.2 ARGUMENTO URBANÍSTICO:
+Si el promotor no puede acreditar que la planta alta es admisible según el
+Código de Ordenamiento Territorial de Merlo (FOT, altura máxima, retiros),
+la oposición puede iniciarse directamente ante la Dirección de Obras
+Particulares para que rechace el permiso, sin necesidad de intervención
+judicial.
+
+5.3 ARGUMENTO ELÉCTRICO Y DE SERVICIOS:
+La ampliación de la instalación eléctrica y eventual extensión del gas son
+instalaciones que afectan servicios comunes del inmueble si existen
+tableros generales o medidores compartidos. Los copropietarios pueden
+argumentar que cualquier modificación de esos servicios comunes requiere
+su consentimiento (art. 2052 CCC).
+
+5.4 ARGUMENTO AMBIENTAL VECINAL:
+Durante la ejecución de la obra, el ruido, vibración y polvo generados son
+contaminantes que afectan a todos los copropietarios. Si la obra se ejecuta
+sin permiso, pueden iniciar acción de daños y perjuicios por los daños
+causados durante la construcción.
+
+5.5 ARGUMENTO DE DOBLE VÍA SANCIONATORIA:
+El promotor que construye sin cumplir estos requisitos enfrenta riesgo
+simultáneo en DOS planos:
+— Municipal: La Dirección de Obras Particulares tiene facultades de policía
+  para disponer paralización cautelar y eventual demolición de obras sin
+  permiso, independientemente de la acción judicial.
+— Judicial: Los copropietarios afectados pueden demandar individualmente
+  la demolición o el cese de la obra ante el Juzgado Civil de Primera
+  Instancia (Departamento Judicial de Morón).
+
+
+================================================================================
+SECCIÓN 6 — ZONAS DE INCERTIDUMBRE
+================================================================================
+
+1. La Ordenanza Impositiva de Merlo se actualiza anualmente. Los montos
+   de sellados y alícuotas indicados son referenciales.
+2. Ordenanza Nº 742/16 de Merlo: verificar vigencia y alcance actual
+   ante la Dirección de Obras Particulares.
+3. Requisitos específicos de Bomberos del Partido de Merlo para visado
+   de planos de seguridad contra incendio.
+4. Estado actual de AySA post-Decreto 805/2025: el proceso de privatización
+   puede implicar cambios en trámites, plazos y costos.
+5. Empresa distribuidora de gas en Merlo: puede ser MetroGAS u otra.
+   El prestador exacto condiciona los requisitos de instalación de gas.
+
+================================================================================
+FIN DEL ARCHIVO 49
+================================================================================

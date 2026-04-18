@@ -401,7 +401,25 @@ SOLO SE ELIMINÓ EL CONTENIDO VERIFICADAMENTE IDÉNTICO.
      patrón de redacción de justificación técnica (5 pasos); criterios
      jurisprudenciales clave (8 criterios); bases de datos y fuentes para
      investigación; links directos a documentos PDF descargables.
-   FUENTE ORIGINAL: PERICIAS_DAÑOS_INMUEBLE_OBRA_LINDERA_BUENOS_AIRES.txt
+     PARTE VIII (nueva): Jurisprudencia sobre demolición de obras en
+     copropiedad — 5 casos (CNCiv Salas D, A, M; legitimación individual
+     del copropietario; GCBA Balvanera). Criterio dominante: demolición
+     como regla; excepción de equidad no aplicable a planta alta.
+   FUENTES: PERICIAS_DAÑOS_INMUEBLE_OBRA_LINDERA_BUENOS_AIRES.txt,
+   "super importante.txt"
+
+49_CLASIFICACION_REQUISITOS_Y_SECUENCIA_CONSTRUCTIVA.txt
+   → Clasificación de 19 requisitos por tipo y gravedad de infracción (falta
+     grave, falta administrativa, contravención civil, omisión tributaria,
+     falta técnica, contravención registral) con fundamento normativo y
+     consecuencia jurídica de cada omisión. Resumen estadístico: 7 faltas
+     graves, 4 administrativas, 3 contravenciones civiles, 2 omisiones
+     tributarias, 1 falta técnica, 1 contravención registral.
+     Secuencia cronológica legal obligatoria (9 pasos) que debió cumplirse.
+     Sellados y tasas adicionales omitidos (H1-H6).
+     Requisitos de seguridad contra incendio para la nueva planta (N1-N4).
+     Argumentos estratégicos derivados de los requisitos omitidos (5 args).
+   FUENTES: "requisitos super importante.txt", "super importante.txt"
 
 ================================================================================
               ARCHIVOS EXISTENTES COMPLEMENTADOS (18/04/2026)

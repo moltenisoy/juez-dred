@@ -729,5 +729,137 @@ FALLOS JUDICIALES COMPLETOS:
 
 
 ================================================================================
+PARTE VIII — JURISPRUDENCIA SOBRE DEMOLICIÓN DE OBRAS EN COPROPIEDAD
+(Fuente: Archivo "super importante.txt")
+================================================================================
+
+Estos precedentes son específicos de conflictos en COPROPIEDAD (propiedad
+horizontal) donde un copropietario construyó sin autorización. Son
+directamente relevantes al caso de Merlo porque el inmueble está bajo
+régimen de copropiedad con tres titulares.
+
+----------------------------------------------------------------------
+CASO A: CNCiv Sala D — Demolición de construcciones antirreglamentarias
+         en unidad funcional
+----------------------------------------------------------------------
+Tribunal:    Cámara Nacional de Apelaciones en lo Civil, Sala D
+Jurisdicción: CABA (doctrina orientadora, no vinculante para Morón)
+
+HECHOS Y RESOLUCIÓN:
+  - Confirmó condena a demoler construcciones antirreglamentarias
+    existentes en una unidad funcional.
+  - El propietario JAMÁS solicitó la aprobación de los consorcistas
+    para la modificación de la unidad.
+  - Tampoco realizó los trámites municipales correspondientes.
+
+RELEVANCIA PARA EL CASO: Establece que la ausencia de consentimiento
+de copropietarios Y de permisos municipales fundamenta conjuntamente
+la orden de demolición.
+
+FUENTE: ACAPPH (Asociación Civil Argentina de Propiedad Horizontal).
+
+----------------------------------------------------------------------
+CASO B: CNCiv Sala A — Demolición de pileta/jacuzzi sin autorización
+         del consorcio
+----------------------------------------------------------------------
+Tribunal:    Cámara Nacional de Apelaciones en lo Civil, Sala A
+Jurisdicción: CABA (doctrina orientadora)
+
+HECHOS Y RESOLUCIÓN:
+  - Ordenó la demolición de una pileta/jacuzzi instalada en una
+    unidad funcional sin autorización del administrador y/o de la
+    asamblea de copropietarios.
+  - Destacó que NO EXISTÍAN suficientes elementos probatorios sobre
+    la INEXISTENCIA de riesgo estructural en el edificio como
+    consecuencia de su instalación.
+
+RELEVANCIA PARA EL CASO: La AUSENCIA de acreditación del no-riesgo
+estructural inclinó la balanza hacia la demolición. En el caso de una
+planta alta con cargas sobre losa existente (7 a 9 veces la sobrecarga
+de diseño original), la inexistencia de un informe estructural que
+acredite la aptitud de la losa es un argumento demoledor para los
+copropietarios oponentes.
+
+FUENTE: Microjuris Argentina al Día.
+
+----------------------------------------------------------------------
+CASO C: CNCiv Sala M — Excepción de equidad (obra no perjudicial)
+----------------------------------------------------------------------
+Tribunal:    Cámara Nacional de Apelaciones en lo Civil, Sala M
+Jurisdicción: CABA (doctrina orientadora)
+
+HECHOS Y RESOLUCIÓN:
+  - Se apartó excepcionalmente del principio de demolición.
+  - Condiciones para la excepción: la obra NO afecta la salubridad ni
+    la seguridad del edificio, NO origina inconvenientes a las otras
+    unidades y NO perjudica al consorcio.
+
+⚠️ ADVERTENCIA CRÍTICA: Esta excepción de equidad NO aplica al caso de
+la planta alta analizado, por las siguientes razones acumuladas:
+  1) La planta alta MODIFICA estructuralmente el inmueble de manera
+     sustancial (art. 2052 CCC — criterio de unanimidad).
+  2) GENERA cargas sobre la losa existente que afectan a todos los
+     copropietarios (7 a 9 veces la sobrecarga original).
+  3) MODIFICA la fachada y la imagen exterior del inmueble.
+  4) Puede ALTERAR los coeficientes de copropiedad.
+  5) Es una modificación de envergadura mayor, no una obra menor.
+
+FUENTE: Microjuris Argentina al Día.
+
+----------------------------------------------------------------------
+CASO D: Legitimación individual del copropietario
+----------------------------------------------------------------------
+Jurisdicción: Jurisprudencia no uniforme
+
+CRITERIO: Se admite la legitimación individual de un copropietario
+para actuar en defensa de sus intereses cuando la actividad
+antifuncional afecta sus prerrogativas comunitarias, más allá de que
+también esté legitimado el administrador del consorcio.
+
+APLICACIÓN AL CASO: En Merlo, con tres copropietarios, CUALQUIERA de
+los dos que no promueve la obra puede demandar individualmente la
+demolición o el cese de la obra ante el Juzgado Civil de Primera
+Instancia con competencia en el Departamento Judicial de Morón.
+
+FUENTE: Liga del Consorcista.
+
+----------------------------------------------------------------------
+CASO E: Demolición de construcción ilegal — GCBA / Balvanera
+----------------------------------------------------------------------
+Jurisdicción: CABA (doctrina orientadora)
+
+HECHOS Y RESOLUCIÓN:
+  - Un juez ordenó al GCBA disponer la demolición de una construcción
+    ilegal en Balvanera.
+  - Destacó que la INEXISTENCIA de un plano de construcción y de
+    "estructura resistente" permite presumir que la construcción NO
+    es soportable por los cimientos del edificio.
+  - Se trata de una obra clandestina, sin aprobación por plano, previa
+    o posterior a su construcción.
+
+RELEVANCIA PARA EL CASO: El municipio (Merlo) tiene facultades de
+policía para disponer paralización cautelar y eventual demolición de
+obras sin permiso, INDEPENDIENTEMENTE de la acción judicial de los
+copropietarios. Esto significa que el riesgo del promotor opera en DOS
+planos simultáneos: el municipal y el judicial.
+
+FUENTE: iJudicial.
+
+----------------------------------------------------------------------
+CRITERIO GENERAL DOMINANTE:
+La DEMOLICIÓN es la regla. La excepción de equidad solo aplica cuando
+la obra es menor, no afecta estructura, salubridad ni seguridad, y no
+perjudica al consorcio. Agregar una planta alta no encuadra en la
+excepción.
+----------------------------------------------------------------------
+
+⚠️ NOTA JURISDICCIONAL: Los precedentes citados son de la Cámara
+Nacional Civil de CABA, aplicables como doctrina orientadora pero no
+como precedente vinculante para los tribunales del Departamento
+Judicial de Morón. No se encontraron fallos específicos de la Cámara
+de Morón sobre demolición de obras en copropiedad en las fuentes
+consultadas.
+
+================================================================================
 FIN DEL ARCHIVO 48
 ================================================================================
