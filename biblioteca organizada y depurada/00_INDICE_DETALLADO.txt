@@ -730,3 +730,54 @@ Los siguientes ejes aparecen en múltiples archivos de la biblioteca:
 ================================================================================
                     FIN DEL ÍNDICE DETALLADO
 ================================================================================
+
+================================================================================
+               SECCIÓN K — ARCHIVOS NUEVOS (18/04/2026)
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+47_DETERIORO_MEMBRANA_PRESION_HIDRAULICA.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Deterioro de Membrana Asfáltica por Agua Estancada, Normativa de
+Desagüe Pluvial y Presión Hidráulica en Instalaciones Domiciliarias
+EJES TEMÁTICOS:
+  • Deterioro de membrana asfáltica por agua estancada (procesos físicos
+    y químicos: peso, temperatura, condensación, filtración, erosión,
+    oxidación, carbonatación, corrosión, delaminación)
+  • Evolución del daño en el tiempo (corto, mediano, largo plazo)
+  • Reparabilidad y criterios técnicos (<30% vs. >40% del área)
+  • Consecuencias de la penetración del agua (aislamiento, forjado,
+    armaduras, filtraciones interiores)
+  • Normativa de desagüe pluvial: Decreto-Ley 8912/77, AySA AMBA,
+    separación obligatoria pluvial/cloacal
+  • Presión hidráulica: Principio de Bernoulli, ecuación Darcy-Weisbach
+  • Impacto de presión excesiva en válvulas de flotador, tanques y
+    cañerías (golpe de ariete)
+  • Vinculación jurídica con Arts. 1737-1739, 1726, 1757-1758, 2630 CCCN
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+48_PERICIAS_REALES_JURISPRUDENCIA_CASOS.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TÍTULO: Pericias Reales, Jurisprudencia con Casos Concretos y Fuentes
+Descargables — Daños a Inmuebles por Obra Lindera, PBA 2021-2026
+EJES TEMÁTICOS:
+  • 6 casos judiciales reales con pericias (Beltrandi 2025, Quilmes 2024,
+    Medina c/ Villanueva, Ferro c/ Cometta 2023, Necochea 2022, CIJ/CSJN)
+  • 3 textos periciales reales transcriptos (Pessutti c/ Menefrega,
+    informe vivienda lindera, fisuras medianera)
+  • Estructura estándar del informe pericial (9 secciones)
+  • Patrón de redacción de justificación técnica (5 pasos con ejemplos)
+  • 8 criterios jurisprudenciales clave (responsabilidad solidaria y
+    objetiva, valor de prueba pericial, rubros, intereses, defensa de
+    preexistencia, acta notarial, normativa aplicable)
+  • Bases de datos: JUBA, ElDial, CIJ, Biblioteca Todo el Derecho,
+    Actualidad Jurídica Online, uDocz, Studocu
+  • 11 links directos a documentos PDF descargables
+
+EJES TRANSVERSALES ADICIONALES:
+
+11. DETERIORO DE MEMBRANA Y PRESIÓN HIDRÁULICA
+    → Archivos: 47
+
+12. PERICIAS REALES, JURISPRUDENCIA CON CASOS CONCRETOS Y FUENTES
+    → Archivos: 48
