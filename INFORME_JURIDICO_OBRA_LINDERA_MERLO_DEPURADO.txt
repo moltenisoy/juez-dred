@@ -1,0 +1,530 @@
+================================================================================
+INFORME JURIDICO DEPURADO - DANOS POR OBRA CLANDESTINA LINDERA
+Merlo, Provincia de Buenos Aires
+Fecha de elaboracion: 18 de abril de 2026
+================================================================================
+
+ADVERTENCIA PRELIMINAR: El siguiente informe ha sido depurado para eliminar
+toda informacion no verificable, proyecciones sin base empirica o datos
+inferidos por el modelo de IA. Se mantienen unicamente datos extraidos de
+fuentes consultadas en la investigacion. Donde no se dispuso de informacion
+especifica, se indica expresamente "INFORMACION NO VERIFICADA EN FUENTES
+CONSULTADAS".
+
+================================================================================
+1. CUANTIFICACION MONETARIA DE RUBROS INDEMNIZATORIOS
+================================================================================
+
+a) Normativa aplicable:
+- Arts. 1738, 1739, 1740, 1741 y 1746 del Codigo Civil y Comercial de la Nacion
+  (Ley 26.994).
+- Art. 165 del Codigo Procesal Civil y Comercial de la Provincia de Buenos Aires
+  (CPCCPBA): faculta al juez a fijar el importe conforme a reglas de la sana
+  critica.
+
+b) Jurisprudencia relevante verificada:
+
+Rubro: DANO MATERIAL (emergente)
+Fuente: Juzgado Nacional de Primera Instancia en lo Civil CNBariloche, sentencia
+SGU-5aecfc4f (2025) - Caso de obra lindera/medianeria.
+Monto otorgado: $16.473.648 (incluye materiales, mano de obra, IVA, gastos
+  generales 30%, proyecto y direccion 7%, honorarios profesionales 9%).
+Nota: Este fallo es de jurisdiccion nacional, no PBA, pero constituye
+  referencia reciente en materia de obra lindera.
+
+Rubro: DANO MORAL, DANO PSICOLOGICO Y LUCRO CESANTE
+Fuente: Camara de Apelacion en lo Civil y Comercial de Quilmes, Sala II,
+  causa "G.E.A. c/ N.A. S.A." (Expte. 25.184), ano 2022.
+Montos originales de sentencia (2022, NO actualizados a 2026):
+  - Dano moral: $170.000 (los actores reclamaban $1.455.000).
+  - Dano psicologico (5% incapacidad): $50.000 (los actores reclamaban
+    $428.000).
+  - Lucro cesante: RECHAZADO por falta de prueba.
+Nota: Estos montos corresponden al ano 2022 y deben ser actualizados por el
+  tribunal aplicando indices IPC o tasa activa segun criterio de cada sala.
+  NO se dispone de montos actualizados a 2026 para estos rubros en PBA.
+
+Rubro: PERDIDA DE CHANCE
+Fuente: Suprema Corte de Justicia de Buenos Aires (SCBA), causa "Vilar,
+  Jonathan Marcelo c/ Sesa Internacional S.A." (2022).
+Criterio: Se indemniza la probabilidad perdida, no la ganancia frustrada.
+  Se rechaza la aplicacion pura de formulas matematicas sin valoracion de
+  circunstancias personales.
+Fuente adicional: SCBA, causa "Lemacha, Juan Carlos s/ Danos y Perjuicios"
+  (2022).
+Nota: NO se dispone de tabla de montos especificos para perdida de chance en
+  obra lindera en PBA 2023-2026.
+
+Rubro: DEPRECIACION DE INMUEBLE
+INFORMACION NO VERIFICADA EN FUENTES CONSULTADAS para obra lindera en PBA
+2023-2026. No se localizaron sentencias con montos especificos por este
+concepto en el periodo solicitado.
+
+c) Informacion practica verificada:
+- La valuacion de dano material por obra lindera en el fallo Bariloche 2025
+  incluyo: materiales + mano de obra + IVA + 30% gastos generales + 7%
+  proyecto/direccion + 9% honorarios profesionales.
+- Los baremos medicos (Decreto 659/96) son referenciales pero no vinculantes;
+  el juez puede apartarse fundadamente (SCBA 2022).
+
+d) Fuentes consultadas:
+- SCBA, sentencia G.E.A. c/ N.A. S.A. (Expte. 25.184), Sala II Camara
+  Apelacion Quilmes, 2022.
+- Poder Judicial de la Nacion, sentencia SGU-5aecfc4f (obra lindera/medianeria),
+  Juzgado Nacional CNBariloche, 2025.
+- SCBA, "Vilar, Jonathan Marcelo c/ Sesa Internacional S.A.", 2022.
+- SCBA, "Lemacha, Juan Carlos y otro/a s/ Danos y Perj.", 2022.
+
+================================================================================
+2. CRONOLOGIA MODELO PARA DANO CONTINUADO
+================================================================================
+
+a) Normativa aplicable:
+- Art. 2571 Codigo Civil y Comercial: accion personal por dano civil prescribe
+  en 3 anos desde que el damnificado tuvo o debio tener conocimiento del dano
+  y de su autor.
+- Art. 2573 Codigo Civil y Comercial: cuando el hecho produce un dano continuo,
+  el plazo corre desde la cesacion del hecho o la manifestacion del dano.
+
+b) Jurisprudencia relevante:
+INFORMACION NO VERIFICADA EN FUENTES CONSULTADAS para jurisprudencia especifica
+ de PBA 2023-2026 sobre requisitos de acreditacion de cronologia de dano
+ continuado en obra lindera.
+
+c) Informacion practica - Modelo de linea de tiempo (estructura procesal
+general basada en normativa vigente):
+
+HITO 1: Inicio de la obra clandestina (Fecha cero)
+  Evidencia sugerida: Fotografias fechadas, testimoniales.
+
+HITO 2: Primeras manifestaciones de dano (+ X dias)
+  Evidencia sugerida: Fotos de filtraciones/grietas, mensajes al vecino.
+
+HITO 3: Denuncia municipal
+  Evidencia sugerida: Presentacion ante Direccion de Obras Privadas de Merlo,
+  solicitud de numero de expediente.
+
+HITO 4: Consulta medica inicial
+  Evidencia sugerida: Historia clinica con relacion causal explicita.
+
+HITO 5: Acta notarial de constatacion
+  Evidencia sugerida: Documento notarial con estado de situacion antes de que
+  desaparezcan los danos.
+
+HITO 6: Medidas preliminares (Art. 323 CPCC)
+  Evidencia sugerida: Solicitud judicial previa para obtener informacion sobre
+  responsables.
+
+HITO 7: Interposicion de demanda
+  Plazo: Dentro de 3 anos desde ultima manifestacion del dano o cesacion del
+  hecho (Art. 2573 CCCN).
+
+Nota: Los hitos son sugerencias procesales basadas en la normativa general.
+No constituyen jurisprudencia especifica ni obligacion legal de seguirlos en
+ese orden exacto.
+
+d) Fuentes consultadas:
+- Arts. 2571 y 2573 Codigo Civil y Comercial de la Nacion.
+
+================================================================================
+3. IDENTIFICACION DE RESPONSABLES EN OBRA CLANDESTINA
+================================================================================
+
+a) Normativa aplicable:
+- Ley de Obras Publicas y Codigo de Edificacion local de Merlo (texto no
+  localizado en fuentes digitales publicas).
+- Art. 323 CPCCPBA (Diligencias Preliminares): permite preparar el proceso
+  solicitando declaracion jurada sobre hechos relativos a la personalidad o
+  exhibicion de documentos.
+- Art. 323 inc. 6 CPCC (Nacion): posibilidad de requerir que quien ocupe el
+  inmueble exprese a que titulo lo hace. Analogia procesal aplicable.
+
+b) Jurisprudencia relevante:
+INFORMACION NO VERIFICADA EN FUENTES CONSULTADAS sobre sentencias especificas
+ de PBA que apliquen mecanismos de identificacion en obra clandestina.
+
+c) Informacion practica:
+
+Mecanismo: OFICIOS A COLEGIOS PROFESIONALES
+  Procedimiento: CPAU/CPICPBA/CAPM.
+  Detalle: Solicitar listado de matriculados con planos en la zona. Nota: En
+  obra clandestina probablemente no figuren profesionales.
+
+Mecanismo: INFORME MUNICIPAL
+  Procedimiento: Direccion de Obras Privadas de Merlo.
+  Detalle: Requerir copia de expediente municipal, inspecciones, actas de
+  intimacion. Si no existe permiso, acredita caracter clandestino.
+
+Mecanismo: PRUEBA TESTIMONIAL
+  Procedimiento: Testigos de la obra.
+  Detalle: Albaceas, vecinos, proveedores de materiales que identifiquen al
+  constructor/director.
+
+Mecanismo: MEDIDAS PRELIMINARES ART. 323 CPCCPBA
+  Procedimiento: Antes de la demanda.
+  Detalle: Solicitar al juez declaracion jurada del propietario lindero sobre
+  quien construye; exhibicion de contratos; constitucion de domicilio.
+
+d) Fuentes consultadas:
+- Microjuris, "Las diligencias preliminares", 2018 (doctrina general).
+- Infoleg, Codigo Procesal Civil y Comercial de la Nacion, Art. 323.
+- Studocu, modelo Medida Preliminar Art. 323 inc. 6 CPCC (fuente academica).
+
+================================================================================
+4. PROCEDIMIENTO DE DENUNCIA MUNICIPAL EN MERLO
+================================================================================
+
+a) Normativa aplicable:
+- Ordenanza Municipal de Merlo sobre obras particulares (texto completo NO
+  localizado en fuentes publicas digitales).
+- Codigo Fiscal PBA (Ley 10.397 TO 2011): facultades de control municipal.
+- Ley de Procedimiento Administrativo Comun de PBA: plazos generales de
+  respuesta administrativa (30 dias).
+
+b) Jurisprudencia relevante:
+INFORMACION NO VERIFICADA EN FUENTES CONSULTADAS sobre sentencias especificas
+ relacionadas con inaccion municipal de Merlo en obras clandestinas.
+
+c) Informacion practica:
+
+Aspecto: AREA RESPONSABLE
+  Detalle: Secretaria de Obras y Servicios Publicos / Direccion de Obras
+  Privadas.
+
+Aspecto: CONTACTO
+  Detalle verificado en fuente web: Tel. 0220-483-4265 (Secretaria Obras Merlo).
+  Delegaciones: 0220-485-1421 / 485-2001 / 486-6930 (datos publicados en web
+  oficial merlo.gob.ar).
+  ADVERTENCIA: Los telefonos pueden haber sido modificados. Se recomienda
+  verificacion previa a su uso.
+
+Aspecto: FORMULARIO
+  Detalle: NO se localizo formulario especifico online para Merlo en periodo
+  2025-2026. Se recomienda presentar denuncia por escrito con: datos del
+  denunciante; ubicacion exacta; descripcion de obra irregular; fotografias;
+  solicitud de inspeccion.
+
+Aspecto: PLAZO LEGAL DE RESPUESTA
+  Detalle: NO regulado especificamente en ordenanza visible. La Ley de
+  Procedimiento Administrativo Comun de PBA establece plazos generales de
+  30 dias para responder tramites administrativos.
+
+Aspecto: CONSECUENCIAS DE LA INACCION
+  Detalle: Posible accion de amparo o medida cautelar contra el municipio; en
+  juicio civil, la denuncia acredita conocimiento del hecho.
+
+Aspecto: RECURSOS
+  Detalle: Apelacion ante Ejecutivo Municipal; denuncia ante Defensoria del
+  Pueblo de PBA; accion judicial de cumplimiento.
+
+d) Fuentes consultadas:
+- InfoMerlo, nota "Clausuran construccion clandestina", 2016.
+- merlo.gob.ar, seccion Contacto/Delegaciones (datos telefonicos).
+- Red social oficial MerloGob, datos Secretaria Obras.
+
+================================================================================
+5. INFORME PSICOLOGICO/PSIQUIATRICO COMO PRUEBA
+================================================================================
+
+a) Normativa aplicable:
+- Arts. 474 y ss. CPCCPBA: regimen de peritos.
+- Ley 23.660 (Salud Mental): derechos de personas con padecimiento mental;
+  informes judiciales deben respetar dignidad.
+- Arts. 1738 y 1741 CCCN: dano psicologico como consecuencia no patrimonial.
+
+b) Jurisprudencia relevante:
+- Camara Apelacion Quilmes, Sala II, "G.E.A. c/ N.A. S.A." (2022): valoro
+  dictamen de perito psiquiatra (no observado por partes) para fijar
+  incapacidad psiquica en 5%.
+- SCBA y Camaras Civiles PBA admiten informes periciales si cumplen requisitos
+  de idoneidad y nexo causal (criterio general, no sentencia especifica
+  adicional encontrada).
+
+c) Informacion practica:
+
+Requisito: QUIEN EMITE
+  Detalle: Psicologo/psiquiatra con titulo habilitante; preferentemente
+  colegiado. Idealmente matriculado en Colegio de Psicologos de PBA o con
+  especializacion forense.
+
+Requisito: FORMATO
+  Detalle: Datos identificativos, metodologia (entrevistas, pruebas
+  psicometricas), analisis documental, resultados, conclusiones con fundamento
+  cientifico.
+
+Requisito: CIE-10 / DSM-5
+  Detalle: Debe citar codigos CIE-10 o criterios DSM-5 para diagnostico.
+  Ejemplos: trastorno de ansiedad generalizada (F41.1), trastorno de estres
+  postraumatico, etc.
+
+Requisito: RELACION CAUSAL
+  Detalle: Debe explicitar nexo entre cuadro diagnostico y hecho danoso (obra
+  lindera, humedad, ruidos), descartando otras causas.
+
+Requisito: BAREMOS
+  Detalle: NO existen baremos obligatorios en PBA para dano psicologico en
+  obra lindera. Se utilizan referencialmente baremos incapacidad laboral
+  (Decreto 659/96) pero el juez puede apartarse (SCBA 2022).
+
+d) Fuentes consultadas:
+- Camara Apelacion Quilmes, Sala II, "G.E.A. c/ N.A. S.A.", 2022.
+- Peritojudicial.com, "El Informe Pericial Psicologico", 2024 (doctrina).
+- SCBA, "Lemacha, Juan Carlos s/ Danos", 2022.
+
+================================================================================
+6. HISTORIAL CLINICO Y PRUEBA MEDICA
+================================================================================
+
+a) Normativa aplicable:
+- Ley 26.529 (Derechos del Paciente): historia clinica es propiedad del
+  paciente; derecho a acceso y copia.
+- Arts. 474 y ss. CPCCPBA: pericias medicas.
+- Arts. 1738/1741 CCCN: indemnizacion de danos a la salud psicofisica.
+
+b) Jurisprudencia relevante:
+- Camara Civil Quilmes, "G.E.A. c/ N.A. S.A." (2022): reconocio dano
+  psicologico derivado de obra lindera basado en dictamen perito psiquiatra.
+- INFORMACION NO VERIFICADA: No se localizaron sentencias especificas PBA
+  2023-2026 sobre danos respiratorios/alergicos por humedad en vivienda.
+
+c) Informacion practica:
+
+Estudio: HISTORIAL CLINICO COMPLETO
+  Finalidad: Acreditar antecedentes previos y tratamientos posteriores.
+  Solicitar bajo Ley 26.529.
+
+Estudio: ESTUDIOS RESPIRATORIOS
+  Finalidad: Espirometria, radiografia de torax. Descartar asma, bronquitis,
+  neumonitis.
+
+Estudio: ESTUDIOS ALERGICOS
+  Finalidad: Test de alergia, IgE, pruebas cutaneas para moho/hongos.
+
+Estudio: PERICIA MEDICA
+  Finalidad: Diagnostico CIE-10; relacion causal con humedad/moho;
+  porcentaje incapacidad (referencial); tratamiento.
+
+Estudio: PERICIA AMBIENTAL (complementaria)
+  Finalidad: Analizar muestras de aire/material para identificar especies de
+  moho (Aspergillus, etc.) y correlacionar con cuadro clinico.
+  Nota: La OMS y el Institute of Medicine establecen vinculo entre
+  humedad/moho e infecciones respiratorias, asma, rinitis alergica. La pericia
+  debe trasladar estos estandares al caso concreto.
+
+d) Fuentes consultadas:
+- Camara Apelacion Quilmes, "G.E.A. c/ N.A. S.A.", 2022.
+- SolerPalau/OMS, "Humedad y salud: peligros de la humedad en el hogar", 2023.
+- European Lung Foundation, "El moho, la humedad y los pulmones", 2025.
+
+================================================================================
+7. TASACION INMOBILIARIA COMO PRUEBA
+================================================================================
+
+a) Normativa aplicable:
+- Ley 10.397 (Codigo Fiscal PBA) y Leyes Impositivas anuales (14.479/2024;
+  2026): valores de referencia por m2 y coeficientes depreciacion.
+- Art. 49 Ley 12.576 PBA: tabla depreciacion por antiguedad y estado.
+- Art. 165 CPCCPBA: valoracion por sana critica.
+
+b) Jurisprudencia relevante:
+INFORMACION NO VERIFICADA EN FUENTES CONSULTADAS: No se localizaron
+ sentencias especificas PBA 2023-2026 sobre metodologia tasacion depreciacion
+ por obra lindera.
+
+c) Informacion practica:
+
+Metodo aceptado: Comparacion "antes/después" (metodologia general aceptada
+  en peritajes judiciales): tasacion sin danos vs. tasacion con danos.
+
+Tasador habilitado: Martillero/tasador matriculado; preferentemente inscripto
+  en Cuerpo de Tasadores Judiciales de PBA o Colegio de Martilleros.
+
+Valores de referencia 2026: Segun Ley Impositiva PBA 2026, valores por m2 de
+  superficie cubierta segun tipo de edificacion (Formularios 903 a 916).
+  Nota: Estos son valores impositivos de referencia, no necesariamente
+  valores de mercado.
+
+Depreciacion: Aplicacion de tabla de antiguedad y estado de conservacion
+  (Art. 49 Ley 12.576).
+
+Costo estimado 2026: INFORMACION NO VERIFICADA EN FUENTES CONSULTADAS.
+  No se localizaron aranceles judiciales vigentes especificos para tasacion
+  en obra lindera. Se recomienda consultar directamente al Cuerpo de
+  Tasadores Judiciales de la Suprema Corte de Justicia de PBA.
+
+d) Fuentes consultadas:
+- ARBA/Ley Impositiva PBA 2026.
+- Normas GBA, Ley 15479 (valores 2024, referencia).
+
+================================================================================
+8. PRESUPUESTOS DE REPARACION ACTUALIZADOS
+================================================================================
+
+a) Normativa aplicable:
+- Art. 165 CPCCPBA: valoracion por sana critica.
+- No existe norma especifica sobre cantidad de presupuestos.
+
+b) Jurisprudencia relevante:
+- Camara Nacional Apelaciones en lo Civil: valido peritajes ingenieria que
+  incluian calculo materiales, mano de obra, gastos generales 30%, proyecto
+  7%, honorarios 9% (referencia jurisdiccional nacional).
+- SCBA: la formula matematica es punto de partida; el juez debe ajustar a la
+  realidad probada (2022).
+
+c) Informacion practica:
+
+Cantidad: Se recomiendan 2 o 3 presupuestos de empresas constructoras
+  habilitadas para acreditar razonabilidad.
+
+Requisitos formales: Memoria descriptiva, planos, cantidades de obra,
+  precios unitarios, plazo ejecucion, firma y sello constructor/matriculado.
+
+Actualizacion: Deben actualizarse al momento de sentencia aplicando indices
+  de la construccion (IERIC, Indice Construccion CABA, o indices locales PBA).
+
+Valor probatorio: Son prueba documental de dano emergente. Su incumplimiento
+  posterior no afecta la condena, pero deben ser razonables.
+
+d) Fuentes consultadas:
+- Poder Judicial Nacion, sentencia obra lindera/medianeria, 2025.
+- SCBA, "Vilar c/ Sesa", 2022.
+- SCBA, "Lemacha", 2022.
+
+================================================================================
+9. COMPROBANTES DE INGRESOS DIGITALES (YOUTUBE/ADSENSE)
+================================================================================
+
+a) Normativa aplicable:
+- Arts. 1738 y 1739 CCCN: lucro cesante como perjuicio resarcible.
+- Codigo Procesal Civil y Comercial: valoracion prueba documental e
+  informatica.
+
+b) Jurisprudencia relevante:
+- Camara Apelacion Cordoba: admitio prueba ingresos por trabajo informal/
+  monitoreo para lucro cesante (expediente 5827186).
+- INFORMACION NO VERIFICADA: No se localizaron sentencias especificas PBA
+  sobre ingresos YouTube/AdSense en obra lindera.
+
+c) Informacion practica:
+
+Documentacion: INFORMES GOOGLE/YOUTUBE
+  Detalle: Descargas Analytics/AdSense con historico ingresos (CPM, RPM,
+  visualizaciones monetizadas). Deben estar firmados digitalmente o
+  certificados por escribano publico.
+
+Documentacion: EXTRACTOS BANCARIOS
+  Detalle: Acreditacion ingresos recibidos de Google Ireland o Google LLC.
+
+Documentacion: DECLARACIONES JURADAS AFIP
+  Detalle: IIBB, monotributo o regimen general que acredite actividad.
+
+Documentacion: PRUEBA INFORMATICA
+  Detalle: Certificacion digital de pantallas (acta notarial) o pericia
+  informatica sobre autenticidad reportes.
+
+Nexo causal: Debe demostrarse que obra lindera afecto especificamente la
+  capacidad de generar contenido (ruidos, perdida espacio trabajo, afeccion
+  salud).
+
+Nota: Se recomienda peritaje contable que proyecte ingresos sobre base
+  historico 12-24 meses previos al hecho.
+
+d) Fuentes consultadas:
+- Justicia Cordoba, expediente 5827186 (lucro cesante trabajo informal).
+- Doctrina general prueba informatica procesos civiles.
+
+================================================================================
+10. ACTA NOTARIAL DE CONSTATACION
+================================================================================
+
+a) Normativa aplicable:
+- Ley 21.908 (Estatuto Notarial PBA).
+- Decreto-Ley 10.123/83 y modificatorias: aranceles notariales PBA.
+- Aranceles Colegio Notarial PBA y Colegio Notarial La Matanza/Moron.
+
+b) Jurisprudencia relevante:
+Las actas notariales de constatacion tienen valor probatorio pleno respecto
+ de existencia de cosas y estado de lugares, salvo prueba en contrario.
+ Son admisibles como prueba documental en juicio civil (criterio general).
+
+c) Informacion practica:
+
+Procedimiento:
+  1. Contactar escribano matriculado.
+  2. Solicitar constatacion estado inmueble (fotografias, mediciones,
+     descripcion danos).
+  3. Escribano redacta acta con intervencion de dos testigos.
+  4. Se protocoliza o labra en forma extraprotocolar segun complejidad.
+
+Costo estimado 2026 (verificado en fuente):
+  - Colegio Notarial La Matanza: Acta de constatacion urbana aprox.
+    $180.000; adicionales por hora $40.000-$50.000 (datos publicados en
+    aranceles oficiales del colegio).
+  - PBA general: Ley 6925 establece base legal aranceles notariales, pero
+    valores especificos actuales deben consultarse en cada colegio
+    departamental.
+  ADVERTENCIA: Los valores pueden haber sido modificados. Se recomienda
+  consulta directa al Colegio Notarial del Departamento Judicial Moron o
+  La Matanza antes de contratar.
+
+Escribanos zona Merlo/Moron:
+  INFORMACION NO VERIFICADA EN FUENTES CONSULTADAS sobre escribanos
+  individuales (la etica profesional impide publicidad individual en
+  colegios notariales).
+  Recomendacion: Consultar en Colegio Notarial del Departamento Judicial
+  Moron o La Matanza.
+
+Contenido minimo:
+  (a) Individualizacion inmueble por datos registrales y ubicacion.
+  (b) Fecha y hora.
+  (c) Descripcion detallada danos (grietas, humedad, filtraciones, caida
+      de revoque).
+  (d) Fotografias incorporadas como anexo.
+  (e) Descripcion obra lindera visible.
+  (f) Testimonio vecinos si corresponde.
+  (g) Firma escribano y testigos.
+
+Valor probatorio: Fehaciente respecto estado de cosas al momento de la
+  constatacion. No prueba causalidad por si sola, pero es punto de partida
+  indispensable.
+
+d) Fuentes consultadas:
+- Normas GBA, Ley 6925 (aranceles notariales base legal).
+- CNPM (Colegio Notarial PBA), Honorarios Minimos Indicativos, enero 2025.
+- Colegio Notarial de La Matanza, Aranceles Minimos (Acta Constatacion
+  Urbana $180.000).
+
+================================================================================
+NOTAS FINALES Y LIMITACIONES DEL INFORME
+================================================================================
+
+1. El presente informe fue elaborado con base en busqueda en fuentes publicas
+   digitales (jurisprudencia, normativa, sitios oficiales) disponibles hasta
+   abril 2026.
+
+2. Se eliminaron del borrador inicial las siguientes informaciones NO
+   VERIFICADAS:
+   - Proyecciones de montos de sentencias a 2026 (eran calculos estimados,
+     no datos de fallos).
+   - Costo estimado de tasacion inmobiliaria "$150.000 a $500.000" (no se
+     localizo fuente especifica).
+   - Rango de costos notariales PBA general "$50.000-$180.000" (era
+     extrapolacion sin fuente directa).
+   - Afirmaciones sobre jurisprudencia PBA especifica 2023-2026 en puntos
+     donde no se encontraron fallos (cronologia dano continuado,
+     depreciacion inmueble, danos respiratorios por humedad).
+
+3. Se recomienda complementar este informe con:
+   - Consulta directa al Colegio de Abogados de Moron/Merlo.
+   - Oficio a la Direccion de Obras Privadas de Merlo para formularios y
+     procedimientos actualizados.
+   - Busqueda en base de datos jurisprudenciales de pago (Infojus, Laley,
+     Rubinzal Culzoni) para jurisprudencia especifica no disponible en
+     fuentes gratuitas.
+
+4. Los datos de contacto municipal y notarial deben verificarse antes de su
+   uso por posible obsolescencia.
+
+================================================================================
+FIN DEL INFORME
+================================================================================
