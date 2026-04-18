@@ -1,0 +1,342 @@
+================================================================================
+FICHA 57 - VIABILIDAD ECONÓMICA DEL JUICIO, BENEFICIO DE LITIGAR
+SIN GASTOS E INVESTIGACIÓN PATRIMONIAL DEL DEMANDADO
+================================================================================
+Fecha de elaboración: 2025
+Última actualización: Enero 2026
+Clasificación: 07 - Herramientas Procesales
+================================================================================
+
+ÍNDICE
+------
+A. ANÁLISIS DE VIABILIDAD ECONÓMICA DEL JUICIO
+B. INVESTIGACIÓN PATRIMONIAL DEL DEMANDADO
+C. DOCUMENTACIÓN PARA BLSG
+D. ANÁLISIS DESDE 4 ENFOQUES
+
+================================================================================
+A. ANÁLISIS DE VIABILIDAD ECONÓMICA DEL JUICIO
+================================================================================
+
+1. COSTOS
+---------
+
+(1) TASA DE JUSTICIA:
+    - Código Fiscal PBA arts. 53-70.
+    - Alícuota: 22 por mil (2,2%) sobre el monto reclamado en demanda.
+    - Mínimo en Unidades Tributarias (UT), actualizable periódicamente.
+    - Debe abonarse al inicio del juicio salvo BLSG concedido.
+
+(2) TASA GENERAL DE ACTUACIÓN:
+    - Código Fiscal PBA: tasa complementaria por actuaciones
+      judiciales durante el proceso.
+
+(3) HONORARIOS PROFESIONALES:
+    - Ley 14.967 PBA: regula honorarios de abogados y procuradores.
+    - Rango: 10% a 25% del monto del juicio según etapa y resultado.
+    - Mínimos en JUS: consultables en la página de la SCBA
+      (actualizados periódicamente).
+    - Con BLSG: diferimiento del pago hasta sentencia favorable.
+
+(4) PERICIAS:
+    - Honorarios de peritos regulados judicialmente en sentencia.
+    - Requieren adelanto de gastos salvo BLSG concedido.
+    - Incluye peritos ingeniero civil, tasador, contador, según
+      las pruebas ofrecidas.
+
+(5) GASTOS DE MEDIACIÓN:
+    - Aranceles del mediador conforme normativa vigente.
+    - Con BLSG: diferimiento según acordada aplicable.
+
+(6) ACTUACIONES NOTARIALES:
+    - Acta de constatación y certificaciones: cotizar directamente
+      con escribano de la zona (ver Ficha 56).
+
+2. PLAZOS ESTIMADOS
+--------------------
+
+- MEDIACIÓN (Ley 13.951): 60 días hábiles + 15 días de prórroga.
+- PRIMERA INSTANCIA: 2 a 4 años en Departamento Judicial Merlo/Moreno
+  (estimación conforme estadísticas de duración de procesos civiles).
+- SEGUNDA INSTANCIA (Cámara de Apelación): 1 a 2 años adicionales.
+- EJECUCIÓN DE SENTENCIA: 1 a 3 años según complejidad y conducta
+  del deudor.
+
+3. PROBABILIDAD DE COBRO
+-------------------------
+
+- PROPIETARIO CON BIENES REGISTRADOS: ALTA.
+  Posibilidad de embargo sobre inmuebles, vehículos, cuentas.
+
+- CONSTRUCTOR PROFESIONAL (co-demandado): MEDIA-ALTA.
+  Responde con patrimonio personal y/o societario. Matrícula
+  profesional como garantía indirecta.
+
+- OCUPANTE SIN PROPIEDAD: BAJA-MEDIA.
+  Escasez de bienes embargables. Evaluar conveniencia de demandar.
+
+- MUNICIPALIDAD POR OMISIÓN DE CONTROL: MEDIA.
+  Solvencia presupuestaria pero requiere juicio contencioso-
+  administrativo con reglas propias y plazos más extensos.
+
+4. FUENTES
+----------
+
+- Ley 14.967 PBA (honorarios).
+- Ley Impositiva PBA (tasas judiciales).
+- Código Fiscal PBA arts. 53-70.
+- CPCyCN.
+
+================================================================================
+B. INVESTIGACIÓN PATRIMONIAL DEL DEMANDADO
+================================================================================
+
+1. SEIS MECANISMOS EN PBA
+--------------------------
+
+(1) ARBA - INFORME DE DEUDA:
+    - Contenido: estado de deuda en impuestos inmobiliario,
+      automotores y embarcaciones.
+    - Acceso: gratuito vía web con clave fiscal ARBA.
+    - Dato indirecto de titularidad: si el demandado figura como
+      contribuyente de inmobiliario o automotor, posee bienes
+      registrables a su nombre.
+    - Limitación: dato indirecto, no certifica titularidad dominial.
+
+(2) RPBA - REGISTRO DE LA PROPIEDAD INMUEBLE:
+    - Informe N°3: certifica titularidad de dominio, inscripciones,
+      gravámenes, inhibiciones sobre inmuebles.
+    - Solicitud: vía web con pago electrónico.
+    - Plazo: 2 a 5 días hábiles.
+    - Costo: conforme tasas registrales Ley Impositiva PBA.
+
+(3) REGISTRO AUTOMOTOR - DNRPA:
+    - Contenido: titularidad de vehículos automotores a nombre del
+      demandado.
+    - Solicitud: turno web en dnrpa.gov.ar.
+    - Plazo: 3 a 10 días hábiles.
+
+(4) BCRA - CENTRAL DE DEUDORES:
+    - Contenido: deudas financieras del demandado en el sistema
+      bancario y financiero.
+    - Acceso: requiere habilitación judicial u oficio librado en
+      el marco de un juicio en trámite.
+    - No accesible libremente por particulares.
+
+(5) AFIP - CONSTANCIA DE CUIT:
+    - Contenido: domicilio fiscal, condición tributaria (monotributo,
+      responsable inscripto IVA, etc.).
+    - Acceso: gratuito con clave fiscal en afip.gob.ar.
+    - Utilidad: permite conocer actividad económica declarada y
+      nivel de facturación indirectamente.
+
+(6) REGISTRO PÚBLICO DE COMERCIO:
+    - Contenido: inscripción de sociedades comerciales, bienes
+      societarios, apoderados.
+    - Plazo: 5 a 10 días hábiles.
+    - Utilidad: identificar si el demandado opera a través de
+      sociedades y sus bienes societarios.
+
+2. PROCEDIMIENTO RECOMENDADO
+-----------------------------
+
+- PASO 1: ARBA + AFIP (gratuito, inmediato).
+  Primer relevamiento sin costo para obtener datos básicos.
+
+- PASO 2: RPBA - Informe de dominio inmuebles.
+  Verificar titularidad de bienes inmuebles embargables.
+
+- PASO 3: DNRPA - Informe titularidad vehículos.
+  Verificar titularidad de automotores embargables.
+
+- PASO 4: Oficios judiciales al BCRA (en etapa judicial).
+  Solicitar mediante oficio información sobre cuentas bancarias
+  y deudas financieras.
+
+3. FUENTES
+----------
+
+- RPBA guía de trámites.
+- Ley Impositiva PBA tasas registrales.
+- dnrpa.gov.ar.
+- AFIP.
+
+================================================================================
+C. DOCUMENTACIÓN PARA BLSG (BENEFICIO DE LITIGAR SIN GASTOS)
+================================================================================
+
+1. NORMATIVA APLICABLE
+----------------------
+
+- CPCyCN art. 79: requisitos y procedimiento para la concesión
+  del beneficio de litigar sin gastos.
+- Acordadas SCBA: reglamentación y requisitos documentales.
+- Fallo CyCom La Plata Sala II, 05/04/2024, causa 136.485/1:
+  concesión parcial del BLSG con análisis de requisitos documentales.
+
+2. CHECKLIST DE 9 ÍTEMS DOCUMENTALES
+-------------------------------------
+
+(1) IDENTIDAD:
+    - DNI del solicitante.
+    - DNI del cónyuge o conviviente (si corresponde).
+
+(2) DOMICILIO:
+    - Constancia de domicilio: boleta de servicio público a nombre
+      del solicitante o certificado de domicilio policial.
+
+(3) INGRESOS:
+    - 3 últimos recibos de sueldo (si es empleado); o
+    - DDJJ de monotributo de los últimos 3 meses (si es autónomo); o
+    - Certificado de desempleo (si corresponde).
+
+(4) GRUPO FAMILIAR:
+    - Actas de nacimiento de hijos menores a cargo.
+    - Certificado de convivencia o acta de matrimonio.
+
+(5) GASTOS:
+    - Facturas de servicios públicos (luz, gas, agua, teléfono).
+    - Contrato de alquiler o cuota hipotecaria (si corresponde).
+    - Cuota colegio / obra social / prepaga.
+    - Cuota alimentaria (si corresponde).
+
+(6) PATRIMONIO:
+    - Certificación negativa del RPBA (no posee inmuebles) o DDJJ
+      de bienes.
+    - Informe de dominio de vehículos o DDJJ de no poseer.
+
+(7) DEUDAS:
+    - Estado de deuda ARBA / AFIP.
+    - Informe BCRA Central de Deudores (si es accesible).
+
+(8) SITUACIÓN ESPECIAL:
+    - Certificado de discapacidad (si corresponde).
+    - Certificado de desempleo.
+    - Resolución de cuota alimentaria a cargo (si corresponde).
+
+(9) FORMULARIO:
+    - Solicitud de BLSG del Departamento Judicial correspondiente
+      (formulario preimpreso o escrito conforme modelo).
+
+3. PROCEDIMIENTO
+----------------
+
+- El BLSG se solicita en el mismo escrito de demanda, no como
+  pieza separada ni incidente independiente.
+- El juez de primera instancia evalúa la documentación y la
+  situación económica del solicitante.
+- Si se deniega, la Cámara de Apelación revisa la resolución
+  denegatoria.
+- Resolución: se dicta junto con el auto de admisión de la
+  demanda o en la etapa de mediación previa, según el caso.
+
+4. FUENTES
+----------
+
+- CyCom La Plata 05/04/2024 BLSG causa 136.485/1.
+- CPCyCN art. 79.
+- Doctrina procesal sobre BLSG.
+
+================================================================================
+D. ANÁLISIS DESDE 4 ENFOQUES
+================================================================================
+
+1. ENFOQUE DEMANDANTE
+---------------------
+
+a) Viabilidad económica:
+   - Evaluar costo total estimado del juicio (tasa de justicia +
+     honorarios + pericias + mediación + notariales) antes de
+     iniciar la acción.
+   - Si los costos superan la capacidad económica, solicitar BLSG
+     para diferir gastos hasta sentencia favorable.
+   - Considerar los plazos reales (4-9 años total incluyendo
+     ejecución) para evaluar si el juicio es económicamente viable.
+   - Priorizar demanda contra demandados con alta probabilidad de
+     cobro (propietarios con bienes registrados).
+
+b) Investigación patrimonial:
+   - Realizar investigación patrimonial ANTES de demandar para
+     evaluar solvencia del demandado.
+   - Comenzar por ARBA + AFIP (gratuito) para primera evaluación.
+   - Si el demandado no tiene bienes registrables, evaluar si
+     conviene demandar o si el juicio será antieconómico.
+
+c) BLSG:
+   - Reunir toda la documentación del checklist de 9 ítems con
+     anticipación.
+   - Incluir la solicitud de BLSG en el escrito de demanda.
+   - Documentar exhaustivamente la situación económica para
+     maximizar probabilidad de concesión.
+
+2. ENFOQUE DEMANDADO
+--------------------
+
+a) Viabilidad económica:
+   - Conocer los costos que enfrentará si pierde el juicio
+     (condena en costas incluye tasa de justicia + honorarios
+     de ambas partes + pericias).
+   - Evaluar conveniencia de acuerdo extrajudicial temprano
+     para reducir costos totales.
+
+b) Investigación patrimonial:
+   - Anticipar que el actor investigará su patrimonio.
+   - No realizar maniobras de vaciamiento patrimonial que
+     configuren fraude (art. 173 inc. 2 Código Penal) y agraven
+     la situación procesal.
+
+c) BLSG del actor:
+   - Verificar que la documentación presentada por el actor
+     refleje fielmente su situación económica.
+   - Si el actor posee bienes o ingresos que no declaró, impugnar
+     el BLSG aportando prueba en contrario.
+   - Recordar que el BLSG parcial es posible (fallo CyCom La Plata
+     causa 136.485/1).
+
+3. ENFOQUE PODER JUDICIAL
+--------------------------
+
+a) Viabilidad económica:
+   - Verificar pago de tasa de justicia o concesión de BLSG como
+     requisito de admisibilidad de la demanda.
+   - Regular honorarios de peritos conforme la complejidad y el
+     monto del juicio.
+
+b) Investigación patrimonial:
+   - Librar oficios al BCRA, RPBA, DNRPA conforme lo soliciten
+     las partes en el marco del proceso.
+   - Ordenar medidas cautelares (embargo, inhibición) si se
+     acredita verosimilitud del derecho y peligro en la demora.
+
+c) BLSG:
+   - Evaluar la documentación de los 9 ítems conforme art. 79
+     CPCyCN y acordadas SCBA.
+   - Conceder total o parcialmente según la situación acreditada.
+   - Resolver con el auto de admisión de demanda o en la etapa
+     procesal que corresponda.
+
+4. ENFOQUE PERITAJE
+-------------------
+
+a) Perito contador:
+   - En el marco de la investigación patrimonial judicial, analizar
+     la situación patrimonial del demandado conforme informes
+     oficiales (RPBA, DNRPA, BCRA, AFIP).
+   - Cuantificar la solvencia del demandado para evaluar
+     ejecutabilidad de la eventual sentencia.
+
+b) Perito contador (BLSG):
+   - Evaluar la documentación de ingresos y gastos del solicitante
+     del BLSG para dictaminar sobre su situación económica real.
+   - Verificar consistencia entre ingresos declarados (AFIP),
+     nivel de vida y gastos acreditados.
+
+c) Peritos en general:
+   - Conocer que si se concede BLSG, el adelanto de gastos
+     periciales queda diferido.
+   - Los honorarios se regularán en sentencia y se ejecutarán
+     contra la parte condenada en costas.
+
+================================================================================
+FIN FICHA 57
+================================================================================

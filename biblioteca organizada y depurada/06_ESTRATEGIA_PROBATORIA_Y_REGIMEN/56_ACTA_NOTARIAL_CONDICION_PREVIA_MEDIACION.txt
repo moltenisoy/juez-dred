@@ -1,0 +1,368 @@
+================================================================================
+FICHA 56 - ACTA NOTARIAL DE CONSTATACIÓN, PRUEBA DE CONDICIÓN PREVIA
+DEL INMUEBLE Y ACTA DE CIERRE DE MEDIACIÓN
+================================================================================
+Fecha de elaboración: 2025
+Última actualización: Enero 2026
+Clasificación: 06 - Estrategia Probatoria y Régimen
+================================================================================
+
+ÍNDICE
+------
+A. ACTA NOTARIAL DE CONSTATACIÓN
+B. PRUEBA DE CONDICIÓN PREVIA DEL INMUEBLE
+C. ACTA DE CIERRE DE MEDIACIÓN - EFECTOS JURÍDICOS
+D. ANÁLISIS DESDE 4 ENFOQUES
+
+================================================================================
+A. ACTA NOTARIAL DE CONSTATACIÓN
+================================================================================
+
+1. NORMATIVA APLICABLE
+----------------------
+
+- Ley 21.908 (Estatuto Notarial PBA): regula el ejercicio de la
+  función notarial en la Provincia de Buenos Aires.
+- Decreto-Ley 10.123/83: aranceles notariales PBA, establece la
+  base para el cálculo de honorarios por actuaciones notariales.
+- Aranceles del Colegio Notarial PBA y delegaciones La Matanza/Morón:
+  tablas de honorarios mínimos actualizadas periódicamente.
+
+2. JURISPRUDENCIA
+-----------------
+
+- Valor probatorio pleno: el acta notarial de constatación tiene
+  plena fe respecto de la existencia de las cosas y el estado de los
+  lugares al momento de la constatación, salvo prueba en contrario
+  (redargución de falsedad).
+- Admisibles como prueba documental en juicio civil conforme las
+  reglas del CPCCPBA sobre instrumentos públicos.
+
+3. PROCEDIMIENTO
+----------------
+
+(1) Contactar escribano público matriculado con competencia
+    territorial en la zona del inmueble (Merlo/Morón).
+(2) Solicitar constatación del estado del inmueble incluyendo:
+    - Toma de fotografías de todos los daños visibles.
+    - Mediciones de grietas, fisuras, desplomes.
+    - Descripción detallada y pormenorizada de cada daño.
+(3) El escribano redacta el acta con intervención de 2 testigos
+    hábiles que suscriben el instrumento.
+(4) Protocolizar o labrar como acta extraprotocolar según la
+    complejidad del caso y preferencia profesional.
+
+4. COSTO 2026 - VERIFICADO
+---------------------------
+
+- Colegio Notarial La Matanza: acta de constatación urbana
+  aproximadamente $180.000 (honorarios mínimos sugeridos).
+- Adicionales por hora de trabajo en el lugar: $40.000 - $50.000.
+- PBA general: Ley 6925 establece la base de aranceles notariales.
+- ADVERTENCIA: estos valores pueden haber sido modificados desde
+  la última verificación. Consultar directamente al Colegio Notarial
+  de Morón o La Matanza para obtener aranceles vigentes al momento
+  de la contratación.
+
+5. ESCRIBANOS ZONA MERLO/MORÓN
+------------------------------
+
+- NO VERIFICADO: por razones de ética profesional notarial, no
+  corresponde publicitar datos individuales de escribanos.
+- RECOMENDACIÓN: consultar directamente al Colegio Notarial de
+  Morón o La Matanza para obtener listado de escribanos habilitados
+  con competencia en la zona.
+
+6. CONTENIDO MÍNIMO DEL ACTA
+-----------------------------
+
+(a) Individualización del inmueble con datos registrales completos
+    (nomenclatura catastral, matrícula, partida) y ubicación precisa.
+(b) Fecha y hora exacta de la constatación.
+(c) Descripción detallada de los daños observados: grietas (ubicación,
+    longitud, espesor), humedad (extensión, ubicación), filtraciones
+    (origen, alcance), caída de revoque (superficie afectada).
+(d) Fotografías como anexo, vinculadas al acta e identificadas con
+    referencia a cada daño descrito.
+(e) Descripción de la obra lindera visible desde el inmueble
+    afectado o desde la vía pública (estado, altura, proximidad).
+(f) Testimonio de vecinos, si corresponde y estuvieren presentes.
+(g) Firma del escribano y de los testigos intervinientes.
+
+7. VALOR PROBATORIO
+-------------------
+
+- El acta hace fe del estado de las cosas al momento de la
+  constatación (prueba fehaciente).
+- NO prueba por sí sola la causalidad entre la obra y los daños.
+- Constituye el punto de partida indispensable para la estrategia
+  probatoria, al fijar con fecha cierta el estado del inmueble.
+
+8. FUENTES
+----------
+
+- Ley 6925 (aranceles notariales PBA).
+- CNPM Honorarios Mínimos enero 2025.
+- Colegio Notarial La Matanza aranceles actualizados.
+
+================================================================================
+B. PRUEBA DE CONDICIÓN PREVIA DEL INMUEBLE
+================================================================================
+
+1. NORMATIVA APLICABLE
+----------------------
+
+- CPCyCN arts. 374, 375, 383: regulación de la prueba documental
+  y material en el proceso civil.
+- Carga de la prueba: los daños y su extensión recaen sobre el
+  actor (demandante), quien debe acreditar el estado anterior
+  del inmueble para demostrar el deterioro.
+
+2. SEIS MEDIOS PROBATORIOS
+---------------------------
+
+(1) GOOGLE STREET VIEW / GOOGLE EARTH:
+    - Válido como prueba documental del estado exterior del inmueble.
+    - Contiene metadata con fecha de captura de la imagen.
+    - Limitación: no demuestra el estado interior del inmueble.
+    - Valor probatorio: medio. Debe complementarse con otros medios.
+    - Recomendación: certificar por escribano las capturas de pantalla.
+
+(2) FOTOGRAFÍAS ANTIGUAS (álbum familiar, redes sociales):
+    - Alta validez si contienen metadata EXIF (fecha, hora, dispositivo).
+    - Reforzable con testimonio del fotógrafo o de quien tomó las
+      imágenes.
+    - Deben presentarse con certificación notarial o pericia
+      informática que acredite que no fueron alteradas.
+
+(3) DECLARACIONES TESTIMONIALES:
+    - Arts. 386-390 CPCyCN: régimen de prueba testimonial.
+    - Máximo 10 testigos por parte (salvo ampliación judicial).
+    - Deben declarar sobre hechos propios percibidos por sus sentidos.
+    - Vecinos, familiares, visitantes habituales del inmueble.
+
+(4) REGISTROS MUNICIPALES:
+    - Planos aprobados del inmueble (Dirección de Obras Particulares
+      Municipalidad de Merlo).
+    - Cédula catastral actualizada (Dirección de Catastro Merlo).
+    - Permiten acreditar las características constructivas originales.
+
+(5) ESCRITURA PÚBLICA DE COMPRAVENTA:
+    - Describe el estado del inmueble al momento de la adquisición.
+    - Si existió tasación bancaria para crédito hipotecario, incluye
+      evaluación técnica del estado constructivo.
+    - Alto valor probatorio como instrumento público.
+
+(6) INFORMES TÉCNICOS PREVIOS:
+    - Informes de tasación para crédito hipotecario (si existieren).
+    - Informes de inspección para seguro de la vivienda del
+      demandante (si existieren).
+    - Pericias previas por cualquier motivo que documenten el estado
+      constructivo anterior.
+
+3. ESTRATEGIA RECOMENDADA
+-------------------------
+
+- Reunir registro fotográfico anterior a la obra (puntos 1 y 2).
+- Complementar con acta notarial del estado actual (Sección A).
+- Solicitar designación de perito de oficio ingeniero civil para
+  que compare estado documentado previo con estado actual y
+  determine causalidad técnica.
+
+================================================================================
+C. ACTA DE CIERRE DE MEDIACIÓN - EFECTOS JURÍDICOS
+================================================================================
+
+1. NORMATIVA APLICABLE
+----------------------
+
+- Ley 13.951 PBA: Mediación Previa Obligatoria en la Provincia de
+  Buenos Aires. Requisito de procedibilidad para acciones patrimoniales.
+- Decreto 2.530/10 PBA: reglamentación de la Ley 13.951.
+- Ley 26.589 Nacional: Mediación y Conciliación, arts. 18, 27, 28.
+
+2. SEIS EFECTOS JURÍDICOS DEL ACTA DE CIERRE
+---------------------------------------------
+
+(1) HABILITACIÓN DE LA VÍA JUDICIAL:
+    - La mediación previa es requisito de procedibilidad para
+      acciones patrimoniales en PBA.
+    - El acta de cierre sin acuerdo habilita la vía judicial
+      con vigencia inmediata.
+    - Sin el acta, la demanda es inadmisible formalmente.
+
+(2) SUSPENSIÓN DE LA PRESCRIPCIÓN:
+    - Desde la formalización de la pretensión ante el mediador
+      hasta 20 días corridos desde que el acta queda disponible
+      para las partes.
+    - Plazo máximo de suspensión: hasta 1 año + 20 días desde
+      la formalización.
+
+(3) REANUDACIÓN DE LA PRESCRIPCIÓN:
+    - Transcurridos los 20 días corridos desde que el acta de
+      cierre queda disponible, la prescripción reanuda su curso.
+    - Es imperativo iniciar la demanda dentro de ese plazo.
+
+(4) VALOR COMO PRUEBA:
+    - El acta de cierre acredita la existencia del conflicto.
+    - Fija fecha cierta del reclamo.
+    - Documenta los puntos controvertidos planteados.
+    - Registra la comparecencia o incomparecencia de las partes
+      (relevante para costas y conducta procesal).
+
+(5) CADUCIDAD DE LA INSTANCIA DE MEDIACIÓN:
+    - Si transcurre 1 año sin iniciar el juicio, caduca la
+      instancia de mediación (Ley 26.589 art. 51).
+    - Deberá reiniciarse el procedimiento de mediación previa
+      obligatoria antes de demandar.
+
+(6) HONORARIOS DEL MEDIADOR:
+    - Si transcurren 60 días sin iniciarse el juicio, el
+      requirente debe abonar al mediador un mínimo de 9 Jus
+      en concepto de honorarios por su intervención.
+
+3. REQUISITOS FORMALES DEL ACTA
+-------------------------------
+
+- Debe labrarse en todos los casos (art. 14 Ley 13.951),
+  independientemente del resultado de la mediación.
+- Contenido obligatorio:
+  * Identificación de las partes intervinientes.
+  * Síntesis de la pretensión y los puntos debatidos.
+  * Detalle de las audiencias celebradas.
+  * Resultado: acuerdo total, acuerdo parcial, sin acuerdo,
+    incomparecencia de alguna parte.
+  * Firma del mediador (suficiente solo la firma del mediador
+    si las partes se niegan a firmar, conforme reforma art. 14).
+- Formulario estadístico del Ministerio de Justicia PBA: el
+  mediador debe completarlo y remitirlo al organismo.
+
+4. RELACIÓN CON LA PRESCRIPCIÓN EN PBA
+---------------------------------------
+
+- Ley 13.951 y Decreto 2530/10: la mediación suspende la
+  prescripción conforme art. 2575 CCyCN.
+- Si la prescripción vence durante el trámite de mediación:
+  puede iniciarse juicio interruptivo que no requiere mediación
+  previa (excepción al requisito de procedibilidad).
+
+5. FUENTES
+----------
+
+- Ley 13.951 PBA.
+- Decreto 2530/10 PBA.
+- Ley 26.589 arts. 18, 27, 28, 51.
+- Art. 2575 CCyCN.
+
+================================================================================
+D. ANÁLISIS DESDE 4 ENFOQUES
+================================================================================
+
+1. ENFOQUE DEMANDANTE
+---------------------
+
+a) Acta notarial:
+   - Prioridad máxima: labrar acta de constatación lo antes posible
+     para fijar fecha cierta del estado del inmueble.
+   - Incluir todos los daños visibles con fotografías y mediciones.
+   - Solicitar que el escribano describa también la obra lindera
+     visible y su estado de avance.
+   - Presupuestar el costo (~$180.000 acta + adicionales por hora)
+     como inversión indispensable en la estrategia probatoria.
+
+b) Condición previa:
+   - Reunir toda la documentación del estado anterior: fotos
+     antiguas, Google Street View, escritura, registros municipales.
+   - Certificar notarialmente las capturas digitales.
+   - Ofrecer testigos que conozcan el estado previo del inmueble.
+   - Articular esta prueba con la pericial de ingeniería para
+     demostrar el contraste antes/después.
+
+c) Mediación:
+   - Iniciar mediación previa obligatoria como primer paso procesal.
+   - Documentar detalladamente la pretensión en la audiencia.
+   - Si no hay acuerdo, conservar el acta de cierre como llave
+     de acceso a la vía judicial.
+   - Iniciar demanda dentro de los 20 días corridos posteriores
+     para evitar reanudación de la prescripción y dentro del año
+     para evitar caducidad de la instancia.
+
+2. ENFOQUE DEMANDADO
+--------------------
+
+a) Acta notarial:
+   - Verificar que el acta cumpla con todos los requisitos formales
+     (testigos, firma escribano, fecha, contenido mínimo).
+   - Evaluar si corresponde redargüir de falsedad si el contenido
+     no refleja fielmente la realidad observada.
+   - Solicitar propia constatación notarial como contraprueba si
+     el estado del inmueble difiere de lo descripto por el actor.
+
+b) Condición previa:
+   - Cuestionar la autenticidad de fotografías antiguas si carecen
+     de metadata EXIF verificable o certificación.
+   - Argumentar que los daños pueden ser preexistentes a la obra
+     (deterioro natural por antigüedad, falta de mantenimiento).
+   - Ofrecer prueba testimonial y documental que acredite el
+     estado previo del inmueble del actor.
+
+c) Mediación:
+   - Comparecer a todas las audiencias para evitar presunción
+     negativa por incomparecencia.
+   - Verificar que el acta refleje fielmente lo debatido.
+   - Controlar plazos de prescripción y caducidad: si el actor
+     no demanda dentro del año, la mediación caduca.
+
+3. ENFOQUE PODER JUDICIAL
+--------------------------
+
+a) Acta notarial:
+   - Otorgar pleno valor probatorio al acta como instrumento
+     público, salvo redargución de falsedad exitosa.
+   - Valorar como prueba del estado de cosas al momento de la
+     constatación, no como prueba de causalidad.
+
+b) Condición previa:
+   - Evaluar la solidez del contraste antes/después presentado
+     por el actor.
+   - Verificar que los medios probatorios del estado previo
+     sean auténticos y suficientes.
+   - Ponderar prueba digital (Google Street View, fotos) con
+     cautela, requiriendo certificación o pericia.
+
+c) Mediación:
+   - Verificar cumplimiento del requisito de procedibilidad:
+     existencia del acta de cierre como condición de admisibilidad.
+   - Controlar plazos de prescripción y caducidad de oficio.
+   - Valorar la conducta de las partes en mediación como elemento
+     para costas y sanciones procesales.
+
+4. ENFOQUE PERITAJE
+-------------------
+
+a) Perito ingeniero civil:
+   - Comparar estado documentado en acta notarial con relevamiento
+     propio para evaluar evolución de los daños.
+   - Utilizar fotografías previas y registros municipales como base
+     comparativa del estado anterior.
+   - Emitir dictamen sobre causalidad técnica: si los daños son
+     compatibles con la obra lindera o con otras causas.
+
+b) Perito informático:
+   - Verificar autenticidad de fotografías digitales (metadata EXIF,
+     integridad de archivos).
+   - Validar capturas de Google Street View/Earth.
+   - Preservar cadena de custodia de evidencia digital.
+
+c) Perito calígrafo (si se requiere):
+   - Verificar autenticidad de firmas en documentación aportada
+     como prueba de condición previa.
+
+d) Mediador:
+   - Labrar acta conforme requisitos formales (art. 14 Ley 13.951).
+   - Completar formulario estadístico Ministerio de Justicia PBA.
+   - Garantizar imparcialidad y confidencialidad del procedimiento.
+
+================================================================================
+FIN FICHA 56
+================================================================================

@@ -1,0 +1,340 @@
+================================================================================
+FICHA 55 - TASACIÓN INMOBILIARIA, PRESUPUESTOS DE REPARACIÓN
+E INGRESOS DIGITALES COMO PRUEBA
+================================================================================
+Fecha de elaboración: 2025
+Última actualización: Enero 2026
+Clasificación: 04c - Lucro Cesante y Patrimoniales
+================================================================================
+
+ÍNDICE
+------
+A. TASACIÓN INMOBILIARIA COMO PRUEBA
+B. PRESUPUESTOS DE REPARACIÓN ACTUALIZADOS
+C. COMPROBANTES DE INGRESOS DIGITALES (YOUTUBE/ADSENSE)
+D. ANÁLISIS DESDE 4 ENFOQUES
+
+================================================================================
+A. TASACIÓN INMOBILIARIA COMO PRUEBA
+================================================================================
+
+1. NORMATIVA APLICABLE
+----------------------
+
+- Ley 10.397 (Código Fiscal PBA): establece marco impositivo referencial
+  para valuaciones inmobiliarias provinciales.
+- Leyes Impositivas anuales (Ley 14.479/2024; Ley Impositiva 2026):
+  valores de referencia por m2 y coeficientes de depreciación aplicables
+  a inmuebles en la Provincia de Buenos Aires.
+- Art. 49 Ley 12.576 PBA: tabla de depreciación por antigüedad y estado
+  de conservación del inmueble. Permite cuantificar pérdida de valor
+  atribuible al deterioro causado por obra lindera.
+- Art. 165 CPCCPBA: principio de sana crítica en la valoración de la
+  prueba pericial de tasación.
+
+2. JURISPRUDENCIA
+-----------------
+
+- NO VERIFICADA PBA 2023-2026 sobre metodología de tasación y depreciación
+  específica por obra lindera. No se localizaron fallos de la SCBA o
+  Cámaras de Apelación PBA que traten puntualmente la metodología de
+  tasación comparativa antes/después aplicada a daños por obra lindera
+  en el período 2023-2026.
+
+3. INFORMACIÓN PRÁCTICA
+-----------------------
+
+a) Método de comparación antes/después:
+   - Metodología aceptada en peritajes judiciales para cuantificar
+     desvalorización inmobiliaria.
+   - Consiste en tasar el inmueble en su estado previo a los daños y
+     compararlo con la tasación en el estado actual deteriorado.
+   - La diferencia constituye el monto de desvalorización reclamable.
+
+b) Tasador habilitado:
+   - Martillero y/o tasador matriculado.
+   - Inscripto en el Cuerpo de Tasadores Judiciales de la PBA o en el
+     Colegio de Martilleros y Corredores Públicos correspondiente.
+   - La designación judicial recae en perito de oficio o de parte,
+     según el caso.
+
+c) Valores de referencia 2026:
+   - Ley Impositiva PBA 2026: valores por m2 de superficie cubierta
+     conforme Formularios 903 a 916 (valuación fiscal inmobiliaria).
+   - ADVERTENCIA: estos son valores impositivos (fiscales), NO valores
+     de mercado. El perito debe hacer la conversión correspondiente
+     aplicando coeficientes de actualización y comparables de mercado.
+
+d) Depreciación:
+   - Tabla de antigüedad y estado conforme Art. 49 Ley 12.576 PBA.
+   - Permite calcular pérdida de valor por deterioro progresivo
+     atribuible a la obra lindera.
+
+e) Costo estimado tasación judicial 2026:
+   - NO VERIFICADO. Consultar directamente al Cuerpo de Tasadores
+     Judiciales de la SCBA para aranceles actualizados.
+
+4. FUENTES
+----------
+
+- ARBA / Ley Impositiva PBA 2026 (valores fiscales por m2).
+- Normas GBA Ley 15.479 (2024).
+- Ley 10.397 Código Fiscal PBA.
+- Ley 12.576 PBA Art. 49 (tabla depreciación).
+
+================================================================================
+B. PRESUPUESTOS DE REPARACIÓN ACTUALIZADOS
+================================================================================
+
+1. NORMATIVA APLICABLE
+----------------------
+
+- Art. 165 CPCCPBA: principio de sana crítica para la valoración de
+  presupuestos de reparación presentados como prueba documental.
+- No existe norma específica que establezca una cantidad mínima o
+  máxima de presupuestos a presentar. La práctica judicial y la
+  razonabilidad guían al juzgador.
+
+2. JURISPRUDENCIA
+-----------------
+
+- Cámara Nacional Civil: validó peritajes de ingeniería que incluyen
+  desglose de materiales + mano de obra + gastos generales 30% +
+  proyecto 7% + honorarios profesionales 9%. Esta composición es
+  aceptada como estándar en la cuantificación de daño emergente
+  por reparaciones edilicias.
+- SCBA (Vilar c/ Sesa, 2022; Lemacha, 2022): la fórmula matemática
+  de cuantificación constituye un punto de partida; el juez debe
+  ajustarla a la realidad probada en cada caso concreto.
+
+3. INFORMACIÓN PRÁCTICA
+-----------------------
+
+a) Cantidad recomendada:
+   - 2 o 3 presupuestos de empresas constructoras habilitadas.
+   - La pluralidad permite al juez evaluar razonabilidad y promediar.
+
+b) Requisitos formales de cada presupuesto:
+   - Memoria descriptiva de los trabajos.
+   - Planos o croquis de referencia.
+   - Cantidades de obra (cómputo métrico).
+   - Precios unitarios de materiales y mano de obra.
+   - Plazo de ejecución estimado.
+   - Firma y sello de constructor matriculado habilitado.
+
+c) Actualización de montos:
+   - Los presupuestos deben actualizarse al momento de la sentencia.
+   - Índices aceptados: IERIC (Índice de Costo de la Construcción),
+     Índice de Construcción CABA, o índices locales PBA publicados
+     por organismos oficiales.
+
+d) Valor probatorio:
+   - Constituyen prueba documental del daño emergente.
+   - Deben ser razonables y consistentes entre sí.
+   - El juez los valora conforme sana crítica (art. 165 CPCCPBA).
+
+4. FUENTES
+----------
+
+- PJN sentencia obra lindera 2025.
+- SCBA Vilar c/ Sesa 2022.
+- SCBA Lemacha 2022.
+- IERIC índices de construcción.
+
+================================================================================
+C. COMPROBANTES DE INGRESOS DIGITALES (YOUTUBE/ADSENSE)
+================================================================================
+
+1. NORMATIVA APLICABLE
+----------------------
+
+- Arts. 1738 y 1739 CCCN: lucro cesante como rubro indemnizatorio.
+  Incluye la ganancia dejada de percibir como consecuencia del hecho
+  dañoso, con relación de causalidad adecuada.
+- CPCC: prueba documental e informática. Los documentos electrónicos
+  son admisibles como prueba en el proceso civil.
+
+2. JURISPRUDENCIA
+-----------------
+
+- Cámara de Apelación de Córdoba: admitió prueba de ingresos por
+  trabajo informal y monitoreo de lucro cesante (expediente 5827186).
+  Sentó precedente sobre la admisibilidad de comprobantes digitales
+  y registros de plataformas como prueba de ingresos no formales.
+- NO VERIFICADA PBA: no se localizaron fallos de tribunales
+  bonaerenses que traten específicamente ingresos por YouTube/AdSense
+  como lucro cesante en el período analizado.
+
+3. DOCUMENTACIÓN NECESARIA
+--------------------------
+
+a) INFORMES GOOGLE/YOUTUBE:
+   - Google Analytics: historial de tráfico, visualizaciones, duración
+     sesiones, métricas de engagement.
+   - Google AdSense: historial de CPM (costo por mil impresiones),
+     RPM (revenue per mille), visualizaciones monetizadas.
+   - Los informes deben estar firmados digitalmente o certificados
+     por escribano público para garantizar autenticidad.
+
+b) EXTRACTOS BANCARIOS:
+   - Transferencias recibidas de Google Ireland Ltd. o Google LLC
+     correspondientes a pagos de AdSense/YouTube Partner Program.
+   - Deben cubrir el período previo al daño y el período afectado.
+
+c) DECLARACIONES JURADAS AFIP:
+   - Ingresos Brutos (IIBB): si estuviere inscripto.
+   - Monotributo: categoría y facturación declarada.
+   - Régimen general: si correspondiere.
+   - Permiten acreditar la habitualidad de la actividad y los
+     ingresos declarados ante el fisco.
+
+d) PRUEBA INFORMÁTICA:
+   - Acta notarial de pantallas (screenshots certificados por
+     escribano) mostrando dashboards de YouTube Studio/AdSense.
+   - Pericia informática sobre autenticidad de los datos digitales
+     si la contraparte impugna la documentación.
+
+4. NEXO CAUSAL
+--------------
+
+- Es imprescindible demostrar que la obra lindera afectó la
+  capacidad de generar contenido digital:
+  * Ruidos que impidieron grabación de videos.
+  * Pérdida de espacio de trabajo (estudio de grabación afectado).
+  * Afección a la salud que redujo la productividad.
+- El nexo debe probarse con pericial médica, testimonial y
+  documental cruzada.
+
+5. RECOMENDACIÓN PROBATORIA
+---------------------------
+
+- Solicitar peritaje contable que proyecte los ingresos futuros
+  sobre la base del histórico de 12 a 24 meses previos al inicio
+  de la obra dañosa.
+- El perito contador debe comparar ingresos antes/durante/después
+  del período de afectación para cuantificar el lucro cesante.
+
+6. FUENTES
+----------
+
+- Justicia Córdoba exp. 5827186 (admisibilidad ingresos informales).
+- Doctrina sobre prueba informática en el proceso civil.
+- Arts. 1738, 1739 CCCN.
+
+================================================================================
+D. ANÁLISIS DESDE 4 ENFOQUES
+================================================================================
+
+1. ENFOQUE DEMANDANTE
+---------------------
+
+a) Tasación inmobiliaria:
+   - Solicitar designación de perito tasador de oficio inscripto en
+     el Cuerpo de Tasadores Judiciales PBA.
+   - Aportar como prueba de parte una tasación privada con método
+     comparativo antes/después para reforzar la pretensión.
+   - Recopilar documentación catastral y valuación fiscal previa
+     a la obra para establecer la base de comparación.
+
+b) Presupuestos de reparación:
+   - Presentar 2 o 3 presupuestos de constructoras habilitadas con
+     todos los requisitos formales (memoria descriptiva, cómputo
+     métrico, precios unitarios, firma de matriculado).
+   - Solicitar actualización al momento de sentencia con índices
+     IERIC o equivalentes.
+   - Fundamentar razonabilidad con referencia a jurisprudencia SCBA
+     sobre composición del presupuesto (materiales + mano obra +
+     gastos generales 30% + proyecto 7% + honorarios 9%).
+
+c) Ingresos digitales:
+   - Reunir toda la documentación de YouTube/AdSense con
+     certificación notarial o firma digital.
+   - Solicitar peritaje contable que proyecte lucro cesante sobre
+     histórico 12-24 meses.
+   - Acreditar nexo causal entre obra y pérdida de capacidad
+     productiva mediante pericial médica y testimonial.
+
+2. ENFOQUE DEMANDADO
+--------------------
+
+a) Tasación:
+   - Impugnar metodología si no se ajusta a parámetros de la Ley
+     Impositiva PBA o tablas de depreciación del art. 49 Ley 12.576.
+   - Cuestionar si el perito distingue adecuadamente entre deterioro
+     preexistente y daño atribuible a la obra.
+   - Ofrecer perito de parte con tasación alternativa.
+
+b) Presupuestos:
+   - Verificar que los presupuestos correspondan estrictamente a
+     reparaciones del daño reclamado y no a mejoras o ampliaciones.
+   - Impugnar presupuestos que incluyan rubros excesivos o no
+     vinculados causalmente a la obra lindera.
+   - Solicitar pericia de oficio si los presupuestos son inconsistentes
+     entre sí.
+
+c) Ingresos digitales:
+   - Cuestionar autenticidad de los informes digitales si no están
+     debidamente certificados.
+   - Argumentar que la baja de ingresos puede obedecer a múltiples
+     factores (cambios de algoritmo, tendencias de mercado, etc.)
+     y no exclusivamente a la obra.
+   - Solicitar informe a Google LLC/Ireland vía oficio judicial
+     para contrastar datos aportados por el actor.
+
+3. ENFOQUE PODER JUDICIAL
+--------------------------
+
+a) Valoración de tasaciones:
+   - Aplicar sana crítica (art. 165 CPCCPBA) evaluando coherencia
+     metodológica, fundamentos técnicos y concordancia con valores
+     referenciales oficiales.
+   - Verificar habilitación del tasador y su inscripción en el
+     Cuerpo de Tasadores Judiciales.
+
+b) Valoración de presupuestos:
+   - Ponderar razonabilidad comparando los presupuestos entre sí
+     y con la pericia de oficio.
+   - Conforme SCBA: la fórmula matemática es punto de partida,
+     ajustable a la realidad probada.
+
+c) Valoración de ingresos digitales:
+   - Admitir documentación digital certificada como prueba válida.
+   - Evaluar nexo causal con especial rigor dado lo novedoso del
+     rubro en la jurisprudencia bonaerense.
+   - Ponderar peritaje contable como elemento central de
+     cuantificación del lucro cesante digital.
+
+4. ENFOQUE PERITAJE
+-------------------
+
+a) Perito tasador:
+   - Debe aplicar método comparativo antes/después con fundamentación
+     técnica de los valores asignados.
+   - Utilizar valores de referencia de Ley Impositiva PBA 2026
+     (Formularios 903-916) como base, ajustados a valores de mercado.
+   - Aplicar tabla de depreciación art. 49 Ley 12.576 PBA.
+   - Documentar con fotografías, planos y relevamiento in situ.
+
+b) Perito ingeniero civil:
+   - Verificar que los presupuestos de reparación reflejen
+     correctamente las tareas necesarias y sus costos.
+   - Emitir dictamen sobre razonabilidad técnica y económica.
+   - Actualizar montos con índices IERIC vigentes.
+
+c) Perito contador:
+   - Analizar ingresos históricos de YouTube/AdSense con
+     documentación respaldatoria (extractos, AFIP, informes Google).
+   - Proyectar lucro cesante aplicando metodología de ingresos
+     históricos promediados sobre 12-24 meses previos.
+   - Verificar consistencia entre declaraciones AFIP y pagos
+     efectivamente recibidos de Google.
+
+d) Perito informático (si se requiere):
+   - Verificar autenticidad e integridad de los datos digitales
+     aportados (dashboards, informes, screenshots).
+   - Emitir dictamen sobre posible manipulación de datos.
+   - Preservar cadena de custodia digital.
+
+================================================================================
+FIN FICHA 55
+================================================================================
