@@ -253,5 +253,33 @@ Q. PROMPTS DE INVESTIGACIÓN
 - Prompt de búsqueda de precedentes (10 categorías)
 
 ========================================================================
+R. CONTENIDO TÉCNICO-CIENTÍFICO (NUEVO 18/04/2026)
+========================================================================
+- Deterioro de membrana asfáltica por agua estancada
+- Interacciones físicas y químicas (peso, temperatura, condensación)
+- Evolución del daño (corto, mediano, largo plazo)
+- Reparabilidad de membranas (<30% vs >40%)
+- Principio de Bernoulli aplicado a instalaciones domiciliarias
+- Ecuación de Darcy-Weisbach (pérdidas por fricción)
+- Golpe de ariete y presión excesiva en válvulas de flotador
+- Normativa AySA para desagüe pluvial en AMBA
+
+========================================================================
+S. PERICIAS REALES Y CASOS JUDICIALES (NUEVO 18/04/2026)
+========================================================================
+- Caso Beltrandi c/ Fideicomiso Vergara (Lomas de Zamora, 2025)
+- Caso Quilmes 2024 (daños por humedad obra vecina)
+- Caso Medina c/ Villanueva González Veiga (Cámara Nacional Civil Sala B)
+- Caso Ferro c/ Cometta (Trenque Lauquen, 2023)
+- Caso Necochea 2022 (cobro medianería y daños)
+- Pericia real Pessutti c/ Menefrega (Arq. Barbara Cornisa)
+- Informe técnico real vivienda lindera
+- Diagnóstico de fisuras y grietas en medianera
+- Estructura estándar informe pericial (9 secciones)
+- Patrón de justificación técnica (5 pasos)
+- Bases de datos jurisprudenciales (JUBA, ElDial, CIJ)
+- Links a documentos PDF descargables
+
+========================================================================
 FIN DEL ÍNDICE ENUNCIATIVO
 ========================================================================

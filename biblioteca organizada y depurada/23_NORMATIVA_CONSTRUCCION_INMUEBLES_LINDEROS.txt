@@ -200,3 +200,41 @@ Obras citadas
                28. DECRETO REGLAMENTARIO DE LA LEY 13.512 SOBRE PROPIEDAD HORIZONTAL., fecha de acceso: abril 5, 2026, https://www.saij.gob.ar/18734-nacional-decreto-reglamentario-ley-13512-sobre-propiedad-horizontal-dn19490018734-1949-08-06/123456789-0abc-437-8100-9491soterced
                29. RESUMEN - RESOLUCIÓN 1069 / 1991 - SALUD Y SEGURIDAD EN LA CONSTRUCCION, fecha de acceso: abril 5, 2026, https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-1069-1991-24701
                30. Ordenanza Nº3326 - Sistema de Boletín Oficial Municipal | Buenos Aires Provincia, fecha de acceso: abril 5, 2026, https://sibom.slyt.gba.gob.ar/bulletins/12065/contents/2164630
+================================================================================
+COMPLEMENTO: ORDENANZAS MUNICIPALES DE MERLO Y NORMATIVA ADICIONAL
+(Incorporado el 18/04/2026 desde informe_normativo_merlo)
+================================================================================
+
+ORDENANZA Nro. 744-HCD-2000 — PLANEAMIENTO URBANO Y CÓDIGO DE EDIFICACIÓN
+DE LA MUNICIPALIDAD DE MERLO:
+  Incumbencia: Ordenamiento urbano del Partido de Merlo; control de gestión
+  urbana; permiso de aptitud urbanística previo a permiso de edificación;
+  evaluación de inserción urbana, morfología edilicia, calidad constructiva
+  y condiciones de habitabilidad; requisitos de seguridad estructural y
+  cumplimiento del Código de Edificación municipal.
+
+ORDENANZA Nro. 7084/23 (modelo de control de obras aplicable a municipios
+bonaerenses):
+  Incumbencia: Determinación de derechos de construcción y visado;
+  paralización preventiva de obras sin permiso; recargos por obras
+  clandestinas; fiscalización y exigencia de documentación técnica;
+  aplicación de sanciones por incumplimiento normativo.
+
+REGLAMENTO DE CONSTRUCCIÓN DE OBRAS PARTICULARES (modelo provincial):
+  Incumbencia: Alturas máximas de edificación; proyección de tanques de
+  agua, chimeneas y conductos; restricciones de carga estructural;
+  especificaciones técnicas para elementos sobre losa (hasta 1,50 m de
+  sobresalida sobre altura máxima según tipología); normas de seguridad
+  estructural básica.
+
+RESOLUCIONES DE LA DIRECCIÓN DE OBRAS PARTICULARES (D.O.P.) DE MERLO:
+  Incumbencia: Actos administrativos de fiscalización; intimaciones;
+  paralizaciones preventivas; requerimiento de documentación técnica
+  (planos de estructura, memoria de cálculo, especificaciones de cargas);
+  notificaciones por ejecución de obras sin permiso.
+
+CIRCULAR TÉCNICA SOBRE NORMAS AEA (Asociación Electrotécnica Argentina):
+  Incumbencia: Riesgos eléctricos derivados de obras de construcción sin
+  cumplimiento de normas de seguridad; prevención de accidentes por contactos
+  indirectos; protección de vecinos frente a riesgos eléctricos de
+  instalaciones provisionales o definitivas no reglamentarias.

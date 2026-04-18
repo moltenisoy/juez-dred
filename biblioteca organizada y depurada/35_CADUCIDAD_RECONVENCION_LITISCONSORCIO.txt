@@ -192,5 +192,56 @@ Sin intervención específica, excepto si uno de los co-responsables es el Estad
 (Municipio), en cuyo caso la Fiscalía de Estado puede intervenir.
 
 ================================================================================
+COMPLEMENTO: DETALLE PROCESAL ADICIONAL
+(Incorporado el 18/04/2026 desde MARCO_TEORICO_DEMANDA_MERLO)
+================================================================================
+
+PROCEDIMIENTO DE DECLARACIÓN DE CADUCIDAD (Art. 315 CPCC PBA):
+- Puede solicitarse por única vez en primera instancia por el demandado.
+- En incidentes, por el contrario de quien lo promovió.
+- En recursos, por la parte recurrida.
+- Debe formularse ANTES de consentir cualquier actuación posterior al
+  vencimiento del plazo.
+
+INTIMACIÓN PREVIA Y EFECTOS:
+El juez debe intimar a las partes para que en 5 días manifiesten intención
+de continuar y produzcan actividad procesal útil. Si no lo hacen, se decreta
+la caducidad.
+
+CONSECUENCIAS SOBRE LA PRESCRIPCIÓN:
+La caducidad de instancia NO afecta la prescripción de la acción. El actor
+puede entablar nueva demanda si no ha vencido el plazo prescriptivo
+(Art. 2561 CCCN: 3 años para daños).
+
+RECONVENCIÓN — DETALLE PROCESAL (Art. 357 CPCC PBA):
+"El demandado puede reconvenir al actor, oponiendo contra su pretensión
+cualquier derecho que tenga contra él, aun cuando no tuviere relación con
+la causa invocada por aquél."
+
+Posibles fundamentos del demandado en obra lindera:
+- Daños causados por el demandante a su propiedad (contraprestación).
+- Deudas de medianería (obligaciones de vecindad).
+- Impedimento legítimo de construir (si existían derechos adquiridos).
+- Culpa concurrente del demandante (Art. 1112 CCCN).
+
+COMPENSACIÓN DE CRÉDITOS (Art. 734 CCCN):
+Si prosperan parcialmente demanda y reconvención, el juez puede:
+- Compensar los créditos (hasta concurrencia de montos).
+- Condenar por la diferencia a favor del crédito mayor.
+- Aplicar el principio de la derrota para costas proporcionalmente.
+
+LITISCONSORCIO — MECANISMOS DE IDENTIFICACIÓN DEL CONSTRUCTOR:
+- Prueba testimonial (testigos de la obra).
+- Oficios a UOCRA (sindicato de la construcción).
+- Consulta a AFIP (relación laboral o de servicios).
+- Registro de obras municipales (si existiera alguna tramitación parcial).
+
+EFECTOS DE LA NO CITACIÓN DE UN LITISCONSORTE NECESARIO:
+- La sentencia puede ser declarada nula de oficio o a pedido de parte.
+- No se puede ejecutar contra el no citado.
+- El propietario demandado puede alegar que el responsable es el tercero
+  no traído al proceso.
+
+================================================================================
 FIN DE TEMAS 8-10
 ================================================================================

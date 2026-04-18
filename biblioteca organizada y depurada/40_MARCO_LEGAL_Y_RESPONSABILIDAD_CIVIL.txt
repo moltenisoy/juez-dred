@@ -557,5 +557,78 @@ Reglas probatorias favorables:
 privada de un particular no está pacíficamente resuelta en jurisprudencia PBA.
 
 ================================================================================
+COMPLEMENTO: NORMATIVA CONSTITUCIONAL Y DOCTRINA ADICIONAL
+(Incorporado el 18/04/2026 desde informe_normativo_merlo)
+================================================================================
+
+NORMATIVA CONSTITUCIONAL ADICIONAL:
+
+Art. 12, inciso 3, de la Constitución de la Provincia de Buenos Aires:
+  Incumbencia: Derecho al respeto de la dignidad, honor e integridad
+  física, psíquica y moral de los habitantes; protección frente a riesgos
+  de obras que comprometen la seguridad física de vecinos. Complementa el
+  Art. 36 inc. 7° (vivienda digna) y el Art. 28 (ambiente sano).
+
+LEY 14.432 DE PROCEDIMIENTO ADMINISTRATIVO DE LA PROVINCIA DE BUENOS AIRES:
+  Incumbencia: Procedimientos de denuncia ante la administración municipal;
+  actos de fiscalización y control de obras; ejercicio del poder de policía
+  edilicia para ordenar paralización de obras clandestinas o peligrosas.
+
+DISPOSICIÓN 76/97 (normativa de transporte y cisternas):
+  Incumbencia: Especificaciones técnicas para cisternas y tanques; elementos
+  de seguridad estructural; protección antivuelco; válvulas de emergencia;
+  requisitos de estabilidad y sujeción de estructuras contenedoras (aplicable
+  por analogía a cisternas fijas de gran capacidad como tanques de agua de
+  +800 kg sobre losa).
+
+DOCTRINA ADICIONAL:
+
+Cámara Nacional Civil, Sala H (autos B., C.F. c. C., N. y otro y K., A.J.
+c. C., N. y otro, 09/05/2018):
+  Construcción como actividad peligrosa; factor de atribución objetivo;
+  pluralidad de sujetos responsables (comitente, locadores, director de
+  obra, proyectistas); eximentes limitadas a caso fortuito, culpa de la
+  víctima o hecho de tercero; daños probados durante la ejecución de la obra.
+
+Cámara Nacional Civil, Sala J (autos Tucci, Paula c. Instituto José Manuel
+Estrada S.A., 16/09/2003 — Fallo 107.598):
+  Responsabilidad objetiva del dueño de obra por excavaciones que causan
+  daños en terreno lindero; indemnización por daño moral cuando los
+  padecimientos generan alteración en la convivencia y sensación de
+  inseguridad; aplicación del Art. 1113 CC por riesgo propio de la
+  actividad (hoy Arts. 1757-1758 CCCN).
+
+Cámara Civil y Comercial de Quilmes, Sala I (Febrero 2024, autos G.E.A. y
+otro s/ daños y perjuicios):
+  Daños por obras vecinas constituyen actividad riesgosa; responsabilidad
+  objetiva e indistinta del dueño del inmueble, empresa constructora y
+  arquitectos; daños por asentamientos diferenciales; indemnización por
+  daño moral por alteración de la convivencia y sensación de inseguridad.
+
+SITUACIONES FÁCTICAS MAPEADAS A NORMATIVA APLICABLE:
+
+1. Construcción sin permisos ni cumplimiento de seguridad:
+   → Ordenanza Municipal de Merlo; Código de Edificación local;
+     Ley 14.432; Art. 1277 CCyC.
+
+2. Daños directos al inmueble vecino (grietas, humedades, daños
+   estructurales):
+   → Arts. 1737-1739 CCyC; Art. 2618 CCyC; Doctrina Cámara Quilmes 2024.
+
+3. Daños indirectos (riesgo eléctrico, de derrumbe, integridad física):
+   → Arts. 1741-1742 CCyC; Art. 12 Const. PBA; Art. 623 bis CPCC;
+     Doctrina Cámara Nacional Civil.
+
+4. Modificación estructural sin permiso (tanque de +800 kg sobre losa):
+   → Ley 13.512; Reglamento de Construcción; Arts. 1955-1957 CCyC.
+
+5. Trabajos sin estudios técnicos ni medidas de seguridad:
+   → Arts. 1273-1277 CCyC; Disposiciones técnicas D.O.P.; Doctrina CAPSF.
+
+6. Denuncia y medidas de seguridad urgentes:
+   → Art. 2499 CCyC; Art. 623 bis CPCC; Art. 2631 CCyC; Ordenanza
+     Municipal.
+
+================================================================================
 FIN DEL ARCHIVO 40 — MARCO LEGAL Y RESPONSABILIDAD CIVIL
 ================================================================================

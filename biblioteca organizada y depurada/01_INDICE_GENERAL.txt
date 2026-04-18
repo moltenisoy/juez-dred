@@ -378,3 +378,74 @@ TODA LA INFORMACIÓN ORIGINAL HA SIDO PRESERVADA.
 SOLO SE ELIMINÓ EL CONTENIDO VERIFICADAMENTE IDÉNTICO.
 
 ================================================================================
+
+================================================================================
+                  ARCHIVOS NUEVOS INCORPORADOS (18/04/2026)
+================================================================================
+
+47_DETERIORO_MEMBRANA_PRESION_HIDRAULICA.txt
+   → Análisis técnico-científico del deterioro de membrana asfáltica por
+     agua estancada (interacciones físicas y químicas, evolución temporal,
+     reparabilidad), normativa de desagüe pluvial en AMBA/Merlo (AySA,
+     Decreto-Ley 8912/77), y presión hidráulica en instalaciones
+     domiciliarias (Principio de Bernoulli, ecuación de Darcy-Weisbach,
+     impacto en válvulas de flotador y tanques cisterna).
+   FUENTE ORIGINAL: PRESION DE AGUA,DESAGOTE,MEMBRANA.txt
+
+48_PERICIAS_REALES_JURISPRUDENCIA_CASOS.txt
+   → Recopilación de 6 casos judiciales reales con pericias (Beltrandi c/
+     Fideicomiso Vergara 2025, Quilmes 2024, Medina c/ Villanueva, Ferro c/
+     Cometta 2023, Necochea 2022, CIJ/CSJN); 3 textos periciales reales
+     transcriptos (Pessutti c/ Menefrega, informe vivienda lindera, fisuras
+     medianera); estructura estándar del informe pericial (9 secciones);
+     patrón de redacción de justificación técnica (5 pasos); criterios
+     jurisprudenciales clave (8 criterios); bases de datos y fuentes para
+     investigación; links directos a documentos PDF descargables.
+   FUENTE ORIGINAL: PERICIAS_DAÑOS_INMUEBLE_OBRA_LINDERA_BUENOS_AIRES.txt
+
+================================================================================
+              ARCHIVOS EXISTENTES COMPLEMENTADOS (18/04/2026)
+================================================================================
+
+Los siguientes archivos recibieron información complementaria nueva:
+
+23_NORMATIVA_CONSTRUCCION_INMUEBLES_LINDEROS.txt
+   → Agregadas: Ordenanza 744-HCD-2000 Merlo (planeamiento urbano),
+     Ordenanza 7084/23 (control de obras), Reglamento de Construcción de
+     Obras Particulares, resoluciones de la D.O.P. de Merlo, normas AEA.
+   FUENTE: informe_normativo_merlo.txt
+
+32_COBRABILIDAD_Y_PROTECCION_VIVIENDA.txt
+   → Agregado: Detalle de inhibición general de bienes (Art. 228 CPCC PBA),
+     procedimiento, levantamiento, efectos registrales, oficios a organismos
+     públicos (Registro Propiedad, ARBA, BCRA, AFIP).
+   FUENTE: MARCO_TEORICO_DEMANDA_MERLO.txt
+
+34_COSTAS_Y_DEPRECIACION_INMUEBLE.txt
+   → Agregado: Escalas de honorarios Ley 14.967 PBA (11-20% ordinarios,
+     15-25% sumarios), carácter alimentario (Art. 10), ejecución (Art. 58),
+     intereses sobre honorarios (Art. 54), metodología pericial para
+     cuantificar depreciación permanente.
+   FUENTE: MARCO_TEORICO_DEMANDA_MERLO.txt
+
+35_CADUCIDAD_RECONVENCION_LITISCONSORCIO.txt
+   → Agregado: Procedimiento Art. 315 CPCC PBA, efectos sobre prescripción,
+     reconvención Art. 357 con fundamentos posibles, compensación de créditos
+     Art. 734 CCCN, mecanismos de identificación del constructor.
+   FUENTE: MARCO_TEORICO_DEMANDA_MERLO.txt
+
+38_DANO_PSICOFISICO_E_INTERESES_BARRIOS.txt
+   → Agregado: Tramos de intereses (doctrina Ginossi/Vera/Nidera), cálculo
+     por rubro según Cámara de Morón (Acuerdo Morano), anatocismo Art. 770
+     inc. c CCCN, interacción con actualización monetaria, cuantificación
+     jurisprudencial PBA de daño psicofísico (montos 2023-2025).
+   FUENTE: MARCO_TEORICO_DEMANDA_MERLO.txt
+
+40_MARCO_LEGAL_Y_RESPONSABILIDAD_CIVIL.txt
+   → Agregados: Art. 12 inc. 3 Const. PBA (dignidad e integridad), Ley
+     14.432 PBA (procedimiento administrativo), Disposición 76/97, doctrina
+     adicional (Cámara Nacional Civil Salas H y J, Cámara Quilmes 2024),
+     6 situaciones fácticas mapeadas a normativa aplicable.
+   FUENTE: informe_normativo_merlo.txt
+
+================================================================================
