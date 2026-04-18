@@ -1,0 +1,320 @@
+================================================================================
+DETERIORO DE MEMBRANA ASFÁLTICA POR AGUA ESTANCADA, NORMATIVA DE
+DESAGÜE PLUVIAL Y PRESIÓN HIDRÁULICA EN INSTALACIONES DOMICILIARIAS
+================================================================================
+ARCHIVO: 47 de la Biblioteca Organizada y Depurada
+Fecha de incorporación: 18 de abril de 2026
+================================================================================
+
+ÍNDICE:
+  PARTE I   — Deterioro de membrana asfáltica por agua estancada
+  PARTE II  — Normativa de desagüe pluvial en AMBA/Merlo
+  PARTE III — Presión hidráulica y tanque cisterna: fundamento técnico-científico
+
+================================================================================
+PARTE I — DETERIORO DE MEMBRANA ASFÁLTICA POR AGUA ESTANCADA
+================================================================================
+
+RELEVANCIA PARA EL CASO:
+El agua estancada sobre una membrana asfáltica en rollo, causada por pendiente
+insuficiente del techo (situación directamente vinculada a obras sin permisos
+que modifican escurrimientos), es uno de los principales factores que acorta
+drásticamente la vida útil de la cubierta y puede comprometer la estructura
+del edificio. Este análisis técnico sustenta la cuantificación de daños y la
+acreditación del nexo causal en pericias.
+
+--------------------------------------------------------------------------------
+1. DEFINICIÓN Y ORIGEN DEL PROBLEMA
+--------------------------------------------------------------------------------
+
+Se considera "agua estancada" aquella que permanece sobre un techo más de 48
+horas después de finalizada una lluvia. Esto ocurre cuando:
+- La pendiente del techo es insuficiente (la industria recomienda un mínimo de
+  2%, equivalente a 1/4 de pulgada por pie lineal).
+- Existen hundimientos locales que impiden el drenaje.
+- La obra lindera modificó los niveles o el escurrimiento natural.
+
+--------------------------------------------------------------------------------
+2. INTERACCIONES FÍSICAS Y QUÍMICAS
+--------------------------------------------------------------------------------
+
+2.1. PESO Y DEFORMACIÓN ESTRUCTURAL
+El agua acumulada añade una carga significativa (aprox. 10 kN/m³ por cada 10 cm
+de altura de lámina de agua). Esta sobrecarga puede provocar deflexiones
+(hundimientos) en la cubierta, que a su vez generan nuevas zonas de
+estancamiento, creando un círculo vicioso que puede comprometer la integridad
+estructural. [Referencia cruzada: archivo 24_NORMATIVA_TECNICA_CARGAS_ESTRUCTURALES_CIRSOC]
+
+2.2. TEMPERATURAS Y CICLOS TÉRMICOS
+- Congelación-descongelación: El agua que penetra en pequeñas fisuras se
+  congela, aumentando su volumen y agrietando la membrana.
+- Expansión térmica: Los cambios bruscos de temperatura provocan movimientos
+  de contracción y dilatación de la membrana; al no ser acompañados por la
+  estructura, generan fisuras y desprendimientos.
+- Efecto lupa: Las gotas de agua actúan como lentes que concentran la radiación
+  ultravioleta (UV) en puntos específicos, acelerando la oxidación del asfalto.
+
+2.3. CONDENSACIÓN Y HUMEDAD ATRAPADA
+El agua estancada incrementa la humedad ambiental bajo la membrana, favoreciendo
+la condensación en la superficie del aislamiento o del forjado. Esto reduce la
+eficiencia térmica y puede provocar la formación de burbujas y ampollas por
+vapor atrapado entre las capas.
+
+2.4. FILTRACIÓN Y PENETRACIÓN
+El agua comienza a filtrarse a través de micro-grietas, juntas mal selladas o
+poros de la membrana. Una vez bajo la lámina, se extiende lateralmente (efecto
+capilar) y puede aparecer a metros del punto de entrada, dificultando la
+detección de la fuente. [Referencia cruzada: archivo 28_NORMATIVA_DAÑOS_EDILICIOS_HABITABILIDAD]
+
+2.5. EROSIÓN Y PERCUDIDO (ENSUCIAMIENTO)
+El flujo superficial y las sales disueltas erosionan la capa superficial de la
+membrana, desprendiendo los gránulos minerales protectores. La suciedad y los
+contaminantes se acumulan en los charcos, formando una costra que retiene más
+humedad y acelera el deterioro.
+
+2.6. PROCESOS QUÍMICOS ESPECÍFICOS
+- Oxidación acelerada del asfalto: El agua estancada actúa como catalizador
+  de la oxidación (normalmente tarda años). Provoca endurecimiento,
+  fragilización y pérdida de elasticidad.
+- Carbonatación del hormigón: Si el agua alcanza el forjado, el CO₂
+  atmosférico reacciona con los componentes alcalinos del cemento, reduciendo
+  el pH y desprotegiendo las armaduras metálicas.
+- Corrosión del acero: Las armaduras oxidadas pueden aumentar hasta 6 veces
+  su volumen, generando grietas y desprendimientos del hormigón.
+- Delaminación: Separación de las capas de la membrana por pérdida de
+  adherencia inducida por la humedad.
+
+--------------------------------------------------------------------------------
+3. EVOLUCIÓN DEL DAÑO EN EL TIEMPO
+--------------------------------------------------------------------------------
+
+CORTO PLAZO (semanas a meses):
+- Manchas superficiales y pérdida de brillo.
+- Aparición de pequeñas burbujas o ampollas.
+- Comienzo de erosión de la capa granular protectora.
+- Olores a humedad en el interior.
+
+MEDIANO PLAZO (1 a 5 años):
+- Grietas visibles y formación de "piel de cocodrilo" (alligatoring).
+- Desprendimiento de gránulos cerámicos.
+- Filtraciones activas con manchas en techos interiores.
+- Reducción notable de la vida útil: una membrana diseñada para 20 años
+  puede fallar en solo 5 años.
+
+LARGO PLAZO (5 a 20 años):
+- Hundimientos estructurales por fatiga del forjado.
+- Carbonatación avanzada y corrosión de armaduras.
+- Crecimiento de musgo, algas o raíces que penetran la membrana.
+- Pérdida total de la impermeabilización, con necesidad de reemplazo completo.
+
+NOTA: Una membrana diseñada para durar 20 años puede fallar en solo 5 si hay
+agua estancada crónica. Esto multiplica por 5 el costo de reparación respecto
+a una corrección temprana de la pendiente y la membrana.
+
+--------------------------------------------------------------------------------
+4. REPARABILIDAD Y CRITERIOS TÉCNICOS
+--------------------------------------------------------------------------------
+
+REPARACIÓN LOCAL (daño < 30% del área):
+Es viable si la membrana tiene menos de 10 años y no hay problemas
+estructurales subyacentes. Se utilizan selladores asfálticos, membranas
+líquidas o parches del mismo material.
+
+REEMPLAZO PARCIAL O TOTAL (daño > 40% o más de 15-20 años de antigüedad):
+Resulta más económico que seguir parcheando. La nueva membrana tendrá una
+garantía de 15-30 años.
+
+CONDICIÓN PREVIA OBLIGATORIA: Antes de cualquier intervención es
+imprescindible corregir la pendiente (mediante morteros de nivelación,
+aislamiento cónico o nuevos desagües) para evitar que el agua vuelva a
+acumularse.
+
+--------------------------------------------------------------------------------
+5. CONSECUENCIAS SI EL AGUA ATRAVIESA LA MEMBRANA
+--------------------------------------------------------------------------------
+
+a) Daño al aislamiento térmico: La humedad reduce drásticamente su capacidad
+   aislante y puede provocar la aparición de hongos y moho.
+   [Referencia cruzada: archivo 28_NORMATIVA_DAÑOS_EDILICIOS_HABITABILIDAD]
+
+b) Ataque al forjado: El agua disuelve componentes del hormigón y favorece
+   la carbonatación, debilitando la estructura.
+
+c) Corrosión de armaduras: El acero se oxida, se expande y agrieta el
+   hormigón, comprometiendo la seguridad del edificio.
+
+d) Filtraciones al interior: Además de las manchas, la humedad puede dañar
+   equipos eléctricos, mobiliario y generar condiciones insalubres.
+   [Referencia cruzada: archivo 20_DANOS_POR_HUMEDAD_A_BIENES_Y_EQUIPOS_ELECTRONICOS]
+
+================================================================================
+PARTE II — NORMATIVA DE DESAGÜE PLUVIAL EN AMBA/MERLO
+================================================================================
+
+RELEVANCIA PARA EL CASO:
+La correcta disposición de las aguas pluviales es una obligación normativa.
+Una obra clandestina que modifique el escurrimiento sin respetar estas normas
+configura un incumplimiento adicional que refuerza la responsabilidad civil.
+
+--------------------------------------------------------------------------------
+6. MARCO NORMATIVO PROVINCIAL
+--------------------------------------------------------------------------------
+
+- Decreto-Ley 8912/77 de Ordenamiento Territorial y Uso del Suelo de la
+  Provincia de Buenos Aires: Establece los objetivos generales que los
+  municipios deben seguir, incluyendo la regulación de los desagües.
+
+- Art. 2630 del Código Civil y Comercial de la Nación: Obliga a construir
+  los techos de manera que las aguas caigan sobre el propio suelo o la vía
+  pública, prohibiendo terminantemente que el escurrimiento se produzca sobre
+  el suelo del vecino. [Ya presente en archivo 23, se complementa aquí]
+
+--------------------------------------------------------------------------------
+7. NORMATIVA DE AySA PARA EL AMBA (INCLUYE MERLO)
+--------------------------------------------------------------------------------
+
+Para el Área Metropolitana de Buenos Aires (AMBA), que incluye al Partido de
+Merlo, la empresa AySA es la prestadora de los servicios de agua y cloacas.
+
+PRINCIPIO RECTOR: SEPARACIÓN OBLIGATORIA DE SISTEMAS
+
+- Los desagües CLOACALES (inodoros, lavatorios, cocina, etc.) se conectan a
+  la red cloacal municipal (si existe) o a una cámara séptica.
+
+- Los desagües PLUVIALES (techos, patios, terrazas) NO pueden conectarse a
+  la red cloacal. AySA lo prohíbe explícitamente para evitar sobrecargas en
+  el sistema de tratamiento de efluentes cloacales.
+
+- Los desagües pluviales deben verter a la calzada (la calle) o al sistema
+  de drenaje pluvial municipal, si existe.
+
+NOTA: No se ha localizado una ordenanza específica de Merlo que establezca un
+procedimiento particular distinto al principio general. Se recomienda confirmar
+con la Dirección de Obras Particulares de la Municipalidad de Merlo.
+
+================================================================================
+PARTE III — PRESIÓN HIDRÁULICA Y TANQUE CISTERNA
+================================================================================
+
+RELEVANCIA PARA EL CASO:
+Cuando una obra clandestina modifica la posición de un tanque cisterna (por
+ejemplo, reubicándolo a una altura superior), se altera la presión hidráulica
+del sistema con consecuencias técnicas verificables. Este análisis sustenta
+la acreditación de daños a la instalación y sus componentes.
+
+--------------------------------------------------------------------------------
+8. FUNDAMENTO TEÓRICO: PRINCIPIO DE BERNOULLI
+--------------------------------------------------------------------------------
+
+El comportamiento del agua en una tubería se rige por la ley de conservación
+de la energía, expresada en mecánica de fluidos mediante el Principio de
+Bernoulli:
+
+  P + (1/2) × ρ × v² + ρ × g × h = Constante
+
+Donde:
+  P = presión del fluido
+  ρ (rho) = densidad del fluido (agua ≈ 1000 kg/m³)
+  v = velocidad del fluido
+  g = aceleración de la gravedad (9,81 m/s²)
+  h = altura del fluido sobre un nivel de referencia
+
+Conclusiones clave:
+1) La presión y la velocidad son INVERSAMENTE proporcionales.
+2) La presión y la altura son DIRECTAMENTE proporcionales: a mayor altura
+   de la columna de agua ("carga" o "cabeza" hidráulica), mayor presión.
+   Se mide en metros de columna de agua (m.c.a.): 1 m.c.a. ≈ 0,1 bar.
+
+--------------------------------------------------------------------------------
+9. ANÁLISIS COMPARATIVO DE ESCENARIOS DE PRESIÓN
+--------------------------------------------------------------------------------
+
+ESCENARIO A (suministro inferior al tanque — agua asciende contra gravedad):
+- Suministro a -0,20 m del suelo, ingreso al tanque a +3,50 m.
+- Diferencia de altura (Δh) = 3,70 m
+- Presión generada: 3,70 m × 0,1 bar/m = 0,37 bar (~5,4 PSI)
+- La altura es una RESISTENCIA que el agua debe vencer.
+
+ESCENARIO B (suministro superior al tanque — agua desciende a favor de gravedad):
+- Suministro a +1,50 m por encima del punto de ingreso.
+- Diferencia de altura (Δh) = 1,50 m
+- Presión generada: 1,50 m × 0,1 bar/m = 0,15 bar (~2,2 PSI)
+- La altura actúa como FUENTE de energía.
+
+Con presión de red típica en Argentina (~3-4 bar):
+- Escenario A: ~3 + 0,37 = ~3,37 bar
+- Escenario B: ~3 + 0,15 = ~3,15 bar
+La diferencia del Escenario A es ~2,5 veces mayor que la del B.
+
+--------------------------------------------------------------------------------
+10. PÉRDIDAS POR FRICCIÓN: ECUACIÓN DE DARCY-WEISBACH
+--------------------------------------------------------------------------------
+
+En la realidad, el agua tiene viscosidad y roza con las paredes de la tubería.
+La pérdida de carga se calcula mediante la ecuación de Darcy-Weisbach,
+considerando:
+
+- Longitud y diámetro de la tubería (mayor longitud o menor diámetro = mayor
+  pérdida).
+- Rugosidad de las paredes (hierro fundido es más rugoso que PVC).
+- Número de accesorios (codos, válvulas, etc.): cada uno introduce una pérdida
+  de carga localizada.
+
+Para determinar la presión real en el tanque, no basta con conocer la altura;
+es necesario considerar el trazado completo de la tubería de alimentación.
+
+--------------------------------------------------------------------------------
+11. IMPACTO DE LA PRESIÓN EXCESIVA EN LA INSTALACIÓN
+--------------------------------------------------------------------------------
+
+11.1. VÁLVULA DE FLOTADOR (componente más crítico):
+- Mayor estrés mecánico y desgaste prematuro.
+- Pérdida de estanqueidad (goteo o fuga continua).
+- Golpe de ariete: el cierre brusco bajo mayor presión genera un martilleo
+  en las cañerías que puede dañar juntas, codos y la propia válvula.
+- Sobre-esfuerzo del flotador: el brazo y el flotador deben ejercer más
+  fuerza para cerrar el paso, pudiendo doblarse o romperse.
+
+11.2. TANQUE CISTERNA:
+- Los tanques de polietileno NO están diseñados para ser presurizados.
+- La presión excesiva puede causar deformación, abolladura o agrietamiento,
+  especialmente en uniones y conexiones.
+- Cada junta, unión roscada o soldada es un punto débil ante presión extra.
+
+11.3. SEÑALES DE DETECCIÓN:
+- Ruidos (golpes o martilleos al cerrarse el flotador).
+- Rebose continuo por el desagüe.
+- Vibraciones notorias en la cañería de alimentación.
+- Flotador doblado o con agua en su interior (grieta).
+
+11.4. SOLUCIONES TÉCNICAS:
+- Válvula reductora de presión en la línea de alimentación (antes del tanque).
+- Flotador de cierre rápido (cierre gradual y suave).
+- Vaso de expansión o dispositivo anti-golpe de ariete.
+
+================================================================================
+VINCULACIÓN JURÍDICA
+================================================================================
+
+Los contenidos técnicos de este archivo sustentan:
+
+1) ACREDITACIÓN DE DAÑOS (Arts. 1737-1739 CCCN): La degradación de la membrana
+   y las filtraciones son daños materiales cuantificables mediante pericia.
+
+2) NEXO CAUSAL (Art. 1726 CCCN): La modificación de pendientes y escurrimientos
+   por la obra lindera es la causa directa del agua estancada.
+
+3) RESPONSABILIDAD OBJETIVA (Arts. 1757-1758 CCCN): La actividad constructiva
+   es riesgosa; quien la despliega responde por los daños causados a terceros.
+
+4) INCUMPLIMIENTO NORMATIVO: La violación del Art. 2630 CCCN (escurrimiento
+   hacia predio vecino) y de la separación de sistemas pluvial/cloacal
+   configura antijuridicidad adicional.
+
+5) DAÑO A INSTALACIONES: La modificación de la posición del tanque cisterna
+   que genera presión excesiva constituye un daño a la instalación del
+   inmueble vecino, cuantificable mediante pericia técnica.
+
+================================================================================
+FIN DEL ARCHIVO 47
+================================================================================
