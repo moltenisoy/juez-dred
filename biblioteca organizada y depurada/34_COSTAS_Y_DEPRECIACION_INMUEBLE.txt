@@ -123,5 +123,51 @@ PERSPECTIVA DEL MINISTERIO PÚBLICO:
 Sin intervención específica en este rubro en materia civil.
 
 ================================================================================
+COMPLEMENTO: DETALLE DE ESCALAS DE HONORARIOS Y EJECUCIÓN
+(Incorporado el 18/04/2026 desde MARCO_TEORICO_DEMANDA_MERLO)
+================================================================================
+
+ESCALAS DE HONORARIOS (Art. 21 Ley 14.967 PBA):
+- Juicios ordinarios: 11% a 20% sobre el monto de la condena (según etapas
+  cumplidas).
+- Juicios sumarios: 15% a 25%.
+- El beneficio de litigar sin gastos NO afecta la regulación de honorarios
+  contra la parte vencida.
+
+CARÁCTER ALIMENTARIO DE LOS HONORARIOS (Art. 10 Ley 14.967):
+- Los honorarios profesionales son de carácter alimentario.
+- Inembargabilidad: si la regulación no supera el SMVM, son inembargables.
+- Embargabilidad limitada: solo hasta el 20% del monto a percibir si supera
+  el SMVM.
+
+EJECUCIÓN DE HONORARIOS (Art. 58 Ley 14.967):
+- La regulación firme constituye título ejecutorio.
+- Tramitación por vía de ejecución de sentencia en incidente separado.
+- Exención de todo gravamen fiscal, tasa de justicia, aportes previsionales.
+
+INTERESES SOBRE HONORARIOS (Art. 54 inc. b Ley 14.967):
+Operada la mora, el profesional puede optar entre:
+a) Reclamar honorarios revaluados en JUS más 12% anual.
+b) Reclamar honorarios convertidos a moneda de curso legal más intereses del
+   Art. 552 CCCN (tasa más alta que cobran los bancos).
+
+HONORARIOS DE PERITOS (Arts. 461-478 CPCC PBA):
+- Se regulan según arancel oficial.
+- Son de cargo de la parte que los propone, salvo disposición judicial.
+- En caso de pericia conjunta, se reparten entre las partes.
+
+METODOLOGÍA PERICIAL PARA CUANTIFICAR DEPRECIACIÓN PERMANENTE:
+1. Tasación del inmueble pre-daño (valor de mercado).
+2. Tasación del inmueble post-reparación (valor de mercado con estigma).
+3. Diferencia entre ambos valores = depreciación.
+4. Estudios de mercado que acrediten el estigma (compradores reacios,
+   menor demanda).
+
+ACUMULACIÓN COSTO DE REPARACIÓN + DEPRECIACIÓN:
+- Costo de reparación: restitución al estado anterior (Art. 1740 CCCN).
+- Depreciación: compensación por la pérdida de valor de mercado irreparable.
+- No existe doble indemnización porque cubren perjuicios diferentes.
+
+================================================================================
 FIN DE TEMAS 6-7
 ================================================================================

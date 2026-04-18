@@ -172,5 +172,49 @@ entre los co-habitantes damnificados, el Asesor de Incapaces deberá intervenir
 en representación de los intereses de los menores (Art. 103 CCCN).
 
 ================================================================================
+COMPLEMENTO: DETALLE DE INHIBICIÓN GENERAL DE BIENES
+(Incorporado el 18/04/2026 desde MARCO_TEORICO_DEMANDA_MERLO)
+================================================================================
+
+CONCEPTO Y NATURALEZA (Art. 228 CPCC PBA):
+"En todos los casos en que habiendo lugar a embargo éste no pudiere hacerse
+efectivo por no conocerse bienes del deudor, o por no cubrir éstos el importe
+del crédito reclamado, podrá solicitarse contra aquél la inhibición general
+de vender o gravar sus bienes."
+
+Características:
+- Medida cautelar genérica.
+- Afecta bienes registrables presentes y futuros.
+- Impide gravar o enajenar (no afecta posesión ni uso).
+- Es subsidiaria del embargo.
+
+PROCEDIMIENTO:
+1. Solicitud en la demanda inicial o en trámite (Art. 228).
+2. Requisitos expresos:
+   - Individualización completa del deudor (nombre, apellido, domicilio,
+     CUIL/CUIT).
+   - Fundamentación de insuficiencia o desconocimiento de bienes.
+   - Cuantificación del crédito reclamado.
+3. Anotación en Registro de la Propiedad Inmueble y Registro del Automotor.
+4. Notificación al inhibido.
+
+LEVANTAMIENTO DE LA INHIBICIÓN:
+- El deudor presenta bienes suficientes a embargo.
+- Se otorga caución bastante (aval, fianza, hipoteca).
+- Se extingue la obligación principal.
+
+EFECTOS REGISTRALES:
+- Inscripción en Sección de Inhibiciones del Registro de la Propiedad.
+- Oponibilidad a terceros desde la fecha de anotación.
+- No concede preferencia sobre anotaciones posteriores.
+- Dura hasta su levantamiento explícito.
+
+OFICIOS A ORGANISMOS PÚBLICOS PARA INVESTIGACIÓN PATRIMONIAL:
+- Registro de la Propiedad Inmueble (consulta de dominio e inhibiciones).
+- ARBA (consulta de bienes muebles e inmuebles, deudas tributarias).
+- BCRA (consulta de cuentas bancarias si existe autorización judicial).
+- AFIP (consulta de inscripción tributaria y bienes registrados).
+
+================================================================================
 FIN DE TEMAS 2-3
 ================================================================================

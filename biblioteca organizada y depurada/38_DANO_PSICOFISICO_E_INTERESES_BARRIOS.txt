@@ -337,5 +337,75 @@ PERSPECTIVA DEL DEMANDADO:
    de la denuncia de daño temido (condición del Art. 623 bis CPCC PBA).
 
 ================================================================================
+COMPLEMENTO: DETALLE DE TRAMOS DE INTERESES Y ANATOCISMO
+(Incorporado el 18/04/2026 desde MARCO_TEORICO_DEMANDA_MERLO)
+================================================================================
+
+DOCTRINA SCBA — PLENARIO "GINOSSI" Y POSTERIORES:
+
+A) TASA APLICABLE:
+- Tasa pasiva más alta del Banco de la Provincia de Buenos Aires (BIP) en
+  depósitos a 30 días (doctrina "Ginossi", "Ponce", "Cabrera").
+- Alternativamente, tasa activa descubierto en cuenta corriente (criterio
+  de Cámaras de Apelaciones departamentales).
+
+B) TRAMOS DE CÁLCULO (post "Vera" y "Nidera", SCBA 2018):
+- Tramo 1: Desde el hecho hasta la fecha de sentencia de primera instancia:
+  Tasa pura del 6% anual (Arts. 622 CC, 768.c CCCN, 770 CCCN).
+- Tramo 2: Desde la sentencia hasta el pago efectivo: Tasa pasiva BIP (o
+  tasa activa según criterio adoptado).
+
+CÁLCULO POR RUBRO SEGÚN CÁMARA DE MORÓN (Acuerdo "Morano" y siguientes):
+
+RUBRO PRIVACIÓN DE USO:
+- Desde el día del hecho hasta sentencia: 6% anual (tasa pura).
+- Desde sentencia hasta pago: Tasa activa descubierto en cuenta corriente
+  (sin capitalización).
+
+RUBRO REPARACIÓN DE DAÑOS MATERIALES:
+- Desde la mora (generalmente día del hecho) hasta pago: Tasa activa
+  descubierto en cuenta corriente (sin capitalización).
+
+ANATOCISMO — Art. 770 inc. c CCCN:
+La capitalización de intereses procede cuando:
+- Existe liquidación judicial aprobada.
+- El juez manda pagar la suma resultante.
+- El deudor es moroso en cumplir.
+
+Restricciones:
+- La CSJN estableció que las excepciones del Art. 770 deben interpretarse
+  restrictivamente.
+- No procede capitalización periódica durante la tramitación del juicio.
+- Sí procede capitalización única al momento de la liquidación judicial.
+
+INTERESES SOBRE COSTAS Y HONORARIOS:
+- Costas: Intereses desde el momento de su producción.
+- Honorarios profesionales: Según Art. 54 Ley 14.967 PBA (tasa activa
+  Banco Provincia o 12% según opción del profesional).
+
+INTERACCIÓN CON ACTUALIZACIÓN MONETARIA (Doctrina "Barrios"):
+La actualización monetaria (ajuste por índices de precios) y los intereses
+son conceptos acumulables pero no superponibles:
+- La actualización recupera el valor del capital depreciado por inflación.
+- Los intereses compensan la privación del uso del dinero.
+- No existe doble compensación si se aplican correctamente ambos mecanismos.
+
+CUANTIFICACIÓN JURISPRUDENCIAL PBA (2023-2025) DE DAÑO PSICOFÍSICO:
+- Cuadros leves (ansiedad, insomnio): $1.500.000 - $3.000.000
+- Cuadros moderados (depresión, fobias): $3.000.000 - $6.000.000
+- Cuadros severos (incapacidad permanente parcial): $8.000.000 - $15.000.000
+
+En casos de afecciones respiratorias por hongos/humedad, se suman:
+- Daño físico por patologías respiratorias (incapacidad temporaria o
+  permanente).
+- Costos de tratamiento médico y medicación.
+- Daño psicofísico derivado (trastornos adaptativos).
+
+ACUMULACIÓN CON DAÑO MORAL:
+- Daño moral por privación de goce de la vivienda.
+- Daño psicofísico por patologías objetivadas médicamente.
+- No existe doble indemnización porque protegen bienes jurídicos diferentes.
+
+================================================================================
 FIN DE TEMAS 15-18 Y ADICIONAL
 ================================================================================
