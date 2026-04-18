@@ -1,0 +1,508 @@
+================================================================================
+ARCHIVO 54 - PRUEBA PERICIAL: PSICOLÓGICA, MÉDICA Y TÉCNICA (ELÉCTRICA)
+================================================================================
+Fecha de elaboración: Junio 2025
+Fuentes: CPCCPBA, CCCN, Ley 26.529, Ley 19.587, AEA 90364, OMS,
+SolerPalau 2023, European Lung Foundation 2025
+Aplicable a: Caso obra clandestina lindera - Merlo, Provincia de Buenos Aires
+================================================================================
+
+================================================================================
+SECCIÓN A - INFORME PSICOLÓGICO/PSIQUIÁTRICO COMO PRUEBA
+================================================================================
+
+NORMATIVA APLICABLE:
+- Arts. 474 y ss. CPCCPBA: Régimen de prueba pericial en el proceso civil
+  de la Provincia de Buenos Aires. Designación, producción, impugnación y
+  valoración de pericias.
+- Ley 23.660 de Salud Mental (y Ley 26.657): Marco normativo de salud mental,
+  derechos del paciente psiquiátrico, interdisciplinariedad.
+- Arts. 1738 y 1741 CCCN: Indemnización de las consecuencias no patrimoniales
+  (daño moral y daño psicológico como rubro autónomo). El daño psicológico
+  constituye una afectación a la integridad psíquica del damnificado que
+  genera derecho a reparación independiente.
+
+JURISPRUDENCIA DE REFERENCIA:
+Cámara de Apelaciones de Quilmes, Sala II, "G.E.A. c/ N.A. S.A." (Expte.
+25.184), 2022.
+- El dictamen del perito psiquiatra determinó una incapacidad del 5% por
+  daño psicológico derivado de la situación habitacional provocada por la
+  obra lindera.
+- Monto reconocido en primera instancia: $50.000 (sobre un reclamo de
+  $428.000). Montos del año 2022, no actualizados.
+- La Cámara valoró el informe pericial como prueba determinante para
+  establecer la existencia y cuantificación del daño psicológico.
+
+--------------------------------------------------------------------------------
+REQUISITOS DEL INFORME PSICOLÓGICO/PSIQUIÁTRICO
+--------------------------------------------------------------------------------
+
+1. QUIÉN EMITE EL INFORME:
+   - Psicólogo y/o psiquiatra debidamente COLEGIADO, con matrícula
+     profesional vigente en la jurisdicción correspondiente.
+   - En el ámbito judicial: perito FORENSE designado de oficio (lista de
+     peritos del Poder Judicial) o perito de parte con las mismas
+     habilitaciones.
+   - El profesional debe acreditar especialización en psicología/psiquiatría
+     forense o experiencia en elaboración de pericias judiciales.
+
+2. FORMATO DEL INFORME:
+   - DATOS DEL PERITADO: Nombre completo, DNI, edad, estado civil,
+     ocupación, composición del grupo familiar conviviente.
+   - METODOLOGÍA EMPLEADA: Detalle de las técnicas de evaluación utilizadas
+     (entrevistas clínicas semi-estructuradas, tests psicométricos y
+     proyectivos aplicados, escalas de evaluación, cantidad de sesiones).
+   - ANÁLISIS CLÍNICO: Descripción del cuadro psicopatológico hallado,
+     síntomas actuales, historia de la sintomatología, evolución temporal.
+   - CONCLUSIONES CIENTÍFICAS: Diagnóstico conforme clasificación
+     internacional, porcentaje de incapacidad estimado, pronóstico,
+     necesidad de tratamiento y costo estimado.
+
+3. CLASIFICACIÓN DIAGNÓSTICA (CIE-10 / DSM-5):
+   - El informe DEBE incluir códigos diagnósticos conforme a los sistemas
+     de clasificación internacional vigentes.
+   - CIE-10 (Clasificación Internacional de Enfermedades, OMS):
+     Ejemplo: F41.1 - Trastorno de ansiedad generalizada.
+   - DSM-5 (Manual Diagnóstico y Estadístico de los Trastornos Mentales,
+     APA): Clasificación complementaria con criterios diagnósticos
+     específicos.
+   - Otros códigos frecuentes en casos de daño por obra lindera:
+     F43.1 - Trastorno de estrés postraumático
+     F43.2 - Trastornos de adaptación
+     F32 - Episodio depresivo
+     F41.0 - Trastorno de pánico
+
+4. RELACIÓN CAUSAL:
+   - El informe debe establecer expresamente el NEXO CAUSAL entre el cuadro
+     psicopatológico diagnosticado y la situación de obra lindera que afecta
+     la vivienda del peritado.
+   - Debe descartarse que el cuadro responda a otras causas (patologías
+     preexistentes, situaciones de estrés ajenas al caso, antecedentes
+     psiquiátricos previos).
+   - La relación causal se establece mediante: (a) análisis de la secuencia
+     temporal (inicio de síntomas posterior al inicio de los daños), (b)
+     coherencia entre el tipo de estresor y el cuadro clínico, (c) ausencia
+     de causas alternativas.
+
+5. BAREMOS DE INCAPACIDAD:
+   - Decreto 659/96: Tabla de evaluación de incapacidades laborales.
+     Utilizado como referencia en el fuero civil para cuantificar
+     incapacidades psíquicas.
+   - CARÁCTER REFERENCIAL: Los baremos del Decreto 659/96 son REFERENCIALES
+     y NO VINCULANTES para el juez civil (criterio SCBA 2022). El magistrado
+     puede apartarse fundadamente del porcentaje sugerido por el baremo,
+     considerando las circunstancias particulares del caso.
+   - El perito debe indicar el porcentaje de incapacidad determinado y
+     explicar si se ajusta o aparta del baremo, fundamentando su criterio.
+
+================================================================================
+SECCIÓN B - HISTORIAL CLÍNICO Y PRUEBA MÉDICA
+================================================================================
+
+NORMATIVA APLICABLE:
+- Ley 26.529 de Derechos del Paciente: Regula el acceso a la historia
+  clínica, el consentimiento informado y los derechos del paciente en la
+  relación sanitaria. Establece que la historia clínica es propiedad del
+  paciente y debe ser entregada a su requerimiento.
+- Arts. 474 y ss. CPCCPBA: Régimen de prueba pericial.
+- Arts. 1738 y 1741 CCCN: Indemnización de daños a la integridad
+  psicofísica.
+
+JURISPRUDENCIA:
+- Cámara de Quilmes, Sala II, "G.E.A. c/ N.A. S.A." (2022): Reconoció
+  daño psicológico por obra lindera. Sin embargo, NO se hallaron precedentes
+  verificados en Provincia de Buenos Aires período 2023-2026 específicamente
+  sobre daños respiratorios o alérgicos causados por humedad derivada de
+  obra lindera.
+
+--------------------------------------------------------------------------------
+ESTUDIOS Y DOCUMENTACIÓN MÉDICA REQUERIDA
+--------------------------------------------------------------------------------
+
+1. HISTORIAL CLÍNICO COMPLETO:
+   - Obtener copia íntegra de la historia clínica conforme Ley 26.529 de
+     Derechos del Paciente.
+   - La historia clínica debe documentar la evolución temporal de los
+     síntomas y su relación con la exposición a las condiciones habitacionales
+     deterioradas (humedad, moho, polvo de obra).
+   - Incluir registros de todas las consultas, diagnósticos, tratamientos,
+     internaciones y derivaciones vinculadas al caso.
+
+2. ESTUDIOS RESPIRATORIOS:
+   - Espirometría: Prueba funcional respiratoria que mide la capacidad
+     pulmonar y los flujos espiratorios. Permite objetivar obstrucción
+     bronquial, restricción pulmonar o patrón mixto.
+   - Radiografía de tórax (Rx tórax): Estudio de imagen básico que permite
+     visualizar patología pulmonar (infiltrados, engrosamiento bronquial,
+     condensaciones).
+   - Estudios complementarios según criterio médico: tomografía de tórax,
+     prueba de difusión de monóxido de carbono (DLCO), pletismografía.
+
+3. ESTUDIOS ALÉRGICOS:
+   - IgE total y específica: Determinación de inmunoglobulina E en sangre
+     para evaluar sensibilización alérgica general y a alérgenos específicos
+     (hongos, ácaros del polvo, moho).
+   - Pruebas cutáneas (prick test): Pruebas de sensibilidad cutánea a
+     alérgenos específicos de moho y hongos (Aspergillus, Alternaria,
+     Cladosporium, Penicillium).
+   - Panel de alérgenos ambientales con énfasis en hongos de ambiente
+     húmedo.
+
+4. PERICIA MÉDICA:
+   - Diagnóstico conforme CIE-10: Codificación internacional del
+     diagnóstico respiratorio y/o alérgico (ej: J45 Asma, J30 Rinitis
+     alérgica, J67 Neumonitis por hipersensibilidad).
+   - Relación causal con humedad/moho: El perito médico debe pronunciarse
+     sobre si el cuadro clínico es compatible con la exposición prolongada
+     a ambiente húmedo contaminado con hongos y moho.
+   - Porcentaje de incapacidad: Determinación del grado de incapacidad
+     funcional respiratoria y/o alérgica conforme baremos (Decreto 659/96,
+     referencial).
+
+5. PERICIA AMBIENTAL (COMPLEMENTARIA):
+   - Toma de muestras de aire interior: Análisis microbiológico del aire
+     del ambiente afectado para cuantificar la carga de esporas fúngicas.
+   - Identificación de Aspergillus y otros hongos: Cultivo e identificación
+     de especies fúngicas presentes (Aspergillus fumigatus, A. niger,
+     Alternaria alternata, Stachybotrys chartarum).
+   - Medición de humedad relativa ambiental: Registro de condiciones
+     higrotérmicas del inmueble.
+   - El vínculo entre humedad ambiental e infecciones respiratorias está
+     documentado por la OMS y el Institute of Medicine, que establecen
+     evidencia suficiente de la asociación entre ambientes húmedos/con moho
+     y patología respiratoria (asma, infecciones, síntomas de vías
+     respiratorias superiores).
+
+FUENTES CIENTÍFICAS:
+- SolerPalau/OMS 2023: Documentación sobre los efectos de la humedad en
+  la salud respiratoria, incluyendo los estándares de la OMS sobre calidad
+  de aire interior y los umbrales de humedad relativa saludables.
+- European Lung Foundation 2025: Publicaciones actualizadas sobre el
+  impacto de la exposición a moho y humedad en la función pulmonar y la
+  prevalencia de enfermedades respiratorias crónicas.
+
+================================================================================
+SECCIÓN C - INFORME DE ELECTRICISTA MATRICULADO
+================================================================================
+
+NORMATIVA APLICABLE:
+- Ley 19.587/72 de Higiene y Seguridad en el Trabajo: Establece
+  condiciones de seguridad en instalaciones eléctricas.
+- Decreto Reglamentario 351/79: Reglamenta la Ley 19.587, con capítulo
+  específico sobre riesgo eléctrico e instalaciones.
+- Normas AEA (Asociación Electrotécnica Argentina) Serie 90364:
+  Reglamentación para instalaciones eléctricas en inmuebles. Constituyen
+  la norma técnica de referencia obligatoria.
+- Arts. 474-477 CPCyCN (y concordantes CPCCPBA): Régimen de prueba pericial,
+  designación de peritos, producción, impugnación y valoración del dictamen.
+
+--------------------------------------------------------------------------------
+REQUISITOS DE VALIDEZ DEL INFORME EN PROVINCIA DE BUENOS AIRES
+--------------------------------------------------------------------------------
+
+1. MATRÍCULA HABILITANTE VIGENTE:
+   - El electricista debe poseer matrícula habilitante vigente expedida por
+     la autoridad competente de la Provincia de Buenos Aires.
+   - Categorías de matrícula: I (instalaciones de hasta determinada potencia),
+     II (instalaciones de mediana complejidad), III (instalaciones de alta
+     complejidad).
+   - La categoría debe ser adecuada a la complejidad de la instalación a
+     peritar.
+   - La matrícula debe encontrarse al día (no suspendida ni cancelada).
+
+2. CAPACIDAD Y ESPECIALIZACIÓN:
+   - El perito debe acreditar formación técnica o profesional en
+     instalaciones eléctricas (electricista matriculado, técnico
+     electromecánico, ingeniero electricista).
+   - Es deseable experiencia en pericias judiciales o informes técnicos
+     para procesos judiciales.
+   - Si se requieren ensayos especializados (termografía infrarroja, ensayos
+     de puesta a tierra), el perito debe acreditar capacitación específica.
+
+3. ESTRUCTURA FORMAL DEL INFORME:
+   a) DATOS DEL PERITO: Nombre completo, DNI, matrícula (número y
+      categoría), datos de contacto, domicilio profesional.
+
+   b) OBJETO DEL INFORME: Descripción precisa de lo que se pretende
+      determinar (ej: "Evaluar el estado de la instalación eléctrica del
+      inmueble sito en [DIRECCIÓN] y determinar si los daños observados
+      guardan relación causal con la obra ejecutada en la propiedad lindera").
+
+   c) ANTECEDENTES Y METODOLOGÍA:
+      - Referencia a la normativa AEA aplicable.
+      - Descripción de la metodología de inspección conforme normas AEA.
+      - Instrumentos de medición utilizados y sus certificados de
+        calibración vigentes.
+
+   d) ANÁLISIS TÉCNICO DETALLADO - MEDICIONES:
+      - CONTINUIDAD: Verificación de continuidad de conductores de
+        protección (puesta a tierra) y conductores activos. Medición con
+        instrumento adecuado, registro de valores obtenidos.
+      - RESISTENCIA DE AISLAMIENTO: Medición de resistencia de aislamiento
+        entre conductores activos y entre conductores y tierra, conforme
+        AEA 90364. Valores mínimos aceptables según norma. Registro de
+        valores obtenidos y comparación con mínimos normativos.
+      - TABLEROS: Inspección del tablero principal y tableros seccionales.
+        Estado de llaves termomagnéticas, disyuntor diferencial (obligatorio),
+        barras de conexión, cableado interior del tablero, señalización de
+        circuitos.
+      - CABLEADO: Estado del cableado general (secciones, tipo de conductor,
+        estado de la aislación, recorridos, empalmes, cajas de paso).
+        Identificación de deterioros, calentamientos, derretimiento de
+        aislación, exposición de conductores.
+      - Verificación de puesta a tierra (jabalina, conductor de protección).
+
+   e) CONCLUSIONES:
+      - Diagnóstico del estado de la instalación eléctrica.
+      - Identificación de riesgos (electrocución, incendio, cortocircuito).
+      - Determinación de si los daños observados son compatibles con la
+        afectación por vibraciones, desmoronamiento de mampostería, o
+        humedad proveniente de la obra lindera.
+      - Presupuesto estimativo de reparación/reinstalación conforme normas
+        vigentes.
+
+   f) DOCUMENTACIÓN ANEXA:
+      - Fotografías georreferenciadas de los daños y las mediciones (con
+        fecha, hora y coordenadas GPS).
+      - Planos esquemáticos de la instalación relevada.
+      - Certificados de calibración de los instrumentos de medición
+        utilizados.
+      - Planillas de medición con valores registrados.
+
+   g) FIRMA Y FECHA: Firma del perito, aclaración, número de matrícula,
+      fecha del informe.
+
+4. PROTOCOLO DE INSPECCIÓN IN SITU:
+   - La inspección debe realizarse en el inmueble afectado, relevando la
+     totalidad de la instalación eléctrica.
+   - Debe establecerse la VINCULACIÓN CAUSAL entre la obra lindera y el
+     daño eléctrico: explicar el mecanismo técnico por el cual las
+     vibraciones, el desmoronamiento de mampostería, la humedad u otra
+     consecuencia de la obra lindera afectó la instalación eléctrica.
+   - Documentar fotográficamente cada hallazgo relevante.
+   - Registrar condiciones ambientales al momento de la inspección
+     (humedad relativa, temperatura).
+
+5. RATIFICACIÓN JUDICIAL (Art. 477 CPCyCN / concordante CPCCPBA):
+   - El perito debe estar dispuesto a ratificar su informe ante el tribunal
+     y responder a las observaciones e impugnaciones de las partes.
+   - La ratificación judicial otorga pleno valor probatorio al dictamen.
+   - El perito puede ser citado a audiencia para explicar aspectos técnicos
+     del informe.
+
+--------------------------------------------------------------------------------
+NORMATIVA AEA ESPECÍFICA
+--------------------------------------------------------------------------------
+
+- AEA 90364.7 (PROTECCIÓN): Requisitos de protección contra contactos
+  directos e indirectos, protección contra sobrecorrientes, protección
+  contra sobretensiones. Establece los dispositivos de protección
+  obligatorios (disyuntor diferencial, llaves termomagnéticas).
+
+- AEA 90364.5 (AMBIENTES HÚMEDOS): Requisitos especiales para instalaciones
+  en ambientes húmedos o mojados. Grados de protección IP requeridos para
+  componentes expuestos a humedad. Particularmente relevante cuando la obra
+  lindera generó condiciones de humedad anormal en el inmueble.
+
+- AEA 90364.3 (CONTACTOS DIRECTOS E INDIRECTOS): Clasificación de
+  contactos eléctricos peligrosos y medidas de protección requeridas.
+  Contacto directo: persona toca parte activa de la instalación. Contacto
+  indirecto: persona toca masa que accidentalmente está bajo tensión.
+
+--------------------------------------------------------------------------------
+COSTO DEL INFORME
+--------------------------------------------------------------------------------
+
+El costo del informe de electricista matriculado es VARIABLE según la
+complejidad del caso y los ensayos requeridos:
+
+Factores que inciden en el costo:
+- Termografía infrarroja: Si se requiere relevamiento termográfico para
+  detectar puntos calientes en la instalación, el costo se incrementa por
+  el uso de equipamiento especializado (cámara termográfica).
+- Ensayos de puesta a tierra: Medición de resistividad del suelo y
+  resistencia de puesta a tierra con telurímetro calibrado.
+- Extensión del anexo documental: Cantidad de fotografías, planos, planillas
+  de medición y documentación complementaria.
+- Desplazamiento a Merlo: Viáticos y traslado del profesional hasta la
+  localidad de Merlo, Provincia de Buenos Aires.
+- Complejidad de la instalación: Cantidad de circuitos, tableros, extensión
+  del cableado, antigüedad de la instalación.
+
+NOTA: Solicitar presupuesto previo al perito antes de la inspección,
+detallando los ensayos requeridos y la documentación esperada.
+
+================================================================================
+SECCIÓN D - ANÁLISIS DESDE 4 ENFOQUES
+================================================================================
+
+--------------------------------------------------------------------------------
+ENFOQUE 1: DEMANDANTE (Parte actora / Damnificado)
+--------------------------------------------------------------------------------
+
+ESTRATEGIA PROBATORIA CON PERICIAS:
+
+1. PERICIA PSICOLÓGICA/PSIQUIÁTRICA:
+   - El precedente G.E.A. (Quilmes 2022) reconoció incapacidad psicológica
+     del 5%, lo que valida el rubro como procedente en casos de obra lindera.
+   - Es crucial que el informe establezca la relación causal con la situación
+     habitacional y descarte causas alternativas, para evitar impugnaciones.
+   - El uso de códigos CIE-10/DSM-5 otorga objetividad al diagnóstico y
+     dificulta su cuestionamiento.
+   - RECOMENDACIÓN: Iniciar tratamiento psicológico/psiquiátrico lo antes
+     posible para generar historial clínico que documente la evolución del
+     cuadro desde las primeras manifestaciones.
+
+2. PRUEBA MÉDICA (RESPIRATORIA/ALÉRGICA):
+   - Aunque no hay precedentes PBA 2023-2026 específicos sobre daños
+     respiratorios por humedad de obra lindera, la evidencia científica
+     (OMS, European Lung Foundation) respalda la asociación causal.
+   - Los estudios de IgE específica y pruebas cutáneas contra alérgenos
+     de moho/hongos pueden establecer sensibilización concreta vinculada
+     a la exposición ambiental.
+   - La pericia ambiental (muestras de aire, identificación de Aspergillus)
+     complementa la prueba médica al demostrar la presencia efectiva del
+     agente patógeno en el ambiente.
+
+3. INFORME ELÉCTRICO:
+   - El informe del electricista matriculado documenta un riesgo para la
+     vida (electrocución, incendio) que justifica medidas cautelares
+     urgentes y eleva significativamente la gravedad del reclamo.
+   - Las mediciones objetivas (resistencia de aislamiento, continuidad,
+     estado de protecciones) son prueba técnica difícilmente cuestionable.
+   - Las fotografías georreferenciadas y los certificados de calibración
+     de instrumentos blindan el informe contra impugnaciones formales.
+
+RECOMENDACIONES GENERALES:
+- Producir las tres pericias (psicológica, médica, eléctrica) de manera
+  coordinada para presentar un cuadro integral del daño.
+- Asegurar que cada informe cumpla con los requisitos formales detallados
+  en cada sección para maximizar su valor probatorio.
+- Conservar toda la documentación de respaldo (historiales clínicos,
+  estudios, certificados de calibración).
+
+--------------------------------------------------------------------------------
+ENFOQUE 2: DEMANDADO (Propietario obra lindera / Constructor)
+--------------------------------------------------------------------------------
+
+LÍNEAS DE IMPUGNACIÓN DE PERICIAS:
+
+1. PERICIA PSICOLÓGICA:
+   - Cuestionar la relación causal: argumentar que el cuadro psicopatológico
+     responde a causas ajenas a la obra (estrés laboral, problemas
+     familiares, patologías preexistentes).
+   - Impugnar la metodología si el perito no utilizó tests estandarizados
+     o si las sesiones de evaluación fueron insuficientes.
+   - Los baremos son referenciales (SCBA 2022): argumentar que el porcentaje
+     de incapacidad asignado es excesivo para el cuadro diagnosticado.
+   - Ofrecer perito de parte que realice evaluación independiente.
+
+2. PRUEBA MÉDICA:
+   - Argumentar que los síntomas respiratorios/alérgicos pueden deberse a
+     múltiples causas (contaminación ambiental general, tabaquismo, alergias
+     preexistentes) no vinculadas a la obra.
+   - La ausencia de precedentes PBA 2023-2026 sobre daños respiratorios por
+     humedad de obra lindera debilita la pretensión del actor en este rubro.
+   - Cuestionar la pericia ambiental si las muestras no se tomaron con
+     protocolos estandarizados o si la cadena de custodia no está acreditada.
+
+3. INFORME ELÉCTRICO:
+   - Verificar que la matrícula del electricista corresponda a la categoría
+     adecuada y esté vigente.
+   - Cuestionar si los daños eléctricos preexistían a la obra o si la
+     instalación ya era deficiente por antigüedad o falta de mantenimiento.
+   - Verificar certificados de calibración de los instrumentos de medición.
+   - Si las mediciones no cumplen con el protocolo AEA, impugnar el informe
+     por deficiencias metodológicas.
+
+--------------------------------------------------------------------------------
+ENFOQUE 3: PODER JUDICIAL (Criterios de valoración)
+--------------------------------------------------------------------------------
+
+VALORACIÓN DE LAS PERICIAS:
+
+1. Las pericias constituyen prueba científica o técnica que el juez valora
+   conforme las reglas de la sana crítica (art. 474 CPCCPBA). El magistrado
+   puede apartarse del dictamen pericial pero debe fundamentar las razones.
+
+2. PERICIA PSICOLÓGICA: La utilización de códigos CIE-10/DSM-5 y baremos
+   de referencia (Decreto 659/96) otorga objetividad al diagnóstico. Sin
+   embargo, los baremos son referenciales (SCBA 2022) y el juez puede
+   ajustar el porcentaje de incapacidad conforme las circunstancias del
+   caso y aplicando fórmulas matemáticas (art. 1746 CCCN).
+
+3. PRUEBA MÉDICA: La ausencia de jurisprudencia específica PBA 2023-2026
+   sobre daños respiratorios por humedad de obra lindera no impide su
+   reconocimiento si la prueba pericial es consistente y la relación causal
+   está adecuadamente fundamentada con respaldo científico (OMS, Institute
+   of Medicine).
+
+4. INFORME ELÉCTRICO: Las mediciones técnicas objetivas (valores de
+   resistencia, continuidad, estado de protecciones) tienen alto valor
+   probatorio por su carácter cuantificable y verificable. El cumplimiento
+   de normas AEA y la calibración de instrumentos son indicadores de
+   confiabilidad del dictamen.
+
+5. COHERENCIA ENTRE PERICIAS: El juez debe evaluar la coherencia del
+   conjunto probatorio. Si la pericia de ingeniería acredita humedad, la
+   pericia ambiental detecta hongos, y la pericia médica diagnostica
+   patología respiratoria compatible, la cadena causal se fortalece
+   significativamente.
+
+--------------------------------------------------------------------------------
+ENFOQUE 4: PERITAJE (Criterios técnicos y buenas prácticas)
+--------------------------------------------------------------------------------
+
+RECOMENDACIONES TÉCNICAS PARA PERITOS:
+
+1. PERICIA PSICOLÓGICA/PSIQUIÁTRICA:
+   - Utilizar batería de tests estandarizados y validados para la población
+     argentina (ej: MMPI-2, SCL-90-R, escalas de ansiedad y depresión de
+     Beck).
+   - Realizar al menos 2-3 sesiones de evaluación para obtener un
+     diagnóstico confiable.
+   - Documentar detalladamente la metodología para resistir impugnaciones.
+   - Establecer la relación causal descartando expresamente factores
+     confundentes.
+
+2. PERICIA MÉDICA Y AMBIENTAL:
+   - El historial clínico (Ley 26.529) es la base documental: solicitar
+     copia completa al establecimiento de salud.
+   - Los estudios de IgE específica y pruebas cutáneas deben realizarse en
+     laboratorio acreditado.
+   - La toma de muestras de aire debe seguir protocolos estandarizados
+     (número de muestras, ubicación, duración del muestreo, método de
+     análisis).
+   - Citar expresamente las fuentes científicas que respaldan la asociación
+     humedad-patología respiratoria (OMS, European Lung Foundation 2025).
+
+3. INFORME ELÉCTRICO:
+   - Seguir estrictamente la estructura formal detallada en la Sección C.
+   - Utilizar instrumentos calibrados y adjuntar certificados vigentes.
+   - Las fotografías deben ser georreferenciadas (GPS) y con metadatos
+     verificables.
+   - Aplicar las normas AEA 90364.7 (protección), 90364.5 (ambientes
+     húmedos) y 90364.3 (contactos) como marco normativo de referencia.
+   - Establecer expresamente el mecanismo causal: cómo la obra lindera
+     (vibraciones, desmoronamiento, humedad) afectó cada componente de
+     la instalación eléctrica.
+   - Incluir presupuesto detallado de reparación/reinstalación conforme
+     normas vigentes.
+
+4. COORDINACIÓN ENTRE PERITOS:
+   - En casos complejos como el presente, es recomendable que los peritos
+     (ingeniero/arquitecto, psicólogo/psiquiatra, médico, electricista)
+     conozcan los hallazgos de las demás pericias para mantener coherencia
+     en sus conclusiones.
+   - La pericia ambiental (muestras de aire, hongos) sirve como puente
+     entre la pericia de ingeniería (humedad) y la pericia médica
+     (patología respiratoria).
+
+================================================================================
+FIN DEL ARCHIVO 54
+================================================================================
+Fuentes: CPCCPBA Arts. 474 y ss., CPCyCN Arts. 474-477, CCCN Arts. 1738,
+1741, 1746, Ley 26.529, Ley 23.660, Ley 19.587/72, Decreto 351/79,
+Decreto 659/96, Normas AEA 90364, OMS, SolerPalau 2023, European Lung
+Foundation 2025, Cámara Quilmes Sala II "G.E.A. c/ N.A. S.A." (2022).
+================================================================================

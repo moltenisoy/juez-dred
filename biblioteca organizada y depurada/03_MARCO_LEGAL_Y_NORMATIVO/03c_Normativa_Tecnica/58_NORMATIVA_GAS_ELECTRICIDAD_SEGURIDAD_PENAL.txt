@@ -1,0 +1,387 @@
+================================================================================
+FICHA 58 - NORMATIVA DE GAS, HIGIENE Y SEGURIDAD EN CONSTRUCCIÓN,
+CÓDIGO PENAL APLICABLE Y EJERCICIO PROFESIONAL PBA
+================================================================================
+Fecha de elaboración: 2025
+Última actualización: Enero 2026
+Clasificación: 03c - Normativa Técnica
+================================================================================
+
+ÍNDICE
+------
+A. NORMATIVA DE GAS NATURAL EN CONSTRUCCIÓN
+B. NORMATIVA DE HIGIENE, SEGURIDAD Y CONSTRUCCIÓN
+C. CÓDIGO PENAL APLICABLE
+D. NORMATIVA EJERCICIO PROFESIONAL PBA
+E. ANÁLISIS DESDE 4 ENFOQUES
+
+================================================================================
+A. NORMATIVA DE GAS NATURAL EN CONSTRUCCIÓN
+================================================================================
+
+1. NORMATIVA APLICABLE
+----------------------
+
+- NAG-200 (ENARGAS): Normas Argentinas de Gas - reglamentación
+  técnica para instalaciones de gas natural en construcciones.
+- Ley 24.076: Marco Regulatorio del Gas Natural.
+- Resoluciones ENARGAS: complementarias y actualizaciones de la
+  normativa técnica.
+- CCyCN arts. 1757 y 1113: responsabilidad por actividades riesgosas
+  y daños causados por cosas.
+
+2. REQUISITOS NAG-200 PARA MATRICULADOS
+----------------------------------------
+
+- Matrícula vigente en categoría 1, 2 o 3 según el tipo de
+  instalación (residencial, comercial, industrial).
+- Carné habilitante de la prestadora del servicio de gas en
+  la zona de actuación.
+- Domicilio en la zona de competencia del instalador.
+- Declaración jurada de responsabilidad por la instalación
+  ejecutada conforme a las normas técnicas vigentes.
+- Ejecución de las instalaciones estrictamente según normas
+  NAG-200 y resoluciones complementarias.
+- Presentación del Pedido de Gas Formulario 3.4.A con los
+  planos correspondientes ante la prestadora.
+- Comunicación de terminación de los trabajos a la prestadora
+  para habilitación e inspección final.
+
+3. RESPONSABILIDADES POR DAÑO A INSTALACIÓN DE GAS VECINA
+-----------------------------------------------------------
+
+a) Instalador matriculado:
+   - Responsable por 12 meses desde la finalización de la obra.
+   - Ampliable a 10 años en caso de deficiencias graves que
+     comprometan la seguridad de las instalaciones.
+
+b) Obras linderas:
+   - El constructor y/o director de obra responde conforme art.
+     1757 CCyCN si daña cañerías, conexiones o ventilaciones del
+     inmueble vecino durante la ejecución de la obra.
+   - La responsabilidad es objetiva tratándose de actividad
+     riesgosa (demolición, excavación, submuración).
+
+c) Instalación deficiente en obra nueva:
+   - Genera responsabilidad contractual (frente al comitente) y
+     extracontractual (frente a terceros afectados, incluidos
+     vecinos linderos).
+
+4. FUENTES
+----------
+
+- NAG-200 ENARGAS (normativa técnica de gas).
+- Registro de Instaladores ENARGAS.
+- Ley 24.076.
+
+================================================================================
+B. NORMATIVA DE HIGIENE, SEGURIDAD Y CONSTRUCCIÓN
+================================================================================
+
+1. DECRETO 911/96 - REGLAMENTO DE HIGIENE Y SEGURIDAD
+      PARA LA INDUSTRIA DE LA CONSTRUCCIÓN
+------------------------------------------------------
+
+- Art. 2: Concepto de obra de construcción. Incluye expresamente
+  construcción nueva, remodelaciones, ampliaciones, instalación de
+  equipos, demoliciones y todo trabajo que se realice en obra.
+
+- Art. 3: Obligaciones conforme Ley 19.587 de Higiene y Seguridad
+  en el Trabajo. Aplicables a toda obra de construcción sin excepción.
+
+- Art. 4: Comitente solidariamente responsable con contratistas
+  y subcontratistas respecto del cumplimiento de las normas de
+  higiene y seguridad. La responsabilidad solidaria alcanza a
+  quien encarga la obra aunque no la ejecute directamente.
+
+- Art. 5: Obligación de contar con ART (Ley 24.557 de Riesgos
+  del Trabajo) ANTES del inicio de la obra. La ausencia de
+  cobertura de ART constituye infracción grave conforme la SRT
+  (Superintendencia de Riesgos del Trabajo).
+
+- Art. 7: El empleador principal es responsable de garantizar el
+  cumplimiento de las normas de seguridad por todos los
+  trabajadores en obra, incluidos subcontratistas.
+
+2. LEY 24.557 - RIESGOS DEL TRABAJO
+------------------------------------
+
+- Establece la obligatoriedad de la cobertura de riesgos del
+  trabajo para todos los trabajadores en relación de dependencia.
+- La contratación de ART es requisito previo al inicio de toda
+  obra de construcción (complemento del art. 5 Decreto 911/96).
+
+3. RESOLUCIÓN SRT 550/2011
+---------------------------
+
+- Arts. 1 a 9: regulación específica para obras que involucren
+  demolición, submuración y trabajos sobre paredes medianeras.
+- Exigencias obligatorias:
+  * Legajo técnico de la obra completo y actualizado.
+  * Programa de seguridad específico para la obra aprobado.
+  * Visitas de control periódicas documentadas.
+- La ausencia de estos requisitos en obras de demolición o
+  submuración constituye infracción a la normativa de seguridad.
+
+================================================================================
+C. CÓDIGO PENAL APLICABLE
+================================================================================
+
+1. ART. 84 - HOMICIDIO CULPOSO
+-------------------------------
+
+- Tipo penal: causar la muerte por imprudencia, negligencia,
+  impericia en el arte o profesión, o inobservancia de los
+  reglamentos o deberes a su cargo.
+- Pena: 1 a 5 años de prisión + 5 a 10 años de inhabilitación
+  especial.
+- Aplicabilidad: resultado fatal por derrumbe, caída de
+  estructuras o cualquier consecuencia mortal derivada de obra
+  ejecutada sin observar normas de seguridad.
+
+2. ART. 89 - LESIONES LEVES
+----------------------------
+
+- Tipo penal: causar daño en el cuerpo o en la salud que no
+  encuadre en lesiones graves o gravísimas.
+- Pena: 1 mes a 1 año de prisión.
+
+3. ART. 94 - LESIONES CULPOSAS
+-------------------------------
+
+- Conforme Ley 27.347 (BO 06/01/2017).
+- Tipo penal: causar lesiones por imprudencia, negligencia,
+  impericia o inobservancia de reglamentos.
+- Pena: 1 mes a 3 años de prisión + multa de 1.000 a 15.000
+  pesos + inhabilitación especial de 1 a 4 años.
+
+4. ART. 183 - DAÑO SIMPLE
+--------------------------
+
+- Tipo penal: destruir, inutilizar, hacer desaparecer o de
+  cualquier modo dañar una cosa mueble o inmueble ajena, o un
+  animal total o parcialmente ajeno.
+- Pena: 15 días a 1 año de prisión.
+- VERIFICADO: el delito de daño simple NO es acción privada
+  (Art. 73 CP) ni de instancia privada (Art. 72 CP).
+  Es ACCIÓN PÚBLICA: el Ministerio Público Fiscal puede
+  impulsar la acción de oficio o por denuncia.
+
+5. ART. 184 - DAÑO AGRAVADO
+----------------------------
+
+- Pena: 3 meses a 4 años de prisión.
+- Contiene 6 incisos con circunstancias agravantes.
+- VERIFICADO: los incisos del art. 184 NO incluyen como
+  agravante el daño a edificio de habitación privada.
+- Por lo tanto, el caso de daño a inmueble vecino por obra
+  lindera encuadra en el art. 183 (daño simple), NO en el
+  art. 184 (daño agravado).
+
+6. ART. 186 - PELIGRO COMÚN
+----------------------------
+
+- Tipo penal: causar incendio, explosión o inundación.
+- Pena: 3 a 10 años de prisión.
+- Aplicable si la obra lindera genera peligro de incendio
+  (afectación instalaciones de gas), explosión o inundación.
+
+7. ART. 187 - ESTRAGO POR DERRUMBE DE EDIFICIO
+-------------------------------------------------
+
+- Tipo penal: causar estrago por medio de derrumbe de un
+  edificio o cualquier otro medio de destrucción.
+- Penas: las previstas en el art. 186 (3 a 10 años).
+- Aplicable al derrumbe de obra lindera que cause daños
+  al inmueble vecino y ponga en peligro la vida de sus
+  ocupantes.
+
+8. ART. 189 - ESTRAGO CULPOSO
+------------------------------
+
+- Conforme Ley 25.189 (BO 28/10/1999).
+- Tipo penal: causar estrago por imprudencia, negligencia,
+  impericia o inobservancia de reglamentos.
+- Pena: 1 mes a 1 año de prisión.
+- Si resultare peligro de muerte o muerte: hasta 5 años
+  de prisión.
+
+================================================================================
+D. NORMATIVA EJERCICIO PROFESIONAL PBA
+================================================================================
+
+1. LEY 10.405 PBA - EJERCICIO PROFESIONAL
+------------------------------------------
+
+- Art. 7: El ejercicio profesional sin matriculación es ilegal.
+  Ninguna persona puede ejercer las profesiones reguladas por
+  esta ley sin contar con matrícula vigente en el Colegio
+  profesional correspondiente.
+
+- Art. 17 incs. 2 y 3 - Faltas disciplinarias:
+  * Inc. 2: violación de leyes, reglamentos, resoluciones y
+    demás disposiciones dictadas por los organismos competentes.
+  * Inc. 3: retardo, negligencias, ineptitud u omisiones
+    reiteradas en el ejercicio profesional.
+
+- Art. 18 - Sanciones disciplinarias (gradación):
+  * Advertencia.
+  * Censura.
+  * Suspensión en el ejercicio profesional.
+  * Cancelación de la matrícula.
+
+2. CÓDIGO DE ÉTICA CAPBA (Colegio de Arquitectos PBA)
+------------------------------------------------------
+
+- Art. 3 inc. a: Constituye falta ética causar perjuicio a
+  intereses vinculados al orden público en el ejercicio
+  profesional.
+
+- Art. 3 inc. b: Constituye falta ética la realización de
+  actos reñidos con la buena técnica u omisiones culposas,
+  aun cuando se ejecuten en cumplimiento de órdenes de un
+  superior jerárquico. La obediencia debida no exime de
+  responsabilidad ética profesional.
+
+================================================================================
+E. ANÁLISIS DESDE 4 ENFOQUES
+================================================================================
+
+1. ENFOQUE DEMANDANTE
+---------------------
+
+a) Normativa de gas:
+   - Verificar si la obra lindera afectó cañerías, conexiones o
+     ventilaciones de gas del inmueble propio.
+   - Solicitar informe a la prestadora de gas (Metrogas/Camuzzi
+     según zona) sobre estado de la instalación.
+   - Si hubo daño a instalaciones de gas: denunciar a ENARGAS y
+     solicitar inspección urgente. El riesgo para la seguridad
+     refuerza la urgencia del reclamo.
+   - Invocar art. 1757 CCyCN (responsabilidad por actividad
+     riesgosa) contra constructor y director de obra.
+
+b) Higiene y seguridad:
+   - Verificar si la obra contaba con ART contratada antes del
+     inicio (art. 5 Decreto 911/96).
+   - Denunciar ante SRT si la obra se ejecutó sin cobertura de
+     riesgos del trabajo.
+   - Si hubo demolición o submuración sin programa de seguridad
+     (Res. SRT 550/2011), invocar como agravante de la
+     negligencia del constructor/comitente.
+   - Responsabilidad solidaria del comitente (art. 4 Dto 911/96):
+     demandar conjuntamente al propietario que encargó la obra.
+
+c) Vía penal:
+   - Evaluar denuncia penal por daño simple (art. 183 CP) como
+     acción pública: no requiere querella, basta denuncia.
+   - Si hubo riesgo de derrumbe: evaluar arts. 187/189 CP
+     (estrago doloso o culposo).
+   - Si hubo lesiones personales: arts. 89/94 CP según gravedad.
+   - La denuncia penal puede tramitar en paralelo a la acción
+     civil y refuerza la pretensión indemnizatoria.
+
+d) Ejercicio profesional:
+   - Verificar si el profesional a cargo tiene matrícula vigente.
+   - Si ejerció sin matrícula: denunciar ante el Colegio
+     profesional correspondiente (art. 7 Ley 10.405).
+   - Si hubo negligencia profesional: solicitar sumario
+     disciplinario (arts. 17-18 Ley 10.405).
+
+2. ENFOQUE DEMANDADO
+--------------------
+
+a) Normativa de gas:
+   - Acreditar que las instalaciones de gas se ejecutaron por
+     instalador matriculado conforme NAG-200.
+   - Presentar Formulario 3.4.A y certificado de terminación
+     como prueba de cumplimiento normativo.
+   - Si no hubo daño a instalaciones de gas vecinas: solicitar
+     pericia técnica que lo acredite.
+
+b) Higiene y seguridad:
+   - Acreditar contratación de ART previa al inicio de obra
+     (art. 5 Dto 911/96).
+   - Presentar legajo técnico, programa de seguridad y
+     constancias de visitas de control (Res. SRT 550/2011).
+   - Acreditar que el comitente cumplió con sus obligaciones
+     de seguridad para limitar su responsabilidad solidaria.
+
+c) Vía penal:
+   - Ejercer defensa activa en sede penal si se formuló denuncia.
+   - Ofrecer prueba pericial que demuestre inexistencia de daño
+     o ausencia de nexo causal con la obra.
+   - Si el daño fue menor: argumentar insignificancia o que no
+     se configuró el tipo penal del art. 183 CP.
+
+d) Ejercicio profesional:
+   - Acreditar matrícula vigente y cumplimiento de todas las
+     obligaciones profesionales.
+   - Si se inició sumario: ejercer defensa ante el Colegio
+     profesional demostrando diligencia y cumplimiento normativo.
+
+3. ENFOQUE PODER JUDICIAL
+--------------------------
+
+a) Normativa de gas:
+   - Verificar cumplimiento de NAG-200 mediante pericia técnica
+     de oficio.
+   - Si se comprueba daño a instalaciones de gas: ordenar medida
+     cautelar de paralización de obra por riesgo inminente.
+   - Aplicar responsabilidad objetiva (art. 1757 CCyCN) si la
+     actividad es riesgosa por su naturaleza.
+
+b) Higiene y seguridad:
+   - Verificar cumplimiento del Decreto 911/96 y Res. SRT
+     550/2011 como elementos de la culpa del demandado.
+   - Evaluar responsabilidad solidaria del comitente (art. 4).
+   - La ausencia de ART y programa de seguridad constituye
+     presunción de negligencia.
+
+c) Vía penal:
+   - Encuadrar la conducta en el tipo penal correspondiente:
+     art. 183 CP (daño simple) como acción pública.
+   - Si hubo riesgo de derrumbe: arts. 186/187/189 CP.
+   - Si hubo lesiones: arts. 89/94 CP según gravedad y modalidad
+     (dolosa o culposa).
+   - La sentencia penal condenatoria hace cosa juzgada en sede
+     civil respecto de la existencia del hecho y la autoría.
+
+d) Ejercicio profesional:
+   - Si se detecta ejercicio ilegal (sin matrícula): comunicar
+     al Colegio profesional y evaluar agravamiento de la
+     responsabilidad civil.
+
+4. ENFOQUE PERITAJE
+-------------------
+
+a) Perito ingeniero en gas / gasista matriculado:
+   - Inspeccionar instalaciones de gas del inmueble afectado.
+   - Determinar si hubo daño, desplazamiento o afectación de
+     cañerías, ventilaciones o artefactos.
+   - Verificar cumplimiento de NAG-200 en la obra lindera.
+   - Emitir dictamen sobre riesgo actual y medidas correctivas.
+
+b) Perito en higiene y seguridad:
+   - Verificar existencia de legajo técnico, programa de
+     seguridad y constancias de control.
+   - Determinar si la obra cumplió con Decreto 911/96 y
+     Resolución SRT 550/2011.
+   - Identificar incumplimientos específicos que contribuyeron
+     a la producción del daño.
+
+c) Perito ingeniero civil / arquitecto:
+   - Evaluar daños estructurales y su vinculación con la obra
+     lindera.
+   - Determinar si hubo riesgo de derrumbe (relevante para
+     encuadre penal arts. 187/189 CP).
+   - Cuantificar daños y presupuestar reparaciones.
+
+d) Perito en criminalística (si hay causa penal):
+   - Documentar la escena y los daños conforme cadena de custodia.
+   - Preservar evidencia material del daño.
+   - Emitir dictamen técnico para la causa penal.
+
+================================================================================
+FIN FICHA 58
+================================================================================

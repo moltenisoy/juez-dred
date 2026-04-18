@@ -1,0 +1,293 @@
+================================================================================
+ARCHIVO 61 — ACCIONES LEGALES VERIFICADAS: ONCE VÍAS PROCESALES
+================================================================================
+Generado: 2025 | Caso: Daño edilicio por obra clandestina lindero — Merlo, PBA
+================================================================================
+
+ACCION 1 — ACCION PREVENTIVA URGENTE (Medida Cautelar)
+================================================================================
+VIA: Civil.
+PRESUPUESTO: Amenaza de daño cierto y actual.
+FUNDAMENTO NORMATIVO: Arts. 1710, 1711 y 1712 del CCyC.
+TRIBUNAL COMPETENTE: Juzgado Civil y Comercial del Departamento Judicial Morón.
+OBJETO: Obtener orden judicial de refuerzo o remoción del soporte del tanque
+cisterna hasta tanto se realice un estudio estructural por perito oficial.
+TIPO DE MEDIDA: Cautelar innovativa.
+NOTA PROCESAL: Conforme Art. 1711 CCyC, NO se requiere acreditar factor de
+atribución. Tampoco se requiere que el daño se haya consumado. Basta la
+previsibilidad de su producción, continuación o agravamiento.
+
+
+ACCION 2 — DAÑOS Y PERJUICIOS (Responsabilidad Objetiva)
+================================================================================
+VIA: Civil.
+FUNDAMENTO NORMATIVO: Arts. 1716, 1717, 1722, 1737, 1738, 1740, 1757 y 1758
+del CCyC. CN Art. 19 (principio alterum non laedere).
+TRIBUNAL COMPETENTE: Juzgado Civil y Comercial del Departamento Judicial Morón.
+OBJETO: Reparación plena de todos los daños materiales sufridos (daño emergente,
+lucro cesante, pérdida de chance). Restitución al estado anterior al hecho dañoso
+conforme Art. 1740 CCyC.
+TIPO DE RESPONSABILIDAD: Objetiva (Arts. 1757-1758 CCyC). No es necesario probar
+culpa del demandado. La carga de acreditar la causa ajena recae sobre el
+responsable.
+
+
+ACCION 3 — DAÑO MORAL
+================================================================================
+VIA: Civil. Acumulable a la Acción 2.
+FUNDAMENTO NORMATIVO: Arts. 1741 y 52 del CCyC. CN Arts. 14, 17, 19 y 41.
+OBJETO: Indemnización por afectación a la tranquilidad, integridad psíquica y
+dignidad personal del damnificado, derivada de la situación de riesgo permanente,
+los daños a su vivienda y la falta de respuesta del responsable.
+
+
+ACCION 4 — RELACIONES DE VECINDAD / INMISIONES
+================================================================================
+VIA: Civil.
+FUNDAMENTO NORMATIVO: Art. 1973 CCyC + Art. 1716 CCyC.
+PRESUPUESTO: Molestias que exceden la normal tolerancia entre vecinos.
+OBJETO: Solicitar al juez la remoción de la causa de la molestia (reubicación
+y/o refuerzo del soporte del tanque) y/o la indemnización de los daños
+ocasionados. El Art. 1973 habilita ambas pretensiones.
+
+
+ACCION 5 — DENUNCIA PENAL POR DAÑO (Acción Pública)
+================================================================================
+VIA: Penal.
+FUNDAMENTO NORMATIVO: Código Penal Art. 183.
+PENA: 15 días a 1 año de prisión.
+TIPO DE ACCION: Pública. VERIFICADO.
+TRIBUNAL COMPETENTE: UFI del Departamento Judicial Morón.
+REQUISITO: Acreditar dolo. Si el demandado fue notificado del daño y no actuó
+para remediarlo, puede configurarse dolo eventual.
+
+
+ACCION 6 — DENUNCIA PENAL POR LESIONES CULPOSAS
+================================================================================
+VIA: Penal.
+FUNDAMENTO NORMATIVO: Código Penal Art. 94 (conforme Ley 27.347).
+PENA: 1 mes a 3 años de prisión + inhabilitación especial de 1 a 4 años.
+AGRAVANTE: Art. 84 CP si el resultado fuera fatal.
+TRIBUNAL COMPETENTE: UFI del Departamento Judicial Morón.
+HECHOS CONFIGURANTES: Caída de fragmentos de cielorraso documentada. Riesgo
+cierto de lesiones futuras por la permanencia de la carga irregular sobre la
+losa deteriorada.
+
+
+ACCION 7 — DENUNCIA PENAL POR ESTRAGO CULPOSO
+================================================================================
+VIA: Penal.
+FUNDAMENTO NORMATIVO: Código Penal Art. 189 (conforme Ley 25.189).
+PENA: 1 mes a 1 año de prisión. Hasta 5 años si resultare peligro de muerte
+o muerte.
+TRIBUNAL COMPETENTE: UFI del Departamento Judicial Morón.
+HECHOS CONFIGURANTES: Instalación irregular de un conjunto de aproximadamente
+800 kg sobre una losa de más de 30 años de antigüedad, con daños estructurales
+documentados (rajaduras, desprendimientos, filtraciones). La situación configura
+un riesgo de estrago por derrumbe parcial o colapso.
+
+
+ACCION 8 — DENUNCIA ADMINISTRATIVA POR OBRA CLANDESTINA
+================================================================================
+VIA: Administrativa municipal.
+FUNDAMENTO NORMATIVO: Ordenanza 2589/84 del Partido de Merlo + Decreto-Ley
+6769/58 Art. 27 incs. 5, 10 y 19.
+ORGANISMO COMPETENTE: Dirección de Obras Particulares, Bolívar 585, Merlo.
+OBJETO: Solicitar inspección del inmueble lindero, labrado de acta de infracción,
+intimación a regularización y orden de remoción y/o refuerzo del soporte del
+tanque.
+FACULTADES MUNICIPALES: El DL 6769/58 Art. 27 inc. 19 otorga al municipio la
+facultad de paralizar, clausurar y/o ordenar la demolición de construcciones
+irregulares o peligrosas.
+
+
+ACCION 9 — DENUNCIA ADMINISTRATIVA POR AUSENCIA DE COBERTURA DE SEGURIDAD LABORAL
+================================================================================
+VIA: Administrativa nacional.
+FUNDAMENTO NORMATIVO: Decreto 911/96 Arts. 4 y 5 + Ley 24.557 (Ley de Riesgos
+del Trabajo).
+ORGANISMO COMPETENTE: Superintendencia de Riesgos del Trabajo (SRT),
+www.srt.gob.ar.
+OBJETO: Denunciar la ausencia de cobertura de seguridad laboral (ART) durante
+la ejecución de la obra.
+RESPONSABILIDAD: El comitente es solidariamente responsable conforme Art. 4 del
+Decreto 911/96.
+
+
+ACCION 10 — DENUNCIA DISCIPLINARIA POR INFRACCION ETICA PROFESIONAL
+================================================================================
+VIA: Disciplinaria ante el colegio profesional.
+FUNDAMENTO NORMATIVO: Ley 10.405 Arts. 7, 17 incs. 2 y 3, 18 + Código de Ética
+del CAPBA Art. 3 incs. a y b.
+ORGANISMO COMPETENTE: Tribunal de Disciplina del CAPBA Distrito III.
+Sede: L.N. Alem 826, Morón.
+Teléfono: (011) 4628-9171.
+SUPUESTOS:
+a) Si intervino un profesional matriculado: sanción disciplinaria por omisiones,
+   negligencia o ineptitud (Ley 10.405 Art. 17 incs. 2/3) y por actos reñidos
+   con la buena técnica (Código Ética Art. 3 inc. b).
+b) Si no intervino ningún profesional: denuncia por ejercicio ilegal de la
+   profesión (Ley 10.405 Art. 7).
+
+
+ACCION 11 — AMPARO POR VIVIENDA DIGNA Y AMBIENTE SANO
+================================================================================
+VIA: Constitucional / Contencioso administrativa.
+FUNDAMENTO NORMATIVO: CN Arts. 14, 17, 19 y 41 + Const. PBA Arts. 11, 12 inc. 1
+y 28 + CCyC Art. 1711.
+TRIBUNAL COMPETENTE: Cámara de Apelaciones en lo Contencioso Administrativo del
+Departamento Judicial San Martín. Verificar turno en pjba.gov.ar.
+PRESUPUESTO: Que el municipio no actúe tras la denuncia de la Acción 8.
+OBJETO: Amparo judicial para obligar al municipio a ejercer su poder de policía
+edilicio, disponer la inspección y adoptar las medidas correspondientes conforme
+Ordenanza 2589/84 y DL 6769/58 Art. 27 incs. 5, 10 y 19.
+
+
+================================================================================
+ANÁLISIS DESDE 4 ENFOQUES
+================================================================================
+
+ENFOQUE 1 — DEMANDANTE (Propietario damnificado)
+--------------------------------------------------------------------------------
+
+1. ESTRATEGIA INTEGRAL DE VIAS SIMULTANEAS:
+   El demandante dispone de 11 vías procesales que pueden activarse en paralelo
+   o secuencialmente según la urgencia y el avance de cada una:
+
+   a) BLOQUE URGENTE (inmediato):
+      - Acción 1 (preventiva + cautelar): primera prioridad para neutralizar el
+        riesgo inminente.
+      - Acción 8 (denuncia municipal): genera inspección oficial rápida y actas
+        con valor probatorio.
+
+   b) BLOQUE PRINCIPAL (con patrocinio letrado):
+      - Acción 2 (daños y perjuicios) + Acción 3 (daño moral) + Acción 4
+        (inmisiones): se acumulan en una única demanda civil.
+
+   c) BLOQUE PENAL (en paralelo):
+      - Acciones 5, 6 y 7: se presentan en una denuncia penal unificada ante
+        la UFI de turno, describiendo las tres figuras.
+
+   d) BLOQUE COMPLEMENTARIO:
+      - Acción 9 (SRT) y Acción 10 (CAPBA): refuerzan la posición general.
+      - Acción 11 (amparo): subsidiaria, solo si el municipio permanece inactivo.
+
+2. VENTAJAS TACTICAS:
+   - La multiplicidad de vías genera presión legítima sobre el demandado.
+   - Las actas municipales y las constancias de denuncias penales constituyen
+     prueba en la causa civil.
+   - La acción preventiva no requiere factor de atribución (Art. 1711 CCyC),
+     facilitando su procedencia.
+   - La responsabilidad objetiva (Arts. 1757-1758) invierte la carga probatoria.
+
+3. RIESGOS PROCESALES:
+   - Deben coordinarse los plazos de prescripción de cada vía.
+   - La denuncia penal por daño (Art. 183 CP) requiere acreditar dolo o dolo
+     eventual, lo cual puede resultar complejo.
+   - El amparo (Acción 11) solo procede si se agota la vía administrativa previa
+     o se demuestra su ineficacia.
+
+
+ENFOQUE 2 — DEMANDADO (Propietario lindero / ejecutor de la obra)
+--------------------------------------------------------------------------------
+
+1. EXPOSICION MULTIFUERO:
+   El demandado enfrenta una exposición simultánea en fuero civil (acciones 1-4),
+   penal (acciones 5-7), administrativo (acciones 8-9) y disciplinario (acción 10).
+   La activación de varias vías dificulta una estrategia defensiva unificada.
+
+2. ANALISIS DE RIESGO POR ACCION:
+   - Acción 1: alta probabilidad de procedencia. La medida cautelar puede ordenar
+     refuerzo o remoción del soporte, generando costos inmediatos.
+   - Acciones 2-3-4: la responsabilidad objetiva (Arts. 1757-1758) limita las
+     opciones defensivas a la demostración de causa ajena.
+   - Acción 5: riesgo moderado. El dolo debe ser acreditado; si el demandado fue
+     notificado y no actuó, se configura dolo eventual.
+   - Acciones 6-7: riesgo grave si se producen lesiones o se demuestra peligro
+     concreto de estrago.
+   - Acción 8: riesgo de multas, clausura y orden de demolición.
+   - Acción 9: riesgo de sanciones por la SRT y responsabilidad solidaria.
+   - Acción 10: riesgo de sanción profesional o imputación de ejercicio ilegal.
+
+3. POSIBLES ESTRATEGIAS DEFENSIVAS:
+   - Intentar acreditar causa ajena o preexistencia de los daños.
+   - Demostrar que la losa ya presentaba deterioro previo a la obra.
+   - Ofrecer regularización voluntaria de la obra ante el municipio.
+   - Contratar perito de parte para cuestionar el nexo causal.
+   - Estas defensas tienen eficacia limitada frente al régimen de responsabilidad
+     objetiva y la prueba documental/fotográfica existente.
+
+
+ENFOQUE 3 — PODER JUDICIAL (Evaluación jurisdiccional)
+--------------------------------------------------------------------------------
+
+1. DISTRIBUCION DE COMPETENCIA:
+   - Juzgado Civil y Comercial DJ Morón: Acciones 1, 2, 3 y 4.
+   - UFI/Fiscalía DJ Morón: Acciones 5, 6 y 7.
+   - Dirección Obras Particulares Merlo: Acción 8 (vía administrativa).
+   - SRT: Acción 9 (vía administrativa nacional).
+   - Tribunal Disciplina CAPBA Dist. III: Acción 10.
+   - Cámara Contencioso Administrativo DJ San Martín: Acción 11.
+
+2. CRITERIOS JUDICIALES PREVISIBLES:
+   - En la acción preventiva (Acción 1), el juez evaluará: a) verosimilitud del
+     derecho, b) peligro en la demora, c) proporcionalidad de la medida. La
+     documentación fotográfica y los informes técnicos existentes favorecen la
+     procedencia.
+   - En la demanda civil (Acciones 2-4), el juez aplicará responsabilidad objetiva
+     y requerirá pericia judicial para determinar nexo causal y cuantificar daños.
+   - En sede penal, el fiscal evaluará la tipicidad de cada figura. El estrago
+     culposo (Acción 7) es la figura más grave y requiere acreditar el peligro
+     concreto.
+   - El amparo (Acción 11) solo procederá si se demuestra inacción municipal
+     pese a la denuncia formal.
+
+3. PRUEBA DETERMINANTE:
+   - Pericia estructural judicial sobre la losa y el soporte.
+   - Informes oficiales de la Municipalidad de Merlo sobre existencia o
+     inexistencia de permisos de obra.
+   - Oficios al CAPBA sobre intervención profesional.
+
+
+ENFOQUE 4 — PERITAJE (Aspectos técnicos periciales)
+--------------------------------------------------------------------------------
+
+1. RELEVANCIA PERICIAL POR ACCION:
+   - Acción 1 (preventiva): el perito debe evaluar el riesgo actual de la
+     instalación para fundamentar la urgencia de la medida cautelar.
+   - Acciones 2-4 (civil): el perito debe determinar nexo causal, cuantificar
+     daños y presupuestar la reparación integral.
+   - Acciones 5-7 (penal): el perito debe informar sobre el grado de peligro
+     que representa la instalación (daño actual, riesgo de lesiones, peligro de
+     estrago).
+   - Acción 8 (municipal): la inspección oficial del municipio puede generar un
+     informe técnico con valor de instrumento público.
+   - Acción 10 (CAPBA): el perito del tribunal disciplinario evaluará si la
+     instalación se ajusta a las normas del arte y a la ley de ejercicio
+     profesional.
+
+2. PUNTOS PERICIALES TRANSVERSALES A TODAS LAS ACCIONES:
+   a) Capacidad de carga residual de la losa flotante de +30 años.
+   b) Adecuación del soporte del tanque a normas constructivas.
+   c) Nexo causal entre el peso impuesto y cada daño documentado.
+   d) Riesgo actual de agravamiento (colapso parcial, filtraciones progresivas).
+   e) Costo de reparación integral y restitución al estado anterior.
+
+3. COORDINACION DE PERICIAS:
+   - Es conveniente que la pericia judicial civil sea la principal, dado que su
+     alcance (nexo causal + cuantificación) es el más amplio.
+   - Las pericias en sede penal y administrativa pueden complementarse con la
+     civil o remitirse a ella.
+   - Los informes extrajudiciales existentes (arquitecto y maestro mayor de obra)
+     serán evaluados por el perito judicial como antecedentes técnicos.
+
+4. PRESERVACION DE LA PRUEBA:
+   - Es crítico que el demandante preserve la integridad de los daños actuales
+     hasta la realización de la pericia judicial.
+   - Las fotografías existentes documentan el estado actual pero no reemplazan
+     la constatación pericial in situ.
+   - Ante riesgo de agravamiento, solicitar prueba anticipada (Art. 326 CPCC PBA).
+
+================================================================================
+FIN ARCHIVO 61
+================================================================================
