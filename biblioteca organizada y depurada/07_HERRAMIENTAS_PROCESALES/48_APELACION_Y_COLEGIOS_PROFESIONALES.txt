@@ -130,3 +130,154 @@ la profesión si el profesional no tenía matrícula).
 ================================================================================
 FIN DE TEMAS 13-14
 ================================================================================
+
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — APELACIÓN Y COLEGIOS PROFESIONALES: AMPLIACIÓN
+(Investigación complementaria)
+================================================================================
+
+1. CORRECCIÓN: COMPETENCIA DE LA CÁMARA DE APELACIONES
+────────────────────────────────────────────────────────────────
+
+   ERROR (línea 13): Dice "Cámara de Apelación en lo Civil y Comercial de Morón"
+   CORRECTO: Verificar si la Cámara de Apelaciones competente para el DJ Merlo
+   es la de Morón (por proximidad y tradición), o si se ha creado Cámara propia
+   en Merlo tras la Ley 13.859/2009.
+
+   Dado que el DJ Merlo fue creado recientemente (2009), los recursos de
+   apelación de causas civiles de Merlo pueden aún corresponder a la Cámara
+   de Morón. Verificar en www.scba.gov.ar/guia_judicial.asp seleccionando
+   DJ Merlo para confirmar la Cámara de alzada competente.
+
+
+2. RECURSO EXTRAORDINARIO DE INAPLICABILIDAD DE LEY — AMPLIADO
+────────────────────────────────────────────────────────────────
+
+   A) NORMATIVA: Arts. 278-289 CPCCBA
+
+   B) REQUISITOS DETALLADOS:
+      • Sentencia definitiva o equiparable a definitiva de la Cámara
+      • Errónea aplicación o interpretación de la ley, doctrina legal SCBA
+        o jurisprudencia
+      • Fundamentación precisa: indicar QUÉ norma fue mal aplicada, CÓMO
+        y POR QUÉ la sentencia es errónea
+      • Interés concreto y actual (gravamen)
+      • Cita precisa de las normas legales o doctrinas violadas
+
+   C) PROCEDIMIENTO:
+      1) Interposición ante la MISMA Cámara que dictó la sentencia
+      2) Plazo: 15 DÍAS HÁBILES desde la notificación de la sentencia
+         (Art. 282 CPCCBA)
+      3) La Cámara evalúa si concede o deniega el recurso
+      4) Si lo concede: eleva los autos a la SCBA
+      5) La SCBA corre traslado a la contraparte
+      6) La SCBA resuelve: puede confirmar, modificar o revocar
+
+   D) RECURSO DE QUEJA POR DENEGATORIA (Arts. 285-289 CPCCBA):
+      Si la Cámara DENIEGA el recurso extraordinario:
+      • Se interpone DIRECTAMENTE ante la SCBA
+      • Plazo: 10 DÍAS HÁBILES desde la notificación de la denegatoria
+      • Debe acompañar: copia de la denegatoria, del recurso denegado
+        y antecedentes necesarios
+      • Debe fundar POR QUÉ la denegatoria fue errónea
+
+   E) APLICACIÓN PRÁCTICA AL CASO:
+      Si la sentencia de primera instancia rechaza la demanda y la Cámara
+      confirma el rechazo, el recurso extraordinario ante la SCBA es la
+      ÚLTIMA INSTANCIA provincial. Solo procede si hay violación de:
+      • Doctrina legal SCBA (ej: doctrina Barrios sobre actualización)
+      • Normas sustantivas (ej: Arts. 1757-1758 CCyCN mal aplicados)
+      • Garantías constitucionales (ej: derecho de propiedad Art. 17 CN)
+
+
+3. DENUNCIA ANTE CAPBA — PROCEDIMIENTO AMPLIADO
+────────────────────────────────────────────────────────────────
+
+   A) DATOS INSTITUCIONALES:
+      • CAPBA DISTRITO III
+      • Sede: L.N. Alem N°826, Morón (1708)
+      • Teléfonos: (011) 4628-9171 / 4483-2233 / 011-15-5156-1949
+      • Email: administracion@capba3.org.ar
+      • Normativa: Ley 10.405 PBA (regulación del CAPBA)
+
+   B) PROCEDIMIENTO DISCIPLINARIO DETALLADO:
+
+      PASO 1 — PRESENTACIÓN:
+      • Escrito dirigido al Tribunal de Disciplina del CAPBA Distrito III
+      • Contenido: datos del denunciante y del denunciado, hechos
+        denunciados, pruebas disponibles, firma del denunciante
+      • Es GRATUITO y no requiere patrocinio letrado
+      • Puede presentarse en sede o por correo postal
+
+      PASO 2 — ADMISIBILIDAD:
+      • El Tribunal evalúa si la denuncia es clara y fundada
+      • Puede requerir ampliaciones o aclaraciones al denunciante
+
+      PASO 3 — TRASLADO AL DENUNCIADO:
+      • Se notifica al arquitecto/profesional denunciado
+      • Plazo para descargo por escrito con ofrecimiento de prueba
+
+      PASO 4 — ETAPA DE PRUEBA:
+      • Audiencias, informes, testimonios
+      • Inspección del inmueble si corresponde
+
+      PASO 5 — RESOLUCIÓN:
+      • El Tribunal puede: archivar, absolver o sancionar
+
+      PASO 6 — APELACIÓN:
+      • La resolución puede apelarse ante el CAPBA provincial
+
+   C) SANCIONES POSIBLES:
+      • Apercibimiento (llamado de atención formal)
+      • Multa
+      • Suspensión temporal de la matrícula
+      • Cancelación definitiva de la matrícula (casos graves)
+      • Expulsión (excepcional)
+
+   D) VALOR PROBATORIO DE LA SANCIÓN DISCIPLINARIA:
+      • Si el Colegio sanciona al profesional, la resolución sancionatoria
+        puede ser ofrecida en el juicio civil como PRUEBA DOCUMENTAL
+      • Acredita la antijuridicidad de la conducta profesional
+      • No es vinculante para el juez civil pero tiene alto valor indiciario
+
+
+4. EJERCICIO ILEGAL DE LA PROFESIÓN
+────────────────────────────────────────────────────────────────
+
+   Si la obra fue ejecutada SIN director técnico (ni arquitecto, ni
+   ingeniero, ni maestro mayor de obra):
+
+   A) CONSECUENCIA CIVIL: Agrava la responsabilidad del propietario
+      (Art. 1757 CCyCN) — asumió el riesgo total de ejecutar obra
+      riesgosa sin profesional habilitado.
+
+   B) CONSECUENCIA PENAL: Si alguna persona no matriculada actuó como
+      "director de obra", configura ejercicio ilegal de la profesión:
+      • Art. 247 CP: Usurpación de títulos y honores
+      • Denunciable ante el CAPBA Y ante la UFI penal
+
+   C) CONSECUENCIA ADMINISTRATIVA: La Municipalidad de Merlo debe
+      sancionar la obra ejecutada sin profesional habilitado con:
+      • Clausura de la obra
+      • Multa al propietario
+      • Intimación a regularizar con profesional matriculado
+
+
+5. DENUNCIA ANTE COLEGIO DE MAESTROS MAYORES DE OBRA
+────────────────────────────────────────────────────────────────
+
+   Si intervino un Maestro Mayor de Obras (MMO), la denuncia se
+   presenta ante el COPITEC (Consejo Profesional de Ingeniería de
+   Telecomunicaciones, Electrónica y Computación) o ante el Colegio
+   de Técnicos de la Provincia de Buenos Aires, Distrito correspondiente.
+
+   NOTA: El MMO tiene incumbencias limitadas. En PBA, un MMO puede
+   dirigir obras de hasta planta baja + un piso en algunos municipios.
+   Si la obra excede sus incumbencias, configura ejercicio excesivo
+   de la profesión (distinto del ejercicio ilegal).
+
+
+════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 48 — APELACIÓN Y COLEGIOS PROFESIONALES
+════════════════════════════════════════════════════════════════════════════
