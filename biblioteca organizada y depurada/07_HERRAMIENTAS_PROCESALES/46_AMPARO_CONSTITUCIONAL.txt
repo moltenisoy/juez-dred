@@ -79,3 +79,176 @@ controlar la legalidad del proceso y la no afectación del orden público.
 ================================================================================
 FIN DE TEMA 4
 ================================================================================
+
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — AMPARO CONSTITUCIONAL: EXPANSIÓN Y PROFUNDIZACIÓN
+(Investigación complementaria)
+================================================================================
+
+1. CORRECCIÓN DEL PLAZO DE INTERPOSICIÓN
+────────────────────────────────────────────────────────────────
+
+   ERROR: El archivo original indica "90 días hábiles" (línea 54).
+   CORRECTO: Según Art. 2 Ley 13.928 PBA (con modificaciones por Leyes
+   14.192 y 15.016), el plazo de interposición es de 30 DÍAS desde que
+   el afectado tomó conocimiento del acto, hecho u omisión lesiva.
+
+   EXCEPCIÓN: En actos lesivos periódicos o de ejecución continuada
+   (como las filtraciones permanentes), el plazo se computa para CADA
+   nuevo hecho dañoso, lo que en la práctica permite la interposición
+   mientras el daño persista.
+
+
+2. PROCEDIMIENTO COMPLETO DEL AMPARO PROVINCIAL (Ley 13.928 PBA)
+────────────────────────────────────────────────────────────────
+
+   PASO 1 — PRESENTACIÓN DE LA DEMANDA:
+   • Requisitos formales (Art. 6 Ley 13.928):
+     - Nombre, DNI y domicilio del amparista
+     - Personería (si actúa por representación)
+     - Individualización del autor del acto u omisión lesiva
+     - Relación circunstanciada de los hechos
+     - Ofrecimiento de prueba
+     - Petición clara y precisa
+   • Competencia: Cualquier juez letrado de primera instancia del lugar
+     donde el hecho tuvo o tendría efecto.
+   • En este caso: Juzgado Civil y Comercial de DJ Merlo.
+
+   PASO 2 — ADMISIBILIDAD (Art. 4):
+   • El juez examina la demanda y se expide sobre admisibilidad de modo
+     INMEDIATO.
+   • Puede requerir aclaraciones al amparista.
+   • Si es inadmisible: rechazo in limine con recurso de apelación.
+
+   PASO 3 — MEDIDAS CAUTELARES (Art. 22):
+   • El juez puede dictar medidas cautelares en cualquier momento del proceso.
+   • En caso de urgencia: INAUDITA PARTE (sin traslado previo al demandado).
+   • Medidas posibles:
+     a) Remoción inmediata del tanque cisterna
+     b) Autorización de reparaciones eléctricas de emergencia
+     c) Prohibición de continuar obras sobre el inmueble
+     d) Designación de perito para inspección urgente
+
+   PASO 4 — TRASLADO AL DEMANDADO:
+   • El juez corre traslado por TRES (3) DÍAS al demandado/autor del acto.
+   • No se admiten dilaciones; el proceso es sumarísimo.
+
+   PASO 5 — AUDIENCIA (optativa):
+   • El juez puede convocar audiencia para:
+     a) Producir prueba
+     b) Ordenar el proceso
+     c) Intentar conciliación
+
+   PASO 6 — SENTENCIA:
+   • El juez debe resolver con la mayor celeridad posible.
+   • La sentencia puede:
+     a) Hacer lugar al amparo: ordenar cesación del acto lesivo, reparación,
+        medidas de hacer o no hacer
+     b) Rechazar el amparo: con recurso de apelación
+   • Costas: al vencido.
+
+   PASO 7 — RECURSO DE APELACIÓN:
+   • Plazo: 5 días desde la notificación de la sentencia.
+   • Efecto: devolutivo (la sentencia se ejecuta aunque se apele).
+   • La Cámara resuelve con prioridad.
+
+
+3. REQUISITOS DE ADMISIBILIDAD — ANÁLISIS APLICADO AL CASO
+────────────────────────────────────────────────────────────────
+
+   A) LESIÓN ACTUAL O INMINENTE A DERECHOS CONSTITUCIONALES:
+      • Art. 14 CN — Derecho de propiedad: La sobrecarga del tanque y las
+        filtraciones dañan el inmueble del actor.
+      • Art. 19 CN — Alterum non laedere: Principio de no dañar a otro.
+      • Art. 36 inc. 7° Const. PBA — Derecho al hábitat digno: Las
+        condiciones de inhabitabilidad violan este derecho.
+      • Art. 28 Const. PBA — Ambiente sano: La humedad permanente + hongos
+        constituyen un ambiente insalubre.
+      • Art. 41 CN — Derecho a un ambiente sano, equilibrado y apto para
+        el desarrollo humano.
+
+   B) ARBITRARIEDAD O ILEGALIDAD MANIFIESTA:
+      • La obra se ejecutó sin permisos municipales = ILEGALIDAD MANIFIESTA.
+      • La colocación de 750+ kg sobre losa ajena sin cálculo = ARBITRARIEDAD.
+      • El mantenimiento del riesgo eléctrico durante +2 años pese a reclamos
+        = ARBITRARIEDAD por omisión del deber de prevención (Art. 1710 CCyCN).
+
+   C) INEXISTENCIA DE VÍA MÁS IDÓNEA:
+      ARGUMENTO PRINCIPAL: La urgencia del riesgo de electrocución y colapso
+      estructural impide esperar los plazos del proceso ordinario (12-24 meses).
+      El amparo es la ÚNICA vía que puede resolver la urgencia en días/semanas.
+
+      REFUERZO: La jurisprudencia PBA admite el amparo aun existiendo otras
+      vías cuando hay URGENCIA y PELIGRO INMINENTE (SCBA, diversas salas).
+
+
+4. MODELO DE PETITORIO DEL AMPARO — APLICADO AL CASO
+────────────────────────────────────────────────────────────────
+
+   "Solicito a V.S.:
+
+   1. Tenga por interpuesta la presente ACCIÓN DE AMPARO conforme Art. 20
+      Constitución PBA y Ley 13.928.
+
+   2. Dicte como MEDIDA CAUTELAR URGENTE INAUDITA PARTE:
+      a) La remoción inmediata del tanque cisterna de 750 litros y su base
+         de soporte, ubicados sobre la losa flotante de mi propiedad,
+         atento al riesgo de colapso estructural.
+      b) La autorización para realizar reparaciones eléctricas de emergencia
+         a costa del demandado, atento al riesgo de electrocución por
+         filtraciones sobre la llave térmica principal.
+      c) La prohibición de innovar respecto de cualquier obra o modificación
+         sobre mi inmueble.
+
+   3. En la sentencia definitiva, ordene al demandado:
+      a) Cesar en todo acto que afecte la estructura, instalaciones y
+         habitabilidad de mi vivienda.
+      b) Realizar las reparaciones integrales necesarias para restituir
+         el inmueble a condiciones de habitabilidad segura.
+      c) Abonar las costas del presente proceso.
+
+   4. Se tenga presente la reserva de iniciar la acción ordinaria de daños
+      y perjuicios por la totalidad de los rubros indemnizatorios."
+
+
+5. AMPARO VS. OTRAS VÍAS — CUADRO COMPARATIVO
+────────────────────────────────────────────────────────────────
+
+   VÍA                     PLAZO RESOLUCIÓN   ALCANCE           COSTOS
+   ─────────────────────────────────────────────────────────────────────
+   Amparo (Ley 13.928)     Días/semanas        Cesación + orden  Bajo
+   Daño temido (623 bis)   Días/semanas        Solo detener daño Bajo
+   Acción preventiva       Semanas             Hacer/no hacer    Medio
+   Juicio ordinario        12-24 meses         Indemnización     Alto
+   Amparo ambiental        Semanas             Saneamiento       Medio
+
+   ESTRATEGIA ÓPTIMA: Presentar AMPARO para la urgencia + JUICIO ORDINARIO
+   para la indemnización. Son vías COMPATIBLES y ACUMULABLES.
+
+   El amparo resuelve la emergencia (quitar el tanque, reparar electricidad).
+   El juicio ordinario resuelve la indemnización completa (todos los rubros).
+
+
+6. JURISPRUDENCIA AMPLIADA SOBRE AMPARO POR DAÑOS EDILICIOS
+────────────────────────────────────────────────────────────────
+
+   A) SCBA — Amparos por derecho a vivienda digna:
+      La SCBA ha admitido el amparo cuando la afectación al hábitat es
+      grave e inminente, incluso cuando proviene de actos de particulares
+      (no solo del Estado). El Art. 36 inc. 7° Const. PBA protege el
+      derecho a un hábitat digno como derecho operativo.
+
+   B) Cámara de Apelaciones de La Plata:
+      Ha admitido amparos contra particulares por inmisiones graves que
+      afectan la habitabilidad, ordenando medidas de cesación inmediata.
+
+   C) Amparo ambiental (Art. 41 CN + Ley 25.675):
+      Si se encuadra como daño ambiental (ambiente doméstico insalubre),
+      opera la INVERSIÓN DE LA CARGA PROBATORIA: el demandado debe
+      demostrar que su obra no causa el daño (Art. 29 Ley 25.675).
+
+
+════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 46 — AMPARO CONSTITUCIONAL
+════════════════════════════════════════════════════════════════════════════

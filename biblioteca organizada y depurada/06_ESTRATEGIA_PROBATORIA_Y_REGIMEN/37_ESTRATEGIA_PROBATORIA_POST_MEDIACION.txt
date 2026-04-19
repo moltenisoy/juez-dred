@@ -71,3 +71,156 @@ Obras citadas
 26. Daños eléctricos causados por humedad: Soluciones y prevención - Portersa, fecha de acceso: abril 13, 2026, https://www.portersa.com/soluciones-practicas-para-danos-electricos-por-humedad/
 27. Evaluación de equipo eléctrico dañado por fuego y calor | NEMA, fecha de acceso: abril 13, 2026, https://www.nema.org/docs/default-source/secure-document-library/evaluacion-de-equipo-electrico-danado-por-fuego-y-calor.pdf?sfvrsn=8e9677b7_3
 28. Lucro cesante y daño emergente según el código civil - Lagares Abogados, fecha de acceso: abril 13, 2026, https://lagares-abogados.com/lagares-actualidad/lucro-cesante-y-dano-emergente-segun-el-codigo-civil/
+
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — ESTRATEGIA PROBATORIA AMPLIADA POST-MEDIACIÓN
+(Investigación complementaria)
+================================================================================
+
+7. RUBROS DE DAÑO FALTANTES EN EL ORIGINAL
+────────────────────────────────────────────────────────────────
+
+   El cuadro de rubros (punto 6) es incompleto. Rubros adicionales a reclamar:
+
+   A) PRIVACIÓN DE USO DEL INMUEBLE:
+      • Evidencia: Testimonial (imposibilidad de habitar normalmente),
+        documentación de alquiler temporal si corresponde.
+      • Sustento: Art. 1740 CCyCN (reparación plena incluye privación de uso).
+      • Cuantificación: Valor locativo mensual × meses de inhabitabilidad.
+
+   B) DEPRECIACIÓN DEL INMUEBLE:
+      • Evidencia: Peritaje tasador (valor antes vs. después de los daños).
+      • Sustento: Art. 1740 CCyCN + jurisprudencia que reconoce la pérdida
+        de valor aún después de reparado (estigma de daño estructural).
+
+   C) DAÑO PSICOFÍSICO:
+      • Evidencia: Peritaje psicológico + certificados médicos.
+      • Sustento: Art. 1738 CCyCN (lesión a derechos personalísimos).
+      • Incluye: Costo de tratamiento psicológico/psiquiátrico.
+
+   D) GASTOS EXTRAORDINARIOS:
+      • Mudanza forzada, guardamuebles, servicios pagados sin uso.
+      • Sustento: Art. 1740 CCyCN (daño emergente).
+
+   E) PÉRDIDA DE CHANCES (INGRESOS DIGITALES):
+      • Evidencia: Certificados Google Adsense, estadísticas del canal.
+      • Sustento: Art. 1739 CCyCN (pérdida de chance).
+      • Se cuantifica como probabilidad objetiva de ganancia frustrada.
+
+
+8. PRODUCCIÓN DE PRUEBA EN ETAPA JUDICIAL — GUÍA PRÁCTICA
+────────────────────────────────────────────────────────────────
+
+   A) AUDIENCIA PRELIMINAR (Art. 360 CPCCBA):
+      Primera audiencia obligatoria ante el juez donde se:
+      • Fijan los hechos controvertidos
+      • Determinan los medios de prueba admisibles
+      • Designan peritos de oficio
+      • Fijan audiencias de testigos
+      Importancia: Si el juez excluye un medio de prueba, debe apelarse
+      inmediatamente (recurso de reposición con apelación en subsidio).
+
+   B) PRUEBA PERICIAL — PROCESO DETALLADO (Arts. 457-473 CPCCBA):
+      1) El juez designa perito de oficio (sorteo de lista del tribunal)
+      2) Notificación al perito designado: 3 días para aceptar el cargo
+      3) Las partes pueden designar consultores técnicos de parte (Art. 462)
+      4) El perito acepta el cargo bajo juramento
+      5) Plazo para producir dictamen: fijado por el juez según complejidad
+         (usualmente 30-60 días)
+      6) Traslado del dictamen a las partes: 5 días para observaciones
+      7) Si las observaciones son fundadas: se cita al perito a explicar
+      8) El juez no está obligado por el dictamen pero debe fundar si se aparta
+
+   C) PRUEBA TESTIMONIAL — PROCESO (Arts. 407-445 CPCCBA):
+      1) Se ofrecen con la demanda (nombre, DNI, domicilio)
+      2) El juez fija audiencia de testigos
+      3) Cada parte puede ofrecer hasta 8 testigos (Art. 421 CPCCBA)
+      4) El interrogatorio es oral y actuado ante el juez
+      5) Las partes pueden repreguntar
+      6) Testigos por videoconferencia: admisibles (Acordada SCBA 3975/2020)
+
+   D) PRUEBA INFORMATIVA (Arts. 394-395 CPCCBA):
+      Se libran oficios a:
+      • Municipalidad de Merlo (permisos, expedientes)
+      • Registro de la Propiedad (dominio, gravámenes)
+      • CAPBA Distrito III (director técnico)
+      • Empresa de electricidad (estado de instalación)
+      • Movistar (reclamo por corte de servicio)
+      Plazo de respuesta: 10 días hábiles; si no contesta → reiteración
+      bajo apercibimiento (Art. 396 CPCCBA).
+
+
+9. ESTRATEGIA ESPECÍFICA PARA ACREDITAR NEXO CAUSAL DESPUÉS DE 2 AÑOS
+────────────────────────────────────────────────────────────────
+
+   La principal objeción del demandado será: "Los daños son por antigüedad
+   de la vivienda, no por mi obra." Para contrarrestar:
+
+   A) PRUEBA DE ESTADO PREVIO:
+      • Fotografías en redes sociales ANTES de la obra (Facebook, Instagram)
+        con fechas de publicación verificables
+      • Testimonial: "Antes de la obra no había humedad ni rajaduras"
+      • Informe técnico que confirme que el tipo de daño (rajaduras por
+        sobrecarga, filtraciones por rotura de impermeabilización) es
+        incompatible con deterioro natural por antigüedad
+
+   B) PRUEBA DE CONTEMPORANEIDAD:
+      • Boleta de compra de membrana asfáltica (6 meses antes de la obra)
+        → Demuestra que la impermeabilización era RECIENTE y fue destruida
+      • Facturas de bienes nuevos dañados (electrónicos, muebles)
+        → Demuestra que el deterioro comenzó DESPUÉS de la obra
+
+   C) PRUEBA DE CAUSALIDAD TÉCNICA:
+      • Pericia estructural que demuestre que las rajaduras son por SOBRECARGA
+        (tanque 750 kg) y no por retracción normal del hormigón
+      • Pericia hídrica que demuestre que las filtraciones provienen de la
+        rotura de la pendiente del techo (alterada por la obra)
+      • Mapeo de fisuras: las fisuras por sobrecarga tienen patrón radial
+        desde el punto de carga; las fisuras por antigüedad son lineales
+
+   D) PRUEBA DE PROGRESIÓN:
+      • Serie cronológica de fotografías mostrando el agravamiento
+      • Testimonial sobre la progresión: "Cada vez hay más humedad"
+      • Los dos informes técnicos existentes (uno inicial + otro posterior)
+        que documentan el avance del deterioro
+
+
+10. MEDIDAS CAUTELARES SIMULTÁNEAS A LA DEMANDA
+────────────────────────────────────────────────────────────────
+
+    Con la demanda post-mediación, solicitar SIMULTÁNEAMENTE:
+
+    A) PROHIBICIÓN DE INNOVAR (Art. 230 CPCCBA):
+       Que el demandado no realice modificaciones en la obra ni en el tanque
+       hasta que se produzca la pericia judicial.
+
+    B) MEDIDA INNOVATIVA DE URGENCIA (Art. 232 CPCCBA):
+       Remoción del tanque cisterna de la losa + reparaciones eléctricas
+       de urgencia por riesgo de electrocución.
+       Fundamento: Arts. 1710-1713 CCyCN (deber de prevención).
+
+    C) EMBARGO PREVENTIVO (Art. 209 CPCCBA):
+       Sobre bienes del demandado para garantizar el cobro futuro.
+       Verificar previamente si el inmueble es bien de familia.
+
+    D) PRUEBA ANTICIPADA (Art. 326 CPCCBA):
+       Si existe riesgo de que las condiciones cambien antes de la pericia
+       judicial, solicitar inspección ocular anticipada con perito designado.
+
+
+11. ERRORES A EVITAR EN LA ETAPA POST-MEDIACIÓN
+────────────────────────────────────────────────────────────────
+
+    ✗ NO demorar la presentación de demanda después del cierre de mediación
+      (riesgo: vencimiento de suspensión de prescripción)
+    ✗ NO reparar antes de la pericia judicial (destruye el escenario probatorio)
+    ✗ NO omitir solicitar medidas cautelares simultáneas
+    ✗ NO olvidar la actualización monetaria (doctrina Barrios)
+    ✗ NO presentar en DJ Morón — presentar en DJ MERLO
+    ✗ NO olvidar constituir domicilio electrónico en el escrito de demanda
+
+
+════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 37 — ESTRATEGIA PROBATORIA POST-MEDIACIÓN
+════════════════════════════════════════════════════════════════════════════
