@@ -439,3 +439,95 @@ Verificar si los demandados incluyen tanto al comitente como al director técnic
 
 
 Análisis elaborado con base en el Código Civil y Comercial de la Nación (Ley 26.994, vigente), la Constitución Nacional, el Código Penal de la Nación y normativa local aplicable. Todos los artículos citados corresponden a normas vigentes a la fecha de este análisis. Para citas jurisprudenciales específicas, se recomienda consultar bases de datos como SAIJ (saij.gob.ar) o el sistema de jurisprudencia del Poder Judicial correspondiente.
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — CORRECCIONES, PRECISIONES Y AMPLIACIONES
+================================================================================
+Fecha de incorporación: Julio 2026
+Elaborado por: Sistema JUEZ-DRED — Biblioteca Organizada y Depurada
+
+A. CORRECCIONES NORMATIVAS
+
+1. DEPARTAMENTO JUDICIAL COMPETENTE
+   El Departamento Judicial competente es MERLO (no Morón), creado por
+   Ley 13.859 de 2009 de la Provincia de Buenos Aires, con asiento en
+   la ciudad de Merlo. Toda referencia anterior a "Morón" debe entenderse
+   sustituida por "MERLO".
+
+2. CONSTITUCIÓN EN MORA DEL DEMANDADO
+   La constitución en mora se rige por el Art. 886 CCyCN (Ley 26.994),
+   que establece: "Mora del deudor. La mora del deudor se produce por el
+   solo transcurso del tiempo fijado para el cumplimiento de la obligación."
+   En obligaciones de no dañar (como el presente caso), la mora es automática
+   desde la producción del daño. No debe confundirse con el Art. 1717 CCyCN
+   (antijuridicidad), que refiere al deber general de no dañar, no a la mora.
+
+3. SUSPENSIÓN DE PRESCRIPCIÓN POR CARTA DOCUMENTO
+   La interpelación extrajudicial mediante carta documento SUSPENDE (no
+   interrumpe) el curso de la prescripción por el plazo de seis (6) meses,
+   conforme Art. 2546 CCyCN. Vencido ese término, el plazo de prescripción
+   se reanuda desde donde se había detenido. Diferencia clave: la
+   interrupción (Art. 2544 CCyCN) borra el plazo transcurrido; la
+   suspensión solo lo detiene temporalmente.
+
+4. NORMATIVA MUNICIPAL — LEY ORGÁNICA MUNICIPAL
+   El régimen municipal de la Provincia de Buenos Aires se rige por el
+   Decreto-Ley 6769/58 (Ley Orgánica de las Municipalidades), no por
+   la Ley 10.147. Es el Decreto-Ley 6769/58 el que regula las facultades
+   de control edilicio y poder de policía municipal aplicable al caso.
+
+B. CONCEPTOS COMPLEMENTARIOS OMITIDOS
+
+5. DAÑO CONTINUADO Y PRESCRIPCIÓN LIBERATORIA
+   En supuestos de daños continuados (como filtraciones persistentes durante
+   años), el plazo de prescripción de tres (3) años (Art. 2561 CCyCN) se
+   computa de manera independiente para cada manifestación dañosa nueva.
+   Doctrina: Pizarro-Vallespinos, "Instituciones de Derecho Privado —
+   Obligaciones", Ed. Hammurabi. Jurisprudencia: SCBA, causa C 121.271,
+   "Municipalidad de Berazategui c/ Aguas Argentinas" (2018).
+
+6. PRUEBA PERICIAL — PUNTOS DE PERICIA SUGERIDOS
+   Para la pericia de ingeniería/arquitectura se recomienda incluir:
+   a) Determinación del nexo causal entre la obra lindera y los daños;
+   b) Cuantificación del costo de reparación a valores actualizados;
+   c) Determinación de la pérdida de valor venal del inmueble;
+   d) Evaluación de la habitabilidad y riesgo estructural vigente;
+   e) Identificación de incumplimientos al Código de Edificación de Merlo
+      (Ordenanza Nº 5839/2021).
+
+7. ACCIÓN PREVENTIVA — Art. 1711 y 1713 CCyCN
+   Ante la persistencia del daño, procede solicitar tutela preventiva
+   judicial para ordenar al demandado la adopción inmediata de medidas
+   de mitigación (Art. 1713 CCyCN: "La sentencia que admite la acción
+   preventiva debe disponer, a pedido de parte o de oficio, en forma
+   definitiva o provisoria, obligaciones de dar, hacer o no hacer...").
+   Esta herramienta es independiente de la pretensión resarcitoria y puede
+   tramitar por vía cautelar o como pretensión autónoma.
+
+8. LEGITIMACIÓN ACTIVA AMPLIADA — Art. 1772 CCyCN
+   En casos donde los daños afectan a convivientes del inmueble que no
+   son propietarios, el Art. 1772 CCyCN (acción civil en el proceso penal
+   — legitimados) y los principios generales de legitimación por interés
+   directo (Art. 1737 CCyCN) habilitan el reclamo de quienes sufren
+   perjuicio personal acreditado, incluyendo ocupantes legítimos.
+
+9. INTERESES MORATORIOS — TASA APLICABLE EN PBA
+   La SCBA (Suprema Corte de Justicia de la Provincia de Buenos Aires)
+   fijó como doctrina legal obligatoria la tasa pasiva más alta del BPBA
+   (Banco de la Provincia de Buenos Aires) en causa "Vera c/ Provincia
+   de Buenos Aires" (Ac. 119.176, 2016). A partir de la mora (fecha del
+   hecho dañoso), los intereses se computan sobre el monto actualizado
+   del reclamo, hasta el efectivo pago.
+
+10. CARGA DINÁMICA DE LA PRUEBA — Art. 1735 CCyCN
+    En el marco de la responsabilidad objetiva (Art. 1757 CCyCN), opera
+    la facultad judicial de distribuir la carga probatoria según quién
+    esté en mejores condiciones de probar (Art. 1735 CCyCN). El demandado
+    (constructor/propietario de la obra) está en mejores condiciones de
+    acreditar que adoptó las medidas de prevención y que su actividad no
+    causó los daños.
+
+================================================================================
+FIN DEL ARCHIVO 23 — INFORME JURÍDICO ACREDITACIÓN DE DAÑOS
+(Con Sección Complementaria incorporada — Julio 2026)
+================================================================================
