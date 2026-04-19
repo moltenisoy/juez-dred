@@ -234,6 +234,9 @@ construcción. Se divide en tres subcarpetas temáticas.
     Clasificación de 19 requisitos incumplidos por la obra, tipificando cada
     infracción normativa (falta grave, administrativa, contravención civil)
     según la Ordenanza de Merlo, con secuencia cronológica de 9 pasos.
+    Incluye tabla consolidada de los 19 requisitos con clasificación de
+    incumplimiento, normativa base y sanción específica (Ordenanzas 5839/21,
+    5494, 742/16, Ley 13.512, Decreto 2080/80, Decreto-Ley 8912/77).
     Consultarlo para fundamentar cuáles requisitos se omitieron y qué sanción
     legal corresponde a cada uno (clausura, demolición, multas, nulidad).
 
@@ -274,8 +277,11 @@ cesante/patrimoniales.
     Análisis exhaustivo de degradación de hardware informático de precisión
     (GPU, motherboard) expuesto a humedad relativa >70% sostenida. Incluye
     mecanismos técnicos de corrosión electroquímica y norma IPC-A-610.
-    Consultarlo para fundamentar el reclamo por daño a equipos tecnológicos
-    con pericia técnica que demuestre irreversibilidad del daño.
+    Incorpora jurisprudencia CABA sobre corrosión por humedad (Sala F 2021
+    y 2026 con condena $23M, Sala M 2015 Bortnik), requisitos de prueba
+    fotográfica y testimonial, y análisis de suficiencia probatoria sin
+    perito profesional. Consultarlo para fundamentar el reclamo por daño a
+    equipos tecnológicos y para evaluar alternativas probatorias.
 
   ► 25_REGIMEN_DESAGUE_Y_AGUAS_PLUVIALES.txt
     Análisis integral de normativa técnica y legal de sistemas de drenaje
@@ -361,8 +367,12 @@ cesante/patrimoniales.
   ► 33_COSTAS_Y_DEPRECIACION_INMUEBLE.txt
     Régimen de costas según CPCC PBA (principio objetivo de derrota), cálculo
     de honorarios profesionales (Ley 14967 PBA), regulación de peritos y
-    depreciación patrimonial del inmueble dañado. Consultarlo para incorporar
-    a la pretensión el rubro de costas y honorarios periciales, y para tasar
+    depreciación patrimonial del inmueble dañado. Incorpora régimen nacional
+    CPCCN (Arts. 68, 77, 478), Leyes 21.839, 24.432 y 27.423, limitación
+    Art. 730 CCCN (doctrina SCBA Poggi - 25% solo primera instancia),
+    tratamiento perito de parte vs judicial (50%), viáticos y modelo de
+    cláusula de costas en sentencia. Consultarlo para incorporar a la
+    pretensión el rubro de costas y honorarios periciales, y para tasar
     la desvalorización del inmueble por filtraciones y asentamientos.
 
   ► 34_TASACION_PRESUPUESTOS_INGRESOS_DIGITALES.txt
@@ -442,12 +452,14 @@ la prueba hasta precedentes favorables descargables.
     Casos reales 2021-2026 de daños por obra lindera en PBA: sentencias con
     pericias, formato/estructura de informes periciales y fuentes descargables.
     Incluye refutación de defensa "daño preexistente" e indemnización por daño
-    material, moral y psicológico. Incorpora 3 nuevos precedentes PBA: Cámara
-    Quilmes Sala II (Nov. 2022, doctrina "fortaleza de serenidad"), SCBA
-    Causa C. 124.096 (2020/2021, cuantificación a valores actuales), y
-    Cámara Lomas de Zamora (2024, resp. objetiva fideicomiso constructor).
-    Consultarlo como precedentes jurisprudenciales concretos y para modelar
-    el informe pericial del caso.
+    material, moral y psicológico. Incorpora 3 precedentes PBA: Cámara
+    Quilmes Sala II (2022), SCBA C. 124.096 (2020/2021), Cámara Lomas de
+    Zamora (2024). Agrega 4 casos reales con fragmentos textuales de peritajes:
+    Malatini c/Peirano (Trenque Lauquen 2021), M.S. c/P. (2021), López
+    c/Galván (2023), Rodríguez c/Obredor (Junín 2023); estructura típica de
+    informe pericial judicial (8 secciones); metodología de búsqueda; y acceso
+    a expedientes restringidos vía MEV/SCBA. Consultarlo como precedentes
+    jurisprudenciales concretos y para modelar el informe pericial del caso.
 
   ► 42_PRUEBA_PERICIAL_PSICOLOGICA_MEDICA_TECNICA.txt
     Guía completa de prueba pericial en tres áreas: informe psicológico/
