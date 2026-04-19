@@ -338,6 +338,42 @@ ASPECTOS TÉCNICOS PARA PERICIAS:
      mensura actualizada.
 
 ================================================================================
+ADDENDUM — TABLA DE RUBROS RESARCIBLES CON EVIDENCIA REQUERIDA
+(Fuente: "Responsabilidad Civil y Reparación Integral ante Daños por Obras
+Linderas Clandestinas en la Jurisprudencia de la PBA")
+================================================================================
+
+TABLA: DESGLOSE DE RUBROS RESARCIBLES EN EL CONTEXTO DE LA DEMANDA
+
+Rubro                         | Concepto                       | Evidencia Necesaria
+------------------------------+--------------------------------+----------------------------
+Daño Emergente (Inmueble)     | Costo de reparación de techos, | Presupuestos y pericia de
+                              | paredes y revestimientos.       | ingeniería.
+------------------------------+--------------------------------+----------------------------
+Daño Emergente (Muebles)      | Reposición de colchones,       | Facturas de compra y fotos
+                              | sábanas, ropa,                 | del estado actual.
+                              | electrodomésticos.             |
+------------------------------+--------------------------------+----------------------------
+Privación de Uso              | Valor locativo del inmueble    | Informe inmobiliario de
+                              | durante el tiempo de           | zona.
+                              | reparación.                    |
+------------------------------+--------------------------------+----------------------------
+Lucro Cesante                 | Pérdida de ingresos por        | Prueba de la actividad
+                              | inhabilitación de la oficina   | informal (testigos, mails,
+                              | de trabajo.                    | facturas).
+------------------------------+--------------------------------+----------------------------
+Daño Extrapatrimonial         | Padecimientos espirituales,    | Relato de hechos y pericia
+                              | pérdida de vida social, frío,  | psicológica opcional.
+                              | angustia.                      |
+------------------------------+--------------------------------+----------------------------
+
+Nota: El artículo 1741 del CCyC establece que el monto de la indemnización
+por daño extrapatrimonial debe fijarse ponderando las "satisfacciones
+sustitutivas y compensatorias", lo que implica que el juez debe otorgar
+una suma que permita a la víctima acceder a bienes o experiencias que
+mitiguen el padecimiento sufrido.
+
+================================================================================
 FIN DEL ARCHIVO 51
 ================================================================================
 Fuentes verificadas: SCBA, Microjuris (MJ-JU-M-153927-AR), CIJ, Poder
