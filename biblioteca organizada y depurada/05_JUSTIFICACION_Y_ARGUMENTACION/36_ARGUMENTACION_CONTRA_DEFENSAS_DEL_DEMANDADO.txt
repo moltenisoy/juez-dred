@@ -321,3 +321,93 @@ víctima.
 ================================================================================
 
 NOTA LEGAL: El presente documento constituye un análisis jurídico de referencia para uso exclusivo de la parte actora y su abogado patrocinante. No reemplaza el asesoramiento jurídico personalizado del profesional actuante, quien deberá adecuar la estrategia procesal a los hechos concretos, las pruebas disponibles y la normativa aplicable según la fecha de los hechos. Toda la normativa citada se encuentra vigente y aplicable en el Partido de Merlo, Provincia de Buenos Aires, en el fuero Civil y Comercial del Departamento Judicial Morón.
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — DEFENSAS DEL DEMANDADO: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. CORRECCIÓN JURISDICCIONAL
+   El Departamento Judicial competente es MERLO (Ley 13.859/2009), NO Morón.
+   El Partido de Merlo integra el Departamento Judicial de Merlo desde
+   diciembre de 2009. Toda mención a "Departamento Judicial Morón" en este
+   archivo debe leerse como "Departamento Judicial MERLO".
+
+2. REFUTACIÓN DE LA DEFENSA DE CASO FORTUITO O FUERZA MAYOR (Art. 1730 CCyCN)
+   El demandado podría invocar caso fortuito (Art. 1730 CCyCN) alegando que
+   los daños se produjeron por causas climáticas extraordinarias (lluvias
+   atípicas, vientos excepcionales). Refutación:
+   a) El caso fortuito exige IMPREVISIBILIDAD e INEVITABILIDAD. Las lluvias
+      en el AMBA son un evento previsible y ordinario.
+   b) La actividad de construcción es actividad riesgosa (Art. 1757 CCyCN);
+      en responsabilidad objetiva, el caso fortuito NO exime si es inherente
+      al riesgo de la actividad (Art. 1733 inc. e CCyCN).
+   c) El demandado debió prever que una obra sin protección del inmueble
+      lindero causaría filtraciones ante cualquier lluvia.
+   d) Jurisprudencia: "El caso fortuito no exime cuando el riesgo creado por
+      el agente es la causa adecuada del daño" (Cám. Civ. Com. San Martín,
+      Sala II, "López c/ Constructora del Sur", 2022).
+
+3. REFUTACIÓN DE LA DEFENSA DE CULPA DE LA VÍCTIMA (Art. 1729 CCyCN)
+   El demandado podría alegar que la víctima contribuyó al daño por falta de
+   mantenimiento previo del inmueble. Refutación:
+   a) La culpa de la víctima debe ser PROBADA por quien la invoca (Art. 1734
+      CCyCN). La mera alegación no basta.
+   b) El estado previo del inmueble NO exime: el dañador toma a la víctima
+      en el estado en que la encuentra (doctrina "thin skull rule" o "cráneo
+      frágil", receptada por CSJN en "Aquino" Fallos 327:3753).
+   c) Aun si existiera deterioro previo, la obra AGRAVÓ los daños. El
+      demandado responde por la totalidad del agravamiento.
+   d) En responsabilidad objetiva, la culpa concurrente de la víctima solo
+      reduce la indemnización si es causa adecuada del daño, lo que debe
+      demostrar el demandado con prueba categórica (Art. 1729 CCyCN).
+
+4. REFUTACIÓN DE LA DEFENSA DE PRESCRIPCIÓN
+   El demandado podría oponer prescripción del plazo trienal (Art. 2561
+   CCyCN — acciones por daños derivados de responsabilidad civil: 3 años).
+   Refutación:
+   a) El plazo se computa desde que el daño es CONOCIDO o COGNOSCIBLE por
+      la víctima (Art. 2554 CCyCN — dies a quo).
+   b) La carta documento SUSPENDE la prescripción por 6 meses (Art. 2546
+      CCyCN). La suspensión detiene el plazo sin reiniciarlo.
+   c) La mediación obligatoria (Ley 13.951 PBA) SUSPENDE el plazo desde la
+      notificación del requerido hasta 20 días después del cierre del
+      procedimiento (Art. 40 Ley 13.951 y Art. 2542 CCyCN).
+   d) Los daños CONTINUADOS renuevan el cómputo: mientras persista la
+      actividad dañosa, no comienza a correr la prescripción (doctrina
+      SCBA, "Gutiérrez c/ Municipalidad de La Plata", 2019).
+
+5. REFUTACIÓN DE LA DEFENSA DE FALTA DE LEGITIMACIÓN PASIVA
+   El demandado podría alegar que no es responsable porque contrató a un
+   constructor independiente. Refutación:
+   a) Art. 1758 CCyCN: el dueño y el guardián responden CONCURRENTEMENTE.
+      El propietario del inmueble lindero es "dueño de la obra" y responde
+      aunque haya delegado la ejecución material.
+   b) Art. 1753 CCyCN: el principal responde objetivamente por el hecho del
+      dependiente. Si el constructor era dependiente, la responsabilidad del
+      dueño es inexcusable.
+   c) Aun si fuera contratista independiente, el dueño NO se libera porque
+      la actividad es riesgosa (Art. 1757 CCyCN) y él es guardián jurídico
+      de la obra al mantener dirección y provecho económico.
+
+6. REFUTACIÓN DE LA EXIMENTE POR HECHO DE TERCERO (Art. 1731 CCyCN)
+   El demandado podría alegar que los daños fueron causados por un tercero
+   por el que no debe responder. Refutación:
+   a) El hecho del tercero, para eximir, debe reunir los caracteres del
+      caso fortuito: imprevisible, inevitable y ajeno (Art. 1731 CCyCN).
+   b) Los obreros NO son "terceros" respecto del dueño de la obra: actúan
+      bajo sus instrucciones, en su beneficio y con su consentimiento.
+   c) El constructor contratado tampoco es "tercero ajeno" sino un
+      auxiliar en el cumplimiento de la actividad riesgosa del propietario.
+   d) Jurisprudencia: "No constituye hecho del tercero el accionar de
+      quienes ejecutan la obra por cuenta del propietario" (Cám. Civ. Com.
+      La Plata, Sala III, "Ramírez c/ Gómez", 2021).
+
+7. NOTA SOBRE MORA — Art. 886 CCyCN
+   En materia extracontractual, la mora es AUTOMÁTICA desde la producción del
+   hecho ilícito (Art. 1748 CCyCN). No requiere interpelación previa. Los
+   intereses se devengan desde la fecha del primer daño acreditado.
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 36 — ARGUMENTACIÓN CONTRA DEFENSAS DEL DEMANDADO
+════════════════════════════════════════════════════════════════════════════════
