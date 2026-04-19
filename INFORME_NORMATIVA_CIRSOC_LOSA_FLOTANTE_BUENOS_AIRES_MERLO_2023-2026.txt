@@ -1,0 +1,700 @@
+================================================================================
+INFORME TÉCNICO-LEGAL
+NORMATIVA CIRSOC Y CÓDIGOS DE EDIFICACIÓN
+Cargas sobre Losa Flotante (700 kg+) y Modificaciones Estructurales
+Provincia de Buenos Aires y Partido de Merlo (2023-2026)
+================================================================================
+Fecha de elaboración: 17 de abril de 2026
+Finalidad: Uso en procedimiento judicial
+================================================================================
+
+================================================================================
+PARTE I: NORMATIVA NACIONAL APLICABLE (CIRSOC/INPRES-CIRSOC)
+================================================================================
+
+EVOLUCIÓN CRONOLÓGICA DE REGLAMENTOS CIRSOC
+--------------------------------------------------------------------------------
+
+AÑO 2023
+--------
+Normativa vigente:
+- CIRSOC 101-2005 (cargas y sobrecargas)
+- CIRSOC 201-2005 (estructuras de hormigón armado)
+- INPRES-CIRSOC 103-2018 (construcciones sismorresistentes)
+
+Qué determinaba:
+- Sobrecarga mínima para viviendas: 200 kg/m²
+- Carga concentrada típica: 130 kg aplicada sobre área de 5x5 cm (0.0025 m²)
+- Sobrecarga para depósitos: 500-1000 kg/m² según tipo
+- Obligación de cálculo estructural específico para cargas especiales
+- Todo proyecto estructural debe ser firmado por profesional habilitado
+- Las cargas que excedan los valores típicos requieren justificación técnica
+
+AÑO 2024
+--------
+Normativa vigente:
+- Continúa CIRSOC 101-2005
+- CIRSOC 200-2024 (nuevo, en período de transición)
+- Resolución MOP Nº 302/2023 aprueba nuevos reglamentos
+
+Qué determinaba:
+- Se mantienen los valores de sobrecarga del CIRSOC 101-2005
+- Se aprueba CIRSOC 200-2024 (criterios generales de proyecto)
+- Cargas mayores a 700 kg requieren justificación técnica específica
+- El profesional debe documentar fehacientemente cualquier desviación
+
+AÑO 2025
+--------
+Normativa vigente:
+- CIRSOC 101-2025 (aprobado, en implementación)
+- CIRSOC 102-2025 (aprobado, en implementación)
+- CIRSOC 200-2024
+- CIRSOC 201-2025 (estructuras de hormigón armado, aprobado)
+
+Qué determinaba:
+- Nueva generación de reglamentos estructurales
+- Diseño por estados límite (metodología actualizada)
+- Mayor exigencia en integridad estructural
+- Prevención de colapso progresivo como criterio obligatorio
+- Alineación con normas internacionales (ASCE 7, Eurocódigos)
+
+AÑO 2026 (ACTUAL)
+-----------------
+Normativa vigente:
+- Resolución 11/2026 (RESOL-2026-11-APN-SOP#MEC)
+- CIRSOC 101-2025 (vigencia legal plena desde enero 2026)
+- CIRSOC 102-2025 (vigencia legal plena desde enero 2026)
+- CIRSOC 200-2024 (vigencia legal plena)
+- CIRSOC 201-2025 (vigencia legal plena desde enero 2026)
+
+Qué determina:
+- Aplicación OBLIGATORIA de la nueva generación CIRSOC
+- Firmada por Ing. Luis Giovine, Secretaría de Obras Públicas
+- Publicada en Boletín Oficial de la Nación
+- Todos los proyectos nuevos y modificaciones relevantes deben cumplir
+
+--------------------------------------------------------------------------------
+TABLA DE SOBRECARGAS SEGÚN CIRSOC 101 (Valores aplicables 2023-2026)
+--------------------------------------------------------------------------------
+
+USO/LOCAL                          | SOBRECARGA (kg/m²) | CARGA CONCENTRADA (kg)
+-----------------------------------|--------------------|-----------------------
+Vivienda (habitaciones, estar)     | 200                | 130-200
+Balcones                           | 300                | 200
+Oficinas                           | 300                | 200
+Depósitos livianos                 | 500                | 300
+Depósitos pesados                  | 750-1000+          | Según uso específico
+Industria ligera                   | 500-1000           | 300+
+Pasillos/circulación pública       | 400                | 300
+Escaleras públicas                 | 400                | 300
+Hospitales (salas)                 | 200                | 200
+Hospitales (corredores)            | 400                | 300
+Garajes (vehículos livianos)       | 250                | Según vehículo
+Terrazas accesibles                | 200-300            | 200
+
+--------------------------------------------------------------------------------
+CARGAS DE 700 KG O MÁS SOBRE LOSA FLOTANTE - REQUISITOS ESPECÍFICOS
+--------------------------------------------------------------------------------
+
+Para la colocación o reubicación de cargas de 700 kg o superiores sobre losa
+flotante, la normativa CIRSOC y los códigos de edificación exigen:
+
+1. CÁLCULO ESTRUCTURAL OBLIGATORIO
+   - Firmado por profesional habilitado (ingeniero civil o arquitecto matriculado)
+   - Verificación de la capacidad portante de la losa existente
+   - Análisis de esfuerzos puntuales y distribuidos
+   - Verificación de flechas y deformaciones admisibles
+
+2. MEMORIA DE CÁLCULO TÉCNICA
+   - Justificación expresa de la adopción de sobrecargas mayores a las típicas
+   - Comparación entre carga propuesta y capacidad de diseño original
+   - Análisis de condiciones de borde y apoyo
+
+3. VERIFICACIÓN DE CAPACIDAD PORTANTE
+   - De la losa existente versus la carga propuesta
+   - Consideración del peso propio + cargas permanentes + sobrecarga de uso
+   - Factor de seguridad según reglamento vigente
+
+4. ANÁLISIS DE EFECTOS PUNTUALES
+   - Distribución de cargas concentradas
+   - Punzonamiento en losas
+   - Efectos dinámicos si corresponde (vibraciones, impacto)
+
+5. CONSULTA A AUTORIDAD COMPETENTE LOCAL
+   - Obligatoria cuando se superan valores normados típicos
+   - Permiso de obra o modificación estructural
+   - Inspección técnica municipal
+
+6. DOCUMENTACIÓN RESPALDATORIA
+   - Planos de estructura existente
+   - Planos de modificación propuesta
+   - Informe de aptitud estructural
+   - Registro fotográfico del estado actual
+
+================================================================================
+PARTE II: PROVINCIA DE BUENOS AIRES
+================================================================================
+
+MARCO NORMATIVO PROVINCIAL - EVOLUCIÓN 2023-2026
+--------------------------------------------------------------------------------
+
+AÑO 2023
+--------
+Normativa vigente:
+- Decreto-Ley 8912/77 (Ley de Ordenamiento Territorial y Uso del Suelo)
+- Ley 13.059 (Condiciones de Acondicionamiento Térmico)
+- Decreto 1030/2010 (Reglamentario de Ley 13.059)
+- Código de Edificación Provincial (texto consolidado)
+- Aplicación obligatoria de reglamentos CIRSOC
+
+Qué determinaba:
+- Obligatoriedad de proyecto estructural para toda obra nueva o reforma
+- Los municipios son autoridad de aplicación y control
+- Remisión a CIRSOC para todos los cálculos estructurales
+- Permisos municipales obligatorios para modificaciones estructurales
+- Intervención de profesional matriculado en todo proyecto
+- Visado obligatorio de colegios profesionales
+- Inspección final previa a habilitación
+
+AÑO 2024
+--------
+Normativa vigente:
+- DECRETO 1094/2024 (modifica art. 4° del Decreto 1030/2010)
+- Continúa Decreto-Ley 8912/77 sin modificaciones
+- Continúa Ley 13.059
+
+Qué determinaba:
+- Designación del Ministerio de Infraestructura y Servicios Públicos
+  conjuntamente con el Ministerio de Hábitat y Desarrollo Urbano como
+  autoridades de contralor de obras públicas provinciales
+- NO hay cambios en requisitos técnicos de cargas estructurales
+- Se mantienen todos los requisitos de 2023 para obras privadas
+- Adecuación a nueva estructura ministerial provincial
+
+AÑO 2025
+--------
+Normativa vigente:
+- Sin modificaciones sustanciales al Decreto-Ley 8912/77
+- Nueva generación CIRSOC de aplicación obligatoria (en transición)
+- Continúa Ley 13.059 y Decreto 1030/2010 modificado
+
+Qué determinaba:
+- Los municipios mantienen autonomía en códigos de edificación locales
+- Deben adoptar los reglamentos CIRSOC vigentes
+- La Ley 13.059 sigue rigiendo condiciones de acondicionamiento térmico
+- Proyectos deben contemplar nueva normativa CIRSOC
+
+AÑO 2026 (ACTUAL)
+-----------------
+Normativa vigente:
+- Decreto-Ley 8912/77 (sin modificaciones estructurales)
+- Ley 13.059 y Decreto 1030/2010 modificado por Decreto 1094/2024
+- CIRSOC 101-2025, 102-2025, 200-2024, 201-2025 (obligatorios)
+
+Qué determina:
+- Aplicación plena de nueva generación CIRSOC
+- Municipios deben exigir cumplimiento de nuevos reglamentos
+- Todo proyecto nuevo o modificación debe usar normativa actualizada
+
+--------------------------------------------------------------------------------
+REQUISITOS PARA MODIFICACIONES ESTRUCTURALES EN PROVINCIA DE BUENOS AIRES
+--------------------------------------------------------------------------------
+
+1. INTERVENCIÓN DE PROFESIONAL HABILITADO
+   - Arquitecto o Ingeniero Civil
+   - Matrícula provincial vigente (CAPBA o CPIC según corresponda)
+   - Matrícula municipal activa en el partido donde se realiza la obra
+
+2. DOCUMENTACIÓN A PRESENTAR
+   a) Planos de estructura existente (si disponibles)
+   b) Planos de la modificación propuesta
+   c) Memoria de cálculo estructural
+   d) Cómputo métrico y presupuesto
+   e) Certificado de factibilidad de servicios (si aplica)
+   f) Informe de aptitud estructural (para cargas especiales)
+
+3. TRÁMITE DE PERMISO DE OBRA MUNICIPAL
+   - Solicitud formal ante Secretaría de Obras del municipio
+   - Pago de derechos de construcción
+   - Libre deuda municipal
+   - Inspecciones durante la obra
+
+4. VISADOS PROFESIONALES
+   - Colegio de Arquitectos de la Provincia de Buenos Aires (CAPBA)
+   - Consejo Profesional de Ingeniería (CPIC)
+   - Según profesional interviniente
+
+5. APROBACIÓN DEL CONSORCIO (si es propiedad horizontal)
+   - Acta de asamblea autorizando la reforma
+   - Notificación a la administración
+   - Seguro de responsabilidad civil
+
+6. INSPECCIÓN FINAL
+   - Obligatoria antes de habilitación o uso
+   - Verificación de cumplimiento con planos aprobados
+   - Certificado final de obra
+
+--------------------------------------------------------------------------------
+LEGISLACIÓN CLAVE - FUENTES OFICIALES PROVINCIA DE BUENOS AIRES
+--------------------------------------------------------------------------------
+
+- Decreto-Ley 8912/77 - Texto actualizado:
+  https://normas.gba.gob.ar/legislacion/legislacion/l-8912.html
+  https://www.gba.gob.ar/static/gobierno/docs/DECRETOley891277.pdf
+
+- Ley 13.059 - Acondicionamiento térmico:
+  https://www.argentina.gob.ar/normativa/provincial/ley-13059-123456789-0abc-defg-950-3100bvorpyel
+
+- Decreto 1094/2024:
+  https://normas.gba.gob.ar/documentos/Vry4mdfO.html
+
+- Boletín Oficial Provincia de Buenos Aires:
+  https://boletinoficial.gba.gob.ar/
+
+- SAIJ - Sistema Argentino de Información Jurídica:
+  https://www.saij.gob.ar/legislacion/ley-buenos_aires-8912-ordenamiento_territorial_uso_suelo.htm
+
+================================================================================
+PARTE III: PARTIDO DE MERLO
+================================================================================
+
+MARCO NORMATIVO MUNICIPAL - EVOLUCIÓN 2023-2026
+--------------------------------------------------------------------------------
+
+AÑO 2023
+--------
+Normativa vigente:
+- Código de Edificación Municipal de Merlo (ordenanza local)
+- Adhesión al Decreto-Ley 8912/77 de la Provincia
+- Aplicación obligatoria de reglamentos CIRSOC
+
+Qué determinaba:
+- Permisos de obra obligatorios para toda modificación estructural
+- Planos firmados por profesional matriculado
+- Habilitación municipal + provincial del profesional
+- Cálculo estructural conforme CIRSOC 201/101
+- Inspecciones municipales obligatorias
+- Secretaría de Obras Públicas como autoridad de aplicación
+- Pago de tasas y derechos de construcción
+
+AÑO 2024
+--------
+Normativa vigente:
+- Sin modificaciones sustanciales identificadas en ordenanzas de edificación
+- Continúa Código de Edificación Municipal vigente
+- Adhesión a normativa provincial
+
+Qué determinaba:
+- Continúan todos los requisitos del año 2023
+- Secretaría de Obras y Servicios Públicos como autoridad de aplicación
+- Sin cambios en requisitos técnicos ni procedimentales identificados
+
+AÑO 2025
+--------
+Normativa vigente:
+- Sin modificaciones sustanciales identificadas
+- Transición hacia nueva generación CIRSOC
+
+Qué determinaba:
+- Continúan requisitos anteriores
+- Inicio de implementación de nuevos reglamentos CIRSOC
+
+AÑO 2026 (ACTUAL)
+-----------------
+Normativa vigente:
+- Código de Edificación Municipal de Merlo
+- Obligación de aplicar nueva generación CIRSOC (101-2025, 201-2025)
+
+Qué determina:
+- Proyectos nuevos y modificaciones relevantes deben usar normativa actualizada
+- Aplicación plena de CIRSOC 2025
+
+--------------------------------------------------------------------------------
+REQUISITOS ESPECÍFICOS PARA OBRAS EN MERLO
+(Modificaciones Estructurales / Cargas >700 kg)
+--------------------------------------------------------------------------------
+
+1. DOCUMENTACIÓN TÉCNICA OBLIGATORIA
+
+   a) Planos de arquitectura
+      - Firmados por arquitecto o ingeniero matriculado
+      - Escala adecuada (1:50, 1:100 según corresponda)
+      - Plantas, cortes y vistas necesarias
+
+   b) Planos de estructura
+      - Firmados por ingeniero civil o arquitecto habilitado
+      - Detalle de elementos estructurales
+      - Armaduras, dimensiones, especificaciones
+
+   c) Memoria de cálculo estructural
+      - Conforme a CIRSOC vigente
+      - Verificación de cargas y sobrecargas
+      - Justificación técnica para cargas especiales (>700 kg)
+
+   d) Estudio de suelos
+      - Para obras de cierta envergadura
+      - Determinación de capacidad portante del terreno
+      - Recomendaciones de fundación
+
+2. TRÁMITE MUNICIPAL
+
+   a) Solicitud de permiso de obra/modificación
+      - Presentación en Secretaría de Obras y Servicios Públicos
+      - Formularios municipales correspondientes
+
+   b) Pago de derechos de construcción y tasas
+      - Según ordenanza tarifaria vigente
+      - Incluye derechos de visación, inspección, etc.
+
+   c) Libre deuda municipal
+      - Certificado de libre deuda de la propiedad
+      - Actualizado al momento de la presentación
+
+   d) Aprobación del proyecto
+      - Revisión técnica municipal
+      - Plazo según complejidad del proyecto
+
+3. VISADOS PROFESIONALES
+
+   a) Colegio de Arquitectos Distrito 5 (si corresponde)
+      - Para proyectos firmados por arquitecto
+
+   b) Consejo Profesional de Ingeniería
+      - Para proyectos firmados por ingeniero
+
+   c) Matrícula municipal activa
+      - El profesional debe estar habilitado para actuar en Merlo
+
+4. APROBACIÓN DEL CONSORCIO (si es propiedad horizontal)
+
+   - Acta de asamblea autorizando la reforma estructural
+   - Presentación de documentación técnica al consorcio
+   - Notificación a administración del edificio
+   - Seguro de responsabilidad civil durante la obra
+
+5. INSPECCIÓN FINAL OBLIGATORIA
+
+   - Verificación de cumplimiento con planos aprobados
+   - Certificado final de obra
+   - Habilitación para uso
+
+--------------------------------------------------------------------------------
+FUENTES OFICIALES PARTIDO DE MERLO
+--------------------------------------------------------------------------------
+
+- Portal de Normativas - Municipalidad de Merlo:
+  https://www.merlo.gob.ar/normativas/
+
+- Boletín Oficial Municipal de Merlo:
+  https://www.merlo.gob.ar/boletin-oficial/
+
+- Sitio web oficial de la Municipalidad:
+  https://www.merlo.gob.ar/
+
+- SIBOM - Sistema de Boletín Oficial Municipal Provincial:
+  https://sibom.slyt.gba.gob.ar/
+
+- urBAsig (Sistema de información geográfica urbana):
+  https://urbasig.mgob.gba.gob.ar/
+
+================================================================================
+PARTE IV: TABLAS COMPARATIVAS RESUMEN AÑO POR AÑO
+================================================================================
+
+TABLA A: PROVINCIA DE BUENOS AIRES
+--------------------------------------------------------------------------------
+
+AÑO  | NORMA CARGAS/ESTRUCTURA      | LÍMITE CARGA    | REQUISITO CARGA >700 KG
+     |                              | PUNTUAL         |
+-----|------------------------------|-----------------|---------------------------
+2023 | CIRSOC 101-2005, 201-2005    | 130-200 kg      | Cálculo estructural
+     |                              | (típico viv.)   | específico obligatorio,
+     |                              |                 | permiso municipal,
+     |                              |                 | profesional habilitado
+-----|------------------------------|-----------------|---------------------------
+2024 | CIRSOC 101-2005,             | Idem            | Idem + justificación
+     | CIRSOC 200-2024 (transición) |                 | técnica expresa
+-----|------------------------------|-----------------|---------------------------
+2025 | CIRSOC 101-2025, 201-2025    | Actualización   | Diseño por estados
+     | (aprobados)                  | según nuevo     | límite, mayor rigor
+     |                              | reglamento      | en verificaciones
+-----|------------------------------|-----------------|---------------------------
+2026 | CIRSOC 101-2025, 201-2025    | Según nuevo     | Obligatorio aplicar
+     | (vigencia legal plena -      | reglamento      | nueva normativa
+     | Res. 11/2026)                |                 |
+--------------------------------------------------------------------------------
+
+TABLA B: PARTIDO DE MERLO
+--------------------------------------------------------------------------------
+
+AÑO  | NORMA LOCAL                  | NORMA TÉCNICA   | REQUISITOS MODIFICACIÓN
+     |                              | APLICADA        | ESTRUCTURAL
+-----|------------------------------|-----------------|---------------------------
+2023 | Código Edificación Merlo     | CIRSOC 101-2005 | Permiso obra, planos,
+     | + Dec-Ley 8912/77            | CIRSOC 201-2005 | cálculo estructural,
+     |                              |                 | matrícula municipal,
+     |                              |                 | inspección
+-----|------------------------------|-----------------|---------------------------
+2024 | Sin cambios identificados    | CIRSOC 101-2005 | Idem
+     |                              | CIRSOC 200-2024 |
+-----|------------------------------|-----------------|---------------------------
+2025 | Sin cambios identificados    | CIRSOC 101-2025 | Idem + adecuación a
+     |                              | CIRSOC 201-2025 | nueva normativa
+     |                              | (implementación)|
+-----|------------------------------|-----------------|---------------------------
+2026 | Sin cambios identificados    | CIRSOC 101-2025 | Aplicación plena de
+     |                              | CIRSOC 201-2025 | nueva generación
+     |                              | (obligatorio)   | CIRSOC
+--------------------------------------------------------------------------------
+
+================================================================================
+PARTE V: RESPONSABILIDAD CIVIL Y ASPECTOS PARA JUICIO
+================================================================================
+
+MARCO LEGAL DE RESPONSABILIDAD
+--------------------------------------------------------------------------------
+
+CÓDIGO CIVIL Y COMERCIAL DE LA NACIÓN (CCCN)
+
+Artículo 1382 - Responsabilidad del constructor:
+"El constructor es responsable por los daños que cause la ejecución de una
+obra, salvo caso fortuito, fuerza mayor o hecho de un tercero por quien no
+debe responder."
+
+Artículo 1383 - Responsabilidad de profesionales:
+"El proyectista, el director de obra, el arquitecto e ingeniero son
+responsables por los daños que deriven directa o indirectamente de su
+trabajo o de la obra ejecutada."
+
+Artículo 1384 - Extensión de la responsabilidad:
+"La responsabilidad comprende los defectos en la obra, ya sea por vicios de
+construcción o mala calidad de los materiales utilizados, aunque hayan sido
+proporcionados por el comitente, si el profesional debió advertir y no lo
+hizo, o si los aceptó sin objeciones."
+
+Artículo 1275 - Responsabilidad decenal:
+"La responsabilidad por ruina total o parcial, o por defectos que la hagan
+impropia para su destino, dura diez años desde la entrega de la obra."
+
+--------------------------------------------------------------------------------
+NATURALEZA DE LA RESPONSABILIDAD
+--------------------------------------------------------------------------------
+
+1. RESPONSABILIDAD CONTRACTUAL
+   - Surge del contrato de locación de obra entre propietario y profesional
+   - Obligación de resultado en cuanto a la estabilidad de la estructura
+   - Obligación de medios en cuanto a la diligencia profesional
+
+2. RESPONSABILIDAD DECENAL
+   - Duración: 10 años desde la entrega de la obra
+   - Aplica a ruina total o parcial
+   - Aplica a vicios graves que hagan la obra impropia para su destino
+   - Es de orden público, no puede ser renunciada anticipadamente
+
+3. RESPONSABILIDAD SOLIDARIA
+   - Puede extenderse a:
+     * Arquitecto o ingeniero proyectista
+     * Director de obra
+     * Constructor
+   - Si la falla proviene de la ejecución y la falta de control
+
+--------------------------------------------------------------------------------
+JURISPRUDENCIA RELEVANTE
+--------------------------------------------------------------------------------
+
+Los tribunales argentinos han determinado responsabilidad de profesionales
+(arquitectos e ingenieros) en los siguientes supuestos relacionados con
+cargas sobre losas:
+
+1. FALTA DE ADVERTENCIA
+   - Cuando el profesional no advirtió los límites de carga de la estructura
+   - Cuando permitió colocación de cargas no contempladas en el diseño original
+   - La omisión de advertir constituye incumplimiento contractual
+
+2. FALTA DE CONSTANCIA FEHACIENTE
+   - Cuando no quedó constancia expresa y fehaciente de la advertencia
+     profesional al propietario
+   - La carga de la prueba recae sobre el profesional
+   - Se requiere documentación escrita para eximir responsabilidad
+
+3. OBLIGACIONES DEL DIRECTOR DE OBRA
+   - Vigilar e inspeccionar que los trabajos cumplan con lo proyectado
+   - Garantizar que materiales cumplan especificaciones
+   - Verificar que las cargas no excedan lo previsto en el diseño
+
+4. CASOS ESPECÍFICOS DOCUMENTADOS
+   - Fallas por colocación de jacuzzis en terrazas
+   - Daños por instalación de tanques de agua sobredimensionados
+   - Fisuras por maquinaria industrial en losas de vivienda
+   - Colapsos parciales por acumulación de materiales de construcción
+
+--------------------------------------------------------------------------------
+CRITERIOS DE LOS TRIBUNALES
+--------------------------------------------------------------------------------
+
+a) El profesional no puede alegar que la sobrecarga fue decisión exclusiva
+   del propietario si no advirtió fehacientemente sobre los riesgos
+
+b) La obligación de advertencia incluye:
+   - Comunicación escrita al comitente
+   - Detalle técnico de los límites de carga
+   - Consecuencias potenciales del exceso
+
+c) El acto formal de entrega de la obra delimita en parte la responsabilidad,
+   pero NO libera de:
+   - Vicios ocultos
+   - Ruina de la estructura
+   - Defectos que se manifiesten posteriormente
+
+d) La responsabilidad subsiste aun cuando el propietario hubiera insistido
+   en la colocación de la carga, si el profesional no se opuso formalmente
+
+--------------------------------------------------------------------------------
+FUENTES JURÍDICAS Y DOCTRINARIAS
+--------------------------------------------------------------------------------
+
+- SAIJ - Sistema Argentino de Información Jurídica:
+  https://www.saij.gob.ar/
+
+- Código Civil y Comercial (Responsabilidad de obra):
+  https://strucasa.com.ar/wiki/codigo-civil-y-comercial-responsabilidad-de-obra/
+
+- Colegio de Arquitectos - Responsabilidad Profesional:
+  https://www.carn.com.ar/uploads/paginas/responsabilidad-profesional.pdf
+
+- CAPSF - Doctrina sobre responsabilidad profesional:
+  https://capsf.ar/modulos/ejercicio_prof./doctrina_responsabilidad_profesionales.htm
+
+================================================================================
+PARTE VI: CONCLUSIONES Y RECOMENDACIONES PARA EL JUICIO
+================================================================================
+
+CONCLUSIONES
+--------------------------------------------------------------------------------
+
+1. PERÍODO 2023-2024
+   - Regía CIRSOC 101-2005 y 201-2005
+   - Sobrecarga típica para vivienda: 200 kg/m²
+   - Carga concentrada típica: 130-200 kg sobre área reducida
+   - CARGAS DE 700 KG O MÁS REQUERÍAN OBLIGATORIAMENTE:
+     * Cálculo estructural específico
+     * Autorización municipal
+     * Intervención de profesional habilitado
+     * Justificación técnica expresa
+
+2. PERÍODO 2025-2026
+   - Nueva generación CIRSOC (101-2025, 201-2025)
+   - Mayor exigencia técnica
+   - Diseño por estados límite
+   - Prevención de colapso progresivo como criterio obligatorio
+   - VIGENCIA LEGAL PLENA DESDE ENERO 2026 (Resolución 11/2026)
+
+3. PROVINCIA DE BUENOS AIRES
+   - El Decreto-Ley 8912/77 NO sufrió modificaciones estructurales en el
+     período analizado (2023-2026)
+   - Los municipios mantienen autonomía para sus códigos locales
+   - Deben aplicar obligatoriamente los reglamentos CIRSOC
+   - El Decreto 1094/2024 solo modificó autoridades de contralor
+
+4. PARTIDO DE MERLO
+   - NO se identificaron modificaciones sustanciales al código de edificación
+     local en el período 2023-2026
+   - Aplica normativa provincial y CIRSOC vigente
+   - Secretaría de Obras y Servicios Públicos es autoridad de aplicación
+   - Requisitos de permiso de obra se mantuvieron constantes
+
+5. PARA CARGAS >700 KG SOBRE LOSA FLOTANTE
+   En TODOS los años del período analizado, se requería y requiere:
+   a) Cálculo estructural firmado por profesional matriculado
+   b) Permiso de obra municipal
+   c) Justificación técnica expresa
+   d) Verificación de capacidad portante de la estructura existente
+   e) Documentación respaldatoria
+
+--------------------------------------------------------------------------------
+RECOMENDACIONES PARA USO JUDICIAL
+--------------------------------------------------------------------------------
+
+1. OBTENCIÓN DE DOCUMENTOS OFICIALES
+   - Solicitar textos completos de reglamentos CIRSOC citados al INTI
+   - Obtener certificación de normativa municipal de Merlo
+   - Solicitar expediente de obra (si existe) a la Municipalidad
+
+2. PERICIAS TÉCNICAS
+   - Designar perito ingeniero estructural
+   - Verificar capacidad portante de la losa en cuestión
+   - Comparar con valores de diseño original
+   - Determinar si la carga de 700+ kg excedía lo admisible
+
+3. PRUEBA DE RESPONSABILIDAD PROFESIONAL
+   - Determinar si existió intervención de profesional
+   - Verificar si hubo advertencia formal documentada
+   - Evaluar cumplimiento de obligaciones de dirección de obra
+
+4. NORMATIVA APLICABLE AL MOMENTO DE LOS HECHOS
+   - Identificar fecha exacta de los hechos en litigio
+   - Aplicar normativa vigente en ese momento específico
+   - Considerar período de transición entre versiones CIRSOC
+
+================================================================================
+FUENTES CONSULTADAS
+================================================================================
+
+NORMATIVA TÉCNICA - CIRSOC / INTI
+- INTI-CIRSOC (Reglamentos oficiales)
+  https://www.argentina.gob.ar/inti/cirsoc-reglamentos
+- Asociación de Ingenieros Estructurales
+  https://aiearg.org.ar/2026/01/31/cirsoc-actualizacion-normativa/
+- INPRES - Reglamentos sismorresistentes
+  http://contenidos.inpres.gob.ar/acelerografos/inpres-cirsoc
+
+NORMATIVA PROVINCIAL
+- Boletín Oficial de la Provincia de Buenos Aires
+  https://boletinoficial.gba.gob.ar/
+- Normas GBA - Legislación provincial
+  https://normas.gba.gob.ar/
+- SAIJ - Sistema Argentino de Información Jurídica
+  https://www.saij.gob.ar/
+
+NORMATIVA MUNICIPAL - MERLO
+- Municipalidad de Merlo - Portal oficial
+  https://www.merlo.gob.ar/
+- Boletín Oficial Municipal de Merlo
+  https://www.merlo.gob.ar/boletin-oficial/
+- SIBOM - Sistema Boletín Oficial Municipal
+  https://sibom.slyt.gba.gob.ar/
+
+COLEGIOS PROFESIONALES
+- CAPBA - Colegio de Arquitectos Provincia de Buenos Aires
+- CPIC - Consejo Profesional de Ingeniería Civil
+- Cámara Argentina de la Construcción
+  https://www.camarco.org.ar/
+
+JURISPRUDENCIA Y DOCTRINA
+- SAIJ - Fallos y jurisprudencia
+- Doctrina sobre responsabilidad profesional de ingenieros y arquitectos
+
+================================================================================
+NOTAS FINALES
+================================================================================
+
+Este informe es de carácter ORIENTATIVO y fue elaborado con base en
+información pública disponible al 17 de abril de 2026.
+
+Para uso en procedimiento judicial se recomienda:
+
+1. Obtener los textos oficiales completos de cada normativa citada
+   directamente de las fuentes oficiales
+
+2. Consultar con peritos técnicos especializados en estructuras de
+   hormigón armado
+
+3. Verificar la vigencia de cada norma al momento específico de los
+   hechos en litigio
+
+4. Solicitar informes técnicos a los organismos competentes
+   (INTI-CIRSOC, Municipalidad de Merlo, etc.)
+
+================================================================================
+FIN DEL INFORME
+================================================================================

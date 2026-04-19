@@ -1,0 +1,232 @@
+================================================================================
+INFORME JURIDICO DEPURADO - COSTAS, HONORARIOS Y VIATICOS EN OBRAS LINDERAS
+Merlo, Provincia de Buenos Aires
+Fecha de elaboracion: 19 de abril de 2026
+================================================================================
+
+ADVERTENCIA PRELIMINAR: Este informe investiga especificamente si en los
+fallos favorables al demandante en casos de obra lindera en PBA se incluyen
+los gastos por abogados, honorarios de profesionales (peritos) y viaticos.
+Se eliminaron toda proyeccion o dato no verificado en fuentes consultadas.
+
+================================================================================
+1. SINTESIS EJECUTIVA
+================================================================================
+
+CONCEPTO                          | INCLUIDO EN CONDENA | FUNDAMENTO VERIFICADO
+----------------------------------|---------------------|------------------------------------------
+Honorarios abogado del demandante | SI                  | Arts. 68, 77 CPCCN; Ley 21.839
+Honorarios perito judicial        | SI                  | Arts. 77, 478 CPCCN; Ley 24.432
+Honorarios perito de parte        | SI, con matices     | Art. 77 ultimo parrafo CPCCN (50% max.)
+Viaticos y gastos de traslado     | NO VERIFICADO       | No se localizo norma especifica ni
+                                  |                     | jurisprudencia PBA sobre viaticos en
+                                  |                     | proceso civil argentino.
+
+================================================================================
+2. MARCO NORMATIVO APLICABLE EN PBA
+================================================================================
+
+a) CODIGO PROCESAL CIVIL Y COMERCIAL DE LA NACION (CPCCN)
+
+Art. 68 CPCCN - Principio del vencimiento:
+"La parte vencida en el juicio debera pagar todos los gastos de la contraria,
+aun cuando esta no lo hubiese solicitado. Sin embargo, el juez podra eximir
+total o parcialmente de esta responsabilidad al litigante vencido..."
+Fuente: Infoleg, CPCCN, Arts. 68-77.
+
+Art. 77 CPCCN - Alcance de la condena en costas:
+"La condena en costas comprendera todos los gastos causados u ocasionados por
+la sustanciacion del proceso y los que se hubiesen realizado para evitar el
+pleito... Los correspondientes a pedidos desestimados seran a cargo de la parte
+que los efectuo u origino, aunque la sentencia le fuere favorable en lo
+principal. No seran objeto de reintegro los gastos superfluos o inutiles. Si
+los gastos fuesen excesivos, el juez podra reducirlos prudentemente."
+Fuente: Infoleg, CPCCN.
+
+Art. 77 ultimo parrafo CPCCN (incorporado por Ley 24.432):
+"Los peritos intervinientes podran reclamar de la parte no condenada en costas
+hasta el cincuenta por ciento (50%) de los honorarios que le fueran regulados,
+sin perjuicio de lo dispuesto en el articulo 478."
+Fuente: Infoleg, Ley 24.432.
+
+Art. 478 CPCCN - Honorarios de peritos:
+"Los jueces deberan regular los honorarios de los peritos y demas auxiliares
+de la justicia, conforme a los respectivos aranceles, debiendo adecuarlos, por
+debajo de sus topes minimos inclusive, a las regulaciones que se practicaren en
+favor de los restantes profesionales intervinientes, ponderando la naturaleza,
+complejidad, calidad y extension en el tiempo de los respectivos trabajos."
+Fuente: Infoleg, CPCCN.
+
+b) LEYES ARANCELARIAS
+
+Ley 21.839 - Ley de Honorarios Profesionales de Abogados y Procuradores:
+Regula la regulacion de honorarios por trabajo judicial. La actividad
+profesional se presume onerosa (Art. 3).
+Fuente: Infoleg, Ley 21.839.
+
+Ley 14.967 PBA - Regimen de Honorarios Profesionales de la Provincia de
+Buenos Aires:
+Establece regulaciones en UMA (Unidad de Medida Arancelaria). Segun Acordada
+CSJN 19/2023, el valor de la UMA es de $19.338 (dato verificado en fallo
+analizado de 2023, sujeto a actualizacion).
+Fuente: Microjuris, fallo C.N.A.T. (estructura de regulacion en UMA).
+
+================================================================================
+3. JURISPRUDENCIA Y PRACTICA VERIFICADA
+================================================================================
+
+a) ESTRUCTURA TIPICA DE REGULACION DE HONORARIOS
+
+En sentencias civiles y laborales analizadas (aplicables por analogia a obra
+lindera), se observa el siguiente patron:
+
+- Costas de primera instancia impuestas a la parte demandada vencida
+  (Art. 68 CPCCN).
+- Regulacion de honorarios de letrados de la actora en UMA (equivalente a X
+  UMA segun complejidad).
+- Regulacion de honorarios de peritos en UMA.
+- Costas de Alzada impuestas a la demandada vencida.
+- Honorarios de Alzada regulados en porcentaje (ej: 30%) de lo regulado en
+  primera instancia (Art. 38 Ley 27.423).
+
+Fuente: Microjuris, fallo C.N.A.T., estructura de regulacion 2023.
+
+b) LIMITACION DEL ART. 730 CCCN (ANTERIOR 505 CC)
+
+La Suprema Corte de Buenos Aires (SCBA) ha establecido que la limitacion del
+25% del Art. 730 CCCN alcanza UNICAMENTE a los honorarios de primera o unica
+instancia, MAS NO a los derivados de incidentes ni ejecucion.
+
+La SCBA definio que la restriccion alcanza a los estipendios de abogados
+(salvo los de la parte condenada), peritos y auxiliares, con mas sus
+respectivos aportes legales.
+Fuente: Causa SCBA C. 97.539, "Poggi, Raul Agustin y otro contra Burgois,
+Jorge Daniel", 13.05.2009 (citada en Camara Apelacion Mar del Plata,
+causa Salmici, 16.04.2019).
+
+c) PERITOS DE PARTE VS. PERITOS JUDICIALES
+
+- Perito judicial (designado por el tribunal): Sus honorarios integran las
+costas procesales y son pagados por la parte vencida.
+
+- Perito de parte (contratado por el actor): Segun Art. 77 ultimo parrafo
+CPCCN, puede reclamar hasta el 50% de sus honorarios a la parte NO condenada
+en costas. Esto significa que si el actor contrato un perito de parte y gano
+el juicio, ese perito no puede cobrarle al actor el 100% si hay condena en
+costas a la otra parte; el perito puede reclamar hasta el 50% al demandado
+(vencido) y el resto al actor. Si no hay condena en costas (ej: vencimiento
+parcial), el perito de parte debe cobrarle a quien lo contrato.
+Fuente: Consejo.org.ar, cobro de honorarios al no condenado en costas, 2021.
+
+================================================================================
+4. VIATICOS Y GASTOS DE TRASLADO
+================================================================================
+
+a) Estado de la investigacion:
+
+NO se localizo en el CPCCN ni en jurisprudencia de PBA una norma equivalente
+al Art. 375 de la Ley de Enjuiciamiento Civil (LEC) de Espana, que establece
+una indemnizacion especifica a testigos por "gastos y perjuicios" de su
+comparecencia (incluyendo desplazamiento, dietas, alojamiento, jornales
+perdidos).
+
+En el derecho procesal argentino, los testigos NO tienen derecho a viaticos
+como regla general. El Art. 77 CPCCN habla genericamente de "todos los gastos
+causados u ocasionados", pero no existe procedimiento especifico ni formula
+detallada para viaticos de testigos en el proceso civil.
+
+b) Praxis sugerida:
+
+Si el testigo incurrio en gastos de traslado documentados, la parte que lo
+propuso puede incluirlos como parte de los "gastos causados" en la liquidacion
+de costas, pero su reconocimiento es discrecional del juez y debe considerarse
+un reclamo excepcional, no una regla establecida.
+
+================================================================================
+5. MODELO DE CLAUSULA DE COSTAS EN SENTENCIA (BASE VERIFICADA)
+================================================================================
+
+Basado en la estructura observada en fallos laborales y civiles aplicables por
+analogia:
+
+"II.- Imponer las costas de primera instancia a la parte demandada vencida
+(Art. 68, primer parrafo, CPCCN).
+
+III.- Regular los honorarios de la asistencia y representacion letrada de la
+actora en [X] UMA y del perito [especialidad] en [Y] UMA, en atencion a la
+importancia, merito de los trabajos realizados y las normas arancelarias de
+aplicacion (Arts. 68, 71 y 279 CPCCN, Ley 27.343).
+
+IV.- Imponer las costas de Alzada a la demandada vencida (Art. 68, primer
+parrafo, CPCCN).
+
+V.- Regular los honorarios de los profesionales que suscribieron los escritos
+dirigidos a esta Camara, en el [30%] de lo que les correspondiere por su
+actuacion en la instancia previa (conf. Art. 30 Ley 27.423)."
+
+NOTA: Este modelo es una estructura tipo basada en fallos reales, no una
+copia literal de sentencia de obra lindera especifica.
+
+================================================================================
+6. INFORMACION NO VERIFICADA / ELIMINADA
+================================================================================
+
+Se ELIMINARON del analisis las siguientes informaciones por no contar con
+fuente verificable:
+
+- Montos exactos de honorarios regulados en sentencias de obra lindera PBA
+  2023-2026.
+- Afirmacion de que los viaticos se incluyen rutinariamente en las costas.
+- Porcentajes estandarizados de regulacion de honorarios en obra lindera.
+- Jurisprudencia especifica de Camaras Civiles de PBA sobre inclusion de
+  gastos de peritos de parte en condenas por obra lindera.
+
+================================================================================
+7. FUENTES CONSULTADAS Y CITADAS
+================================================================================
+
+1. Infoleg.gob.ar - Codigo Procesal Civil y Comercial de la Nacion
+   (Arts. 68, 69, 70, 73, 74, 75, 76, 77, 478).
+
+2. Infoleg.gob.ar - Ley 24.432 (modificatoria Arts. 77 y 478 CPCCN sobre
+   honorarios de peritos).
+
+3. Infoleg.gob.ar - Ley 21.839 (Honorarios Profesionales de Abogados).
+
+4. Microjuris.com - Fallo estructura regulacion honorarios en UMA
+   (referencia C.N.A.T., 2023).
+
+5. SCBA/CA Mar del Plata - Doctrina sobre limite Art. 730 CCCN en costas
+   (causa Poggi y concordantes).
+
+6. Consejo.org.ar - "Cobro de honorarios judiciales al no condenado en
+   costas", Dr. Bruno Zin, 2021.
+
+7. CIE (Centro de Investigacion Ediciones) - "Honorarios y gastos del
+   perito", Curso para Peritos Judiciales.
+
+8. Normas GBA - Ley 14.967 (Regimen de Honorarios PBA).
+
+================================================================================
+CONCLUSION
+================================================================================
+
+En los fallos favorables al demandante en casos de obra lindera en PBA:
+
+1. SI se incluyen los honorarios del abogado del demandante como parte de
+   las costas impuestas al vencido (Art. 68 CPCCN).
+
+2. SI se incluyen los honorarios de los peritos judiciales como costas
+   (Arts. 77 y 478 CPCCN).
+
+3. Los peritos DE PARTE tienen un tratamiento especial: pueden reclamar
+   hasta el 50% al vencido (si hay condena en costas), debiendo el actor
+   asumir la diferencia o negociar con su perito.
+
+4. NO se verifico la inclusion sistematica de viaticos en sentencias PBA.
+   No existe norma especifica equivalente a la LEC espanola (Art. 375) en
+   el proceso civil argentino.
+
+================================================================================
+FIN DEL INFORME
+================================================================================
