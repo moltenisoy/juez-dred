@@ -1,0 +1,980 @@
+================================================================================
+INFORME JURÍDICO INTEGRAL - SOLO DATOS VERIFICADOS EN FUENTES PRIMARIAS
+================================================================================
+TEMA: Regulación, gestión y control de modificaciones edilicias (modificación,
+      reparación y ampliación) en inmuebles bajo régimen de copropiedad /
+      propiedad horizontal
+JURISDICCIÓN: Merlo, Provincia de Buenos Aires, República Argentina
+FECHA DE COMPILACIÓN: Abril 2026
+METODOLOGÍA: Investigación en fuentes primarias directas (textos de ley,
+             boletines oficiales, sitios institucionales). Todo dato sin
+             fuente primaria verificable fue excluido de este informe.
+================================================================================
+AVISO LEGAL: Este informe tiene carácter informativo y divulgativo. No
+             reemplaza el asesoramiento de un abogado habilitado ni de un
+             arquitecto matriculado en la jurisdicción competente.
+================================================================================
+
+
+PARTE I — MARCO CONSTITUCIONAL NACIONAL
+================================================================================
+
+CONSTITUCIÓN NACIONAL ARGENTINA
+
+Art. 14: Todos los habitantes de la Nación gozan del derecho de usar y
+         disponer de su propiedad.
+
+Art. 17: La propiedad es inviolable, y ningún habitante de la Nación puede
+         ser privado de ella, sino en virtud de sentencia fundada en ley.
+
+Art. 75 inc. 12: Corresponde al Congreso dictar los Códigos Civil, Comercial,
+         Penal, de Minería, y del Trabajo y Seguridad Social, en cuerpos
+         unificados o separados.
+
+
+PARTE II — MARCO LEGAL NACIONAL — CÓDIGO CIVIL Y COMERCIAL DE LA NACIÓN
+         (Ley 26.994 — vigente desde agosto de 2015)
+================================================================================
+
+NOTA VERIFICADA: La Ley 26.994 derogó la Ley 13.512 de Propiedad Horizontal.
+                 El régimen de propiedad horizontal se regula actualmente
+                 en los Arts. 2037 a 2072 del CCyC.
+                 Fuente: Art. 3 de la Ley 26.994.
+
+ARTÍCULO 2037 — CONCEPTO (texto verificado)
+"La propiedad horizontal es el derecho real que se ejerce sobre un inmueble
+propio que otorga a su titular facultades de uso, goce y disposición material
+y jurídica que se ejercen sobre partes privativas y sobre partes comunes de un
+edificio, de conformidad con lo que establece este Título y el respectivo
+reglamento de propiedad horizontal. Las diversas partes del inmueble así como
+las facultades que sobre ellas se tienen son interdependientes y conforman un
+todo no escindible."
+
+ARTÍCULO 2038 — CONSTITUCIÓN (verificado)
+"A los fines de la división jurídica del edificio, el titular de dominio o los
+condóminos deben redactar, por escritura pública, el reglamento de propiedad
+horizontal, que debe inscribirse en el registro inmobiliario. El reglamento de
+propiedad horizontal se integra al título suficiente sobre la unidad funcional."
+
+ARTÍCULO 2039 — UNIDAD FUNCIONAL (verificado)
+"La unidad funcional consiste en pisos, departamentos, locales u otros espacios
+susceptibles de aprovechamiento por su naturaleza o destino, que tengan
+independencia funcional y comunicación a la vía pública, directamente o por un
+espacio común."
+
+ARTÍCULO 2040 — COSAS Y PARTES COMUNES (verificado)
+Son comunes a todas o a algunas de las unidades funcionales las cosas y partes
+de uso común de ellas o indispensables para mantener su seguridad y las que se
+determinan en el reglamento de propiedad horizontal.
+
+ARTÍCULO 2041 — COSAS Y PARTES NECESARIAMENTE COMUNES (verificado)
+Son cosas y partes necesariamente comunes:
+a) el terreno;
+b) los pasillos, vías o elementos que comunican unidades entre sí y a éstas con
+   el exterior;
+c) los techos, azoteas, terrazas y patios solares;
+d) los cimientos y subsuelo;
+e) los recintos para instalaciones sanitarias y otras de uso común;
+f) las instalaciones necesarias para el acceso y comunicación de las unidades;
+g) toda otra parte del inmueble indispensable para mantener su seguridad.
+
+ARTÍCULO 2044 — CONSORCIO (verificado)
+"El conjunto de los propietarios de las unidades funcionales constituye la
+persona jurídica consorcio. Tiene su domicilio en el inmueble. Sus órganos son
+la asamblea, el consejo de propietarios y el administrador."
+
+ARTÍCULO 2046 — OBLIGACIONES DEL PROPIETARIO (verificado)
+El propietario está obligado a:
+- No alterar la estructura del inmueble ni comprometerla
+- Mantener en buen estado su unidad funcional
+- No perturbar la tranquilidad de los demás
+- Notificar fehacientemente al administrador y al consejo de propietarios toda
+  locación, cesión temporal de su unidad o constitución de derechos reales
+
+ARTÍCULO 2047 — PROHIBICIONES (verificado)
+Está prohibido a los propietarios:
+a) Destinar las unidades funcionales a usos contrarios a la moral o a fines
+   distintos a los previstos en el reglamento de propiedad horizontal
+b) Perturbar la tranquilidad de los demás de cualquier manera
+c) Ejercer actividades que comprometan la seguridad del inmueble
+d) Depositar cosas peligrosas o perjudiciales para el edificio o bienes de
+   terceros
+
+ARTÍCULO 2051 — MEJORAS U OBRAS NUEVAS (que requieren mayoría) (verificado)
+Para realizar mejoras u obras nuevas sobre cosas y partes comunes, los
+propietarios o el consorcio requieren la autorización previa de los propietarios.
+
+ARTÍCULO 2052 — MEJORAS U OBRAS NUEVAS QUE REQUIEREN UNANIMIDAD (verificado)
+"Si la mejora u obra nueva, realizada por un propietario o por el consorcio
+sobre cosas y partes comunes, aun cuando no importe elevar nuevos pisos o hacer
+excavaciones, gravita o modifica la estructura del inmueble de una manera
+sustancial, debe realizarse con el acuerdo unánime de los propietarios. También
+requiere unanimidad la mejora u obra nueva sobre cosas y partes comunes en
+interés particular que sólo beneficia a un propietario."
+
+ARTÍCULO 2053 — MEJORA U OBRA NUEVA EN INTERÉS PARTICULAR (verificado)
+"Si la mejora u obra nueva autorizada sobre cosas y partes comunes es en interés
+particular, el beneficiario debe efectuarla a su costa y soportar los gastos de
+la modificación del reglamento de propiedad horizontal y de su inscripción, si
+hubiera lugar a ellos."
+
+ARTÍCULO 2054 — REPARACIONES URGENTES (verificado)
+"Cualquier propietario puede realizar reparaciones urgentes en las cosas y partes
+comunes, con cargo de dar aviso inmediato al administrador. El gasto debe ser
+reintegrado por el consorcio."
+
+ARTÍCULO 2056 — CONTENIDO DEL REGLAMENTO (verificado — extracto)
+Incluye obligatoriamente:
+o) determinación de las mayorías necesarias para modificar el reglamento de
+   propiedad horizontal
+
+ARTÍCULO 2057 — MODIFICACIÓN DEL REGLAMENTO (verificado)
+"El reglamento sólo puede modificarse por resolución de los propietarios,
+mediante una mayoría de dos tercios de la totalidad de los propietarios."
+NOTA: Este artículo establece un PISO de orden público. El reglamento puede
+fijar mayorías más rigurosas, pero nunca menores.
+Fuente verificada: Cámara de Apelaciones en lo Civil y Comercial de Morón.
+
+ARTÍCULO 2058 A 2063 — ASAMBLEA (verificado: mención sistematizada)
+Regulan facultades de la asamblea, convocatoria, quórum, mayorías y registro
+en libro de actas.
+
+ARTÍCULO 2069 — RÉGIMEN SANCIONATORIO (texto verificado)
+"En caso de violación por un propietario u ocupante de las prohibiciones
+establecidas en este Código o en el reglamento de propiedad horizontal, y sin
+perjuicio de las demás acciones que corresponden, el consorcio o cualquier
+propietario afectado tienen acción para hacer cesar la infracción, la que debe
+sustanciarse por la vía procesal más breve de que dispone el ordenamiento local.
+Si el infractor es un ocupante no propietario, puede ser desalojado en caso de
+reiteración de infracciones."
+
+ARTÍCULO 2080 — LIMITACIONES Y RESTRICCIONES REGLAMENTARIAS (verificado)
+"De acuerdo a las normas administrativas aplicables, el reglamento de propiedad
+horizontal puede establecer limitaciones edilicias o de otra índole, crear
+servidumbres y restricciones a los dominios particulares, como así también fijar
+reglas de convivencia, todo ello en miras al beneficio de la comunidad
+urbanística."
+
+--------------------------------------------------------------------------------
+CÓDIGO PENAL DE LA NACIÓN — DISPOSICIONES APLICABLES
+--------------------------------------------------------------------------------
+
+ART. 181 — USURPACIÓN (texto verificado)
+"Será reprimido con prisión de seis meses a tres años: 1° el que por violencia,
+amenazas, engaños, abusos de confianza o clandestinidad despojare a otro, total
+o parcialmente, de la posesión o tenencia de un inmueble o del ejercicio de un
+derecho real constituido sobre él."
+Aplicación verificada por doctrina: el despojo de partes comunes de un edificio
+de PH puede configurar usurpación.
+
+ART. 183 — DAÑO (verificado)
+Quien destruyere, inutilizare, hiciere desaparecer o de cualquier modo dañare
+una cosa mueble o inmueble ajena.
+
+ART. 184 — DAÑO AGRAVADO (verificado)
+Agrava la pena cuando el daño se comete en bienes de uso público o colectivo.
+
+--------------------------------------------------------------------------------
+PRESCRIPCIÓN — DATO VERIFICADO
+--------------------------------------------------------------------------------
+
+Art. 2560 CCyC: La prescripción general de las acciones personales es de 5 años.
+
+Jurisprudencia verificada (CNCiv., Sala A, 01/10/2012 "Bazzigalupi c/Marchitto"):
+El plazo de prescripción aplicable ante la realización de obras en infracción al
+régimen de PH es el de naturaleza CONTRACTUAL (relativo al reglamento de
+copropiedad).
+NOTA: Esta jurisprudencia fue dictada bajo el Código Civil de Vélez Sarsfield.
+     Con el CCyC, el plazo contractual general es de 5 años (art. 2560).
+
+
+PARTE III — MARCO LEGAL PROVINCIAL — BUENOS AIRES
+================================================================================
+
+CONSTITUCIÓN DE LA PROVINCIA DE BUENOS AIRES
+
+Art. 191: Los municipios ejercen el poder de policía en su territorio.
+Art. 192: Las ordenanzas deben responder a conceptos de sanidad, seguridad y
+          protección.
+Art. 24 CPBA (según Dec.-Ley 6769/58 art. 25): Las ordenanzas deben responder
+a los conceptos de sanidad, seguridad, protección y demás estimaciones
+encuadradas en su competencia constitucional, coordinadas con las atribuciones
+provinciales y nacionales.
+
+--------------------------------------------------------------------------------
+DECRETO-LEY 8912/77 — ORDENAMIENTO TERRITORIAL Y USO DEL SUELO
+(Boletín Oficial de Buenos Aires N° 18639, 28/10/1977)
+Texto ordenado por Decreto 3389/87
+Modificado por: Dec.-Ley 10128, Leyes 10653, 10764, 13127 y 13342
+Fuente verificada: normas.gba.gob.ar
+--------------------------------------------------------------------------------
+
+OBJETO: Establece las normas fundamentales que rigen el ordenamiento del
+        territorio de la Provincia de Buenos Aires, regulando especialmente:
+        - La creación, ampliación y reestructuración de núcleos urbanos
+        - El uso y subdivisión de la tierra
+
+PRINCIPIO RECTOR VERIFICADO: La responsabilidad primaria del ordenamiento
+territorial recae en el nivel municipal, con contralor y decisión última del
+Poder Ejecutivo Provincial en los casos previstos en el Art. 83.
+
+ART. 6° DEL DECRETO REGLAMENTARIO 1549/83 (verificado):
+"Cuando en una construcción existente el Factor de Ocupación del Suelo (F.O.S.)
+esté excedido, pero no el Factor de Ocupación Total (F.O.T.) ni la densidad, el
+Municipio respectivo podrá autorizar la remodelación y/o ampliación de su
+superficie cubierta, siempre que se cumplan las siguientes condiciones:
+a) La construcción tenga planos aprobados o empadronados antes de la entrada en
+   vigencia del Decreto 2018/81.
+b) No se superen los valores del Factor de Ocupación Total (F.O.T.) ni la
+   Densidad establecidos para la zona."
+
+NORMAS RELACIONADAS VERIFICADAS en el Sistema de Información Normativa de la
+Provincia de Buenos Aires (normas.gba.gob.ar):
+- Decreto 183/2019: Delega en el Ministro de Gobierno la aprobación del Art. 83
+  del Decreto-Ley 8912/77 (ordenanzas de ordenamiento territorial y zonificación)
+- Ley 14449 (2013): Acceso Justo al Hábitat. Crea el Programa de Lotes con
+  Servicios. Modifica Leyes 6769 y 8912.
+- Decreto 27/1998: Normas sobre emprendimiento urbanístico "Barrios Cerrados"
+- Decreto 947/2004: Modifica Dec. 2489/63 para Clubes de Campo y Barrios Cerrados
+- Resolución Normativa 69/15 ARBA: Establece que hasta tanto se reglamente el
+  ejercicio de los derechos reales de PH y Conjuntos Inmobiliarios del CCyC,
+  deben aplicarse las normas del Decreto Provincial 2489/63.
+
+--------------------------------------------------------------------------------
+DECRETO-LEY 6769/58 — LEY ORGÁNICA DE LAS MUNICIPALIDADES
+(Texto verificado en fuente oficial: normas.gba.gob.ar)
+--------------------------------------------------------------------------------
+
+ART. 24 (verificado): Las ordenanzas corresponden con exclusividad al Concejo
+                       Deliberante.
+
+ART. 25 (verificado): Las ordenanzas deben responder a los conceptos de sanidad,
+                       seguridad, protección y demás estimaciones encuadradas en
+                       su competencia constitucional, coordinadas con las
+                       atribuciones provinciales y nacionales.
+
+ART. 27 (texto según Dec.-Ley 9117/78, verificado): Corresponde a la función
+deliberativa municipal reglamentar:
+1. La radicación, habilitación y funcionamiento de establecimientos comerciales
+   e industriales
+2. El trazado, apertura, rectificación, construcción y conservación de calles,
+   caminos, puentes, túneles, plazas y paseos públicos y las delineaciones y
+   niveles en situaciones no comprendidas en la competencia provincial
+
+ART. 107 (verificado): La administración general y la ejecución de las ordenanzas
+                         corresponde exclusivamente al Departamento Ejecutivo.
+
+ART. 108 INC. 4 Y 5 (verificado): El Intendente municipal está facultado para
+adoptar medidas preventivas para evitar incumplimientos a las ordenanzas de orden
+público, estando facultado para clausurar edificios.
+
+TEXTO VERIFICADO DEL SISTEMA DE BOLETINES OFICIALES MUNICIPALES (sibom.gba.gov.ar)
+sobre poder de policía edilicio:
+"Las potestades de policía edilicia de las Municipalidades para cuestionar,
+controlar y fiscalizar la aprobación y ejecución de obras particulares edilicias
+no son sólo una mera atribución legal, sino un deber constitucional e
+irrenunciable, en tanto garantiza la convivencia y la buena vecindad, y para
+ampliar tal cometido las Comunas cuentan con facultades de inspección y
+vigilancia y, de corresponder, han de adoptar, razonablemente, todas aquellas
+medidas que resulten necesarias para evitar transgresiones reglamentarias
+(v.gr., clausura preventiva, desocupaciones, demoliciones, etc.)"
+Fuente verificada: SBOM Provincia de Buenos Aires.
+
+--------------------------------------------------------------------------------
+ORDENANZA GENERAL 267/80 — PROCEDIMIENTO ADMINISTRATIVO MUNICIPAL
+(Sancionada por el Gobernador en ejercicio de facultades de los Departamentos
+Deliberativos Municipales. Fuente verificada: normas.gba.gob.ar)
+--------------------------------------------------------------------------------
+
+ART. 1°: Las normas de esta Ordenanza General regularán el procedimiento para
+         obtener una decisión o una prestación de la administración municipal y
+         el de producción de sus actos administrativos. Será de aplicación
+         supletoria en las tramitaciones administrativas municipales con regímenes
+         especiales.
+
+ART. 2°: Las actuaciones cuya resolución corresponda a la Municipalidad, deberán
+         ser iniciadas ante el órgano comunal competente.
+
+ART. 3°: La competencia de los órganos de la Municipalidad se determinará por la
+         Constitución de la Provincia, la Ley Orgánica de las Municipalidades y
+         las ordenanzas y decretos que se dicten en su consecuencia.
+
+ART. 38°: Los documentos y planos que se presenten, excepto los croquis, deberán
+          ser firmados por profesionales inscriptos en la matrícula, cuando así lo
+          exija la ley de reglamentación de las profesiones correspondientes.
+
+ART. 95°: En caso de que, por una medida de carácter general, la autoridad
+          administrativa perjudicase derechos privados, deberá acudirse
+          individualmente a la misma autoridad que dictó la medida general,
+          reclamando de ella, dentro del plazo de treinta (30) días a partir de
+          la última publicación o de su notificación.
+
+--------------------------------------------------------------------------------
+ARBA — NORMATIVA CATASTRAL VERIFICADA PARA PROPIEDAD HORIZONTAL
+(Fuente: web.arba.gov.ar/biblioteca-legal/normativas-vigentes-permanente-catastro
+ y www.arba.gov.ar/GuiaTramites/)
+--------------------------------------------------------------------------------
+
+NORMATIVAS VIGENTES DE CARÁCTER PERMANENTE — CATASTRO Y GEODESIA (verificadas):
+
+1. Resolución Normativa 69/15 ARBA: Hasta tanto se reglamente el CCyC en materia
+   de PH y Conjuntos Inmobiliarios, se aplica el Decreto Provincial 2489/63.
+
+2. Resolución Normativa 63/14 ARBA: Regula la modificación del estado constructivo
+   de las unidades funcionales a construir o en construcción.
+
+3. Disposición 6010/02 ex Dirección Provincial de Catastro Territorial:
+   Regula modificación del estado constructivo de unidades funcionales.
+
+4. Decreto 947/2004: Modifica Decreto 2489/63. Regula modificación del estado
+   constructivo de UF originadas por el régimen de la Ley 13.512 en clubes de
+   campo y barrios cerrados.
+
+5. Resolución Normativa 24/18 ARBA: Derecho de Propiedad Horizontal Especial
+   (Conjuntos Inmobiliarios). Establece pautas de aprobación y registración de
+   documentos cartográficos para constitución del derecho real de Conjuntos
+   Inmobiliarios.
+
+6. Resolución Normativa 26/2023 ARBA: Regula nuevos modelos de cédulas
+   catastrales de inmuebles sometidos al régimen de PH, registración de altas y
+   modificaciones de partidas y asignación de nuevas nomenclaturas catastrales.
+
+7. Resolución Normativa 14/2024 ARBA: Regularizaciones de dominio de interés
+   social. Artículo 11 bis de la Ley N° 10707.
+
+TRÁMITE CATASTRAL VERIFICADO — ACTUALIZACIÓN DE ESTADO CONSTRUCTIVO EN PH
+(Fuente: www.arba.gov.ar — Guía de Trámites):
+"Permite registrar las modificaciones realizadas sobre el estado constructivo
+y/o actualizar superficie edificada de una Unidad Funcional o Complementaria."
+REQUISITOS:
+- Tener el Plano de Obra Aprobado por el Municipio respectivo (en caso de no
+  presentar modificación en planta urbana, no es necesario)
+- Profesional debe estar empadronado, activo y no inhabilitado por el colegio
+  correspondiente
+- Comprobante informativo
+- Nota de solicitud por Decreto 947
+- Plano de obra aprobado (intervenido por el respectivo municipio)
+- Actuación notarial (que acredite facultad de los titulares de dominio)
+
+TRÁMITE CATASTRAL — APROBACIÓN DE PLANO DE PH (verificado):
+"Es el trámite por el cual, al plano presentado, se le realizan los controles
+que aseguren cumpla con lo dispuesto en la Ley de PH, asegurando, además la
+concordancia entre el estado constructivo de la parcela y sus datos dominiales."
+REQUISITOS VERIFICADOS:
+- Informe de dominio (expedido por la Dirección Provincial del Registro de la
+  Propiedad referido al inmueble a subdividir)
+- Plano de obra original (una copia simple con la constancia de intervención
+  municipal)
+- Copia del plano visada por el Colegio de Ingenieros o Caja de Agrimensores
+  o constancia de visado digital
+
+VIGENCIA DEL ESTADO PARCELARIO EN PH (verificado):
+- 6 años para unidades funcionales en Planta Baja
+- 12 años para Unidades Funcionales en restantes Plantas
+
+NOTA VERIFICADA: La Ley 13.512 fue derogada al sancionarse el CCyC en 2014.
+La Resolución Normativa 69/15 de ARBA hace notar que subsiste la aplicación
+de las normas del Decreto Provincial 2489/63 mientras no se dicte nueva
+reglamentación provincial que adecúe el régimen al CCyC.
+
+
+PARTE IV — MARCO LEGAL MUNICIPAL — PARTIDO DE MERLO, BUENOS AIRES
+================================================================================
+
+DATOS INSTITUCIONALES VERIFICADOS:
+- Municipalidad de Merlo: Av. del Libertador Gral. San Martín 391, Merlo, Bs. As.
+- Teléfonos: (0220) 483-0954 / 7981 / 482-3581
+- Intendente: Dr. Gustavo Adolfo Menéndez (vigente a la fecha de compilación)
+- Secretaría de Obras y Servicios Públicos: autoridad de aplicación en materia
+  edilicia municipal
+- HCD — Av. del Libertador San Martín y Bolívar — Tel.: 0220-483-0956
+
+COLEGIO PROFESIONAL COMPETENTE:
+- CAUBA (ex CAPBA) Distrito 3 — Delegación Merlo
+  Visador: Arq. Gustavo REGGIO
+  Dirección: Chacabuco 386 P.B. Depto B, Merlo
+  Tel.: (11) 15-5156-1900
+  Horario: Lunes 09:00 a 13:00 hs / Jueves 09:00 a 13:00 hs (con turno previo)
+  Turnos: https://capbad3turnos.setmore.com/merlo
+  Sede Central Morón: Leandro N. Alem 826 — Tel. 4628-9171 / 4483-2233
+  Email: administracion@cauba3.org.ar
+  Fuente verificada: cauba3.org.ar/delegacion-merlo
+
+ESTADO DE NORMATIVAS MUNICIPALES (verificado en CAUBA D3):
+- Mapa de Zonificación: PENDIENTE (no disponible en línea a la fecha)
+- Código de Edificación: PENDIENTE (no disponible en línea a la fecha)
+- Código de Zonificación: referenciado a Ordenanza 5801/2020 actualizada
+  Fuente: cauba3.org.ar/normativas-municipales
+
+--------------------------------------------------------------------------------
+CADENA NORMATIVA MUNICIPAL VERIFICADA
+(Fuentes: Boletines Oficiales del Municipio de Merlo Nros. 59/2021 y 68/2021,
+          accedidos directamente en pdf oficial de merlo.gob.ar)
+--------------------------------------------------------------------------------
+
+ORDENANZA 2589/84 (VIGENTE):
+Establece que las tareas de proyecto, confección y trámite de aprobación de
+planos de obras de viviendas que no superen los 70m2 pueden ser ejecutadas, sin
+costo alguno para los beneficiarios, por el equipo de profesionales dependientes
+de la Secretaría de Obras y Servicios Públicos.
+Condición para acogerse: ser titular (acreditado) y vivienda hasta 70m2.
+Fuente verificada: Boletín Oficial de Merlo N° 68 (Oct. 2021) — Ordenanza 5832.
+
+ORDENANZA 5801/2020 — "AUTORIZA NUEVA ZONIFICACIÓN EN EL PARTIDO DE MERLO"
+Promulgada por Decreto N° 3434
+Publicada en Boletín Oficial de Merlo N° 59 (Enero 2021), páginas 173-189.
+Estado: VIGENTE
+Contenido: Nuevo esquema de zonificación del partido de Merlo.
+NOTA: El texto completo de los indicadores urbanísticos (FOT, FOS, densidades,
+      alturas) por zona NO está disponible en fuentes digitales públicas.
+      Debe consultarse en la Dirección de Planeamiento o en CAUBA D3.
+
+ORDENANZA 5802/2020 — "REFORMULACIÓN DEL CÓDIGO DE EDIFICACIÓN"
+Promulgada por Decreto N° 3435
+Publicada en Boletín Oficial de Merlo N° 59 (Enero 2021), páginas 191-219.
+Estado: VIGENTE (modificada parcialmente por Ordenanza 5839/2021)
+Contenido: Código de Edificación base de Merlo, reformulado.
+
+ORDENANZA 5839/2021 — "MODIFICACIONES AL CÓDIGO DE EDIFICACIÓN"
+Promulgada por Decreto N° 4024/21
+Publicada en Boletín Oficial de Merlo N° 68 (Octubre 2021), páginas 47-81.
+Estado: VIGENTE
+Fuente verificada: Texto completo accedido en pdf merlo.gob.ar
+
+ARTÍCULO 1° (verificado):
+"Autorízase, a partir de la sanción de la presente ordenanza, la implementación
+de los siguientes artículos que reemplazarán los mencionados en el Código de
+Edificación y Ordenanzas vigentes."
+
+ARTÍCULO 2° (verificado):
+"Todos aquellos artículos que no sean mencionados en la presente ordenanza
+deberán adecuarse al Código de Edificación y Ordenanzas vigentes al día de la
+fecha."
+
+ARTÍCULO 3° (verificado):
+"Facúltase al Departamento Ejecutivo a publicar y difundir la presente ordenanza,
+como así también a establecer la fecha de implementación, dando tiempo a los
+contribuyentes y/o profesionales de tomar conocimiento de la presente ordenanza
+y de los cambios que se produzcan a raíz de su implementación."
+
+ARTÍCULO 4° (verificado — FUNDAMENTAL PARA COPROPIEDAD/PH):
+"Facúltase al Departamento Ejecutivo, a analizar y resolver todas las cuestiones
+que surjan a raíz de los cambios surgidos producto de la presente ordenanza,
+analizando cada proyecto en particular y dictaminando el proceder del mismo,
+considerando dentro de los mismos, aquellos casos en los que se cuente con plano
+aprobado anterior a la presente ordenanza y se pretenda ampliar tomando los nuevos
+indicadores. En estos casos particulares EL CAMBIO DE INDICADORES NO HABILITA
+BAJO NINGÚN CONCEPTO AL PROFESIONAL NI AL PROPIETARIO A INCORPORAR SUPERFICIE
+SIN PERMISO."
+
+ARTÍCULO 5° (verificado — AMPLIACIONES CON PLANOS APROBADOS ANTERIORES):
+"Todas aquellas obras que cuenten con Plano Aprobado anterior a la presente
+ordenanza podrán presentar sus propuestas de ampliación a construir tomando los
+nuevos indicadores. Las propuestas serán evaluadas por el Departamento Ejecutivo,
+quien dictaminará si corresponde o no la aceptación de la nueva presentación de
+ampliación. A tal fin las presentaciones deberán dar cumplimiento a los
+siguientes requerimientos:
+a) Plano de antecedentes
+b) Propuesta de ampliación, plantas, vistas, cortes, detalles constructivos y
+   toda aquella documentación gráfica necesaria para poder comprender la propuesta
+   en formato municipal
+c) Planos de estructuras de la propuesta de ampliación
+d) Cálculos de estructuras, de toda aquella superficie a incorporar
+e) Informe técnico realizado por un profesional de la ingeniería, el que deberá
+   incluir análisis del comportamiento de las estructuras resistentes, basado en
+   un ensayo de cargas en que se deberán constatar las magnitudes aplicadas en el
+   ensayo y de las deformaciones registradas. Además deberá informar sobre la
+   estabilidad y seguridad que presentase la construcción y de las medidas técnicas
+   que corresponda adoptar para la ampliación de superficie, detallando si la
+   propuesta presentada en metros cuadrados según el destino es posible de
+   incorporar.
+El Departamento Ejecutivo a través de sus oficinas técnicas, podrá verificar los
+estudios y documentación presentada dictaminando si el mismo es aceptado para
+comenzar la tramitación de ampliación o si el mismo es rechazado por
+incumplimiento de las normas vigentes o falta de documentación que avale la
+estabilidad estructural del edificio y la seguridad de todos los ciudadanos.
+La respuesta e informe que realice el Departamento Ejecutivo, será inapelable."
+
+ARTÍCULO 6° (verificado — SELLO DE DEMOLICIÓN):
+"Facúltase al Departamento Ejecutivo a implementar el Sello 'SUJETO A DEMOLICIÓN'
+dejando a su criterio la aplicación del mismo para aquellos casos que incurran en
+faltas graves."
+
+ARTÍCULO 7° — DOCUMENTACIÓN PARA OBRA NUEVA, AMPLIACIÓN, REFACCIÓN O DEMOLICIÓN
+(verificado — reproducción de los ítems verificados en el texto):
+
+INSTRUMENTOS PREVIOS — DOS TIPOS HABILITADOS POR LA ORD. 5839/2021:
+
+A) CERTIFICADO DE FACTIBILIDAD DE PROYECTO
+   Para: obra nueva a construir, ampliación o refacción
+   El profesional lo tramita antes de iniciar la carpeta de obra.
+   Requisitos:
+   - Plano de antecedente (si corresponde)
+   - Plano de PH (si es necesario)
+   - Plano de unificación (si es necesario)
+   - Una copia de plano del anteproyecto
+   - Pago de sellado según Ordenanza Impositiva vigente
+   Vigencia: 6 meses desde la fecha de aprobación
+   Objetivo verificado textualmente: "evaluar los criterios de diseños y
+   justificación en los aspectos formales, funcionales, técnicos y estéticos"
+   ADVERTENCIA LEGAL EXPRESA EN EL TEXTO: "La admisibilidad de dicho certificado
+   no da derecho a construir ni demoler."
+   CONSECUENCIA verificada: Si se detecta inicio de obra nueva o demolición sin
+   permiso, quedará a criterio del Departamento Ejecutivo la vigencia del
+   certificado y la aplicación de multas al profesional interviniente.
+   MODIFICACIÓN POSTERIOR verificada: Luego de aprobado el Certificado de
+   Factibilidad, si el proyecto sufre modificaciones al ingresar la carpeta, se
+   acepta el ingreso siempre que no se superen los indicadores urbanísticos.
+
+B) CERTIFICADO DE ADMISIBILIDAD PARA OBRA SUBSISTENTE
+   Para: registración de construcciones existentes (obras sin permiso previo)
+   Requisitos:
+   - Plano de antecedente
+   - Una copia de plano de PH
+   - Una copia de plano de unificación (si corresponde)
+   - Una copia del plano municipal a registrar
+   - Pago de sellado según Ordenanza Impositiva
+   Nota verificada textualmente: "De este modo queda sin efecto el informe de
+   zonificación, el cual es sustituido por el Certificado de Factibilidad de
+   proyecto y por el Certificado de Admisibilidad de obra subsistente,
+   respectivamente."
+
+DOCUMENTACIÓN PARA INICIAR CARPETA DE OBRA (verificada — Art. 7° Ord. 5839/2021):
+1. Carpeta Municipal reglamentaria
+2. Escritura o boleto de compraventa sellado
+3. Fotocopia de DNI de los titulares
+4. Certificado de amojonamiento o plano de mensura (obra a construir)
+5. Revalúo actualizado (presentado en ARBA)
+6. Plano de antecedente municipal
+7. Certificado de Factibilidad de Proyecto o Certificado de Admisibilidad para
+   Obra Subsistente (según corresponda)
+8. Factibilidad de infraestructura de servicios sanitarios
+9. Factibilidad de EDENOR (a partir de obras con 6 o más unidades funcionales)
+10. Libre de deuda de Tasas Municipales
+11. Libre de deuda de Faltas contravencionales
+12. Planilla de Estadísticas
+
+DOCUMENTACIÓN PARA CONFORMAR EXPEDIENTE DE OBRA (verificada — Art. 7°):
+Todos los anteriores, más:
+- Escritura o boleto de compraventa
+- Certificado de amojonamiento o plano de mensura (obra nueva a construir)
+- Fotocopia de DNI de el/los propietarios
+- Revalúo Actualizado presentado previamente en ARBA
+- Certificado de Factibilidad de Proyecto o Certificado de Admisibilidad
+- Plano de Antecedente municipal (si corresponde)
+- Plano de PH (si corresponde)
+- Copia de plano visado por la Dirección de Planeamiento
+- Copia de plano visado por la Dirección de Obras Particulares
+- Planilla de Derechos de Construcción / Libre de deuda de derecho de construcción
+- Copia de plano visado por el Colegio Profesional correspondiente (CAUBA D3)
+- 1 copia original en calco
+- 5 copias heliográficas
+- Certificado de desratización (en caso de demolición total)
+- Para obra nueva: nuevo revalúo actualizado junto a la presentación del plano
+  Conforme a Obra y/o Final de Obra
+
+TIPOS DE PLANOS REQUERIDOS (verificados — Art. 7° Ord. 5839/2021):
+PLANO 1 — DEMOLICIÓN: escala 1:100 de superficie a demoler; con corte mínimo
+          1:100 acotado para verificar alturas
+PLANO 2 — ARQUITECTURA: plantas, vistas y cortes en esc. 1:100; detalles de
+          escaleras en esc. 1:20; Pulmón de Manzana en esc. 1:1000; Siluetas de
+          superficies en esc. 1:200; planilla de superficie; planilla de
+          indicadores urbanísticos; detalle de premios (obra nueva); planilla de
+          iluminación y ventilación
+PLANO 3 — ESTRUCTURAS: esc. 1:100; todos los elementos estructurales enumerados
+          (bases, columnas, vigas, losas, etc.); detalle 1:20 de bases
+PLANO 4 — INCENDIO: requerido para edificios con más de 6 unidades funcionales
+          (independientemente del destino), plantas industriales, o los que a
+          consideración de la Dirección de Obras Particulares requieran por
+          seguridad. Debe estar visado por el Departamento Técnico del Cuerpo de
+          Bomberos Voluntarios del Partido de Merlo y/o firmado por un Licenciado
+          en Seguridad e Higiene debidamente colegiado.
+PLANO 5 — ELECTROMECÁNICO: según lo establecido en el artículo de instalaciones
+          electromecánicas de la misma ordenanza
+
+ARTÍCULO 8° — MULTAS, RECARGOS, SANCIONES Y PENALIDADES (verificado):
+"La aplicación de penalidades, sanciones, multas y/o recargos no exime a los
+afectados del cumplimiento estricto de las disposiciones en rigor y de la
+corrección en el plazo que se fije, de las irregularidades que las motivaron,
+bajo apercibimiento de la aplicación de nuevas sanciones por incumplimiento."
+
+"La suspensión de la firma de los profesionales, constructores y empresas,
+significará la prohibición de presentar planos o construir o instalar obras
+nuevas hasta tanto la pena sea cumplida, pudiendo continuar el trámite de los
+expedientes iniciados antes de la aplicación de la misma, así como las obras
+con permiso concedido."
+
+RÉGIMEN ESPECIAL PARA OBRAS EN BARRIOS PRIVADOS, CLUBES DE CAMPO Y COUNTRIES
+(verificado en Art. 8° Ord. 5839/2021):
+"Cuando se detecte la presentación espontánea y/o con intervención municipal de
+toda aquella construcción ubicada dentro de Barrios Privados, Clubes de Campo
+y/o Countries con superficies mayores a 100 m2, se tomará como valor referencial
+del módulo para el cálculo de los derechos de construcción, el máximo que se
+estipule en la Ordenanza Impositiva vigente al momento de la liquidación."
+
+ORDENANZA 5840/2021 — "MODIFICACIONES AL CÓDIGO DE ZONIFICACIÓN"
+Promulgada por Decreto N° 4025/21
+Publicada en Boletín Oficial de Merlo N° 68 (Octubre 2021), páginas 83-109.
+Estado: VIGENTE
+Fuente verificada: Boletín Oficial de Merlo N° 68
+
+--------------------------------------------------------------------------------
+RÉGIMEN TRIBUTARIO MUNICIPAL APLICABLE A OBRAS (verificado)
+--------------------------------------------------------------------------------
+
+FUENTE VERIFICADA: Ordenanza Fiscal 5410/16 (vigente con actualizaciones),
+                   texto accedido en merlo.gob.ar/portal/Documentos/Ord_5410_fiscal.pdf
+
+"b) Se operare modificación parcelaria, reunión, división, accesión por
+construcción, ampliación, reedificación, refacción, demolición o cualquier otra
+clase de transformación en el edificio que importare un aumento o disminución de
+su valor, y por la modificación en la prestación de los servicios, destino y
+zonificación que modifique la característica del inmueble. La nueva valuación
+resultante como asimismo las modificaciones de características, surtirán efecto
+tributario desde el momento en que se produjeren los hechos que le den origen
+aun cuando el contribuyente ya hubiera abonado las tasas determinadas sin haber
+tenido la Municipalidad conocimiento del hecho imponible."
+
+"Las mejoras que se introduzcan en inmuebles sobre la base de planos aprobados,
+se incorporarán a la categoría correspondiente a los fines del cobro de la tasa,
+a los veinticuatro (24) meses de la fecha de la aprobación salvo que antes
+hubieran obtenido el Certificado de Inspección final o se encontraren en
+condiciones de ser habilitados total o parcialmente, en cuyo caso se incorporarán
+de inmediato."
+
+"Las mejoras introducidas sin la correspondiente autorización Municipal que sean
+aprobadas en [el procedimiento de regularización correspondiente...]" generan
+efecto tributario desde el momento del hecho.
+
+
+PARTE V — JURISPRUDENCIA VERIFICADA (Argentina)
+================================================================================
+
+1. FALLO VERIFICADO — Consorcio de Prop. Av. Congreso 1628/1634/1638 (CNCiv.)
+   Fuente: aldiaargentina.microjuris.com (Octubre 2020)
+   Hechos: Se ejecutó obra clandestina (cerramiento) en balcón de piso 16.
+           El consorcio actor solicitó demolición.
+   Resolución: El tribunal rechazó la demolición al no verificarse daño real.
+   Considerando verificado: "Aun cuando no existan dudas acerca de que la obra
+   fue llevada a cabo sin la autorización de los demás copropietarios, la
+   demolición de esa obra puede resultar altamente perjudicial y hasta peligrosa
+   para el conjunto de propietarios. El magistrado entendió que la obra no
+   producía un daño para la estructura del edificio, sus copropietarios ni para
+   terceros, ya que fue correctamente realizada, conforme las reglas del arte,
+   y además no altera la fachada."
+
+2. FALLO VERIFICADO — Consorcio de Prop. Juan Bautista Alberdi 2432/2434/2436
+   (CNCiv. Sala — autos verificados en ligadelconsorcista.org)
+   Sentencia verificada: 3 de noviembre de 2021
+   Hechos: Consorcio actor contra González por obras en techo de cocheras (quincho
+           con parrilla) y construcciones en patios comunes.
+   Resolución: Hizo lugar a la demanda y ordenó demoler las obras.
+   Plazo: 30 días de quedar firme, bajo apercibimiento de ejecución a su costa.
+   Norma aplicada: Art. 513 del Código Procesal (ejecución a costa del infractor).
+
+3. FALLO VERIFICADO — SCBA — Contencioso Administrativo — Municipio de Merlo
+   (scba.gov.ar — Cámara Contencioso Administrativa Dpto. Judicial Morón)
+   Hechos verificados: Solicitud de Certificado de Uso Conforme N° 496/09
+   presentada el 19/11/2009 bajo Ordenanza 1163/97. Al momento de la emisión
+   del informe técnico (11/01/2010) ya estaba vigente la Ordenanza 3334/09
+   (sancionada y promulgada el 30/12/2009).
+   Resolución verificada: El tribunal aplicó la ordenanza vigente al momento del
+   informe técnico (Ord. 3334/09), no la del ingreso (Ord. 1163/97). Rechazó
+   la pretensión del actor de que se aplicara la norma vigente al momento de
+   solicitud del trámite.
+   Doctrina verificada: La Asesoría General de Gobierno sostuvo que la materia
+   "es de carácter urbanístico-ambiental".
+   NOTA HISTÓRICA IMPORTANTE: Esta jurisprudencia describe el sistema del
+   "Certificado de Uso Conforme" que fue REEMPLAZADO en Merlo por la Ordenanza
+   5839/2021 con dos nuevos instrumentos (Certificado de Factibilidad de Proyecto
+   y Certificado de Admisibilidad para Obra Subsistente).
+
+4. FALLO VERIFICADO — CNCiv., Sala F, 16/07/2002 — "Faskowicz c/Wapñarsky"
+   (Fuente: ips.com.ar — Liga del Consorcista)
+   Considerando verificado: "La norma que prohíbe realizar obras nuevas sin
+   autorización de todos los propietarios debe ser celosamente respetada, porque
+   tiene por finalidad la de preservar la solidez, seguridad y salubridad del
+   edificio, evitar molestias a los demás o la degradación de las otras unidades,
+   y mantener la proporcionalidad en los gastos que se determinan según la
+   superficie cubierta de cada una, principalmente. Indiscutiblemente, la
+   incorporación de nuevas superficies cubiertas requiere la modificación del
+   plano del edificio y consecuentemente de reglamento de copropiedad y
+   administración, lo cual al tratarse de cláusulas estatutarias, no puede
+   hacerse sino por unanimidad."
+
+5. FALLO VERIFICADO — CNCiv., Sala A, 01/10/2012 — "Bazzigalupi c/Marchitto"
+   (Fuente: ligadelconsorcista.org)
+   Doctrina verificada: El plazo de prescripción aplicable ante la realización
+   de obras en infracción a lo establecido en el régimen de PH es el de
+   naturaleza CONTRACTUAL, no extracontractual.
+
+6. FALLO VERIFICADO — Sala (se omite número — en biblioteca.camdp.org.ar)
+   "De ahí no cabe sino concluir que ningún copropietario de un inmueble
+   sometido al régimen de propiedad horizontal puede apropiarse de las partes
+   comunes restringiendo el legítimo derecho de los demás. Es que la sola
+   violación del requisito de unanimidad basta para convertir en ilícitas las
+   obras efectuadas sobre bienes comunes."
+
+
+PARTE VI — JURISPRUDENCIA VERIFICADA (Propiedad Horizontal - PH en Buenos Aires)
+           FUENTE: Asociación Civil Argentina de Profesionales de la Propiedad
+                   Horizontal (ACAPPH) — sentencia verificada en su texto:
+================================================================================
+
+FALLO VERIFICADO — (Tribunal no identificado con precisión en la fuente,
+                     pero texto del fallo verificado en acapph.org.ar):
+Extracto verificado:
+"El art. 2041 inciso c) de dicho cuerpo normativo identifica a los techos,
+azoteas, terrazas y patios solares como cosas y partes necesariamente comunes y
+el art. 2052 dispone la necesidad de contar con la unanimidad de votos de los
+copropietarios para realizar mejoras u obra nueva sobre cosas y partes comunes
+en interés particular que sólo beneficia a su propietario, como se da en el
+caso de autos. Ello alcanza para sellar la suerte del recurso. Tampoco puede
+entenderse que en el ejercicio de esta acción se encuentre comprometido el
+ejercicio abusivo de un derecho por parte del consorcio, por cuanto el accionado
+no respetó en su accionar las claras normas de convivencia en comunidad que
+impone el derecho real de propiedad horizontal."
+
+"Las obras en cuestión no fueron aprobadas por unanimidad por la asamblea de
+consorcistas, violando con ello lo previsto en el Reglamento de Copropiedad del
+ente consorcial. De manera que no solo existió una violación al Reglamento, sino
+incluso a la voluntad consorcial plasmada en las actas de asambleas."
+
+
+PARTE VII — RECHAZADO POR JURISPRUDENCIA — PRINCIPIO DEL RECHAZO DE DEMOLICIÓN
+================================================================================
+
+FALLO VERIFICADO — ligadelconsorcista.org — "Se rechaza la demolición de obras
+inconsultas cuando el actor también ejecutó obras sin permiso":
+Extracto verificado:
+"El Reglamento de Administración es el cuerpo normativo que regula directamente
+las relaciones entre los copropietarios del edificio sometido al régimen de
+propiedad horizontal, y constituye una verdadera ley para aquéllos a la cual
+deben sujetar sus derechos y sus obligaciones. El Reglamento fija cuáles son las
+partes comunes y las partes privativas, y el destino de ellas, como su superficie
+cubierta, semidescubierta y descubierta. Esas normas al constituir cláusulas
+estatutarias hacen que no pueden ser cambiadas, y, por ende, tampoco el sustento
+fáctico que les dio origen, salvo unanimidad de los consorcistas."
+DOCTRINA VERIFICADA: En este caso se rechazó la demolición porque el ACTOR
+también había ejecutado obras sin permiso, configurando situación de paridad
+de infracciones.
+
+
+PARTE VIII — DATOS VERIFICADOS SOBRE EL MUNICIPIO DE MERLO (PARTIDO)
+            DATOS FÍSICOS Y ESTADÍSTICOS VERIFICADOS
+================================================================================
+
+FUENTE VERIFICADA: argentina.gob.ar (Procrear, Desarrollos Urbanísticos):
+"El desarrollo urbanístico de Merlo se encuentra ubicado entre las calles Juana
+Manso, Avenida Argentina y Miguel Sanabria. La tipología 'casa unifamiliar'
+comprende: tanto casa unifamiliar como dúplex en propiedad horizontal."
+
+FUENTE VERIFICADA: Fallo de la Cámara Contencioso Administrativa (scba.gov.ar):
+"Dentro del Distrito III del Colegio de Arquitectos de la Pcia. de Bs. As.,
+la Municipalidad de Merlo es la única que pide este certificado [el de Uso
+Conforme — régimen anterior], implicando un doble permiso y que el dictamen es
+sobre el lote independientemente de la persona que lo solicite."
+NOTA ACLARATORIA: Este dato histórico describe el régimen ANTERIOR (Ord. 1163/97
+y 3334/09). Fue superado por la Ord. 5839/2021 que reemplazó ese mecanismo.
+
+
+PARTE IX — NORMATIVA VERIFICADA ESPECÍFICA PARA CONJUNTOS INMOBILIARIOS
+            (Arts. 2073-2086 CCyC — Aplicable si la copropiedad es un
+             barrio cerrado, parque industrial o conjunto similar)
+================================================================================
+
+ARTÍCULO 2073 (verificado): Son conjuntos inmobiliarios los clubes de campo,
+                              barrios cerrados o privados, parques industriales,
+                              náuticos o similares, y el derecho real que se
+                              constituye sobre éstos se rige por lo dispuesto
+                              en este Capítulo y en los que sean aplicables,
+                              las normas del derecho real de PH.
+
+ARTÍCULO 2080 (verificado): "De acuerdo a las normas administrativas aplicables,
+el reglamento de propiedad horizontal puede establecer limitaciones edilicias o
+de otra índole, crear servidumbres y restricciones a los dominios particulares,
+como así también fijar reglas de convivencia, todo ello en miras al beneficio
+de la comunidad urbanística. Toda limitación o restricción establecida por el
+reglamento debe ser transcripta en las escrituras traslativas del derecho real."
+
+ARTÍCULO 2081 (verificado): Los propietarios están obligados a pagar las
+expensas, gastos y erogaciones comunes para el correcto mantenimiento y
+funcionamiento del conjunto inmobiliario en la proporción que establezca el
+reglamento.
+
+
+PARTE X — PROCEDIMIENTO VERIFICADO PARA REGULARIZACIÓN DE OBRAS SUBSISTENTES
+================================================================================
+
+El procedimiento verificado para regularizar obras ejecutadas sin permiso en el
+Municipio de Merlo, conforme Ordenanza 5839/2021:
+
+PASO 1: Contratar un arquitecto con matrícula provincial y municipal activa
+        (registrado en CAUBA D3, Delegación Merlo)
+
+PASO 2: El profesional tramita el CERTIFICADO DE ADMISIBILIDAD PARA OBRA
+        SUBSISTENTE ante la Dirección de Obras Particulares de Merlo.
+        Documentación requerida (verificada):
+        - Plano de antecedente
+        - Copia de plano de PH (si corresponde)
+        - Copia de plano de unificación (si corresponde)
+        - Copia del plano municipal a registrar
+        - Pago de sellado según Ordenanza Impositiva vigente
+
+PASO 3: Si el Certificado es favorable, el profesional prepara la carpeta de
+        obra completa con toda la documentación del Art. 7° de la Ord. 5839/2021.
+
+PASO 4: Se obtiene el visado del CAUBA D3 (Delegación Merlo, Arq. Reggio).
+
+PASO 5: Se presenta la carpeta ante la Dirección de Obras Particulares de Merlo.
+
+PASO 6: Se abona la Planilla de Derechos de Construcción según la Ordenanza
+        Impositiva vigente.
+
+PASO 7: Una vez aprobado el plano, se actualiza el estado constructivo ante ARBA.
+        Para esto se requiere: Plano de Obra Aprobado intervenido por el municipio;
+        actuación notarial; comprobante informativo del Sistema de Información
+        Catastral.
+        Fuente verificada: arba.gov.ar/GuiaTramites/
+
+REFERENCIA VERIFICADA SOBRE PROFESIONAL EN PARTIDO DE MERLO
+(www.paredestudio.com.ar):
+Documentación para regularización (planos de subsistencia) en Merlo:
+1. Plano de antecedentes municipales
+2. Factibilidad de servicios sanitarios (si corresponde)
+3. Recibo de ABSA si cuenta con servicios
+4. Factibilidad de EDENOR y/o Gas Natural FENOSA (si corresponde)
+5. Liquidación de derechos de construcción firmada por profesional y propietario
+6. Visado del Colegio de Arquitectos — Contrato obligatorio — Planilla Anexa
+   Estado de Obra — Liquidación — Copia de Plano
+Requisito verificado: "Solo el profesional arquitecto con matrícula provincial
+                       y municipal activa."
+
+
+PARTE XI — DATOS NO VERIFICADOS — ZONAS DE INCERTIDUMBRE DECLARADAS
+================================================================================
+
+Los siguientes datos NO pudieron verificarse en fuentes primarias directas
+y quedan EXCLUIDOS del cuerpo verificado de este informe:
+
+1. TEXTO COMPLETO DE LA ORDENANZA 5801/2020 (Código de Zonificación): No
+   accesible en formato digital público. No se conocen los valores de FOT, FOS,
+   densidades ni alturas máximas por zona del partido de Merlo. El documento
+   existe en la Delegación CAUBA D3 Merlo, pero no está disponible en línea.
+
+2. MODIFICACIONES POST-2021 AL CÓDIGO DE EDIFICACIÓN: Los Boletines Oficiales
+   de Merlo posteriores al N° 68 (2021) no contienen ordenanzas sobre código
+   de edificación hasta los últimos accedidos. No puede descartarse que existan
+   modificaciones en Boletines no accesibles digitalmente (N° 79/2022, 87/2023,
+   90/2023, 94/2023, 95/2024, 99/2024, 107/2025, 114/2025, 118/2025, 119/2026).
+
+3. ORDENANZA DE FALTAS MUNICIPAL DE MERLO: Se verificó la existencia del Juzgado
+   de Faltas municipal como concepto, pero no se accedió al texto de la ordenanza
+   de faltas local ni a su tabla de sanciones actualizada.
+
+4. MONTOS ACTUALIZADOS DE DERECHOS DE CONSTRUCCIÓN 2025-2026: La Ordenanza
+   Impositiva 2021 (N° 5794/2020) fue la más reciente accedida en texto. Los
+   montos de derechos de construcción se actualizan anualmente y los valores 2025
+   y 2026 no pudieron verificarse en fuente primaria.
+
+5. EXISTENCIA DE AMNISTÍAS O REGÍMENES DE REGULARIZACIÓN GENERALES VIGENTES 2024-
+   2026 EN MERLO: Solo se verificó la Ordenanza 5832/2021 que exceptúa a un caso
+   individual concreto de los requisitos de la Ord. 2589/84. No se encontró un
+   régimen general de regularización vigente a la fecha de compilación.
+
+6. CONVALIDACIÓN PROVINCIAL DE LAS ORDENANZAS 5801/2020 Y 5840/2021:
+   El Decreto-Ley 8912/77, Art. 83, requiere convalidación del Poder Ejecutivo
+   Provincial para cambios de zonificación. No se verificó si las Ordenanzas
+   5801/2020 y 5840/2021 recibieron esa convalidación. El Decreto 183/2019 delegó
+   esa facultad en el Ministro de Gobierno Provincial.
+
+
+PARTE XII — DATOS DE CONTACTO INSTITUCIONAL VERIFICADOS
+================================================================================
+
+DIRECCIÓN DE OBRAS PARTICULARES — MUNICIPALIDAD DE MERLO
+Dirección: Av. del Libertador Gral. San Martín 391, Merlo, Buenos Aires
+Teléfonos: (0220) 483-0954 / 7981 / 482-3581
+Fuente: merlo.gob.ar / boletines oficiales
+
+COLEGIO PROFESIONAL — CAUBA DISTRITO 3 — DELEGACIÓN MERLO
+Visador: Arq. Gustavo REGGIO
+Dirección: Chacabuco 386 P.B. Depto B, Merlo
+Teléfono: (11) 15-5156-1900
+Días y horario: Lunes 09:00 a 13:00 hs / Jueves 09:00 a 13:00 hs
+                (únicamente con turno previo)
+Sistema de turnos: https://capbad3turnos.setmore.com/merlo
+Fuente verificada: cauba3.org.ar/delegacion-merlo
+
+SEDE CENTRAL CAUBA D3 — MORÓN
+Dirección: Leandro N. Alem 826, Morón
+Teléfonos: 4628-9171 / 4483-2233
+Email: administracion@cauba3.org.ar
+Horario: Lunes a Viernes de 9 a 13 hs.
+Fuente verificada: cauba3.org.ar
+
+HONORABLE CONCEJO DELIBERANTE — MERLO
+Dirección: Av. del Libertador San Martín y Bolívar, Merlo
+Teléfono: 0220-483-0956
+Fuente verificada: merlo.gob.ar/hcd/
+
+ARBA — AGENCIA DE RECAUDACIÓN PROVINCIA DE BUENOS AIRES (trámites catastrales)
+Sitio oficial: arba.gov.ar — web.arba.gov.ar
+Trámites de catastro y PH: arba.gov.ar/GuiaTramites/
+Fuente verificada: sitio oficial de ARBA
+
+REGISTRO DE LA PROPIEDAD INMUEBLE (Pcia. Bs. As.)
+Dependiente del Ministerio de Justicia Provincial.
+Los planos de PH aprobados por ARBA se comunican a este registro.
+
+DEPARTAMENTO JUDICIAL MORÓN
+Competencia territorial verificada: Partido de Merlo pertenece al Departamento
+Judicial Morón para causas civiles, comerciales y contencioso-administrativas.
+(Fuente verificada: Cámara Contencioso Administrativa — fallo SCBA en merlo.gov.ar)
+
+
+PARTE XIII — ÍNDICE DE FUENTES PRIMARIAS VERIFICADAS
+================================================================================
+
+BOLETINES OFICIALES MUNICIPALES DE MERLO (accedidos directamente):
+- Boletín N° 59 — Enero 2021 (merlo.gob.ar) — Ords. 5783 a 5806 (pp. 1-236)
+- Boletín N° 68 — Octubre 2021 (merlo.gob.ar) — Ords. 5824 a 5845 (pp. 1-123)
+- Boletín N° 83 — Enero 2023 (merlo.gob.ar) — Ords. 5967 a 6028 (pp. 1-272)
+- Listado completo de boletines N° 1 a N° 119 disponible en merlo.gob.ar/boletin-oficial/
+
+ORDENANZAS MERLO VERIFICADAS EN TEXTO:
+- Ordenanza 5802/2020 (Código de Edificación reformulado) — Boletín 59
+- Ordenanza 5839/2021 (Modificaciones al Código de Edificación) — Boletín 68
+- Ordenanza 5840/2021 (Modificaciones al Código de Zonificación) — Boletín 68
+- Ordenanza 5832/2021 (excepción a Ordenanza 2589/84) — Boletín 68
+- Ordenanza 5410/16 (Fiscal) — texto accedido en merlo.gob.ar
+
+SITIOS INSTITUCIONALES VERIFICADOS:
+- merlo.gob.ar (sitio oficial Municipalidad de Merlo — Buenos Aires)
+- cauba3.org.ar (CAUBA Distrito 3 — delegacion-merlo y normativas-municipales)
+- normas.gba.gob.ar (Sistema Normativo Provincial)
+- arba.gov.ar y web.arba.gov.ar (ARBA — trámites y normativas catastrales)
+- argentina.gob.ar (CCyC, Ley 26.994, derechofácil)
+- scba.gov.ar (SCBA — fallos del fuero contencioso)
+- sibom.slyt.gba.gob.ar (Sistema de Boletines Oficiales Municipales — Pcia. Bs.As.)
+
+TEXTOS NORMATIVOS VERIFICADOS (texto completo o parcial):
+- CCyC Arts. 2037-2069 y 2073-2086 (codigocivilonline.com.ar / ligadelconsorcista.org)
+- Decreto-Ley 8912/77 (normas.gba.gob.ar)
+- Decreto Reglamentario 1549/83 (argentinambiental.com)
+- Dec.-Ley 6769/58 Arts. 24, 25, 27, 107, 108 (normas.gba.gob.ar)
+- Ordenanza General 267/80 (normas.gba.gob.ar)
+
+JURISPRUDENCIA VERIFICADA EN FUENTES DIGITALES:
+- Cámara Nacional Civil — Sala F — "Faskowicz c/Wapñarsky" (2002) — ips.com.ar
+- Cámara Nacional Civil — (2021) — "Consorcio J.B. Alberdi" — ligadelconsorcista.org
+- Cámara Nacional Civil — (2020) — "Consorcio Av. Congreso" — microjuris.com
+- Cámara Contencioso Administrativa Morón — (2011) — Merlo — scba.gov.ar
+
+
+================================================================================
+FIN DEL INFORME
+TOTAL DE NORMAS VERIFICADAS: 40+
+JURISDICCIONES CUBIERTAS: Nacional, Provincial (Buenos Aires), Municipal (Merlo)
+PERÍODO NORMATIVO CUBIERTO: 1958 - 2026
+================================================================================
