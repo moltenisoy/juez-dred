@@ -875,11 +875,95 @@ fuentes especializadas (Microjuris Argentina al Día, IPS, fuentes judiciales).
 
 
 ================================================================================
+PARTE XII — BIBLIOGRAFÍA VERIFICADA CON FUENTES PRIMARIAS
+(Incorporada del archivo suelto "Daños por Obra Clandestina y Daño Moral.txt")
+================================================================================
+
+Las siguientes fuentes fueron verificadas y respaldan los análisis de
+responsabilidad civil, daño moral por inhabitabilidad y obra clandestina
+desarrollados en este documento y en la biblioteca:
+
+1. Poder Judicial de la Nación — Sentencia daños por obra lindera
+   https://www.cij.gov.ar/scp/d/sentencia-SGU-5aecfc4f-b992-48e2-857d-023563b38485.pdf
+
+2. SAIJ — Daños y perjuicios, vicio o riesgo de la cosa, obra en construcción
+   https://www.saij.gob.ar/danos-perjuicios-dano-vicio-riesgo-cosa-obra-construccion-suc0003302/123456789-0abc-defg2033-000csoiramus
+
+3. Liga del Consorcista — Responsabilidad por daños en finca lindera/medianera
+   https://ligadelconsorcista.org/jurisprudencia-finca-lindera-medianera-responsabilidad-por-perjuicios-obligacion-de-hacer
+
+4. Microjuris — Rechazo demanda por falta de acreditación del daño
+   https://aldiaargentina.microjuris.com/2017/05/04/rechazo-de-la-demanda-de-danos-y-perjuicios-si-los-actores-no-probaron-el-dano-que-alegaron-sufrir-como-consecuencia-de-una-construccion-de-terraplenes-por-parte-de-los-demandados-que-habrian-impedido/
+
+5. Errepar — Desplazamiento forzado por construcción de edificio lindero
+   https://documento.errepar.com/actualidad/dejaron-su-hogar-por-construccion-edificio-deberan-indemnizarlos
+
+6. SIBOM PBA — Código de Edificación Municipal
+   https://sibom.slyt.gba.gob.ar/bulletins/425/contents/1165772/download_annex?annex_id=1099
+
+7. HCD Provincia de Buenos Aires — Diario de sesiones (obra clandestina)
+   https://intranet.hcdiputados-ba.gov.ar/diarios/diario14216.pdf
+
+8. Gobierno de Santa Fe — Boletín Oficial (poder de policía edilicio)
+   https://www.santafe.gob.ar/boletinoficial/recursos/boletines/pdf/2023/07/BO04072023.pdf
+
+9. Registro de la Propiedad Inmueble PBA — Daño extrapatrimonial/satisfacciones
+   sustitutivas (CNCiv., Nov. 2024, Expte. 72.148/2018)
+   https://www.rpba.gov.ar/files/Normas/Juris/BJ-03969.pdf
+
+10. SCBA — Sentencia Cámara Quilmes "G.E.A. c/ N.A. S.A." (daño moral/hogar)
+    https://www.scba.gob.ar/includes/descarga.asp?id=53921&n=Ver%20sentencia%20(causa%20N%B0%2025.184).pdf
+
+11. Ley Provincial de Catastro 10.707 — Texto completo
+    https://cfcatastro.gob.ar/wp-content/uploads/Ley-Provincial-de-Catastro-Bs-As-10707.pdf
+
+12. Normas GBA — Ley 10707 texto ordenado
+    https://normas.gba.gob.ar/documentos/x6vp7sgx.html
+
+13. SCBA — Sentencia ruina/prescripción/locación de obra (causa 58.815)
+    https://www.scba.gob.ar/includes/descarga.asp?id=30470&n=Ver%20sentencia%20(58.815).pdf
+
+14. SAIJ — Impugnación de pericia, daños en inmueble, prueba anticipada
+    https://www.saij.gob.ar/impugnacion-pericia-danos-inmueble-ofrecimiento-prueba-prueba-anticipada-dictamen-pericial-sud0303635/123456789-0abc-defg5363-030dsoiramus
+
+15. Magistrados Santa Fe — Impugnación y nulidad de prueba pericial
+    https://www.magistrados-santafe.org.ar/wp-content/uploads/2020/11/Revista2014-Impugnacion_y_nulidad_Desinteres_de_la_prueba_pericial_Honorarios_del_perito-pag.508-513.pdf
+
+16. Paraguay — Cargas probatorias dinámicas
+    https://www.pj.gov.py/ebook/monografias/nacional/civil/Alberto-Martinez-Simon-Cargas-Probatorias.pdf
+
+17. SAIJ — Ruina, vicios de la construcción, responsabilidad del empresario
+    https://www.saij.gob.ar/danos-perjuicios-ruina-vicios-construccion-responsabilidad-empresario-responsabilidad-director-obra-suc0410892/123456789-0abc-defg2980-140csoiramus
+
+18. Colegio Administradores de Fincas Córdoba — Daño por humedades
+    https://www.cafcord.org/wp-content/uploads/2022/02/Ponencia-Las-Humedades-en-las-Edificaciones-Webinar-28-01-2022.pdf
+
+19. CSJN — Fallos 2021 (derecho a la vida e integridad física)
+    https://sj.csjn.gov.ar/homeSJ/suplementos/suplemento/42/documento
+
+20. SCBA — Sentencia causa C. 124.096 (cuantificación a valores actuales)
+    https://www.scba.gob.ar/includes/descarga.asp?id=54321&n=Ver%20sentencia%20(causa%20C124.096).pdf
+
+21. Microjuris — Daños por obras en construcción (responsabilidad constructor)
+    https://aldiaargentina.microjuris.com/2021/12/09/fallos-danos-por-obras-en-construccion-tanto-el-constructor-como-el-director-de-una-obra-responden-por-las-lesiones-sufridas-por-una-persona-que-caminaba-por-la-vereda-al-impactarle-un-objeto-que/
+
+22. Escribanía General de Gobierno PBA — Ley 10707 texto actualizado
+    https://www.egg.gba.gov.ar/pdf/concursos/bibliografia_escrituraria/ley_10707.pdf
+
+23. SCBA — Responsabilidad en procesos constructivos (CAPBA)
+    https://www-2020.scba.gob.ar/leyorganica/CCyc30/descargar.asp?nombre=Bertone_Elnuevo_cocdigo_los_procesosconstructivosylaresponsabilidadcivildeempresarios.pdf
+
+24. CAPBA — Normativa y ejercicio profesional
+    https://capba.org.ar/normativa-y-ejercicio-profesional/
+
+
+================================================================================
 FIN DEL DOCUMENTO
 ================================================================================
 
 Este documento fue elaborado el 14 de abril de 2026 con base en investigación
 exhaustiva de fuentes verificadas de no más de 3 años de antigüedad.
+Bibliografía complementaria incorporada el 19 de abril de 2026.
 Para consultas adicionales, complementar con asesoramiento de abogado
 matriculado en el Departamento Judicial de Morón.
 

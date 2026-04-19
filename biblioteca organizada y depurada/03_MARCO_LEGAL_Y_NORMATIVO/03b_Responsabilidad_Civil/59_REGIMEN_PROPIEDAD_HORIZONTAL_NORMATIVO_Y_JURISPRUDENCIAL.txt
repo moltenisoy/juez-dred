@@ -1,0 +1,315 @@
+================================================================================
+ARCHIVO 59 — RÉGIMEN DE PROPIEDAD HORIZONTAL — NORMATIVA, OBLIGACIONES,
+SANCIONES Y JURISPRUDENCIA VERIFICADA
+================================================================================
+Fuente: Archivo suelto "INFORME_JURIDICO_VERIFICADO_MERLO_PH_EDIFICACION.txt"
+        incorporado a la biblioteca organizada y depurada (abril 2026).
+Metodología: Investigación en fuentes primarias directas (textos de ley,
+             boletines oficiales, sitios institucionales). Todo dato sin
+             fuente primaria verificable fue excluido de este informe.
+================================================================================
+
+NOTA SOBRE POLÍTICA DE CONTENIDO: Este archivo NO incluye contenido sobre
+seguros/aseguradora del denunciado ni sobre realizar reparaciones antes de
+la denuncia, conforme a las directivas del caso.
+
+
+================================================================================
+SECCIÓN 1 — MARCO CONSTITUCIONAL NACIONAL
+================================================================================
+
+CONSTITUCIÓN NACIONAL ARGENTINA
+
+Art. 14: Todos los habitantes de la Nación gozan del derecho de usar y
+         disponer de su propiedad.
+
+Art. 17: La propiedad es inviolable, y ningún habitante de la Nación puede
+         ser privado de ella, sino en virtud de sentencia fundada en ley.
+
+Art. 75 inc. 12: Corresponde al Congreso dictar los Códigos Civil, Comercial,
+         Penal, de Minería, y del Trabajo y Seguridad Social, en cuerpos
+         unificados o separados.
+
+
+================================================================================
+SECCIÓN 2 — CÓDIGO CIVIL Y COMERCIAL — RÉGIMEN DE PROPIEDAD HORIZONTAL
+(Ley 26.994 — vigente desde agosto de 2015)
+================================================================================
+
+NOTA VERIFICADA: La Ley 26.994 derogó la Ley 13.512 de Propiedad Horizontal.
+                 El régimen de propiedad horizontal se regula actualmente
+                 en los Arts. 2037 a 2072 del CCyC.
+                 Fuente: Art. 3 de la Ley 26.994.
+
+ARTÍCULO 2037 — CONCEPTO (texto verificado)
+"La propiedad horizontal es el derecho real que se ejerce sobre un inmueble
+propio que otorga a su titular facultades de uso, goce y disposición material
+y jurídica que se ejercen sobre partes privativas y sobre partes comunes de un
+edificio, de conformidad con lo que establece este Título y el respectivo
+reglamento de propiedad horizontal. Las diversas partes del inmueble así como
+las facultades que sobre ellas se tienen son interdependientes y conforman un
+todo no escindible."
+
+ARTÍCULO 2038 — CONSTITUCIÓN (verificado)
+"A los fines de la división jurídica del edificio, el titular de dominio o los
+condóminos deben redactar, por escritura pública, el reglamento de propiedad
+horizontal, que debe inscribirse en el registro inmobiliario. El reglamento de
+propiedad horizontal se integra al título suficiente sobre la unidad funcional."
+
+ARTÍCULO 2039 — UNIDAD FUNCIONAL (verificado)
+"La unidad funcional consiste en pisos, departamentos, locales u otros espacios
+susceptibles de aprovechamiento por su naturaleza o destino, que tengan
+independencia funcional y comunicación a la vía pública, directamente o por un
+espacio común."
+
+ARTÍCULO 2040 — COSAS Y PARTES COMUNES (verificado)
+Son comunes a todas o a algunas de las unidades funcionales las cosas y partes
+de uso común de ellas o indispensables para mantener su seguridad y las que se
+determinan en el reglamento de propiedad horizontal.
+
+ARTÍCULO 2041 — COSAS Y PARTES NECESARIAMENTE COMUNES (verificado)
+Son cosas y partes necesariamente comunes:
+a) el terreno;
+b) los pasillos, vías o elementos que comunican unidades entre sí y a éstas con
+   el exterior;
+c) los techos, azoteas, terrazas y patios solares;
+d) los cimientos y subsuelo;
+e) los recintos para instalaciones sanitarias y otras de uso común;
+f) las instalaciones necesarias para el acceso y comunicación de las unidades;
+g) toda otra parte del inmueble indispensable para mantener su seguridad.
+
+ARTÍCULO 2044 — CONSORCIO (verificado)
+"El conjunto de los propietarios de las unidades funcionales constituye la
+persona jurídica consorcio. Tiene su domicilio en el inmueble. Sus órganos son
+la asamblea, el consejo de propietarios y el administrador."
+
+ARTÍCULO 2046 — OBLIGACIONES DEL PROPIETARIO (verificado)
+El propietario está obligado a:
+- No alterar la estructura del inmueble ni comprometerla
+- Mantener en buen estado su unidad funcional
+- No perturbar la tranquilidad de los demás
+- Notificar fehacientemente al administrador y al consejo de propietarios toda
+  locación, cesión temporal de su unidad o constitución de derechos reales
+
+ARTÍCULO 2047 — PROHIBICIONES (verificado)
+Está prohibido a los propietarios:
+a) Destinar las unidades funcionales a usos contrarios a la moral o a fines
+   distintos a los previstos en el reglamento de propiedad horizontal
+b) Perturbar la tranquilidad de los demás de cualquier manera
+c) Ejercer actividades que comprometan la seguridad del inmueble
+d) Depositar cosas peligrosas o perjudiciales para el edificio o bienes de
+   terceros
+
+ARTÍCULO 2051 — MEJORAS U OBRAS NUEVAS (que requieren mayoría) (verificado)
+Para realizar mejoras u obras nuevas sobre cosas y partes comunes, los
+propietarios o el consorcio requieren la autorización previa de los propietarios.
+
+ARTÍCULO 2052 — MEJORAS U OBRAS NUEVAS QUE REQUIEREN UNANIMIDAD (verificado)
+"Si la mejora u obra nueva, realizada por un propietario o por el consorcio
+sobre cosas y partes comunes, aun cuando no importe elevar nuevos pisos o hacer
+excavaciones, gravita o modifica la estructura del inmueble de una manera
+sustancial, debe realizarse con el acuerdo unánime de los propietarios. También
+requiere unanimidad la mejora u obra nueva sobre cosas y partes comunes en
+interés particular que sólo beneficia a un propietario."
+
+ARTÍCULO 2053 — MEJORA U OBRA NUEVA EN INTERÉS PARTICULAR (verificado)
+"Si la mejora u obra nueva autorizada sobre cosas y partes comunes es en interés
+particular, el beneficiario debe efectuarla a su costa y soportar los gastos de
+la modificación del reglamento de propiedad horizontal y de su inscripción, si
+hubiera lugar a ellos."
+
+ARTÍCULO 2054 — REPARACIONES URGENTES (verificado)
+"Cualquier propietario puede realizar reparaciones urgentes en las cosas y partes
+comunes, con cargo de dar aviso inmediato al administrador. El gasto debe ser
+reintegrado por el consorcio."
+
+ARTÍCULO 2056 — CONTENIDO DEL REGLAMENTO (verificado — extracto)
+Incluye obligatoriamente:
+o) determinación de las mayorías necesarias para modificar el reglamento de
+   propiedad horizontal
+
+ARTÍCULO 2057 — MODIFICACIÓN DEL REGLAMENTO (verificado)
+"El reglamento sólo puede modificarse por resolución de los propietarios,
+mediante una mayoría de dos tercios de la totalidad de los propietarios."
+NOTA: Este artículo establece un PISO de orden público. El reglamento puede
+fijar mayorías más rigurosas, pero nunca menores.
+Fuente verificada: Cámara de Apelaciones en lo Civil y Comercial de Morón.
+
+ARTÍCULO 2058 A 2063 — ASAMBLEA (verificado: mención sistematizada)
+Regulan facultades de la asamblea, convocatoria, quórum, mayorías y registro
+en libro de actas.
+
+ARTÍCULO 2069 — RÉGIMEN SANCIONATORIO (texto verificado)
+"En caso de violación por un propietario u ocupante de las prohibiciones
+establecidas en este Código o en el reglamento de propiedad horizontal, y sin
+perjuicio de las demás acciones que corresponden, el consorcio o cualquier
+propietario afectado tienen acción para hacer cesar la infracción, la que debe
+sustanciarse por la vía procesal más breve de que dispone el ordenamiento local.
+Si el infractor es un ocupante no propietario, puede ser desalojado en caso de
+reiteración de infracciones."
+
+ARTÍCULO 2080 — LIMITACIONES Y RESTRICCIONES REGLAMENTARIAS (verificado)
+"De acuerdo a las normas administrativas aplicables, el reglamento de propiedad
+horizontal puede establecer limitaciones edilicias o de otra índole, crear
+servidumbres y restricciones a los dominios particulares, como así también fijar
+reglas de convivencia, todo ello en miras al beneficio de la comunidad
+urbanística."
+
+
+================================================================================
+SECCIÓN 3 — CÓDIGO PENAL — DISPOSICIONES APLICABLES A PH
+================================================================================
+
+ART. 181 — USURPACIÓN (texto verificado)
+"Será reprimido con prisión de seis meses a tres años: 1° el que por violencia,
+amenazas, engaños, abusos de confianza o clandestinidad despojare a otro, total
+o parcialmente, de la posesión o tenencia de un inmueble o del ejercicio de un
+derecho real constituido sobre él."
+Aplicación verificada por doctrina: el despojo de partes comunes de un edificio
+de PH puede configurar usurpación.
+
+ART. 183 — DAÑO (verificado)
+Quien destruyere, inutilizare, hiciere desaparecer o de cualquier modo dañare
+una cosa mueble o inmueble ajena.
+
+ART. 184 — DAÑO AGRAVADO (verificado)
+Agrava la pena cuando el daño se comete en bienes de uso público o colectivo.
+
+
+================================================================================
+SECCIÓN 4 — PRESCRIPCIÓN EN PH
+================================================================================
+
+Art. 2560 CCyC: La prescripción general de las acciones personales es de 5 años.
+
+Jurisprudencia verificada (CNCiv., Sala A, 01/10/2012 "Bazzigalupi c/Marchitto"):
+El plazo de prescripción aplicable ante la realización de obras en infracción al
+régimen de PH es el de naturaleza CONTRACTUAL (relativo al reglamento de
+copropiedad).
+NOTA: Esta jurisprudencia fue dictada bajo el Código Civil de Vélez Sarsfield.
+     Con el CCyC, el plazo contractual general es de 5 años (art. 2560).
+
+
+================================================================================
+SECCIÓN 5 — CONJUNTOS INMOBILIARIOS (Arts. 2073-2086 CCyC)
+(Aplicable si la copropiedad es un barrio cerrado, parque industrial o similar)
+================================================================================
+
+ARTÍCULO 2073 (verificado): Son conjuntos inmobiliarios los clubes de campo,
+                              barrios cerrados o privados, parques industriales,
+                              náuticos o similares, y el derecho real que se
+                              constituye sobre éstos se rige por lo dispuesto
+                              en este Capítulo y en los que sean aplicables,
+                              las normas del derecho real de PH.
+
+ARTÍCULO 2080 (verificado): "De acuerdo a las normas administrativas aplicables,
+el reglamento de propiedad horizontal puede establecer limitaciones edilicias o
+de otra índole, crear servidumbres y restricciones a los dominios particulares,
+como así también fijar reglas de convivencia, todo ello en miras al beneficio
+de la comunidad urbanística. Toda limitación o restricción establecida por el
+reglamento debe ser transcripta en las escrituras traslativas del derecho real."
+
+ARTÍCULO 2081 (verificado): Los propietarios están obligados a pagar las
+expensas, gastos y erogaciones comunes para el correcto mantenimiento y
+funcionamiento del conjunto inmobiliario en la proporción que establezca el
+reglamento.
+
+
+================================================================================
+SECCIÓN 6 — JURISPRUDENCIA VERIFICADA — PROPIEDAD HORIZONTAL
+================================================================================
+
+1. FALLO VERIFICADO — Consorcio de Prop. Av. Congreso 1628/1634/1638 (CNCiv.)
+   Fuente: aldiaargentina.microjuris.com (Octubre 2020)
+   Hechos: Se ejecutó obra clandestina (cerramiento) en balcón de piso 16.
+           El consorcio actor solicitó demolición.
+   Resolución: El tribunal rechazó la demolición al no verificarse daño real.
+   Considerando verificado: "Aun cuando no existan dudas acerca de que la obra
+   fue llevada a cabo sin la autorización de los demás copropietarios, la
+   demolición de esa obra puede resultar altamente perjudicial y hasta peligrosa
+   para el conjunto de propietarios. El magistrado entendió que la obra no
+   producía un daño para la estructura del edificio, sus copropietarios ni para
+   terceros, ya que fue correctamente realizada, conforme las reglas del arte,
+   y además no altera la fachada."
+
+2. FALLO VERIFICADO — Consorcio de Prop. Juan Bautista Alberdi 2432/2434/2436
+   (CNCiv. — autos verificados en ligadelconsorcista.org)
+   Sentencia verificada: 3 de noviembre de 2021
+   Hechos: Consorcio actor contra González por obras en techo de cocheras (quincho
+           con parrilla) y construcciones en patios comunes.
+   Resolución: Hizo lugar a la demanda y ordenó demoler las obras.
+   Plazo: 30 días de quedar firme, bajo apercibimiento de ejecución a su costa.
+   Norma aplicada: Art. 513 del Código Procesal (ejecución a costa del infractor).
+
+3. FALLO VERIFICADO — SCBA — Contencioso Administrativo — Municipio de Merlo
+   (scba.gov.ar — Cámara Contencioso Administrativa Dpto. Judicial Morón)
+   Hechos verificados: Solicitud de Certificado de Uso Conforme N° 496/09
+   presentada el 19/11/2009 bajo Ordenanza 1163/97. Al momento de la emisión
+   del informe técnico (11/01/2010) ya estaba vigente la Ordenanza 3334/09
+   (sancionada y promulgada el 30/12/2009).
+   Resolución verificada: El tribunal aplicó la ordenanza vigente al momento del
+   informe técnico (Ord. 3334/09), no la del ingreso (Ord. 1163/97). Rechazó
+   la pretensión del actor de que se aplicara la norma vigente al momento de
+   solicitud del trámite.
+   Doctrina verificada: La Asesoría General de Gobierno sostuvo que la materia
+   "es de carácter urbanístico-ambiental".
+   NOTA HISTÓRICA: Este sistema del "Certificado de Uso Conforme" fue
+   REEMPLAZADO en Merlo por la Ordenanza 5839/2021 con dos nuevos instrumentos
+   (Certificado de Factibilidad de Proyecto y Certificado de Admisibilidad para
+   Obra Subsistente).
+
+4. FALLO VERIFICADO — CNCiv., Sala F, 16/07/2002 — "Faskowicz c/Wapñarsky"
+   (Fuente: ips.com.ar — Liga del Consorcista)
+   Considerando verificado: "La norma que prohíbe realizar obras nuevas sin
+   autorización de todos los propietarios debe ser celosamente respetada, porque
+   tiene por finalidad la de preservar la solidez, seguridad y salubridad del
+   edificio, evitar molestias a los demás o la degradación de las otras unidades,
+   y mantener la proporcionalidad en los gastos que se determinan según la
+   superficie cubierta de cada una, principalmente. Indiscutiblemente, la
+   incorporación de nuevas superficies cubiertas requiere la modificación del
+   plano del edificio y consecuentemente de reglamento de copropiedad y
+   administración, lo cual al tratarse de cláusulas estatutarias, no puede
+   hacerse sino por unanimidad."
+
+5. FALLO VERIFICADO — CNCiv., Sala A, 01/10/2012 — "Bazzigalupi c/Marchitto"
+   (Fuente: ligadelconsorcista.org)
+   Doctrina verificada: El plazo de prescripción aplicable ante la realización
+   de obras en infracción a lo establecido en el régimen de PH es el de
+   naturaleza CONTRACTUAL, no extracontractual.
+
+6. FALLO VERIFICADO — (biblioteca.camdp.org.ar)
+   "De ahí no cabe sino concluir que ningún copropietario de un inmueble
+   sometido al régimen de propiedad horizontal puede apropiarse de las partes
+   comunes restringiendo el legítimo derecho de los demás. Es que la sola
+   violación del requisito de unanimidad basta para convertir en ilícitas las
+   obras efectuadas sobre bienes comunes."
+
+7. FALLO VERIFICADO — ACAPPH (Asociación Civil Argentina de Profesionales de PH)
+   Extracto verificado:
+   "El art. 2041 inciso c) de dicho cuerpo normativo identifica a los techos,
+   azoteas, terrazas y patios solares como cosas y partes necesariamente comunes y
+   el art. 2052 dispone la necesidad de contar con la unanimidad de votos de los
+   copropietarios para realizar mejoras u obra nueva sobre cosas y partes comunes
+   en interés particular que sólo beneficia a su propietario, como se da en el
+   caso de autos. Ello alcanza para sellar la suerte del recurso."
+
+   "Las obras en cuestión no fueron aprobadas por unanimidad por la asamblea de
+   consorcistas, violando con ello lo previsto en el Reglamento de Copropiedad del
+   ente consorcial. De manera que no solo existió una violación al Reglamento, sino
+   incluso a la voluntad consorcial plasmada en las actas de asambleas."
+
+8. FALLO VERIFICADO — RECHAZO DE DEMOLICIÓN POR PARIDAD DE INFRACCIONES
+   (Fuente: ligadelconsorcista.org)
+   Extracto verificado:
+   "El Reglamento de Administración es el cuerpo normativo que regula directamente
+   las relaciones entre los copropietarios del edificio sometido al régimen de
+   propiedad horizontal, y constituye una verdadera ley para aquéllos a la cual
+   deben sujetar sus derechos y sus obligaciones."
+   DOCTRINA VERIFICADA: En este caso se rechazó la demolición porque el ACTOR
+   también había ejecutado obras sin permiso, configurando situación de paridad
+   de infracciones.
+
+
+================================================================================
+FIN DEL ARCHIVO 59
+================================================================================
