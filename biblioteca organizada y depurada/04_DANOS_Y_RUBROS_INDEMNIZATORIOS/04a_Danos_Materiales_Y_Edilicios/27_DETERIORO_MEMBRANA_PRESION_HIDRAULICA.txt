@@ -318,3 +318,114 @@ Los contenidos técnicos de este archivo sustentan:
 ================================================================================
 FIN DEL ARCHIVO 47
 ================================================================================
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — DETERIORO MEMBRANA Y PRESIÓN HIDRÁULICA:
+AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. CORRECCIÓN DE DENOMINACIÓN DEL CÓDIGO
+   En el cuerpo principal se utiliza "CCCN" como abreviatura. La denominación
+   correcta y uniforme es "CCyCN" (Código Civil y Comercial de la Nación,
+   Ley 26.994). Las referencias a Arts. 1737-1739, 1726, 1757-1758 y 2630
+   son correctas en su numeración; solo se corrige la sigla.
+
+2. CORRECCIÓN JURISDICCIONAL
+   El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL MERLO
+   (Ley 13.859/2009), con tribunales propios. La pericia técnica sobre
+   membranas y presión hidráulica se ordena ante los Juzgados Civiles y
+   Comerciales de Merlo, con sorteo de perito ingeniero civil o arquitecto
+   de la lista del Departamento Judicial Merlo.
+
+3. DATOS TÉCNICOS DE MEMBRANAS ASFÁLTICAS — AMPLIACIÓN
+   3.1 TIPOS Y VIDA ÚTIL ESTIMADA:
+       - Membrana asfáltica con aluminio (tipo I): 5-7 años.
+       - Membrana asfáltica con polietileno (tipo II): 7-10 años.
+       - Membrana asfáltica con geotextil (tipo III): 10-15 años.
+       - Membrana de PVC/TPO (termoplástica): 15-25 años.
+       NOTA: Estos valores corresponden a instalación correcta, con
+       pendiente ≥2% y sin agua estancada. El agua estancada reduce la
+       vida útil entre un 40% y 70% según tipo de membrana.
+
+   3.2 NORMAS IRAM APLICABLES:
+       - IRAM 1647: Membranas asfálticas para techos.
+       - IRAM 11.585: Impermeabilización de cubiertas planas.
+       - IRAM 11.601/11.605: Aislamiento térmico (complementario).
+       El incumplimiento de normas IRAM en la colocación agrava la
+       responsabilidad del constructor (Art. 1725 CCyCN: mayor deber
+       de previsión del profesional).
+
+   3.3 DEGRADACIÓN POR UV + AGUA ESTANCADA (EFECTO SINÉRGICO):
+       La radiación ultravioleta degrada los compuestos asfálticos
+       (envejecimiento por foto-oxidación). Cuando hay agua estancada,
+       el efecto "lente" concentra UV en los bordes del charco, generando
+       degradación acelerada en la línea de flotación. El resultado es
+       fisuración prematura y pérdida de elasticidad del manto asfáltico.
+
+4. PRESIÓN HIDROSTÁTICA — CÁLCULOS TÉCNICOS
+   4.1 FÓRMULA FUNDAMENTAL:
+       P = ρ × g × h
+       Donde: P = presión (Pa), ρ = densidad del agua (1000 kg/m³),
+       g = aceleración gravitatoria (9,81 m/s²), h = altura de columna.
+
+   4.2 PRESIONES TÍPICAS EN INSTALACIONES DOMICILIARIAS:
+       - Tanque elevado a 4 m sobre grifo: P = 1000 × 9,81 × 4 = 39.240 Pa
+         ≈ 0,39 atm ≈ 4 mca (metros de columna de agua).
+       - Tanque elevado a 8 m (edificio 2 pisos): ≈ 0,78 atm ≈ 8 mca.
+       - Presión de red (provisión directa): 2-4 atm (variable).
+
+   4.3 SOBREPRESIÓN POR GOLPE DE ARIETE:
+       La fórmula de Joukowsky: ΔP = ρ × c × ΔV
+       Donde c = velocidad de propagación de onda (≈1400 m/s en caño rígido),
+       ΔV = cambio de velocidad del fluido.
+       Para cierre brusco de flotador con V = 2 m/s:
+       ΔP = 1000 × 1400 × 2 = 2.800.000 Pa ≈ 28 atm (transitorio).
+       Este pico de presión puede dañar uniones, flexibles y soldaduras.
+
+   4.4 EFECTO DE MODIFICACIÓN DE COTA DEL TANQUE POR OBRA LINDERA:
+       Si la obra lindera eleva el tanque cisterna compartido o modifica la
+       altura de alimentación, cada metro adicional de columna de agua
+       incrementa la presión en ≈ 0,1 atm en todos los puntos de consumo
+       aguas abajo. El incremento de presión acelera:
+       - Fatiga de juntas y conexiones.
+       - Pérdida por goteo en válvulas.
+       - Riesgo de rotura de caños de polipropileno o PVC.
+
+5. NEXO CAUSAL — PRUEBA TÉCNICA (PERICIA HIDRÁULICA)
+   El perito debe determinar:
+   a) Presión antes de la obra (estimada por cota original del tanque).
+   b) Presión actual (medida con manómetro calibrado en punto de consumo).
+   c) Diferencia de cota introducida por la obra lindera.
+   d) Verificación de golpe de ariete (medición dinámica).
+   e) Estado de uniones, flexibles y caños (antigüedad vs. daño actual).
+   f) Conclusión sobre causalidad: si el incremento de presión por la obra
+      es la causa adecuada del deterioro observado (Art. 1726 CCyCN).
+
+6. MORA AUTOMÁTICA Y CARTA DOCUMENTO
+   - Art. 886 CCyCN: La mora del responsable es automática desde la
+     producción del daño en obligaciones de no hacer.
+   - Art. 2546 CCyCN: La carta documento SUSPENDE la prescripción por
+     6 meses (no la interrumpe). Transcurrido el semestre, el cómputo
+     se reanuda desde donde se había detenido.
+
+7. NORMATIVA MUNICIPAL — CÓDIGO DE EDIFICACIÓN DE MERLO
+   Las pendientes mínimas de techo (2%) y la separación de sistemas
+   pluvial/cloacal son exigencias del Código de Edificación del Partido
+   de Merlo. El incumplimiento configura infracción administrativa
+   (sancionable con multa y orden de demolición conforme Decreto-Ley
+   6769/58, Art. 27 inc. 1, Ley Orgánica Municipal PBA) y antijuridicidad
+   civil que refuerza la responsabilidad del Art. 1757 CCyCN.
+
+8. VINCULACIÓN CON REPARACIÓN PLENA (Art. 1740 CCyCN)
+   El costo de reposición de la membrana deteriorada debe incluir:
+   - Retiro de membrana dañada y preparación de superficie.
+   - Provisión y colocación de membrana nueva (según IRAM 1647).
+   - Corrección de pendientes (si la causa es falta de pendiente).
+   - Mano de obra especializada (oficial membranero).
+   - IVA + gastos generales (30%) + dirección técnica (7%).
+   Todo ello a valores actualizados al momento de la sentencia.
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 27 — DETERIORO MEMBRANA Y PRESIÓN HIDRÁULICA
+════════════════════════════════════════════════════════════════════════════════

@@ -554,3 +554,108 @@ nex_id=1099
 http://www.merlo.gob.ar/portal/Documentos/Medioambiente/ORDENANZA912-95
 .pdf
 45. Daños por filtraciones en la vivienda ¿Quién debe pagar los daños causados? -
+================================================================================
+SECCIÓN COMPLEMENTARIA — RÉGIMEN DESAGÜE Y AGUAS PLUVIALES:
+AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. CORRECCIÓN JURISDICCIONAL CRÍTICA
+   El Partido de Merlo integra el DEPARTAMENTO JUDICIAL MERLO (Ley 13.859/2009),
+   NO el Departamento Judicial Morón. Toda referencia del cuerpo principal a
+   "departamentos judiciales que abarcan Merlo (como Morón)" es INCORRECTA
+   desde diciembre de 2009. Los juzgados civiles y comerciales competentes para
+   causas de daños por desagüe pluvial en Merlo se radican en el Departamento
+   Judicial Merlo.
+
+2. EQUIVALENCIAS CÓDIGO CIVIL DEROGADO → CCyCN (Ley 26.994)
+   El viejo Código Civil (Vélez Sarsfield) regulaba las aguas en los
+   Arts. 2634 a 2638. Correspondencias actuales en el CCyCN:
+
+   Art. 2634 CC (escurrimiento natural) → Art. 2631 CCyCN: Los terrenos
+   inferiores están sujetos a recibir las aguas que naturalmente descienden
+   de los terrenos superiores. El dueño del predio superior no puede
+   realizar obras que agraven la situación del inferior.
+
+   Art. 2635 CC (obras para contener aguas) → Art. 2632 CCyCN: El dueño
+   del predio inferior puede realizar obras defensivas cuando las aguas
+   superiores sean agravadas artificialmente.
+
+   Art. 2636 CC (prohibición de derivar aguas) → Arts. 1973 y 2630 CCyCN:
+   El propietario no puede realizar obras que desvíen aguas pluviales sobre
+   el predio vecino, ni agravar la servidumbre natural existente.
+
+   Art. 2637-2638 CC (aguas pluviales) → Art. 2630 CCyCN: Los techos deben
+   construirse de modo que las aguas pluviales caigan sobre el propio
+   terreno o sobre la vía pública. No pueden derramarse hacia el vecino.
+
+3. INMISIONES — Art. 1973 CCyCN (DESARROLLO AMPLIADO)
+   El Art. 1973 CCyCN establece el límite fundamental: las molestias que
+   ocasionen humo, calor, olores, luminosidad, ruidos, vibraciones o
+   INMISIONES SIMILARES por el ejercicio de actividades en inmuebles vecinos,
+   no deben exceder la normal tolerancia teniendo en cuenta las condiciones
+   del lugar.
+
+   Aplicación al caso: El escurrimiento de aguas pluviales derivado de una
+   obra lindera que modifica pendientes y canaletas constituye una INMISIÓN
+   MATERIAL (ingreso de agua al predio vecino) que excede la normal
+   tolerancia. El juez puede disponer la cesación de la inmisión (Art. 1973
+   in fine CCyCN) además de la indemnización por daños.
+
+   LEGITIMACIÓN ACTIVA: Cualquier afectado — propietario, poseedor, tenedor,
+   o titular de derechos reales sobre el inmueble — puede accionar.
+
+4. LEY 12.257 — CÓDIGO DE AGUAS DE LA PROVINCIA DE BUENOS AIRES
+   Sancionada 09/01/1999, regula integralmente el recurso hídrico en PBA:
+
+   - Art. 5°: El agua es cosa registrable; su uso queda sujeto a las
+     disposiciones de la ley y su reglamentación.
+   - Art. 6°: La Autoridad del Agua (ADA) es el ente de aplicación.
+   - Art. 102: Todo propietario está obligado a recibir las aguas que
+     naturalmente fluyan del terreno superior (servidumbre natural).
+   - Art. 103: Prohíbe realizar obras que alteren el escurrimiento natural
+     en perjuicio de terceros sin autorización de la ADA.
+   - Art. 104: Las aguas pluviales pertenecen al dueño del predio donde
+     caen; su evacuación debe hacerse sin perjuicio de terceros.
+
+   RELEVANCIA: La violación de la Ley 12.257 por parte de quien modifica
+   escurrimientos sin autorización configura antijuridicidad formal que
+   refuerza la pretensión resarcitoria y puede motivar multas administrativas
+   ante la Autoridad del Agua de la Provincia de Buenos Aires.
+
+5. MORA Y PRESCRIPCIÓN EN DAÑOS POR AGUAS — CCyCN
+   - Art. 886 CCyCN: La mora es automática en obligaciones de no hacer
+     (no derivar aguas al predio vecino). Desde la primera derivación
+     antijurídica, el responsable está en mora sin necesidad de intimación.
+   - Art. 2561 CCyCN: Prescripción de la acción de daños = 3 años desde
+     la producción del daño o su conocimiento por la víctima.
+   - Art. 2546 CCyCN: La carta documento SUSPENDE la prescripción por el
+     término de 6 meses; NO la interrumpe. Transcurridos los 6 meses sin
+     demandar, el cómputo se reanuda (no se reinicia).
+
+6. NORMA COMPLEMENTARIA — DECRETO-LEY 6769/58 (Ley Orgánica Municipal PBA)
+   El Municipio de Merlo ejerce el poder de policía sobre desagües pluviales
+   conforme Art. 27 incs. 1, 7 y 17 del Decreto-Ley 6769/58:
+   - Reglamentación de desagües en el ejido municipal.
+   - Habilitación e inspección de obras de infraestructura.
+   - Sanción de infracciones al Código de Edificación local.
+
+7. Art. 2630 CCyCN — ESCURRIMIENTO DE AGUAS
+   "Los propietarios de inmuebles no deben modificar el escurrimiento de las
+   aguas que naturalmente corresponde a los predios inferiores, ni agravar
+   la recepción de aquellas que deben por su ubicación."
+   Este artículo es central para casos de obra lindera que modifica
+   pendientes de techo y genera derivación de pluviales hacia el vecino.
+   Opera conjuntamente con Art. 1973 (inmisiones) y Art. 1710 (prevención).
+
+8. PRUEBA PERICIAL HIDRÁULICA EN SEDE JUDICIAL (Depto. Judicial Merlo)
+   Para acreditar la derivación ilícita de aguas pluviales, el perito debe:
+   a) Relevamiento topográfico de pendientes pre y post obra.
+   b) Cálculo de caudal pluvial (método racional: Q = C×i×A).
+   c) Verificación de dimensionamiento de canaletas (Código de Edificación).
+   d) Fotografías con fecha cierta de los puntos de derivación.
+   e) Determinación del nexo causal entre la obra lindera y la inundación.
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 25 — RÉGIMEN DESAGÜE Y AGUAS PLUVIALES
+════════════════════════════════════════════════════════════════════════════════

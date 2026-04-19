@@ -1415,3 +1415,105 @@ FECHA DE ELABORACION DEL CONTENIDO INTEGRADO: 2026-04-19
 METODOLOGIA: Depuracion de contenido predictivo/supositorio. Solo datos
 verificados en fuentes consultadas + normativa de dominio publico.
 ================================================================================
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — DAÑOS POR HUMEDAD A BIENES Y EQUIPOS ELECTRÓNICOS:
+AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. CORRECCIÓN JURISDICCIONAL
+   El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL MERLO, creado por
+   Ley 13.859 (B.O. 17/12/2009). Cualquier referencia a "Departamento Judicial
+   Morón" en relación al caso debe corregirse. Los juzgados civiles y
+   comerciales competentes se radican en Merlo (no en Morón).
+
+2. CORROSIÓN ELECTROQUÍMICA — DESARROLLO TÉCNICO AMPLIADO
+   La corrosión electroquímica constituye el mecanismo principal de degradación
+   de componentes electrónicos en ambiente húmedo (>60% HR):
+
+   a) Mecanismo: En presencia de humedad condensada sobre PCBs, se forma un
+      electrolito que permite migración electrolítica entre conductores con
+      diferencia de potencial. Los iones metálicos (Cu²⁺, Sn²⁺, Ag⁺) migran
+      del ánodo al cátodo formando dendritas conductoras.
+
+   b) Tasa de corrosión: La tasa se duplica aproximadamente cada 10% de
+      incremento en humedad relativa por encima del 60%. A HR >70% sostenida
+      por más de 30 días, la formación de dendritas entre pistas de PCB con
+      separación <0,5 mm es prácticamente inevitable.
+
+   c) Productos de corrosión: Cu₂O (óxido cuproso, rojizo), CuO (óxido
+      cúprico, negro), SnO₂ (óxido de estaño), whiskers de estaño. Estos
+      compuestos aumentan la resistencia de contacto y generan cortocircuitos.
+
+   d) Irreversibilidad: Una vez iniciada la corrosión electroquímica, el daño
+      es IRREVERSIBLE. No existe reparación posible de trazas corroídas;
+      la única solución es el reemplazo completo del componente.
+
+3. IPC-A-610 — DETALLE AMPLIADO DE CLASIFICACIÓN Y CRITERIOS
+   La norma IPC-A-610 (Rev. H, 2017; Rev. I en preparación) establece:
+
+   Clase 1 — Productos electrónicos generales: Electrodomésticos, juguetes.
+   Clase 2 — Productos electrónicos de servicio dedicado: Computadoras
+             personales, equipos de telecomunicaciones, impresoras.
+   Clase 3 — Productos electrónicos de alta fiabilidad: Equipamiento médico,
+             aeroespacial, militar.
+
+   Criterios de rechazo por corrosión (IPC-A-610H, Sección 10.6):
+   - Clase 2: Cualquier evidencia de corrosión que comprometa la forma,
+     ajuste o función. Residuos blancos/verdes en terminales = defecto.
+   - Clase 3: Cualquier evidencia visible de corrosión = defecto.
+   - Para TODAS las clases: dendritas visibles entre conductores = defecto
+     crítico que implica rechazo inmediato del ensamblaje.
+
+   RELEVANCIA PROBATORIA: Un perito puede aplicar IPC-A-610 para clasificar
+   componentes de PC (GPU, motherboard, PSU) como Clase 2, demostrando que
+   cualquier corrosión visible constituye un defecto que justifica reemplazo
+   total conforme estándares internacionales de la industria.
+
+4. COMPLEMENTO NORMATIVO — CCyCN (NO Código Civil derogado)
+   - Art. 1726 CCyCN: Extensión del resarcimiento — consecuencias inmediatas
+     y mediatas previsibles (incluye daño latente en electrónica).
+   - Art. 1727 CCyCN: Tipos de consecuencias — la corrosión progresiva es
+     consecuencia mediata previsible de la humedad sostenida.
+   - Art. 1725 CCyCN: Valoración de la conducta — previsibilidad mayor para
+     quien realiza actividad constructiva (profesional).
+   - Art. 886 CCyCN: Mora automática — el deudor de obligación de no dañar
+     está en mora desde la producción del daño, sin necesidad de intimación.
+   - Art. 2546 CCyCN: La carta documento SUSPENDE la prescripción por 6 meses
+     (no la interrumpe); vencido el plazo, el cómputo se reanuda.
+
+5. PRUEBA PERICIAL EN ELECTRÓNICA — DEPARTAMENTO JUDICIAL MERLO
+   El perito designado por el Juzgado Civil y Comercial de Merlo deberá:
+   a) Inspección visual bajo lupa/microscopio (evidencia de dendritas, óxidos).
+   b) Medición de resistencia de aislamiento (MΩ) entre pistas críticas.
+   c) Fotografía macro de corrosión con escala milimétrica.
+   d) Cotejo con criterios IPC-A-610H Clase 2 para equipos informáticos.
+   e) Determinación de vida útil remanente (si existe) vs. vida útil original.
+   f) Valuación a valores de reposición actualizados (Art. 772 CCyCN).
+
+6. PRESCRIPCIÓN Y MORA EN DAÑOS CONTINUADOS
+   En daños por humedad sostenida (daño continuado), el plazo de prescripción
+   de 3 años (Art. 2561 CCyCN) se computa desde que cada daño se manifiesta.
+   Al ser un ilícito permanente, cada día de exposición genera nuevo daño y
+   nuevo dies a quo. La carta documento suspende el curso (Art. 2546 CCyCN)
+   por 6 meses; NO lo interrumpe (la interrupción borra el plazo transcurrido;
+   la suspensión solo lo detiene temporalmente).
+
+7. NORMATIVA MUNICIPAL — DECRETO-LEY 6769/58 (Ley Orgánica Municipal PBA)
+   El Municipio de Merlo tiene competencia para inspeccionar condiciones de
+   habitabilidad (Art. 27 incs. 1 y 17, Decreto-Ley 6769/58) y ordenar
+   clausuras preventivas cuando las condiciones del inmueble constituyen
+   riesgo para la salud. Las actas de inspección municipal constituyen
+   prueba documental pública de las condiciones de humedad.
+
+8. CUANTIFICACIÓN DE EQUIPOS — CRITERIO DE REPOSICIÓN
+   Conforme Art. 1740 CCyCN (reparación plena), el costo de reposición debe
+   calcularse a valores de mercado al momento de la sentencia. Para hardware
+   informático discontinuado, se toma el valor del equivalente funcional
+   actual más cercano. No procede deducción por amortización o uso previo
+   cuando el daño es imputable al demandado (SCBA, doctrina "Barrios").
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 24 — DAÑOS POR HUMEDAD A BIENES Y EQUIPOS ELECTRÓNICOS
+════════════════════════════════════════════════════════════════════════════════
