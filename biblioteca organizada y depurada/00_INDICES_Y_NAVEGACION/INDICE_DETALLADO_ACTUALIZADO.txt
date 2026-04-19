@@ -206,8 +206,15 @@ construcción. Se divide en tres subcarpetas temáticas.
     Análisis técnico exhaustivo de CIRSOC 101 y 201: definición de cargas
     permanentes y sobrecargas, tanque de 750 kg como carga concentrada,
     verificación de flecha en losa. Aborda la depresión de losa como indicio
-    de sobreexigencia. Consultarlo como base técnica para peritaje de
-    ingeniero estructural y para argumentar obligatoriedad del cálculo previo.
+    de sobreexigencia. Incluye evolución cronológica año por año de los
+    reglamentos CIRSOC (2023-2026), tabla de sobrecargas por tipo de uso,
+    marco provincial de adopción CIRSOC (Decreto-Ley 8912/77, Ley 13.059,
+    Decreto 1094/2024), tablas comparativas anuales para Provincia y Merlo,
+    responsabilidad civil del constructor (Arts. 1275, 1382-1384 CCCN),
+    clasificación legal de incumplimientos por jurisdicción, y costos de
+    trámites profesionales y municipales. Consultarlo como base técnica para
+    peritaje de ingeniero estructural y para argumentar obligatoriedad del
+    cálculo previo.
 
   ► 19_PERMISOS_Y_DOCUMENTACION_REQUERIDA_OBRA.txt
     Listado exhaustivo de permisos municipales, provinciales y documentación
