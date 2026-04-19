@@ -188,6 +188,21 @@ construcción. Se divide en tres subcarpetas temáticas.
     como referencia rápida de toda la normativa de fondo aplicable al caso,
     organizada por jerarquía y materia.
 
+  ► 59_REGIMEN_PROPIEDAD_HORIZONTAL_NORMATIVO_Y_JURISPRUDENCIAL.txt
+    Régimen completo de propiedad horizontal con textos verificados del CCyC:
+    Arts. 2037-2069 (concepto, constitución, unidad funcional, cosas comunes,
+    obligaciones, prohibiciones, mejoras con mayoría/unanimidad, reparaciones
+    urgentes, reglamento, asamblea, régimen sancionatorio Art. 2069),
+    Art. 2080 (limitaciones reglamentarias), Arts. 2073-2086 (conjuntos
+    inmobiliarios), Código Penal aplicable a PH (usurpación Art. 181, daño
+    Arts. 183-184), prescripción en PH (5 años, doctrina "Bazzigalupi c/
+    Marchitto"), y 8 fallos verificados (Consorcio Av. Congreso 2020,
+    Consorcio J.B. Alberdi 2021, SCBA Merlo contencioso, "Faskowicz c/
+    Wapñarsky" 2002, ACAPPH sobre unanimidad, rechazo por paridad de
+    infracciones). Consultarlo para fundamentar acciones en régimen de PH,
+    invocar régimen sancionatorio y precedentes de demolición u obras sin
+    autorización en cosas comunes.
+
   ┌──────────────────────────────────────────────────────────────────────────┐
   │ 03c_Normativa_Tecnica                                                    │
   └──────────────────────────────────────────────────────────────────────────┘
@@ -479,6 +494,18 @@ la prueba hasta precedentes favorables descargables.
     para asegurar la producción de prueba previa a la demanda y documentar
     fehacientemente el estado del inmueble.
 
+  ► 58_VALOR_PROBATORIO_FOTOGRAFIAS_JUICIOS_EDILICIOS.txt
+    Valor probatorio de fotografías en juicios por daños edilicios en la PBA:
+    marco legal (Arts. 354, 375, 384 CPCCBA; Arts. 286-287 CCyC), precedente
+    SCBA "Stratico c/ Ferrovías" (2016) con doctrina sobre documentos no
+    instrumentales, caso "Consorcio Pueyrredón c/ MABE" (2022) sobre fotos
+    certificadas notarialmente, resolución administrativa PBA sobre eficacia
+    probatoria, jurisprudencia de redes sociales ("Gemma Trading c/ Novopixe",
+    Azul 2024; STJ Entre Ríos 2022; CNTrabajo 2025), actas notariales (Colegio
+    Escribanos CABA 2022; Resolución Corrientes) y síntesis de requisitos por
+    tipo de fotografía (simple, certificada, redes sociales). Consultarlo para
+    fundamentar la oferta de prueba fotográfica y anticipar impugnaciones.
+
 
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  07_HERRAMIENTAS_PROCESALES                                                  ║
@@ -597,6 +624,27 @@ Normativa técnica municipal específica de Merlo: requisitos de servicios
     ante el municipio, acreditar el conocimiento oficial del riesgo y habilitar
     la vía de amparo o cautelar contra la administración.
 
+  ► 60_PROCEDIMIENTOS_EDILICIOS_PH_MERLO_ARBA.txt
+    Procedimientos edilicios verificados para el Partido de Merlo en contexto
+    de propiedad horizontal: Constitución PBA (Arts. 191-192), Dec.-Ley
+    6769/58 (Arts. 24, 25, 27, 107, 108 — Ley Orgánica Municipalidades),
+    Ordenanza General 267/80 (procedimiento administrativo municipal),
+    normativa catastral ARBA para PH (7 resoluciones normativas incluyendo
+    RN 69/15, RN 63/14, RN 26/2023, RN 14/2024), trámites catastrales PH
+    (actualización de estado constructivo, aprobación de plano, vigencia
+    parcelaria), cadena normativa de Merlo (Ords. 2589/84, 5801/2020,
+    5802/2020, 5839/2021 arts. 1°-8°, 5840/2021), Certificados de
+    Factibilidad de Proyecto y Admisibilidad para Obra Subsistente,
+    documentación completa para carpeta de obra (Art. 7° Ord. 5839),
+    5 tipos de planos requeridos, multas y sanciones (Art. 8°), régimen
+    tributario municipal (Ord. Fiscal 5410/16), procedimiento paso a paso
+    para regularización de obras subsistentes, datos de contacto
+    institucional verificados (Dirección Obras, CAUBA D3 Merlo, HCD, ARBA,
+    Registro Propiedad) y zonas de incertidumbre declaradas. Consultarlo
+    para tramitación de obras en PH, regularización de obras subsistentes,
+    acreditar incumplimientos del demandado ante normativa municipal vigente
+    y fundamentar el carácter clandestino de la obra.
+
 
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  10_REVISION_VACIOS_Y_CONTROL                                                ║
@@ -625,7 +673,7 @@ calidad documental del proyecto.
 INFORMACIÓN TÉCNICA
 ════════════════════════════════════════════════════════════════════════════════
 
-  Total de archivos .............. 59
+  Total de archivos .............. 62
   Total de carpetas principales .. 11
   Total de subcarpetas ........... 6
   Total de carpetas (todas) ...... 17

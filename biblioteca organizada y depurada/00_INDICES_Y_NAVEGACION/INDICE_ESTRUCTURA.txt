@@ -32,7 +32,8 @@ biblioteca organizada y depurada/
 │   │   ├── 13_MARCO_LEGAL_DANOS_OBRA_VECINA.txt
 │   │   ├── 14_RESPONSABILIDAD_MUNICIPAL_POR_OMISION.txt
 │   │   ├── 15_MARCO_LEGAL_Y_RESPONSABILIDAD_CIVIL.txt
-│   │   └── 16_NORMATIVA_CONSTITUCIONAL_CIVIL_PROFESIONAL_MUNICIPAL.txt
+│   │   ├── 16_NORMATIVA_CONSTITUCIONAL_CIVIL_PROFESIONAL_MUNICIPAL.txt
+│   │   └── 59_REGIMEN_PROPIEDAD_HORIZONTAL_NORMATIVO_Y_JURISPRUDENCIAL.txt
 │   │
 │   └── 03c_Normativa_Tecnica/  — Reglamentación CIRSOC, permisos, construcción y habitabilidad
 │       ├── 17_NORMATIVA_CONSTRUCCION_INMUEBLES_LINDEROS.txt
@@ -73,7 +74,8 @@ biblioteca organizada y depurada/
 │   ├── 40_REGIMEN_PROBATORIO_Y_PERICIAL.txt
 │   ├── 41_PERICIAS_REALES_JURISPRUDENCIA_CASOS.txt
 │   ├── 42_PRUEBA_PERICIAL_PSICOLOGICA_MEDICA_TECNICA.txt
-│   └── 43_ACTA_NOTARIAL_CONDICION_PREVIA_MEDIACION.txt
+│   ├── 43_ACTA_NOTARIAL_CONDICION_PREVIA_MEDIACION.txt
+│   └── 58_VALOR_PROBATORIO_FOTOGRAFIAS_JUICIOS_EDILICIOS.txt
 │
 ├── 07_HERRAMIENTAS_PROCESALES/  — Tutela anticipada, cautelares, amparo, caducidad y recursos
 │   ├── 44_CELERIDAD_PROCESAL_Y_TUTELA_ANTICIPADA.txt
@@ -91,13 +93,14 @@ biblioteca organizada y depurada/
 │
 ├── 09_NORMATIVA_URBANISTICA_SERVICIOS_MERLO/  — Requisitos técnicos de servicios, urbanismo e instalaciones en Merlo
 │   ├── 54_REQUISITOS_SERVICIOS_URBANISMO_INSTALACIONES_MERLO.txt
-│   └── 55_DENUNCIA_MUNICIPAL_DATOS_INSTITUCIONALES_MERLO.txt
+│   ├── 55_DENUNCIA_MUNICIPAL_DATOS_INSTITUCIONALES_MERLO.txt
+│   └── 60_PROCEDIMIENTOS_EDILICIOS_PH_MERLO_ARBA.txt
 │
 └── 10_REVISION_VACIOS_Y_CONTROL/  — Informes de auditoría interna, vacíos y eliminación de duplicados
     ├── 56_INFORME_DE_REVISION_VACIOS_Y_OMISIONES.txt
     └── 57_INFORME_DUPLICADOS_ELIMINADOS.txt
 
 ════════════════════════════════════════════════════════════════════
-Total: 59 archivos en 11 carpetas principales y 6 subcarpetas
+Total: 62 archivos en 11 carpetas principales y 6 subcarpetas
 Última reorganización: 19 de abril de 2026
 ════════════════════════════════════════════════════════════════════

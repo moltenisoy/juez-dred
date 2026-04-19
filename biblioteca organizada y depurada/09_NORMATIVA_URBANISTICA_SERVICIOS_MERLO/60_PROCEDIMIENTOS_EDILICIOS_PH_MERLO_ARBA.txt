@@ -1,0 +1,541 @@
+================================================================================
+ARCHIVO 60 — PROCEDIMIENTOS EDILICIOS, PROPIEDAD HORIZONTAL Y ARBA
+PARTIDO DE MERLO — PROVINCIA DE BUENOS AIRES
+================================================================================
+Fuente: Archivo suelto "INFORME_JURIDICO_VERIFICADO_MERLO_PH_EDIFICACION.txt"
+        incorporado a la biblioteca organizada y depurada (abril 2026).
+Metodología: Investigación en fuentes primarias directas (textos de ley,
+             boletines oficiales, sitios institucionales). Todo dato sin
+             fuente primaria verificable fue excluido de este informe.
+================================================================================
+
+NOTA SOBRE POLÍTICA DE CONTENIDO: Este archivo NO incluye contenido sobre
+seguros/aseguradora del denunciado ni sobre realizar reparaciones antes de
+la denuncia, conforme a las directivas del caso.
+
+
+================================================================================
+SECCIÓN 1 — MARCO LEGAL PROVINCIAL APLICABLE
+================================================================================
+
+CONSTITUCIÓN DE LA PROVINCIA DE BUENOS AIRES
+
+Art. 191: Los municipios ejercen el poder de policía en su territorio.
+Art. 192: Las ordenanzas deben responder a conceptos de sanidad, seguridad y
+          protección.
+
+--------------------------------------------------------------------------------
+DECRETO-LEY 6769/58 — LEY ORGÁNICA DE LAS MUNICIPALIDADES
+(Texto verificado en fuente oficial: normas.gba.gob.ar)
+--------------------------------------------------------------------------------
+
+ART. 24 (verificado): Las ordenanzas corresponden con exclusividad al Concejo
+                       Deliberante.
+
+ART. 25 (verificado): Las ordenanzas deben responder a los conceptos de sanidad,
+                       seguridad, protección y demás estimaciones encuadradas en
+                       su competencia constitucional, coordinadas con las
+                       atribuciones provinciales y nacionales.
+
+ART. 27 (texto según Dec.-Ley 9117/78, verificado): Corresponde a la función
+deliberativa municipal reglamentar:
+1. La radicación, habilitación y funcionamiento de establecimientos comerciales
+   e industriales
+2. El trazado, apertura, rectificación, construcción y conservación de calles,
+   caminos, puentes, túneles, plazas y paseos públicos y las delineaciones y
+   niveles en situaciones no comprendidas en la competencia provincial
+
+ART. 107 (verificado): La administración general y la ejecución de las ordenanzas
+                         corresponde exclusivamente al Departamento Ejecutivo.
+
+ART. 108 INC. 4 Y 5 (verificado): El Intendente municipal está facultado para
+adoptar medidas preventivas para evitar incumplimientos a las ordenanzas de orden
+público, estando facultado para clausurar edificios.
+
+TEXTO VERIFICADO DEL SISTEMA DE BOLETINES OFICIALES MUNICIPALES (sibom.gba.gov.ar)
+SOBRE PODER DE POLICÍA EDILICIO:
+"Las potestades de policía edilicia de las Municipalidades para cuestionar,
+controlar y fiscalizar la aprobación y ejecución de obras particulares edilicias
+no son sólo una mera atribución legal, sino un deber constitucional e
+irrenunciable, en tanto garantiza la convivencia y la buena vecindad, y para
+ampliar tal cometido las Comunas cuentan con facultades de inspección y
+vigilancia y, de corresponder, han de adoptar, razonablemente, todas aquellas
+medidas que resulten necesarias para evitar transgresiones reglamentarias
+(v.gr., clausura preventiva, desocupaciones, demoliciones, etc.)"
+Fuente verificada: SBOM Provincia de Buenos Aires.
+
+--------------------------------------------------------------------------------
+ORDENANZA GENERAL 267/80 — PROCEDIMIENTO ADMINISTRATIVO MUNICIPAL
+(Sancionada por el Gobernador en ejercicio de facultades de los Departamentos
+Deliberativos Municipales. Fuente verificada: normas.gba.gob.ar)
+--------------------------------------------------------------------------------
+
+ART. 1°: Las normas de esta Ordenanza General regularán el procedimiento para
+         obtener una decisión o una prestación de la administración municipal y
+         el de producción de sus actos administrativos. Será de aplicación
+         supletoria en las tramitaciones administrativas municipales con regímenes
+         especiales.
+
+ART. 2°: Las actuaciones cuya resolución corresponda a la Municipalidad, deberán
+         ser iniciadas ante el órgano comunal competente.
+
+ART. 3°: La competencia de los órganos de la Municipalidad se determinará por la
+         Constitución de la Provincia, la Ley Orgánica de las Municipalidades y
+         las ordenanzas y decretos que se dicten en su consecuencia.
+
+ART. 38°: Los documentos y planos que se presenten, excepto los croquis, deberán
+          ser firmados por profesionales inscriptos en la matrícula, cuando así lo
+          exija la ley de reglamentación de las profesiones correspondientes.
+
+ART. 95°: En caso de que, por una medida de carácter general, la autoridad
+          administrativa perjudicase derechos privados, deberá acudirse
+          individualmente a la misma autoridad que dictó la medida general,
+          reclamando de ella, dentro del plazo de treinta (30) días a partir de
+          la última publicación o de su notificación.
+
+
+================================================================================
+SECCIÓN 2 — ARBA — NORMATIVA CATASTRAL PARA PROPIEDAD HORIZONTAL
+(Fuente: web.arba.gov.ar/biblioteca-legal/normativas-vigentes-permanente-catastro
+ y www.arba.gov.ar/GuiaTramites/)
+================================================================================
+
+NORMATIVAS VIGENTES DE CARÁCTER PERMANENTE — CATASTRO Y GEODESIA (verificadas):
+
+1. Resolución Normativa 69/15 ARBA: Hasta tanto se reglamente el CCyC en materia
+   de PH y Conjuntos Inmobiliarios, se aplica el Decreto Provincial 2489/63.
+
+2. Resolución Normativa 63/14 ARBA: Regula la modificación del estado constructivo
+   de las unidades funcionales a construir o en construcción.
+
+3. Disposición 6010/02 ex Dirección Provincial de Catastro Territorial:
+   Regula modificación del estado constructivo de unidades funcionales.
+
+4. Decreto 947/2004: Modifica Decreto 2489/63. Regula modificación del estado
+   constructivo de UF originadas por el régimen de la Ley 13.512 en clubes de
+   campo y barrios cerrados.
+
+5. Resolución Normativa 24/18 ARBA: Derecho de Propiedad Horizontal Especial
+   (Conjuntos Inmobiliarios). Establece pautas de aprobación y registración de
+   documentos cartográficos para constitución del derecho real de Conjuntos
+   Inmobiliarios.
+
+6. Resolución Normativa 26/2023 ARBA: Regula nuevos modelos de cédulas
+   catastrales de inmuebles sometidos al régimen de PH, registración de altas y
+   modificaciones de partidas y asignación de nuevas nomenclaturas catastrales.
+
+7. Resolución Normativa 14/2024 ARBA: Regularizaciones de dominio de interés
+   social. Artículo 11 bis de la Ley N° 10707.
+
+TRÁMITE CATASTRAL VERIFICADO — ACTUALIZACIÓN DE ESTADO CONSTRUCTIVO EN PH
+(Fuente: www.arba.gov.ar — Guía de Trámites):
+"Permite registrar las modificaciones realizadas sobre el estado constructivo
+y/o actualizar superficie edificada de una Unidad Funcional o Complementaria."
+REQUISITOS:
+- Tener el Plano de Obra Aprobado por el Municipio respectivo (en caso de no
+  presentar modificación en planta urbana, no es necesario)
+- Profesional debe estar empadronado, activo y no inhabilitado por el colegio
+  correspondiente
+- Comprobante informativo
+- Nota de solicitud por Decreto 947
+- Plano de obra aprobado (intervenido por el respectivo municipio)
+- Actuación notarial (que acredite facultad de los titulares de dominio)
+
+TRÁMITE CATASTRAL — APROBACIÓN DE PLANO DE PH (verificado):
+"Es el trámite por el cual, al plano presentado, se le realizan los controles
+que aseguren cumpla con lo dispuesto en la Ley de PH, asegurando, además la
+concordancia entre el estado constructivo de la parcela y sus datos dominiales."
+REQUISITOS VERIFICADOS:
+- Informe de dominio (expedido por la Dirección Provincial del Registro de la
+  Propiedad referido al inmueble a subdividir)
+- Plano de obra original (una copia simple con la constancia de intervención
+  municipal)
+- Copia del plano visada por el Colegio de Ingenieros o Caja de Agrimensores
+  o constancia de visado digital
+
+VIGENCIA DEL ESTADO PARCELARIO EN PH (verificado):
+- 6 años para unidades funcionales en Planta Baja
+- 12 años para Unidades Funcionales en restantes Plantas
+
+NOTA VERIFICADA: La Ley 13.512 fue derogada al sancionarse el CCyC en 2014.
+La Resolución Normativa 69/15 de ARBA hace notar que subsiste la aplicación
+de las normas del Decreto Provincial 2489/63 mientras no se dicte nueva
+reglamentación provincial que adecúe el régimen al CCyC.
+
+
+================================================================================
+SECCIÓN 3 — CADENA NORMATIVA MUNICIPAL DE MERLO — OBRAS Y EDIFICACIÓN
+================================================================================
+
+Fuentes: Boletines Oficiales del Municipio de Merlo Nros. 59/2021 y 68/2021,
+         accedidos directamente en pdf oficial de merlo.gob.ar
+
+ORDENANZA 2589/84 (VIGENTE):
+Establece que las tareas de proyecto, confección y trámite de aprobación de
+planos de obras de viviendas que no superen los 70m2 pueden ser ejecutadas, sin
+costo alguno para los beneficiarios, por el equipo de profesionales dependientes
+de la Secretaría de Obras y Servicios Públicos.
+Condición para acogerse: ser titular (acreditado) y vivienda hasta 70m2.
+Fuente verificada: Boletín Oficial de Merlo N° 68 (Oct. 2021) — Ordenanza 5832.
+
+ORDENANZA 5801/2020 — "AUTORIZA NUEVA ZONIFICACIÓN EN EL PARTIDO DE MERLO"
+Promulgada por Decreto N° 3434
+Publicada en Boletín Oficial de Merlo N° 59 (Enero 2021), páginas 173-189.
+Estado: VIGENTE
+Contenido: Nuevo esquema de zonificación del partido de Merlo.
+NOTA: El texto completo de los indicadores urbanísticos (FOT, FOS, densidades,
+      alturas) por zona NO está disponible en fuentes digitales públicas.
+      Debe consultarse en la Dirección de Planeamiento o en CAUBA D3.
+
+ORDENANZA 5802/2020 — "REFORMULACIÓN DEL CÓDIGO DE EDIFICACIÓN"
+Promulgada por Decreto N° 3435
+Publicada en Boletín Oficial de Merlo N° 59 (Enero 2021), páginas 191-219.
+Estado: VIGENTE (modificada parcialmente por Ordenanza 5839/2021)
+Contenido: Código de Edificación base de Merlo, reformulado.
+
+ORDENANZA 5839/2021 — "MODIFICACIONES AL CÓDIGO DE EDIFICACIÓN"
+Promulgada por Decreto N° 4024/21
+Publicada en Boletín Oficial de Merlo N° 68 (Octubre 2021), páginas 47-81.
+Estado: VIGENTE
+Fuente verificada: Texto completo accedido en pdf merlo.gob.ar
+
+ARTÍCULO 1° (verificado):
+"Autorízase, a partir de la sanción de la presente ordenanza, la implementación
+de los siguientes artículos que reemplazarán los mencionados en el Código de
+Edificación y Ordenanzas vigentes."
+
+ARTÍCULO 4° (verificado — FUNDAMENTAL PARA COPROPIEDAD/PH):
+"Facúltase al Departamento Ejecutivo, a analizar y resolver todas las cuestiones
+que surjan a raíz de los cambios surgidos producto de la presente ordenanza,
+analizando cada proyecto en particular y dictaminando el proceder del mismo,
+considerando dentro de los mismos, aquellos casos en los que se cuente con plano
+aprobado anterior a la presente ordenanza y se pretenda ampliar tomando los nuevos
+indicadores. En estos casos particulares EL CAMBIO DE INDICADORES NO HABILITA
+BAJO NINGÚN CONCEPTO AL PROFESIONAL NI AL PROPIETARIO A INCORPORAR SUPERFICIE
+SIN PERMISO."
+
+ARTÍCULO 5° (verificado — AMPLIACIONES CON PLANOS APROBADOS ANTERIORES):
+"Todas aquellas obras que cuenten con Plano Aprobado anterior a la presente
+ordenanza podrán presentar sus propuestas de ampliación a construir tomando los
+nuevos indicadores. Las propuestas serán evaluadas por el Departamento Ejecutivo,
+quien dictaminará si corresponde o no la aceptación de la nueva presentación de
+ampliación. A tal fin las presentaciones deberán dar cumplimiento a los
+siguientes requerimientos:
+a) Plano de antecedentes
+b) Propuesta de ampliación, plantas, vistas, cortes, detalles constructivos y
+   toda aquella documentación gráfica necesaria para poder comprender la propuesta
+   en formato municipal
+c) Planos de estructuras de la propuesta de ampliación
+d) Cálculos de estructuras, de toda aquella superficie a incorporar
+e) Informe técnico realizado por un profesional de la ingeniería, el que deberá
+   incluir análisis del comportamiento de las estructuras resistentes, basado en
+   un ensayo de cargas en que se deberán constatar las magnitudes aplicadas en el
+   ensayo y de las deformaciones registradas. Además deberá informar sobre la
+   estabilidad y seguridad que presentase la construcción y de las medidas técnicas
+   que corresponda adoptar para la ampliación de superficie, detallando si la
+   propuesta presentada en metros cuadrados según el destino es posible de
+   incorporar.
+El Departamento Ejecutivo a través de sus oficinas técnicas, podrá verificar los
+estudios y documentación presentada dictaminando si el mismo es aceptado para
+comenzar la tramitación de ampliación o si el mismo es rechazado por
+incumplimiento de las normas vigentes o falta de documentación que avale la
+estabilidad estructural del edificio y la seguridad de todos los ciudadanos.
+La respuesta e informe que realice el Departamento Ejecutivo, será inapelable."
+
+ARTÍCULO 6° (verificado — SELLO DE DEMOLICIÓN):
+"Facúltase al Departamento Ejecutivo a implementar el Sello 'SUJETO A DEMOLICIÓN'
+dejando a su criterio la aplicación del mismo para aquellos casos que incurran en
+faltas graves."
+
+
+================================================================================
+SECCIÓN 4 — CERTIFICADOS DE FACTIBILIDAD Y ADMISIBILIDAD (ORD. 5839/2021)
+================================================================================
+
+A) CERTIFICADO DE FACTIBILIDAD DE PROYECTO
+   Para: obra nueva a construir, ampliación o refacción
+   El profesional lo tramita antes de iniciar la carpeta de obra.
+   Requisitos:
+   - Plano de antecedente (si corresponde)
+   - Plano de PH (si es necesario)
+   - Plano de unificación (si es necesario)
+   - Una copia de plano del anteproyecto
+   - Pago de sellado según Ordenanza Impositiva vigente
+   Vigencia: 6 meses desde la fecha de aprobación
+   Objetivo verificado textualmente: "evaluar los criterios de diseños y
+   justificación en los aspectos formales, funcionales, técnicos y estéticos"
+   ADVERTENCIA LEGAL EXPRESA EN EL TEXTO: "La admisibilidad de dicho certificado
+   no da derecho a construir ni demoler."
+   CONSECUENCIA verificada: Si se detecta inicio de obra nueva o demolición sin
+   permiso, quedará a criterio del Departamento Ejecutivo la vigencia del
+   certificado y la aplicación de multas al profesional interviniente.
+   MODIFICACIÓN POSTERIOR verificada: Luego de aprobado el Certificado de
+   Factibilidad, si el proyecto sufre modificaciones al ingresar la carpeta, se
+   acepta el ingreso siempre que no se superen los indicadores urbanísticos.
+
+B) CERTIFICADO DE ADMISIBILIDAD PARA OBRA SUBSISTENTE
+   Para: registración de construcciones existentes (obras sin permiso previo)
+   Requisitos:
+   - Plano de antecedente
+   - Una copia de plano de PH
+   - Una copia de plano de unificación (si corresponde)
+   - Una copia del plano municipal a registrar
+   - Pago de sellado según Ordenanza Impositiva
+   Nota verificada textualmente: "De este modo queda sin efecto el informe de
+   zonificación, el cual es sustituido por el Certificado de Factibilidad de
+   proyecto y por el Certificado de Admisibilidad de obra subsistente,
+   respectivamente."
+
+
+================================================================================
+SECCIÓN 5 — DOCUMENTACIÓN PARA OBRA EN MERLO (ART. 7° ORD. 5839/2021)
+================================================================================
+
+DOCUMENTACIÓN PARA INICIAR CARPETA DE OBRA (verificada):
+1. Carpeta Municipal reglamentaria
+2. Escritura o boleto de compraventa sellado
+3. Fotocopia de DNI de los titulares
+4. Certificado de amojonamiento o plano de mensura (obra a construir)
+5. Revalúo actualizado (presentado en ARBA)
+6. Plano de antecedente municipal
+7. Certificado de Factibilidad de Proyecto o Certificado de Admisibilidad para
+   Obra Subsistente (según corresponda)
+8. Factibilidad de infraestructura de servicios sanitarios
+9. Factibilidad de EDENOR (a partir de obras con 6 o más unidades funcionales)
+10. Libre de deuda de Tasas Municipales
+11. Libre de deuda de Faltas contravencionales
+12. Planilla de Estadísticas
+
+DOCUMENTACIÓN PARA CONFORMAR EXPEDIENTE DE OBRA (verificada):
+Todos los anteriores, más:
+- Escritura o boleto de compraventa
+- Certificado de amojonamiento o plano de mensura (obra nueva a construir)
+- Fotocopia de DNI de el/los propietarios
+- Revalúo Actualizado presentado previamente en ARBA
+- Certificado de Factibilidad de Proyecto o Certificado de Admisibilidad
+- Plano de Antecedente municipal (si corresponde)
+- Plano de PH (si corresponde)
+- Copia de plano visado por la Dirección de Planeamiento
+- Copia de plano visado por la Dirección de Obras Particulares
+- Planilla de Derechos de Construcción / Libre de deuda de derecho de construcción
+- Copia de plano visado por el Colegio Profesional correspondiente (CAUBA D3)
+- 1 copia original en calco
+- 5 copias heliográficas
+- Certificado de desratización (en caso de demolición total)
+- Para obra nueva: nuevo revalúo actualizado junto a la presentación del plano
+  Conforme a Obra y/o Final de Obra
+
+TIPOS DE PLANOS REQUERIDOS (verificados — Art. 7° Ord. 5839/2021):
+PLANO 1 — DEMOLICIÓN: escala 1:100 de superficie a demoler; con corte mínimo
+          1:100 acotado para verificar alturas
+PLANO 2 — ARQUITECTURA: plantas, vistas y cortes en esc. 1:100; detalles de
+          escaleras en esc. 1:20; Pulmón de Manzana en esc. 1:1000; Siluetas de
+          superficies en esc. 1:200; planilla de superficie; planilla de
+          indicadores urbanísticos; detalle de premios (obra nueva); planilla de
+          iluminación y ventilación
+PLANO 3 — ESTRUCTURAS: esc. 1:100; todos los elementos estructurales enumerados
+          (bases, columnas, vigas, losas, etc.); detalle 1:20 de bases
+PLANO 4 — INCENDIO: requerido para edificios con más de 6 unidades funcionales
+          (independientemente del destino), plantas industriales, o los que a
+          consideración de la Dirección de Obras Particulares requieran por
+          seguridad. Debe estar visado por el Departamento Técnico del Cuerpo de
+          Bomberos Voluntarios del Partido de Merlo y/o firmado por un Licenciado
+          en Seguridad e Higiene debidamente colegiado.
+PLANO 5 — ELECTROMECÁNICO: según lo establecido en el artículo de instalaciones
+          electromecánicas de la misma ordenanza
+
+
+================================================================================
+SECCIÓN 6 — MULTAS, SANCIONES Y RÉGIMEN TRIBUTARIO APLICABLE A OBRAS
+================================================================================
+
+ARTÍCULO 8° ORD. 5839/2021 — MULTAS, RECARGOS, SANCIONES Y PENALIDADES:
+"La aplicación de penalidades, sanciones, multas y/o recargos no exime a los
+afectados del cumplimiento estricto de las disposiciones en rigor y de la
+corrección en el plazo que se fije, de las irregularidades que las motivaron,
+bajo apercibimiento de la aplicación de nuevas sanciones por incumplimiento."
+
+"La suspensión de la firma de los profesionales, constructores y empresas,
+significará la prohibición de presentar planos o construir o instalar obras
+nuevas hasta tanto la pena sea cumplida, pudiendo continuar el trámite de los
+expedientes iniciados antes de la aplicación de la misma, así como las obras
+con permiso concedido."
+
+RÉGIMEN ESPECIAL PARA OBRAS EN BARRIOS PRIVADOS, CLUBES DE CAMPO Y COUNTRIES:
+"Cuando se detecte la presentación espontánea y/o con intervención municipal de
+toda aquella construcción ubicada dentro de Barrios Privados, Clubes de Campo
+y/o Countries con superficies mayores a 100 m2, se tomará como valor referencial
+del módulo para el cálculo de los derechos de construcción, el máximo que se
+estipule en la Ordenanza Impositiva vigente al momento de la liquidación."
+
+ORDENANZA 5840/2021 — "MODIFICACIONES AL CÓDIGO DE ZONIFICACIÓN"
+Promulgada por Decreto N° 4025/21
+Publicada en Boletín Oficial de Merlo N° 68 (Octubre 2021), páginas 83-109.
+Estado: VIGENTE
+Fuente verificada: Boletín Oficial de Merlo N° 68
+
+RÉGIMEN TRIBUTARIO MUNICIPAL (Ordenanza Fiscal 5410/16):
+"Las mejoras que se introduzcan en inmuebles sobre la base de planos aprobados,
+se incorporarán a la categoría correspondiente a los fines del cobro de la tasa,
+a los veinticuatro (24) meses de la fecha de la aprobación salvo que antes
+hubieran obtenido el Certificado de Inspección final o se encontraren en
+condiciones de ser habilitados total o parcialmente, en cuyo caso se incorporarán
+de inmediato."
+
+"Las mejoras introducidas sin la correspondiente autorización Municipal que sean
+aprobadas en [el procedimiento de regularización correspondiente...]" generan
+efecto tributario desde el momento del hecho.
+
+
+================================================================================
+SECCIÓN 7 — PROCEDIMIENTO PARA REGULARIZACIÓN DE OBRAS SUBSISTENTES EN MERLO
+(Conforme Ordenanza 5839/2021)
+================================================================================
+
+PASO 1: Contratar un arquitecto con matrícula provincial y municipal activa
+        (registrado en CAUBA D3, Delegación Merlo)
+
+PASO 2: El profesional tramita el CERTIFICADO DE ADMISIBILIDAD PARA OBRA
+        SUBSISTENTE ante la Dirección de Obras Particulares de Merlo.
+        Documentación requerida (verificada):
+        - Plano de antecedente
+        - Copia de plano de PH (si corresponde)
+        - Copia de plano de unificación (si corresponde)
+        - Copia del plano municipal a registrar
+        - Pago de sellado según Ordenanza Impositiva vigente
+
+PASO 3: Si el Certificado es favorable, el profesional prepara la carpeta de
+        obra completa con toda la documentación del Art. 7° de la Ord. 5839/2021.
+
+PASO 4: Se obtiene el visado del CAUBA D3 (Delegación Merlo, Arq. Reggio).
+
+PASO 5: Se presenta la carpeta ante la Dirección de Obras Particulares de Merlo.
+
+PASO 6: Se abona la Planilla de Derechos de Construcción según la Ordenanza
+        Impositiva vigente.
+
+PASO 7: Una vez aprobado el plano, se actualiza el estado constructivo ante ARBA.
+        Para esto se requiere: Plano de Obra Aprobado intervenido por el municipio;
+        actuación notarial; comprobante informativo del Sistema de Información
+        Catastral.
+        Fuente verificada: arba.gov.ar/GuiaTramites/
+
+
+================================================================================
+SECCIÓN 8 — DATOS NO VERIFICADOS — ZONAS DE INCERTIDUMBRE
+================================================================================
+
+Los siguientes datos NO pudieron verificarse en fuentes primarias directas
+y quedan EXCLUIDOS del cuerpo verificado de este informe:
+
+1. TEXTO COMPLETO DE LA ORDENANZA 5801/2020 (Código de Zonificación): No
+   accesible en formato digital público. No se conocen los valores de FOT, FOS,
+   densidades ni alturas máximas por zona del partido de Merlo.
+
+2. MODIFICACIONES POST-2021 AL CÓDIGO DE EDIFICACIÓN: Los Boletines Oficiales
+   de Merlo posteriores al N° 68 (2021) no contienen ordenanzas sobre código
+   de edificación hasta los últimos accedidos.
+
+3. ORDENANZA DE FALTAS MUNICIPAL DE MERLO: Se verificó la existencia del Juzgado
+   de Faltas municipal como concepto, pero no se accedió al texto de la ordenanza
+   de faltas local ni a su tabla de sanciones actualizada.
+
+4. MONTOS ACTUALIZADOS DE DERECHOS DE CONSTRUCCIÓN 2025-2026: La Ordenanza
+   Impositiva 2021 (N° 5794/2020) fue la más reciente accedida en texto.
+
+5. EXISTENCIA DE AMNISTÍAS O REGÍMENES DE REGULARIZACIÓN GENERALES VIGENTES 2024-
+   2026 EN MERLO: Solo se verificó la Ordenanza 5832/2021 que exceptúa a un caso
+   individual concreto de los requisitos de la Ord. 2589/84.
+
+6. CONVALIDACIÓN PROVINCIAL DE LAS ORDENANZAS 5801/2020 Y 5840/2021:
+   El Decreto-Ley 8912/77, Art. 83, requiere convalidación del Poder Ejecutivo
+   Provincial para cambios de zonificación. No se verificó si las Ordenanzas
+   5801/2020 y 5840/2021 recibieron esa convalidación.
+
+
+================================================================================
+SECCIÓN 9 — DATOS DE CONTACTO INSTITUCIONAL VERIFICADOS
+================================================================================
+
+DIRECCIÓN DE OBRAS PARTICULARES — MUNICIPALIDAD DE MERLO
+Dirección: Av. del Libertador Gral. San Martín 391, Merlo, Buenos Aires
+Teléfonos: (0220) 483-0954 / 7981 / 482-3581
+Fuente: merlo.gob.ar / boletines oficiales
+
+COLEGIO PROFESIONAL — CAUBA DISTRITO 3 — DELEGACIÓN MERLO
+Visador: Arq. Gustavo REGGIO
+Dirección: Chacabuco 386 P.B. Depto B, Merlo
+Teléfono: (11) 15-5156-1900
+Días y horario: Lunes 09:00 a 13:00 hs / Jueves 09:00 a 13:00 hs
+                (únicamente con turno previo)
+Sistema de turnos: https://capbad3turnos.setmore.com/merlo
+Fuente verificada: cauba3.org.ar/delegacion-merlo
+
+SEDE CENTRAL CAUBA D3 — MORÓN
+Dirección: Leandro N. Alem 826, Morón
+Teléfonos: 4628-9171 / 4483-2233
+Email: administracion@cauba3.org.ar
+Horario: Lunes a Viernes de 9 a 13 hs.
+Fuente verificada: cauba3.org.ar
+
+HONORABLE CONCEJO DELIBERANTE — MERLO
+Dirección: Av. del Libertador San Martín y Bolívar, Merlo
+Teléfono: 0220-483-0956
+Fuente verificada: merlo.gob.ar/hcd/
+
+ARBA — AGENCIA DE RECAUDACIÓN PROVINCIA DE BUENOS AIRES (trámites catastrales)
+Sitio oficial: arba.gov.ar — web.arba.gov.ar
+Trámites de catastro y PH: arba.gov.ar/GuiaTramites/
+
+REGISTRO DE LA PROPIEDAD INMUEBLE (Pcia. Bs. As.)
+Dependiente del Ministerio de Justicia Provincial.
+Los planos de PH aprobados por ARBA se comunican a este registro.
+
+DEPARTAMENTO JUDICIAL MORÓN
+Competencia territorial verificada: Partido de Merlo pertenece al Departamento
+Judicial Morón para causas civiles, comerciales y contencioso-administrativas.
+
+
+================================================================================
+SECCIÓN 10 — ÍNDICE DE FUENTES PRIMARIAS VERIFICADAS
+================================================================================
+
+BOLETINES OFICIALES MUNICIPALES DE MERLO (accedidos directamente):
+- Boletín N° 59 — Enero 2021 (merlo.gob.ar) — Ords. 5783 a 5806 (pp. 1-236)
+- Boletín N° 68 — Octubre 2021 (merlo.gob.ar) — Ords. 5824 a 5845 (pp. 1-123)
+- Boletín N° 83 — Enero 2023 (merlo.gob.ar) — Ords. 5967 a 6028 (pp. 1-272)
+- Listado completo de boletines N° 1 a N° 119 disponible en merlo.gob.ar/boletin-oficial/
+
+ORDENANZAS MERLO VERIFICADAS EN TEXTO:
+- Ordenanza 5802/2020 (Código de Edificación reformulado) — Boletín 59
+- Ordenanza 5839/2021 (Modificaciones al Código de Edificación) — Boletín 68
+- Ordenanza 5840/2021 (Modificaciones al Código de Zonificación) — Boletín 68
+- Ordenanza 5832/2021 (excepción a Ordenanza 2589/84) — Boletín 68
+- Ordenanza 5410/16 (Fiscal) — texto accedido en merlo.gob.ar
+
+SITIOS INSTITUCIONALES VERIFICADOS:
+- merlo.gob.ar (sitio oficial Municipalidad de Merlo — Buenos Aires)
+- cauba3.org.ar (CAUBA Distrito 3 — delegacion-merlo y normativas-municipales)
+- normas.gba.gob.ar (Sistema Normativo Provincial)
+- arba.gov.ar y web.arba.gov.ar (ARBA — trámites y normativas catastrales)
+- argentina.gob.ar (CCyC, Ley 26.994, derechofácil)
+- scba.gov.ar (SCBA — fallos del fuero contencioso)
+- sibom.slyt.gba.gob.ar (Sistema de Boletines Oficiales Municipales — Pcia. Bs.As.)
+
+TEXTOS NORMATIVOS VERIFICADOS (texto completo o parcial):
+- CCyC Arts. 2037-2069 y 2073-2086 (codigocivilonline.com.ar / ligadelconsorcista.org)
+- Decreto-Ley 8912/77 (normas.gba.gob.ar)
+- Decreto Reglamentario 1549/83 (argentinambiental.com)
+- Dec.-Ley 6769/58 Arts. 24, 25, 27, 107, 108 (normas.gba.gob.ar)
+- Ordenanza General 267/80 (normas.gba.gob.ar)
+
+JURISPRUDENCIA VERIFICADA EN FUENTES DIGITALES:
+- Cámara Nacional Civil — Sala F — "Faskowicz c/Wapñarsky" (2002) — ips.com.ar
+- Cámara Nacional Civil — (2021) — "Consorcio J.B. Alberdi" — ligadelconsorcista.org
+- Cámara Nacional Civil — (2020) — "Consorcio Av. Congreso" — microjuris.com
+- Cámara Contencioso Administrativa Morón — (2011) — Merlo — scba.gov.ar
+
+
+================================================================================
+FIN DEL ARCHIVO 60
+================================================================================
