@@ -195,3 +195,88 @@ ZONAS DE INCERTIDUMBRE E INFORMACIÓN NO VERIFICADA
 ================================================================================
 FIN DEL DOCUMENTO — VER ARCHIVOS 31-38 PARA DESARROLLO DE CADA TEMA
 ================================================================================
+
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — METODOLOGÍA JUEZ-PIPO: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. CORRECCIÓN CRÍTICA — DEPARTAMENTO JUDICIAL COMPETENTE
+   ─────────────────────────────────────────────────────
+   El encabezado de este archivo indica erróneamente "DEPARTAMENTO JUDICIAL:
+   MORÓN". Desde la sanción de la Ley 13.859 (B.O. PBA 18/12/2009), el Partido
+   de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MERLO, segregado del ex
+   Departamento Judicial de Morón.
+
+   CORRECCIÓN: Donde dice "Departamento Judicial Morón" debe leerse
+   "DEPARTAMENTO JUDICIAL MERLO (Ley 13.859/2009)".
+
+   Sede: Juzgados Civiles y Comerciales de Merlo — Av. San Martín 2675, Merlo.
+
+2. VALIDACIÓN EPISTEMOLÓGICA DE LA METODOLOGÍA
+   ─────────────────────────────────────────────
+   La metodología Juez-Pipo se valida por triangulación de fuentes:
+   a) PERSPECTIVA NORMATIVA: cotejo directo con textos legales vigentes
+      (CCyCN Ley 26.994, CPCC PBA Ley 7425, Decreto-Ley 6769/58).
+   b) PERSPECTIVA JURISPRUDENCIAL: verificación en bases SCBA, SAIJ, JUBA.
+   c) PERSPECTIVA DOCTRINARIA: contraste con autores reconocidos (Lorenzetti,
+      Pizarro, Vallespinos, Kemelmajer de Carlucci).
+
+   La convergencia de las tres fuentes sobre un mismo punto jurídico genera
+   un nivel de certeza ALTO [V]. La divergencia impone clasificación [PV] o [IV].
+
+3. INTEGRACIÓN CON EL CCyCN (Ley 26.994)
+   ──────────────────────────────────────
+   Las tres perspectivas de análisis encuentran su fundamento procesal en:
+   - Art. 1 CCyCN: casos regidos por leyes aplicables conforme Constitución.
+   - Art. 2 CCyCN: interpretación conforme principios y valores jurídicos.
+   - Art. 3 CCyCN: deber del juez de resolver conforme sistema de fuentes.
+   - Art. 1708 CCyCN: funciones de la responsabilidad civil (prevención,
+     reparación, sanción pecuniaria disuasiva — orden de prelación).
+   - Art. 1710 CCyCN: deber de prevención (toda persona tiene el deber de
+     evitar causar un daño no justificado y adoptar medidas razonables).
+   - Art. 1716 CCyCN: deber de reparar — unificación de órbitas contractual
+     y extracontractual (relevante: la metodología aplica a ambas).
+   - Art. 886 CCyCN: mora automática — el obligado incurre en mora por el
+     solo transcurso del tiempo fijado para el cumplimiento.
+
+4. CORRECCIÓN SOBRE PRESCRIPCIÓN — SUSPENSIÓN vs. INTERRUPCIÓN
+   ────────────────────────────────────────────────────────────
+   Art. 2546 CCyCN: El curso de la prescripción se SUSPENDE (no se
+   interrumpe) por el envío de carta documento que constituye en mora.
+   Efecto: suspensión por 6 meses desde la recepción.
+   IMPORTANTE: No confundir con interrupción (Art. 2544-2545 CCyCN) que
+   borra el plazo transcurrido. La suspensión solo detiene el cómputo.
+
+5. APLICACIÓN PRÁCTICA AL CASO MERLO
+   ──────────────────────────────────
+   La metodología de tres perspectivas se aplica al caso así:
+
+   PERSPECTIVA DEL DEMANDANTE:
+   - Responsabilidad objetiva del dueño/guardián (Art. 1757-1758 CCyCN)
+   - Relaciones de vecindad (Art. 1973 CCyCN)
+   - Inmisiones (Art. 1973 CCyCN — ruidos, olores, vibraciones)
+   - Daño resarcible integral (Art. 1738-1740 CCyCN)
+
+   PERSPECTIVA DEL DEMANDADO:
+   - Posible alegación de culpa de la víctima (Art. 1729 CCyCN)
+   - Caso fortuito o fuerza mayor (Art. 1730 CCyCN)
+   - Hecho de un tercero (Art. 1731 CCyCN)
+
+   PERSPECTIVA DE ÓRGANOS DE CONTROL:
+   - Municipalidad de Merlo: poder de policía edilicio (Art. 27 Decreto-Ley
+     6769/58 — Ley Orgánica Municipal PBA)
+   - Fiscalía: eventual encuadre penal por estrago culposo (Art. 189 CP)
+   - Defensoría del Pueblo PBA: tutela de derechos colectivos
+
+6. NOTA SOBRE REFERENCIAS NORMATIVAS
+   ──────────────────────────────────
+   En toda la serie de archivos 30-38, las citas al "Código Civil" anterior
+   (Ley 340/Vélez Sársfield) deben entenderse REEMPLAZADAS por sus
+   equivalentes en el CCyCN (Ley 26.994, vigente desde 01/08/2015), salvo
+   que se refieran a hechos ocurridos antes de esa fecha.
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 53 — MARCO TEÓRICO METODOLOGÍA JUEZ-PIPO (AMPLIADO)
+════════════════════════════════════════════════════════════════════════════════

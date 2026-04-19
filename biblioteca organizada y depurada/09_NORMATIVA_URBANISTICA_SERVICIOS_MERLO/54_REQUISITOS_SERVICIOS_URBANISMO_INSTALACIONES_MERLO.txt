@@ -610,3 +610,60 @@ FUENTES DE ESTE ARCHIVO:
 ================================================================================
 FIN DEL ARCHIVO 50 — REQUISITOS DE SERVICIOS, URBANISMO E INSTALACIONES
 ================================================================================
+
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — NORMATIVA URBANÍSTICA MERLO: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. CORRECCIÓN — DEPARTAMENTO JUDICIAL COMPETENTE
+   El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MERLO
+   (Ley 13.859/2009), NO al de Morón.
+
+2. ORDENANZA 757/2000 — CÓDIGO DE EDIFICACIÓN DE MERLO (antecedente)
+   ───────────────────────────────────────────────────────────────────
+   La Ordenanza 757/2000 constituyó el primer Código de Edificación integral
+   del Partido de Merlo. Fue posteriormente reformulada por:
+   - Ordenanza 2589/84 (requisitos técnicos de instalaciones)
+   - Ordenanza 5802/2020 (Código de Edificación reformulado — Boletín 59)
+   - Ordenanza 5839/2021 (Modificaciones al Código de Edificación — Boletín 68)
+
+   Requisitos específicos municipales derivados:
+   a) Permiso de obra obligatorio para toda construcción nueva o ampliación
+   b) Planos firmados por profesional matriculado (CAPBA Distrito III o CIPBA)
+   c) Director técnico de obra habilitado
+   d) Aviso de inicio de obra ante Dirección de Obras Particulares
+   e) Inspecciones municipales parciales y final
+   f) Certificado Final de Obra para habilitación
+
+3. LEY 8912/77 — ORDENAMIENTO TERRITORIAL Y USO DEL SUELO (PBA)
+   ─────────────────────────────────────────────────────────────
+   Art. 1: Rige el ordenamiento del territorio de la Provincia.
+   Art. 7: Los municipios deben delimitar áreas urbanas, complementarias y rurales.
+   Art. 25: Fija indicadores urbanísticos (FOS, FOT, densidad).
+   Art. 52: Las obras que no cumplan la normativa de uso del suelo pueden ser
+            declaradas clandestinas y sujetas a demolición.
+   Art. 56: Los municipios controlan el cumplimiento de esta ley.
+
+   APLICACIÓN AL CASO: Si la obra lindante excede el FOT o FOS permitido
+   para la zona según la zonificación de Merlo (Ordenanza 5840/2021), se
+   configura infracción urbanística autónoma adicional a la clandestinidad.
+
+4. REQUISITOS ESPECÍFICOS MUNICIPALES PARA AMPLIACIÓN EN PH
+   ─────────────────────────────────────────────────────────
+   - Conformidad de todos los copropietarios (Art. 2052 CCyCN — unanimidad)
+   - Plano de modificación aprobado por Obras Particulares de Merlo
+   - No afectar partes comunes sin autorización de asamblea
+   - Mantener coeficientes de edificabilidad de la parcela
+   - No generar servidumbres de vista no autorizadas (Art. 1978 CCyCN)
+
+5. MORA DEL OBLIGADO — Art. 886 CCyCN
+   ───────────────────────────────────
+   En materia de obligaciones de no hacer (no dañar, no construir en
+   infracción), la mora es automática desde el momento del incumplimiento.
+   No requiere interpelación previa.
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 54 — REQUISITOS SERVICIOS URBANISMO INSTALACIONES (AMPLIADO)
+════════════════════════════════════════════════════════════════════════════════

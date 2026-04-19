@@ -313,3 +313,77 @@ SECCIÓN 6 — JURISPRUDENCIA VERIFICADA — PROPIEDAD HORIZONTAL
 ================================================================================
 FIN DEL ARCHIVO 59
 ================================================================================
+
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — PROPIEDAD HORIZONTAL: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. LEY 13.512 — ANTECEDENTE HISTÓRICO (DEROGADA)
+   ──────────────────────────────────────────────
+   La Ley 13.512 (1948) fue el primer régimen de propiedad horizontal en
+   Argentina. Fue DEROGADA por la Ley 26.994 (CCyCN vigente desde 01/08/2015).
+   Su contenido fue absorbido y ampliado en los Arts. 2037-2072 CCyCN.
+   NOTA: Los reglamentos de copropiedad anteriores a 2015 pueden contener
+   referencias a la Ley 13.512 que hoy deben leerse conforme al CCyCN.
+
+2. RÉGIMEN PH EN EL CCyCN — Arts. 2037-2072 (SÍNTESIS OPERATIVA)
+   ──────────────────────────────────────────────────────────────
+   Art. 2037: Concepto — derechos de propiedad sobre partes privativas y
+              comunes de un edificio.
+   Art. 2038: Constitución — requiere plano de mensura y división aprobado.
+   Art. 2039: Unidad funcional — parte privativa + porcentaje de comunes.
+   Art. 2040: Cosas y partes comunes — enumeración no taxativa.
+   Art. 2041: Cosas necesariamente comunes — techos, azoteas, terrazas,
+              patios solares, muros maestros, cimientos, columnas.
+   Art. 2042: Cosas y partes propias.
+   Art. 2046: Obligaciones del propietario — conservar en buen estado.
+   Art. 2047: Prohibiciones — no alterar partes comunes, no comprometer
+              seguridad del edificio.
+   Art. 2048: Gastos y contribuciones — expensas comunes.
+   Art. 2049: Obligados al pago de expensas.
+   Art. 2050: Fondo de reserva — obligatorio.
+   Art. 2051: Mejoras y obras nuevas sobre cosas comunes.
+   Art. 2052: Mejoras en interés particular — requieren UNANIMIDAD.
+   Art. 2053-2055: Administrador — designación, funciones, remoción.
+   Art. 2056: Asamblea — órgano de gobierno del consorcio.
+   Art. 2063: Asambleas judiciales.
+
+3. EXPENSAS Y RESPONSABILIDAD POR DAÑOS COMUNES
+   ─────────────────────────────────────────────
+   Art. 2048 CCyCN: Cada propietario debe atender los gastos de conservación
+   y reparación de partes comunes en proporción a su parte indivisa.
+   Art. 2049 CCyCN: La obligación de pagar expensas es propter rem (sigue
+   la cosa, no la persona).
+   APLICACIÓN: Si un daño se origina en parte común (ej: terraza, cañerías),
+   el consorcio responde frente al damnificado, sin perjuicio de repetición.
+
+4. RESPONSABILIDAD DEL ADMINISTRADOR
+   ──────────────────────────────────
+   Art. 2054 CCyCN: Funciones del administrador — entre ellas, atender
+   la conservación de las cosas y partes comunes.
+   Art. 2065 CCyCN: Responsabilidad del administrador por incumplimiento
+   de sus obligaciones legales y reglamentarias.
+   DOCTRINA: El administrador que no denuncia ni repara daños en partes
+   comunes incurre en responsabilidad personal frente a los copropietarios
+   damnificados (CNCiv. Sala F, "Faskowicz c/ Wapñarsky", 2002).
+
+5. OBRAS SIN AUTORIZACIÓN DE ASAMBLEA
+   ───────────────────────────────────
+   Art. 2052 CCyCN: Las mejoras u obras nuevas sobre cosas comunes en
+   interés particular requieren autorización por UNANIMIDAD.
+   CONSECUENCIA: Toda obra realizada sin esta unanimidad es ILÍCITA y
+   puede ser objeto de:
+   - Acción de demolición/remoción
+   - Acción de daños y perjuicios (Art. 1716 CCyCN)
+   - Medida cautelar de no innovar o innovativa (Art. 232 CPCC PBA)
+
+6. DEPARTAMENTO JUDICIAL COMPETENTE
+   ─────────────────────────────────
+   Para inmuebles en Merlo: DEPARTAMENTO JUDICIAL MERLO (Ley 13.859/2009).
+   No corresponde Morón desde diciembre de 2009.
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 59 — RÉGIMEN PROPIEDAD HORIZONTAL (AMPLIADO)
+════════════════════════════════════════════════════════════════════════════════

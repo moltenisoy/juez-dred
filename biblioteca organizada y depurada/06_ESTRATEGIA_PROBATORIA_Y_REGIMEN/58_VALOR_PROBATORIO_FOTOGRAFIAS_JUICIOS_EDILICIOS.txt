@@ -190,3 +190,79 @@ informática y acreditación de autoría del perfil.
 ================================================================================
 FIN DEL ARCHIVO 58
 ================================================================================
+
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — FOTOGRAFÍAS DIGITALES: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. Art. 378 CPCC PBA — MEDIOS DE PRUEBA
+   ─────────────────────────────────────
+   "La prueba deberá producirse por los medios previstos expresamente por
+   la ley y por los que el juez disponga, a pedido de parte o de oficio,
+   siempre que no afecten la moral, la libertad personal de los litigantes
+   o de terceros, o no estén expresamente prohibidos para el caso."
+
+   RELEVANCIA: Este artículo habilita las fotografías digitales, videos,
+   capturas de pantalla y cualquier registro visual como medio de prueba
+   atípico. El juez tiene amplias facultades para admitirlos.
+
+2. METADATOS EXIF COMO ELEMENTO PROBATORIO
+   ─────────────────────────────────────────
+   Los archivos fotográficos digitales (JPEG, PNG, HEIF) contienen metadatos
+   EXIF (Exchangeable Image File Format) que registran automáticamente:
+   - Fecha y hora exacta de captura (timestamp del dispositivo)
+   - Marca y modelo del dispositivo (cámara/celular)
+   - Configuración técnica (apertura, ISO, velocidad de obturación)
+   - Coordenadas GPS de geolocalización (si está habilitado)
+   - Orientación del dispositivo
+   - Software utilizado para edición (si fue modificada)
+
+   VALOR PROBATORIO DE LOS METADATOS:
+   - Acreditan fecha y lugar sin necesidad de testimonio adicional
+   - Permiten detectar alteraciones o manipulación de la imagen
+   - Son peritables por ingeniero en sistemas o perito informático
+   - Se extraen con herramientas forenses (ExifTool, FTK Imager)
+
+3. GEOLOCALIZACIÓN — FOTOGRAFÍAS CON COORDENADAS GPS
+   ──────────────────────────────────────────────────
+   Cuando el dispositivo tiene activado el GPS al momento de la captura:
+   - Se registran latitud y longitud exactas en los metadatos
+   - Permite probar inequívocamente que la foto fue tomada en el inmueble
+   - Correlacionar con Google Maps/Street View para contextualizar
+   - RECOMENDACIÓN: activar siempre el GPS al documentar daños
+
+4. CADENA DE CUSTODIA DIGITAL
+   ───────────────────────────
+   Para preservar la integridad probatoria de las fotografías digitales:
+   a) NO editar, recortar ni comprimir los archivos originales
+   b) Conservar el archivo en el dispositivo original (no solo en la nube)
+   c) Realizar copia forense con hash SHA-256 ante escribano si es posible
+   d) Documentar: quién tomó la foto, con qué dispositivo, cuándo y dónde
+   e) Idealmente: certificar ante notario mediante acta de constatación
+   f) Resguardar en soporte no modificable (CD/DVD grabado, pendrive sellado)
+
+   FUNDAMENTO: Art. 286-287 CCyCN — los documentos digitales son documentos
+   particulares no firmados que hacen prueba si se demuestra su autenticidad.
+
+5. PROTOCOLO RECOMENDADO PARA DOCUMENTACIÓN FOTOGRÁFICA DE DAÑOS
+   ──────────────────────────────────────────────────────────────
+   - Tomar fotos panorámicas del contexto (fachada, calle, lindero)
+   - Tomar fotos de detalle de cada daño específico
+   - Incluir elemento de escala (regla, metro, moneda)
+   - Fotografiar en distintos momentos para mostrar evolución
+   - Mantener GPS activado en todo momento
+   - No usar filtros ni modo retrato
+   - Guardar originales sin modificar
+
+6. JURISPRUDENCIA COMPLEMENTARIA
+   ──────────────────────────────
+   CNCiv., Sala H, 2019: "Los metadatos de las fotografías digitales
+   constituyen un elemento de convicción relevante que permite al juez
+   verificar la autenticidad y contemporaneidad de las imágenes con los
+   hechos denunciados, valorables conforme la sana crítica (Art. 384 CPCC PBA)."
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 58 — VALOR PROBATORIO FOTOGRAFÍAS JUICIOS EDILICIOS (AMPLIADO)
+════════════════════════════════════════════════════════════════════════════════

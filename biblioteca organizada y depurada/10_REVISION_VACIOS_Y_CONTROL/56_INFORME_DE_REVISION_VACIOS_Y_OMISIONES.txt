@@ -568,3 +568,32 @@ Los elementos más críticos que requieren atención inmediata son:
 4. Identificar testigos por nombre antes de la presentación.
 
 
+
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — REVISIÓN DE VACÍOS: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. ACTUALIZACIÓN POST-EXPANSIÓN (Archivos 53-60 ampliados)
+   ─────────────────────────────────────────────────────────
+   VACÍOS RESUELTOS tras las expansiones realizadas:
+   - Departamento Judicial: CORREGIDO a MERLO (Ley 13.859/2009) en archivos 53-60.
+   - Metadatos EXIF y cadena custodia digital: CUBIERTO en archivo 58.
+   - Régimen PH CCyCN Arts. 2037-2072: CUBIERTO en archivo 59.
+   - ARBA y subdivisión PH: CUBIERTO en archivo 60.
+   - Ordenanza 757/2000 y Ley 8912: CUBIERTO en archivo 54.
+   - Datos municipalidad actualizados: CUBIERTO en archivo 55.
+   - Art. 2546 CCyCN suspensión prescripción: CUBIERTO en archivos 53, 60.
+   - Art. 886 CCyCN mora automática: CUBIERTO en archivos 53, 54, 60.
+
+2. VACÍOS AÚN PENDIENTES
+   ───────────────────────
+   - Presupuesto detallado ítem por ítem de reparaciones: NO resuelto.
+   - Testigos identificados por nombre: NO resuelto (dato fáctico).
+   - Historial clínico IMC: pendiente de obtención.
+   - Certificación municipal de irregularidad: pendiente de trámite.
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 56 — INFORME REVISIÓN VACÍOS Y OMISIONES (AMPLIADO)
+════════════════════════════════════════════════════════════════════════════════
