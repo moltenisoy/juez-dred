@@ -513,3 +513,116 @@ Las siguientes partes de este documento podrían contener información completad
 
 Elaborado bajo protocolo JUEZITO-EL-ROBOTITO
 Este documento no reemplaza el asesoramiento de un abogado matriculado habilitado.
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — INCUMPLIMIENTOS Y VÍAS PROCESALES: AMPLIACIÓN Y CORRECCIONES
+================================================================================
+
+VIII. CORRECCIONES NORMATIVAS
+
+8.1. Corrección de la referencia al Art. 3986 del Código Civil (derogado)
+En la Sección de Mediación Previa Obligatoria (Vía C), se cita "art. 3986 del CC" como
+norma de interrupción de la prescripción. Dicho artículo pertenece al Código Civil de Vélez
+Sársfield, derogado por la Ley 26.994. Las normas vigentes sobre interrupción y suspensión
+de la prescripción en el CCyCN son:
+• Art. 2541 CCyCN — Interrupción por reconocimiento del obligado.
+• Art. 2542 CCyCN — Suspensión por pedido de mediación: el curso de la prescripción se
+  suspende desde la expedición del formulario de mediación hasta veinte (20) días contados
+  desde el momento en que el acta de cierre del procedimiento de mediación se encuentre a
+  disposición de las partes.
+• Art. 2544 CCyCN — Interrupción por petición judicial (demanda).
+• Art. 2545 CCyCN — Duración de los efectos: la interrupción del curso de la prescripción
+  por petición judicial tiene efecto retroactivo al día de la presentación.
+La Ley 13.951 PBA (mediación obligatoria) debe leerse en conjunto con estas normas del CCyCN.
+
+8.2. Corrección de la referencia al Art. 1113 CC
+En la sección de Zonas de Incertidumbre (línea sobre "Responsabilidad objetiva"), se cita
+"art. 1113 CC / art. 1757 CCyC". Corresponde utilizar únicamente el Art. 1757 CCyCN
+(responsabilidad por actividad riesgosa o vicio de la cosa), que es la norma vigente y
+autosuficiente. La referencia al viejo Art. 1113 del Código Civil es innecesaria.
+
+
+IX. COMPETENCIA TERRITORIAL — CORRECCIÓN SOBRE DEPARTAMENTO JUDICIAL
+
+9.1. Todas las referencias al "Departamento Judicial de Morón" contenidas en este documento
+deben entenderse referidas al Departamento Judicial de MERLO, creado por Ley Provincial
+13.859, con asiento en la ciudad de Merlo y competencia territorial sobre los Partidos de
+Merlo, General Las Heras y Marcos Paz.
+
+9.2. La competencia del Departamento Judicial de Merlo surge de:
+• Art. 5°, inc. 1° del CPCCBA (Decreto-Ley 7425/1968): en acciones reales sobre inmuebles,
+  es juez competente el del lugar donde está situada la cosa litigiosa.
+• El inmueble dañado se sitúa en el Partido de Merlo → Departamento Judicial de Merlo.
+
+9.3. Direcciones y datos de contacto: verificar con la Suprema Corte de Justicia de la
+Provincia de Buenos Aires (www.scba.gov.ar) las sedes y horarios actualizados del
+Departamento Judicial de Merlo, incluyendo Receptoría General de Expedientes, Mesa de
+Entradas, y Unidades Fiscales de Instrucción.
+
+
+X. CONCEPTOS JURÍDICOS FALTANTES
+
+10.1. Inmisiones — Alcance ampliado (Art. 1973 CCyCN)
+El Art. 1973 CCyCN regula las inmisiones entre inmuebles vecinos. La infiltración de agua,
+la humedad excesiva y la caída de fragmentos de construcción constituyen "inmisiones
+similares" a las expresamente enumeradas (humo, calor, olores, ruidos, vibraciones). El
+estándar legal es la "normal tolerancia", que se evalúa teniendo en cuenta las condiciones
+del lugar, la prioridad en el uso y los usos y costumbres del lugar. Una humedad relativa
+superior al 70% durante más de un año supera manifiestamente todo umbral de tolerancia.
+El juez puede ordenar: (a) la cesación de las inmisiones, (b) la remoción de la causa, y
+(c) una indemnización por los daños ya producidos. Estos tres remedios son acumulables.
+
+10.2. Daño al proyecto de vida (Art. 1738 CCyCN)
+El Art. 1738 CCyCN incluye entre los rubros indemnizables la "interferencia en el proyecto
+de vida". La jurisprudencia argentina, siguiendo la doctrina de la Corte Interamericana de
+Derechos Humanos (caso "Loayza Tamayo", 1998), ha reconocido este rubro como autónomo
+del daño moral. En el caso, la imposibilidad de mantener la vida de pareja, de socializar
+en el propio hogar y de planificar actividades familiares durante casi dos años constituye
+una afectación concreta del proyecto de vida del damnificado.
+
+10.3. Astreintes (Art. 804 CCyCN)
+Las sanciones conminatorias del Art. 804 CCyCN son un instrumento procesal fundamental para
+compeler al demandado a cumplir mandatos judiciales de hacer (reparar, impermeabilizar,
+cesar la causa de filtraciones). Se fijan a pedido de parte, son progresivas y pueden
+liquidarse periódicamente. Su ejecución no requiere nuevo proceso judicial.
+
+10.4. Daño punitivo en relaciones de consumo (Art. 52 bis, Ley 24.240)
+Si alguno de los demandados prestara servicios de construcción en el marco de una relación
+de consumo (empresa constructora que ofrece servicios al público), podría resultar
+aplicable el Art. 52 bis de la Ley de Defensa del Consumidor (Ley 24.240), que prevé una
+multa civil a favor del consumidor damnificado. La procedencia de este rubro requiere
+evaluación profesional caso por caso.
+
+
+XI. AMPLIACIÓN SOBRE ESTRATEGIA PROBATORIA
+
+11.1. Prueba anticipada (Art. 326 CPCCBA)
+Antes de iniciar la demanda, el damnificado puede solicitar la producción anticipada de
+prueba cuando exista urgencia en asegurar elementos probatorios que podrían desaparecer o
+alterarse. En particular:
+• Constatación judicial del estado del inmueble (Art. 326, inc. 1° CPCCBA).
+• Pericia técnica anticipada sobre niveles de humedad, estado de la instalación eléctrica
+  y relevamiento de fisuras (Art. 326, inc. 3° CPCCBA).
+• Declaración testimonial anticipada si los testigos fueran de edad avanzada o estuvieran
+  por ausentarse del país (Art. 326, inc. 2° CPCCBA).
+
+11.2. Prueba electrónica y su preservación
+Los mensajes de texto, correos electrónicos, audios de WhatsApp y publicaciones en redes
+sociales del demandado que evidencien conocimiento de los daños son prueba documental
+válida en el proceso civil (Art. 378 CPCCBA). Para su incorporación, se recomienda:
+• Acta notarial de constatación del contenido digital (Art. 312 CCyCN).
+• Preservación mediante captura de pantalla con metadatos visibles.
+• Ofrecimiento como prueba informativa dirigida a las empresas prestadoras (Meta, Google)
+  si el demandado eliminara el contenido.
+
+11.3. Pericia multidisciplinaria
+El caso requiere al menos CUATRO pericias independientes:
+(a) Pericia de arquitectura/ingeniería civil: nexo causal, cuantificación de reparaciones.
+(b) Pericia de ingeniería eléctrica: estado de la instalación, riesgo vigente.
+(c) Pericia médica: afecciones respiratorias, alergias, consecuencias de la exposición.
+(d) Pericia psicológica: daño moral, estrés postraumático, afectación de la vida social.
+
+
+================================================================================
+FIN DEL ARCHIVO 10 — DOCUMENTO JURÍDICO UNIFICADO — INCUMPLIMIENTOS Y VÍAS PROCESALES
+================================================================================
