@@ -586,3 +586,184 @@ Fuentes: Doctrina procesal civil, CNACiv Sala M "Valles c/ Wierzba"
 (18/05/2020), Código Civil y Comercial de la Nación, Constitución Nacional,
 Constitución Provincia de Buenos Aires, Ley 10.147 Orgánica Municipal PBA.
 ================================================================================
+
+
+================================================================================
+SECCIÓN F — CORRECCIONES NORMATIVAS CRÍTICAS Y AMPLIACIONES
+(Investigación complementaria)
+================================================================================
+
+1. CORRECCIÓN: EFECTO DE LA CARTA DOCUMENTO SOBRE LA PRESCRIPCIÓN
+────────────────────────────────────────────────────────────────
+
+   ERROR EN SECCIONES A, B Y D: Citan "Art. 3974 del CCyCN" como norma de
+   interrupción de prescripción por carta documento.
+
+   CORRECCIONES:
+
+   a) El Art. 3974 NO EXISTE en el CCyCN. Corresponde al CÓDIGO CIVIL DE
+      VÉLEZ SARSFIELD (derogado desde agosto 2015).
+
+   b) Bajo el CCyCN vigente, la carta documento NO INTERRUMPE la prescripción.
+      Solo la SUSPENDE por 6 meses (Art. 2546 CCyCN):
+
+      Art. 2546 CCyCN: "La prescripción se suspende por la interpelación
+      fehaciente efectuada al deudor para que cumpla la obligación. Esta
+      suspensión cesa a los seis meses de realizada la interpelación, aun
+      cuando no haya terminado el plazo para prescribir."
+
+   c) La INTERRUPCIÓN de la prescripción (Art. 2541 CCyCN) solo ocurre por:
+      1) Reconocimiento del derecho por el deudor (expreso o tácito)
+      2) Interposición de demanda judicial
+      3) Pedido de mediación obligatoria
+
+   DIFERENCIA CLAVE:
+   • SUSPENSIÓN (carta documento): "Pausa" el plazo por 6 meses; luego
+     continúa corriendo desde donde se detuvo.
+   • INTERRUPCIÓN (demanda/mediación): Reinicia el plazo completo desde cero.
+
+   CONSECUENCIA PRÁCTICA: La carta documento SUSPENDE el plazo por 6 meses.
+   Si dentro de esos 6 meses no se inicia la demanda o mediación, el plazo
+   continúa corriendo. Es esencial actuar dentro del período de suspensión.
+
+
+2. CORRECCIÓN: CONSTITUCIÓN EN MORA
+────────────────────────────────────────────────────────────────
+
+   ERROR: Cita "Art. 1717 CCyCN" como norma de constitución en mora.
+   El Art. 1717 refiere a la ANTIJURIDICIDAD, no a la mora.
+
+   CORRECTO: La constitución en mora se rige por:
+   • Art. 886 CCyCN — Mora del deudor: Se produce por el mero transcurso
+     del tiempo fijado para el cumplimiento, o por interpelación fehaciente.
+   • Art. 887 CCyCN — Excepciones a la mora automática.
+   • Art. 888 CCyCN — Efectos de la mora.
+
+   La carta documento constituye en mora conforme Art. 886 CCyCN, no Art. 1717.
+
+
+3. CORRECCIÓN: LEY ORGÁNICA DE MUNICIPALIDADES
+────────────────────────────────────────────────────────────────
+
+   ERROR: Cita "Ley 10.147 Orgánica de las Municipalidades de la PBA"
+   CORRECTO: La Ley Orgánica de las Municipalidades de PBA es el
+   DECRETO-LEY 6769/58 (y sus modificatorias).
+
+   La Ley 10.147 NO es la ley orgánica municipal. Verificar la cita
+   correspondiente al fundar la responsabilidad municipal.
+
+
+4. INFORMACIÓN PRÁCTICA SOBRE CARTA DOCUMENTO — CORREO ARGENTINO
+────────────────────────────────────────────────────────────────
+
+   A) FORMATO:
+      • Formulario de 3 cuerpos autocopiantes (original, duplicado, triplicado)
+      • Espacio: aproximadamente 500-600 caracteres (3-4 párrafos breves)
+      • Si excede el espacio: se envían DOS cartas documento (doble costo)
+      • NO permite adjuntar archivos, documentos ni fotografías
+
+   B) PROCEDIMIENTO DE ENVÍO:
+      1) Redactar el texto completo (claro, preciso, sin errores)
+      2) Completar datos de remitente y destinatario (nombre, DNI/CUIT, domicilio)
+      3) Presentarse en sucursal de Correo Argentino con DNI
+      4) Completar formulario oficial o entregar texto mecanografiado
+      5) Pagar el arancel en ventanilla
+      6) Obtener comprobante de envío con número de seguimiento
+
+   C) SEGUIMIENTO ONLINE:
+      • URL: www.correoargentino.com.ar/formularios/ondnc
+      • Ingresar código único de la carta documento
+      • Estados: en tránsito, entregada, no reclamada, devuelta
+
+   D) AVISO DE RETORNO:
+      • Solicitar al momento del envío (costo adicional)
+      • Acredita: fecha de entrega y firma del receptor
+      • Si destinatario está ausente: se dejan 2 intentos + aviso de visita
+      • Si no retira en sucursal: se devuelve como "no reclamada"
+      • "No reclamada" ≠ "no notificada": jurisprudencia mayoritaria considera
+        que la carta no retirada por el destinatario igualmente produce efectos
+        si fue correctamente dirigida al domicilio real.
+
+   E) CONSERVACIÓN DE PRUEBA:
+      • Guardar: comprobante de envío, aviso de retorno, copia del texto
+      • En sede judicial: presentar como prueba documental (Art. 333 CPCCBA)
+
+
+5. MODELO ADICIONAL: CARTA DOCUMENTO POR RIESGO DE ELECTROCUCIÓN
+────────────────────────────────────────────────────────────────
+
+   Para el caso específico que nos ocupa, se sugiere un modelo focalizado en
+   el riesgo eléctrico por filtraciones sobre llave térmica:
+
+   ---------- MODELO SUGERIDO ----------
+
+   REF: INTIMACIÓN URGENTE POR RIESGO DE ELECTROCUCIÓN - FILTRACIONES
+   SOBRE INSTALACIÓN ELÉCTRICA
+
+   [Encabezado con datos de remitente y destinatario]
+
+   INTIMO a Ud. para que en el plazo PERENTORIO de CINCO (5) DÍAS HÁBILES
+   adopte las medidas necesarias para cesar las filtraciones de agua que,
+   provenientes de la obra ejecutada en su propiedad, ingresan directamente
+   sobre la caja de llave térmica principal de mi red eléctrica, generando
+   un RIESGO INMINENTE DE ELECTROCUCIÓN documentado mediante fotografías
+   y constancias técnicas en mi poder.
+
+   Hago saber que esta situación configura el delito de ESTRAGO CULPOSO
+   (Art. 189 CP) y LESIONES CULPOSAS (Art. 94 CP), reservándome el
+   derecho de formular denuncia penal ante la Fiscalía correspondiente.
+
+   La presente suspende la prescripción conforme Art. 2546 CCyCN y
+   constituye a Ud. en mora conforme Art. 886 CCyCN.
+
+   ---------- FIN MODELO SUGERIDO ----------
+
+   NOTA SOBRE EXTENSIÓN: Este modelo se ajusta al límite de caracteres
+   del formulario de Correo Argentino (~500-600 caracteres).
+
+
+6. ESTRATEGIA TEMPORAL DE ENVÍO DE CARTAS DOCUMENTO
+────────────────────────────────────────────────────────────────
+
+   SECUENCIA RECOMENDADA:
+
+   DÍA 1: Carta documento al demandado (Sección A o B)
+           → Constituye en mora, suspende prescripción por 6 meses
+
+   DÍA 1-5: Carta documento a Municipalidad de Merlo (Sección C)
+             → Activa responsabilidad por omisión municipal
+
+   DÍA 5-10: Si el demandado no responde → Solicitar mediación prejudicial
+              (Ley 13.951) → INTERRUMPE prescripción (Art. 2541 inc. 3)
+
+   DENTRO DE 60 DÍAS: Cierre de mediación → Presentar demanda + medidas
+   cautelares → INTERRUMPE definitivamente prescripción (Art. 2541 inc. 2)
+
+   REGLA DE ORO: No dejar pasar más de 6 meses desde la carta documento
+   sin iniciar la mediación o la demanda, porque la suspensión caduca.
+
+
+7. NOTA SOBRE CONTENIDO ADAPTADO AL CASO ESPECÍFICO
+────────────────────────────────────────────────────────────────
+
+   Los modelos de las Secciones A y B mencionan "cañería de gas" y "muro
+   medianero" que NO son situaciones del caso concreto. Para adaptar:
+
+   ELEMENTOS ESPECÍFICOS DEL CASO A INCLUIR:
+   • Tanque cisterna de 750+ kg sobre losa flotante sin cálculo estructural
+   • Filtraciones sobre caja de llave térmica principal (riesgo eléctrico)
+   • Modificación de la instalación de agua ("instalación esclava")
+   • Destrucción de membrana impermeabilizante
+   • Desprendimiento de cielorrasos
+   • Uso del techo como obrador sin autorización
+   • Operación de maquinaria vibratoria sobre la losa
+
+   ELEMENTOS A EXCLUIR (no aplican al caso):
+   • Referencias a gas natural / cañerías de gas
+   • Muro medianero (el conflicto es sobre losa, no medianera)
+   • Grupo familiar conviviente (si el damnificado vive solo)
+
+
+════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 08 — MODELOS DE CARTA DOCUMENTO E INTIMACIONES
+════════════════════════════════════════════════════════════════════════════
