@@ -900,5 +900,300 @@ territorial directa o análoga al Departamento Judicial de Morón, por lo
 que constituyen doctrina de alta relevancia para el caso.
 
 ================================================================================
+CONTENIDO INTEGRADO — PERITAJES REALES EN OBRAS LINDERAS (PBA 2021-2026)
+(Fuente: GPT.txt — Informe analítico sobre peritajes de daños por obras linderas)
+================================================================================
+
+RESUMEN EJECUTIVO:
+En los últimos cinco años (2021–2026) se detectaron varios casos judiciales
+bonaerenses en los que informes periciales son claves para determinar daños en
+una construcción causados por obras en el edificio lindero. En todos los casos
+identificados, los dictámenes técnicos (ingenieros o arquitectos) describen
+grietas, filtraciones o desplazamientos en paredes medianeras o mampostería y
+concluyen si dichos daños provienen de la construcción contigua.
+
+Se encontraron fragmentos reales de estos peritajes en resoluciones judiciales
+y blogs oficiales (SCBA), pero no documentos completos. No se hallaron
+plantillas estándar oficiales ni imágenes digitalizadas de informes, salvo
+ejemplos ilustrativos de daños. Las citas textuales provienen de sentencias o
+escritos judiciales que reproducen parcialmente los dictámenes de los expertos.
+
+----------------------------------------------------------------------
+CASO INTEGRADO 1: "Malatini A. c/ Peirano S. s/ Daños y Perjuicios"
+----------------------------------------------------------------------
+Tribunal:       Cámara Civil y Comercial de Trenque Lauquen (A.I. II)
+Expediente:     21/2020
+Fechas:         02/11/2020 (1ª instancia); 18/03/2021 (Cámara)
+Jurisdicción:   Provincia de Buenos Aires
+
+HECHOS:
+  - Grietas y desprendimientos en muro medianero; filtraciones en cielorraso
+    y paredes provocadas por la construcción de un muro de contención en la
+    vivienda lindera.
+
+PERICIA:
+  - La arquitecta Alesandroni, perita designada, dictaminó que "la construcción
+    del muro de la vivienda lindera causó fisuras y deterioros… ocasionando
+    filtraciones en cielorrasos, paredes y muebles".
+
+SENTENCIA:
+  - La Cámara admitió el dictamen pericial de la arquitecta Alesandroni,
+    indicando fisuras causadas por el muro lindero.
+
+FUENTE:
+  - Sentencia Cámara Trenque Lauquen, 18/03/2021 (blog SCBA)
+
+----------------------------------------------------------------------
+CASO INTEGRADO 2: "M.S. y otros c/ P., N.A.M.S. s/ Daños y Perjuicios"
+----------------------------------------------------------------------
+Tribunal:       Cámara Civil y Comercial de Trenque Lauquen (A.I. II)
+Expediente:     91235/2019
+Fechas:         23/10/2019 (1ª instancia); 26/02/2021 (Cámara)
+Jurisdicción:   Provincia de Buenos Aires
+
+HECHOS:
+  - Asentamiento del muro medianero con amplia grieta, causado por la
+    ampliación de segunda planta apoyada en la pared divisoria.
+
+PERICIA:
+  - Dictámenes de los peritos Pietrobelli y Garbarino.
+  - Los peritos civiles describieron asentamientos diferenciales y grietas en
+    la pared medianera, atribuyendo las fisuras a la sobrecarga de la losa
+    apoyada en ella.
+  - Triangulación de opiniones opuestas sobre la losa apoyada en medianera.
+
+SENTENCIA:
+  - La Cámara valoró los dictámenes periciales que acreditaron el nexo causal
+    entre la ampliación del inmueble lindero y los daños en la medianera.
+
+FUENTE:
+  - Sentencia Cámara Trenque Lauquen, 26/02/2021 (blog SCBA)
+
+----------------------------------------------------------------------
+CASO INTEGRADO 3: "López L.B. c/ Galván M.S. y otro s/ Daños y Perjuicios"
+----------------------------------------------------------------------
+Tribunal:       Cámara Civil y Comercial de Trenque Lauquen (A.I. II)
+Expediente:     93628/2022
+Fechas:         01/12/2022 (1ª instancia); 27/06/2023 (Cámara)
+Jurisdicción:   Provincia de Buenos Aires
+
+HECHOS:
+  - Fisuras verticales y humedades en muro medianero causadas por refacciones
+    en local contiguo al hogar afectado.
+
+PERICIA:
+  - El perito señaló "riesgo de estabilidad" por obras en la unidad lindera.
+  - Se describieron picados y perfiles en la pared medianera.
+
+SENTENCIA:
+  - Documentación de graves fisuras verticales en el muro divisorio tras
+    refacciones contiguas.
+
+FUENTE:
+  - Sentencia Cámara Trenque Lauquen, 27/06/2023 (blog SCBA)
+
+----------------------------------------------------------------------
+CASO INTEGRADO 4: "Rodríguez J.C. c/ Obredor E.L. y otro s/ Daños y
+                    Perjuicios"
+----------------------------------------------------------------------
+Tribunal:       Juzgado Civil y Comercial 2 de Junín
+Expediente:     Demanda 10/03/2015; Sentencia en apelación 2023
+Jurisdicción:   Provincia de Buenos Aires
+
+HECHOS:
+  - Infiltraciones de lluvia derivadas de una cañería pluvial mal resuelta en
+    la construcción de vivienda colindante sin muro de contención.
+
+PERICIA:
+  - La perita arquitecta A. Martignoni concluyó que las patologías por
+    filtración derivan de una mala ejecución de la instalación del desagüe de
+    lluvia (bajante mal ejecutado en la obra vecina), y no de la obra del
+    vecino en sí.
+  - Martignoni analizó un "acta notarial" con fotos del picado en la
+    mampostería como parte de las evidencias documentales.
+
+SENTENCIA:
+  - Se identificó la causa específica del daño en la mala ejecución de la
+    instalación pluvial.
+
+FUENTE:
+  - Fallo Juzgado Civil y Comercial 2 de Junín (ac. Acad.)
+
+----------------------------------------------------------------------
+CRONOLOGÍA DE DICTÁMENES:
+----------------------------------------------------------------------
+  2020-11-02 : Malatini c/ Peirano (1ª Inst. Trenque, expte. 21/2020)
+  2021-02-26 : M.S. y otros c/ P. (Sent. Cámara Trenque, expte. 91235/2019)
+  2023-06-27 : López c/ Galván y otros (Acuerdo Cámara Trenque, expte. 93628/2022)
+
+----------------------------------------------------------------------
+ESTRUCTURA TÍPICA DE UN INFORME PERICIAL JUDICIAL
+(Extraído de los casos analizados)
+----------------------------------------------------------------------
+
+1. ENCABEZADO:
+   Se identifica el perito (nombre, matrícula, especialidad) y la resolución
+   que lo designa. Ej.: "Federico D'Alessandro, ingeniero, matrícula 938178…
+   es designado perito oficial en el expte. Nº…"
+
+2. ANTECEDENTES / OBJETIVOS:
+   Se describen la litis y los puntos a resolver. Ejemplo de punto de pericia:
+   "¿Se observan filtraciones de humedad en la pared divisoria...?"
+
+3. INSPECCIÓN Y OBSERVACIONES:
+   El perito relata la visita y hallazgos. Es común usar formato de preguntas
+   numeradas con sus respuestas. Por ejemplo, sobre manchas en la medianera:
+   "RESPUESTA: Se han detectado manchas en dicho muro… producto de
+   filtraciones por humedad…"
+   Se incluyen medidas (metros, ubicaciones) y descripción visual (manchas,
+   desprendimientos). El lenguaje es técnico y preciso, indicando niveles,
+   materiales y posibles causas.
+
+4. EVIDENCIAS GRÁFICAS Y DOCUMENTALES:
+   Se menciona la incorporación de fotografías, planos y actas notariales.
+   Por ejemplo, el dictamen de Martignoni analiza un "acta notarial" con fotos
+   del picado en la mampostería. Las imágenes suelen numerarse como "Foto 1,
+   2…", y se adjuntan planos de la edificación en litigio (coordenadas, cota
+   de fundaciones, etc.).
+
+5. ANÁLISIS:
+   El perito interpreta los daños. Con frecuencia se evalúan "puntos de
+   pericia" (numerados) que abordan cada aspecto (vibraciones, cimentación,
+   humedad, etc.). Se comparan planos y se aplican principios de ingeniería
+   civil/arquitectura para determinar la causa. Ej.: "Concluye que los
+   asentamientos… en la pared medianera son originados por la construcción
+   aledaña en parcela 14C". O, al revés, el perito puede descartar la obra
+   lindera como causa: "la unión deficiente de la cubierta con el muro…
+   favorece paso de agua… no se observan reparaciones previas".
+
+6. CONCLUSIÓN Y PROPUESTA:
+   Se emiten conclusiones claras (ej. "se verifica relación de causalidad
+   entre la obra contigua y los daños", o lo contrario). Habitualmente el
+   informe concluye con un párrafo final que resume la responsabilidad.
+   Ejemplo: "Conclusión: Concluimos con que... el propietario de la vivienda
+   2... debería responsabilizarse de la refacción de su unidad en lo que
+   respecta a instalaciones de agua y a la unión deficiente con el muro
+   lindero".
+
+7. FIRMA Y MATRÍCULA:
+   Al pie figura la firma del perito con su matrícula profesional. Ejemplo:
+   "D'Alessandro Federico – Ingeniero Civil – Matrícula Nº 938178".
+
+8. ANEXOS:
+   Casi siempre se agregan planos (plantas, cortes) y fotos etiquetadas.
+   Se menciona en la letra de los fallos: "fotografías adjuntas al acta
+   notarial".
+
+NOTA: Un peritaje técnico judicial es un documento formal con secciones
+ordenadas (introducción, observaciones punto por punto, conclusiones, firma).
+El lenguaje es objetivo y descriptivo, con frecuencia enunciando "el inmueble
+presenta X..." y enlazando cada observación a evidencia concreta (fotografías,
+planos, normas). Los ejemplos citados revelan esta mecánica de redacción:
+primero se enumeran los daños constatados (manchas, grietas, filtraciones) y
+luego se analiza su origen en relación con la obra vecina.
+
+----------------------------------------------------------------------
+METODOLOGÍA DE BÚSQUEDA DE PERITAJES JUDICIALES
+----------------------------------------------------------------------
+
+Para identificar los ejemplos se usó búsqueda intensiva en español de términos
+clave: "informe pericial daños obra lindera", "expediente pericial Provincia de
+Buenos Aires", "daños medianera informes", etc. Se priorizaron fuentes oficiales
+y primarias:
+
+  - Blogs de las Cámaras de Apelaciones provinciales (SCBA)
+  - Boletines oficiales (BO Provincia de BsAs)
+  - Bases de datos jurídicas (CIJ, CADJJ)
+  - Sitios de colegios de ingenieros/arquitectos
+
+TRIBUNALES PROVINCIALES:
+  En blogs.scba.gov.ar (Sección "Cámaras de Apelaciones") se hallaron varias
+  publicaciones de acuerdos que reproducen peritajes de casos reales. También
+  se examinó el portal CADJ Junín (tribunal local), donde se accedió a un PDF
+  de fallo que contiene el informe de la perita arquitecta.
+
+BOLETINES Y EXPEDIENTES:
+  Se revisó el Boletín Oficial PBA en busca de edictos relacionados (no se
+  encontraron peritajes textuales, solo anuncios de emplazamientos). Se intentó
+  en Mesa de Entradas Virtual (MEV SCBA) la consulta de expedientes por
+  carátula, con éxito limitado (requiere registro y familiaridad con el
+  sistema).
+
+COLEGIOS PROFESIONALES:
+  Se exploraron webs de colegios de peritos, arquitectos e ingenieros
+  bonaerenses. Solo se localizaron ejemplos genéricos o servicios, útiles para
+  imágenes ilustrativas pero no fuentes primarias oficiales.
+
+REPOSITORIOS DE DOCUMENTOS:
+  Se buscó en repositorios por PDF ejemplos de informes. Se encontró un
+  documento didáctico de ingeniería legal (CA Córdoba) que sirvió para
+  ilustrar el formato de Q&A. Se omitieron recursos comerciales o sitios
+  de terceros sin credenciales.
+
+LIMITANTES:
+  En total se identificaron 4 casos con información accesible. Los principales
+  limitantes fueron la confidencialidad judicial: los peritajes integrales
+  suelen estar en expedientes privados. Las únicas vías gratuitas son los
+  párrafos citados en sentencias o resúmenes en boletines oficiales y blogs
+  (por acuerdos).
+
+----------------------------------------------------------------------
+ACCESO A EXPEDIENTES RESTRINGIDOS VÍA MEV (SCBA)
+----------------------------------------------------------------------
+
+Dado que muchos peritajes originales no son públicos, puede intentarse acceder
+formalmente de la siguiente manera:
+
+1. MESA DE ENTRADAS VIRTUAL (MEV):
+   El Poder Judicial BA ofrece un portal (https://mev.scba.gov.ar) donde, con
+   registro y clave fiscal, se puede buscar expedientes por número o carátula
+   en todos los partidos. Si el expediente está digitalizado y es público, se
+   puede visualizar parte del expediente (actuaciones principales).
+
+2. SOLICITUD DIRECTA:
+   Para expedientes físicos o restringidos, se debe presentar una nota al
+   Juzgado o Cámara correspondiente. La solicitud debe incluir:
+     - Identidad del peticionante (partes o interesados)
+     - Número de expediente (o nombres de las partes)
+     - Motivo legítimo (p.ej. "soy parte en el caso" o "abogado/sociedad
+       interesada")
+   En la nota se pide "vista del expediente" o copia certificada de los autos.
+   Es útil fundamentar la petición en el Derecho de Acceso a la Información
+   Pública (Ley 25.326) o en normas procesales que permiten vista (arts.
+   152–162 del CPCCyC).
+
+3. MESA DE ENTRADAS FÍSICA:
+   Alternativamente se puede acudir personalmente a la Mesa de Entradas del
+   tribunal donde tramita la causa, con DNI. Allí se completa un formulario
+   de acceso a expedientes. El juzgado puede habilitar la consulta o entregar
+   copias (normalmente luego de unos días o semanas).
+
+4. RECURSOS ADMINISTRATIVOS:
+   En casos excepcionales se puede recurrir a Recursos de Apelación o Hábeas
+   Data ante instancias superiores (Cámara/Casación) alegando derecho a
+   información.
+
+5. TIEMPOS:
+   El plazo de respuesta varía. Podría demorar de días a semanas, dependiendo
+   del juzgado. En general, se recomienda intentar vía MEV primero para
+   expedientes digitales, y si no resulta, tramitar acceso por nota formal.
+
+LIMITACIONES:
+  En la práctica, si quien solicita no es parte, podría negarse el acceso total
+  al expediente. En muchos casos solo las partes del juicio (actor/demandado) y
+  sus abogados tienen derecho automático a vistas. Sin embargo, el sistema
+  judicial bonaerense tiende a promover la publicidad del proceso civil, por lo
+  que aunque no siempre se facilita, existe base legal para lograrlo siguiendo
+  los pasos indicados.
+
+CONCLUSIÓN GENERAL:
+  Aunque es complejo obtener peritajes completos en línea, las citas extraídas
+  demuestran la estructura y contenido típico de estos informes. La búsqueda
+  intensiva en fuentes oficiales permitió rescatar fragmentos reales de varios
+  dictámenes periciales sobre obras linderas. Estos fragmentos ilustran cómo se
+  describe técnicamente el daño (fisuras, humedad), se enlaza con la causa
+  (obra vecina) y se concluye con un juicio profesional.
+
+================================================================================
 FIN DEL ARCHIVO 48
 ================================================================================

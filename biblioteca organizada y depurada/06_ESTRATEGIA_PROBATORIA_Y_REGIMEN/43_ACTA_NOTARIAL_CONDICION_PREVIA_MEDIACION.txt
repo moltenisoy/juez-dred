@@ -364,5 +364,21 @@ d) Mediador:
    - Garantizar imparcialidad y confidencialidad del procedimiento.
 
 ================================================================================
+CONTENIDO INTEGRADO — ACTA NOTARIAL: VERIFICACIÓN
+(Fuente: INFORME_JURIDICO_OBRA_LINDERA_MERLO_DEPURADO.txt)
+================================================================================
+
+NOTA DE VERIFICACIÓN: Se cotejó la Sección 10 del informe fuente contra el
+presente archivo. Todos los datos sustantivos ya se encuentran integrados:
+- Ley 21.908 Estatuto Notarial PBA (Sección A.1 supra).
+- Decreto-Ley 10.123/83 aranceles (Sección A.1 supra).
+- Colegio Notarial La Matanza: acta constatación urbana ~$180.000,
+  adicionales $40.000-$50.000/hora (Sección A.4 supra).
+- Ley 6925 base legal aranceles (Sección A.4 supra).
+- Contenido mínimo del acta: 7 ítems completos (Sección A.6 supra).
+- Fuente: CNPM enero 2025 (Sección A.8 supra).
+No se identificó contenido adicional no duplicado para incorporar.
+
+================================================================================
 FIN FICHA 56
 ================================================================================

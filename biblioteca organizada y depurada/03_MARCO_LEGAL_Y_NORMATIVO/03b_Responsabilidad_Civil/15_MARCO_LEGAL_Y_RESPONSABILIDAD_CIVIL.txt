@@ -135,6 +135,28 @@ CONSTRUCCIÓN:
   extracontractual. Solo exime: caso fortuito, culpa exclusiva de la
   víctima, o la de un tercero por quien no deba responder.
 
+RESPONSABILIDAD DEL CONSTRUCTOR Y PROFESIONALES (Arts. 1275, 1382-1384 CCCN):
+— Art. 1275: Responsabilidad decenal. La responsabilidad por ruina total o
+  parcial, o por defectos que la hagan impropia para su destino, dura diez
+  años desde la entrega de la obra. Es de orden público, no puede ser
+  renunciada anticipadamente.
+— Art. 1382: Responsabilidad del constructor. El constructor es responsable
+  por los daños que cause la ejecución de una obra, salvo caso fortuito,
+  fuerza mayor o hecho de un tercero por quien no debe responder.
+— Art. 1383: Responsabilidad de profesionales. El proyectista, el director
+  de obra, el arquitecto e ingeniero son responsables por los daños que
+  deriven directa o indirectamente de su trabajo o de la obra ejecutada.
+— Art. 1384: Extensión de la responsabilidad. Comprende los defectos en la
+  obra, ya sea por vicios de construcción o mala calidad de los materiales,
+  aunque hayan sido proporcionados por el comitente, si el profesional debió
+  advertir y no lo hizo, o si los aceptó sin objeciones.
+
+Nota: La responsabilidad se clasifica en:
+  1. CONTRACTUAL: Obligación de resultado (estabilidad) y medios (diligencia).
+  2. DECENAL: 10 años desde la entrega, aplica a ruina y vicios graves.
+  3. SOLIDARIA: Se extiende a proyectista, director de obra y constructor.
+(Fuente: INFORME_NORMATIVA_CIRSOC_LOSA_FLOTANTE_BUENOS_AIRES_MERLO_2023-2026)
+
 ACCIÓN DIRECTA:
 — Art. 736-738: Acción directa (complementaria).
 

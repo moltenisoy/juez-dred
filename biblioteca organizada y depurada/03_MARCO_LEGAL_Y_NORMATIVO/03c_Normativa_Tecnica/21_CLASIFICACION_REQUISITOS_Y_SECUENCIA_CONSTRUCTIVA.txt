@@ -360,5 +360,139 @@ SECCIÓN 6 — ZONAS DE INCERTIDUMBRE
    El prestador exacto condiciona los requisitos de instalación de gas.
 
 ================================================================================
+CONTENIDO INTEGRADO — CLASIFICACIÓN DE INCUMPLIMIENTOS Y SANCIONES POR REQUISITO
+(Fuente: requisitos super importante.txt)
+================================================================================
+
+NOTA: Los 19 requisitos listados a continuación coinciden con los de la
+Sección 1 de este archivo. Se incorporan aquí en formato consolidado de
+referencia rápida, preservando la redacción original de la fuente.
+
+1. Obtención de Permiso de Edificación Municipal para edificación de planta
+   superior (ampliación) en inmueble de copropiedad.
+   — Clasificación: Falta grave.
+   — Normativa base: Ordenanza Nº 5839/21 — Código de Edificación Municipal
+     de Merlo, Partido de Buenos Aires.
+   — Sanción: Posible clausura, multa y sello "sujeto a demolición".
+
+2. Presentación de planos arquitectónicos completos (plantas, cortes, vistas
+   y detalles) visados por profesional matriculado.
+   — Clasificación: Falta administrativa.
+   — Normativa base: Ordenanza Nº 5494 Merlo.
+   — Sanción: Recargo por intimación municipal y multa.
+
+3. Presentación de planos estructurales y cálculos de estructuras para la
+   planta superior.
+   — Clasificación: Falta grave.
+   — Normativa base: Ordenanza Nº 5839/21 Merlo.
+   — Sanción: Obliga a informe técnico de estabilidad y posible demolición
+     si afecta seguridad.
+
+4. Informe técnico realizado por ingeniero civil sobre estabilidad estructural
+   y comportamiento de la estructura existente ante la ampliación (incluyendo
+   ensayo de cargas y medidas de seguridad).
+   — Clasificación: Falta grave.
+   — Normativa base: Ordenanza Nº 5839/21 Merlo.
+   — Sanción: Rechazo del trámite y clausura.
+
+5. Consentimiento unánime de los 3 copropietarios (asamblea y escritura
+   pública) para sobreelevación que afecta partes comunes o porcentuales
+   de dominio.
+   — Clasificación: Contravención civil.
+   — Normativa base: Art. 7 Ley Nacional 13.512 de Propiedad Horizontal
+     (prevalente sobre normativa municipal).
+   — Sanción: Nulidad de obra y acción judicial.
+
+6. Modificación del Reglamento de Copropiedad si genera nuevas unidades
+   funcionales o altera porcentajes (mayoría 2/3 o unánime según caso, con
+   inscripción registral).
+   — Clasificación: Contravención civil.
+   — Normativa base: Ley Nacional 13.512 y Decreto 2080/80.
+   — Sanción: No inscribible e inoponible a terceros.
+
+7. Pago de Derechos de Construcción según Ordenanza Fiscal Tarifaria Nº 5494
+   (cálculo por m² y coeficientes de zonificación, más declaración jurada de
+   valor de obra).
+   — Clasificación: Omisión tributaria (falta grave).
+   — Normativa base: Ordenanza Nº 5494 Merlo.
+   — Sanción: Multa hasta 100% del gravamen + recargo por presentación
+     espontánea o por intimación.
+
+8. Solicitud y verificación de líneas y niveles comunales por la Dirección de
+   Obras Particulares de Merlo.
+   — Clasificación: Falta.
+   — Normativa base: Ordenanza Nº 742/16 Merlo.
+   — Sanción: Multa y paralización de obra.
+
+9. Permiso específico para modificación de la instalación de ingreso de agua
+   corriente (sanitaria) y certificado de aptitud hidráulica AySA.
+   — Clasificación: Falta grave.
+   — Normativa base: Normativa municipal Merlo y AySA provincial.
+   — Sanción: Posible clausura, multa y suspensión de servicio.
+
+10. Acuerdo escrito y notarial con propietario vecino lindero para
+    modificaciones en su inmueble y reubicación del tanque cisterna de
+    750 litros (cumpliendo distancias medianeras Código Civil y Comercial).
+    — Clasificación: Contravención civil.
+    — Normativa base: Arts. 2007 y ss. Código Civil y Comercial de la Nación
+      (prevalente sobre normativa municipal).
+    — Sanción: Acción de medianería y daños.
+
+11. Plano y cálculo estructural de losa flotante para reubicación del tanque
+    cisterna de 750 litros (incluyendo detalles de impermeabilización, anclaje
+    y distancia mínima a medianera).
+    — Clasificación: Falta técnica.
+    — Normativa base: Código de Edificación Merlo y normas provinciales.
+    — Sanción: Multa y obligación de demolición/reubicación.
+
+12. Estudio de interferencia de redes de servicios y certificado de AySA u
+    organismo provincial para modificación de ingreso de agua (incluyendo
+    informe de cambios en inmueble y planos sanitarios).
+    — Clasificación: Falta grave.
+    — Normativa base: Normativa provincial y municipal.
+    — Sanción: Multa y suspensión de servicio.
+
+13. Certificado de libre deuda de tasas municipales y contribución territorial.
+    — Clasificación: Omisión tributaria (falta).
+    — Normativa base: Ordenanza Fiscal/Impositiva Merlo.
+    — Sanción: Imposibilidad de tramitar permiso y multa.
+
+14. Presentación de memoria descriptiva y cronograma de obra (incluyendo
+    reubicación de tanque).
+    — Clasificación: Falta administrativa.
+    — Normativa base: Ordenanza Nº 5839/21 Merlo.
+    — Sanción: Rechazo de plano.
+
+15. Certificado final de obra y habilitación parcial o total posterior a la
+    finalización.
+    — Clasificación: Falta grave.
+    — Normativa base: Ordenanza Nº 5494 Merlo.
+    — Sanción: Multa y no inscripción catastral.
+
+16. Cumplimiento de indicadores urbanísticos del Decreto-Ley Provincial
+    8912/77 (F.O.S. y F.O.T. prevalentes sobre normativa municipal).
+    — Clasificación: Falta grave (provincial).
+    — Normativa base: Decreto-Ley Provincial 8912/77.
+    — Sanción: Anulación del permiso municipal y demolición.
+
+17. Inscripción registral de la modificación en el Registro de la Propiedad
+    Inmueble (si altera dominio o crea unidad nueva).
+    — Clasificación: Contravención registral.
+    — Normativa base: Ley Nacional 13.512.
+    — Sanción: No oponible a terceros.
+
+18. Visado por Colegio Profesional correspondiente (Arquitectos/Ingenieros)
+    de todos los planos y documentación técnica.
+    — Clasificación: Falta administrativa.
+    — Normativa base: Normativa municipal Merlo.
+    — Sanción: Rechazo de trámite y multa.
+
+19. Presentación de plano de antecedentes de la construcción existente.
+    — Clasificación: Falta administrativa.
+    — Normativa base: Ordenanza Nº 5839/21 Merlo.
+    — Sanción: Rechazo de plano.
+
+
+================================================================================
 FIN DEL ARCHIVO 49
 ================================================================================

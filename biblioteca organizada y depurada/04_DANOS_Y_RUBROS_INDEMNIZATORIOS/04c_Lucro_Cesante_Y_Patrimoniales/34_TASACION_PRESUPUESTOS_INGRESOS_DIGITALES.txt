@@ -336,5 +336,24 @@ d) Perito informático (si se requiere):
    - Preservar cadena de custodia digital.
 
 ================================================================================
+CONTENIDO INTEGRADO — TASACIÓN, PRESUPUESTOS E INGRESOS DIGITALES: VERIFICACIÓN
+(Fuente: INFORME_JURIDICO_OBRA_LINDERA_MERLO_DEPURADO.txt)
+================================================================================
+
+NOTA DE VERIFICACIÓN: Se cotejaron las Secciones 7 (Tasación Inmobiliaria),
+8 (Presupuestos de Reparación) y 9 (Ingresos Digitales YouTube/AdSense) del
+informe fuente contra el presente archivo. Todos los datos sustantivos ya se
+encuentran integrados:
+- Art. 49 Ley 12.576 PBA, Ley 10.397, Leyes Impositivas 14.479/2024,
+  Formularios 903-916, Cuerpo Tasadores Judiciales SCBA (Sección A supra).
+- Requisitos formales presupuestos, índices IERIC/Construcción CABA,
+  jurisprudencia SCBA Vilar/Lemacha 2022, PJN 2025 (Sección B supra).
+- Cámara Apelación Córdoba expte. 5827186, documentación Analytics/AdSense
+  CPM/RPM, extractos Google Ireland/LLC, DDJJ AFIP IIBB/monotributo,
+  certificación digital/acta notarial, peritaje contable 12-24 meses
+  (Sección C supra).
+No se identificó contenido adicional no duplicado para incorporar.
+
+================================================================================
 FIN FICHA 55
 ================================================================================

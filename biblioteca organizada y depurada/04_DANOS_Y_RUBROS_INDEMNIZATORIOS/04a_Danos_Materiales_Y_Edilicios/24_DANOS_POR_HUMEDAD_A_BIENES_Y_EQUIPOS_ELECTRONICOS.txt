@@ -1210,3 +1210,208 @@ https://infinitalab.com/blog/temperature-humidity-bias-thb-testing/
 Conditions on Power Electronic Performance - Electrical and Computer
 Engineering, fecha de acceso: abril 9, 2026,
 https://ece.northeastern.edu/groups/power/lehman/Publications/Pub2009/2009
+
+================================================================================
+CONTENIDO INTEGRADO — JURISPRUDENCIA Y PRUEBA SIN PERITO PARA DAÑOS POR
+CORROSIÓN/OXIDACIÓN POR HUMEDAD
+(Fuente: KIMI LEGAL.txt — Informe depurado de jurisprudencia)
+================================================================================
+
+ADVERTENCIA METODOLOGICA:
+Este contenido contiene exclusivamente:
+(A) Datos verificados en fuentes consultadas durante la investigacion
+(B) Normativa legal de dominio publico citada expresamente
+Se han eliminado interpretaciones predictivas, tablas de valoracion probatoria
+inventadas, recomendaciones practicas no verificadas y conclusiones no
+especificamente sustentadas en las fuentes consultadas.
+
+================================================================================
+1. MARCO LEGAL GENERAL REFERENCIAL — PRUEBA SIN PERITO
+================================================================================
+
+1.1 CODIGO PROCESAL CIVIL Y COMERCIAL DE LA NACION
+Art. 274: El juez debe valorar la prueba producida con traslado a las partes.
+Fuente: CPCCN (texto de dominio publico).
+
+1.2 LEY 24.159 (PROCEDIMIENTO CIVIL Y COMERCIAL)
+Art. 24 inc. c): Regula la prueba de testigos y establece que la sola prueba
+testimonial no basta para dictar sentencia favorable.
+Fuente: Ley 24.159 (texto de dominio publico).
+
+1.3 CODIGO CIVIL Y COMERCIAL DE LA NACION
+Arts. 1717 y siguientes: Regulan la obligacion de indemnizar los danos.
+Fuente: CCyCN (texto de dominio publico).
+
+Nota: La aplicacion especifica de estos articulos al caso de danos por
+humedad en bienes muebles no fue verificada en los precedentes consultados.
+
+================================================================================
+2. JURISPRUDENCIA CONSULTADA SOBRE CORROSION/OXIDACION POR HUMEDAD
+================================================================================
+
+2.1 PRINCIPIO GENERAL SOBRE OXIDACION
+Se verifico en fuente jurisprudencial la constancia de que "aun si el arma
+esta a resguardo se produce oxidacion por la humedad y cuestiones climaticas,
+salvo que se la guarde al vacio".
+Aplicabilidad: Este principio fue enunciado en contexto de armas de fuego,
+pero la causalidad fisica (humedad -> oxidacion) es extrapolable a bienes
+metalicos en general como principio tecnico.
+Fuente: Fallo citado en resultado de busqueda [1].
+
+2.2 JURISPRUDENCIA DE CABA - CAMARA CIVIL SALA F (2021)
+- Caso: Filtraciones por humedad en departamento.
+- Dano verificado: "el departamento posee danos en cielorraso... el yeso de
+  los cielorrasos debera ser retirado ya que el yeso con la humedad entra
+  en descomposicion".
+- Hallazgo tecnico relevante: El perito arquitecto senalo "corrosion de
+  cañerias y cajas electricas por permanencia de agua en muros".
+- Elemento probatorio: Informe pericial arquitectonico determinante.
+Fuente: Resultado de busqueda [8].
+
+2.3 JURISPRUDENCIA DE CABA - CAMARA CIVIL SALA F (2026)
+- Caso: Filtraciones y danos por humedad.
+- Monto: Confirmacion de condena por mas de $23.000.000.
+- Criterio: "El informe pericial resulto determinante para confirmar la
+  condena".
+- Standard: "Al no existir argumentos tecnicos que desvirtuen ese dictamen,
+  correspondia convalidar sus conclusiones".
+Fuente: Resultado de busqueda [6].
+
+2.4 JURISPRUDENCIA DE CABA - CAMARA CIVIL SALA M (2015)
+- Caso: Bortnik (danos por filtraciones y humedad en departamentos).
+- Elemento probatorio: Se valoro informe tecnico pericial para establecer
+  responsabilidad.
+Fuente: Resultado de busqueda [10].
+
+================================================================================
+3. SOBRE LA PRUEBA FOTOGRAFICA
+================================================================================
+
+3.1 ADMISIBILIDAD
+Las fotografias constituyen medio de prueba admisible para acreditar "el
+estado de hecho que existia en el momento de ser tomadas, de acuerdo con la
+libre critica que de ellas haga el juez".
+
+3.2 REQUISITOS DE AUTENTICIDAD
+Dado que es posible "preparar el hecho fotografico", la jurisprudencia
+exige establecer autenticidad mediante:
+a) Confesion de la parte contraria
+b) Testigos presentes en el instante de la fotografia
+c) Examen del negativo por perito
+Fuente: Resultado de busqueda [7] (cita doctrinal/jurisprudencial).
+
+================================================================================
+4. SOBRE LA PRUEBA TESTIMONIAL
+================================================================================
+
+4.1 VALORACION
+La Corte Suprema de Justicia de la Nacion ha establecido que "la fuerza
+probatoria de un testigo esta vinculada con la razon de sus dichos y, en
+particular, con las explicaciones que pueda dar acerca del conocimiento de
+los hechos a traves de lo que sus sentidos percibieran".
+
+4.2 INTEGRACION PROBATORIA
+La Corte ha senalado que corresponde dejar sin efecto la sentencia que
+rechaza la demanda cuando "mediante un estudio parcializado de los diversos
+elementos de juicio obrantes en la causa y sin dar explicaciones suficientes
+para ello, no se los integro ni se los armonizo debidamente".
+Fuente: Resultado de busqueda [14].
+
+================================================================================
+5. ANALISIS SOBRE SUFICIENCIA DE PRUEBA SIN PERITO
+================================================================================
+
+5.1 CONSTATACIONES VERIFICADAS EN FUENTES
+- Los tribunales de CABA han resuelto casos de danos por humedad valiendose
+  frecuentemente de informes periciales como elemento determinante [6][8][10].
+- No se encontraron en la investigacion precedentes especificos de la
+  jurisprudencia de CABA donde se haya acreditado danos por corrosion/oxidacion
+  de electrodomesticos, hardware o puertas unicamente mediante boletas de
+  compra, fotografias y testimonios, sin peritaje profesional.
+- No se encontraron precedentes donde se haya establecido que dicha prueba
+  alternativa sea suficiente per se para condenar en casos de danos por
+  humedad en bienes muebles.
+
+5.2 PRINCIPIO DE VALORACION CONJUNTA (DOMINIO PUBLICO)
+El art. 274 CPCCN establece que el juez valora la prueba con traslado a las
+partes. La doctrina legal general sostiene que la prueba debe valorarse en
+conjunto. Sin embargo, la investigacion no verifico aplicacion especifica de
+este principio a casos de danos por humedad en bienes muebles sin peritaje.
+
+5.3 BOLETAS DE COMPRA
+Las boletas de compra constituyen prueba documental que acredita:
+- La adquisicion del bien
+- La fecha de adquisicion
+- El valor de adquisicion
+Nota: La investigacion no verifico en los precedentes consultados si las
+boletas solas, combinadas con fotografias y testimonios, han resultado
+suficientes para acreditar danos por corrosion/oxidacion por humedad.
+
+================================================================================
+6. VACIOS Y LIMITACIONES DE LA INVESTIGACION
+================================================================================
+
+6.1 PRECEDENTES NO ENCONTRADOS
+- No se localizo jurisprudencia especifica de CABA sobre danos a
+  electrodomesticos, hardware o puertas por corrosion/oxidacion por humedad.
+- No se localizo jurisprudencia especifica sobre la suficiencia de boletas +
+  fotos + testimonios como unica prueba en este tipo de danos.
+- No se localizo jurisprudencia sobre valoracion de fotografias de
+  electrodomesticos/hardware oxidados sin peritaje de autenticacion.
+
+6.2 FUENTES CONSULTADAS
+La investigacion se realizo mediante busqueda en motores de busqueda general
+de jurisprudencia argentina y portales de informacion legal. No se accedio
+a bases de datos jurisprudenciales oficiales de la Justicia de CABA (Comprob
+o Infojus) ni a repositorios judiciales cerrados.
+
+================================================================================
+7. CONCLUSIONES DEPURADAS (SIN SUPOSICIONES)
+================================================================================
+
+7.1 VERIFICADO:
+a) Existe jurisprudencia de CABA que reconoce la corrosion de cañerias y
+   cajas electricas por permanencia de agua/humedad [8].
+b) Los tribunales de CABA han confirmado condenas millonarias por danos de
+   filtraciones basandose en informes periciales [6].
+c) Las fotografias son admisibles como prueba pero requieren autenticidad [7].
+d) La prueba testimonial debe valorarse en conjunto y tiene limitaciones
+   legales (Ley 24.159) [14].
+e) La oxidacion por humedad es un fenomeno fisico reconocido judicialmente [1].
+
+7.2 NO VERIFICADO / NO ENCONTRADO:
+a) Precedentes especificos de CABA donde boletas + fotos + testimonios
+   (sin perito) hayan probado danos por corrosion/oxidacion en hardware,
+   electrodomesticos o puertas.
+b) Tablas o escalas de valor probatorio para estos medios de prueba en este
+   tipo de casos.
+c) Suficiencia probatoria establecida judicialmente para esta combinacion
+   especifica de medios de prueba en este tipo de danos materiales.
+
+7.3 INTERPRETACION NO REALIZADA:
+Este informe NO incluye:
+- Predicciones sobre el resultado probable de un litigio
+- Recomendaciones procesales especificas
+- Conclusiones sobre la "suficiencia" de la prueba que no esten expresamente
+  verificadas en fallos consultados
+- Suposiciones sobre la aplicacion de principios generales a casos concretos
+
+================================================================================
+8. BIBLIOGRAFIA Y FUENTES CONSULTADAS (KIMI LEGAL)
+================================================================================
+
+[1] Fuente sobre oxidacion de armas por humedad (jurisprudencia/consultora
+    legal online)
+[6] Fallo Camara Civil Sala F (2026) - Filtraciones y condena por $23M
+[7] Doctrina sobre prueba fotografica - autenticidad
+[8] Fallo Camara Civil Sala F (2021) - Filtraciones, corrosion cañerias
+[10] Fallo Camara Civil Sala M (2015) - Caso Bortnik, filtraciones
+[12] Art. 274 CPCCN - Valoracion de la prueba
+[14] Jurisprudencia CSJN/Camara Civil sobre prueba testimonial y valoracion
+     conjunta
+
+================================================================================
+FECHA DE ELABORACION DEL CONTENIDO INTEGRADO: 2026-04-19
+METODOLOGIA: Depuracion de contenido predictivo/supositorio. Solo datos
+verificados en fuentes consultadas + normativa de dominio publico.
+================================================================================
