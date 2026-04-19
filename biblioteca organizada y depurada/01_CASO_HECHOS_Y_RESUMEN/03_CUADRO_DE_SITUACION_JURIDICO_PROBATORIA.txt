@@ -167,3 +167,155 @@ Imposición servidumbre de agua sin consentimiento (Art. 2166 CCCN).
 Mantenimiento peligro común por 2 años (Art. 189 CP).
 Los daños son reparables íntegramente bajo el principio de reparación plena (Art. 1740 CCCN), incluyendo daño moral presumido (in re ipsa) por las condiciones infrahumanas soportadas, sin necesidad de peritaje psicológico, dado que "la prueba del daño moral surge del propio hecho de ver llover sobre la cama durante meses".
 Nota de uso: Este cuadro debe presentarse como Anexo Técnico-Jurídico acompañando la demanda principal, permitiendo al juez visualizar sistemáticamente cada incumplimiento normativo y su correlato probatorio correspondiente.
+
+
+================================================================================
+VIII. PRESCRIPCIÓN Y DAÑO CONTINUADO — ANÁLISIS TEMPORAL
+================================================================================
+
+A. PLAZO DE PRESCRIPCIÓN APLICABLE
+
+   • Art. 2561 CCyCN — La acción civil por daños derivados de la responsabilidad
+     civil prescribe a los TRES (3) AÑOS desde que la persona afectada tuvo o pudo
+     haber tenido conocimiento del daño y de quién fue el responsable.
+
+   • DAÑO CONTINUADO: En el presente caso, los daños NO han cesado. Las filtraciones,
+     la humedad, el riesgo eléctrico y el deterioro estructural CONTINÚAN al día de
+     la fecha. Por lo tanto:
+     - El plazo de prescripción NO COMIENZA mientras se mantenga la producción del daño.
+     - Se computa desde que CESA la causa del daño o cuando se produce el último acto
+       dañoso (doctrina del daño continuado).
+     - Cada nuevo desprendimiento, filtración o rajadura RENUEVA el plazo.
+
+   • Jurisprudencia aplicable: CNCiv., Sala C, "Antognazza, Oscar c/ Silvestris,
+     Florencio s/ daños y perjuicios", 14/10/14: El plazo de prescripción en daño
+     continuado se computa desde que cesa la causa del daño.
+
+B. INTERRUPCIÓN DE LA PRESCRIPCIÓN (Art. 2541 CCyCN)
+
+   Actos interruptivos realizados en el presente caso:
+   • Reclamos extrajudiciales documentados (WhatsApp, comunicaciones escritas)
+   • Inicio de mediación prejudicial obligatoria (Ley 13.951)
+   • Carta documento al Intendente de Merlo (fecha sellada)
+   • Cada uno de estos actos interrumpe el plazo y lo reinicia desde cero.
+
+C. SUSPENSIÓN DE LA PRESCRIPCIÓN (Art. 2541-2543 CCyCN)
+
+   • La mediación prejudicial SUSPENDE el curso de la prescripción desde la fecha
+     del acta de inicio hasta 20 días después de la fecha del acta de cierre.
+   • La presentación de la demanda interrumpe definitivamente la prescripción.
+
+
+================================================================================
+IX. LEY GENERAL DEL AMBIENTE 25.675 — APLICACIÓN AL CASO
+================================================================================
+
+A. PRINCIPIO PRECAUTORIO (Art. 4 Ley 25.675)
+
+   "Cuando haya peligro de daño grave o irreversible, la ausencia de información o
+   certeza científica no deberá ser utilizada como razón para postergar la adopción
+   de medidas eficaces para prevenir la degradación del ambiente."
+
+   APLICACIÓN AL CASO:
+   • La humedad superior al 70% sostenida por más de un año, con formación de hongos
+     y moho, configura un DAÑO AMBIENTAL al hábitat conforme Art. 27 Ley 25.675.
+   • La presencia de hongos produce afecciones respiratorias, alergias y asma.
+   • El principio precautorio OBLIGA a actuar preventivamente sin necesidad de
+     esperar certeza científica completa sobre los efectos en la salud.
+   • Legitima la solicitud de MEDIDAS URGENTES de saneamiento.
+
+B. DAÑO AMBIENTAL (Art. 27 Ley 25.675)
+
+   "Se define el daño ambiental como toda alteración relevante que modifique
+   negativamente el ambiente, sus recursos, el equilibrio de ecosistemas o los
+   bienes o valores colectivos."
+
+   El ambiente doméstico insalubre (humedad permanente + hongos + riesgo eléctrico
+   + riesgo estructural) constituye un daño ambiental que afecta el derecho
+   constitucional a un ambiente sano (Art. 41 CN).
+
+C. INVERSIÓN DE LA CARGA PROBATORIA EN MATERIA AMBIENTAL (Art. 29 Ley 25.675)
+
+   En caso de daño ambiental, corresponde al DEMANDADO acreditar que su actividad
+   no fue causa del daño. Esta inversión refuerza la posición del damnificado
+   en el presente caso, donde la obra clandestina es la causa evidente del
+   deterioro ambiental del inmueble.
+
+
+================================================================================
+X. JURISPRUDENCIA DE REFERENCIA — DAÑOS POR OBRA VECINA
+================================================================================
+
+A. DAÑO MORAL POR HUMEDAD DE OBRA LINDERA
+
+   Cámara de Apelaciones Civil y Comercial de Quilmes, Sala Segunda (2024):
+   • Caso: Daños por humedad y rajaduras en propiedad colindante por construcción
+     de torre.
+   • Resuelto: Condena a la constructora, incluyendo $2.800.000 solo por daño moral.
+   • Fundamento: Reconoce el impacto emocional y psicológico de las condiciones
+     de habitabilidad deterioradas.
+   • Relevancia: Establece que el daño moral en estos casos es cuantificable
+     independientemente del daño material.
+
+B. MEDIANERÍA Y DAÑOS POR OBRA (2025 — CABA)
+
+   • Caso: Consorcio demandó cobro de medianería e indemnización por daños
+     causados por obra en edificio lindero.
+   • Monto reclamado: $5.034.443,57
+   • El demandado no contestó demanda; reconocimiento de hechos por rebeldía.
+   • Relevancia: La falta de contestación opera como reconocimiento tácito
+     de los hechos, conforme Art. 356 CPCCN.
+
+C. ACTUALIZACIÓN DE MONTOS INDEMNIZATORIOS (2024-2025)
+
+   Cámara Segunda Civil de La Plata:
+   • Las indemnizaciones se actualizan conforme a pericia al momento de la sentencia.
+   • Se permite reapertura del incidente indemnizatorio para reflejar inflación.
+   • Los rubros se cuantifican en base a presupuestos actualizados a fecha del fallo.
+   • Relevancia: Los montos del caso deben calcularse a valores actualizados,
+     no históricos.
+
+D. PRINCIPIO IN RE IPSA EN DAÑO MORAL
+
+   Jurisprudencia constante de la SCBA y Cámaras de Apelación PBA:
+   • "No se requiere probar la tristeza de un hombre que ve llover sobre su cama
+     durante meses" — El daño moral se presume de los propios hechos cuando las
+     condiciones de habitabilidad son manifiestamente degradantes.
+   • La prueba in re ipsa opera sin necesidad de peritaje psicológico, aunque
+     el mismo puede agravar la cuantificación.
+
+E. ACCIÓN PREVENTIVA (Arts. 1711-1713 CCyCN)
+
+   CNCiv., Sala F: La acción preventiva procede cuando existe una amenaza de daño
+   cierto e inminente, sin necesidad de demostrar culpa. El juez puede ordenar
+   medidas de hacer o no hacer bajo apercibimiento de astreintes.
+   Aplicación: Solicitar remoción inmediata del tanque y reparaciones de urgencia
+   sin esperar sentencia definitiva.
+
+
+================================================================================
+XI. PLAZOS PROCESALES RELEVANTES — PROVINCIA DE BUENOS AIRES
+================================================================================
+
+   • Mediación prejudicial obligatoria: Ley 13.951. Plazo máximo de 60 días
+     hábiles. Ya agotada con acta de cierre sin acuerdo.
+   • Demanda: Sin plazo específico después de mediación, pero se recomienda
+     presentar dentro de los 30 días hábiles siguientes al cierre.
+   • Traslado de demanda: 15 días (Art. 338 CPCCBA).
+   • Reconvención: 15 días desde notificación del traslado (Art. 354 CPCCBA).
+   • Apertura a prueba: Plazo de prueba ordinario de 40 días (Art. 365 CPCCBA).
+   • Pericia: Designación de perito dentro de los 5 días de notificado el auto
+     de prueba; plazo para producir pericia según complejidad (Art. 459 CPCCBA).
+   • Alegatos: 6 días desde quedar firme la providencia de pase a alegar
+     (Art. 482 CPCCBA).
+   • Sentencia de primera instancia: 40 días desde llamamiento de autos
+     (Art. 34 inc. 3 CPCCBA).
+   • Apelación: 5 días desde notificación de sentencia (Art. 244 CPCCBA).
+
+   MEDIDAS CAUTELARES: Se resuelven INAUDITA PARTE dentro de las 48 horas
+   de su presentación. No requieren esperar al traslado de demanda.
+
+
+════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 03 — CUADRO DE SITUACIÓN JURÍDICO-PROBATORIA
+════════════════════════════════════════════════════════════════════════════
