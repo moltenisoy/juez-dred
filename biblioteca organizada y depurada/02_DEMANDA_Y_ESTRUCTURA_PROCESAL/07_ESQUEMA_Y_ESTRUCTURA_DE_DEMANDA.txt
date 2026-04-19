@@ -71,3 +71,154 @@ Actualización de montos: La Cámara de Apelaciones de Trenque Lauquen (2024) ha
 Prescripción: La acción de daños prescribe en 3 años desde el evento dañoso (art. 2572 CCyC).
 Nota crucial: Dada la complejidad de acreditar daños psicológicos, laborales y de salud indirectos, es indispensable el patrocinio de un abogado litigante que cuide los plazos procesales, la correcta citación de todos los responsables y la producción de la prueba pericial .
 Este esquema debe ser adaptado a tu caso concreto por un profesional matriculado, quien determinará si corresponde también vías alternativas como acción de amparo ambiental (si hay amenaza inminente e irreparable) ante el fuero contencioso administrativo, o la denuncia en la municipalidad para la clausura de la obra irregular.
+
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — AMPLIACIONES Y CORRECCIONES DE INVESTIGACIÓN
+================================================================================
+
+5. CORRECCIONES NORMATIVAS DETECTADAS
+────────────────────────────────────────────────────────────────
+
+   A) Art. 313 CPCCBA → CORRECTO: Art. 330 CPCCBA
+      El artículo que establece los requisitos formales de la demanda en
+      el CPCCBA es el Art. 330, no el 313. El Art. 313 refiere a escritos
+      en general. Misma observación para Art. 315 → Art. 333 (prueba documental).
+
+   B) Art. 2572 CCyCN (prescripción) → CORRECTO: Art. 2561 CCyCN
+      El plazo de prescripción de 3 años para acción de daños se encuentra
+      en el Art. 2561, no en el 2572.
+
+   C) Arts. 2618-2619 CCyCN → CORRECTO: Art. 1973 CCyCN (inmisiones)
+      Los artículos 2618-2619 corresponden al código anterior (Vélez Sarsfield).
+      En el CCyCN actual, las inmisiones se regulan en el Art. 1973.
+
+   D) Competencia territorial: Dice "Departamento Judicial [   ]"
+      → CORRECTO: Departamento Judicial de MERLO (Ley 13.859/2009)
+
+
+6. REQUISITOS FORMALES ACTUALIZADOS DE LA DEMANDA (Art. 330 CPCCBA)
+────────────────────────────────────────────────────────────────
+
+   La demanda debe contener obligatoriamente:
+
+   1) Nombre, DNI y domicilio REAL del actor
+   2) Domicilio LEGAL constituido (dentro del radio del juzgado)
+   3) Domicilio ELECTRÓNICO (OBLIGATORIO desde 2020):
+      → Se constituye con el CUIT/CUIL del abogado patrocinante
+      → Canal válido para notificaciones electrónicas
+      → Su omisión genera intimación a subsanar; si no se subsana,
+        puede declararse incomparecencia
+   4) Nombre y domicilio del demandado
+   5) Objeto de la demanda (pretensión concreta)
+   6) Hechos explicados claramente y en orden cronológico
+   7) Derecho en que se funda (fundamentación jurídica)
+   8) Prueba ofrecida (detallada por tipo)
+   9) Monto reclamado o justificación de indeterminación
+   10) Firma del letrado patrocinante y del actor
+
+   PRESENTACIÓN: Exclusivamente digital a través de la MEV (Mesa de
+   Entradas Virtual) del Poder Judicial PBA: mev.scba.gov.ar
+
+
+7. LITISCONSORCIO PASIVO — IDENTIFICACIÓN DE TODOS LOS RESPONSABLES
+────────────────────────────────────────────────────────────────
+
+   En obras clandestinas, corresponde demandar a TODOS los responsables
+   para obtener una sentencia plenamente ejecutable:
+
+   A) RESPONSABLES IDENTIFICABLES:
+
+      1) PROPIETARIO DEL INMUEBLE LINDERO (Sr. Juan Capria):
+         - Responsable como dueño de la cosa riesgosa (Art. 1757-1758 CCyCN)
+         - Responsable por contratación de obra sin permisos
+         - Responsable por omisión de control y dirección técnica
+
+      2) CONSTRUCTOR / EMPRESA CONSTRUCTORA (si es identificable):
+         - Responsable solidario con el propietario (Art. 1757 CCyCN)
+         - Responsable por ejecución defectuosa y sin medidas de seguridad
+
+      3) DIRECTOR TÉCNICO DE OBRA (si existió):
+         - Responsable por la "guarda intelectual" de la obra
+         - Si no existió director técnico: la ausencia agrava la
+           responsabilidad del propietario (responsabilidad directa)
+
+      4) MUNICIPALIDAD DE MERLO (como codemandada por omisión):
+         - Responsabilidad del Estado por omisión de control (Art. 1764-1766 CCyCN)
+         - NOTA: Puede requerir fuero contencioso administrativo (Ley 12.008 PBA)
+
+   B) TIPO DE LITISCONSORCIO:
+      - FACULTATIVO (Art. 88 CPCCBA): El actor puede demandar a todos juntos
+        o a cada uno por separado.
+      - Ventaja de demandar a todos: garantiza que la sentencia sea oponible
+        a todos y que la responsabilidad solidaria sea efectiva.
+
+   C) RESPONSABILIDAD SOLIDARIA (Arts. 1747-1751 CCyCN):
+      - Cuando el daño es causado por varios intervinientes, la solidaridad
+        se presume frente al damnificado.
+      - El demandante puede reclamar el TOTAL de la indemnización a
+        CUALQUIERA de los codemandados solidarios.
+      - La distribución interna entre los codemandados es cuestión entre ellos.
+
+
+8. AMPARO AMBIENTAL — VÍA ALTERNATIVA COMPLEMENTARIA
+────────────────────────────────────────────────────────────────
+
+   Art. 41 CN + Ley 25.675 (Ley General del Ambiente):
+
+   Si las condiciones del inmueble configuran un daño ambiental (humedad
+   permanente + hongos + riesgo eléctrico = ambiente insalubre), se puede
+   interponer una ACCIÓN DE AMPARO AMBIENTAL como vía complementaria:
+
+   • Fundamento: Art. 41 CN (derecho a un ambiente sano) + Art. 43 CN (amparo)
+   • Principio precautorio (Art. 4 Ley 25.675): No requiere certeza científica
+     sobre el daño; basta la amenaza de daño grave o irreversible.
+   • Inversión de la carga de la prueba (Art. 29 Ley 25.675): El demandado
+     debe probar que su actividad no causa daño ambiental.
+   • Competencia: Puede tramitar ante el mismo juzgado civil o ante el
+     fuero contencioso administrativo si se demanda al municipio.
+
+   VENTAJA: Permite obtener medidas cautelares de saneamiento ambiental
+   con mayor celeridad que el juicio ordinario de daños.
+
+
+9. ESQUEMA TEMPORAL DEL PROCESO ORDINARIO DE DAÑOS (PBA)
+────────────────────────────────────────────────────────────────
+
+   1) MEDIACIÓN PREJUDICIAL (Ley 13.951): 60 días hábiles máximo → CUMPLIDO
+   2) PRESENTACIÓN DE DEMANDA + medidas cautelares simultáneas
+   3) TRASLADO: 15 días al demandado (Art. 338 CPCCBA)
+   4) CONTESTACIÓN + eventual reconvención: 15 días (Art. 354 CPCCBA)
+   5) TRASLADO de reconvención al actor: 15 días
+   6) AUDIENCIA PRELIMINAR (Art. 360 CPCCBA): Fijación de hechos controvertidos
+      y determinación de prueba admisible
+   7) APERTURA A PRUEBA: 40 días (Art. 365 CPCCBA)
+      - Producción de prueba pericial, testimonial, informativa
+      - Designación de peritos de oficio (5 días desde notificación)
+   8) ALEGATOS: 6 días cada parte (Art. 482 CPCCBA)
+   9) SENTENCIA: 40 días desde llamamiento de autos (Art. 34 inc. 3 CPCCBA)
+   10) APELACIÓN: 5 días desde notificación (Art. 244 CPCCBA)
+
+   DURACIÓN ESTIMADA TOTAL: 12 a 24 meses (proceso ordinario sin incidentes)
+
+   MEDIDAS CAUTELARES: Se resuelven INAUDITA PARTE en 48 horas.
+   No esperan al traslado de demanda. PRIORIZAR su presentación simultánea.
+
+
+10. VALOR DE LA CAUSA — ESTIMACIÓN ORIENTATIVA
+────────────────────────────────────────────────────────────────
+
+   El Art. 330 CPCCBA exige indicar el valor de la causa. Opciones:
+
+   A) Estimación concreta basada en presupuestos existentes + rubros calculables
+   B) "Monto indeterminado sujeto a lo que en más o en menos resulte de la
+      prueba a producirse" — Fórmula aceptada por jurisprudencia PBA cuando
+      la cuantificación depende de peritajes aún no realizados.
+
+   La tasa de justicia (3%) se calcula sobre el monto demandado. Si se
+   obtiene el BLSG, se queda exento de su pago.
+
+
+════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 07 — ESQUEMA Y ESTRUCTURA DE DEMANDA
+════════════════════════════════════════════════════════════════════════════
