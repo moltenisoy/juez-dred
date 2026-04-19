@@ -630,5 +630,57 @@ SITUACIONES FÁCTICAS MAPEADAS A NORMATIVA APLICABLE:
      Municipal.
 
 ================================================================================
+ADDENDUM — TABLA NORMATIVA Y OBLIGACIÓN DE RESULTADO
+(Fuente: "Responsabilidad Civil y Reparación Integral ante Daños por Obras
+Linderas Clandestinas en la Jurisprudencia de la PBA")
+================================================================================
+
+A. TABLA: ESTRUCTURA NORMATIVA DE LA RESPONSABILIDAD CIVIL EN OBRAS (CCyC)
+
+Artículo | Concepto Jurídico          | Aplicación al Caso de Obras Linderas
+---------+----------------------------+---------------------------------------
+1710     | Deber de Prevención        | Obligación de realizar apuntalamientos
+         |                            | y estudios previos para evitar daños
+         |                            | al vecino.
+---------+----------------------------+---------------------------------------
+1740     | Reparación Plena           | Restitución de la víctima al estado
+         |                            | anterior (reparación de muebles,
+         |                            | inmuebles y ropa).
+---------+----------------------------+---------------------------------------
+1757     | Riesgo Creado              | Responsabilidad objetiva por la
+         |                            | actividad riesgosa de la construcción.
+---------+----------------------------+---------------------------------------
+1758     | Sujetos Responsables       | Responsabilidad concurrente del dueño
+         |                            | de la obra, el constructor y el
+         |                            | director.
+---------+----------------------------+---------------------------------------
+1970     | Límites al Dominio         | El derecho de propiedad está limitado
+         |                            | por las normas administrativas de
+         |                            | edificación.
+---------+----------------------------+---------------------------------------
+1973     | Inmisiones                 | El ruido, humedad y vibraciones no
+         |                            | deben exceder la normal tolerancia.
+---------+----------------------------+---------------------------------------
+
+Nota: El Art. 1970 (Límites al Dominio) establece que el ejercicio del
+derecho de propiedad no puede exceder los límites impuestos por la
+normativa administrativa de edificación, complementando la responsabilidad
+objetiva con un marco de antijuridicidad formal.
+
+B. OBLIGACIÓN DE RESULTADO DEL DUEÑO DE LA OBRA Y EL CONSTRUCTOR
+
+La jurisprudencia reciente de la Cámara de Apelaciones en lo Civil y
+Comercial de Quilmes y de Lomas de Zamora ha ratificado que el dueño de
+la obra y el constructor asumen una obligación de resultado: entregar la
+obra terminada sin haber causado perjuicios a los fundos vecinos.
+
+Ante la aparición de grietas, filtraciones, goteras o riesgos estructurales
+en el inmueble lindero, se configura una presunción de causalidad que solo
+puede ser fracturada mediante la prueba de una causa ajena, como la culpa
+exclusiva de la víctima o un caso fortuito extraordinario.
+
+Fuente: Cámara de Quilmes y Lomas de Zamora (jurisprudencia 2022-2024).
+
+================================================================================
 FIN DEL ARCHIVO 40 — MARCO LEGAL Y RESPONSABILIDAD CIVIL
 ================================================================================

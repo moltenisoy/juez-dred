@@ -171,8 +171,13 @@ construcción. Se divide en tres subcarpetas temáticas.
     Síntesis de normativa de fondo (CCCN arts. 1710-1757): responsabilidad
     objetiva, daño emergente, lucro cesante, daño moral, actualización
     monetaria e intereses. Aborda la presunción de daño notorio (>70%
-    humedad). Consultarlo para cuantificación de daño, argumentación de
-    actualización monetaria y fundamentación de daño moral ex re ipsa.
+    humedad). Incluye addendum con tabla normativa integrada de 6 artículos
+    CCyC (1710, 1740, 1757, 1758, 1970, 1973) con aplicación a obras
+    linderas, y doctrina de la obligación de resultado del dueño y
+    constructor (Cámara Quilmes y Lomas de Zamora 2022-2024). Consultarlo
+    para cuantificación de daño, argumentación de actualización monetaria,
+    fundamentación de daño moral ex re ipsa y Art. 1970 (Límites al
+    Dominio).
 
   ► 16_NORMATIVA_CONSTITUCIONAL_CIVIL_PROFESIONAL_MUNICIPAL.txt
     Compilación normativa integral organizada en cuatro bloques: bloque
@@ -292,9 +297,12 @@ cesante/patrimoniales.
     Cuantificación monetaria de rubros indemnizatorios con jurisprudencia
     verificada (SCBA, Microjuris, CIJ 2021-2026): daño material, daño moral,
     daño psicológico, lucro cesante, con montos y fórmulas de cálculo.
-    Incluye precedente rector CNBariloche ($16.473.648 daño material) y
-    criterios de actualización. Consultarlo para fundamentar la pretensión
-    económica con precedentes concretos y montos de referencia actualizados.
+    Incluye precedente rector CNBariloche ($16.473.648 daño material),
+    criterios de actualización y tabla de rubros resarcibles con evidencia
+    requerida para cada rubro (Daño Emergente inmueble/muebles, Privación
+    de Uso, Lucro Cesante, Daño Extrapatrimonial). Consultarlo para
+    fundamentar la pretensión económica con precedentes concretos, montos
+    de referencia actualizados y tipo de evidencia a reunir por rubro.
 
   ┌──────────────────────────────────────────────────────────────────────────┐
   │ 04b_Danos_Personales_Y_Morales                                           │
@@ -315,9 +323,12 @@ cesante/patrimoniales.
     Investigación jurídica sobre consecuencias psicofísicas de habitar en
     ambiente hostil (humedad, riesgos, hongos). Desarrolla daño moral
     acreditado por decantación normativa (art. 1741 CCyC), presunciones
-    hominis y padecimiento sostenido ~2 años. Consultarlo para argumentar
-    daño moral acreditado automáticamente por condición notoria de
-    inhabitabilidad, sin prueba adicional de perturbación psíquica.
+    hominis y padecimiento sostenido ~2 años. Incluye Bloque VI con
+    doctrina del "Hogar como Santuario de la Intimidad y Seguridad" (Cámara
+    Quilmes Sala II, Nov. 2022) y tabla de 5 factores de agravamiento del
+    daño moral (temporalidad, integridad física, vida de relación, dignidad
+    personal, pérdida de espacio). Consultarlo para argumentar daño moral
+    in re ipsa por inhabitabilidad y factores agravantes específicos.
 
   ► 31_DANO_PSICOFISICO_E_INTERESES_BARRIOS.txt
     Distinción entre daño psicofísico (afectación objetiva de salud) y daño
@@ -375,9 +386,13 @@ redacción de los fundamentos de derecho y la réplica.
     Arsenal jurídico para rebatir la defensa típica del demandado ("inmueble
     antiguo, ya estaba dañado"). Analiza daños directos (pisado de techo,
     escombros) e indirectos (filtraciones por deterioro de impermeabilización)
-    con relación causal inmediata y mediata previsible. Consultarlo para
-    preparar respuesta a contestación de demanda y rebatir la estrategia
-    defensiva sobre estado previo del inmueble.
+    con relación causal inmediata y mediata previsible. Incluye addendum con
+    tabla de impacto de clandestinidad en la defensa (5 documentos faltantes
+    y sus consecuencias), doctrina SCBA del acta de linderos, limitación de
+    capacidad de refutación del demandado sin documentación técnica, y
+    doctrina de cargas probatorias dinámicas. Consultarlo para preparar
+    respuesta a contestación de demanda, rebatir estrategia defensiva y
+    demostrar la vulnerabilidad procesal del demandado clandestino.
 
 
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -420,8 +435,12 @@ la prueba hasta precedentes favorables descargables.
     Casos reales 2021-2026 de daños por obra lindera en PBA: sentencias con
     pericias, formato/estructura de informes periciales y fuentes descargables.
     Incluye refutación de defensa "daño preexistente" e indemnización por daño
-    material, moral y psicológico. Consultarlo como precedentes jurisprudenciales
-    concretos y para modelar el informe pericial del caso.
+    material, moral y psicológico. Incorpora 3 nuevos precedentes PBA: Cámara
+    Quilmes Sala II (Nov. 2022, doctrina "fortaleza de serenidad"), SCBA
+    Causa C. 124.096 (2020/2021, cuantificación a valores actuales), y
+    Cámara Lomas de Zamora (2024, resp. objetiva fideicomiso constructor).
+    Consultarlo como precedentes jurisprudenciales concretos y para modelar
+    el informe pericial del caso.
 
   ► 42_PRUEBA_PERICIAL_PSICOLOGICA_MEDICA_TECNICA.txt
     Guía completa de prueba pericial en tres áreas: informe psicológico/

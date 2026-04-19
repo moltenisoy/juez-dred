@@ -251,4 +251,73 @@ Doctrina consolidada
 Refuerza la inutilidad de la defensa elegida.
 
 
+================================================================================
+ADDENDUM — IMPACTO DE LA CLANDESTINIDAD Y DOCTRINA DEL ACTA DE LINDEROS
+(Fuente: "Responsabilidad Civil y Reparación Integral ante Daños por Obras
+Linderas Clandestinas en la Jurisprudencia de la PBA")
+================================================================================
+
+A. TABLA: IMPACTO DE LA CLANDESTINIDAD EN LA DEFENSA DEL DEMANDADO
+
+Documento Faltante          | Consecuencia Legal en PBA    | Impacto en el Juicio
+----------------------------+------------------------------+----------------------------
+Permiso de Obra / Planos    | Presunción de               | Se considera que la
+                            | antijuridicidad.             | actividad es ilícita per se.
+----------------------------+------------------------------+----------------------------
+Acta de Linderos            | Inversión de la carga        | No puede probar que los
+                            | probatoria fáctica.          | daños eran preexistentes.
+----------------------------+------------------------------+----------------------------
+Estudio de Sobrecarga       | Presunción de impericia      | Se le atribuye la
+                            | técnica.                     | responsabilidad por las
+                            |                              | filtraciones en losas.
+----------------------------+------------------------------+----------------------------
+Informe del Estado Parcelario| Violación de la Ley 10.707. | Posibles multas y sanciones
+                            |                              | administrativas concurrentes.
+----------------------------+------------------------------+----------------------------
+Pago de Tasas/Cuotas        | Indicio de mala fe.          | Influye en la valoración
+                            |                              | integral de la conducta del
+                            |                              | demandado.
+----------------------------+------------------------------+----------------------------
+
+Fuente: "Responsabilidad Civil y Reparación Integral ante Daños por Obras
+Linderas Clandestinas en la Jurisprudencia de la PBA" — Tabla 3.
+
+B. DOCTRINA DEL ACTA DE LINDEROS — SCBA
+
+La doctrina de la Suprema Corte de Justicia de la Provincia de Buenos Aires
+(SCBA) es clara: es carga del constructor documentar el estado previo del
+vecino antes de iniciar los trabajos. Si no lo hizo, se presume que todos
+los daños constatados durante o después de la obra son consecuencia directa
+de la misma.
+
+Cuando el constructor omite estas medidas preventivas —especialmente si la
+obra es clandestina— se coloca en una posición de vulnerabilidad procesal
+extrema. El sistema jurídico bonaerense interpreta el incumplimiento de las
+normas administrativas como un indicio grave de impericia técnica que
+refuerza la responsabilidad del agente dañoso.
+
+C. LIMITACIÓN DE LA CAPACIDAD DE REFUTACIÓN DEL DEMANDADO
+
+Cuando un demandado ha construido sin planos ni documentación técnica, se
+encuentra "desarmado" para impugnar científicamente el informe del actor.
+Para refutar un dictamen técnico, no basta con negarlo; se debe aportar una
+contraprueba de igual o mayor rigor científico. Al no poseer cálculos
+estructurales ni planos aprobados, cualquier impugnación que intente el
+demandado será valorada por el juez como una mera opinión subjetiva carente
+de sustento documental.
+
+D. DOCTRINA DE LAS CARGAS PROBATORIAS DINÁMICAS
+
+El principio general es que cada parte debe probar los hechos que alega.
+Sin embargo, en casos de daños por construcción rige la doctrina de las
+"cargas probatorias dinámicas". Esta doctrina establece que la carga de
+probar recae sobre quien se encuentra en mejores condiciones técnicas y
+profesionales de hacerlo. El constructor, como profesional de la
+edificación, tiene el deber de custodiar toda la documentación técnica de
+su obra. Si no la tiene por ser clandestina, su silencio o falta de
+pruebas se interpreta como una admisión de los hechos denunciados por la
+víctima.
+
+================================================================================
+
 NOTA LEGAL: El presente documento constituye un análisis jurídico de referencia para uso exclusivo de la parte actora y su abogado patrocinante. No reemplaza el asesoramiento jurídico personalizado del profesional actuante, quien deberá adecuar la estrategia procesal a los hechos concretos, las pruebas disponibles y la normativa aplicable según la fecha de los hechos. Toda la normativa citada se encuentra vigente y aplicable en el Partido de Merlo, Provincia de Buenos Aires, en el fuero Civil y Comercial del Departamento Judicial Morón.
