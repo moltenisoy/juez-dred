@@ -238,3 +238,95 @@ CIRCULAR TÉCNICA SOBRE NORMAS AEA (Asociación Electrotécnica Argentina):
   cumplimiento de normas de seguridad; prevención de accidentes por contactos
   indirectos; protección de vecinos frente a riesgos eléctricos de
   instalaciones provisionales o definitivas no reglamentarias.
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — NORMATIVA CONSTRUCCIÓN INMUEBLES LINDEROS: AMPLIACIÓN Y CORRECCIONES
+================================================================================
+
+CORRECCIÓN 1 — ARTÍCULOS DE VISTAS Y LUCES:
+El texto principal refiere a los Arts. 2654 a 2658 para restricciones de
+vistas y luces. En el CCyCN vigente, las normas sobre luces y vistas en
+relaciones de vecindad se encuentran en los Arts. 1970 a 1982 (Límites al
+dominio). Los Arts. 2654-2658 corresponden a normas de Derecho Internacional
+Privado. Se debe citar correctamente:
+— Art. 1978 CCyCN: Vistas. Prohibición de tener vistas sobre el predio
+  vecino a menos de 3 metros de distancia.
+— Art. 1979 CCyCN: Luces. Derecho a abrir luces en pared no medianera.
+— Art. 1982 CCyCN: Árboles, arbustos y plantas. Distancias mínimas.
+
+CORRECCIÓN 2 — AGUAS PLUVIALES:
+El texto cita el Art. 2630 del CCyC para aguas pluviales. En el CCyCN
+vigente, la regulación de aguas se encuentra en los Arts. 1975 y 2015.
+— Art. 1975 CCyCN: Obligación de recibir las aguas que naturalmente
+  descienden de los fundos superiores. Prohibición de realizar obras que
+  alteren el curso natural del agua en perjuicio del vecino.
+— Art. 2015 CCyCN: Medianería y estanqueidad. El que construye debe
+  asegurar que las aguas pluviales caigan sobre su propio terreno.
+
+AMPLIACIÓN 1 — RESPONSABILIDAD POR ACTIVIDADES RIESGOSAS EN OBRAS LINDERAS:
+El Art. 1757 CCyCN califica como riesgosa la actividad constructiva. En
+obras linderas, la jurisprudencia de la PBA ha identificado como actividades
+especialmente riesgosas las siguientes:
+a) Excavaciones para cimientos que afectan la estabilidad del suelo vecino.
+b) Submuración de paredes medianeras sin apuntalamiento previo.
+c) Demolición de estructuras existentes con impacto vibratorio al lindero.
+d) Colocación de cargas concentradas (tanques, equipos) sobre losa
+   compartida o medianera sin verificación de capacidad portante.
+e) Trabajos en altura sin protección contra caída de materiales al
+   predio vecino.
+Cada una de estas actividades genera responsabilidad objetiva bajo los
+Arts. 1757-1758 CCyCN, sin necesidad de probar culpa del ejecutor.
+
+AMPLIACIÓN 2 — CONSTITUCIÓN EN MORA DEL RESPONSABLE (Art. 886 CCyCN):
+En obligaciones de no hacer (no dañar al vecino), la mora se configura
+automáticamente desde que se produce el acto contrario a la obligación
+(Art. 887 inc. a CCyCN). En obligaciones de hacer (reparar, cesar la causa
+del daño), la constitución en mora requiere interpelación fehaciente al
+deudor mediante carta documento o acta notarial (Art. 886 CCyCN).
+La mora del deudor genera:
+— Obligación de indemnizar los daños moratorios (Art. 768 CCyCN).
+— Curso de intereses moratorios desde la fecha de la mora.
+— Traslado del riesgo al deudor moroso (Art. 1733 CCyCN).
+
+AMPLIACIÓN 3 — SUSPENSIÓN DE PRESCRIPCIÓN (Art. 2546 CCyCN):
+La interpelación fehaciente (carta documento) SUSPENDE la prescripción por
+SEIS (6) MESES, por una sola vez (Art. 2546 CCyCN). NO interrumpe el plazo
+prescriptivo. Vencidos los 6 meses, el cómputo se reanuda. La interrupción
+de la prescripción (que borra el tiempo corrido) requiere: a) demanda
+judicial (Art. 2546 in fine CCyCN), b) reconocimiento del obligado (Art. 2545
+CCyCN), o c) solicitud de arbitraje (Art. 2548 CCyCN).
+
+AMPLIACIÓN 4 — DERECHO DE PASO PARA REPARACIONES (Art. 1977 CCyCN):
+El Art. 1977 del CCyCN establece que si es indispensable poner andamios u
+otros elementos en el inmueble vecino para realizar reparaciones, el
+propietario de dicho inmueble debe tolerarlo, pero quien realice los trabajos
+debe reparar los daños causados. En el caso de Merlo, si la obra lindera
+causó daños que requieren reparación, el constructor o dueño que necesite
+acceder al inmueble dañado para reparar debe solicitar autorización y
+reparar cualquier daño adicional que cause durante los trabajos.
+
+AMPLIACIÓN 5 — ACCIÓN PREVENTIVA COMO HERRAMIENTA CAUTELAR (Art. 1711 CCyCN):
+El Art. 1711 CCyCN introduce la acción preventiva autónoma, que procede
+cuando una acción u omisión antijurídica hace previsible la producción,
+continuación o agravamiento de un daño. Sus características:
+— NO requiere factor de atribución (no hay que probar culpa ni dolo).
+— NO requiere que el daño se haya consumado.
+— Puede ser solicitada en cualquier momento del proceso o como cautelar
+  previa.
+— El juez puede disponer la paralización de la obra, el apuntalamiento
+  de estructuras, la impermeabilización urgente, y cualquier otra medida
+  idónea para prevenir el daño.
+Aplicación al caso: ante la constatación de una obra clandestina que genera
+filtraciones, desprendimientos o riesgo estructural, la acción preventiva
+permite obtener la paralización inmediata sin esperar la sentencia de fondo.
+
+AMPLIACIÓN 6 — DEPARTAMENTO JUDICIAL COMPETENTE:
+El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MERLO (creado
+por Ley 13.859/2009), NO al de Morón. Los juzgados civiles y comerciales
+de primera instancia con competencia territorial se encuentran en la ciudad
+de Merlo. La Cámara de Apelación del Departamento Judicial de Merlo es la
+alzada natural.
+
+================================================================================
+FIN DEL ARCHIVO 17 — NORMATIVA CONSTRUCCIÓN INMUEBLES LINDEROS (AMPLIADO)
+================================================================================

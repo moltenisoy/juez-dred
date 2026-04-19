@@ -291,3 +291,102 @@ Obras citadas
 41. Código Civil - Biblioteca Electrónica, fecha de acceso: abril 5, 2026, https://biblioteca.afip.gob.ar/dcp/CCI_C_000340_1869_09_25
 42. Decreto 911 / 1996 - Exactas UBA, fecha de acceso: abril 5, 2026, https://exactas.uba.ar/higieneyseguridad/wp-content/uploads/2019/08/Decreto-PEN-911-1996.pdf
 
+================================================================================
+SECCIÓN COMPLEMENTARIA — PERMISOS Y DOCUMENTACIÓN REQUERIDA: AMPLIACIÓN Y CORRECCIONES
+================================================================================
+
+CORRECCIÓN 1 — DEPARTAMENTO JUDICIAL COMPETENTE:
+El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MERLO, creado por
+Ley 13.859/2009. NO corresponde al Departamento Judicial de Morón. Toda
+actuación judicial relativa a obras en el Partido de Merlo se radica en los
+juzgados de primera instancia con asiento en la ciudad de Merlo.
+
+CORRECCIÓN 2 — LEY ORGÁNICA MUNICIPAL (Decreto-Ley 6769/58):
+La facultad municipal de fiscalización de obras surge del Decreto-Ley
+6769/58 (Ley Orgánica de las Municipalidades PBA), Art. 27 inc. 7°. No
+debe citarse como "Ley 10.147", que refiere a otra materia.
+
+AMPLIACIÓN 1 — CONSECUENCIAS JURÍDICAS DE LA AUSENCIA DE PERMISOS:
+La ejecución de obra sin los permisos y documentación aquí detallados
+configura múltiples consecuencias jurídicas simultáneas:
+
+a) PLANO ADMINISTRATIVO-MUNICIPAL:
+   — Paralización inmediata de la obra por la D.O.P. de Merlo (Ordenanza
+     757/2000, Art. 168).
+   — Multa por obra clandestina (Ordenanza Fiscal Tarifaria vigente).
+   — Orden de demolición si la obra compromete seguridad de terceros.
+   — Imposibilidad de obtener certificado final de obra y de regularizar
+     catastralmente la ampliación.
+
+b) PLANO CIVIL — RESPONSABILIDAD POR DAÑOS (CCyCN):
+   — Art. 1717 CCyCN: La obra sin permisos es conducta antijurídica.
+   — Art. 1757 CCyCN: Responsabilidad objetiva por actividad riesgosa.
+   — Art. 1758 CCyCN: Responsabilidad concurrente del dueño y guardián.
+   — Art. 1273 CCyCN: Responsabilidad del constructor por inobservancia
+     de normas administrativas, incluso frente a terceros.
+   — Art. 1735 CCyCN: Cargas probatorias dinámicas. La ausencia de
+     documentación impide al demandado probar diligencia.
+
+c) PLANO PENAL:
+   — Art. 183 CP: Daño simple (acción pública).
+   — Art. 189 CP: Estrago culposo si la obra sin permisos genera riesgo
+     de derrumbe, incendio o inundación.
+   — Art. 94 CP: Lesiones culposas si hay daños corporales.
+
+d) PLANO PROFESIONAL:
+   — Art. 7 Ley 10.405 PBA: Ejercicio ilegal de la profesión si no
+     intervino profesional habilitado.
+   — Art. 17 Ley 10.405: Infracciones disciplinarias por negligencia.
+   — Posibilidad de denuncia al CAPBA (Colegio de Arquitectos) o CPIC
+     (Consejo Profesional de Ingeniería Civil).
+
+AMPLIACIÓN 2 — DOCUMENTACIÓN VECINAL PROBATORIA:
+El propietario del inmueble dañado por la obra clandestina debe reunir la
+siguiente documentación para acreditar la falta de permisos y el daño:
+a) Informe de la D.O.P. de Merlo certificando inexistencia de expediente
+   de obra a nombre del demandado.
+b) Acta notarial de constatación del estado del inmueble dañado.
+c) Fotografías con fecha cierta (selladas por escribano o con metadatos).
+d) Carta documento al demandado intimando la cesación de la obra y la
+   reparación de los daños (Art. 886 CCyCN — constitución en mora;
+   Art. 2546 CCyCN — suspensión de prescripción por 6 meses).
+e) Constancia de denuncia ante la D.O.P. de Merlo por obra sin permiso.
+f) Presupuesto de empresa constructora para la reparación de los daños.
+
+AMPLIACIÓN 3 — RELEVANCIA DEL DECRETO 911/96 EN OBRAS DOMÉSTICAS:
+Aunque el Decreto 911/96 está dirigido a la industria de la construcción
+formal, su aplicación se extiende a toda obra donde intervengan trabajadores
+en relación de dependencia o contratados. En obras de ampliación de
+viviendas unifamiliares como la del caso de Merlo:
+— Si el dueño contrató albañiles de manera informal (sin ART, sin
+  registro), incumple los Arts. 4 y 5 del Decreto 911/96.
+— El comitente es SOLIDARIAMENTE responsable con contratistas y
+  subcontratistas respecto de la seguridad de los trabajadores (Art. 4).
+— La ausencia de programa de seguridad constituye infracción grave ante
+  la SRT y presunción de negligencia en sede civil.
+
+AMPLIACIÓN 4 — VALOR PROBATORIO DE LA AUSENCIA DE DOCUMENTACIÓN:
+En el proceso judicial, la ausencia total de permisos y documentación
+opera como una presunción fuerte contra el demandado:
+— Art. 163 inc. 5° CPCC PBA: El juez puede presumir la existencia de
+  hechos que resultan de indicios graves, precisos y concordantes.
+— La falta de permiso municipal + falta de profesional + falta de cálculo
+  estructural + daños en el inmueble vecino = indicios concordantes de
+  causalidad.
+— Art. 384 CPCC PBA: El juez valora la prueba según las reglas de la
+  sana crítica. La ausencia de toda documentación priva al demandado de
+  prueba contraria eficaz.
+
+AMPLIACIÓN 5 — CONSTANCIA DE DENUNCIA MUNICIPAL COMO PRUEBA:
+La denuncia ante la Dirección de Obras Particulares de Merlo por obra
+sin permiso genera:
+a) Un expediente administrativo con fecha cierta.
+b) Un acta de inspección municipal (instrumento público, Art. 296 CCyCN).
+c) Posible orden de paralización y/o multa al infractor.
+d) Un antecedente que, incorporado al expediente judicial, activa la
+   presunción del Art. 29 de la Ley 25.675 (infracción administrativa
+   previa = presunción iuris tantum de responsabilidad).
+
+================================================================================
+FIN DEL ARCHIVO 19 — PERMISOS Y DOCUMENTACIÓN REQUERIDA PARA OBRA (AMPLIADO)
+================================================================================

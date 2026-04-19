@@ -494,5 +494,115 @@ referencia rápida, preservando la redacción original de la fuente.
 
 
 ================================================================================
-FIN DEL ARCHIVO 49
+SECCIÓN COMPLEMENTARIA — CLASIFICACIÓN DE REQUISITOS Y SECUENCIA CONSTRUCTIVA: AMPLIACIÓN Y CORRECCIONES
+================================================================================
+
+CORRECCIÓN 1 — DEPARTAMENTO JUDICIAL COMPETENTE:
+En la Sección 5.5 (línea 344) se indica erróneamente "Departamento Judicial
+de Morón". CORRECCIÓN: El Partido de Merlo pertenece al DEPARTAMENTO
+JUDICIAL DE MERLO, creado por Ley 13.859/2009. Los juzgados civiles y
+comerciales de primera instancia con competencia territorial tienen asiento
+en la ciudad de Merlo. La Cámara de Apelación del Departamento Judicial de
+Merlo es la alzada natural para todos los procesos originados en Merlo.
+
+CORRECCIÓN 2 — LEY ORGÁNICA MUNICIPAL PBA:
+La norma que regula las atribuciones municipales en materia de obras y
+edificación es el Decreto-Ley 6769/58 (Ley Orgánica de las Municipalidades
+PBA). NO debe citarse como "Ley 10.147". El Art. 27 del Decreto-Ley
+6769/58 (incs. 5°, 7°, 10° y 19°) fundamenta la potestad municipal de
+Merlo para exigir permisos, fiscalizar obras y ordenar paralizaciones.
+
+CORRECCIÓN 3 — CONSTITUCIÓN EN MORA Y PRESCRIPCIÓN:
+— La constitución en mora del demandado se rige por el Art. 886 CCyCN
+  (interpelación fehaciente o mora automática), NO por el Art. 1717 CCyCN
+  (antijuridicidad).
+— La carta documento al demandado SUSPENDE la prescripción por 6 meses
+  (Art. 2546 CCyCN). NO la interrumpe.
+
+AMPLIACIÓN 1 — CONSECUENCIA ACUMULATIVA DE LAS 19 INFRACCIONES:
+La omisión simultánea de los 19 requisitos catalogados en este archivo
+genera un efecto jurídico acumulativo:
+a) Cada requisito omitido constituye una infracción autónoma con
+   fundamentación normativa diferenciada.
+b) La acumulación de infracciones destruye toda posibilidad de defensa
+   del demandado basada en "cumplimiento parcial" o "buena fe".
+c) La multiplicidad de omisiones configura una conducta gravemente
+   negligente que agrava el daño moral (Art. 1741 CCyCN).
+d) El juez puede valorar la cantidad de requisitos omitidos como indicio
+   de "indiferencia hacia el daño ajeno", agravando la cuantificación
+   de la indemnización.
+e) La falta de TODOS los permisos constituye prueba directa de la
+   clandestinidad de la obra (Art. 1717 CCyCN — antijuridicidad formal).
+
+AMPLIACIÓN 2 — SECUENCIA CRONOLÓGICA OBLIGATORIA DE LA OBRA:
+La obra de ampliación con construcción de planta superior debió seguir
+la siguiente secuencia legal obligatoria:
+
+FASE 1 — PREVIA AL INICIO DE OBRA:
+   1. Consentimiento unánime de copropietarios (Art. 7 Ley 13.512).
+   2. Contratación de profesional habilitado (Ley 10.405 PBA).
+   3. Elaboración de planos y cálculo estructural (CIRSOC 101/201).
+   4. Trámite de permiso de obra ante D.O.P. de Merlo.
+   5. Visado de planos por CAPBA Distrito 3 o CPIC.
+   6. Pago de derechos de construcción (Ordenanza Fiscal Merlo).
+   7. Obtención de línea y nivel comunal.
+   8. Autorización escrita del propietario vecino lindero.
+   9. Contratación de ART y programa de seguridad (Decreto 911/96).
+
+FASE 2 — DURANTE LA EJECUCIÓN:
+   10. Colocación de cartel de obra reglamentario.
+   11. Relevamiento del estado previo del inmueble vecino (acta notarial).
+   12. Ejecución conforme a planos aprobados.
+   13. Supervisión permanente del director técnico.
+   14. Cumplimiento de normas de seguridad e higiene.
+   15. Protección de la propiedad vecina (apuntalamiento, impermeabilización).
+
+FASE 3 — POSTERIOR A LA FINALIZACIÓN:
+   16. Solicitud de inspección final municipal.
+   17. Certificado final de obra.
+   18. Actualización catastral y revalúo ARBA.
+   19. Inscripción registral si se crearon unidades nuevas.
+
+La omisión de CUALQUIERA de estos pasos constituye infracción con
+consecuencias jurídicas específicas.
+
+AMPLIACIÓN 3 — RESPONSABILIDAD DEL COPROPIETARIO QUE NO CONSINTIÓ:
+Cuando la obra de ampliación se ejecuta en un inmueble en copropiedad
+sin el consentimiento unánime de todos los copropietarios:
+a) El copropietario disidente tiene acción de nulidad de la obra
+   (Art. 7 Ley 13.512 de Propiedad Horizontal).
+b) Puede solicitar la demolición de lo construido sin su autorización.
+c) No responde por los daños que la obra cause a terceros o al inmueble
+   vecino, ya que no prestó consentimiento ni tuvo participación.
+d) Puede acumular la acción de nulidad con la de daños y perjuicios
+   contra el copropietario promotor de la obra.
+
+AMPLIACIÓN 4 — SANCIONES MUNICIPALES ESPECÍFICAS DE MERLO:
+El Código de Edificación de Merlo (Ordenanza 757-HCD-2000 y modificatorias)
+prevé las siguientes sanciones por obras sin permiso:
+a) Multa por obra clandestina: calculada sobre el valor de la obra
+   ejecutada sin autorización, con recargos progresivos.
+b) Paralización inmediata: la D.O.P. puede ordenar la suspensión de
+   todos los trabajos hasta regularización.
+c) Demolición: cuando la obra compromete la seguridad de terceros o
+   viola normas urbanísticas insubsanables.
+d) Inhabilitación del profesional: si se comprueba intervención de
+   profesional que no informó irregularidades.
+Las actas de infracción municipal tienen valor de instrumento público
+(Art. 296 CCyCN) y son prueba directa en el proceso civil.
+
+AMPLIACIÓN 5 — ARTICULACIÓN CON PROPIEDAD HORIZONTAL (Ley 13.512):
+Cuando el inmueble donde se ejecuta la obra está sometido al régimen de
+propiedad horizontal, la Ley 13.512 impone requisitos adicionales:
+— Art. 7: Prohibición de realizar obras que alteren la seguridad del
+  edificio o perjudiquen los derechos de otros propietarios sin
+  autorización unánime de la asamblea de consorcio.
+— Art. 6: Las partes comunes (estructura, muros portantes, losa) no
+  pueden ser modificadas sin consentimiento de todos los copropietarios.
+— La violación de estos preceptos genera nulidad de la obra y
+  responsabilidad civil del infractor frente al consorcio y frente
+  a los terceros dañados (vecinos linderos).
+
+================================================================================
+FIN DEL ARCHIVO 49 — CLASIFICACIÓN DE REQUISITOS Y SECUENCIA CONSTRUCTIVA (AMPLIADO)
 ================================================================================

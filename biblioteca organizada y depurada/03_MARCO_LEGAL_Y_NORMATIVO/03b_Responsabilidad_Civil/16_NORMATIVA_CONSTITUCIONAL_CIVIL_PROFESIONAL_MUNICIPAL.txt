@@ -302,5 +302,112 @@ ENFOQUE 4 — PERITAJE (Aspectos técnicos periciales)
      de reparación plena (Art. 1740 CCyC).
 
 ================================================================================
-FIN ARCHIVO 60
+SECCIÓN COMPLEMENTARIA — NORMATIVA CONSTITUCIONAL, CIVIL, PROFESIONAL Y MUNICIPAL: AMPLIACIÓN Y CORRECCIONES
+================================================================================
+
+CORRECCIÓN 1 — LEY ORGÁNICA MUNICIPAL PBA:
+La Ley Orgánica de las Municipalidades de la Provincia de Buenos Aires es el
+Decreto-Ley 6769/58 (NO la Ley 10.147, que refiere a otra materia). El
+Art. 27 del Decreto-Ley 6769/58 establece las atribuciones municipales en
+materia de obras y edificación, incluyendo:
+— Inc. 5°: Reglamentar la construcción de obras dentro del ejido.
+— Inc. 10°: Ejercer poder de policía para hacer cumplir las ordenanzas.
+— Inc. 19°: Disponer la paralización, clausura y/o demolición de
+  construcciones irregulares o peligrosas.
+
+CORRECCIÓN 2 — CONSTITUCIÓN EN MORA = Art. 886 CCyCN:
+La constitución en mora del demandado se rige por el Art. 886 del CCyCN.
+En obligaciones de no hacer (no dañar), la mora es automática desde que se
+produce la contravención (Art. 887 inc. a CCyCN). En obligaciones de hacer
+(reparar los daños), la mora se configura mediante interpelación fehaciente
+al deudor (carta documento, acta notarial). El Art. 886 CCyCN NO debe
+confundirse con el Art. 1717 CCyCN, que regula la antijuridicidad de la
+conducta.
+
+CORRECCIÓN 3 — SUSPENSIÓN DE PRESCRIPCIÓN POR INTERPELACIÓN FEHACIENTE:
+El Art. 2546 del CCyCN establece que el curso de la prescripción se
+SUSPENDE por una sola vez, por la interpelación fehaciente hecha por el
+titular del derecho contra el deudor. Esta suspensión tiene efecto durante
+SEIS (6) MESES. Atención: suspende, NO interrumpe. La interrupción (que
+borra el tiempo corrido y lo reinicia) requiere demanda judicial (Art. 2546
+CCyCN) o reconocimiento del deudor (Art. 2545 CCyCN).
+
+AMPLIACIÓN 1 — NORMATIVA CONSTITUCIONAL COMPLEMENTARIA:
+
+Constitución Nacional — Art. 75 inc. 22 (Tratados con jerarquía constitucional):
+   Los tratados de derechos humanos incorporados al bloque de constitucionalidad
+   refuerzan la pretensión del damnificado:
+   — Pacto Internacional de Derechos Económicos, Sociales y Culturales
+     (PIDESC), Art. 11: derecho a vivienda adecuada.
+   — Convención Americana sobre Derechos Humanos (CADH), Art. 21: derecho
+     de propiedad; Art. 5: derecho a la integridad personal.
+   Aplicación: la privación de uso del hogar por daños derivados de obra
+   lindera afecta derechos reconocidos en el bloque de constitucionalidad,
+   lo que fundamenta la tutela judicial urgente y la reparación integral.
+
+Constitución PBA — Art. 15: Tutela judicial continua y efectiva:
+   Complementa el Art. 18 CN. Garantiza el acceso irrestricto a la justicia
+   y la tutela judicial efectiva. Habilita al juez a dictar medidas cautelares
+   innovativas ante riesgo de daño irreparable.
+
+Constitución PBA — Art. 36 inc. 7°: Derecho a la vivienda digna:
+   La Provincia reconoce el derecho a una vivienda digna. La obra clandestina
+   que convierte un hogar en inhabitable vulnera este derecho constitucional
+   provincial, reforzando la procedencia de medidas cautelares y la
+   cuantificación agravada del daño moral.
+
+AMPLIACIÓN 2 — NORMATIVA PROFESIONAL COMPLEMENTARIA (Ley 10.405 PBA):
+
+Art. 3 — INCUMBENCIAS PROFESIONALES:
+   Define las tareas reservadas a arquitectos e ingenieros civiles, entre
+   ellas: dirección de obra, cálculo estructural, supervisión de obras de
+   más de una planta. La ejecución de estas tareas sin profesional habilitado
+   constituye ejercicio ilegal de la profesión.
+
+Art. 10 — RESPONSABILIDAD PROFESIONAL:
+   El profesional que asume la dirección técnica de una obra es responsable
+   del fiel cumplimiento de las normas técnicas vigentes (CIRSOC, código de
+   edificación municipal, Decreto 911/96) y de las condiciones de seguridad.
+
+Art. 20 — CÓDIGO DE ÉTICA (CAPBA):
+   El profesional debe abstenerse de intervenir en obras que violen normas
+   urbanísticas o edilicias. Si interviene y los daños se producen, su
+   responsabilidad se agrava por inobservancia del deber ético profesional.
+
+AMPLIACIÓN 3 — NORMATIVA MUNICIPAL — ORDENANZA 757-HCD-2000 DE MERLO:
+La Ordenanza 757/2000 (Código de Edificación de Merlo), actualizada por la
+Ordenanza 5835/2021, establece:
+— Art. 168: Facultad de la Dirección de Obras Particulares de paralizar
+  obras que no cumplan condiciones de seguridad o carezcan de permiso.
+— Art. 338-339: Denominación y espesores mínimos de muros según ubicación.
+— Art. 343: Protección obligatoria contra humedad en muros.
+— Art. 344: Obligación de revocar y terminar muros exteriores para
+  preservar estética e integridad del predio vecino.
+
+AMPLIACIÓN 4 — Art. 1770 CCyCN (PROTECCIÓN DE LA VIDA PRIVADA):
+El Art. 1770 del CCyCN protege la vida privada de las personas. La obra
+clandestina que obliga al damnificado a modificar sus hábitos de vida
+(abandonar su hogar, perder privacidad por demolición de medianeras, exposición
+a obreros en su techo) configura una violación a la intimidad personal
+resarcible de manera autónoma.
+
+AMPLIACIÓN 5 — Art. 804 CCyCN (ASTREINTES — SANCIONES CONMINATORIAS):
+Los jueces pueden imponer sanciones pecuniarias compulsivas y progresivas
+(astreintes) tendientes a que el obligado cumpla el mandato judicial. En
+materia de daños por obra lindera, las astreintes se aplican para:
+a) Forzar la paralización efectiva de la obra.
+b) Compeler a la reparación de los daños ya causados.
+c) Asegurar el cumplimiento de medidas cautelares de seguridad.
+Las astreintes son a favor del damnificado y se liquidan en ejecución de
+sentencia. Son susceptibles de revisión y graduación judicial.
+
+AMPLIACIÓN 6 — DEPARTAMENTO JUDICIAL COMPETENTE:
+El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MERLO, creado
+por la Ley 13.859 (sancionada en 2009). La competencia civil y comercial
+de primera instancia y la alzada corresponden a los juzgados y Cámara de
+Apelación con asiento en la ciudad de Merlo. NO corresponde al Departamento
+Judicial de Morón.
+
+================================================================================
+FIN ARCHIVO 60 — NORMATIVA CONSTITUCIONAL, CIVIL, PROFESIONAL Y MUNICIPAL (AMPLIADO)
 ================================================================================

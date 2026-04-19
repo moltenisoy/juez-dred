@@ -383,5 +383,90 @@ d) Perito en criminalística (si hay causa penal):
    - Emitir dictamen técnico para la causa penal.
 
 ================================================================================
-FIN FICHA 58
+SECCIÓN COMPLEMENTARIA — NORMATIVA GAS, ELECTRICIDAD, SEGURIDAD Y PENAL: AMPLIACIÓN Y CORRECCIONES
+================================================================================
+
+CORRECCIÓN 1 — DEPARTAMENTO JUDICIAL COMPETENTE:
+El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MERLO (Ley
+13.859/2009), NO al de Morón.
+
+CORRECCIÓN 2 — CONSTITUCIÓN EN MORA (Art. 886 CCyCN):
+La constitución en mora del responsable se rige por el Art. 886 CCyCN
+(interpelación fehaciente), NO por el Art. 1717 (antijuridicidad). En
+obligaciones de no hacer, la mora es automática (Art. 887 inc. a CCyCN).
+
+CORRECCIÓN 3 — SUSPENSIÓN DE PRESCRIPCIÓN (Art. 2546 CCyCN):
+La carta documento SUSPENDE la prescripción por 6 meses (Art. 2546 CCyCN).
+NO la interrumpe. La interrupción requiere demanda judicial o reconocimiento.
+
+CORRECCIÓN 4 — LEY ORGÁNICA MUNICIPAL PBA = Decreto-Ley 6769/58:
+La potestad municipal de fiscalización de obras emana del Decreto-Ley
+6769/58, Art. 27 (NO de la Ley 10.147).
+
+AMPLIACIÓN 1 — NORMATIVA ELÉCTRICA Y RIESGO POR HUMEDAD:
+La exposición de instalaciones eléctricas a filtraciones hídricas derivadas
+de obra lindera configura:
+a) Infracción a Normas AEA 90364 (Reglamentación para instalaciones
+   eléctricas en inmuebles): exige protección IP adecuada para ambientes
+   húmedos y dispositivos diferenciales (disyuntores) de 30 mA.
+b) Riesgo de electrocución: la humedad reduce la resistencia eléctrica
+   del cuerpo humano y facilita el contacto indirecto con partes activas.
+c) Art. 1757 CCyCN: responsabilidad objetiva del causante de la humedad
+   que genera el riesgo eléctrico al vecino.
+d) Art. 189 CP: estrago culposo si el riesgo eléctrico crea peligro
+   común de incendio o electrocución.
+
+AMPLIACIÓN 2 — ACUMULACIÓN DE VÍAS CIVIL Y PENAL:
+El damnificado puede accionar simultáneamente en sede civil y penal:
+— Civil: demanda por daños y perjuicios (Arts. 1716, 1737-1740 CCyCN)
+  ante el Juzgado Civil de Merlo.
+— Penal: denuncia por daño simple (Art. 183 CP, acción pública), lesiones
+  culposas (Art. 94 CP) y/o estrago culposo (Art. 189 CP) ante la UFI
+  de turno del Departamento Judicial de Merlo.
+La sentencia penal condenatoria hace cosa juzgada en sede civil respecto
+de la existencia del hecho y la autoría (Art. 1776 CCyCN). La absolución
+penal NO impide la condena civil si se basa en responsabilidad objetiva.
+
+AMPLIACIÓN 3 — DAÑO A INSTALACIONES DE GAS POR OBRA LINDERA:
+Si la obra lindera daña cañerías de gas del inmueble vecino:
+a) Riesgo de fuga: constituye peligro común (Art. 186 CP).
+b) Obligación de denuncia inmediata a la prestadora de gas y al ENARGAS.
+c) El constructor responde objetivamente (Art. 1757 CCyCN) por el daño
+   a la instalación y por el riesgo generado.
+d) El instalador gasista matriculado responde por 12 meses desde la
+   finalización; ampliable a 10 años si hubo deficiencias graves.
+e) La NAG-200 (ENARGAS) exige ventilación adecuada de artefactos; la
+   obstrucción de ventilaciones por obra lindera es infracción grave.
+
+AMPLIACIÓN 4 — RESOLUCIÓN SRT 550/2011 Y OBRAS EN MEDIANERAS:
+La Resolución SRT 550/2011 regula específicamente obras que involucren
+demolición, submuración y trabajos sobre paredes medianeras. Exige:
+a) Legajo técnico completo y actualizado.
+b) Programa de seguridad específico aprobado por ART.
+c) Visitas de control periódicas documentadas.
+d) Comunicación previa a los vecinos sobre riesgos de la obra.
+La ausencia de estos requisitos constituye presunción de negligencia en
+sede civil y agrava la posición del demandado.
+
+AMPLIACIÓN 5 — EJERCICIO ILEGAL DE LA PROFESIÓN (Ley 10.405 PBA):
+Si la obra fue ejecutada sin intervención de profesional habilitado:
+a) Art. 7 Ley 10.405: constituye ejercicio ilegal de la profesión.
+b) El dueño de la obra responde por haber permitido la ejecución sin
+   profesional (culpa in eligendo).
+c) El albañil o maestro mayor de obra que ejecuta tareas reservadas a
+   arquitectos/ingenieros incurre en ejercicio ilegal.
+d) La denuncia ante el CAPBA Distrito 3 puede derivar en sanción al
+   profesional si hubo intervención encubierta.
+
+AMPLIACIÓN 6 — TIPIFICACIÓN PENAL SEGÚN RESULTADO:
+— Sin lesiones: Art. 183 CP (daño simple) — 15 días a 1 año de prisión.
+— Con lesiones leves: Art. 94 CP — 1 mes a 3 años + inhabilitación.
+— Con lesiones graves: Art. 94 CP agravado — hasta 4 años.
+— Con riesgo de derrumbe: Art. 187 CP — 3 a 10 años de prisión.
+— Con peligro de incendio/explosión (gas): Art. 186 CP — 3 a 10 años.
+— Con estrago culposo: Art. 189 CP — 1 mes a 1 año de prisión.
+— Con resultado muerte: Art. 84 CP — 1 a 5 años + inhabilitación.
+
+================================================================================
+FIN FICHA 58 — NORMATIVA GAS, ELECTRICIDAD, SEGURIDAD Y PENAL (AMPLIADA)
 ================================================================================
