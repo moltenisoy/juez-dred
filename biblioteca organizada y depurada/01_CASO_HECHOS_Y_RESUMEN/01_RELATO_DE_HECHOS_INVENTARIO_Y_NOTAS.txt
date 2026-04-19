@@ -190,3 +190,240 @@ CIELOS RASOS VARIOS
 TECHO
 PILAR LAVADERO TANQUE, DOBLE PARED DEL OTRO LADO.
 
+
+================================================================================
+SECCIÓN D: MARCO NORMATIVO APLICABLE AL RELATO DE HECHOS
+(Complemento de investigación — Referencias legales y técnicas)
+================================================================================
+
+1. NORMATIVA CIVIL Y COMERCIAL APLICABLE A LOS HECHOS RELATADOS
+────────────────────────────────────────────────────────────────
+
+A) CÓDIGO CIVIL Y COMERCIAL DE LA NACIÓN (CCyCN):
+
+   • Art. 1716 — Deber de reparar: "La violación del deber de no dañar a otro, o el
+     incumplimiento de una obligación, da lugar a la reparación del daño causado."
+   • Art. 1717 — Antijuridicidad: "Cualquier acción u omisión que causa un daño a otro
+     es antijurídica si no está justificada."
+   • Art. 1757 — Responsabilidad objetiva por el hecho de las cosas y actividades
+     riesgosas: Aplicable a obras de construcción que generan riesgo.
+   • Art. 1970 — Daños causados al inmueble vecino por la construcción: El propietario
+     y el constructor responden solidariamente por los daños que resulten de la ruina
+     o amenaza de ruina de un edificio. Comprende desprendimientos de cielo raso,
+     filtraciones, rajaduras y deterioro estructural.
+   • Art. 1971 — Responsabilidad por daños provenientes de la obra al inmueble lindero.
+   • Art. 1973 — Inmisiones: Toda obra nueva que cause daño o amenace causar daño a un
+     inmueble vecino puede ser objetada. Subsiste la acción por daños y perjuicios
+     aunque la obra esté terminada.
+   • Arts. 240 y 241 — Límites al ejercicio de los derechos individuales sobre los bienes:
+     Prohibición de uso de la propiedad que cause molestias intolerables a los vecinos.
+     Aplicable a filtraciones, humedad, riesgo eléctrico y sobrecarga estructural.
+   • Art. 1725 — Valoración de la conducta: Se agrava la responsabilidad cuando el
+     causante tiene conocimientos especiales (constructor, albañil) o cuando actúa
+     con conocimiento del daño que provoca.
+   • Art. 1726 — Relación causal: Los daños deben guardar adecuada relación de
+     causalidad con el hecho productor (obra clandestina como causa directa).
+   • Art. 1737 — Concepto de daño: Comprende la lesión a un derecho o interés no
+     reprobado por el ordenamiento jurídico, que tiene por objeto la persona, el
+     patrimonio o un derecho de incidencia colectiva.
+   • Art. 1738 — Indemnización: Incluye pérdida o disminución del patrimonio,
+     lucro cesante, pérdida de chances, y daño moral (consecuencias de la violación
+     de derechos personalísimos, intromisión en proyecto de vida, etc.).
+
+B) RESPONSABILIDAD POR OBRA CLANDESTINA:
+
+   La obra realizada sin permiso municipal, sin presentación de planos, sin dirección
+   técnica habilitada y sin las medidas de seguridad reglamentarias configura una
+   OBRA CLANDESTINA en los términos del Código de Edificación de la Provincia de
+   Buenos Aires y de las ordenanzas municipales de Merlo.
+
+   Consecuencias jurídicas:
+   • Multa administrativa: recargo del 250% al 500% sobre derechos de construcción
+   • Paralización de obra por acta de intimación municipal
+   • Demolición total o parcial si la obra no es regularizable
+   • Responsabilidad civil plena por todos los daños causados a terceros
+   • Posible responsabilidad penal por lesiones culposas (Art. 94 CP) si hay
+     lesiones derivadas del riesgo eléctrico o estructural
+
+C) NORMATIVA PROCESAL — PROVINCIA DE BUENOS AIRES (CPCCBA):
+
+   • Art. 195 y ss. — Medidas cautelares generales (prohibición de innovar,
+     medidas de no hacer)
+   • Art. 204 — Medidas urgentes conservatorias: Aplicable ante peligro de derrumbe,
+     riesgo eléctrico por agua en tablero, y progresión de daños estructurales.
+   • Art. 326 — Prueba anticipada: Permite solicitar pericias, inspecciones oculares
+     y constataciones ANTES de iniciar el juicio principal cuando existe riesgo de
+     pérdida de la prueba. Fundamental para documentar el estado actual del inmueble.
+   • Art. 378 y ss. — Prueba en general: Admisibilidad de fotografías, videos,
+     metadatos digitales y constancias de redes sociales como medios de prueba.
+
+
+2. NORMATIVA TÉCNICA DE REFERENCIA PARA LOS HECHOS RELATADOS
+────────────────────────────────────────────────────────────────
+
+A) CIRSOC — Reglamentos de Seguridad Estructural (vigencia enero 2026):
+
+   • CIRSOC 201-2025: Reglamento Argentino de Estructuras de Hormigón.
+     Establece requisitos para diseño, cálculo, materiales, ejecución y control.
+     Basado en ACI 318-19. OBLIGATORIO para toda estructura de hormigón.
+     Aplicable a: losa donde se colocó el tanque cisterna.
+
+   • CIRSOC 101-2025: Reglamento Argentino de Cargas Permanentes y Sobrecargas
+     Mínimas de Diseño. Regula cargas en techos accesibles y no accesibles,
+     sobrecargas por tanques de agua y acumulación de agua de lluvia.
+     EXIGE estudio estructural previo a la colocación de cargas concentradas
+     sobre losas existentes.
+
+   • Un tanque de 750 litros con agua + estructura de soporte = aproximadamente
+     850-950 kg. Sobre losa flotante antigua sin cálculo estructural previo,
+     esto constituye una VIOLACIÓN DIRECTA de CIRSOC 101 y 201.
+
+   • Resolución 11/2026 de la Secretaría de Obras Públicas de la Nación:
+     otorga vigencia legal a los reglamentos CIRSOC de tercera generación.
+
+B) NORMA AEA 90364 — Instalaciones Eléctricas de Baja Tensión:
+
+   • Regula la seguridad de instalaciones eléctricas en todo el territorio nacional.
+   • Sección 701: Zonas con riesgo aumentado (baños, zonas exteriores, áreas
+     húmedas). PROHÍBE la falta de protección o mantenimiento deficiente en zonas
+     donde hay exposición a agua o humedad.
+   • EXIGE protección diferencial (disyuntor), equipotencialidad y grados de
+     protección IP adecuados para componentes expuestos a humedad.
+   • La llave térmica expuesta a filtraciones de agua constituye una violación
+     grave de la norma AEA 90364 y genera:
+     - Riesgo de electrocución (confirmado por descargas recibidas)
+     - Responsabilidad civil del causante de las filtraciones
+     - Posible responsabilidad penal por exposición a peligro (Art. 106 CP)
+
+C) CÓDIGO DE EDIFICACIÓN — PROVINCIA DE BUENOS AIRES:
+
+   • Toda obra de construcción, ampliación, reforma o demolición REQUIERE permiso
+     de obra municipal previo.
+   • La modificación de instalaciones de agua y electricidad sin habilitación
+     profesional constituye infracción independiente.
+   • La reconexión del suministro de agua creando dependencia del inmueble vecino
+     viola las disposiciones sobre independencia de instalaciones sanitarias.
+
+
+3. GUÍA DE DOCUMENTACIÓN Y PRESERVACIÓN DE EVIDENCIA
+────────────────────────────────────────────────────────────────
+
+Para que los hechos relatados en Secciones A, B y C tengan máxima fuerza probatoria:
+
+A) INVENTARIO DE DAÑOS — Buenas prácticas:
+
+   • Enumerar cada daño con UBICACIÓN EXACTA (sector + pared/techo/piso)
+   • Indicar DIMENSIONES (largo × ancho en centímetros o metros)
+   • Clasificar por GRAVEDAD: leve / moderado / grave / estructural
+   • Registrar FECHA de primera detección y PROGRESIÓN observada
+   • Vincular cada daño con su CAUSA DIRECTA (obra clandestina, sobrecarga, etc.)
+
+B) EVIDENCIA FOTOGRÁFICA — Cadena de custodia:
+
+   • Fotografiar desde vista general del ambiente + detalle del daño
+   • Incluir referencia de escala (metro, regla) junto al daño
+   • Conservar metadatos EXIF originales (fecha, hora, GPS, dispositivo)
+   • NO editar ni retocar las fotografías originales
+   • Guardar copias en medio seguro inmediatamente (pendrive, nube)
+   • Nombrar archivos con formato: "SECTOR_descripcion_AAAA-MM-DD.jpg"
+   • Ideal: constatación notarial con escribano que certifique las tomas
+
+C) MATERIAL AUDIOVISUAL EN REDES SOCIALES:
+
+   • Las publicaciones fechadas en redes sociales con geolocalización constituyen
+     prueba documental válida (Art. 378 CPCCBA y doctrina mayoritaria).
+   • Conservar capturas de pantalla con URL, fecha y hora visibles.
+   • Solicitar certificación de autenticidad si se impugnan.
+
+D) TESTIGOS:
+
+   • Mínimo 2 testigos presenciales para cada hecho significativo.
+   • Preferir testigos sin vínculo de parentesco directo.
+   • Testigos por Zoom: admisibles según Acordada SCBA 3975/2020 y
+     modificatorias sobre audiencias remotas.
+   • Consignar datos completos: nombre, DNI, domicilio, relación con los hechos.
+
+E) DOCUMENTACIÓN MÉDICA:
+
+   • Historia clínica completa del centro de atención habitual.
+   • Certificados médicos de alergista/neumonólogo por exposición a hongos y humedad.
+   • Certificado psiquiátrico/psicológico por estrés postraumático y ansiedad.
+   • Estudio alérgico actualizado que demuestre la aparición POSTERIOR al inicio
+     de las filtraciones (causalidad adecuada).
+
+F) DOCUMENTACIÓN TÉCNICA:
+
+   • Los 2 informes de arquitecto ya realizados (uno con timbrado profesional).
+   • Boleta de compra de membrana asfáltica (acredita inversión previa).
+   • Video enviado por el demandado (metadatos peritables — conservar original).
+   • Solicitar al municipio de Merlo expediente de obra del inmueble del demandado
+     (probará ausencia de permisos y planos).
+
+
+4. CLASIFICACIÓN JURÍDICA DE LOS DAÑOS INVENTARIADOS (Sección B)
+────────────────────────────────────────────────────────────────
+
+DAÑO MATERIAL EDILICIO (Art. 1738 CCyCN):
+   • Ítems 1-3: Daños en techo, membrana y modificación de pendiente
+   • Ítem 6: Reubicación no autorizada del tanque cisterna
+   • Ítem 7: Rajaduras estructurales en lavadero
+   • Ítems 9-11: Desprendimiento cielo raso, filtraciones, deterioro en baño,
+     pasillo y hall de entrada
+
+DAÑO MATERIAL A BIENES MUEBLES:
+   • Ítem 8: Placas PVC cocina dañadas
+   • Ítems 10-11: Mueble modular destruido, luminarias corroídas
+   • Equipos electrónicos (PC, componentes) dañados por humedad y corrosión
+   • Indumentaria deteriorada por exposición a humedad y hongos
+
+DAÑO A LA SALUD FÍSICA (Art. 1738, 1740 CCyCN):
+   • Riesgo eléctrico activo con descargas recibidas
+   • Exposición crónica a hongos y humedad → alergia respiratoria
+   • Riesgo estructural por tanque sobre losa flotante sin cálculo
+
+DAÑO MORAL Y PSICOLÓGICO (Art. 1741 CCyCN):
+   • Estrés constante por habitar inmueble en condiciones riesgosas
+   • Imposibilidad de recibir visitas en condiciones dignas
+   • Deterioro de calidad de vida por más de un año sin solución
+   • Angustia por exposición diaria a riesgo de electrocución y colapso
+
+LUCRO CESANTE (Art. 1738 CCyCN):
+   • Pérdida de ingresos por YouTube (certificados de Google disponibles)
+   • Daño al equipo de trabajo (PC) con garantía anulada por daño externo
+   • 10 días sin servicio de internet (reclamo Movistar documentado)
+   • Pérdida continuada de posicionamiento y métricas del canal
+
+DAÑO POR DEPENDENCIA DEL SUMINISTRO DE AGUA:
+   • Modificación irregular que hace al inmueble del damnificado DEPENDIENTE
+     de la instalación del demandado. Constituye violación del código de
+     edificación y crea una servidumbre de hecho no autorizada (Art. 2166 CCyCN).
+
+
+5. LÍNEA CRONOLÓGICA RECOMENDADA PARA ORGANIZAR EL RELATO
+────────────────────────────────────────────────────────────────
+
+Para fortalecer la presentación de los hechos ante la justicia, se recomienda
+estructurar el relato siguiendo una cronología clara:
+
+   1) Estado previo del inmueble (fotos en redes sociales, testimonios)
+   2) Inicio de la obra del demandado (fecha aproximada)
+   3) Primeros daños detectados y reclamos informales
+   4) Continuación de la obra pese a los reclamos
+   5) Realización del primer informe técnico (fecha, profesional, hallazgos)
+   6) Realización del segundo informe técnico (fecha, profesional, hallazgos)
+   7) Colocación de membrana asfáltica y su posterior destrucción
+   8) Reubicación del tanque cisterna sin autorización
+   9) Modificación de la instalación de agua (dependencia forzada)
+  10) Carta documento al Intendente de Merlo
+  11) Inicio de mediación y actitud conciliadora del damnificado
+  12) Rechazo de ofertas razonables por parte del demandado
+  13) Progresión actual de los daños (rajaduras, filtraciones, corrosión)
+  14) Estado actual: riesgo eléctrico activo + riesgo estructural
+
+Esta cronología vincula cada hecho con las pruebas disponibles y permite
+al juez comprender la secuencia causal completa.
+
+════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 01 — RELATO DE HECHOS, INVENTARIO DE DAÑOS Y NOTAS
+════════════════════════════════════════════════════════════════════════════
+
