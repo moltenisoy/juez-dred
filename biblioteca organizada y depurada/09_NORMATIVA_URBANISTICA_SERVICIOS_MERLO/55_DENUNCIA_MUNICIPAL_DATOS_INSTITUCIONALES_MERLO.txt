@@ -218,5 +218,18 @@ ENFOQUE 4 — PERITAJE (Aspectos técnicos periciales)
      incorporación al proceso judicial.
 
 ================================================================================
+CONTENIDO INTEGRADO — DENUNCIA MUNICIPAL: NOTAS COMPLEMENTARIAS
+(Fuente: INFORME_JURIDICO_OBRA_LINDERA_MERLO_DEPURADO.txt)
+================================================================================
+
+NOTA DE VERIFICACIÓN: Se cotejó el contenido de la Sección 4 del informe
+fuente contra el presente archivo. Todos los datos sustantivos (teléfonos
+delegaciones 0220-485-1421/485-2001/486-6930, Ley de Procedimiento
+Administrativo Común PBA plazo 30 días, consecuencias de inacción municipal,
+recursos ante Defensoría del Pueblo PBA, fuentes InfoMerlo 2016 y
+merlo.gob.ar) ya se encuentran integrados en las secciones precedentes.
+No se identificó contenido adicional no duplicado para incorporar.
+
+================================================================================
 FIN ARCHIVO 62
 ================================================================================
