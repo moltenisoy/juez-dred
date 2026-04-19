@@ -354,5 +354,79 @@ g) FUENTES CITADAS VERIFICADAS
    perito", Curso para Peritos Judiciales.
 
 ================================================================================
-FIN DE TEMAS 6-7
+SECCIÓN COMPLEMENTARIA — COSTAS Y DEPRECIACIÓN INMUEBLE: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
 ================================================================================
+
+I. ART. 68 CPCCBA — COSTAS AL VENCIDO (PRINCIPIO OBJETIVO DE LA DERROTA)
+
+Art. 68 CPCCBA: "La parte vencida en el juicio deberá pagar todos los
+gastos de la contraria, aun cuando ésta no lo hubiese solicitado."
+
+DESARROLLO COMPLEMENTARIO:
+a) El principio es OBJETIVO: no se analiza la buena o mala fe del vencido,
+   sino el resultado del pleito. Quien pierde, paga.
+b) EXCEPCIÓN (Art. 68, 2° párrafo): El juez puede eximir total o
+   parcialmente de costas cuando encuentre mérito para ello, debiendo
+   fundar su decisión en la complejidad del caso o la existencia de razón
+   probable para litigar.
+c) VENCIMIENTO PARCIAL (Art. 71 CPCCBA): Si ambas partes resultan
+   parcialmente vencidas, las costas se distribuyen en proporción al éxito
+   obtenido por cada una. El juez debe establecer el porcentaje.
+d) LITISCONSORCIO (Art. 75 CPCCBA): Si hay varios demandados condenados
+   solidariamente, las costas se imponen in solidum.
+
+APLICACIÓN AL CASO DE MERLO:
+- Si la demanda prospera íntegramente → costas al demandado (Art. 68).
+- El actor puede solicitar condena en costas como pretensión accesoria.
+- Los honorarios periciales (ingeniero, psicólogo, contador, tasador)
+  son parte de las costas y quedan a cargo del vencido.
+
+II. HONORARIOS PROFESIONALES — LEY 14.967 PBA
+
+La Ley 14.967 PBA (Arancel de Honorarios de Abogados) establece:
+a) ESCALA: Entre el 8% y el 33% del monto de sentencia, según la
+   complejidad, extensión y mérito de la labor profesional (Art. 16).
+b) MÍNIMO LEGAL: Los honorarios no pueden ser inferiores al monto
+   equivalente a 7 Jus arancelarios (Art. 22).
+c) SEGUNDA INSTANCIA: 25% a 35% de los honorarios de primera instancia
+   para el profesional que actúe en la alzada (Art. 31).
+d) REGULACIÓN SOBRE MONTO DE CONDENA: Incluye capital, intereses y
+   accesorios al momento de la regulación (Art. 23).
+e) INCIDENTES Y MEDIDAS CAUTELARES: Se regulan por separado conforme
+   Arts. 25-29, con mínimos específicos.
+
+INTERESES SOBRE HONORARIOS:
+Art. 54 Ley 14.967 PBA: Los honorarios regulados devengan intereses
+desde la fecha en que queda firme la regulación, a la tasa activa que
+cobra el Banco de la Provincia de Buenos Aires en sus operaciones de
+descuento a 30 días. El profesional puede optar por el 12% anual.
+
+III. DEPRECIACIÓN INMOBILIARIA — TASACIÓN JUDICIAL
+
+La depreciación del inmueble del actor por daños estructurales causados
+por la obra lindera constituye un rubro de daño emergente autónomo.
+
+METODOLOGÍA DE CUANTIFICACIÓN:
+a) Pericia de tasación inmobiliaria a cargo de un perito tasador oficial
+   (Cuerpo de Tasadores Judiciales SCBA o perito de lista).
+b) Se determina:
+   - Valor del inmueble en condiciones normales (sin daños) a fecha actual.
+   - Valor del inmueble en su estado actual (con daños acreditados).
+   - La diferencia = depreciación indemnizable.
+c) Factores de depreciación considerados:
+   - Humedad estructural (paredes, cimientos, losa).
+   - Deterioro de instalación eléctrica.
+   - Compromiso del sistema sanitario.
+   - Afectación estética (manchas, desprendimientos, moho visible).
+   - Estigma del inmueble (antecedente de inhabitabilidad).
+d) Normativa aplicable: Ley 12.576 PBA (Art. 49, tabla de depreciación
+   por antigüedad y estado), coeficientes de la Ley Impositiva vigente.
+
+JURISPRUDENCIA: La depreciación subsiste aun después de efectuadas las
+reparaciones, porque el mercado inmobiliario castiga los inmuebles con
+antecedentes de daño estructural (SCBA, "Vilar c/ Cons. Prop.", 2022).
+
+════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 33 — COSTAS Y DEPRECIACIÓN INMUEBLE
+════════════════════════════════════════════════════════════════════════════

@@ -68,3 +68,198 @@ Por todo lo expuesto, a V.S. solicito:
    5. Se oficie al Municipio de Merlo (Dirección de Obras Particulares) a los fines de que constate las infracciones y aplique las multas y medidas de rigor sobre la edificación clandestina.
 Proveer de conformidad, que
 SERÁ JUSTICIA.
+
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — ELEMENTOS FALTANTES Y AMPLIACIONES
+(Investigación complementaria)
+================================================================================
+
+1. CORRECCIÓN DE COMPETENCIA TERRITORIAL
+────────────────────────────────────────────────────────────────
+
+   ERROR EN EL ENCABEZADO: Dice "Departamento Judicial de Morón (Jurisdicción Merlo)"
+   CORRECTO: "Departamento Judicial de MERLO" (creado por Ley 13.859/2009)
+
+   Merlo tiene departamento judicial propio desde 2009. Presentar en Morón
+   generaría una excepción de incompetencia territorial por parte del demandado.
+
+
+2. RUBROS INDEMNIZATORIOS — DETALLE AMPLIADO PARA EL PETITORIO
+────────────────────────────────────────────────────────────────
+
+   El petitorio (Punto VII.4) debería desglosar los rubros con mayor precisión
+   para evitar la limitación del principio de congruencia procesal:
+
+   A) DAÑO EMERGENTE ESTRUCTURAL (Art. 1740 CCyCN):
+      • Reparación integral de losa flotante (refuerzo/reemplazo parcial)
+      • Reconstrucción de cielorrasos en baño, pasillo y hall
+      • Reemplazo total de membrana impermeabilizante del techo
+      • Reparación de techo de chapa del lavadero (perforaciones)
+      • Restauración de pendiente original del techo para drenaje
+      • Reparación de rajaduras estructurales en lavadero y otras dependencias
+      • Reposición de instalación eléctrica afectada (llave térmica, cableado)
+      • Restitución de independencia del suministro de agua potable
+      • Tratamiento antihongos integral y reparación de revestimientos
+
+   B) DAÑO EMERGENTE A BIENES MUEBLES (Art. 1740 CCyCN):
+      • Reposición de equipos electrónicos (PC y componentes) según valor de compra
+      • Reposición de muebles deteriorados (armario, mueble modular, otros)
+      • Reposición de luminarias corroídas
+      • Reposición de puerta y marco de baño corroídos
+      • Reposición de indumentaria dañada por humedad/hongos
+      • Reposición de placas PVC de cocina
+      • Valor de membrana asfáltica destruida (con comprobante de compra)
+
+   C) LUCRO CESANTE (Art. 1738 CCyCN):
+      • Pérdida de ingresos por YouTube durante el período de inactividad
+        forzosa (certificados de Google Adsense disponibles)
+      • Pérdida por 10 días sin servicio de internet (reclamo Movistar)
+      • Pérdida continuada por desposicionamiento del canal digital
+      • Pérdida de chances de crecimiento del emprendimiento digital
+
+   D) DAÑO MORAL (Art. 1741 CCyCN):
+      • Sufrimiento por habitar en condiciones infrahumanas durante +2 años
+      • Angustia por riesgo permanente de electrocución y colapso estructural
+      • Imposibilidad de recibir visitas y cancelación de vida social
+      • Aislamiento social forzado y pérdida de privacidad
+      • Estrés continuado por convivencia diaria con riesgos vitales
+      • PRUEBA: In re ipsa — se presume del propio hecho dañoso
+
+   E) DAÑO PSICOFÍSICO (Art. 1738 CCyCN):
+      • Afecciones respiratorias/alérgicas por exposición prolongada a hongos
+      • Trastorno adaptativo/estrés severo
+      • Costo de tratamiento médico (alergista, neumonólogo, psiquiatra)
+
+   F) PRIVACIÓN DE USO DEL INMUEBLE (Art. 1740 CCyCN):
+      • Valor locativo de vivienda equivalente por el período de inhabitabilidad
+      • Gastos de mudanza (ida y retorno)
+      • Gastos de guardamuebles
+      • Servicios pagados sin posibilidad de usufructo (ABL, impuestos, servicios)
+
+   G) DEPRECIACIÓN DEL INMUEBLE (Art. 1740 CCyCN):
+      • Diferencia entre valor de mercado del inmueble sin daños vs. con daños
+      • A determinarse por peritaje tasador judicial
+
+   H) COSTAS Y GASTOS (Arts. 68-70 CPCCBA):
+      • Costas del proceso a cargo del vencido
+      • Gastos de informes técnicos previos (2)
+      • Gasto de mediación prejudicial
+
+
+3. PRUEBA INFORMATIVA — FALTANTE EN EL OFRECIMIENTO ORIGINAL
+────────────────────────────────────────────────────────────────
+
+   Se debe agregar prueba informativa (Arts. 394-395 CPCCBA) mediante oficios a:
+
+   a) Municipalidad de Merlo — Dirección de Obras Particulares:
+      Para que informe si existe expediente de obra, permiso, planos aprobados
+      o cualquier documentación presentada por el demandado para la ampliación.
+
+   b) Registro de la Propiedad Inmueble PBA:
+      Para que informe titularidad, gravámenes, embargos e inscripción como
+      bien de familia del inmueble del demandado.
+
+   c) CAPBA Distrito III:
+      Para que informe si existe profesional matriculado a cargo de la
+      dirección técnica de la obra del demandado.
+
+   d) EDENOR / EDESUR (empresa eléctrica correspondiente):
+      Para que certifique el estado de la instalación eléctrica del inmueble
+      del damnificado y los riesgos detectados.
+
+   e) AySA (Agua y Saneamientos Argentinos):
+      Para que informe sobre la instalación del suministro de agua y las
+      modificaciones realizadas sin autorización.
+
+   f) SRT (Superintendencia de Riesgos del Trabajo):
+      Para que informe si el demandado o algún contratista declaró la obra
+      ante una ART.
+
+   g) Movistar:
+      Para que certifique el reclamo por corte de servicio de internet,
+      duración y causa.
+
+
+4. PRUEBA TESTIMONIAL — FORMATO CORRECTO (Arts. 407 ss. CPCCBA)
+────────────────────────────────────────────────────────────────
+
+   El ofrecimiento de testigos debe incluir:
+   • Nombre y apellido completo
+   • DNI
+   • Domicilio real
+   • Ocupación/profesión
+   • Relación con los hechos (qué conoce y cómo lo conoce)
+
+   Modelo de redacción:
+
+   "Ofrezco las declaraciones testimoniales de las siguientes personas:
+    a) [NOMBRE], DNI [N°], domiciliado en [DIRECCIÓN], [PROFESIÓN].
+       Declarará sobre: el estado del inmueble previo a la obra, las
+       condiciones durante la ejecución y los daños observados actualmente.
+    b) [NOMBRE], DNI [N°], domiciliado en [DIRECCIÓN], [PROFESIÓN].
+       Declarará sobre: [hechos específicos que conoce]."
+
+
+5. SOLICITUD DE ACTUALIZACIÓN MONETARIA — CLÁUSULA FALTANTE
+────────────────────────────────────────────────────────────────
+
+   Agregar al petitorio (actualmente solo menciona "Tasa Activa/Caso Barrios"):
+
+   "Solicito que los montos indemnizatorios sean actualizados conforme la
+   doctrina obligatoria de la SCBA en causa C. 124.096 'Barrios', declarando
+   la inconstitucionalidad sobreviniente del Art. 7 de la Ley 23.928 (según
+   Ley 25.561), aplicando actualización por IPC-INDEC desde la fecha de cada
+   daño hasta su efectivo pago, más un interés puro del 6% anual, sin
+   capitalización de intereses."
+
+
+6. SOLICITUD DE BENEFICIO DE LITIGAR SIN GASTOS — FALTANTE
+────────────────────────────────────────────────────────────────
+
+   Si la situación económica del actor lo amerita, debe agregarse:
+
+   "Solicito se me conceda el BENEFICIO DE LITIGAR SIN GASTOS conforme
+   Arts. 78-86 del CPCCBA, atento a la imposibilidad económica de afrontar
+   las costas del presente proceso sin comprometer mi sustento. A tal fin,
+   acompaño declaración jurada de situación patrimonial y ofrezco la
+   siguiente prueba testimonial: [3 testigos con datos completos]."
+
+   El BLSG exime de:
+   • Tasa de justicia (3% del monto demandado)
+   • Contracautela para medidas cautelares
+   • Costas en caso de rechazo parcial de la demanda
+
+
+7. RESERVA DE AMPLIACIÓN DE RUBROS — CLÁUSULA RECOMENDADA
+────────────────────────────────────────────────────────────────
+
+   Agregar al petitorio:
+
+   "Hago reserva expresa de ampliar los rubros y montos reclamados en función
+   de lo que resulte de la prueba pericial a producirse, conforme lo permite
+   el Art. 330 del CPCCBA en concordancia con el principio de reparación plena
+   (Art. 1740 CCyCN)."
+
+
+8. COMPETENCIA DEL FUERO CONTENCIOSO ADMINISTRATIVO — ACLARACIÓN
+────────────────────────────────────────────────────────────────
+
+   Si se pretende demandar al MUNICIPIO DE MERLO como codemandado solidario
+   por omisión de control (Art. 1764-1766 CCyCN):
+
+   • La competencia para demandas contra el Estado municipal es del FUERO
+     CONTENCIOSO ADMINISTRATIVO (Ley 12.008 — CCA PBA).
+   • Departamento Judicial competente: San Martín (cubre Merlo).
+   • Alternativa: Acumular la pretensión contra el municipio en el mismo
+     juzgado civil si se invoca responsabilidad solidaria con el demandado
+     particular (jurisprudencia discutida — consultar letrado).
+
+   NOTA: El oficio al municipio solicitado en el petitorio (punto VII.5)
+   es correcto como prueba informativa, pero no constituye demanda contra
+   el municipio.
+
+
+════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 06 — MODELO DE DEMANDA PRINCIPAL
+════════════════════════════════════════════════════════════════════════════

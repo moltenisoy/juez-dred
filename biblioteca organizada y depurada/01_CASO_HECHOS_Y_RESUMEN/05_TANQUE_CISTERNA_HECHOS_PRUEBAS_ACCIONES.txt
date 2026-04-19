@@ -291,3 +291,213 @@ ENFOQUE 4 — PERITAJE (Aspectos técnicos periciales)
 ================================================================================
 FIN ARCHIVO 59
 ================================================================================
+
+
+================================================================================
+SECCION 6 — ANÁLISIS TÉCNICO AMPLIADO: CAPACIDAD DE CARGA Y NORMATIVA CIRSOC
+(Investigación complementaria)
+================================================================================
+
+6.1. VALORES DE SOBRECARGA SEGÚN CIRSOC 101 (Tabla 3.1)
+
+     Categoría A (Viviendas):
+     • Techo NO transitable: 150 kg/m² (1,5 kN/m²)
+     • Techo transitable/terraza: 250 kg/m² (2,5 kN/m²)
+     • Sobrecarga de mantenimiento (acceso esporádico): 100 kg/m²
+
+     NOTA CRÍTICA: La losa del inmueble damnificado es un techo NO transitable
+     (no tiene acceso preparado ni barandas). Por lo tanto, el diseño original
+     contemplaba una sobrecarga máxima de 150 kg/m².
+
+6.2. CÁLCULO DE LA SOBRECARGA IMPUESTA POR EL TANQUE
+
+     • Tanque de 750 litros lleno: 750 kg (agua) + ~30 kg (tanque plástico) = 780 kg
+     • Base de soporte metálica: ~20-40 kg estimados
+     • TOTAL: 800-820 kg concentrados
+
+     Si la base del soporte ocupa aproximadamente 0,5 m²:
+     → Carga concentrada: 820 kg / 0,5 m² = 1.640 kg/m²
+
+     EXCESO SOBRE LA SOBRECARGA DE DISEÑO:
+     → 1.640 kg/m² vs. 150 kg/m² admisibles = 10,9 VECES la sobrecarga de diseño
+
+     Incluso si la base ocupara 1 m²:
+     → 820 kg/m² vs. 150 kg/m² = 5,5 VECES la sobrecarga de diseño
+
+     CONCLUSIÓN TÉCNICA: La carga impuesta excede entre 5,5 y 10,9 veces la
+     sobrecarga mínima de diseño para losas de vivienda no transitables.
+     Esto configura una VIOLACIÓN GRAVE de CIRSOC 101.
+
+6.3. VERIFICACIONES TÉCNICAS QUE DEBIERON REALIZARSE (Y NO SE HICIERON)
+
+     Según CIRSOC 201 y buenas prácticas de ingeniería, antes de colocar una
+     carga concentrada sobre una losa existente se debe verificar:
+
+     a) RESISTENCIA AL PUNZONADO: La capacidad de la losa para resistir la
+        carga puntual sin que se produzca un corte localizado alrededor del
+        punto de apoyo (fórmula: V_Ed ≤ V_Rdc).
+
+     b) DEFLEXIÓN ADMISIBLE: La flecha máxima permitida es L/300 a L/500
+        según el tipo de losa (L = luz libre del tramo). La depresión visible
+        documentada en las fotografías sugiere deflexión excesiva.
+
+     c) CAPACIDAD PORTANTE RESIDUAL: En una losa de +30 años, la corrosión
+        de armaduras, la carbonatación del hormigón y las microfisutas reducen
+        la capacidad portante original. Debe evaluarse con ensayos in situ.
+
+     d) DISTRIBUCIÓN DE CARGAS: La colocación sobre LOSA FLOTANTE (no apoyada
+        en vigas ni columnas) concentra la carga en un paño de losa con apoyo
+        limitado, maximizando el momento flector y el riesgo de falla.
+
+     NINGUNA DE ESTAS VERIFICACIONES FUE REALIZADA.
+
+6.4. RIESGO ESTRUCTURAL ESPECÍFICO POR LOSA FLOTANTE ANTIGUA
+
+     Una losa flotante de +30 años presenta:
+     • Carbonatación del hormigón: Reduce la protección de las armaduras.
+     • Corrosión de armaduras: Disminuye la sección resistente del acero.
+     • Microfisuras por retracción: Reducen la impermeabilidad y rigidez.
+     • Pérdida de adherencia acero-hormigón: Reduce la capacidad de transmitir
+       esfuerzos entre materiales.
+     • Degradación por ciclos térmicos: 30+ años de expansión/contracción.
+
+     La combinación de LOSA DEGRADADA + SOBRECARGA EXCESIVA (5,5-10,9x)
+     genera un riesgo real de:
+     • Punzonado localizado (perforación de la losa en el punto de apoyo)
+     • Colapso parcial del paño de losa cargado
+     • Pandeo de armaduras por compresión excesiva
+     • Propagación de fisuras que comprometan paños adyacentes
+
+
+================================================================================
+SECCION 7 — ANÁLISIS PENAL AMPLIADO
+================================================================================
+
+7.1. ARTÍCULO 183 CP — DAÑO (Doloso)
+
+     "Será reprimido con prisión de quince días a un año, el que destruyere,
+     inutilizare, hiciere desaparecer o de cualquier modo dañare una cosa
+     mueble o inmueble, total o parcialmente ajena."
+
+     CONFIGURACIÓN EN EL CASO:
+     • El daño fue causado a cosa inmueble parcialmente ajena (losa, cielorraso,
+       impermeabilización del inmueble del damnificado).
+     • El demandado conocía que colocaba el tanque sobre la propiedad ajena
+       y que la obra se ejecutaba sin permisos.
+     • El dolo puede inferirse de la continuación de la conducta pese a los
+       reclamos del damnificado y la omisión de reparación efectiva.
+     • PENA: 15 días a 1 año de prisión.
+
+7.2. ARTÍCULO 184 CP — DAÑO CALIFICADO
+
+     "La pena será de tres meses a cuatro años de prisión si mediare cualquiera
+     de las circunstancias siguientes: inc. 5) ejecutarlo en cosas de uso público."
+
+     POSIBLE APLICACIÓN: Si la modificación del suministro de agua afecta
+     la red pública o si los daños comprometen servicios públicos (electricidad,
+     agua potable), podría calificarse el daño.
+
+7.3. ARTÍCULO 189 CP — ESTRAGO CULPOSO
+
+     "Será reprimido con prisión de un mes a un año, el que por imprudencia o
+     negligencia, por impericia en su arte o profesión, o por inobservancia de
+     los reglamentos o deberes a su cargo, causare incendio, explosión u otro
+     estrago."
+
+     "Si resultare peligro común para los bienes o las personas: prisión de
+     uno a cinco años."
+
+     CONFIGURACIÓN EN EL CASO:
+     • IMPRUDENCIA/NEGLIGENCIA: Obra sin permisos ni cálculos estructurales.
+     • INOBSERVANCIA DE REGLAMENTOS: Violación CIRSOC 101/201, Código de
+       Edificación, norma AEA 90364.
+     • ESTRAGO: Riesgo de derrumbe por sobrecarga + riesgo de electrocución
+       por agua en instalación eléctrica.
+     • PELIGRO COMÚN: Afecta al habitante del inmueble damnificado y
+       potencialmente a vecinos contiguos.
+     • PENA AGRAVADA: 1 a 5 años de prisión.
+
+7.4. ARTÍCULO 94 CP — LESIONES CULPOSAS
+
+     Si el damnificado ha sufrido descargas eléctricas (documentadas), alergias
+     respiratorias por hongos, o cualquier afectación a su salud derivada de
+     las condiciones del inmueble:
+     • PENA: 1 mes a 3 años de prisión o multa.
+     • Agravante si hay más de una víctima o si se infringen reglamentos.
+
+7.5. ARTÍCULO 106 CP — ABANDONO DE PERSONA
+
+     "El que pusiere en peligro la vida o la salud de otro, sea colocándolo en
+     situación de desamparo, sea abandonando a su suerte a una persona incapaz
+     de valerse."
+
+     POSIBLE CONFIGURACIÓN: Al mantener el tanque sobre losa sin cálculo
+     durante más de un año con conocimiento del riesgo y de los reclamos,
+     el demandado "coloca en peligro" la integridad del habitante.
+
+7.6. NOTA SOBRE COMPETENCIA PENAL:
+     • IMPORTANTE: La competencia penal corresponde al Departamento Judicial
+       de MERLO (no Morón), conforme Ley 13.859/2009.
+     • Verificar turno de UFI en pjba.gov.ar seleccionando DJ Merlo.
+
+
+================================================================================
+SECCION 8 — CORRECCIÓN DE ERRORES DE COMPETENCIA EN EL ARCHIVO ORIGINAL
+================================================================================
+
+ERRORES DETECTADOS Y CORREGIDOS:
+
+1) Sección 3.3 (Fuero Penal): Dice "Departamento Judicial Morón"
+   → CORRECTO: Departamento Judicial de MERLO (Ley 13.859/2009)
+
+2) Sección 3.4 (Fuero Civil): Dice "Departamento Judicial Morón"
+   → CORRECTO: Departamento Judicial de MERLO (creado en 2009)
+
+3) Sección 4.2: Dice "UFI / Fiscalía DJ Morón"
+   → CORRECTO: UFI / Fiscalía de turno en DJ MERLO
+
+4) Enfoque 3, punto 1 (Competencia):
+   Dice "Civil y Comercial: DJ Morón" y "Penal: UFI DJ Morón"
+   → CORRECTO: Ambos corresponden a DJ MERLO
+
+5) Paso 1 (Recomendaciones): Dice "abogado en DJ Morón"
+   → CORRECTO: Abogado habilitado en DJ MERLO
+
+NOTA: El Contencioso Administrativo SÍ corresponde a DJ San Martín para
+amparo contra inacción municipal, dado que no existe Juzgado Contencioso
+Administrativo con sede en Merlo.
+
+
+================================================================================
+SECCION 9 — ACCIÓN PREVENTIVA: DESARROLLO AMPLIADO (Arts. 1710-1713 CCyCN)
+================================================================================
+
+9.1. FUNDAMENTO:
+     La acción preventiva es INDEPENDIENTE de la acción de daños y perjuicios.
+     Puede solicitarse SIN necesidad de acreditar culpa ni daño consumado.
+     Basta con demostrar:
+     a) Acción u omisión antijurídica que genera amenaza de daño (obra irregular)
+     b) Posibilidad cierta de daño futuro (colapso de losa, electrocución)
+     c) Posibilidad razonable de evitar el daño (remoción del tanque, reparaciones)
+
+9.2. MEDIDAS PREVENTIVAS SOLICITABLES:
+     • Remoción inmediata del tanque cisterna y soporte de la losa del damnificado
+     • Refuerzo estructural de emergencia de la losa afectada
+     • Reparación de filtraciones que exponen la instalación eléctrica al agua
+     • Prohibición de continuar cualquier obra sobre el inmueble damnificado
+     • Designación de perito estructural de urgencia para evaluar riesgo de colapso
+
+9.3. LEGITIMACIÓN:
+     • Cualquier persona que acredite un interés razonable (Art. 1712 CCyCN)
+     • No requiere la mediación prejudicial previa cuando existe urgencia
+       (Art. 2 inc. 5 Ley 13.951 — excepciones a la mediación)
+
+9.4. JURISPRUDENCIA:
+     CNCiv., Sala F: La acción preventiva procede ante amenaza de daño cierto
+     e inminente. El juez puede ordenar medidas de hacer o no hacer bajo
+     apercibimiento de astreintes. No requiere demostrar culpa.
+
+
+════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 05 — TANQUE CISTERNA: HECHOS, PRUEBAS Y ACCIONES
+════════════════════════════════════════════════════════════════════════════

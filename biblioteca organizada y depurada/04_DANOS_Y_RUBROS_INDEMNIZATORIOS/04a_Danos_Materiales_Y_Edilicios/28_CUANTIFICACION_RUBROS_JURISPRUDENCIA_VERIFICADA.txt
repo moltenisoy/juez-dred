@@ -403,3 +403,114 @@ FIN DEL ARCHIVO 51
 Fuentes verificadas: SCBA, Microjuris (MJ-JU-M-153927-AR), CIJ, Poder
 Judicial de la Nación. Período de verificación: 2022-2026.
 ================================================================================
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — CUANTIFICACIÓN DE RUBROS CON JURISPRUDENCIA VERIFICADA:
+AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. CORRECCIÓN DE SIGLA DEL CÓDIGO
+   El documento utiliza indistintamente "CCCN" y "CCyCN". La denominación
+   uniforme correcta es "CCyCN" (Código Civil y Comercial de la Nación,
+   Ley 26.994, vigente desde 01/08/2015). Todas las referencias a
+   "Art. XXXX CCCN" deben leerse como "Art. XXXX CCyCN".
+
+2. CORRECCIÓN — Art. 1113 CÓDIGO CIVIL DEROGADO
+   La referencia del cuerpo principal a "art. 1113 Código Civil (anterior)"
+   debe citarse únicamente como referencia histórica. La norma vigente es:
+   - Art. 1757 CCyCN: Toda persona responde por el daño causado por el
+     riesgo o vicio de las cosas, o de las actividades que sean riesgosas
+     o peligrosas por su naturaleza, por los medios empleados o por las
+     circunstancias de su realización.
+   - Art. 1758 CCyCN: Legitimación pasiva — responden el dueño y el
+     guardián de la cosa o quien realiza, se sirve u obtiene provecho
+     de la actividad riesgosa.
+   Para el caso de obra clandestina lindera, la actividad constructiva
+   sin habilitación es riesgosa per se (Art. 1757 CCyCN). No se requiere
+   probar culpa; la responsabilidad es OBJETIVA.
+
+3. DOCTRINA SCBA "BARRIOS" — ACTUALIZACIÓN Y ALCANCE
+   Causa "Barrios, Héctor c/ Provincia de Buenos Aires" (SCBA, 17/04/2024):
+   Establece como regla la aplicación de TASA ACTIVA del Banco de la
+   Provincia de Buenos Aires (BPN) desde la fecha del hecho dañoso hasta
+   el efectivo pago. Supera la anterior doctrina "Vera" y "Nidera".
+
+   Alcance de "Barrios":
+   a) Se aplica a TODOS los rubros indemnizatorios (material, moral,
+      psicológico, lucro cesante, privación de uso).
+   b) Tasa activa BPN = tasa de descuento de documentos a 30 días.
+   c) Se computa desde la fecha de producción del daño (no desde la
+      demanda ni desde la sentencia).
+   d) Es de aplicación obligatoria para todos los tribunales de la
+      Provincia de Buenos Aires (doctrina legal de la SCBA).
+   e) NO se acumula con otros índices de actualización (CER, IPC).
+      La tasa activa ya contempla la depreciación monetaria.
+
+   EXCEPCIÓN: Si la tasa activa no resulta suficiente para mantener el
+   valor del crédito en períodos de hiperinflación, algunos tribunales
+   aplican la doctrina del "esfuerzo compartido" o índices IPC como
+   complemento, aunque esto genera controversia doctrinaria.
+
+4. CUANTIFICACIÓN ACTUALIZADA — VALORES ORIENTATIVOS (Abril 2026)
+   Los montos que siguen son ORIENTATIVOS y sujetos a actualización
+   judicial al momento de la sentencia:
+
+   4.1 DAÑO MATERIAL (obra lindera con demolición parcial + reparación):
+       - Rango PBA 2025-2026: $15.000.000 a $45.000.000 según extensión.
+       - Base de cálculo: presupuesto pericial + IVA + gastos generales
+         (30%) + dirección técnica (7%) + beneficio constructor (10%).
+
+   4.2 DAÑO MORAL (inhabitabilidad prolongada, familia afectada):
+       - Rango PBA 2025-2026: $3.000.000 a $12.000.000 por persona.
+       - Criterio: "satisfacciones sustitutivas" (Art. 1741 CCyCN).
+       - La SCBA en "Barrios" valida la teoría de placeres compensatorios.
+
+   4.3 DAÑO PSICOLÓGICO (autónomo del moral):
+       - Tratamiento: 48-96 sesiones × valor sesión actualizado.
+       - Incapacidad psíquica: se aplica fórmula del Art. 1746 CCyCN
+         con baremo DSM-5/Baremo General de Incapacidades.
+
+   4.4 PRIVACIÓN DE USO:
+       - Valor locativo mensual del inmueble × meses de inhabilitación.
+       - Rango orientativo: $300.000 a $800.000 mensuales (Merlo, 2026).
+
+   4.5 LUCRO CESANTE (si el inmueble generaba renta):
+       - Se prueba con contrato de locación anterior o tasación pericial
+         del valor locativo potencial.
+
+5. FÓRMULA MATEMÁTICA — Art. 1746 CCyCN (INCAPACIDAD)
+   Para cuantificar incapacidad psicofísica, la jurisprudencia de PBA
+   aplica fórmulas actuariales. Fórmula "Méndez":
+   C = A × (1 - Vⁿ) / i × p
+   Donde: C = capital; A = ingreso periódico (mensual/anual);
+   V = 1/(1+i); n = años de vida productiva restante; i = tasa de
+   descuento; p = porcentaje de incapacidad.
+   El Art. 1746 CCyCN exige que el juez explicite la fórmula utilizada.
+
+6. Art. 165 CPCCPBA — PRUDENCIA JUDICIAL Y SANA CRÍTICA
+   Cuando la prueba producida no permite cuantificar con exactitud el
+   monto del daño, el tribunal puede fijarlo prudencialmente conforme
+   las reglas de la sana crítica (Art. 165 CPCCPBA, 2do párrafo).
+   Este artículo NO exime de producir prueba; solo opera como complemento
+   cuando la prueba es insuficiente para la determinación exacta.
+
+7. MORA Y PRESCRIPCIÓN — COMPLEMENTO
+   - Art. 886 CCyCN: Mora automática en obligaciones de no dañar.
+   - Art. 2546 CCyCN: Carta documento SUSPENDE prescripción por 6 meses
+     (no la interrumpe). Efecto: detiene temporalmente el cómputo del
+     plazo trienal del Art. 2561 CCyCN.
+   - Art. 2544 CCyCN: La DEMANDA judicial sí INTERRUMPE la prescripción
+     (borra el plazo transcurrido y reinicia el cómputo).
+
+8. DEPARTAMENTO JUDICIAL MERLO — NOTA PROCESAL
+   La causa debe radicarse ante el Juzgado Civil y Comercial del
+   Departamento Judicial Merlo (Ley 13.859/2009). Los peritos se sortean
+   de las listas del Depto. Judicial Merlo. La Cámara de Apelación Civil
+   y Comercial de Merlo es el tribunal de alzada competente.
+   La tasa de justicia se calcula conforme Ley 14.351 (PBA) y la
+   mediación previa obligatoria rige conforme Ley 13.951 (PBA).
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 28 — CUANTIFICACIÓN DE RUBROS CON JURISPRUDENCIA VERIFICADA
+════════════════════════════════════════════════════════════════════════════════

@@ -174,3 +174,122 @@ si hay menores de edad afectados.
 ================================================================================
 FIN DE TEMAS 11-12
 ================================================================================
+
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — LEY AMBIENTE Y PRUEBA ANTICIPADA: AMPLIACIÓN
+(Investigación complementaria)
+================================================================================
+
+1. ADVERTENCIA SOBRE APLICABILIDAD DE LEY 25.675 A MICROAMBIENTE DOMÉSTICO
+────────────────────────────────────────────────────────────────
+
+   ESTADO DE LA CUESTIÓN: La jurisprudencia MAYORITARIA distingue entre:
+   • DAÑO AMBIENTAL DE INCIDENCIA COLECTIVA (regulado por Ley 25.675)
+   • DAÑO INDIVIDUAL/PRIVADO (regulado por CCyCN, vía responsabilidad civil)
+
+   La humedad y hongos dentro de una vivienda PARTICULAR generalmente se
+   encuadran como daño INDIVIDUAL, no como daño ambiental colectivo.
+
+   FALLO RELEVANTE: Juzgado Nacional en lo Civil N° 23 (2013), "C. D. c/
+   Consorcio Carolinas 2235": "Los daños reclamados deben encuadrarse en
+   el ámbito de la responsabilidad civil por daños a la propiedad y a la
+   salud, y no bajo la órbita de la Ley General del Ambiente."
+
+   SIN EMBARGO — DOCTRINA FAVORABLE (Cafferatta, Morello):
+   • Si la humedad y hongos EXCEDEN el interés individual y afectan la
+     salubridad de la vivienda de manera que constituya un "ambiente
+     insalubre", puede invocarse subsidiariamente.
+   • La presencia de hongos tóxicos (Aspergillus, Stachybotrys) genera
+     riesgo para la salud que trasciende lo meramente privado.
+
+   RECOMENDACIÓN ESTRATÉGICA:
+   • Invocar la Ley 25.675 como FUNDAMENTO SUBSIDIARIO, no como base
+     principal de la demanda.
+   • La base principal debe ser: Arts. 1757-1758 CCyCN (responsabilidad
+     objetiva) + Arts. 1710-1713 CCyCN (acción preventiva).
+   • La Ley 25.675 es útil especialmente para:
+     a) Fundamentar medidas cautelares urgentes (principio precautorio Art. 4)
+     b) Inversión de carga probatoria si hay infracción administrativa
+     c) Responsabilidad objetiva ambiental (Art. 28)
+
+
+2. CORRECCIÓN DE COMPETENCIA EN PRUEBA ANTICIPADA
+────────────────────────────────────────────────────────────────
+
+   ERROR (línea 130-131): Dice "Juzgado Civil y Comercial de Merlo
+   (1ra instancia, Departamento Judicial de Morón)"
+   CORRECTO: Juzgado Civil y Comercial del Departamento Judicial de MERLO
+
+
+3. PLAZOS Y CADUCIDAD DE LA PRUEBA ANTICIPADA
+────────────────────────────────────────────────────────────────
+
+   Art. 327 CPCCBA — Si se produce prueba anticipada antes de la demanda:
+   • La demanda debe interponerse dentro de los 30 DÍAS de producida la
+     prueba (salvo fuerza mayor o imposibilidad justificada).
+   • Si no se interpone la demanda en ese plazo, la prueba anticipada
+     pierde eficacia procesal.
+
+   IMPLICACIÓN PRÁCTICA: No solicitar prueba anticipada si no se está listo
+   para presentar la demanda inmediatamente después. La secuencia correcta es:
+   1) Mediación prejudicial → cierre sin acuerdo
+   2) Prueba anticipada (si es urgente) → producción del dictamen
+   3) Demanda dentro de 30 días de producida la prueba anticipada
+
+
+4. MODELO DE SOLICITUD DE PRUEBA ANTICIPADA PARA EL CASO
+────────────────────────────────────────────────────────────────
+
+   "Solicito a V.S. se autorice la producción de PRUEBA ANTICIPADA conforme
+   Art. 326 inc. 2° CPCCBA, consistente en:
+
+   1) PERICIA DE INGENIERÍA ESTRUCTURAL: Constatar el estado de la losa
+      flotante del inmueble sito en [DIRECCIÓN], verificando rajaduras,
+      deflexión, presencia de sobrecarga (tanque cisterna 750+ kg) y
+      evaluar riesgo de colapso.
+
+   2) PERICIA ELÉCTRICA: Constatar el estado de la instalación eléctrica,
+      en particular la caja de llave térmica principal donde ingresan
+      filtraciones, midiendo resistencia de aislamiento y riesgo de
+      electrocución.
+
+   3) PERICIA AMBIENTAL: Medir nivel de humedad relativa en los ambientes
+      afectados, identificar presencia de especies de hongos patógenos
+      (Aspergillus, Cladosporium, Stachybotrys) y evaluar riesgo sanitario.
+
+   La urgencia se funda en: (a) riesgo de electrocución por filtraciones
+   activas sobre llave térmica; (b) riesgo de colapso parcial de losa;
+   (c) necesidad de preservar el escenario probatorio antes de que nuevas
+   lluvias o intervenciones alteren las condiciones actuales.
+
+   Futuro demandado: Sr. Juan Capria, domiciliado en [DIRECCIÓN]."
+
+
+5. ACTA NOTARIAL VS. PRUEBA ANTICIPADA — CUADRO COMPARATIVO AMPLIADO
+────────────────────────────────────────────────────────────────
+
+   CARACTERÍSTICA    ACTA NOTARIAL         PRUEBA ANTICIPADA
+   ─────────────────────────────────────────────────────────────
+   Valor técnico     NO (solo constata     SÍ (dictamen pericial
+                     lo visible)            con análisis técnico)
+   Costo             Alto (~$50.000-       Moderado (tasa judicial
+                     100.000 ARS)           + honorarios perito)
+   Velocidad         Inmediata (1-3 días)  Semanas (designación +
+                                            producción dictamen)
+   Valor probatorio  Instrumento público    Prueba pericial judicial
+                     (Art. 296 CCyCN)       (Art. 474 CPCCBA)
+   Requiere juicio   NO                    SÍ (debe haber o
+                                            habrá proceso judicial)
+   Notificación      NO (unilateral)       SÍ (al futuro demandado
+   al demandado                             para control de prueba)
+   ─────────────────────────────────────────────────────────────
+
+   RECOMENDACIÓN: Producir AMBAS. El acta notarial primero (inmediata,
+   unilateral, preserva estado actual), y la prueba anticipada después
+   (con mayor valor técnico y procesal).
+
+
+════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 39 — LEY AMBIENTE Y PRUEBA ANTICIPADA
+════════════════════════════════════════════════════════════════════════════

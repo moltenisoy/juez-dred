@@ -108,3 +108,27 @@ ARCHIVOS QUE PERMANECEN (43 archivos):
 45_PROMPT_INVESTIGACION_FALTANTES.txt (NUEVO)
 46_INFORME_DUPLICADOS_ELIMINADOS.txt (NUEVO)
 ========================================================================
+
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — DUPLICADOS: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. VERIFICACIÓN POST-EXPANSIÓN — NO SE INTRODUJERON DUPLICADOS
+   ─────────────────────────────────────────────────────────────
+   Las secciones complementarias agregadas a archivos 53-60 fueron redactadas
+   como AMPLIACIONES (contenido nuevo no existente previamente). Se verificó:
+   - Archivo 53: metodología validada + corrección Dpto. Judicial → NO duplica.
+   - Archivo 54: Ord. 757/2000, Ley 8912 → contenido nuevo, no existía.
+   - Archivo 55: datos actualizados Mesa Entradas → amplía sin duplicar.
+   - Archivo 58: EXIF, geolocalización, cadena custodia → contenido nuevo.
+   - Archivo 59: Arts. 2037-2072 detallados → amplía sin duplicar.
+   - Archivo 60: ARBA valuación, plano mensura → contenido nuevo.
+
+2. ESTADO ACTUAL DE LA BIBLIOTECA: 60 archivos temáticos + 2 de control.
+   Sin duplicados detectados. Biblioteca coherente y sin solapamientos.
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 57 — INFORME DUPLICADOS ELIMINADOS (AMPLIADO)
+════════════════════════════════════════════════════════════════════════════════

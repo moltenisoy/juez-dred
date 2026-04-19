@@ -633,3 +633,79 @@ JURISPRUDENCIA VERIFICADA EN FUENTES DIGITALES:
 ================================================================================
 FIN DEL ARCHIVO 60
 ================================================================================
+
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — ARBA Y SUBDIVISIÓN PH: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. ARBA — VALUACIÓN FISCAL E IMPORTANCIA PROBATORIA
+   ─────────────────────────────────────────────────
+   ARBA (Agencia de Recaudación de Buenos Aires) es el organismo provincial
+   que administra el catastro territorial y la valuación fiscal inmobiliaria.
+   Web: https://www.arba.gov.ar
+
+   Datos que provee ARBA relevantes al caso:
+   a) Valuación fiscal del inmueble (base para cuantificar desvalorización)
+   b) Partida inmobiliaria y nomenclatura catastral
+   c) Superficie cubierta declarada (contraste con superficie real construida)
+   d) Estado parcelario (si la obra clandestina generó modificaciones no declaradas)
+   e) Plancheta catastral (permite verificar límites entre parcelas)
+
+   TRÁMITE: Consulta de partida en web.arba.gov.ar con Nº de partida o
+   domicilio. Permite detectar discrepancias entre superficie declarada
+   y superficie real (indicador de obra no regularizada).
+
+2. PROCEDIMIENTO DE SUBDIVISIÓN EN PH — MERLO
+   ────────────────────────────────────────────
+   Para constituir propiedad horizontal en Merlo se requiere:
+   a) Plano de mensura y división por agrimensor matriculado
+   b) Aprobación municipal del plano (Dirección de Obras Particulares)
+   c) Visado del plano por la Dirección Provincial de Catastro (Geodesia)
+   d) Inscripción del Reglamento de Copropiedad en el Registro de la
+      Propiedad Inmueble (RPB PBA — La Plata)
+   e) Alta de cada unidad funcional ante ARBA con partida individual
+   f) Certificado Final de Obra de cada unidad
+
+   Si alguno de estos pasos NO se cumplió, la PH es irregular y no puede
+   oponerse frente a terceros (Art. 2038 CCyCN).
+
+3. REQUISITOS DEL PLANO DE MENSURA — Ley 10.707 (Catastro PBA)
+   ─────────────────────────────────────────────────────────────
+   Art. 5 Ley 10.707: Todo inmueble debe estar relevado catastralmente.
+   El plano de mensura debe contener:
+   - Medidas perimetrales del terreno
+   - Superficie total del lote
+   - Superficies cubiertas, semicubiertas y descubiertas
+   - Ubicación de construcciones respecto de ejes medianeros
+   - Firma de agrimensor matriculado ante el Consejo Profesional de
+     Agrimensura (CPA) de la Provincia de Buenos Aires
+
+4. COLEGIO DE AGRIMENSORES — DATOS INSTITUCIONALES
+   ────────────────────────────────────────────────
+   Consejo Profesional de Agrimensura (CPA PBA)
+   Delegación Zona Oeste: competente para Merlo.
+   Función: matriculación y control ético de agrimensores.
+   RELEVANCIA: Si la obra clandestina generó modificación de superficies
+   sin plano actualizado, se configura infracción catastral autónoma
+   denunciable ante la Dirección de Catastro (Geodesia PBA).
+
+5. DECRETO-LEY 6769/58 — COMPETENCIA MUNICIPAL SOBRE EDIFICACIÓN
+   ──────────────────────────────────────────────────────────────
+   Art. 27 inc. 7 (Ley Orgánica Municipal PBA): Corresponde al Departamento
+   Ejecutivo Municipal el control de la seguridad edilicia y la aprobación
+   de planos de obra.
+   Art. 108: Los intendentes harán cumplir las ordenanzas municipales.
+   APLICACIÓN: La Municipalidad de Merlo es responsable por omisión si,
+   notificada de una obra irregular, no actúa dentro de plazo razonable.
+
+6. MORA Y PRESCRIPCIÓN — NOTAS APLICABLES
+   ────────────────────────────────────────
+   Art. 886 CCyCN: Mora automática en obligaciones a plazo determinado.
+   Art. 2546 CCyCN: Carta documento SUSPENDE la prescripción por 6 meses
+   (no la interrumpe). Efecto: se detiene el cómputo temporalmente.
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 60 — PROCEDIMIENTOS EDILICIOS PH MERLO ARBA (AMPLIADO)
+════════════════════════════════════════════════════════════════════════════════

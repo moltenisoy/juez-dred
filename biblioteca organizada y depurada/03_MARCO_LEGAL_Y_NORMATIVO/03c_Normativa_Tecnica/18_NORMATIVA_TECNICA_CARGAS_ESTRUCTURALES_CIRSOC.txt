@@ -1236,4 +1236,112 @@ Fuentes adicionales:
 NOTA: Este contenido integrado es de carácter ORIENTATIVO. Para uso en
 procedimiento judicial se recomienda obtener textos oficiales completos,
 consultar con peritos técnicos especializados y verificar vigencia de cada
+norma antes de su incorporación a escritos judiciales.
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — NORMATIVA TÉCNICA CARGAS ESTRUCTURALES CIRSOC: AMPLIACIÓN Y CORRECCIONES
+================================================================================
+
+CORRECCIÓN 1 — RESPONSABILIDAD CIVIL POR INCUMPLIMIENTO DE NORMAS CIRSOC:
+El incumplimiento de los reglamentos CIRSOC no solo configura una falta
+técnica; constituye antijuridicidad formal bajo el Art. 1717 del CCyCN.
+La inobservancia de normas CIRSOC es prueba directa de la conducta
+antijurídica del constructor y/o director de obra, generando responsabilidad
+objetiva conforme al Art. 1757 CCyCN (actividad riesgosa) y subjetiva
+conforme al Art. 1724 CCyCN (culpa profesional por negligencia, impericia o
+imprudencia).
+
+CORRECCIÓN 2 — DEPARTAMENTO JUDICIAL COMPETENTE:
+El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MERLO (Ley
+13.859/2009), NO al de Morón. La competencia jurisdiccional para demandas
+por daños derivados de incumplimiento técnico-estructural corresponde a
+los juzgados civiles y comerciales de Merlo.
+
+AMPLIACIÓN 1 — VERIFICACIÓN DE LOSAS EXISTENTES ANTE CARGAS NUEVAS:
+Cuando se coloca un tanque de agua de 750-820 kg o más sobre una losa
+existente de más de 30 años de antigüedad, el CIRSOC 201 exige:
+a) Relevamiento de la armadura existente (detección por pacómetro o
+   escarificación).
+b) Verificación de la resistencia del hormigón in situ (ensayo de
+   esclerometría o extracción de testigos).
+c) Análisis de la carga residual admisible (carga de diseño original menos
+   peso propio y cargas permanentes existentes).
+d) Verificación de punzonamiento bajo la carga concentrada del tanque.
+e) Informe firmado por ingeniero civil matriculado que certifique la
+   aptitud de la losa para recibir la nueva carga.
+La omisión de cualquiera de estos pasos constituye incumplimiento técnico
+grave, con relevancia tanto civil (Arts. 1757-1758 CCyCN) como penal
+(Art. 189 CP — estrago culposo ante riesgo de derrumbe).
+
+AMPLIACIÓN 2 — TANQUES DE AGUA SOBRE LOSA: NORMATIVA ESPECÍFICA:
+La instalación de tanques de reserva de agua sobre losas existentes debe
+cumplir las siguientes exigencias técnicas:
+— CIRSOC 101, Art. 4.2: Verificación como carga concentrada (no distribuida).
+— CIRSOC 101, Art. 4.6: Si el tanque se apoya mediante una base de apoyo
+  reducida, se debe considerar como carga puntual, que es más severa que la
+  sobrecarga distribuida de diseño original de la losa.
+— CIRSOC 201: La losa debe verificar:
+  (i) Flexión: que el momento flector mayorado no supere la resistencia
+      nominal de la sección.
+  (ii) Punzonamiento: que el esfuerzo de corte en el perímetro crítico
+       alrededor de la base del tanque no supere Vc (resistencia nominal
+       al corte).
+  (iii) Deflexión: que la flecha de la losa no supere L/360 (siendo L la
+        luz del paño) para evitar daños a elementos no estructurales.
+Un tanque de 1000 litros lleno pesa aproximadamente 1050 kg; sobre una
+losa residencial diseñada para sobrecarga de 200 kg/m², una base de apoyo
+de 1 m² concentra una carga 5 veces superior a la prevista en el diseño.
+
+AMPLIACIÓN 3 — CARGAS DINÁMICAS Y FATIGA EN LOSAS ANTIGUAS:
+Las losas de hormigón armado de más de 30 años de antigüedad están
+expuestas a:
+— Degradación por carbonatación del hormigón (reduce pH y desprotege
+  la armadura de acero).
+— Corrosión de armaduras (reduce la sección de acero efectiva).
+— Fisuración por retracción térmica acumulada.
+— Reducción de la resistencia a compresión respecto del valor de diseño.
+El CIRSOC 201 requiere que la evaluación de estructuras existentes
+considere estos factores de deterioro y aplique coeficientes de reducción
+de resistencia más conservadores que los utilizados para estructuras nuevas.
+
+AMPLIACIÓN 4 — RELACIÓN ENTRE NORMA CIRSOC Y CÓDIGO DE EDIFICACIÓN DE MERLO:
+El Código de Edificación de Merlo (Ordenanza 757-HCD-2000, actualizada por
+Ordenanza 5835/2021) incorpora la obligatoriedad de los reglamentos CIRSOC
+como norma técnica de referencia. El Art. 339 del Código de Merlo establece
+espesores mínimos de muros portantes (0,30 m para ladrillo macizo en muros
+medianeros). Para losas, el Código remite a los reglamentos CIRSOC 101 y
+201 como estándar técnico de obligatorio cumplimiento.
+La Dirección de Obras Particulares de Merlo está facultada para exigir
+memorias de cálculo estructural firmadas por profesional habilitado (ingeniero
+civil matriculado) que certifiquen el cumplimiento de CIRSOC para toda obra
+que implique nuevas cargas sobre estructura existente.
+
+AMPLIACIÓN 5 — OBLIGACIÓN DE CÁLCULO ESTRUCTURAL PARA CARGAS >500 KG:
+La práctica profesional y la jurisprudencia coinciden en que toda carga
+concentrada superior a 500 kg sobre una losa existente exige:
+— Cálculo estructural firmado por ingeniero civil matriculado.
+— Permiso de obra municipal con memoria de cálculo adjunta.
+— Verificación de la capacidad portante de la estructura existente.
+— Constancia de cumplimiento de CIRSOC 101 (cargas) y 201 (hormigón).
+La ausencia de estos requisitos configura negligencia profesional y/o
+clandestinidad de obra, con las consecuencias civiles (Arts. 1757-1758
+CCyCN) y penales (Arts. 187, 189 CP) correspondientes.
+
+AMPLIACIÓN 6 — RELEVANCIA PROBATORIA DE LA NORMA CIRSOC EN JUICIO:
+En el proceso judicial, la norma CIRSOC opera como estándar objetivo de
+diligencia técnica. El perito ingeniero estructural designado de oficio
+debe verificar:
+a) Si la losa fue diseñada y ejecutada conforme a CIRSOC vigente al
+   momento de su construcción original.
+b) Si las nuevas cargas fueron evaluadas conforme a CIRSOC vigente al
+   momento de su colocación.
+c) Si existe memoria de cálculo que justifique la aptitud de la losa.
+d) Cuál es el margen de seguridad residual de la estructura.
+La ausencia de toda verificación CIRSOC constituye prueba directa de la
+negligencia del constructor y agrava la posición del demandado, impidiendo
+alegar cumplimiento de normas técnicas como eximente.
+
+================================================================================
+FIN DEL ARCHIVO 18 — NORMATIVA TÉCNICA CARGAS ESTRUCTURALES CIRSOC (AMPLIADO)
+================================================================================
 norma al momento específico de los hechos en litigio.

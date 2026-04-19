@@ -1197,3 +1197,93 @@ CONCLUSIÓN GENERAL:
 ================================================================================
 FIN DEL ARCHIVO 48
 ================================================================================
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — PUNTOS DE PERICIA E IMPUGNACIÓN: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. MODELO DE PUNTOS DE PERICIA — INGENIERO CIVIL (Daños por obra lindera)
+   SE SOLICITA AL SR. PERITO INGENIERO CIVIL QUE INFORME:
+   1) Si en el inmueble del actor se observan fisuras, grietas, rajaduras,
+      desprendimientos, humedad, filtraciones u otras patologías edilicias.
+      Describir ubicación exacta, dimensiones y gravedad de cada una.
+   2) Si dichas patologías son compatibles técnicamente con los efectos que
+      produce una obra de ampliación/edificación en un inmueble lindero.
+   3) Si existe nexo de causalidad adecuada entre la obra ejecutada en el
+      inmueble del demandado y los daños relevados en el inmueble del actor.
+      Fundamentar técnicamente.
+   4) Si la capa aisladora/impermeabilizante del techo del actor presenta
+      deterioro compatible con tránsito de personas y/o depósito de
+      materiales de obra sobre su superficie.
+   5) Cuantificar el costo total de reparación integral de cada daño,
+      discriminando: materiales, mano de obra, plazo de ejecución.
+      Acompañar presupuesto detallado a valores actualizados.
+   6) Si la obra del demandado cumple con el Código de Edificación del
+      Municipio de Merlo, Decreto-Ley 6769/58 y normativa provincial.
+   7) Si la estructura edificada afecta la ventilación, iluminación o
+      desagüe pluvial del inmueble del actor.
+   8) Todo otro dato técnico que el perito considere relevante.
+
+2. MODELO DE PUNTOS DE PERICIA — PERITO AMBIENTAL
+   SE SOLICITA AL SR. PERITO EN CIENCIAS AMBIENTALES/HIGIENE:
+   1) Determinar los niveles de humedad relativa en cada ambiente del
+      inmueble del actor, comparando con parámetros saludables (OMS: <60%).
+   2) Realizar muestreo de aire para detectar presencia de esporas de
+      hongos (Aspergillus, Penicillium, Stachybotrys) y cuantificar UFC/m³.
+   3) Determinar si los niveles hallados representan riesgo para la salud
+      humana conforme normas OMS y resoluciones del Ministerio de Salud.
+   4) Establecer relación causal entre la humedad estructural causada por
+      la obra lindera y la proliferación de agentes biológicos.
+   5) Informar sobre medidas de remediación necesarias y su costo estimado.
+
+3. MODELO DE PUNTOS DE PERICIA — PERITO ELECTRICISTA
+   SE SOLICITA AL SR. PERITO ELECTRICISTA MATRICULADO:
+   1) Relevar el estado de la instalación eléctrica del inmueble del actor,
+      especialmente en zonas afectadas por humedad y filtraciones.
+   2) Informar si existen conductores con aislación deteriorada por contacto
+      con humedad, y si ello genera riesgo de electrocución o incendio.
+   3) Determinar si la instalación cumple con la Norma AEA 90364 vigente
+      en cuanto a protección en ambientes húmedos (Sección 701).
+   4) Verificar estado de tablero, disyuntor diferencial y puesta a tierra.
+   5) Cuantificar costo de reparación/readecuación conforme normas vigentes.
+   6) Establecer si los daños eléctricos son consecuencia de las
+      filtraciones y humedad causadas por la obra lindera.
+
+4. MODELO DE PUNTOS DE PERICIA — PERITO INFORMÁTICO
+   SE SOLICITA AL SR. PERITO EN INFORMÁTICA FORENSE:
+   1) Verificar autenticidad e integridad de las fotografías digitales
+      aportadas como prueba, analizando metadatos EXIF (fecha, hora, GPS,
+      dispositivo).
+   2) Determinar si las imágenes fueron editadas o alteradas digitalmente.
+   3) Verificar autenticidad de capturas de pantalla de comunicaciones
+      (WhatsApp, correo electrónico) presentadas como prueba.
+   4) Preservar y certificar la cadena de custodia digital de toda la
+      evidencia electrónica aportada al expediente.
+   5) Validar capturas de Google Street View/Google Earth como prueba de
+      estado anterior del inmueble, verificando fechas de captura.
+
+5. CÓMO IMPUGNAR UNA PERICIA DESFAVORABLE — GUÍA PRÁCTICA
+   Si el dictamen pericial resulta adverso a los intereses del actor:
+   a) PLAZO: Cinco (5) días desde la notificación (Art. 473 CPCCBA).
+   b) FORMA: Escrito fundado, punto por punto, con argumentación técnica.
+   c) CONTENIDO DE LA IMPUGNACIÓN:
+      i)   Señalar premisas fácticas erróneas del perito.
+      ii)  Indicar contradicciones internas del dictamen.
+      iii) Demostrar que el perito omitió considerar prueba relevante
+           (acta notarial, fotos, informes previos).
+      iv)  Exhibir que las conclusiones no se derivan lógicamente de
+           los datos relevados.
+      v)   Aportar informe del CONSULTOR TÉCNICO (Art. 461 CPCCBA) que
+           contradiga técnicamente los hallazgos del perito oficial.
+   d) PEDIDO: Solicitar al juez que ordene:
+      - Explicaciones al perito (Art. 473 in fine CPCCBA), o
+      - Nueva pericia por otro profesional (Art. 468 CPCCBA), o
+      - Pericia ampliatoria sobre puntos omitidos.
+   e) CRITERIO JUDICIAL: El juez no está obligado a seguir el dictamen
+      pericial (Art. 474 CPCCBA) y puede apartarse si la impugnación es
+      fundada y existen otros elementos probatorios concordantes.
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 41 — PERICIAS REALES, JURISPRUDENCIA Y CASOS
+════════════════════════════════════════════════════════════════════════════════

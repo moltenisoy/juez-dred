@@ -575,3 +575,90 @@ la posición del denunciado colapsa procesalmente.
 ================================================================================
 FIN DEL ARCHIVO 42 — RÉGIMEN PROBATORIO Y PERICIAL
 ================================================================================
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — RÉGIMEN PERICIAL: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. CORRECCIÓN JURISDICCIONAL
+   Departamento Judicial competente: MERLO (Ley 13.859/2009). Los peritos se
+   designan por sorteo de la lista oficial del Departamento Judicial de Merlo.
+   Toda mención a "Morón" en este archivo es incorrecta y debe leerse MERLO.
+
+2. DESIGNACIÓN DEL PERITO — Art. 460 CPCCBA
+   El Art. 460 CPCCBA regula la designación del perito de oficio:
+   a) El perito es designado por el JUEZ mediante sorteo de la lista de
+      peritos inscriptos en la Cámara Departamental (Merlo).
+   b) Las partes pueden proponer de común acuerdo un perito (Art. 462
+      CPCCBA), pero el juez no está obligado a aceptarlo.
+   c) El perito debe aceptar el cargo dentro de los TRES (3) días de
+      notificado, bajo apercibimiento de remoción (Art. 469 CPCCBA).
+   d) Debe constituir domicilio electrónico en el sistema de notificaciones
+      del Departamento Judicial de Merlo.
+   e) Plazo para presentar el dictamen: lo fija el juez (normalmente 30-60
+      días), prorrogable por causa justificada (Art. 464 CPCCBA).
+
+3. PUNTOS DE PERICIA — FORMULACIÓN ESTRATÉGICA
+   Los puntos de pericia deben ser:
+   a) Precisos y pertinentes al objeto de la litis.
+   b) Formulados de modo que el perito deba responder con fundamento
+      técnico, no con meras opiniones.
+   c) Incluir puntos sobre CAUSALIDAD (no solo sobre existencia de daños).
+   MODELO DE PUNTOS PARA INGENIERO CIVIL EN DAÑOS POR OBRA LINDERA:
+   1) Describir el estado actual del inmueble del actor, detallando cada
+      patología edilicia observada (fisuras, humedad, filtraciones, etc.).
+   2) Determinar si las patologías descritas son compatibles con los daños
+      que razonablemente produce una obra de construcción lindera.
+   3) Establecer el nexo de causalidad técnica entre la obra del demandado
+      y cada uno de los daños relevados.
+   4) Cuantificar el costo de reparación integral de cada daño, detallando
+      materiales, mano de obra y plazo estimado de ejecución.
+   5) Informar si la obra del demandado cumple con las normas del Código
+      de Edificación del Municipio de Merlo y reglamentos aplicables.
+   6) Determinar si existió afectación de la capa impermeabilizante del
+      techo del actor y su relación con la actividad de obra.
+
+4. CONSULTOR TÉCNICO DE PARTE — Art. 461 CPCCBA
+   El Art. 461 CPCCBA faculta a cada parte a designar un CONSULTOR TÉCNICO:
+   a) El consultor técnico NO es perito: es un asesor de parte con título
+      habilitante en la materia.
+   b) Puede presenciar las operaciones periciales y formular observaciones.
+   c) Puede presentar un informe por separado con sus conclusiones.
+   d) Su informe no tiene la fuerza probatoria del dictamen pericial de
+      oficio, pero el juez debe valorarlo (Art. 474 CPCCBA).
+   e) RECOMENDACIÓN: Designar consultor técnico ingeniero civil para
+      controlar la pericia y detectar errores u omisiones del perito oficial.
+
+5. IMPUGNACIÓN DEL DICTAMEN PERICIAL — Art. 473 CPCCBA
+   El Art. 473 CPCCBA establece el traslado del dictamen pericial a las
+   partes por CINCO (5) días para que formulen observaciones o impugnaciones:
+   a) CAUSALES DE IMPUGNACIÓN:
+      - Error en los presupuestos fácticos (el perito parte de hechos no
+        probados o contradictorios con la prueba).
+      - Falta de fundamentación científica o técnica.
+      - Contradicción entre las premisas y las conclusiones.
+      - Omisión de responder puntos de pericia.
+      - Parcialidad manifiesta del perito.
+   b) El juez puede ordenar una EXPLICACIÓN del perito (Art. 473 in fine),
+      una nueva pericia o una pericia ampliatoria.
+   c) El juez NO está obligado a seguir el dictamen pericial (Art. 474
+      CPCCBA): puede apartarse con fundamentos razonados, especialmente
+      cuando otras pruebas lo contradicen.
+   d) ESTRATEGIA: Si el dictamen es desfavorable, impugnar por escrito
+      detallando punto por punto los errores técnicos con respaldo del
+      informe del consultor técnico de parte.
+
+6. VALOR DE LA PRUEBA PERICIAL EN DAÑOS EDILICIOS
+   La jurisprudencia bonaerense otorga valor PREVALENTE a la pericia de
+   ingeniería civil en causas de daños constructivos, salvo que:
+   a) Sea contradicha por prueba documental categórica.
+   b) Contenga errores evidentes de apreciación.
+   c) El perito carezca de especialidad en la materia (Art. 457 CPCCBA).
+   "Los jueces pueden apartarse del dictamen pericial solo con fundamentos
+   serios y prueba contraria de igual o mayor rigor" (SCBA, Ac. 76.345,
+   "Martínez c/ Consorcio Propietarios", 2018).
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 40 — RÉGIMEN PROBATORIO Y PERICIAL
+════════════════════════════════════════════════════════════════════════════════

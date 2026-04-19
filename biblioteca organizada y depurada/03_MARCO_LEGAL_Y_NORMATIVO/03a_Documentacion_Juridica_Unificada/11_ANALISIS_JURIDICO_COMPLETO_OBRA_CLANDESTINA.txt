@@ -968,3 +968,144 @@ Para consultas adicionales, complementar con asesoramiento de abogado
 matriculado en el Departamento Judicial de Morón.
 
 ================================================================================
+
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — OBRA CLANDESTINA: AMPLIACIÓN Y CORRECCIONES
+================================================================================
+
+I. CORRECCIONES NORMATIVAS
+
+1.1. Corrección de referencias al viejo Código Civil
+Las siguientes citas en el documento contienen referencias al Código Civil de Vélez Sársfield
+(derogado por Ley 26.994). Se indican las correcciones:
+
+CITA ORIGINAL | CORRECCIÓN
+"art. 1113 CC / art. 1757 CCyC" (Parte X, fallo San Isidro) | Usar únicamente Art. 1757 CCyCN. El viejo Art. 1113 CC fue íntegramente reemplazado.
+"art. 40 Ley 13.951, por remisión al art. 3986 del CC" (Parte IX, actos que interrumpen la prescripción) | La Ley 13.951 debe leerse en conjunto con el Art. 2542 CCyCN (suspensión por pedido de mediación) y los Arts. 2544-2545 CCyCN (interrupción por petición judicial).
+"arts. 2615, 2616, 2618, 2627" (Parte XI, normativa citada) | Estos números de artículo corresponden al viejo Código Civil de Vélez. En el CCyCN vigente, esos numerales pertenecen al Libro Sexto (Derecho Internacional Privado) y NO regulan relaciones de vecindad. Las normas correctas son: Arts. 1970 a 1982 CCyCN (límites al dominio y relaciones de vecindad), Art. 1973 CCyCN (inmisiones), Art. 1716 CCyCN (deber de reparar).
+
+1.2. Corrección de competencia territorial
+Todas las referencias al "Departamento Judicial de Morón" en este documento (Pasos 3, 6, 7,
+8, 9 de la Hoja de Ruta; datos de contacto de la Parte VIII; advertencia de prescripción;
+zonas de incertidumbre; y declaración final) deben entenderse corregidas al Departamento
+Judicial de MERLO.
+
+Fundamento: La Ley Provincial 13.859 creó el Departamento Judicial de Merlo con asiento
+en la ciudad de Merlo y competencia territorial sobre los Partidos de Merlo, General Las
+Heras y Marcos Paz. El inmueble litigioso se ubica en el Partido de Merlo, por lo que
+la competencia territorial corresponde al Departamento Judicial de Merlo.
+
+Art. 5°, inc. 1° del CPCCBA: en acciones reales sobre inmuebles, es juez competente el del
+lugar donde está situada la cosa litigiosa. Verificar sedes, teléfonos y correos
+actualizados en www.scba.gov.ar y www.mpba.gov.ar.
+
+
+II. CONCEPTOS JURÍDICOS FALTANTES
+
+2.1. Inmisiones — Doctrina ampliada (Art. 1973 CCyCN)
+El Art. 1973 CCyCN establece el régimen de inmisiones entre inmuebles vecinos. La norma
+protege al vecino contra molestias que excedan la "normal tolerancia", evaluada según:
+(a) las condiciones del lugar, (b) la prioridad en el uso, y (c) las necesidades de la
+producción. Las filtraciones de agua, la humedad extrema (superior al 70%), la caída de
+fragmentos de mampostería y la exposición a riesgo eléctrico generado por obra lindera
+constituyen inmisiones que superan manifiestamente todo umbral de normalidad.
+El juez puede disponer TRES remedios acumulativos:
+• Cesación de las inmisiones (orden de hacer o no hacer).
+• Remoción de la causa (impermeabilización, reparación, demolición parcial).
+• Indemnización por los daños ya causados.
+
+2.2. Astreintes — Sanciones conminatorias (Art. 804 CCyCN)
+El Art. 804 CCyCN permite al juez imponer sanciones pecuniarias compulsivas y progresivas
+tendientes a que el demandado cumpla un mandato judicial. En el caso, las astreintes son
+aplicables si el demandado no cumple:
+• Una orden judicial de cese de las causas de filtración (Art. 1711 CCyCN).
+• Un mandato de reparación provisoria derivado de la denuncia de daño temido (Art. 623
+  bis CPCCBA).
+• Una medida cautelar de paralización de obra.
+El monto es fijado prudencialmente por el juez y puede ser incrementado ante resistencia.
+
+2.3. Sanción pecuniaria disuasiva (Arts. 1714 y 1715 CCyCN)
+El Art. 1714 CCyCN prevé la aplicación de una sanción pecuniaria disuasiva cuando el
+responsable actúa con grave menosprecio hacia los derechos del damnificado. La omisión
+deliberada de toda reparación durante dos años, con pleno conocimiento de los daños y
+sus riesgos (riesgo eléctrico, inhabilitación de ambientes, moho), configura el supuesto
+de hecho de esta norma. El Art. 1715 CCyCN fija los criterios de graduación.
+
+2.4. Daño al proyecto de vida (Art. 1738 CCyCN)
+El Art. 1738 CCyCN reconoce como rubro indemnizable la afectación de las "actividades
+no lucrativas" del damnificado, concepto que la doctrina y la Corte Interamericana de
+Derechos Humanos han denominado "daño al proyecto de vida". La imposibilidad de mantener
+vida de pareja, recibir visitas, socializar y planificar actividades familiares en el propio
+hogar durante casi dos años constituye una afectación autónoma de este rubro.
+
+2.5. Prueba anticipada (Art. 326 CPCCBA)
+El Art. 326 del CPCCBA autoriza la producción de prueba antes de la demanda cuando exista
+riesgo de que la prueba se torne imposible o muy difícil en la etapa procesal oportuna.
+Resulta esencial para:
+• Constatar judicialmente el estado del inmueble dañado.
+• Preservar mediciones de humedad (con higrómetro calibrado).
+• Documentar el estado de la instalación eléctrica antes de cualquier intervención.
+• Producir prueba informativa sobre la inexistencia de expediente de obra municipal.
+
+2.6. Protección de la vida privada (Art. 1770 CCyCN)
+La degradación sostenida de las condiciones habitacionales que impidió la vida doméstica
+normal, la vida de pareja y la recepción de visitas constituye una intromisión ilegítima
+en la esfera de la intimidad personal y familiar protegida por el Art. 1770 CCyCN, con
+derecho a indemnización autónoma.
+
+2.7. Valoración de la conducta profesional (Art. 1725 CCyCN)
+Cuanto mayor es el deber de obrar con prudencia y pleno conocimiento, mayor es la diligencia
+exigible y la valoración de la previsibilidad de las consecuencias. Si existió director de
+obra o constructor, su estándar de diligencia es el de un profesional especializado en la
+materia (Art. 1768 CCyCN — profesionales liberales), lo que agrava su responsabilidad.
+
+
+III. AMPLIACIÓN SOBRE PRESCRIPCIÓN (Art. 2561 CCyCN)
+
+3.1. La prescripción trienal del Art. 2561 CCyCN se computa desde que el damnificado conoció
+o debió conocer el daño y la identidad del responsable. En daños continuados (filtraciones
+que persisten, humedad progresiva), la doctrina mayoritaria sostiene que el plazo se renueva
+con cada nueva manifestación dañosa.
+
+3.2. Actos interruptivos y suspensivos bajo el CCyCN:
+• Art. 2541: Interrupción por reconocimiento del obligado (mensajes, conversaciones grabadas,
+  promesas de reparación).
+• Art. 2542: Suspensión por mediación prejudicial obligatoria (Ley 13.951 PBA).
+• Art. 2544: Interrupción por petición judicial (demanda, denuncia de daño temido).
+⚠ NO corresponde citar el Art. 3986 del viejo Código Civil, derogado desde agosto de 2015.
+
+3.3. Prescripción de la garantía por ruina (Art. 1275 CCyCN)
+El plazo de caducidad de la garantía por ruina total o parcial es de DIEZ (10) años desde
+la aceptación de la obra. Verificar si este plazo resulta concurrente con la prescripción
+trienal del Art. 2561 CCyCN según la naturaleza de cada rubro reclamado.
+
+
+IV. JURISPRUDENCIA COMPLEMENTARIA
+
+4.1. CSJN, "Santa Coloma c/ Ferrocarriles Argentinos" (Fallos 308:1160)
+Principio constitucional de reparación integral. La Corte declaró que la indemnización que
+no repare íntegramente el daño vulnera la garantía del Art. 19 de la Constitución Nacional.
+
+4.2. CSJN, "Aquino c/ Cargo Servicios Industriales" (Fallos 327:3753)
+Ratificó el principio alterum non laedere como garantía constitucional. Toda limitación
+legal a la reparación plena que vulnere el derecho de la víctima es inconstitucional.
+
+4.3. Cámara Civil y Comercial de Quilmes, "G.E.A. y otro" (2024)
+Confirmó la procedencia de indemnización por daño moral agravado derivado de obra lindera
+clandestina. Reconoció que la privación del uso del hogar y el riesgo a la integridad física
+constituyen lesión a derechos personalísimos.
+
+4.4. Cámara Civil y Comercial de Lomas de Zamora, Sala I, "Beltrandi" (2024)
+Estableció que el daño moral derivado de obra clandestina que afecta inmueble vecino se
+presume in re ipsa cuando la antijuridicidad de la conducta está acreditada (obra sin
+permisos, violación de normas de edificación).
+
+4.5. SCBA, doctrina legal "Barrios c/ Lascano" (C. 124.096, 2024)
+Fijó criterios sobre preservación del valor del crédito indemnizatorio y tasa de interés
+aplicable en juicios de daños en la Provincia de Buenos Aires.
+
+
+================================================================================
+FIN DEL ARCHIVO 11 — ANÁLISIS JURÍDICO COMPLETO — OBRA CLANDESTINA
+================================================================================

@@ -245,3 +245,105 @@ EFECTOS DE LA NO CITACIÓN DE UN LITISCONSORTE NECESARIO:
 ================================================================================
 FIN DE TEMAS 8-10
 ================================================================================
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — CADUCIDAD, RECONVENCIÓN Y LITISCONSORCIO: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. CADUCIDAD DE INSTANCIA — Art. 310 CPCCBA: PLAZOS DETALLADOS
+────────────────────────────────────────────────────────────────────────────────
+Plazos computados desde la última actuación útil impulsoria del proceso:
+
+   Inc. 1) SEIS (6) MESES — primera o única instancia (juicio ordinario de
+           daños y perjuicios).
+   Inc. 2) TRES (3) MESES — segunda o ulterior instancia, y Justicia de Paz.
+   Inc. 3) TRES (3) MESES — procesos sumarísimos y juicio ejecutivo.
+   Inc. 4) Plazo de prescripción de la acción si fuere MENOR a los anteriores.
+
+Cómputo: Días hábiles judiciales. No se computan ferias judiciales ni días
+inhábiles (Art. 311 CPCCBA). Se suspende por fuerza mayor o acuerdo de partes
+homologado (Art. 312 CPCCBA).
+
+ACTOS ÚTILES QUE INTERRUMPEN LA CADUCIDAD (Art. 311 CPCCBA):
+   - Peticiones que impulsan el trámite hacia la sentencia.
+   - Notificaciones gestionadas por la parte actora.
+   - Ofrecimiento o producción de prueba.
+   - NO interrumpen: meros pedidos de expediente al archivo, solicitudes de
+     prórroga sin actividad sustancial, cédulas devueltas sin diligenciar.
+
+EFECTO SOBRE LA PRESCRIPCIÓN (Art. 2547 CCyCN):
+   Si se decreta la caducidad de instancia, la prescripción se considera como
+   NO SUSPENDIDA ni interrumpida por la demanda caduca. El plazo prescriptivo
+   corre como si la demanda nunca se hubiera interpuesto.
+
+2. RECONVENCIÓN — Art. 354 Inc. 2 CPCCBA (CORRECTAMENTE: Art. 357 CPCCBA)
+────────────────────────────────────────────────────────────────────────────────
+Art. 354 CPCCBA regula la contestación de demanda, pero la RECONVENCIÓN se
+deduce conjuntamente con la contestación conforme Art. 357 CPCCBA.
+
+Requisitos de admisibilidad:
+   a) Conexidad: debe derivar de la misma relación jurídica o ser conexa con
+      la pretensión principal (Art. 357 in fine CPCCBA).
+   b) Competencia: el juez debe ser competente para la reconvención por razón
+      de materia (Art. 6 inc. 4 CPCCBA).
+   c) Mismo tipo de proceso: no puede reconvenirse en sumarísimo con pretensión
+      de conocimiento ordinario.
+   d) Plazo: debe deducirse al contestar demanda (15 días en ordinario, Art. 338).
+
+Reconvención previsible del demandado en obra lindera:
+   - Daños recíprocos a su propiedad (medianería, Art. 2014 CCyCN).
+   - Contribución por mejoras que beneficien al actor (Art. 2029 CCyCN).
+   - Culpa concurrente del actor en el agravamiento del daño.
+
+3. LITISCONSORCIO NECESARIO — Art. 89 CPCCBA
+────────────────────────────────────────────────────────────────────────────────
+Art. 89 CPCCBA: "Cuando la sentencia no pudiere pronunciarse útilmente más
+que con relación a varias partes, éstas habrán de demandar o ser demandadas
+en un mismo proceso."
+
+Aplicación al caso de daño edilicio en Merlo:
+   - Si la obra fue ejecutada por un constructor (maestro mayor de obras o
+     empresa), DEBE ser citado como litisconsorte pasivo necesario junto con
+     el propietario del inmueble lindero.
+   - Si hay un profesional habilitante (director de obra), también es
+     litisconsorte necesario (Art. 1768 CCyCN — responsabilidad del profesional
+     liberal por obra).
+   - La Municipalidad de Merlo puede ser litisconsorte si omitió su deber de
+     policía edilicia (Decreto-Ley 6769/58, Art. 27 inc. 1 — poder de policía
+     municipal en materia de construcción).
+
+Consecuencia de omisión: Si no se integra la litis con todos los litisconsortes
+necesarios, el juez debe ordenarlo de oficio (Art. 89 in fine CPCCBA) bajo
+apercibimiento de nulidad de todo lo actuado.
+
+4. CITACIÓN DE TERCEROS — Art. 94 CPCCBA
+────────────────────────────────────────────────────────────────────────────────
+Art. 94 CPCCBA: "El demandado, dentro del plazo para contestar demanda, podrá
+solicitar la citación de aquel a cuyo respecto considere que la controversia es
+común." (Citación coactiva del tercero.)
+
+Escenarios en el caso:
+   a) El propietario demandado cita al constructor como tercero (Art. 94).
+   b) El propietario demandado cita al profesional Director de Obra (Art. 94).
+   c) El actor puede citar a la Municipalidad de Merlo como tercero obligado
+      (Art. 94 CPCCBA) por omisión de control edilicio.
+
+Efectos de la citación (Art. 96 CPCCBA):
+   - La sentencia dictada es oponible al tercero citado aunque no comparezca.
+   - El tercero puede intervenir como parte, contestar demanda y ofrecer prueba.
+   - Si no comparece, la sentencia le es igualmente vinculante.
+
+Plazo: La citación SUSPENDE el procedimiento hasta la comparecencia del tercero
+o el vencimiento del plazo de citación (Art. 95 CPCCBA: plazo de la contestación
+de demanda para el citado).
+
+5. CORRECCIÓN — DEPARTAMENTO JUDICIAL COMPETENTE
+────────────────────────────────────────────────────────────────────────────────
+Conforme Ley 13.859/2009, el Departamento Judicial de MERLO es el competente
+para causas originadas en el Partido de Merlo. La caducidad, reconvención y
+citación de terceros se tramitan ante los órganos de dicho departamento.
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 47 — CADUCIDAD, RECONVENCIÓN Y LITISCONSORCIO
+════════════════════════════════════════════════════════════════════════════════

@@ -1501,3 +1501,97 @@ JURISPRUDENCIA: CSJN "Santa Coloma" (Fallos 308:1109); CSJN "Lacasa";
                FIN DEL DOCUMENTO DE JUSTIFICACIÓN Y VALIDACIÓN
           (CON ADDENDUM DE REVISIÓN EXHAUSTIVA DE DOBLE PASADA)
 ================================================================================
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — REPARACIÓN PLENA Y CUANTIFICACIÓN: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. CORRECCIÓN JURISDICCIONAL
+   El Departamento Judicial competente es MERLO, creado por Ley 13.859
+   (B.O. 17/12/2009), con asiento en la ciudad de Merlo, Provincia de Buenos
+   Aires. El Partido de Merlo NO pertenece al Departamento Judicial de Morón
+   desde la entrada en vigencia de dicha ley. Toda referencia anterior a
+   "Morón" debe entenderse corregida a "MERLO".
+
+2. PRINCIPIO DE REPARACIÓN PLENA — Art. 1740 CCyCN
+   El Art. 1740 CCyCN consagra que la reparación del daño debe ser PLENA:
+   restituir al damnificado al estado anterior al hecho dañoso. La
+   indemnización comprende tanto el daño emergente como el lucro cesante,
+   la pérdida de chance y el daño moral (Art. 1738 CCyCN). El juez no puede
+   reducir la indemnización por debajo del perjuicio efectivamente sufrido,
+   salvo disposición legal expresa (Art. 1742 CCyCN — atenuación por equidad
+   solo en casos de responsabilidad subjetiva).
+
+3. FUNCIÓN PREVENTIVA DEL DAÑO — Arts. 1710 a 1713 CCyCN
+   a) Art. 1710 CCyCN: Deber de prevención — toda persona tiene el deber de
+      evitar causar un daño no justificado, adoptar medidas razonables para
+      evitar que se produzca, y no agravar el daño ya producido.
+   b) Art. 1711 CCyCN: Acción preventiva — procede cuando una acción u
+      omisión antijurídica hace previsible la producción de un daño, su
+      continuación o agravamiento. No es exigible la concurrencia de factor
+      de atribución.
+   c) Art. 1712 CCyCN: Legitimación — están legitimados para reclamar
+      quienes acreditan un interés razonable en la prevención del daño.
+   d) Art. 1713 CCyCN: Sentencia — el juez puede disponer obligaciones de
+      dar, hacer o no hacer, según las circunstancias. Puede actuar de
+      oficio. La sentencia tiene eficacia preventiva y ejecutiva.
+   APLICACIÓN AL CASO: La acción preventiva permite solicitar la cesación
+   inmediata de toda actividad de obra que continúe generando daños,
+   independientemente de la acción resarcitoria por los daños ya causados.
+
+4. RAZONABILIDAD DEL MONTO RECLAMADO
+   El quantum indemnizatorio debe guardar proporcionalidad con:
+   a) Presupuestos de reparación actualizados a la fecha de sentencia
+      (doctrina "Iribarren" CSJN — Fallos 322:2002).
+   b) Depreciación del inmueble acreditada por tasación pericial comparativa
+      (valor de mercado antes/después del daño).
+   c) Gastos futuros necesarios para completar la reparación integral.
+   d) Daño moral proporcionado a la gravedad de la lesión y la duración de
+      la afectación (CSJN "Baeza" Fallos 334:376).
+   La jurisprudencia bonaerense admite la fijación prudencial del monto
+   (Art. 165 CPCCBA) cuando existe certeza del daño pero dificultad en
+   cuantificarlo con exactitud (Cám. Civ. y Com. La Matanza, Sala I, 2023).
+
+5. CUANTIFICACIÓN POR RUBROS INDEMNIZABLES
+   ┌─────────────────────────────────┬──────────────────────────────────────┐
+   │ RUBRO                           │ FUNDAMENTO NORMATIVO                 │
+   ├─────────────────────────────────┼──────────────────────────────────────┤
+   │ Daño emergente (reparaciones)   │ Art. 1738 CCyCN                      │
+   │ Lucro cesante (uso habitacional)│ Art. 1738 CCyCN                      │
+   │ Pérdida de chance               │ Art. 1739 CCyCN                      │
+   │ Daño moral                      │ Arts. 1738 y 1741 CCyCN              │
+   │ Daño psicológico (autónomo)     │ Art. 1746 CCyCN                      │
+   │ Daño estético                   │ Art. 1738 CCyCN (subcategoría)       │
+   │ Gastos médicos/farmacéuticos    │ Art. 1746 CCyCN                      │
+   │ Privación de uso                │ Art. 1738 CCyCN                      │
+   │ Desvalorización del inmueble    │ Art. 1738 CCyCN — daño emergente     │
+   │ Daño a bienes muebles           │ Art. 1738 CCyCN                      │
+   └─────────────────────────────────┴──────────────────────────────────────┘
+
+6. MORA DEL DEUDOR — Art. 886 CCyCN
+   La mora se produce de pleno derecho (Art. 886 CCyCN) cuando el plazo
+   está expresamente determinado. En obligaciones extracontractuales por
+   hechos ilícitos, la mora es automática desde la producción del daño
+   (Art. 1748 CCyCN). Los intereses corren desde la fecha del hecho dañoso
+   hasta el efectivo pago, conforme la tasa activa del Banco de la Provincia
+   de Buenos Aires (doctrina SCBA "Vera c/ Provincia de Buenos Aires").
+
+7. SUSPENSIÓN DE LA PRESCRIPCIÓN POR CARTA DOCUMENTO — Art. 2546 CCyCN
+   La interpelación fehaciente (carta documento) SUSPENDE el curso de la
+   prescripción por el término de seis (6) meses (Art. 2546 CCyCN).
+   NOTA TÉCNICA: No se trata de interrupción (Art. 2544 CCyCN) sino de
+   suspensión: el plazo se detiene por 6 meses y luego continúa (no se
+   reinicia). Este efecto opera una sola vez por interpelación.
+
+8. APLICACIÓN DE LA LEY ORGÁNICA MUNICIPAL — Decreto-Ley 6769/58
+   El Decreto-Ley 6769/58 (Ley Orgánica de las Municipalidades de la PBA)
+   faculta al municipio a controlar y sancionar obras en infracción. El
+   incumplimiento del municipio en ejercer el poder de policía no exime de
+   responsabilidad al constructor, pero puede generar responsabilidad
+   concurrente del Estado municipal (Art. 1764 CCyCN — responsabilidad del
+   Estado, remisión a normas de derecho administrativo).
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 35 — JUSTIFICACIÓN Y VALIDACIÓN DEL RECLAMO
+════════════════════════════════════════════════════════════════════════════════

@@ -474,3 +474,149 @@ stia-emocional-y-su-compensacion-legal-en-casos-civiles
 10, 2026,
 https://salaprimera.poder-judicial.go.cr/phocadownload/Temas_jurisprudencial
 
+
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — DAÑOS POR OBRA VECINA: AMPLIACIÓN Y CORRECCIONES
+================================================================================
+
+I. CORRECCIONES NORMATIVAS
+
+1.1. Corrección de la referencia al Art. 1113 del Código de Vélez
+El documento cita en su análisis de responsabilidad objetiva que el Art. 1757 del CCyCN es
+"sucesor del antiguo artículo 1113 del Código de Vélez". Si bien la referencia histórica es
+correcta, para todo uso procesal debe citarse únicamente el Art. 1757 CCyCN, que establece
+autónomamente la responsabilidad por el riesgo o vicio de las cosas y de las actividades
+riesgosas por su naturaleza o circunstancias. El viejo Art. 1113 CC fue derogado por la
+Ley 26.994 y no tiene vigencia alguna desde agosto de 2015.
+
+1.2. Uniformidad de sigla: CCyCN
+El documento utiliza la sigla "CCCN" (Código Civil y Comercial de la Nación). Si bien esta
+sigla es ampliamente usada, la sigla técnicamente más precisa y utilizada en doctrina
+especializada es "CCyCN". En esta sección complementaria se adopta "CCyCN" por consistencia
+con los demás documentos de la biblioteca.
+
+1.3. Corrección sobre Ordenanza 3326 de Merlo
+El documento cita la Ordenanza 3326 junto a la Ordenanza 5839 de Merlo. Verificar que la
+Ordenanza 3326 no haya sido derogada o modificada por la Ordenanza 5835/2021 (actualización
+del Código de Edificación) o por la propia Ordenanza 5839/2021, ambas posteriores.
+
+
+II. COMPETENCIA TERRITORIAL — DEPARTAMENTO JUDICIAL DE MERLO
+
+2.1. El documento refiere genéricamente a "Merlo y otros municipios de Buenos Aires" y a la
+"jurisdicción de Merlo" pero no explicita el Departamento Judicial competente.
+Corresponde aclarar: el Departamento Judicial de MERLO fue creado por la Ley Provincial
+13.859, con asiento en la ciudad de Merlo y competencia territorial sobre los Partidos de
+Merlo, General Las Heras y Marcos Paz.
+
+2.2. Art. 5°, inc. 1° del CPCCBA: en acciones reales sobre inmuebles, es juez competente el
+del lugar donde está situada la cosa litigiosa. El inmueble dañado se ubica en Merlo →
+Departamento Judicial de Merlo.
+
+
+III. CONCEPTOS JURÍDICOS FALTANTES
+
+3.1. Inmisiones — Régimen completo (Art. 1973 CCyCN)
+El documento aborda la responsabilidad por riesgo (Art. 1757 CCyCN) y los rubros
+indemnizables, pero no desarrolla el régimen de inmisiones del Art. 1973 CCyCN, que
+constituye una base normativa autónoma y complementaria para el reclamo. Las filtraciones
+de agua, la humedad excesiva y la caída de fragmentos desde obra lindera califican como
+"inmisiones similares" a las expresamente enumeradas (humo, calor, olores, luminosidad,
+ruidos, vibraciones). El Art. 1973 CCyCN habilita al juez a ordenar acumulativamente:
+(a) la cesación de las inmisiones, (b) la remoción de la causa, y (c) la indemnización.
+El estándar de "normal tolerancia" se evalúa según las condiciones del lugar. Una humedad
+sostenida superior al 70% que inhabilita ambientes es manifiestamente intolerable.
+
+3.2. Astreintes (Art. 804 CCyCN)
+Las sanciones conminatorias del Art. 804 CCyCN permiten al juez imponer multas progresivas
+al demandado que no cumpla mandatos judiciales de hacer (impermeabilizar, reparar, cesar
+la causa de filtraciones). Son ejecutables sin nuevo proceso y su monto aumenta
+progresivamente ante la resistencia del obligado. Resultan especialmente útiles en la
+ejecución de sentencias de condena a hacer en juicios por daños de obra lindera.
+
+3.3. Sanción pecuniaria disuasiva (Arts. 1714 y 1715 CCyCN)
+El Art. 1714 CCyCN prevé una sanción económica disuasiva cuando el responsable actuó con
+grave menosprecio hacia los derechos del damnificado. La persistencia deliberada de una
+situación dañosa durante dos años, pese al conocimiento comprobado de los daños y sus
+riesgos, encuadra en el supuesto de esta norma. El Art. 1715 CCyCN establece los criterios
+de graduación: gravedad de la conducta, repercusión social, patrimonio del sancionado y
+beneficio obtenido o que pudo obtenerse con el proceder ilícito.
+
+3.4. Prueba anticipada (Art. 326 CPCCBA)
+El Art. 326 del CPCCBA permite la producción de prueba antes de la interposición de la
+demanda cuando exista riesgo de que la prueba se torne imposible o muy dificultosa. En
+el caso de daños por obra lindera, la prueba anticipada es crítica para:
+• Constatar judicialmente el estado del inmueble antes de cualquier alteración.
+• Preservar mediciones de humedad con higrómetro calibrado (Art. 326, inc. 3° CPCCBA).
+• Documentar el estado de la instalación eléctrica y las fisuras existentes.
+• Obtener prueba informativa sobre la inexistencia de permisos de obra municipales.
+
+3.5. Denuncia de daño temido (Art. 623 bis CPCCBA)
+El documento menciona la acción preventiva (Arts. 1711-1713 CCyCN) pero no desarrolla
+la denuncia de daño temido del Art. 623 bis CPCCBA, que constituye la vía procesal
+específica en la Provincia de Buenos Aires para conjurar peligros derivados de edificios
+o cosas. Sus resoluciones son inapelables y no requieren mediación previa. El juez puede
+disponer: paralización de obra, apuntalamiento, colocación de protecciones y astreintes
+por incumplimiento.
+
+3.6. Protección de la vida privada (Art. 1770 CCyCN)
+La degradación sostenida de las condiciones habitacionales que impide la vida doméstica
+normal, la vida de pareja y la recepción de visitas en el propio hogar constituye una
+intromisión ilegítima en la esfera de la intimidad personal y familiar protegida por el
+Art. 1770 CCyCN. Este rubro es autónomo del daño moral y del daño al proyecto de vida.
+
+3.7. Valoración de la conducta profesional (Art. 1725 CCyCN)
+Cuanto mayor es el deber de obrar con prudencia y pleno conocimiento, mayor la diligencia
+exigible y mayor la valoración de la previsibilidad de las consecuencias. El director de
+obra y el constructor responden bajo un estándar de diligencia profesional agravado
+(Art. 1768 CCyCN — responsabilidad de los profesionales liberales).
+
+
+IV. PRESCRIPCIÓN — RÉGIMEN APLICABLE
+
+4.1. Plazo trienal (Art. 2561 CCyCN)
+La acción por responsabilidad civil extracontractual prescribe a los TRES (3) años. En
+daños continuados (filtraciones persistentes, humedad progresiva), el plazo se renueva
+con cada nueva manifestación dañosa. El dies a quo se computa desde que el damnificado
+conoció o debió conocer el daño y al responsable.
+
+4.2. Garantía decenal por ruina (Art. 1275 CCyCN)
+El constructor, los proyectistas y quienes tienen a su cargo la realización de la obra
+responden por un plazo de DIEZ (10) años desde la aceptación de la misma, por ruina
+total o parcial que la haga impropia para su destino. Esta garantía es de orden público
+y no puede ser renunciada contractualmente (Art. 1276 CCyCN).
+
+4.3. Interrupción y suspensión de la prescripción (CCyCN, no viejo Código Civil)
+• Art. 2541 CCyCN — Interrupción por reconocimiento (mensajes, promesas del demandado).
+• Art. 2542 CCyCN — Suspensión por mediación prejudicial obligatoria (Ley 13.951 PBA).
+• Art. 2544 CCyCN — Interrupción por petición judicial (demanda o denuncia de daño temido).
+⚠ No citar Art. 3986 del viejo Código Civil (derogado desde agosto de 2015).
+
+
+V. JURISPRUDENCIA COMPLEMENTARIA
+
+5.1. CSJN, "Santa Coloma c/ Ferrocarriles Argentinos" (Fallos 308:1160)
+Principio constitucional de reparación integral. Toda indemnización que no repare
+íntegramente el daño vulnera los Arts. 17 y 19 de la Constitución Nacional.
+
+5.2. CSJN, "Aquino c/ Cargo Servicios Industriales" (Fallos 327:3753)
+Ratificó que el principio alterum non laedere tiene jerarquía constitucional.
+
+5.3. Cámara Civil y Comercial de Quilmes, "G.E.A. y otro" (2024)
+Condenó al dueño, director de obra y constructora por daños derivados de obra lindera.
+Reconoció daño moral agravado por la duración del padecimiento y la privación de uso del
+hogar.
+
+5.4. Cámara Civil y Comercial de Lomas de Zamora, Sala I, "Beltrandi" (2024)
+Daño moral presumido in re ipsa ante antijuridicidad acreditada (obra sin permisos
+municipales que afecta inmueble vecino).
+
+5.5. SCBA, doctrina legal "Barrios c/ Lascano" (C. 124.096, 2024)
+Criterios actualizados sobre tasa de interés y preservación del valor del crédito
+indemnizatorio en juicios de daños en la Provincia de Buenos Aires.
+
+
+================================================================================
+FIN DEL ARCHIVO 13 — MARCO LEGAL — DAÑOS POR OBRA VECINA
+================================================================================

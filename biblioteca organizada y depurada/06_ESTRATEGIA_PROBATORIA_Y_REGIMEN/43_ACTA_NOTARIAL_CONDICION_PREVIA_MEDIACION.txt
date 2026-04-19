@@ -382,3 +382,104 @@ No se identificó contenido adicional no duplicado para incorporar.
 ================================================================================
 FIN FICHA 56
 ================================================================================
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — ACTA NOTARIAL Y MEDIACIÓN: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. REQUISITOS DEL ACTA NOTARIAL DE CONSTATACIÓN
+   Para que el acta notarial tenga pleno valor probatorio en juicio civil
+   ante el Departamento Judicial de Merlo (Ley 13.859/2009), debe contener:
+   a) DATOS DEL ESCRIBANO: nombre, matrícula, registro notarial, domicilio
+      legal del registro. Debe estar habilitado para actuar en el Partido
+      de Merlo conforme jurisdicción notarial.
+   b) FECHA Y HORA: precisas, con indicación de inicio y fin de la
+      diligencia.
+   c) LUGAR: dirección completa del inmueble constatado, con indicación de
+      partido, localidad, calle, número y datos catastrales si se disponen.
+   d) REQUERIENTE: identificación completa (nombre, DNI, domicilio).
+   e) DESCRIPCIÓN OBJETIVA: el escribano debe limitarse a describir lo que
+      percibe por sus propios sentidos (vista, olfato, tacto), sin emitir
+      juicios de valor ni opiniones técnicas.
+   f) DOCUMENTACIÓN FOTOGRÁFICA: incorporada al acta, con indicación de
+      cada toma (ubicación, orientación, detalle). Las fotografías deben
+      ser obtenidas por el propio escribano o en su presencia.
+   g) FIRMA Y SELLO: del escribano actuante y, si corresponde, testigos.
+   h) PROTOCOLIZACIÓN: el acta se protocolariza en el registro notarial,
+      lo que le otorga fecha cierta y carácter de instrumento público
+      (Art. 289 inc. b CCyCN).
+
+2. COSTO ESTIMADO DEL ACTA NOTARIAL DE CONSTATACIÓN (Abril 2026)
+   Según aranceles del Colegio de Escribanos de la Provincia de Buenos Aires
+   y delegaciones Merlo/La Matanza:
+   - Acta de constatación estándar (1 hora): $180.000 a $250.000.
+   - Hora adicional: $40.000 a $60.000 por hora.
+   - Copias certificadas: $15.000 a $25.000 cada una.
+   - Gastos de movilidad: según distancia (se suman al honorario).
+   NOTA: Los aranceles son orientativos y varían según complejidad y
+   extensión de la diligencia. Se recomienda solicitar presupuesto previo.
+   Base legal de aranceles: Decreto-Ley 10.123/83 y Ley 6925 PBA.
+
+3. DIFERENCIA ENTRE ACTA NOTARIAL E INSPECCIÓN OCULAR JUDICIAL
+   ┌────────────────────────────┬──────────────────────────────────────────┐
+   │ ACTA NOTARIAL              │ INSPECCIÓN OCULAR JUDICIAL               │
+   ├────────────────────────────┼──────────────────────────────────────────┤
+   │ La realiza un escribano    │ La ordena y dirige el juez               │
+   │ Se hace ANTES del juicio   │ Se hace DURANTE el juicio                │
+   │ La paga el requirente      │ Costas del proceso                       │
+   │ Valor: instrumento público │ Valor: prueba directa del juez           │
+   │ No requiere bilateralidad  │ Con citación de las partes               │
+   │ Art. 289 inc. b CCyCN      │ Art. 479 CPCCBA                          │
+   │ Preconstituye prueba       │ Se produce en el proceso                 │
+   │ Rápida (días)              │ Lenta (depende del juzgado)              │
+   └────────────────────────────┴──────────────────────────────────────────┘
+   ESTRATEGIA: Labrar acta notarial como prueba preconstituida y TAMBIÉN
+   solicitar inspección ocular judicial para que el juez constate
+   personalmente los daños. Ambas pruebas se complementan.
+
+4. MEDIACIÓN OBLIGATORIA — LEY 13.951 PBA: PROCEDIMIENTO COMPLETO
+   La Ley 13.951 (B.O. 10/02/2009) establece la mediación previa obligatoria
+   en la Provincia de Buenos Aires. Procedimiento paso a paso:
+
+   PASO 1 — SORTEO DEL MEDIADOR:
+   El requirente (futuro actor) solicita sorteo de mediador ante la
+   Receptoría General de Expedientes del Departamento Judicial de Merlo.
+   El sistema informático asigna un mediador habilitado por el Ministerio
+   de Justicia de la Provincia de Buenos Aires.
+
+   PASO 2 — NOTIFICACIÓN AL REQUERIDO:
+   El mediador notifica al requerido (futuro demandado) por cédula o medio
+   fehaciente, con indicación de fecha, hora y lugar de la audiencia.
+   Plazo: la primera audiencia debe celebrarse dentro de los 30 días de la
+   designación del mediador.
+
+   PASO 3 — AUDIENCIAS DE MEDIACIÓN:
+   Se celebran hasta TRES (3) audiencias como máximo (Art. 6 Decreto
+   Reglamentario 43/19). Las partes deben asistir personalmente con sus
+   letrados. El mediador facilita la comunicación buscando un acuerdo.
+
+   PASO 4 — CIERRE DE LA MEDIACIÓN:
+   La mediación puede concluir por:
+   a) ACUERDO: se labra acta con efecto de cosa juzgada (Art. 17 Ley 13.951).
+   b) FALTA DE ACUERDO: se labra acta de cierre sin acuerdo.
+   c) INCOMPARECENCIA del requerido: se labra acta, queda habilitada la
+      vía judicial, y la incomparecencia puede generar multa (Art. 28
+      Ley 13.951).
+
+   PASO 5 — HABILITACIÓN DE LA VÍA JUDICIAL:
+   Con el acta de cierre (sin acuerdo o por incomparecencia), queda
+   habilitada la vía judicial para interponer la demanda.
+
+   EFECTO SOBRE LA PRESCRIPCIÓN:
+   La mediación SUSPENDE el curso de la prescripción desde la notificación
+   del requerido hasta 20 días hábiles posteriores al cierre del
+   procedimiento (Art. 40 Ley 13.951, concordante con Art. 2542 CCyCN).
+
+   NOTA: La mediación es requisito de admisibilidad de la demanda. Su
+   omisión genera la inadmisibilidad formal de la acción judicial
+   (Art. 2 Ley 13.951).
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 43 — ACTA NOTARIAL, CONDICIÓN PREVIA Y MEDIACIÓN
+════════════════════════════════════════════════════════════════════════════════

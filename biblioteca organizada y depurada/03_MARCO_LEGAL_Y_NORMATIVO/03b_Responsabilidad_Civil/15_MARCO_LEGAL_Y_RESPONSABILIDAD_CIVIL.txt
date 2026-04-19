@@ -704,5 +704,121 @@ exclusiva de la víctima o un caso fortuito extraordinario.
 Fuente: Cámara de Quilmes y Lomas de Zamora (jurisprudencia 2022-2024).
 
 ================================================================================
-FIN DEL ARCHIVO 40 — MARCO LEGAL Y RESPONSABILIDAD CIVIL
+SECCIÓN COMPLEMENTARIA — MARCO LEGAL Y RESPONSABILIDAD CIVIL: AMPLIACIÓN Y CORRECCIONES
+================================================================================
+
+CORRECCIÓN 1 — DEPARTAMENTO JUDICIAL COMPETENTE:
+En la carátula de este archivo (línea 4) y en la Sección 3 (línea 295) se
+indica erróneamente "Departamento Judicial de Morón". CORRECCIÓN: El Partido
+de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MERLO, creado por la Ley
+13.859 (sancionada en 2009, B.O. PBA 12/01/2009), con sede en la ciudad de
+Merlo. La competencia ordinaria civil y comercial corresponde a los juzgados
+de primera instancia de Merlo y a la Cámara de Apelación en lo Civil y
+Comercial del Departamento Judicial de Merlo.
+
+CORRECCIÓN 2 — CONSTITUCIÓN EN MORA (Art. 886 CCyCN, NO Art. 1717):
+El Art. 886 del CCyCN regula la constitución en mora del deudor. La mora se
+produce por el mero transcurso del tiempo fijado para el cumplimiento de la
+obligación (mora automática) o, en obligaciones sin plazo, mediante
+interpelación fehaciente (carta documento, acta notarial). NO debe confundirse
+con el Art. 1717 CCyCN (antijuridicidad), que refiere al carácter ilícito de
+la conducta dañosa. La carta documento que intima al demandado a cesar la causa
+del daño y reparar constituye interpelación moratoria bajo el Art. 886 CCyCN.
+
+CORRECCIÓN 3 — SUSPENSIÓN DE PRESCRIPCIÓN POR CARTA DOCUMENTO (Art. 2546 CCyCN):
+El envío de carta documento reclamando el daño SUSPENDE el curso de la
+prescripción por el plazo de SEIS (6) MESES conforme al Art. 2546 del CCyCN
+("Interpelación fehaciente"). NO interrumpe la prescripción; la SUSPENDE.
+Diferencia: la suspensión detiene el cómputo del plazo y luego este se
+reanuda; la interrupción (Art. 2544-2545 CCyCN) borra el plazo transcurrido
+y lo reinicia desde cero.
+Consecuencia práctica: si se envió carta documento el 01/03/2024, la
+prescripción queda suspendida hasta el 01/09/2024 (6 meses), y se reanuda
+desde donde estaba. Este plazo es especialmente relevante para el cómputo
+del término de 3 años del Art. 2561 CCyCN.
+
+AMPLIACIÓN 1 — DAÑO A LA VIDA DE RELACIÓN:
+La jurisprudencia bonaerense reconoce como rubro autónomo el "daño a la
+vida de relación" o "pérdida de chance de vida social y afectiva". Este daño
+comprende la privación o disminución de las actividades sociales, recreativas,
+familiares y de pareja del damnificado. En casos de humedad extrema que
+impide recibir visitas, socializar normalmente o mantener condiciones de
+habitabilidad digna, la SCBA ha admitido su procedencia como rubro diferenciado
+del daño moral genérico.
+Fundamento: Art. 1738 CCyCN (comprende "las que resultan de la interferencia
+en su proyecto de vida") y Art. 1741 CCyCN (consecuencias no patrimoniales).
+
+AMPLIACIÓN 2 — RESPONSABILIDAD CONCURRENTE vs. SOLIDARIA:
+El CCyCN distingue:
+— Responsabilidad SOLIDARIA (Art. 1751): cuando varias personas participan en
+  la producción del daño, responden solidariamente.
+— Responsabilidad CONCURRENTE (Art. 1758): el dueño y el guardián son
+  responsables concurrentes (no solidarios) del daño causado por cosas o
+  actividades riesgosas.
+Diferencia procesal: en la solidaridad, la interrupción de la prescripción
+contra un codeudor se propaga a todos (Art. 2549 CCyCN); en la concurrencia,
+NO se propaga.
+Aplicación al caso: el dueño del inmueble y el constructor responden de manera
+CONCURRENTE (Art. 1758), pero si ambos participaron activamente en la ejecución
+de la obra, su responsabilidad se califica como SOLIDARIA (Art. 1751).
+
+AMPLIACIÓN 3 — DENUNCIA DE DAÑO TEMIDO (Art. 623 bis CPCC PBA):
+Aunque mencionado en el archivo, se amplía su alcance. El Art. 623 bis del
+CPCC PBA habilita a quien tema un daño grave e inminente en su persona o
+bienes a solicitar medidas cautelares urgentes sin necesidad de iniciar
+proceso de fondo. El juez puede:
+a) Ordenar la paralización de la obra.
+b) Disponer medidas de seguridad (apuntalamiento, vallado).
+c) Designar perito de oficio para constatar el peligro.
+d) Fijar astreintes por incumplimiento de la orden judicial.
+El trámite es de naturaleza cautelar y autónoma. La resolución es apelable
+con efecto devolutivo (no suspensivo). Requisitos: verosimilitud del derecho,
+peligro en la demora y contracautela (puede dispensarse ante BLSG).
+
+AMPLIACIÓN 4 — MEDIACIÓN PREVIA OBLIGATORIA (Ley 13.951 PBA):
+Antes de iniciar demanda civil por daños, es obligatorio transitar la
+instancia de mediación prejudicial conforme la Ley 13.951 PBA. La mediación
+se lleva ante mediadores matriculados del Departamento Judicial de MERLO.
+La incomparecencia del requerido a la audiencia de mediación genera:
+a) Multa a favor del requirente (Art. 25 Ley 13.951).
+b) Certificado de mediación que habilita la vía judicial.
+c) Antecedente desfavorable valorable en costas.
+Excepción: las medidas cautelares (Art. 623 bis CPCC PBA) no requieren
+mediación previa.
+
+AMPLIACIÓN 5 — PRUEBA ANTICIPADA EXTRACONTENCIOSA (Art. 326 CPCC PBA):
+El Art. 326 CPCC PBA permite producir prueba antes de la demanda cuando
+exista riesgo de que la prueba desaparezca o se deteriore. En el caso de
+daños edilicios, se habilita:
+a) Constatación notarial urgente del estado del inmueble.
+b) Pericia técnica anticipada ante riesgo de derrumbe o modificación.
+c) Testimonial de vecinos testigos presenciales de la obra.
+d) Inspección ocular judicial con labrado de acta.
+Esta prueba es admisible en el posterior proceso de conocimiento y su
+producción temprana es estratégicamente esencial para preservar el estado
+de hecho que luego será materia de pericia.
+
+AMPLIACIÓN 6 — LEY ORGÁNICA MUNICIPAL PBA (Decreto-Ley 6769/58):
+La Ley Orgánica de las Municipalidades de la PBA es el Decreto-Ley 6769/58
+(NO la Ley 10.147, que regula otra materia). El Art. 27 inc. 7° del Decreto-
+Ley 6769/58 atribuye a los municipios la función de reglamentar, autorizar
+y fiscalizar las obras de construcción en su ejido. La omisión de control
+municipal configura "falta de servicio" (funcionamiento anormal o deficiente
+del servicio público de policía edilicia), habilitando la responsabilidad
+del Estado municipal por omisión.
+
+AMPLIACIÓN 7 — CUANTIFICACIÓN DEL DAÑO Y PRESUPUESTACIÓN:
+El Art. 1740 CCyCN impone la reparación plena. La jurisprudencia de la PBA
+exige que la cuantificación se realice:
+a) A valores actuales al momento de la sentencia (no de la demanda).
+b) Mediante presupuesto de empresa constructora para reparaciones edilicias.
+c) Con detalle de ítems: materiales, mano de obra, honorarios profesionales,
+   traslados, alquiler temporario durante reparación.
+d) Los rubros no cuantificables con exactitud se fijan prudencialmente
+   (Art. 165 CPCC PBA).
+La SCBA en "Barrios" (2024) habilitó la actualización monetaria por IPC,
+superando la prohibición del Art. 7 Ley 23.928.
+
+================================================================================
+FIN DEL ARCHIVO 40 — MARCO LEGAL Y RESPONSABILIDAD CIVIL (AMPLIADO)
 ================================================================================

@@ -468,3 +468,112 @@ que debió seguirse.
 ================================================================================
 FIN DEL ARCHIVO 43 — INCUMPLIMIENTOS, DAÑOS Y RUBROS INDEMNIZATORIOS
 ================================================================================
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — INCUMPLIMIENTOS, DAÑOS Y RUBROS INDEMNIZATORIOS:
+AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. CORRECCIÓN JURISDICCIONAL IMPERATIVA
+   ERROR EN ENCABEZADO (línea 4): Dice "DEPARTAMENTO JUDICIAL: MORÓN".
+   DEBE DECIR: "DEPARTAMENTO JUDICIAL: MERLO".
+   El Partido de Merlo pertenece al Departamento Judicial Merlo desde la
+   entrada en vigencia de la Ley 13.859 (B.O. 17/12/2009). Las referencias
+   a "Cámara de Morón" o "Departamento Judicial Morón" en el cuerpo del
+   documento son incorrectas para radicar la causa. Los tribunales
+   competentes son los Juzgados Civiles y Comerciales del Departamento
+   Judicial Merlo y la Cámara de Apelación en lo Civil y Comercial de Merlo.
+   NOTA: La jurisprudencia de la Cámara de Morón puede citarse como referencia
+   analógica, pero NO es el tribunal de alzada competente para el caso.
+
+2. CORRECCIÓN DE REFERENCIAS AL CÓDIGO CIVIL DEROGADO
+   El documento contiene citas al Código Civil de Vélez Sarsfield (derogado
+   por Ley 26.994 vigente desde 01/08/2015). Correspondencias correctas:
+
+   - Art. 1647 CC (responsabilidad constructor) → Art. 1274 CCyCN
+     (responsabilidad por ruina parcial o total de obra).
+   - Art. 1078 CC (legitimación daño moral) → Art. 1741 CCyCN
+     (indemnización de las consecuencias no patrimoniales; legitimación
+     ampliada a convivientes y afectados directos).
+   - Art. 1113 CC (responsabilidad objetiva por riesgo) → Art. 1757 CCyCN
+     (actividades riesgosas) y Art. 1758 CCyCN (sujetos responsables).
+   - Art. 1647 bis CC (garantía decenal) → Art. 1275 CCyCN (plazo de
+     caducidad: el constructor responde por 10 años desde la aceptación
+     de la obra por destrucción o deterioro importante).
+
+3. RUBROS INDEMNIZATORIOS OMITIDOS EN EL CUERPO PRINCIPAL
+   Además de daño material, daño moral y lucro cesante, corresponde incluir:
+
+   3.1 DAÑO PSICOLÓGICO (autónomo del daño moral)
+       Fundamento: Art. 1746 CCyCN. Se cuantifica mediante pericia
+       psicológica que determine: diagnóstico (ej.: trastorno adaptativo),
+       porcentaje de incapacidad psíquica, necesidad de tratamiento.
+       Cuantificación: Costo de tratamiento (sesiones × valor × duración)
+       + incapacidad sobreviniente (fórmula matemática Art. 1746 CCyCN).
+
+   3.2 GASTOS DE ALOJAMIENTO TRANSITORIO
+       Cuando el inmueble resulta inhabitable por los daños producidos por
+       la obra lindera, los gastos de alquiler/hotel son consecuencia
+       inmediata del hecho dañoso (Art. 1726 CCyCN). Se prueban con
+       recibos, contratos de locación y/o presupuestos de mercado.
+
+   3.3 PRIVACIÓN DE USO DEL INMUEBLE
+       Rubro autónomo. Se cuantifica por el valor locativo del inmueble
+       afectado durante el período de inhabilitación. No requiere que la
+       víctima haya alquilado efectivamente otro inmueble.
+
+   3.4 DAÑO A LA VIDA DE RELACIÓN / PROYECTO DE VIDA
+       Reconocido por la SCBA y tribunales bonaerenses. Comprende la
+       afectación a la calidad de vida, relaciones sociales y planes
+       vitales alterados por la situación de inhabitabilidad prolongada.
+
+   3.5 GASTOS FUTUROS DE REPARACIÓN
+       Art. 1739 CCyCN admite la indemnización del daño futuro cierto.
+       Se acredita con presupuesto pericial actualizado. Incluye:
+       materiales + mano de obra + IVA + gastos generales (30%) +
+       honorarios dirección técnica (7%).
+
+4. CUANTIFICACIÓN — CRITERIOS ACTUALIZADOS
+   - Art. 772 CCyCN: Cuantificación en moneda de curso legal. Si el monto
+     se determinó en una moneda y debe pagarse en otra, se convierte al
+     tipo de cambio del día del pago.
+   - Art. 165 CPCCPBA: Facultad judicial de estimar montos cuando la
+     prueba no permite determinación exacta.
+   - Tasa de interés: Tasa activa del Banco de la Provincia de Buenos Aires
+     desde la producción del daño hasta el efectivo pago (doctrina SCBA
+     causas "Vera", "Nidera", "Barrios" 17/04/2024).
+   - Actualización por IPC: Algunos tribunales de PBA aplican índices de
+     actualización (IPC-INDEC o IPC-Buenos Aires) para mantener el valor
+     real del crédito, especialmente en períodos de alta inflación.
+
+5. MORA — Art. 886 CCyCN
+   En obligaciones de no hacer (no dañar al vecino con obras), la mora es
+   AUTOMÁTICA desde el momento del incumplimiento (Art. 886 CCyCN). No se
+   requiere interpelación previa. Esto implica que los intereses corren
+   desde la fecha de producción de cada daño documentado.
+
+6. SUSPENSIÓN DE PRESCRIPCIÓN — Art. 2546 CCyCN
+   La interpelación fehaciente (carta documento) SUSPENDE el curso de la
+   prescripción por 6 meses. Terminología correcta:
+   - SUSPENSIÓN (Art. 2539 CCyCN): detiene el cómputo; reanuda donde quedó.
+   - INTERRUPCIÓN (Art. 2544 CCyCN): borra el tiempo transcurrido; reinicia.
+   La carta documento produce SUSPENSIÓN, no interrupción.
+
+7. LEGITIMACIÓN PASIVA AMPLIADA
+   Conforme Arts. 1757-1758 CCyCN, responden solidariamente:
+   - El dueño de la obra (propietario del inmueble lindero).
+   - El contratista/constructor (si es identificable).
+   - El director técnico de la obra (si existiere, lo que en obra
+     clandestina es improbable pero debe verificarse).
+   - El profesional que hubiere proyectado la obra (Art. 1274 CCyCN).
+
+8. NORMATIVA MUNICIPAL — DECRETO-LEY 6769/58 (Ley Orgánica Municipal PBA)
+   Art. 27 incs. 1 y 7: El municipio tiene potestad de policía sobre
+   construcciones, pudiendo ordenar la paralización y/o demolición de obras
+   que no cumplan con el Código de Edificación. Las resoluciones municipales
+   de paralización constituyen prueba de la clandestinidad e ilicitud.
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 26 — INCUMPLIMIENTOS, DAÑOS Y RUBROS INDEMNIZATORIOS
+════════════════════════════════════════════════════════════════════════════════

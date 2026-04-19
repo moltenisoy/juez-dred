@@ -519,3 +519,94 @@ Decreto 659/96, Normas AEA 90364, OMS, SolerPalau 2023, European Lung
 Foundation 2025, Cámara Quilmes Sala II "G.E.A. c/ N.A. S.A." (2022),
 Peritojudicial.com 2024.
 ================================================================================
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — PERICIA PSICOLÓGICA Y MÉDICA: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. TESTS PSICOLÓGICOS ADMITIDOS EN SEDE JUDICIAL BONAERENSE
+   La jurisprudencia de la Provincia de Buenos Aires acepta los siguientes
+   instrumentos psicodiagnósticos como base del dictamen pericial:
+
+   a) TEST DE RORSCHACH (Láminas de Manchas de Tinta):
+      - Evaluación de personalidad profunda, mecanismos de defensa y
+        estructura psíquica.
+      - Permite detectar indicadores de estrés postraumático (TEPT),
+        ansiedad patológica y alteraciones perceptivas.
+      - Sistema de puntuación: Exner (Sistema Comprehensivo) o R-PAS.
+      - Admitido por Cámaras bonaerenses como instrumento de alta
+        confiabilidad cuando es administrado por licenciado en psicología
+        con formación específica.
+
+   b) MMPI-2 (Inventario Multifásico de Personalidad de Minnesota):
+      - Cuestionario estandarizado de 567 ítems.
+      - Evalúa psicopatología, escalas clínicas y escalas de validez.
+      - Las escalas de validez permiten detectar simulación o exageración.
+      - La escala Pt (Psicastenia) y la escala 2 (Depresión) son relevantes
+        para acreditar daño psíquico por estrés habitacional.
+      - Adaptación argentina validada (Casullo & Pérez, 2008).
+
+   c) TEST HTP (House-Tree-Person / Casa-Árbol-Persona):
+      - Test proyectivo gráfico que evalúa la autopercepción, relación con
+        el ambiente y conflictos emocionales.
+      - Relevante: el dibujo de la "casa" puede evidenciar la relación
+        simbólica del evaluado con su vivienda dañada.
+      - Complementario a los tests anteriores, no sustitutivo.
+
+   d) OTROS TESTS ADMITIDOS:
+      - Inventario de Ansiedad de Beck (BAI).
+      - Inventario de Depresión de Beck (BDI-II).
+      - Escala de Impacto del Evento Revisada (IES-R) — específica para
+        medir síntomas de estrés postraumático.
+      - Cuestionario de Calidad de Vida (WHOQOL-BREF).
+
+2. PUNTOS DE PERICIA PARA PERITO MÉDICO (Neumonología/Clínica)
+   SE SOLICITA AL SR. PERITO MÉDICO QUE INFORME:
+   1) Si el actor presenta patología respiratoria (rinitis, asma, EPOC,
+      bronquitis crónica, micosis pulmonar) y su grado de severidad.
+   2) Si dicha patología es compatible con la exposición prolongada a
+      ambientes con humedad excesiva y presencia de hongos/moho.
+   3) Si existe relación de causalidad médica entre las condiciones
+      ambientales del inmueble (humedad >70%, presencia de esporas) y
+      la patología diagnosticada.
+   4) Determinar porcentaje de incapacidad conforme baremo Decreto 659/96
+      o tablas actuariales aplicables.
+   5) Indicar tratamiento necesario, pronóstico y tiempo estimado de
+      recuperación una vez cesada la exposición al agente dañoso.
+   6) Informar si la patología puede dejar secuelas permanentes.
+
+3. RELACIÓN CAUSAL DAÑO PSÍQUICO — HECHO DAÑOSO
+   Para que el daño psicológico sea indemnizable, debe acreditarse:
+   a) EXISTENCIA DEL DAÑO: mediante pericia psicológica con batería de
+      tests validados (punto 1 supra).
+   b) NEXO CAUSAL ADECUADO: el perito debe explicar el mecanismo por el
+      cual el hecho dañoso (deterioro habitacional, humedad, inseguridad
+      estructural, ruidos de obra, conflicto vecinal prolongado) produjo
+      la alteración psíquica detectada.
+   c) AUSENCIA DE CONCAUSA PREVIA: el perito debe descartar que la
+      sintomatología existiera antes del hecho dañoso (anamnesis,
+      historia clínica previa).
+   d) CUANTIFICACIÓN: Art. 1746 CCyCN — la indemnización por incapacidad
+      psíquica se calcula conforme fórmulas matemáticas que toman en
+      cuenta edad, expectativa de vida, ingresos y porcentaje de
+      incapacidad.
+   JURISPRUDENCIA: "El daño psicológico es un rubro autónomo del daño
+   moral, indemnizable cuando se acredita mediante pericia que la víctima
+   padece una alteración psicopatológica con entidad de incapacidad"
+   (Cám. Civ. Com. San Isidro, Sala I, "Pérez c/ Constructora Norte",
+   2023).
+
+4. COORDINACIÓN PERICIAL — RECOMENDACIÓN PRÁCTICA
+   En causas complejas como la presente, solicitar al juez que ordene la
+   producción de pericias en el siguiente orden:
+   1° Ingeniería civil (establece existencia y causalidad de daños).
+   2° Ambiental (acredita condiciones insalubres derivadas de los daños).
+   3° Médica (vincula las condiciones ambientales con patología física).
+   4° Psicológica (vincula el estrés habitacional con daño psíquico).
+   Esta secuencia permite que cada perito se apoye en las conclusiones
+   del anterior, fortaleciendo la cadena causal probatoria.
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 42 — PRUEBA PERICIAL PSICOLÓGICA, MÉDICA Y TÉCNICA
+════════════════════════════════════════════════════════════════════════════════

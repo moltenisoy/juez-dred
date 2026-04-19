@@ -494,3 +494,110 @@ mancha de humedad. Para neutralizar esto:
 ================================================================================
 FIN DEL ARCHIVO 41 — ESTRATEGIA PROCESAL Y HERRAMIENTAS JUDICIALES
 ================================================================================
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — MEDIDAS CAUTELARES ESPECÍFICAS: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. CORRECCIÓN CRÍTICA — DEPARTAMENTO JUDICIAL COMPETENTE
+────────────────────────────────────────────────────────────────────────────────
+CORRECCIÓN: El Departamento Judicial competente para el caso en Merlo es el
+DEPARTAMENTO JUDICIAL DE MERLO, creado por Ley 13.859/2009. Las referencias
+previas en este archivo a "Departamento Judicial de Morón" responden a la
+situación histórica previa a la plena implementación de los órganos de Merlo.
+A la fecha, la competencia Civil y Comercial corresponde a MERLO.
+
+2. MEDIDA CAUTELAR INNOVATIVA — CONCEPTO Y PROCEDENCIA
+────────────────────────────────────────────────────────────────────────────────
+La medida cautelar innovativa altera el estado de hecho o de derecho existente
+antes de la petición. A diferencia de las cautelares conservatorias (que
+mantienen el statu quo), la innovativa MODIFICA la situación fáctica.
+
+Fundamento normativo: Art. 232 CPCCBA (medidas cautelares genéricas) +
+doctrina SCBA ("la innovativa procede cuando la conservación del estado actual
+causa un perjuicio irreparable").
+
+Requisitos reforzados (por su carácter excepcional):
+   a) Verosimilitud MANIFIESTA del derecho (estándar más alto que la cautelar
+      conservatoria).
+   b) Peligro INMINENTE en la demora (no basta el peligro genérico).
+   c) Irreversibilidad del daño si no se actúa.
+   d) Contracautela adecuada (puede ser juratoria si hay BLSG, Art. 78 CPCCBA).
+
+Aplicación al caso de obra clandestina en Merlo:
+   - Ordenar al demandado la remoción provisoria del tanque de 750 kg.
+   - Ordenar el apuntalamiento de la losa por cuenta del demandado.
+   - Ordenar la impermeabilización provisoria de la cubierta para detener
+     filtraciones activas.
+
+3. INHIBICIÓN GENERAL DE BIENES — Art. 228 CPCCBA
+────────────────────────────────────────────────────────────────────────────────
+Art. 228 CPCCBA: "En todos los casos en que habiendo lugar a embargo, éste no
+pudiere hacerse efectivo por no conocerse bienes del deudor, o por no cubrir
+éstos el importe del crédito reclamado, podrá solicitarse contra aquél la
+inhibición general de bienes."
+
+Características:
+   - Inscripción en el Registro de la Propiedad Inmueble (RPBA) y otros
+     registros pertinentes (DNRPA para automotores).
+   - Impide al inhibido DISPONER o GRAVAR bienes registrables.
+   - NO otorga preferencia sobre otros acreedores (a diferencia del embargo).
+   - Se mantiene por 5 años y es renovable (Art. 207 CPCCBA).
+
+Procedencia en el caso:
+   Si el demandado no posee bienes suficientes identificados para embargo,
+   la inhibición general IMPIDE que enajene inmuebles u otros bienes
+   registrables mientras dure el proceso. Se solicita subsidiariamente al
+   embargo cuando éste resulta insuficiente.
+
+4. ANOTACIÓN DE LITIS — Art. 229 CPCCBA
+────────────────────────────────────────────────────────────────────────────────
+Art. 229 CPCCBA: "Procederá la anotación de litis cuando se dedujere una
+pretensión que pudiere tener como consecuencia la modificación de una
+inscripción en el Registro de la Propiedad y el derecho fuere verosímil."
+
+Características:
+   - Se inscribe en la matrícula del inmueble del demandado en el RPBA.
+   - NO impide la venta ni gravamen, pero hace INOPONIBLE al actor cualquier
+     acto de disposición posterior.
+   - Pone en conocimiento de terceros la existencia del litigio.
+   - Requisitos MENOS exigentes que el embargo: basta verosimilitud del
+     derecho, sin necesidad de contracautela (Art. 229 in fine CPCCBA).
+
+Ventaja estratégica: La anotación de litis sobre el inmueble del demandado
+en Merlo disuade su venta a terceros durante el juicio. Si el demandado
+vendiera, el comprador no podría invocar buena fe registral.
+
+5. SECUESTRO — Art. 221 CPCCBA
+────────────────────────────────────────────────────────────────────────────────
+Art. 221 CPCCBA: "Procederá el secuestro de los bienes muebles o semovientes
+objeto del juicio, cuando el embargo no bastare para asegurar el derecho
+invocado por el solicitante."
+
+Aplicación al caso:
+   - Secuestro de materiales de construcción depositados en la obra clandestina
+     que puedan servir como prueba material del tipo de obra realizada.
+   - Secuestro de documentación técnica (planos, presupuestos) que el demandado
+     pudiera intentar destruir.
+   - Procede cuando existe riesgo cierto de desaparición o alteración de la cosa.
+
+Diferencia con el embargo:
+   - EMBARGO: El bien queda en poder del deudor como depositario judicial.
+   - SECUESTRO: El bien es RETIRADO físicamente y entregado a un depositario
+     designado por el juez (Art. 221 CPCCBA).
+
+6. CUADRO RESUMEN — MEDIDAS CAUTELARES APLICABLES AL CASO
+────────────────────────────────────────────────────────────────────────────────
+   MEDIDA              | ARTÍCULO     | EFECTO PRINCIPAL
+   ────────────────────|──────────────|──────────────────────────────────────
+   Embargo inmobiliario| Art. 209     | Afecta bien específico al crédito
+   Inhibición general  | Art. 228     | Impide disponer TODOS los bienes
+   Anotación de litis  | Art. 229     | Publicidad + inoponibilidad
+   Cautelar innovativa | Art. 232     | Modifica situación fáctica (obra)
+   Secuestro           | Art. 221     | Retiro físico de bienes muebles
+   Prohibición innovar | Art. 230     | Mantiene statu quo de la obra
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 49 — ESTRATEGIA PROCESAL Y HERRAMIENTAS JUDICIALES
+════════════════════════════════════════════════════════════════════════════════

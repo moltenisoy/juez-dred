@@ -499,3 +499,81 @@ https://www.ciberforensic.com/capturas-de-pantalla-y-pantallazos-en-procesosjudi
 38. Detalle - Precedente (Sentencia) - 23092 - Semanario Judicial de la Federación,
 fecha de acceso: abril 10, 2026, https://sjf2.scjn.gob.mx/detalle/ejecutoria/23092
 39. Código Procesal Penal comentado provincia de B
+================================================================================
+SECCIÓN COMPLEMENTARIA — RÉGIMEN PROBATORIO: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. CARGA DINÁMICA DE LA PRUEBA — Art. 1735 CCyCN
+   El Art. 1735 CCyCN establece que el juez puede distribuir la carga de la
+   prueba ponderando cuál de las partes se encuentra en MEJOR SITUACIÓN para
+   aportarla. En daños por obra de construcción:
+   a) El constructor/propietario de la obra está en mejor posición para
+      demostrar que adoptó medidas de seguridad, que contaba con habilitación,
+      que cumplió normas técnicas y que no causó el daño.
+   b) La víctima tiene dificultades para acceder a información técnica sobre
+      la obra ajena (planos, cálculos, permisos).
+   c) Si el demandado no aporta la documentación que está bajo su exclusivo
+      control, el juez puede extraer indicios en su contra (Art. 163 inc. 5
+      CPCCBA — conducta procesal de las partes).
+   d) La clandestinidad de la obra AGRAVA la posición probatoria del
+      demandado: al carecer de planos aprobados, no puede demostrar que la
+      obra fue ejecutada conforme reglas del arte.
+
+2. PRUEBA PERICIAL — Art. 457 CPCCBA
+   El Art. 457 CPCCBA establece que será admisible la prueba pericial cuando
+   la apreciación de los hechos controvertidos requiera conocimientos
+   especiales en alguna ciencia, arte, industria o actividad técnica
+   especializada. En casos de daños edilicios:
+   a) La pericia de ingeniería civil es INDISPENSABLE para determinar
+      causalidad, extensión de daños y cuantificación de reparaciones.
+   b) El perito debe ser designado de oficio por sorteo de la lista de
+      peritos del Departamento Judicial de Merlo (Ley 13.859/2009).
+   c) Las partes pueden proponer hasta TRES (3) puntos de pericia cada una,
+      sin perjuicio de los que fije el juez de oficio (Art. 458 CPCCBA).
+   d) La pericia complementa pero no sustituye la prueba documental
+      (fotografías, acta notarial, informes técnicos de parte).
+
+3. PRUEBA INFORMATIVA — Art. 396 CPCCBA
+   El Art. 396 CPCCBA regula la prueba de informes: se puede requerir a
+   entidades públicas y privadas informes sobre hechos relativos a su
+   actuación. Aplicaciones al caso:
+   a) Oficiar al MUNICIPIO DE MERLO para que informe si la obra cuenta con
+      permiso de edificación, planos aprobados y final de obra.
+   b) Oficiar al COLEGIO DE ARQUITECTOS DE LA PROVINCIA DE BUENOS AIRES
+      (CAPBA) para que informe si se registró director de obra.
+   c) Oficiar al REGISTRO DE LA PROPIEDAD INMUEBLE para verificar titularidad
+      del inmueble lindero y existencia de medianería.
+   d) Oficiar a EDENOR/EDESUR para que informen si hubo modificaciones en la
+      conexión eléctrica del inmueble lindero (indicio de obra).
+   e) Oficiar a AYSA para que informe sobre conexiones cloacales/pluviales.
+   Plazo de respuesta: 10 días hábiles (Art. 398 CPCCBA), ampliable por
+   el juez según complejidad.
+
+4. VALOR PROBATORIO DEL ACTA NOTARIAL
+   El acta notarial de constatación constituye un INSTRUMENTO PÚBLICO
+   (Art. 289 inc. b CCyCN) que hace plena fe:
+   a) De la existencia material de los hechos que el notario enuncia como
+      cumplidos por él o pasados en su presencia (Art. 296 CCyCN).
+   b) De la fecha, lugar y personas intervinientes.
+   c) Solo puede ser atacada por REDARGUCIÓN DE FALSEDAD (Art. 296 CCyCN),
+      trámite excepcional que requiere demostrar que el escribano falseó
+      lo que percibió por sus sentidos.
+   d) Las fotografías tomadas por el notario y protocolizadas en el acta
+      tienen el mismo valor probatorio que las declaraciones escritas.
+   e) Valor agregado: el acta notarial fija un ESTADO DE COSAS en una fecha
+      cierta, lo que permite establecer la progresión temporal del daño
+      cuando se compara con relevamientos posteriores.
+   JURISPRUDENCIA: "El acta notarial de constatación es prueba documental de
+   primer orden que solo cede ante la redargución de falsedad" (Cám. Civ.
+   Com. Morón, Sala II, "Fernández c/ Sosa", 2020).
+
+5. DEPARTAMENTO JUDICIAL COMPETENTE — CORRECCIÓN
+   MERLO es el Departamento Judicial competente (Ley 13.859/2009). Los
+   peritos se sortean de la lista del Colegio de Peritos del Departamento
+   Judicial de Merlo. Las cédulas se diligencian por la Oficina de
+   Notificaciones de Merlo.
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 38 — RÉGIMEN PROBATORIO DAÑOS EDILICIOS
+════════════════════════════════════════════════════════════════════════════════

@@ -788,3 +788,169 @@ Este documento NO reemplaza el criterio de un profesional del derecho habilitado
 El ordenamiento jurídico argentino, a través del CCyC, la Constitución Nacional, la Constitución de la Provincia de Buenos Aires, el CPCCBA y la normativa municipal de Merlo, provee un plexo normativo que cubre la totalidad de los daños documentados. La persistencia de esos daños durante casi dos años, con omisión de reparación por parte del demandado, agrava la posición de este último y habilita rubros adicionales (astreintes, incremento del daño moral, pérdida de valor venal del inmueble).
 
 Documento unificado generado con base en la documentación jurídica y técnico-jurídica provista. Sistematización sin duplicación de contenidos. Uso interno — no constituye dictamen legal.
+
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — DOCUMENTACIÓN JURÍDICA UNIFICADA: AMPLIACIÓN Y CORRECCIONES
+================================================================================
+
+20. CORRECCIONES NORMATIVAS CRÍTICAS
+
+20.1. Artículos erróneamente identificados como CCyCN
+Los siguientes artículos fueron citados en este documento con numeración que corresponde
+al antiguo Código Civil de Vélez Sársfield y NO al Código Civil y Comercial de la Nación
+(CCyCN, Ley 26.994). En el CCyCN, esos números de artículo corresponden a disposiciones
+de Derecho Internacional Privado (Libro Sexto, Título IV), con contenido totalmente diferente.
+
+ARTÍCULO CITADO | CONTENIDO ATRIBUIDO | NORMA CORRECTA EN EL CCyCN
+Art. 2615 (viejo CC) | Relaciones de vecindad / derechos de paso | Arts. 1970 a 1982 CCyCN (Capítulo de Límites al Dominio — Relaciones de vecindad)
+Art. 2627 (viejo CC) | Indemnización por trabajos sobre inmueble ajeno | Art. 1716 CCyCN (deber de reparar) y Art. 1973 CCyCN (inmisiones)
+Art. 2630 (viejo CC) | Aguas pluviales / prohibición de escurrimiento al vecino | Art. 1973 CCyCN (inmisiones — incluye infiltración de agua como inmisión análoga) y normativa municipal de Merlo (Ord. 5839/2021)
+
+⚠ NOTA: El Art. 2615 del CCyCN vigente regula "Jurisdicción" en materia de Derecho Internacional
+Privado. El Art. 2627 CCyCN vigente trata "Derecho aplicable" a contratos de consumo. El Art. 2630
+CCyCN vigente versa sobre "Derecho aplicable" a responsabilidad civil por productos. Ninguno de
+ellos guarda relación con relaciones de vecindad ni aguas pluviales.
+
+20.2. Corrección del Art. 1269 CCyCN
+El documento cita el Art. 1269 CCyCN como fundamento de la responsabilidad del "Director de Obra".
+Sin embargo, el Art. 1269 CCyCN regula la "Aceptación de la obra" (aceptación tácita y verificación).
+La responsabilidad profesional del Director de Obra se funda correctamente en:
+• Art. 1768 CCyCN — Profesionales liberales: responsabilidad por negligencia e impericia.
+• Art. 1273 CCyCN — Obra en ruina o impropia para su destino: responsabilidad solidaria.
+• Art. 1274 CCyCN — Extensión de la responsabilidad por ruina: alcanza al director de obra.
+• Art. 1758 CCyCN — Sujetos responsables: el dueño y el guardián (el director de obra
+  ejerce la guarda intelectual/jurídica de la construcción).
+
+20.3. Corrección sobre prescripción
+Si alguna cita en este documento o en documentos vinculados refiere al "art. 3986 del Código Civil"
+como norma de interrupción de la prescripción, corresponde aclarar que dicho artículo fue derogado.
+En el CCyCN vigente, la interrupción y suspensión de la prescripción se regulan en:
+• Art. 2541 CCyCN — Interrupción por reconocimiento.
+• Art. 2544 CCyCN — Interrupción por petición judicial.
+• Art. 2545 CCyCN — Duración de los efectos de la interrupción.
+• Art. 2546 CCyCN — Interrupción por solicitud de arbitraje.
+• Art. 2542 CCyCN — Interrupción por mediación prejudicial obligatoria.
+
+
+21. CONCEPTOS JURÍDICOS FALTANTES
+
+21.1. Astreintes — Sanciones conminatorias (Art. 804 CCyCN)
+El Art. 804 CCyCN faculta al juez a imponer sanciones pecuniarias compulsivas y progresivas
+al deudor que no cumple con un mandato judicial. En el caso, resultan aplicables si el demandado:
+• No cumple una orden judicial de cese de las causas de filtración.
+• No acata un mandato de reparación provisoria surgido de una acción preventiva (Art. 1711 CCyCN).
+• Desatiende una medida cautelar de paralización de obra.
+Las astreintes son acumulativas, ejecutables y a favor del acreedor (Art. 804, párr. 2° CCyCN).
+El monto lo fija el juez prudencialmente, atendiendo la resistencia del obligado.
+
+21.2. Sanción pecuniaria disuasiva (Art. 1714 y 1715 CCyCN)
+El Art. 1714 CCyCN prevé la aplicación de una sanción pecuniaria disuasiva cuando el
+demandado actuó con grave menosprecio hacia los derechos del damnificado. La conducta del
+demandado que durante dos años omitió toda reparación pese al conocimiento comprobado de los
+daños podría encuadrar en esta figura. El Art. 1715 CCyCN establece los criterios de
+graduación: gravedad de la conducta, repercusión social, patrimonio del sancionado y beneficio
+que éste obtuvo o pudo obtener con su proceder.
+
+21.3. Valoración de la conducta (Art. 1725 CCyCN)
+El Art. 1725 CCyCN establece que cuanto mayor sea el deber de obrar con prudencia y pleno
+conocimiento de las cosas, mayor es la diligencia exigible al agente y la valoración de la
+previsibilidad de las consecuencias. Aplicado al caso: el constructor, el director de obra y el
+comitente que conocían las normas técnicas (CIRSOC, Código de Edificación de Merlo) debían
+obrar con un estándar de diligencia superior al de un lego.
+
+21.4. Protección de la vida privada e intimidad (Art. 1770 CCyCN)
+El Art. 1770 CCyCN protege la intimidad personal y familiar. La degradación sostenida de
+las condiciones habitacionales (moho, riesgo eléctrico, frío, inhabilitación de ambientes)
+que impidió la vida de pareja, la recepción de visitas y el desarrollo normal de la vida
+doméstica constituye una intromisión ilegítima en la esfera de la intimidad, con derecho
+a indemnización autónoma.
+
+21.5. Prueba anticipada (Art. 326 CPCCBA)
+El Art. 326 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires permite
+solicitar prueba antes de la interposición de la demanda cuando exista riesgo de que la
+producción de la prueba se torne imposible o muy difícil en la etapa procesal correspondiente.
+En el caso, resulta especialmente útil para:
+• Constatar judicialmente el estado del inmueble antes de cualquier reparación espontánea.
+• Preservar prueba pericial técnica (mediciones de humedad, relevamiento fotográfico, estado
+  de instalaciones eléctricas) cuando existe riesgo de que el demandado modifique las
+  condiciones del inmueble.
+• Producir prueba informativa sobre expedientes municipales de obra.
+
+21.6. Denuncia de daño temido (Art. 623 bis CPCCBA)
+El Art. 623 bis del CPCCBA establece que quien tema que de un edificio u otra cosa derive
+un daño grave e inminente a sus bienes puede denunciarlo ante el juez civil de turno. Las
+resoluciones dictadas en este marco son inapelables (para evitar dilaciones procesales).
+El juez puede disponer: paralización de la obra, apuntalamiento, colocación de protecciones,
+y fijar astreintes por incumplimiento. Esta vía no requiere mediación previa.
+
+
+22. COMPETENCIA TERRITORIAL — CORRECCIÓN
+
+22.1. Departamento Judicial de Merlo (Ley 13.859)
+La Ley Provincial 13.859 creó el Departamento Judicial de Merlo con asiento en la ciudad de
+Merlo y competencia territorial sobre los Partidos de Merlo, General Las Heras y Marcos Paz.
+El inmueble objeto del litigio se encuentra en el Partido de Merlo, por lo cual la competencia
+territorial corresponde al Departamento Judicial de MERLO.
+Toda referencia en este documento o documentos conexos al "Departamento Judicial de Morón"
+como jurisdicción competente debe entenderse corregida al Departamento Judicial de Merlo.
+
+22.2. Fundamento procesal
+Art. 5°, inc. 1° del CPCCBA (Decreto-Ley 7425/1968): en acciones reales sobre inmuebles, es
+juez competente el del lugar donde está situada la cosa litigiosa. El inmueble está en Merlo →
+Departamento Judicial de Merlo.
+
+
+23. PRESCRIPCIÓN — ANÁLISIS AMPLIADO
+
+23.1. Plazo de prescripción aplicable
+El Art. 2561 CCyCN fija un plazo de prescripción de TRES (3) años para la acción por
+responsabilidad civil extracontractual. Sin embargo, en casos de daño continuado (como las
+filtraciones e infiltraciones que persisten en el tiempo), la doctrina y jurisprudencia
+mayoritarias sostienen que el plazo se computa desde el momento en que cada daño nuevo se
+manifiesta o desde que cesa la conducta dañosa, lo que resulte posterior.
+
+23.2. Interrupción y suspensión
+• Art. 2541 CCyCN: El reconocimiento del deudor interrumpe la prescripción. Si el demandado
+  en algún momento reconoció los daños (mensajes, cartas, conversaciones grabadas), el plazo
+  se reinicia desde ese reconocimiento.
+• Art. 2542 CCyCN: El pedido de mediación prejudicial obligatoria (Ley 13.951 PBA) suspende
+  el plazo de prescripción desde su interposición hasta veinte días después del cierre del
+  procedimiento de mediación.
+• Art. 2544 CCyCN: La interposición de la demanda judicial interrumpe la prescripción aunque
+  sea presentada ante juez incompetente o contenga defectos formales.
+
+23.3. Prescripción de la acción por ruina (Art. 1275 CCyCN)
+El Art. 1275 CCyCN establece un plazo de caducidad de DIEZ (10) años para la garantía por
+ruina total o parcial de obras destinadas a larga duración, contado desde la aceptación de
+la obra. Verificar si esta disposición resulta aplicable en concurrencia con la prescripción
+trienal del Art. 2561 CCyCN.
+
+
+24. JURISPRUDENCIA COMPLEMENTARIA
+
+24.1. CSJN, "Santa Coloma c/ Ferrocarriles Argentinos" (Fallos 308:1160, 1986)
+Principio de reparación integral con jerarquía constitucional. La Corte sostuvo que la
+indemnización que no repara íntegramente el daño no es indemnización en los términos
+constitucionales (Art. 19 CN).
+
+24.2. CSJN, "Aquino c/ Cargo Servicios Industriales" (Fallos 327:3753, 2004)
+Ratificó el principio alterum non laedere con base constitucional. Estableció que toda
+limitación legal a la reparación plena resulta inconstitucional si vulnera el derecho de
+la víctima a una indemnización justa.
+
+24.3. SCBA, causa C. 120.536, "Gioia" (2017)
+Reconoció indemnización por daño moral agravado en caso de inmueble inhabitable por
+filtraciones derivadas de obra lindera. La Suprema Corte bonaerense ponderó la duración
+del padecimiento y la afectación de la vida cotidiana como parámetros de cuantificación.
+
+24.4. Cámara Civil y Comercial Departamental — Daños por obra clandestina
+La jurisprudencia departamental en la Provincia de Buenos Aires ha reconocido de manera
+uniforme que la ausencia total de permisos municipales para una obra constituye presunción
+de antijuridicidad (Art. 1717 CCyCN), eximiendo al actor de la carga de probar la culpa y
+reforzando la imputación objetiva del Art. 1757 CCyCN.
+
+
+================================================================================
+FIN DEL ARCHIVO 09 — DOCUMENTACIÓN JURÍDICA UNIFICADA COMPLETA
+================================================================================

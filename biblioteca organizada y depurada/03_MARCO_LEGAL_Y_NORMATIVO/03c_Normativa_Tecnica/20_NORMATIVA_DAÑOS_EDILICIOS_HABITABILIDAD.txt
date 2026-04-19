@@ -526,4 +526,105 @@ cion/
 41. El nuevo Código, los procesos constructivos, y la responsabilidad civil de
 empresarios, comitentes y profesionales liberales, acceso: abril 11, 2026,
 https://capba3.org.ar/archivos/doctrina_de_autor/2015/El%20nuevo%20CC%20y
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — NORMATIVA DAÑOS EDILICIOS Y HABITABILIDAD: AMPLIACIÓN Y CORRECCIONES
+================================================================================
+
+CORRECCIÓN 1 — DEPARTAMENTO JUDICIAL COMPETENTE:
+El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MERLO (Ley
+13.859/2009), NO al de Morón. La demanda por daños edilicios y afectación
+a la habitabilidad debe radicarse ante los juzgados civiles y comerciales
+de primera instancia de Merlo, PBA.
+
+CORRECCIÓN 2 — CONSTITUCIÓN EN MORA (Art. 886 CCyCN):
+La constitución en mora del responsable de la obra se rige por el Art. 886
+del CCyCN (NO por el Art. 1717, que regula la antijuridicidad). En
+obligaciones de no hacer (no dañar), la mora es automática desde la
+contravención (Art. 887 inc. a CCyCN). En obligaciones de hacer (reparar),
+se requiere interpelación fehaciente mediante carta documento.
+
+CORRECCIÓN 3 — SUSPENSIÓN DE PRESCRIPCIÓN (Art. 2546 CCyCN):
+La carta documento que reclama la reparación de daños SUSPENDE el curso de
+la prescripción por SEIS (6) MESES (Art. 2546 CCyCN). No la interrumpe.
+Diferencia clave: la suspensión detiene temporalmente el cómputo; la
+interrupción (Art. 2544 CCyCN) borra el plazo transcurrido y lo reinicia.
+
+AMPLIACIÓN 1 — HABITABILIDAD COMO DERECHO CONSTITUCIONAL REFORZADO:
+El derecho a la vivienda digna y habitable tiene triple fundamentación
+constitucional:
+a) Art. 14 bis CN: Derecho a la vivienda digna como derecho social.
+b) Art. 75 inc. 22 CN + PIDESC Art. 11: Vivienda adecuada con protección
+   contra humedad, frío y riesgos para la salud.
+c) Art. 36 inc. 7° Const. PBA: Derecho a la vivienda digna como derecho
+   operativo (no meramente programático) en la Provincia de Buenos Aires.
+La obra clandestina que convierte una vivienda habitable en inhabitable
+vulnera estos tres niveles de protección constitucional.
+
+AMPLIACIÓN 2 — DAÑO PSICOLÓGICO COMO RUBRO AUTÓNOMO:
+La jurisprudencia de la PBA reconoce el daño psicológico como rubro
+indemnizatorio autónomo, diferenciado del daño moral:
+— Daño moral: sufrimiento espiritual, angustia, alteración anímica.
+— Daño psicológico: patología diagnosticable (trastorno de ansiedad,
+  depresión, estrés postraumático) causada por el hecho dañoso.
+El daño psicológico se acredita mediante pericia psicológica de parte o de
+oficio. La SCBA ha admitido su procedencia en casos de inhabitabilidad
+prolongada (más de 6 meses de exposición a condiciones insalubres).
+Fundamento: Art. 1738 CCyCN ("integridad personal" y "consecuencias que
+afecten la persona").
+
+AMPLIACIÓN 3 — GASTOS DE ALQUILER TEMPORARIO COMO DAÑO EMERGENTE:
+Cuando el damnificado debe abandonar su hogar por inhabitabilidad, los
+gastos de alquiler temporario constituyen daño emergente directo (Art. 1738
+CCyCN). La jurisprudencia establece:
+a) El monto del alquiler se calcula sobre inmueble de similares
+   características en la zona de Merlo.
+b) El período indemnizable abarca desde el abandono hasta la conclusión
+   efectiva de las reparaciones y la deshumidificación completa.
+c) Incluye gastos de mudanza, depósito y comisión inmobiliaria.
+d) No se exige al damnificado probar que efectivamente alquiló: basta
+   la prueba de la inhabitabilidad y la necesidad del traslado.
+
+AMPLIACIÓN 4 — CUANTIFICACIÓN DEL DAÑO A BIENES MUEBLES:
+La ropa, colchones, electrodomésticos y muebles deteriorados por humedad
+se cuantifican a valor de reposición (Art. 1740 CCyCN — reparación plena):
+a) Inventario detallado con descripción y estado de cada bien.
+b) Fotografías con fecha cierta (metadatos o constancia notarial).
+c) Presupuesto de reposición de bienes equivalentes (no usados).
+d) En ausencia de prueba exacta del valor, el juez aplica el Art. 165
+   CPCC PBA (estimación judicial prudencial).
+La Cámara de Quilmes (2024) admitió el rubro "daños a bienes muebles"
+basándose únicamente en el informe pericial que constató humedad extrema y
+las fotografías del deterioro.
+
+AMPLIACIÓN 5 — ACCIÓN PREVENTIVA ANTE RIESGO DE ELECTROCUCIÓN (Art. 1711 CCyCN):
+La exposición de instalaciones eléctricas a filtraciones hídricas
+constituye peligro inminente a la vida que habilita:
+a) Acción preventiva urgente (Art. 1711 CCyCN) sin necesidad de probar
+   factor de atribución.
+b) Denuncia de daño temido (Art. 623 bis CPCC PBA) ante el juez civil.
+c) Denuncia penal por estrago culposo (Art. 189 CP) ante la UFI de turno.
+d) Denuncia ante la distribuidora eléctrica de la zona para que evalúe
+   corte preventivo del suministro en el sector afectado por seguridad.
+El juez puede ordenar la paralización de la obra y medidas de seguridad
+eléctrica de oficio, sin esperar la contestación de demanda.
+
+AMPLIACIÓN 6 — PRUEBA DE LA HUMEDAD Y DETERIORO:
+Los medios probatorios admitidos para acreditar las condiciones de
+inhabitabilidad son:
+a) Acta notarial de constatación (instrumento público, Art. 296 CCyCN).
+b) Pericia técnica de ingeniería civil (estado de la estructura, origen
+   de las filtraciones, nexo causal con la obra lindera).
+c) Pericia ambiental con medición de humedad relativa (higrómetro digital).
+d) Informe de la distribuidora eléctrica sobre riesgos de la instalación.
+e) Historia clínica del damnificado (afecciones respiratorias, dermatitis,
+   cuadros psicológicos vinculados a la exposición prolongada).
+f) Fotografías y video con fecha cierta (sellados por escribano o con
+   metadatos verificables).
+g) Testimoniales de vecinos sobre la duración del daño y las condiciones
+   de habitabilidad.
+
+================================================================================
+FIN DEL ARCHIVO 20 — NORMATIVA DAÑOS EDILICIOS Y HABITABILIDAD (AMPLIADO)
+================================================================================
 %20Com.%20-%20Un%20modelo%20p
