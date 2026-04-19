@@ -684,6 +684,12 @@ INFORMACIÓN TÉCNICA
   Total de carpetas (todas) ...... 17
   Fecha de última reorganización . 19 de abril de 2026
   Jurisdicción del caso .......... Merlo, Provincia de Buenos Aires
-                                   (Departamento Judicial de Morón)
+                                   (Departamento Judicial de MERLO,
+                                    creado por Ley 13.859/2009)
+  Última expansión de contenido .. 19 de abril de 2026
+  Nota: Todos los 60 archivos de contenido fueron expandidos con
+        secciones complementarias que incluyen: correcciones normativas
+        (CC Vélez → CCyCN), corrección jurisdiccional (Morón → Merlo),
+        contenido investigado adicional y ampliaciones temáticas.
 
 ════════════════════════════════════════════════════════════════════════════════
