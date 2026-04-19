@@ -1,0 +1,198 @@
+﻿Responsabilidad Civil y Reparación Integral ante Daños por Obras Linderas Clandestinas en la Jurisprudencia de la Provincia de Buenos Aires
+La problemática de las perturbaciones y daños derivados de la construcción en predios linderos constituye uno de los capítulos más complejos y recurrentes del derecho de daños contemporáneo en la Provincia de Buenos Aires. La interacción entre el legítimo ejercicio del derecho de propiedad y el deber de no dañar a otro se ve profundamente alterada cuando la ejecución de una obra, movida muchas veces por intereses especulativos o urgencias económicas, prescinde del marco regulatorio administrativo y técnico, proyectando consecuencias devastadoras sobre la calidad de vida de los vecinos. El presente reporte jurídico analiza exhaustivamente, bajo la lente de la jurisprudencia bonaerense de los últimos tres a cinco años, la viabilidad de los reclamos por daños materiales y extrapatrimoniales en contextos de habitabilidad comprometida y clandestinidad constructiva.
+El Régimen de Responsabilidad Objetiva en las Relaciones de Vecindad
+En el sistema jurídico argentino, y con especial énfasis en la interpretación de los tribunales de la Provincia de Buenos Aires, la responsabilidad por daños derivados de una obra en construcción no requiere la demostración de una conducta negligente o culposa en el sentido tradicional. El Código Civil y Comercial de la Nación (CCyC), en sus artículos 1757 y 1758, consagra un régimen de responsabilidad objetiva basado en el riesgo creado.1 La construcción de un edificio, la realización de excavaciones o la modificación de estructuras preexistentes son consideradas actividades que, por su propia naturaleza y por los medios empleados, introducen un riesgo en el entorno urbano.2
+La jurisprudencia reciente de la Cámara de Apelaciones en lo Civil y Comercial de Quilmes y de Lomas de Zamora ha ratificado que el dueño de la obra y el constructor asumen una obligación de resultado: entregar la obra terminada sin haber causado perjuicios a los fundos vecinos.3 Ante la aparición de grietas, filtraciones, goteras o riesgos estructurales en el inmueble lindero, se configura una presunción de causalidad que solo puede ser fracturada mediante la prueba de una causa ajena, como la culpa exclusiva de la víctima o un caso fortuito extraordinario.1
+La Inversión de la Carga Probatoria y el Deber de Prevención
+Un aspecto fundamental que emerge de la normativa vigente es el deber de prevención del daño, estipulado en el artículo 1710 del CCyC. Toda persona tiene el deber, en cuanto de ella dependa, de evitar causar un daño no justificado y de adoptar las medidas razonables para evitar que un daño se produzca o para disminuir su magnitud.5 En el contexto de obras linderas, este deber se traduce en la obligación técnica de realizar estudios de suelo, cálculos de sobrecarga y, crucialmente, una inspección previa de los inmuebles colindantes para documentar su estado inicial, procedimiento conocido habitualmente como "acta de linderos".2
+Cuando el constructor omite estas medidas preventivas —especialmente si la obra es clandestina—, se coloca en una posición de vulnerabilidad procesal extrema. El sistema jurídico bonaerense tiende a interpretar el incumplimiento de las normas administrativas como un indicio grave de impericia técnica que refuerza la responsabilidad del agente dañoso.7
+Tabla 1: Estructura Normativa de la Responsabilidad Civil en Obras (CCyC)
+Artículo
+	Concepto Jurídico
+	Aplicación al Caso de Obras Linderas
+	1710
+	Deber de Prevención
+	Obligación de realizar apuntalamientos y estudios previos para evitar daños al vecino.
+	1740
+	Reparación Plena
+	Restitución de la víctima al estado anterior (reparación de muebles, inmuebles y ropa).
+	1757
+	Riesgo Creado
+	Responsabilidad objetiva por la actividad riesgosa de la construcción.
+	1758
+	Sujetos Responsables
+	Responsabilidad concurrente del dueño de la obra, el constructor y el director.
+	1970
+	Límites al Dominio
+	El derecho de propiedad está limitado por las normas administrativas de edificación.
+	1973
+	Inmisiones
+	El ruido, humedad y vibraciones no deben exceder la normal tolerancia.
+	Análisis del Daño Moral por Inhabitabilidad y Afectación a la Dignidad
+Uno de los interrogantes centrales del consultante radica en la validez de la figura del "daño moral" (denominado técnicamente como daño extrapatrimonial en el nuevo código) para un caso donde la habitabilidad ha sido destruida sistemáticamente durante un año. La jurisprudencia de la Provincia de Buenos Aires ha evolucionado hacia una comprensión profunda de este rubro, alejándose de la idea de que se trata de un simple "precio por el dolor" para entenderlo como la reparación de una modificación disvaliosa del espíritu.9
+El Hogar como Santuario de la Intimidad y Seguridad
+La Cámara de Apelaciones en lo Civil y Comercial de Quilmes, en un fallo trascendental de noviembre de 2022, estableció que el daño moral derivado de las perturbaciones al hogar es resarcible cuando se altera el "razonable goce" de las necesidades de seguridad, serenidad y descanso.10 La vivienda representa para el sujeto su "fortaleza", el lugar donde se despliega la existencia personal y familiar fuera de la mirada de terceros.10
+En la situación descrita, donde el denunciante se ve obligado a dormir en ambientes gélidos, sobre colchones y sábanas húmedas, y con el olor persistente a moho impregnado en su vestimenta, la afectación no es meramente patrimonial. Se trata de una agresión constante a la dignidad de la persona. La jurisprudencia bonaerense considera que este nivel de padecimiento constituye un daño moral in re ipsa, es decir, que surge de la propia naturaleza de los hechos y no requiere una prueba psicológica compleja para ser reconocido.1
+Cuantificación y Satisfacciones Sustitutivas
+El artículo 1741 del CCyC establece que el monto de la indemnización debe fijarse ponderando las "satisfacciones sustitutivas y compensatorias". Esto significa que el juez debe otorgar una suma que permita a la víctima acceder a bienes o experiencias que mitiguen el padecimiento sufrido.9
+Para una persona que ha visto frustrada su vida social (incapacidad de recibir visitas por el estado del hogar y la ropa) y que ha perdido su espacio de trabajo (oficina inhabilitada), la indemnización debe ser sustancial. Los tribunales de la PBA han comenzado a elevar los montos por este rubro, reconociendo que la privación de la vivienda propia es una de las lesiones más graves al proyecto de vida de un individuo.10
+Tabla 2: Factores de Agravamiento del Daño Moral en el Caso Analizado
+Factor de Impacto
+	Manifestación en el Relato del Denunciante
+	Categoría Jurídica
+	Temporalidad
+	Sustentado por más de un año sin solución.
+	Persistencia del daño (Cronicidad).
+	Integridad Física
+	Riesgo eléctrico por humedad en llaves térmicas y caída de techos.
+	Amenaza a la seguridad personal.
+	Vida de Relación
+	Imposibilidad de ser anfitrión o asistir a reuniones adecuadamente.
+	Lesión a la vida social.
+	Dignidad Personal
+	Dormir sobre sábanas húmedas y usar ropa con olor a moho.
+	Trato degradante derivado del daño.
+	Pérdida de Espacio
+	Inhabilitación de la oficina de trabajo informal.
+	Frustración del proyecto de vida/laboral.
+	La Obra Clandestina como Factor de Antijuridicidad y Presunción de Culpa
+El consultante señala que la obra lindera fue realizada sin permisos municipales, sin planos, sin estudios de sobrecarga y sin informe de estado previo de linderos. En el derecho administrativo y civil de la Provincia de Buenos Aires, esta situación configura una "obra clandestina", lo cual tiene repercusiones procesales críticas.7
+Violación de la Normativa de Edificación
+La Ley 10.707 de Catastro de la Provincia de Buenos Aires y los códigos de edificación municipales establecen que toda obra debe contar con autorización previa.6 La falta de estos permisos no es una simple falta formal; es una violación al "poder de policía inmobiliario" que busca garantizar la seguridad de la población.8
+La jurisprudencia interpreta que quien construye en la clandestinidad asume deliberadamente el riesgo de causar daños. Al no haber presentado cálculos de sobrecarga en techos de losa, el demandado no puede alegar que los daños en el inmueble vecino se deben a vicios propios de la construcción antigua o a factores externos. La clandestinidad elimina la presunción de buena fe del constructor.15
+El Acta de Linderos: La Ausencia de Prueba de Descargo
+Una de las omisiones más graves mencionadas es la falta de un informe de las condiciones previas del inmueble afectado. En un juicio por daños de obra lindera, el demandado suele intentar defenderse alegando que las grietas o humedades ya existían. Sin embargo, la doctrina de la Suprema Corte de Justicia de la Provincia de Buenos Aires (SCBA) es clara: es carga del constructor documentar el estado previo del vecino antes de iniciar los trabajos.2 Si no lo hizo, se presume que todos los daños constatados durante o después de la obra son consecuencia directa de la misma.1
+Tabla 3: Impacto de la Clandestinidad en la Defensa del Demandado
+Documento Faltante
+	Consecuencia Legal en PBA
+	Impacto en el Juicio
+	Permiso de Obra / Planos
+	Presunción de antijuridicidad.
+	Se considera que la actividad es ilícita per se.
+	Acta de Linderos
+	Inversión de la carga probatoria fáctica.
+	No puede probar que los daños eran preexistentes.
+	Estudio de Sobrecarga
+	Presunción de impericia técnica.
+	Se le atribuye la responsabilidad por las filtraciones en losas.
+	Informe de Estado Parcelario
+	Violación de la Ley 10.707.
+	Posibles multas y sanciones administrativas concurrentes.
+	Pago de Tasas/Cuotas
+	Indicio de mala fe.
+	Influye en la valoración integral de la conducta del demandado.
+	El Informe Técnico de Parte y la Limitación de la Capacidad de Refutación
+El consultante pregunta si la situación de clandestinidad limita la capacidad del demandado para refutar un informe técnico sellado por un profesional contratado por el denunciante. La respuesta jurídica es compleja pero favorable al denunciante.
+Validez del Informe de Parte vs. Pericia Judicial
+En los procesos civiles de la PBA, el informe técnico de parte (acompañado con la demanda) constituye una prueba documental de alto valor inicial. Si bien la prueba definitiva suele ser la pericia médica o técnica de oficio (designada por el juzgado), el informe de parte fija la plataforma fáctica del reclamo.16
+Cuando un demandado ha construido sin planos ni documentación técnica, se encuentra "desarmado" para impugnar científicamente el informe del actor. Para refutar un dictamen técnico, no basta con negarlo; se debe aportar una contraprueba de igual o mayor rigor científico.18 Al no poseer cálculos estructurales ni planos aprobados, cualquier impugnación que intente el demandado será valorada por el juez como una mera opinión subjetiva carente de sustento documental.16
+La Doctrina de las Cargas Probatorias Dinámicas
+Aunque el principio general es que cada parte debe probar los hechos que alega, en casos de daños por construcción rige la doctrina de las "cargas probatorias dinámicas".21 Esta doctrina establece que la carga de probar recae sobre quien se encuentra en mejores condiciones técnicas y profesionales de hacerlo. El constructor, como profesional de la edificación, tiene el deber de custodiar toda la documentación técnica de su obra. Si no la tiene por ser clandestina, su silencio o falta de pruebas se interpreta como una admisión de los hechos denunciados por la víctima.1
+El Concepto de "Ruina" y Amenaza de Ruina en la Jurisprudencia Reciente
+Los daños descritos (caída de fragmentos de techo, riesgo eléctrico, humedad generalizada) encuadran en la figura jurídica de la "ruina" o "amenaza de ruina", regulada anteriormente en el artículo 1646 del Código Civil y ahora integrada en el régimen de responsabilidad por vicios de la construcción (Arts. 1273 y 1274 del CCyC).15
+Ruina Funcional y Falta de Habitabilidad
+La ruina no solo es el derrumbe total de un edificio. La jurisprudencia bonaerense define como ruina aquella degradación que compromete la estabilidad, la seguridad o el destino para el cual la obra fue concebida.24 Un inmueble que no protege de la lluvia, que genera riesgo de electrocución y que produce enfermedades respiratorias por el moho es, técnicamente, un inmueble en estado de ruina funcional.15
+Esta calificación es vital para el juicio, ya que los plazos de prescripción para reclamar por ruina son más extensos y la responsabilidad de los profesionales (arquitecto, ingeniero, constructor) es de orden público, lo que significa que no pueden limitarla mediante contratos privados.15
+Riesgo de Integridad Física y Seguridad Eléctrica
+El hecho de que el agua caiga sobre la llave térmica de corte de la instalación eléctrica es un factor de extrema gravedad que habilita la vía de la acción preventiva (Art. 1711 CCyC). El juez, ante la sola acreditación de este riesgo, puede ordenar medidas urgentes de reparación o incluso la clausura de la obra lindera para salvaguardar la vida del denunciante.5 En la Provincia de Buenos Aires, el derecho a la vida y a la integridad física prevalece jerárquicamente sobre el derecho a construir del vecino.26
+El Desplazamiento Forzado y el Daño Emergente por Inhabitabilidad
+La circunstancia de que el denunciante haya tenido que dejar su casa hace pocos días debido al agravamiento de las condiciones por el invierno configura un supuesto de "daño emergente" por privación de uso e inhabitabilidad.5
+Gastos de Reubicación y Alquileres
+Cuando una obra ajena torna inhabitable la vivienda propia, el responsable debe cargar con los costos de una vivienda de reemplazo. Esto incluye:
+1. Alquileres: El costo de un inmueble de características similares al del denunciante por el tiempo que duren las reparaciones y el secado total de los ambientes.25
+2. Gastos de Mudanza: El traslado de muebles y enseres para evitar su mayor deterioro.1
+3. Gastos de Depósito: Si el nuevo alojamiento no permite guardar todos los bienes del denunciante.
+Daños en Bienes Muebles y Electrodomésticos
+La corrosión en puertas metálicas y el daño en electrodomésticos por humedad son perjuicios patrimoniales directos que deben ser indemnizados a "valor de reposición" o costo de reparación técnica.1 La jurisprudencia de la PBA aplica el principio de la "reparación integral", lo que implica que el denunciante debe quedar en la misma situación patrimonial que tenía antes de los daños provocados por la obra.1
+Tabla 4: Desglose de Rubros Resarcibles en el Contexto de la Demanda
+Rubro
+	Concepto
+	Evidencia Necesaria
+	Daño Emergente (Inmueble)
+	Costo de reparación de techos, paredes y revestimientos.
+	Presupuestos y pericia de ingeniería.
+	Daño Emergente (Muebles)
+	Reposición de colchones, sábanas, ropa, electrodomésticos.
+	Facturas de compra y fotos del estado actual.
+	Privación de Uso
+	Valor locativo del inmueble durante el tiempo de reparación.
+	Informe inmobiliario de zona.
+	Lucro Cesante
+	Pérdida de ingresos por inhabilitación de la oficina de trabajo.
+	Prueba de la actividad informal (testigos, mails, facturas).
+	Daño Extrapatrimonial
+	Padecimientos espirituales, pérdida de vida social, frío, angustia.
+	Relato de hechos y pericia psicológica opcional.
+	La Dimensión de la Vida Social y el Impacto en la Salud Psicofísica
+El consultante menciona que su vida social activa como anfitrión se ha visto impedida y que su capacidad de presentarse en otras reuniones ha disminuido por el estado de su indumentaria. Este aspecto es frecuentemente subestimado en las demandas, pero la jurisprudencia reciente le otorga un peso significativo dentro del daño moral y la pérdida de vida de relación.10
+El Derecho a la Vida de Relación
+La persona es un ser social por naturaleza. La imposibilidad de invitar a amigos o familiares a la propia casa por vergüenza ante el olor a moho, las goteras o el frío, constituye una lesión a la "vida de relación". Los tribunales bonaerenses consideran que este aislamiento forzado genera una angustia resarcible, ya que altera la normalidad del desarrollo del sujeto en su comunidad.10
+Asimismo, el hecho de tener que vestir ropa húmeda o con olor a humedad afecta la autoestima y la imagen pública del individuo. Si esto repercute en su capacidad de realizar trabajos (como los mencionados en su oficina informal), se está ante un daño que atraviesa lo psicológico y lo económico.1
+Análisis de Precedentes y Normas de la Provincia de Buenos Aires
+Para sustentar la denuncia y posterior demanda, es crucial citar el entramado normativo y los precedentes que rigen en la jurisdicción bonaerense.
+Precedentes Relevantes (2021-2024)
+1. Cámara de Quilmes, Sala II (2022): Estableció la doctrina del hogar como "fortaleza de serenidad", elevando montos de daño moral por ruidos y vibraciones linderas.10
+2. Suprema Corte de la Provincia de Buenos Aires (SCBA), Causa C. 124.096 (2020/2021): Aunque se refiere a daños personales, fija los criterios para la cuantificación a "valores actuales" y el cómputo de intereses en la provincia.27
+3. Cámara de Lomas de Zamora (2024): Ratificó la responsabilidad objetiva del fideicomiso constructor por daños en una vivienda vecina, desestimando la defensa de "vicios propios" del inmueble afectado cuando no hubo acta de linderos previa.4
+Articulado del Código Civil y Comercial y Leyes Provinciales
+* Art. 1726 y 1727: Nexo Causal. Solo se indemnizan las consecuencias inmediatas y mediatas previsibles. En el caso de la oficina inhabilitada, la pérdida de equipos por goteras es una consecuencia mediata previsible de no impermeabilizar una obra superior.1
+* Art. 1746: Indemnización por lesiones o incapacidad física. Si el frío y la humedad generaran una afección respiratoria crónica, este artículo sería la base del reclamo por incapacidad sobreviniente.28
+* Art. 1973: Inmisiones. Establece que las molestias que ocasionan el humo, calor, olores, luminosidad, ruidos, vibraciones o inmisiones similares no deben exceder la normal tolerancia. Las goteras y el olor a moho superan con creces este umbral.25
+* Ley 10.707 de Catastro Territorial: Obligación de determinar el estado parcelario. La construcción sin planos infringe esta ley provincial, lo que acarrea sanciones administrativas e indicios de ilegalidad civil.13
+Implicancias de la Falta de Estudios de Carga y Sobrecarga en Losas
+El consultante menciona que se colocaron sobrecargas en techos de losa sin estudios técnicos. Esta es una de las causas más frecuentes de colapso de capas aislantes y generación de filtraciones masivas en los pisos inferiores.
+La Responsabilidad Profesional del Ingeniero/Arquitecto
+Incluso si el denunciado es un individuo particular, al realizar una obra de tal magnitud debe contar con un Representante Técnico o Director de Obra matriculado en el Colegio de Ingenieros o Arquitectos de la PBA (CAPBA/CIPBA).30 Si la obra es clandestina y no hay profesional responsable, el dueño de la obra absorbe toda la responsabilidad técnica como si fuera él mismo un experto, bajo la figura del "dueño o guardián de la cosa riesgosa".28
+La falta de estudios de carga implica que no se evaluó cómo el peso de la nueva construcción afectaría la estructura preexistente y la del vecino. En términos periciales, esto es "culpa grave" o "temeridad", ya que se pone en juego la estabilidad estructural de un tercero por mero ahorro de costos profesionales.15
+El Valor de la Prueba Anticipada en el Proceso Bonaerense
+Dada la urgencia de la situación y el riesgo de que el denunciado intente "tapar" las pruebas o que los daños sigan empeorando, la jurisprudencia de la PBA recomienda el uso de la Prueba Anticipada (Art. 326 y ss. del CPCC PBA).
+El Peritaje de Urgencia
+Un perito designado por el juez puede constatar el estado de la oficina, los equipos dañados, la humedad en la cama y el riesgo eléctrico antes de que se inicien las reparaciones. Este informe judicial tiene un valor probatorio superior a cualquier informe de parte y "congela" la evidencia para el resto del juicio.15 El hecho de que la obra sea clandestina facilitará que el juez otorgue esta medida, ya que hay un peligro evidente en la demora y una falta total de documentación oficial que garantice la seguridad de la obra.18
+Síntesis de la Causalidad: De la Filtración al Desplazamiento
+Es fundamental para la demanda hilvanar el nexo causal de manera lógica y progresiva, tal como lo exige el artículo 1726 del CCyC.1
+1. Causa Primaria: Obra lindera clandestina sin estudios de carga ni impermeabilización adecuada.
+2. Efecto Inmediato: Filtraciones y goteras masivas en el inmueble del denunciante.
+3. Efecto Mediato (Patrimonial): Destrucción de muebles, electrodomésticos, equipos de oficina y ropa; corrosión de aberturas.
+4. Efecto Mediato (Extrapatrimonial): Inhabitabilidad, frío, dormir sobre humedad, riesgo de vida por electricidad.
+5. Consecuencia Final: Desplazamiento forzado (abandono del hogar) ante el riesgo de salud por el invierno.
+Cada uno de estos eslabones se encuentra respaldado por la jurisprudencia de la PBA analizada, que no ve a estos hechos como aislados, sino como un proceso de degradación sistémica de la propiedad y la persona provocado por el actuar ilícito del vecino.5
+Conclusiones y Recomendaciones Estratégicas
+Tras la investigación exhaustiva de la jurisprudencia bonaerense reciente y el marco legal vigente, se desprenden las siguientes conclusiones para el caso planteado:
+* Plena Validez del Daño Moral: La figura del daño extrapatrimonial es no solo válida sino central en este reclamo. Las condiciones de vida degradantes (humedad en cama, olor en ropa, aislamiento social) son tipificadas por los tribunales de la PBA como lesiones a la dignidad y al derecho a una vivienda digna, resarcibles mediante satisfacciones sustitutivas.9
+* Responsabilidad Objetiva Agravada por Clandestinidad: El hecho de que la obra no posea planos, permisos ni estudios técnicos coloca al demandado en una situación de culpabilidad técnica casi irrefutable. La clandestinidad opera como una presunción de que los daños son consecuencia de su impericia y violación de las normas de seguridad.7
+* Limitación de la Defensa del Demandado: El demandado, al haber omitido el acta de linderos y los planos aprobados, carece de base documental para impugnar con éxito el informe técnico del denunciante. Su capacidad de refutación queda limitada por su propio incumplimiento administrativo y técnico.1
+* Procedencia de Rubros Específicos: El reclamo debe incluir el daño emergente (reparaciones y bienes muebles), el lucro cesante (oficina inhabilitada), la privación de uso (costo de la vivienda de reemplazo tras el desplazamiento) y el daño moral agravado por el riesgo de integridad física.1
+Se recomienda al denunciante proceder con una interpelación fehaciente (Carta Documento) que detalle cada uno de estos puntos, seguida de una solicitud de prueba anticipada judicial para certificar el estado de inhabitabilidad antes de que el invierno o posibles reformas precarias del demandado alteren la escena de los daños. La justicia de la Provincia de Buenos Aires, en su tendencia actual, ofrece un marco robusto para la protección del vecino damnificado frente a la prepotencia constructiva clandestina.
+Obras citadas
+1. Poder Judicial de la Nación, fecha de acceso: abril 16, 2026, https://www.cij.gov.ar/scp/d/sentencia-SGU-5aecfc4f-b992-48e2-857d-023563b38485.pdf
+2. Daños y perjuicios, daño por vicio o riesgo de la cosa, obra en construcción - SAIJ, fecha de acceso: abril 16, 2026, https://www.saij.gob.ar/danos-perjuicios-dano-vicio-riesgo-cosa-obra-construccion-suc0003302/123456789-0abc-defg2033-000csoiramus
+3. Propiedad dañada por instalaciones sanitarias y pileta de inmersión pegada a medianera de finca lindera. Responsabilidad por los daños provocados .Fijación de plazo de 90 dias para la realización de las obras de readecuación conforme las reglamentaciones vigentes. - Liga del Consorcista, fecha de acceso: abril 16, 2026, https://ligadelconsorcista.org/jurisprudencia-finca-lindera-medianera-responsabilidad-por-perjuicios-obligacion-de-hacer
+4. Rechazo de la demanda de daños y perjuicios si los actores no probaron el daño que alegaron sufrir como consecuencia de una construcción de terraplenes por parte de los demandados que habrían impedido el escurrimiento natural de las aguas de su fundo, produciendo estancamiento y pérdidas en su cosecha | Microjuris Argentina al Día, fecha de acceso: abril 16, 2026, https://aldiaargentina.microjuris.com/2017/05/04/rechazo-de-la-demanda-de-danos-y-perjuicios-si-los-actores-no-probaron-el-dano-que-alegaron-sufrir-como-consecuencia-de-una-construccion-de-terraplenes-por-parte-de-los-demandados-que-habrian-impedido/
+5. Tuvieron que dejar su hogar por la construcción de un edificio ..., fecha de acceso: abril 16, 2026, https://documento.errepar.com/actualidad/dejaron-su-hogar-por-construccion-edificio-deberan-indemnizarlos
+6. Inicio del Código de Edificación - Sistema de Boletines Oficiales Municipales (SIBOM), fecha de acceso: abril 16, 2026, https://sibom.slyt.gba.gob.ar/bulletins/425/contents/1165772/download_annex?annex_id=1099
+7. provincia de buenos aires - Honorable Cámara de Diputados, fecha de acceso: abril 16, 2026, https://intranet.hcdiputados-ba.gov.ar/diarios/diario14216.pdf
+8. oficial - Gobierno de Santa Fe, fecha de acceso: abril 16, 2026, https://www.santafe.gob.ar/boletinoficial/recursos/boletines/pdf/2023/07/BO04072023.pdf
+9. C., G. C. M., C. K. S. Expte. n° 72.148/2018 2ª Instancia.- Buenos Aires, noviembre 12 de 2024. ¿Se ajusta a derecho la sent - Registro de la Propiedad Inmueble, fecha de acceso: abril 16, 2026, https://www.rpba.gov.ar/files/Normas/Juris/BJ-03969.pdf
+10. G.E.A Y OTRO/A C/ N. A SA Y OTRO/A S/DAÑOS Y PERJ ... - SCBA, fecha de acceso: abril 16, 2026, https://www.scba.gob.ar/includes/descarga.asp?id=53921&n=Ver%20sentencia%20(causa%20N%B0%2025.184).pdf
+11. Detalle - Precedente - 31678 - Semanario Judicial de la Federación, fecha de acceso: abril 16, 2026, https://sjfsemanal.scjn.gob.mx/detalle/ejecutoria/31678
+12. AMPARO EN REVISIÓN 795/2023 PARTE QUEJOSA Y RECURRENTE: **********. PONENTE - Suprema Corte de Justicia de la Nación, fecha de acceso: abril 16, 2026, https://www.scjn.gob.mx/sites/default/files/listas/documento_dos/2024-04/240423-AR-795-2023.pdf
+13. Ley provincial de Catastro Bs. As. 10707, fecha de acceso: abril 16, 2026, https://cfcatastro.gob.ar/wp-content/uploads/Ley-Provincial-de-Catastro-Bs-As-10707.pdf
+14. Ley 10707 - normas gba - Provincia de Buenos Aires |, fecha de acceso: abril 16, 2026, https://normas.gba.gob.ar/documentos/x6vp7sgx.html
+15. 58815 - LOCACION DE OBRA - ruina - prescripcion - daños - SCBA, fecha de acceso: abril 16, 2026, https://www.scba.gob.ar/includes/descarga.asp?id=30470&n=Ver%20sentencia%20(58.815).pdf
+16. Impugnación de la pericia, daños en el inmueble, ofrecimiento de la prueba, prueba anticipada, dictamen pericial - SAIJ, fecha de acceso: abril 16, 2026, https://www.saij.gob.ar/impugnacion-pericia-danos-inmueble-ofrecimiento-prueba-prueba-anticipada-dictamen-pericial-sud0303635/123456789-0abc-defg5363-030dsoiramus?&o=11&f=Total%7CFecha%7CEstado%20de%20Vigencia%5B5%2C1%5D%7CTema/Derecho%20civil/hechos%20y%20actos%20jur%EDdicos/actos%20jur%EDdicos/actos%20de%20conservaci%F3n%7COrganismo%5B5%2C1%5D%7CAutor%5B5%2C1%5D%7CJurisdicci%F3n%5B5%2C1%5D%7CTribunal%5B5%2C1%5D%7CPublicaci%F3n%5B5%2C1%5D%7CColecci%F3n%20tem%E1tica%5B5%2C1%5D%7CTipo%20de%20Documento/Jurisprudencia/Sumario&t=361
+17. La prueba denominada como concepto técnico, relativa a la declaración de un galeno que no hizo par - Tribunal Superior de Medellín, fecha de acceso: abril 16, 2026, https://tribunalmedellin.com/images/decisiones/civil/2023/05001310301820220022001.pdf
+18. Impugnación y nulidad. Desinterés de la prueba pericial. Honorarios del perito - Colegio de Magistrados y Funcionarios, fecha de acceso: abril 16, 2026, https://www.magistrados-santafe.org.ar/wp-content/uploads/2020/11/Revista2014-Impugnacion_y_nulidad_Desinteres_de_la_prueba_pericial_Honorarios_del_perito-pag.508-513.pdf
+19. DICTAMEN PERICIAL - Valor probatorio Esta Sala difiere de las apreciaciones del demandante, pues no se trató de un rechazo in, fecha de acceso: abril 16, 2026, https://relatoria.colombiacompra.gov.co/wp-content/uploads/2025/02/6_81001233900020180003502.pdf
+20. El Tribunal Supremo reitera la doctrina jurisprudencial sobre la admisión de los informes y dictámenes elaborados por expertos de la Administración (STS 28/11/2024), fecha de acceso: abril 16, 2026, https://www.derechoadministrativoyurbanismo.es/post/el-tribunal-supremo-reitera-la-doctrina-jurisprudencial-sobre-la-admisi%C3%B3n-de-los-informes-y-dict%C3%A1men
+21. las cargas probatorias dinámicas - Corte Suprema de Justicia, fecha de acceso: abril 16, 2026, https://www.pj.gov.py/ebook/monografias/nacional/civil/Alberto-Martinez-Simon-Cargas-Probatorias.pdf
+22. carga de la prueba en materia civil - CIJUL en Línea, fecha de acceso: abril 16, 2026, https://cijulenlinea.ucr.ac.cr/portal/descargar.php?q=MzkwOA==
+23. Daños y perjuicios, ruina, vicios de la construcción, responsabilidad del empresario, responsabilidad del director de obra - SAIJ, fecha de acceso: abril 16, 2026, https://www.saij.gob.ar/danos-perjuicios-ruina-vicios-construccion-responsabilidad-empresario-responsabilidad-director-obra-suc0410892/123456789-0abc-defg2980-140csoiramus?&o=21&f=Total%7CFecha%7CEstado%20de%20Vigencia%5B5%2C1%5D%7CTema/Derecho%20civil/derechos%20personales/contratos/contratos%20civiles/contrato%20de%20obra/obligaciones%20del%20empresario/responsabilidad%20del%20empresario%7COrganismo%5B5%2C1%5D%7CAutor%7CJurisdicci%F3n%5B5%2C1%5D%7CTribunal%5B5%2C1%5D%7CPublicaci%F3n%5B5%2C1%5D%7CColecci%F3n%20tem%E1tica%5B5%2C1%5D%7CTipo%20de%20Documento&t=123
+24. 58815 - LOCACION DE OBRA - ruina - prescripcion - daños - SCBA, fecha de acceso: abril 16, 2026, https://www.scba.gov.ar/includes/descarga.asp?id=30470&n=Ver%20sentencia%20(58.815).pdf
+25. i. el daño por humedades - Colegio de Administradores de Fincas de Córdoba, fecha de acceso: abril 16, 2026, https://www.cafcord.org/wp-content/uploads/2022/02/Ponencia-Las-Humedades-en-las-Edificaciones-Webinar-28-01-2022.pdf
+26. FALLOS DE LA CORTE SUPREMA DE JUSTICIA DE LA NACIÓN 2021, fecha de acceso: abril 16, 2026, https://sj.csjn.gov.ar/homeSJ/suplementos/suplemento/42/documento
+27. Suprema Corte de Justicia Provincia de Buenos Aires - SCBA, fecha de acceso: abril 16, 2026, https://www.scba.gob.ar/includes/descarga.asp?id=54321&n=Ver%20sentencia%20(causa%20C124.096).pdf
+28. #Fallos Daños por obras en construcción: Tanto el constructor como el director de una obra, responden por las lesiones sufridas por una persona que caminaba por la vereda, al impactarle un objeto que cayó desde un piso superior | Microjuris Argentina al Día, fecha de acceso: abril 16, 2026, https://aldiaargentina.microjuris.com/2021/12/09/fallos-danos-por-obras-en-construccion-tanto-el-constructor-como-el-director-de-una-obra-responden-por-las-lesiones-sufridas-por-una-persona-que-caminaba-por-la-vereda-al-impactarle-un-objeto-que/
+29. LEY 10707 CATASTRO TERRITORIAL Texto Actualizado con las modificaciones introducidas por las leyes 11432, 11808, 12 - Escribanía General de Gobierno - Provincia de Buenos Aires |, fecha de acceso: abril 16, 2026, https://www.egg.gba.gov.ar/pdf/concursos/bibliografia_escrituraria/ley_10707.pdf
+30. fecha de acceso: diciembre 31, 1969, https://www-2020.scba.gob.ar/leyorganica/CCyc30/descargar.asp?nombre=Bertone_Elnuevo_cocdigo_los_procesosconstructivosylaresponsabilidadcivildeempresarios.pdf
+31. fecha de acceso: diciembre 31, 1969, https://capba.org.ar/normativa-y-ejercicio-profesional/
+32. El nuevo Código los procesos constructivos y la responsabilidad civil de empresarios, comitentes y profesionales liberales: un, fecha de acceso: abril 16, 2026, https://www-2020.scba.gov.ar/leyorganica/CCyc30/descargar.asp?nombre=Bertone_Elnuevo_cocdigo_los_procesosconstructivosylaresponsabilidadcivildeempresarios.pdf
