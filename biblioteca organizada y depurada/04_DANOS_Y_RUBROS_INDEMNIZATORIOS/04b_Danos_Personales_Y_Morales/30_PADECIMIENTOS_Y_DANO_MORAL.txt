@@ -760,3 +760,85 @@ Pérdida de Espacio      | Inhabilitación de la oficina de   | Frustración del
 
 Fuente: "Responsabilidad Civil y Reparación Integral ante Daños por Obras
 Linderas Clandestinas en la Jurisprudencia de la PBA" — Tabla 2.
+Lindera en PBA" (Doctrina Nacional, 2024).
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — PADECIMIENTOS Y DAÑO MORAL: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+I. DIFERENCIA CONCEPTUAL: DAÑO MORAL vs. DAÑO PSÍQUICO
+
+El CCyCN distingue dos rubros autónomos que no deben confundirse:
+
+a) DAÑO MORAL (Art. 1741 CCyCN): Lesión a las afecciones espirituales
+   legítimas. Es la "mortificación disvaliosa del espíritu". Se manifiesta
+   como dolor, angustia, humillación, perturbación anímica. No requiere
+   patología diagnosticable. Basta la afectación al bienestar espiritual.
+
+b) DAÑO PSÍQUICO (Art. 1746 CCyCN): Patología psiquiátrica o psicológica
+   diagnosticable que genera incapacidad (ansiedad generalizada, depresión,
+   TEPT, fobias). Requiere pericia psicológica/psiquiátrica que determine
+   diagnóstico, nexo causal y porcentaje de incapacidad.
+
+CONSECUENCIA PRÁCTICA: Ambos rubros son acumulables. El actor puede reclamar
+daño moral por el sufrimiento + daño psíquico por la patología diagnosticada.
+No existe doble indemnización porque tutelan bienes jurídicos diferentes.
+Criterio SCBA: "Barrios" (C.124.096, 2024) y Cam. La Plata, Sala III (2023).
+
+II. PRUEBA DEL DAÑO MORAL — RÉGIMEN PROBATORIO
+
+a) PRESUNCIÓN IN RE IPSA LOQUITUR: Cuando los hechos probados (inhabita-
+   bilidad por humedad, riesgo eléctrico, abandono forzado del hogar) son
+   de tal entidad que el padecimiento espiritual se presume por el curso
+   normal y ordinario de las cosas (Art. 1727 CCyCN). No se requiere prueba
+   directa del sufrimiento: el daño moral "habla por sí mismo".
+
+b) PRUEBA COMPLEMENTARIA (refuerza cuantificación):
+   - Pericia psicológica (no exigible para procedencia, sí para cuantificar).
+   - Testimonial de allegados sobre cambios conductuales.
+   - Informes médicos de consultas por estrés, insomnio, ansiedad.
+   - Constancias de tratamiento psicológico/psiquiátrico.
+
+c) CARGA PROBATORIA: Recae sobre el demandado acreditar que pese a la
+   magnitud de los hechos, el actor no sufrió padecimiento moral alguno
+   (prueba diabólica en la práctica). Doctrina consolidada Cam. Quilmes,
+   Sala II, "G.E.A. c/ N.A. SA" (2022).
+
+III. CUANTIFICACIÓN POR PLACERES SUSTITUTIVOS
+
+El método de "placeres sustitutivos" (doctrina Iribarne) establece que la
+indemnización por daño moral debe permitir al damnificado acceder a
+satisfacciones equivalentes que compensen el sufrimiento padecido:
+
+- Viajes, esparcimiento, bienes de confort, actividades recreativas.
+- El juez pondera: duración del padecimiento, intensidad, edad de la
+  víctima, situación socioeconómica, existencia de grupo familiar afectado.
+- NO se trata de "poner precio al dolor" sino de proveer medios para
+  obtener gratificaciones sustitutivas razonables.
+
+PARÁMETROS PBA (2024-2026) para daños por obra lindera con inhabilitación
+de vivienda superior a 12 meses:
+- Padecimiento leve-moderado: $3.000.000 - $6.000.000
+- Padecimiento moderado-grave (con abandono de hogar): $6.000.000 - $12.000.000
+- Padecimiento grave (patologías + aislamiento social): $12.000.000 - $20.000.000
+
+Fuente orientativa: precedentes Cam. Civ. y Com. Quilmes y La Plata (2023-2025).
+
+IV. APLICACIÓN AL CASO — DEPARTAMENTO JUDICIAL DE MERLO
+
+El damnificado en Merlo padece simultáneamente:
+- Exposición prolongada (>18 meses) a condiciones indignas de habitabilidad.
+- Riesgo eléctrico por humedad en instalación (peligro de electrocución).
+- Degradación de indumentaria y bienes personales (olor, moho, putrefacción).
+- Aislamiento social forzado (imposibilidad de recibir visitas).
+- Pérdida de intimidad y proyección afectiva.
+- Abandono forzado del hogar por fuerza mayor.
+
+Cada factor opera como agravante autónomo del quantum indemnizatorio. La
+mora del responsable se computa desde la producción de cada daño (Art. 886
+CCyCN), no desde la interpelación ni desde la sentencia.
+
+════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 30 — PADECIMIENTOS Y DAÑO MORAL
+════════════════════════════════════════════════════════════════════════════

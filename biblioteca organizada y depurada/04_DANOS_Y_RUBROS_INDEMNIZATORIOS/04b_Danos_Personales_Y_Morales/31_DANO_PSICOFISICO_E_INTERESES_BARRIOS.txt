@@ -407,5 +407,92 @@ ACUMULACIÓN CON DAÑO MORAL:
 - No existe doble indemnización porque protegen bienes jurídicos diferentes.
 
 ================================================================================
-FIN DE TEMAS 15-18 Y ADICIONAL
+SECCIÓN COMPLEMENTARIA — DAÑO PSICOFÍSICO E INTERESES BARRIOS: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
 ================================================================================
+
+I. TASA DE INTERÉS APLICABLE EN PBA — EVOLUCIÓN Y ESTADO ACTUAL
+
+a) DOCTRINA ANTERIOR (Plenario "Samudio", CNCiv, 20/4/2009):
+   Se fijó la tasa activa cartera general del Banco Nación como tasa
+   aplicable a los créditos judiciales por daños. El plenario estableció que
+   los intereses moratorios se computan desde el hecho dañoso hasta el
+   efectivo pago, a tasa activa BNA. Fue vinculante para la Justicia Nacional
+   Civil, pero NO para la Provincia de Buenos Aires directamente.
+
+b) PBA — TASA PASIVA BIP (anterior a "Barrios"):
+   Hasta 2024, la SCBA aplicaba tasa pasiva BIP más alta del Banco Provincia.
+   Doctrina "Vera c/ Provincia" (2012): tasa pasiva digital BIP.
+
+c) DOCTRINA "BARRIOS" (SCBA, C.124.096, sent. 2/4/2024) — VIGENTE:
+   La SCBA modificó sustancialmente el régimen:
+   - Se actualiza el capital por IPC-INDEC (índice de precios al consumidor)
+     desde la producción del daño hasta la liquidación.
+   - Sobre el capital actualizado se aplica una tasa pura del 6% anual.
+   - Este mecanismo reemplaza la tasa activa/pasiva bancaria como sistema
+     de compensación integral.
+   - Fundamento: evitar el enriquecimiento sin causa y la licuación del
+     crédito del damnificado en contextos inflacionarios.
+
+II. FECHA DE CÓMPUTO DE INTERESES — ART. 886 CCyCN
+
+Art. 886 CCyCN: "La mora del deudor se produce por el solo transcurso del
+tiempo fijado para el cumplimiento de la obligación." En obligaciones de
+fuente extracontractual (como el presente caso), la mora es AUTOMÁTICA
+desde la producción de cada daño (Art. 1748 CCyCN).
+
+CONSECUENCIA: Los intereses corren desde:
+- Daño emergente por reparaciones: desde la fecha de producción de cada
+  filtración/afectación acreditada pericialmente.
+- Lucro cesante: desde cada mes de ingreso perdido.
+- Daño moral: desde el hecho generador del padecimiento.
+- Gastos de mudanza/alquiler: desde la fecha de cada erogación.
+NO desde la notificación de la demanda ni desde la sentencia.
+
+III. PLENARIO SAMUDIO — RELEVANCIA EN PBA
+
+Si bien el Plenario "Samudio" (CNCiv, 2009) no es vinculante para los
+tribunales de PBA, su doctrina fue receptada parcialmente:
+- La tasa activa BNA se utilizó como referencia en algunos juzgados
+  bonaerenses antes de "Barrios".
+- Post-Barrios: la SCBA descartó la tasa activa bancaria en favor del
+  mecanismo de actualización + interés puro.
+- Vigencia actual en PBA: se aplica exclusivamente la doctrina Barrios
+  para causas iniciadas o en trámite bajo el CCyCN.
+
+IV. DOCTRINA BARRIOS C.124.096 — ANÁLISIS DETALLADO
+
+HECHOS: Barrios, Héctor demandó por daños en accidente de tránsito.
+La discusión llegó a la SCBA sobre la metodología de cuantificación y
+la aplicación de intereses.
+
+HOLDING DE LA SCBA (por mayoría):
+1) El Art. 1746 CCyCN impone al juez el deber de utilizar fórmulas
+   matemáticas para cuantificar incapacidad. No es facultativo.
+2) El capital se actualiza por IPC-INDEC desde la fecha del hecho.
+3) Se adiciona un 6% anual de interés puro sobre capital actualizado.
+4) La tasa activa bancaria queda desplazada como mecanismo compensatorio.
+5) El juez de grado que se aparte debe fundar con argumentos suficientes.
+
+APLICACIÓN AL CASO DE MERLO:
+- El daño psicofísico por exposición a humedad/moho se cuantifica con
+  fórmula del Art. 1746 CCyCN (% de incapacidad × ingresos × vida útil).
+- Se actualiza por IPC desde cada período de exposición acreditado.
+- Se adiciona 6% anual de interés puro.
+- Competencia: Departamento Judicial de MERLO (Ley 13.859/2009).
+
+V. INTERACCIÓN DAÑO PSICOFÍSICO + INTERESES + ACTUALIZACIÓN
+
+Capital indemnizatorio por incapacidad psicofísica:
+  C = [Ingreso mensual × 12 × % incapacidad × (1-Vn)] / i
+  + Actualización IPC desde fecha del hecho
+  + 6% anual de interés puro sobre capital actualizado
+  + Costos de tratamiento futuro (psicológico/psiquiátrico) actualizados
+
+NO procede capitalización de intereses (Art. 770 CCyCN) salvo:
+- Intimación judicial de pago incumplida.
+- Liquidación aprobada no abonada.
+
+════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 31 — DAÑO PSICOFÍSICO E INTERESES BARRIOS
+════════════════════════════════════════════════════════════════════════════

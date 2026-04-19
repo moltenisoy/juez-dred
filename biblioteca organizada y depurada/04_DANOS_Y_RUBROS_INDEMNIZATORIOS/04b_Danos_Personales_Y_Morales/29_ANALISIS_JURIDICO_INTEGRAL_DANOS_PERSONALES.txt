@@ -215,5 +215,84 @@ Reunir todos los comprobantes de gastos de mudanza, alojamiento y servicios paga
 Consultar con su abogado si corresponde evaluar una denuncia penal paralela (arts. 183 y/o 189 CP) por los riesgos físicos actuales.
 Verificar si los demandados incluyen tanto al comitente como al director técnico de obra (ambos pueden responder solidariamente bajo el Art. 1758 CCyC).
 
+================================================================================
+SECCIÓN COMPLEMENTARIA — DAÑOS PERSONALES INTEGRALES: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+VIII. ART. 1746 CCyCN — FÓRMULA MATEMÁTICA PARA INCAPACIDAD SOBREVINIENTE
+
+El Art. 1746 CCyCN establece: "En caso de lesiones o incapacidad permanente,
+física o psíquica, total o parcial, la indemnización debe ser evaluada
+mediante la determinación de un capital, de tal modo que sus rentas cubran
+la disminución de la aptitud del damnificado para realizar actividades
+productivas o económicamente valorables, y que se agote al término del
+plazo en que razonablemente pudo continuar realizando tales actividades."
+
+FÓRMULA MATEMÁTICA APLICABLE (fórmula "Vuoto" / "Marshall"):
+  C = A × (1 - Vn) / i
+  Donde:
+  - C = capital indemnizatorio
+  - A = ingreso anual de la víctima × % de incapacidad
+  - i = tasa de descuento (generalmente 6% anual)
+  - n = años restantes de vida útil (65 años - edad actual)
+  - Vn = (1 + i)^(-n)
+
+La SCBA en "Barrios" (C.124.096, sent. 2/4/2024) confirmó que la fórmula
+matemática es el piso mínimo, debiendo el juez fundar si se aparta de ella.
+
+IX. BAREMO TABULAR — INCAPACIDAD EN DAÑOS POR VIVIENDA
+
+En ausencia de baremo específico para daño civil, los tribunales de PBA
+utilizan como referencia orientativa:
+- Baremo General para el Fuero Civil (Altube-Rinaldi), tabla de incapacidades
+  por afecciones respiratorias crónicas: 5-20% según gravedad.
+- Baremo del Decreto 659/96 (adaptado por analogía): columna vertebral,
+  aparato respiratorio y psiquismo.
+- El perito médico debe fundar el porcentaje asignado y el baremo utilizado.
+- La incapacidad NO se limita a la laboral: incluye la disminución de la
+  aptitud vital integral (vida de relación, esparcimiento, actividades
+  cotidianas) conforme Art. 1746 CCyCN.
+
+X. DAÑO AL PROYECTO DE VIDA
+
+El Art. 1738 CCyCN incluye expresamente la "interferencia en el proyecto
+de vida" como rubro resarcible. En el presente caso:
+- Frustración de la actividad laboral digital en el domicilio propio.
+- Impedimento de consolidar relaciones afectivas/sociales.
+- Alteración del plan habitacional (pérdida de estabilidad domiciliaria).
+La SCBA reconoce este rubro como autónomo del daño moral cuando existe
+una modificación sustancial del plan existencial previo al hecho dañoso.
+Criterio: Cam. Civ. y Com. Quilmes, Sala II, "G.E.A. c/ N.A. SA" (2022).
+
+XI. DAÑO ESTÉTICO
+
+Cuando las afecciones dermatológicas o respiratorias dejan secuelas visibles
+(dermatitis, lesiones por hongos), el daño estético es rubro autónomo.
+Requisitos: pericia dermatológica con fotografías, nexo causal con la
+exposición a humedad >70% sostenida, y ponderación de la incidencia en la
+vida de relación del damnificado.
+Fundamento: Art. 1738 CCyCN ("consecuencias de la violación de los derechos
+personalísimos") y Art. 1746 CCyCN (incapacidad parcial permanente).
+
+XII. ACTUALIZACIÓN DOCTRINA BARRIOS (SCBA, C.124.096, 2/4/2024)
+
+La SCBA en "Barrios, Héctor c/ Gordillo, Adriana Mabel" estableció:
+a) Se aplica el índice de precios al consumidor (IPC-INDEC) para actualizar
+   el capital de condena desde la mora hasta el efectivo pago.
+b) La tasa de interés pura se fija en el 6% anual sobre capital actualizado.
+c) La fórmula del Art. 1746 CCyCN es directriz legal, no mera sugerencia.
+d) El juez que se aparta debe fundar con argumentos concretos por qué otorga
+   un monto diferente al resultante de la fórmula.
+e) Fecha de cómputo de la mora: desde la producción de cada daño (Art. 886
+   CCyCN), no desde la sentencia ni desde la notificación de la demanda.
+
+NOTA JURISDICCIONAL: El caso tramita ante el Departamento Judicial de MERLO
+(creado por Ley 13.859/2009), cuyas Cámaras aplican obligatoriamente la
+doctrina de la SCBA conforme el sistema de casación provincial.
+
+════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 29 — ANÁLISIS JURÍDICO INTEGRAL DAÑOS PERSONALES
+════════════════════════════════════════════════════════════════════════════
 
 Análisis elaborado con base en el Código Civil y Comercial de la Nación (Ley 26.994, vigente), la Constitución Nacional, el Código Penal de la Nación y normativa local aplicable. Todos los artículos citados corresponden a normas vigentes a la fecha de este análisis. Para citas jurisprudenciales específicas, se recomienda consultar bases de datos como SAIJ (saij.gob.ar) o el sistema de jurisprudencia del Poder Judicial correspondiente.
