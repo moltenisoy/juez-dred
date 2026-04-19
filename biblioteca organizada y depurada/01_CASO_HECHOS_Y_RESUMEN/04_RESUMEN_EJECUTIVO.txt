@@ -66,3 +66,233 @@ CHECKLIST PRE-DEMANDA
 
 Elaborado: Abril 2025
 Fuentes: SCBA, CSJN, CCCN, CPCC PBA
+
+
+═══════════════════════════════════════════════════════════════════════════════
+SECCIONES COMPLEMENTARIAS — INVESTIGACIÓN AMPLIADA
+═══════════════════════════════════════════════════════════════════════════════
+
+7. DOCTRINA "BARRIOS" — ANÁLISIS AMPLIADO DE ACTUALIZACIÓN MONETARIA
+
+   FALLO DE REFERENCIA: SCBA, C. 124.096, "Barrios, Héctor Francisco y otra
+   c/ Lascano, Sandra Beatriz y otra. Daños y perjuicios" (abril 2024).
+
+   A) CONTENIDO DEL FALLO:
+      • Declaró la INCONSTITUCIONALIDAD SOBREVINIENTE del Art. 7 Ley 23.928
+        (según Ley 25.561) que prohibía la actualización monetaria o indexación
+        de créditos en obligaciones dinerarias.
+      • Fundamento: En contextos de alta inflación, la prohibición produce merma
+        desproporcionada en el valor real del crédito, afectando el derecho de
+        propiedad (Art. 17 CN) y la tutela judicial efectiva (Art. 15 Const. PBA).
+      • Ordenó la utilización de sistemas de actualización que preserven el
+        valor real de las indemnizaciones.
+
+   B) FÓRMULA VALIDADA POR JURISPRUDENCIA POST-BARRIOS:
+
+      Monto actualizado = Monto original × (Índice actual / Índice de origen)
+                        + Interés puro anual 6% desde fecha de origen hasta pago
+
+      Esquema temporal:
+      1) DESDE EL HECHO HASTA LA SENTENCIA:
+         Capital actualizado por IPC o CER + interés puro 6% anual (moratorio)
+      2) DESDE LA SENTENCIA HASTA EL PAGO EFECTIVO:
+         Capital de condena actualizado por IPC o CER + 6% anual interés puro
+
+      PROHIBIDO: Capitalización de intereses ya computados.
+
+   C) ÍNDICES ACEPTADOS:
+      • IPC (Índice de Precios al Consumidor) — INDEC → Preferido en daños civiles
+      • CER (Coeficiente de Estabilización de Referencia) — BCRA
+      • RIPTE (Remuneración Imponible Promedio Trabajadores Estables) → Ámbito laboral
+
+   D) APLICACIÓN PRÁCTICA AL CASO:
+      • SOLICITAR EXPRESAMENTE EN LA DEMANDA: "Actualización monetaria conforme
+        doctrina SCBA 'Barrios', declarando la inconstitucionalidad sobreviniente
+        del Art. 7 Ley 23.928/25.561, con actualización por IPC-INDEC más interés
+        puro del 6% anual desde la fecha de cada daño hasta su efectivo pago."
+      • Si NO se solicita en la demanda, el juez puede no aplicarla de oficio.
+
+   E) JURISPRUDENCIA DE APLICACIÓN:
+      • Cámara de Apelación Civil y Comercial, Necochea (2025)
+      • Cámara de Apelación Civil y Comercial, Junín (2024)
+      • Cámara de Apelación Civil y Comercial de Morón (2024) — Aplicación
+        de "versión Barrios" a honorarios y bases regulatorias
+
+
+8. BENEFICIO DE LITIGAR SIN GASTOS — ANÁLISIS AMPLIADO
+
+   NORMATIVA: Arts. 78-86 CPCCBA
+
+   A) CONCEPTO Y ALCANCE:
+      • Permite litigar sin abonar tasas de justicia, honorarios y otros gastos.
+      • NO exige probar indigencia absoluta, sino INSUFICIENCIA RAZONABLE
+        para afrontar los gastos del proceso sin comprometer el sustento propio
+        o de la familia (jurisprudencia constante SCBA y Cámaras PBA).
+
+   B) REQUISITOS AMPLIADOS:
+      1) Petición formal con declaración jurada de situación patrimonial
+      2) Documentación respaldatoria: recibos de sueldo o monotributo,
+         constancias de ingresos (o falta de ellos), tenencia de bienes
+      3) Ofrecimiento de prueba testimonial: Mínimo 3 testigos que declaren
+         sobre la situación económica del solicitante
+      4) Los testigos deben conocer: estilo de vida, situación habitacional,
+         ingresos habituales, gastos y cargas familiares
+
+   C) LO QUE CUBRE Y LO QUE NO CUBRE:
+      CUBRE:
+      • Tasa de justicia (3% del monto demandado)
+      • Costas procesales
+      • Gastos de diligenciamiento
+      • EXIME de contracautela para medidas cautelares
+
+      NO CUBRE AL 100%:
+      • Honorarios periciales: los peritos pueden reclamar hasta el 50% si
+        no hay condena en costas a la contraparte
+      • Si se rechaza parcialmente, debe abonar la parte descubierta
+
+   D) TRÁMITE:
+      • Se solicita CON la demanda o ANTES de ella (incidente por separado)
+      • Trámite SUMARIO y BILATERAL (se corre traslado a la contraparte)
+      • Resolución por auto interlocutorio; apelable con efecto devolutivo
+      • El beneficio es PROVISORIO: puede revisarse si cambia la situación económica
+
+   E) JURISPRUDENCIA DE REFERENCIA:
+      • SCBA, C. 85716 (2004) y C. 104.139 (2010): La declaración jurada,
+        prueba documental y testimonial deben evaluarse con criterio amplio
+        y atendiendo al fin tuitivo de la norma.
+      • Cámara de Apelación Civil de Mar del Plata (2021): La prueba testimonial
+        junto a la declaración jurada puede ser suficiente si es coherente.
+      • Cámara de Apelación Civil de San Isidro (2020): No se exige probar
+        indigencia absoluta, sino insuficiencia razonable (Art. 78 CPCCBA).
+
+
+9. DEPARTAMENTO JUDICIAL DE MERLO — DATOS INSTITUCIONALES AMPLIADOS
+
+   A) INFORMACIÓN DEL DEPARTAMENTO JUDICIAL:
+      • Creado por Ley 13.859/2009
+      • Jurisdicción: Partidos de Merlo, General Las Heras, Marcos Paz
+      • Juzgados Civiles y Comerciales: 2 de Primera Instancia
+      • Sede: Av. del Libertador 335, Merlo Centro, Buenos Aires
+      • Teléfono consultas SCBA: 0810-444-7222 (10 a 19 hs)
+
+   B) MESA DE ENTRADAS VIRTUAL (MEV):
+      • Acceso: https://mev.scba.gov.ar/
+      • Permite consulta y seguimiento de causas en todos los fueros
+      • Requiere registro previo con domicilio electrónico
+      • Permite presentaciones electrónicas y control de estado de expedientes
+      • Guía Judicial SCBA: www.scba.gov.ar/guia_judicial.asp
+
+   C) ERROR CRÍTICO A EVITAR:
+      • Presentar en Morón = RECHAZO POR INCOMPETENCIA territorial
+      • Desde 2009, Merlo tiene departamento judicial propio
+      • La mediación prejudicial también debe haberse realizado en Merlo
+      • Verificar que el acta de cierre de mediación corresponda al
+        departamento judicial correcto
+
+
+10. ASTREINTES — GUÍA DETALLADA DE APLICACIÓN
+
+    NORMATIVA: Art. 804 CCyCN + Art. 37 CPCCBA
+
+    A) CONCEPTO:
+       Sanciones conminatorias progresivas que el juez impone al incumplidor
+       de una orden judicial, cuyo monto se devenga por cada día de demora.
+
+    B) PROCEDIMIENTO CORRECTO (paso a paso):
+       1) Obtener MEDIDA CAUTELAR firme (ej: prohibición de innovar, remoción
+          de tanque, reparaciones urgentes)
+       2) Si el demandado NO CUMPLE: Solicitar INTIMACIÓN judicial con plazo
+          determinado (ej: 10 días)
+       3) Si persiste el incumplimiento: Solicitar APLICACIÓN DE ASTREINTES
+          desde la fecha de la intimación incumplida
+       4) LIQUIDAR astreintes periódicamente (ej: cada 30 días)
+
+    C) MONTOS DE REFERENCIA:
+       • 1-5 JUS por día (1 JUS ≈ $3.500-$4.500 a abril 2026)
+       • O equivalente monetario: $5.000-$25.000 por día según caudal económico
+       • El juez gradúa según la capacidad económica del obligado
+       • Las astreintes son a favor del ACREEDOR (no del Estado)
+
+    D) REGLA FUNDAMENTAL:
+       NO solicitar en la demanda inicial → Reservar para la etapa de ejecución
+       de medidas cautelares o de la sentencia definitiva.
+
+    E) CLAVE: Las astreintes NO son retroactivas. Solo se devengan desde la
+       fecha de la intimación judicial específica.
+
+
+11. EMBARGO PREVENTIVO — CONSIDERACIONES ESPECIALES
+
+    NORMATIVA: Art. 209 CPCCBA
+
+    A) VERIFICACIÓN PREVIA OBLIGATORIA:
+       • Consultar en el REGISTRO DE LA PROPIEDAD INMUEBLE de PBA si el
+         inmueble del demandado está inscripto como BIEN DE FAMILIA
+         (Art. 244-256 CCyCN, ex Art. 14 Ley 14.394).
+       • Si es bien de familia: el inmueble es INEMBARGABLE salvo excepciones
+         (deudas por construcción/mejoras del propio inmueble, deudas
+         alimentarias, impuestos).
+       • Si NO es bien de familia: procede embargo preventivo sobre el inmueble.
+
+    B) BIENES ALTERNATIVOS EMBARGABLES:
+       Si el inmueble es bien de familia, considerar embargo sobre:
+       • Cuentas bancarias del demandado
+       • Vehículos automotores (consultar DNRPA)
+       • Otros inmuebles del demandado (consultar Registro de la Propiedad)
+       • Créditos y derechos del demandado
+
+    C) CONTRACAUTELA:
+       • Si el actor tiene BENEFICIO DE LITIGAR SIN GASTOS: EXENTO de
+         contracautela (caución juratoria es suficiente).
+       • Si no tiene BLSG: deberá ofrecer caución real o personal.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+CHECKLIST PRE-DEMANDA — VERSIÓN AMPLIADA Y ACTUALIZADA
+═══════════════════════════════════════════════════════════════════════════════
+
+TRÁMITES PREVIOS OBLIGATORIOS:
+□ Confirmar que mediación prejudicial (Ley 13.951) se realizó en MERLO
+□ Obtener acta de cierre de mediación sin acuerdo (original o copia certificada)
+□ Solicitar informe municipal de obra clandestina a Sec. de Obras de Merlo
+□ Verificar en Registro de Propiedad si inmueble demandado es bien de familia
+□ Obtener informe de dominio del inmueble del demandado
+
+DOCUMENTACIÓN A REUNIR:
+□ Escritura de propiedad del inmueble del actor
+□ Plano original del inmueble
+□ Contrato de copropiedad
+□ Informes técnicos (2) firmados y sellados
+□ Boleta de compra de membrana asfáltica
+□ Comprobante de pago de mediación
+□ Fotografías y videos con metadatos conservados (organizados cronológicamente)
+□ Recibos de bienes muebles dañados (electrónicos, muebles, indumentaria)
+□ Certificados médicos (alergista, clínico, psiquiatra)
+□ Certificados de Google/YouTube de ingresos
+□ Reclamo a Movistar (número de caso y resolución)
+□ Facturas de servicios pagados durante inhabitabilidad
+
+BENEFICIO DE LITIGAR SIN GASTOS:
+□ Preparar declaración jurada de situación patrimonial
+□ Reunir 3 testigos con DNI y domicilio (preferir sin parentesco directo)
+□ Redactar interrogatorio conforme Arts. 440-443 CPCCBA
+□ Adjuntar constancias de monotributo o ingresos (o certificación de falta)
+
+REDACCIÓN DE DEMANDA:
+□ Solicitar expresamente doctrina "Barrios" + IPC/CER + 6% interés puro
+□ NO solicitar astreintes en la demanda inicial (reservar para post-cautelar)
+□ Solicitar medidas cautelares: prohibición de innovar + embargo preventivo
+□ Ofrecer todos los medios de prueba (documental, pericial, testimonial, notarial)
+□ Solicitar prueba anticipada si hay urgencia de preservar estado actual
+
+PRESENTACIÓN:
+□ Presentar TODO en Departamento Judicial de MERLO — Av. del Libertador 335
+□ Alternativamente: presentación electrónica vía MEV (mev.scba.gov.ar)
+□ Solicitar feria en caso de urgencia (riesgo eléctrico = habilitación de feria)
+□ Conservar copia sellada de toda la presentación
+
+═══════════════════════════════════════════════════════════════════════════════
+Elaborado: Abril 2025 — Actualizado: Abril 2026
+Fuentes: SCBA (doctrina "Barrios" C.124.096), CSJN, CCyCN, CPCCBA,
+         Ley 13.859, Ley 13.951, Ley 8912, Ley 25.675
+═══════════════════════════════════════════════════════════════════════════════
