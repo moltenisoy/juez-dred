@@ -628,6 +628,8 @@ Normativa técnica municipal específica de Merlo: requisitos de servicios
     Procedimientos edilicios verificados para el Partido de Merlo en contexto
     de propiedad horizontal: Constitución PBA (Arts. 191-192), Dec.-Ley
     6769/58 (Arts. 24, 25, 27, 107, 108 — Ley Orgánica Municipalidades),
+    Dec.-Ley 8912/77 (Ordenamiento Territorial y Uso del Suelo, Art. 6° Dec.
+    Reg. 1549/83, normas relacionadas: Dec. 183/2019, Ley 14449, Dec. 947/04),
     Ordenanza General 267/80 (procedimiento administrativo municipal),
     normativa catastral ARBA para PH (7 resoluciones normativas incluyendo
     RN 69/15, RN 63/14, RN 26/2023, RN 14/2024), trámites catastrales PH
@@ -637,10 +639,13 @@ Normativa técnica municipal específica de Merlo: requisitos de servicios
     Factibilidad de Proyecto y Admisibilidad para Obra Subsistente,
     documentación completa para carpeta de obra (Art. 7° Ord. 5839),
     5 tipos de planos requeridos, multas y sanciones (Art. 8°), régimen
-    tributario municipal (Ord. Fiscal 5410/16), procedimiento paso a paso
-    para regularización de obras subsistentes, datos de contacto
-    institucional verificados (Dirección Obras, CAUBA D3 Merlo, HCD, ARBA,
-    Registro Propiedad) y zonas de incertidumbre declaradas. Consultarlo
+    tributario municipal (Ord. Fiscal 5410/16 con detalle de efecto tributario
+    por modificación parcelaria), procedimiento paso a paso para
+    regularización de obras subsistentes (incluye referencia profesional
+    paredestudio.com.ar), datos de contacto institucional verificados
+    (Dirección Obras, CAUBA D3 Merlo, HCD, ARBA, Registro Propiedad),
+    datos verificados del municipio (PROCREAR, dato histórico Certificado
+    de Uso Conforme) y zonas de incertidumbre declaradas. Consultarlo
     para tramitación de obras en PH, regularización de obras subsistentes,
     acreditar incumplimientos del demandado ante normativa municipal vigente
     y fundamentar el carácter clandestino de la obra.

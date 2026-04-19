@@ -65,6 +65,45 @@ medidas que resulten necesarias para evitar transgresiones reglamentarias
 Fuente verificada: SBOM Provincia de Buenos Aires.
 
 --------------------------------------------------------------------------------
+DECRETO-LEY 8912/77 — ORDENAMIENTO TERRITORIAL Y USO DEL SUELO
+(Boletín Oficial de Buenos Aires N° 18639, 28/10/1977)
+Texto ordenado por Decreto 3389/87
+Modificado por: Dec.-Ley 10128, Leyes 10653, 10764, 13127 y 13342
+Fuente verificada: normas.gba.gob.ar
+--------------------------------------------------------------------------------
+
+OBJETO: Establece las normas fundamentales que rigen el ordenamiento del
+        territorio de la Provincia de Buenos Aires, regulando especialmente:
+        - La creación, ampliación y reestructuración de núcleos urbanos
+        - El uso y subdivisión de la tierra
+
+PRINCIPIO RECTOR VERIFICADO: La responsabilidad primaria del ordenamiento
+territorial recae en el nivel municipal, con contralor y decisión última del
+Poder Ejecutivo Provincial en los casos previstos en el Art. 83.
+
+ART. 6° DEL DECRETO REGLAMENTARIO 1549/83 (verificado):
+"Cuando en una construcción existente el Factor de Ocupación del Suelo (F.O.S.)
+esté excedido, pero no el Factor de Ocupación Total (F.O.T.) ni la densidad, el
+Municipio respectivo podrá autorizar la remodelación y/o ampliación de su
+superficie cubierta, siempre que se cumplan las siguientes condiciones:
+a) La construcción tenga planos aprobados o empadronados antes de la entrada en
+   vigencia del Decreto 2018/81.
+b) No se superen los valores del Factor de Ocupación Total (F.O.T.) ni la
+   Densidad establecidos para la zona."
+
+NORMAS RELACIONADAS VERIFICADAS en el Sistema de Información Normativa de la
+Provincia de Buenos Aires (normas.gba.gob.ar):
+- Decreto 183/2019: Delega en el Ministro de Gobierno la aprobación del Art. 83
+  del Decreto-Ley 8912/77 (ordenanzas de ordenamiento territorial y zonificación)
+- Ley 14449 (2013): Acceso Justo al Hábitat. Crea el Programa de Lotes con
+  Servicios. Modifica Leyes 6769 y 8912.
+- Decreto 27/1998: Normas sobre emprendimiento urbanístico "Barrios Cerrados"
+- Decreto 947/2004: Modifica Dec. 2489/63 para Clubes de Campo y Barrios Cerrados
+- Resolución Normativa 69/15 ARBA: Establece que hasta tanto se reglamente el
+  ejercicio de los derechos reales de PH y Conjuntos Inmobiliarios del CCyC,
+  deben aplicarse las normas del Decreto Provincial 2489/63.
+
+--------------------------------------------------------------------------------
 ORDENANZA GENERAL 267/80 — PROCEDIMIENTO ADMINISTRATIVO MUNICIPAL
 (Sancionada por el Gobernador en ejercicio de facultades de los Departamentos
 Deliberativos Municipales. Fuente verificada: normas.gba.gob.ar)
@@ -170,6 +209,12 @@ SECCIÓN 3 — CADENA NORMATIVA MUNICIPAL DE MERLO — OBRAS Y EDIFICACIÓN
 Fuentes: Boletines Oficiales del Municipio de Merlo Nros. 59/2021 y 68/2021,
          accedidos directamente en pdf oficial de merlo.gob.ar
 
+ESTADO DE NORMATIVAS MUNICIPALES (verificado en CAUBA D3):
+- Mapa de Zonificación: PENDIENTE (no disponible en línea a la fecha)
+- Código de Edificación: PENDIENTE (no disponible en línea a la fecha)
+- Código de Zonificación: referenciado a Ordenanza 5801/2020 actualizada
+  Fuente: cauba3.org.ar/normativas-municipales
+
 ORDENANZA 2589/84 (VIGENTE):
 Establece que las tareas de proyecto, confección y trámite de aprobación de
 planos de obras de viviendas que no superen los 70m2 pueden ser ejecutadas, sin
@@ -203,6 +248,17 @@ ARTÍCULO 1° (verificado):
 "Autorízase, a partir de la sanción de la presente ordenanza, la implementación
 de los siguientes artículos que reemplazarán los mencionados en el Código de
 Edificación y Ordenanzas vigentes."
+
+ARTÍCULO 2° (verificado):
+"Todos aquellos artículos que no sean mencionados en la presente ordenanza
+deberán adecuarse al Código de Edificación y Ordenanzas vigentes al día de la
+fecha."
+
+ARTÍCULO 3° (verificado):
+"Facúltase al Departamento Ejecutivo a publicar y difundir la presente ordenanza,
+como así también a establecer la fecha de implementación, dando tiempo a los
+contribuyentes y/o profesionales de tomar conocimiento de la presente ordenanza
+y de los cambios que se produzcan a raíz de su implementación."
 
 ARTÍCULO 4° (verificado — FUNDAMENTAL PARA COPROPIEDAD/PH):
 "Facúltase al Departamento Ejecutivo, a analizar y resolver todas las cuestiones
@@ -375,6 +431,17 @@ Estado: VIGENTE
 Fuente verificada: Boletín Oficial de Merlo N° 68
 
 RÉGIMEN TRIBUTARIO MUNICIPAL (Ordenanza Fiscal 5410/16):
+
+"b) Se operare modificación parcelaria, reunión, división, accesión por
+construcción, ampliación, reedificación, refacción, demolición o cualquier otra
+clase de transformación en el edificio que importare un aumento o disminución de
+su valor, y por la modificación en la prestación de los servicios, destino y
+zonificación que modifique la característica del inmueble. La nueva valuación
+resultante como asimismo las modificaciones de características, surtirán efecto
+tributario desde el momento en que se produjeren los hechos que le den origen
+aun cuando el contribuyente ya hubiera abonado las tasas determinadas sin haber
+tenido la Municipalidad conocimiento del hecho imponible."
+
 "Las mejoras que se introduzcan en inmuebles sobre la base de planos aprobados,
 se incorporarán a la categoría correspondiente a los fines del cobro de la tasa,
 a los veinticuatro (24) meses de la fecha de la aprobación salvo que antes
@@ -419,6 +486,19 @@ PASO 7: Una vez aprobado el plano, se actualiza el estado constructivo ante ARBA
         actuación notarial; comprobante informativo del Sistema de Información
         Catastral.
         Fuente verificada: arba.gov.ar/GuiaTramites/
+
+REFERENCIA VERIFICADA SOBRE PROFESIONAL EN PARTIDO DE MERLO
+(www.paredestudio.com.ar):
+Documentación para regularización (planos de subsistencia) en Merlo:
+1. Plano de antecedentes municipales
+2. Factibilidad de servicios sanitarios (si corresponde)
+3. Recibo de ABSA si cuenta con servicios
+4. Factibilidad de EDENOR y/o Gas Natural FENOSA (si corresponde)
+5. Liquidación de derechos de construcción firmada por profesional y propietario
+6. Visado del Colegio de Arquitectos — Contrato obligatorio — Planilla Anexa
+   Estado de Obra — Liquidación — Copia de Plano
+Requisito verificado: "Solo el profesional arquitecto con matrícula provincial
+                       y municipal activa."
 
 
 ================================================================================
@@ -495,6 +575,19 @@ DEPARTAMENTO JUDICIAL MORÓN
 Competencia territorial verificada: Partido de Merlo pertenece al Departamento
 Judicial Morón para causas civiles, comerciales y contencioso-administrativas.
 
+DATOS VERIFICADOS SOBRE EL MUNICIPIO DE MERLO (argentina.gob.ar — PROCREAR):
+"El desarrollo urbanístico de Merlo se encuentra ubicado entre las calles Juana
+Manso, Avenida Argentina y Miguel Sanabria. La tipología 'casa unifamiliar'
+comprende: tanto casa unifamiliar como dúplex en propiedad horizontal."
+
+DATO HISTÓRICO VERIFICADO (Cámara Contencioso Administrativa — scba.gov.ar):
+"Dentro del Distrito III del Colegio de Arquitectos de la Pcia. de Bs. As.,
+la Municipalidad de Merlo es la única que pide este certificado [el de Uso
+Conforme — régimen anterior], implicando un doble permiso y que el dictamen es
+sobre el lote independientemente de la persona que lo solicite."
+NOTA ACLARATORIA: Este dato histórico describe el régimen ANTERIOR (Ord. 1163/97
+y 3334/09). Fue superado por la Ord. 5839/2021 que reemplazó ese mecanismo.
+
 
 ================================================================================
 SECCIÓN 10 — ÍNDICE DE FUENTES PRIMARIAS VERIFICADAS
@@ -518,9 +611,10 @@ SITIOS INSTITUCIONALES VERIFICADOS:
 - cauba3.org.ar (CAUBA Distrito 3 — delegacion-merlo y normativas-municipales)
 - normas.gba.gob.ar (Sistema Normativo Provincial)
 - arba.gov.ar y web.arba.gov.ar (ARBA — trámites y normativas catastrales)
-- argentina.gob.ar (CCyC, Ley 26.994, derechofácil)
+- argentina.gob.ar (CCyC, Ley 26.994, derechofácil, PROCREAR desarrollos urbanísticos)
 - scba.gov.ar (SCBA — fallos del fuero contencioso)
 - sibom.slyt.gba.gob.ar (Sistema de Boletines Oficiales Municipales — Pcia. Bs.As.)
+- paredestudio.com.ar (referencia profesional para regularización en Merlo)
 
 TEXTOS NORMATIVOS VERIFICADOS (texto completo o parcial):
 - CCyC Arts. 2037-2069 y 2073-2086 (codigocivilonline.com.ar / ligadelconsorcista.org)
