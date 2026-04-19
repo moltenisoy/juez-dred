@@ -881,7 +881,10 @@ PRECEDENTES RELEVANTES INCORPORADOS:
    Si bien se refiere a daños personales, fija los criterios para la
    cuantificación a "valores actuales" y el cómputo de intereses en la
    Provincia de Buenos Aires. Establece que la indemnización debe calcularse
-   al momento de la sentencia, no al momento del hecho dañoso.
+   al momento de la sentencia, no al momento del hecho dañoso. Su relevancia
+   para daños por construcción radica en que los mismos criterios de
+   actualización y cómputo de intereses son aplicables a la cuantificación
+   de daño emergente, privación de uso y daño moral en este caso.
    Fuente: SCBA, Causa C. 124.096.
 
 3. Cámara de Lomas de Zamora (2024):
