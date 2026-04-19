@@ -291,3 +291,98 @@ ENFOQUE 4 — PERITAJE (Aspectos técnicos periciales)
 ================================================================================
 FIN ARCHIVO 61
 ================================================================================
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — PRIORIZACIÓN ESTRATÉGICA DE LAS ONCE VÍAS: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. PRIORIZACIÓN ESTRATÉGICA DE LAS VÍAS — ORDEN DE URGENCIA
+────────────────────────────────────────────────────────────────────────────────
+Se priorizan las acciones según urgencia temporal y eficacia inmediata:
+
+   PRIORIDAD 1 — INMEDIATA (primeras 72 horas):
+   ✦ Acción 1: Acción preventiva urgente (Arts. 1710-1712 CCyCN + Art. 232 CPCCBA)
+     → Detener la fuente de daño. No requiere factor de atribución.
+   ✦ Acción 8: Denuncia municipal (Decreto-Ley 6769/58, Art. 27 inc. 1)
+     → Activar la inspección de oficio por la Municipalidad de Merlo.
+
+   PRIORIDAD 2 — CORTO PLAZO (primeras 2 semanas):
+   ✦ Acción 5: Denuncia penal por daño (Art. 183 Código Penal)
+     → Genera prueba con valor de instrumento público (acta policial, pericia).
+   ✦ Acción 9: Mediación obligatoria previa (Ley 13.951 PBA)
+     → Requisito previo ineludible para las acciones civiles 2, 3 y 4.
+
+   PRIORIDAD 3 — MEDIANO PLAZO (30-60 días post mediación):
+   ✦ Acción 2: Daños y perjuicios — responsabilidad objetiva (Arts. 1757-1758 CCyCN)
+   ✦ Acción 3: Daño moral (Art. 1741 CCyCN) — acumulable a la Acción 2
+   ✦ Acción 4: Daño punitivo si aplica (Art. 52 bis Ley 24.240, solo si hay
+     relación de consumo)
+
+   PRIORIDAD 4 — COMPLEMENTARIAS (durante el proceso):
+   ✦ Acción 6: Denuncia penal por peligro de estrago (Art. 186 Código Penal)
+   ✦ Acción 7: Acción de cese de obra nueva (Art. 2242 CCyCN)
+   ✦ Acción 10: Denuncia al CAPBA (Ley 10.405 PBA)
+   ✦ Acción 11: Denuncia al Consejo Profesional de Ingeniería
+
+2. PLAZOS LEGALES DE CADA VÍA
+────────────────────────────────────────────────────────────────────────────────
+   ACCIÓN | PLAZO DE PRESCRIPCIÓN / CADUCIDAD
+   ───────|──────────────────────────────────────────────────────────────────
+   1      | Sin plazo: mientras persista la amenaza (Arts. 1710-1712 CCyCN)
+   2-3    | 3 AÑOS desde cada daño (Art. 2561 CCyCN); en daño continuado,
+          | desde cesación de cada perjuicio (Art. 2554 CCyCN)
+   4      | 3 AÑOS (Art. 50 Ley 24.240)
+   5      | Delito de daño: acción penal prescribe a los 2 años (Art. 62 CP)
+   6      | Peligro de estrago: 12 años (Art. 62 CP, pena máx. 6 años)
+   7      | Mientras subsista la obra nueva (acción imprescriptible si hay
+          | turbación actual, Art. 2242 CCyCN)
+   8      | Sin plazo: denuncia administrativa permanente
+   9      | Mediación: debe iniciarse ANTES de la demanda civil
+   10-11  | Denuncias disciplinarias: 5 años (reglamentos CAPBA/CPI)
+
+   NOTA: La carta documento al responsable SUSPENDE la prescripción por 6
+   meses (Art. 2546 CCyCN). No la interrumpe ni reinicia.
+
+3. ACUMULACIÓN DE ACCIONES — REGLAS PROCESALES
+────────────────────────────────────────────────────────────────────────────────
+Art. 87 CPCCBA: "Podrán acumularse y ejercitarse simultáneamente las acciones
+que uno tenga contra una misma persona, siempre que sean de la competencia
+del mismo juez y puedan sustanciarse por los mismos trámites."
+
+Acciones ACUMULABLES en una sola demanda civil:
+   - Acción 2 (daños materiales) + Acción 3 (daño moral) + Acción 7 (cese
+     de obra nueva): MISMO juez, mismo trámite ordinario.
+   - La acción preventiva (Acción 1) puede tramitarse como cautelar dentro
+     del expediente de daños, evitando duplicar expedientes.
+
+Acciones NO ACUMULABLES (fueros distintos):
+   - Acciones civiles (2, 3, 4, 7) NO se acumulan con penales (5, 6).
+   - Acciones administrativas (8, 10, 11) tramitan en sedes propias.
+   - La mediación (9) es PREVIA, no simultánea a la demanda civil.
+
+4. COMPETENCIA PARA CADA VÍA
+────────────────────────────────────────────────────────────────────────────────
+   ACCIÓN | COMPETENCIA
+   ───────|──────────────────────────────────────────────────────────────────
+   1-4, 7 | Juzgado Civil y Comercial — Depto. Judicial MERLO (Ley 13.859)
+   5-6    | UFI (Unidad Fiscal de Instrucción) — Depto. Judicial MERLO
+   8      | Municipalidad de Merlo — Secretaría de Obras Particulares
+   9      | Centro de Mediación — Depto. Judicial MERLO (Ley 13.951)
+   10     | CAPBA Distrito V — Tribunal de Disciplina
+   11     | Consejo Profesional de Ingeniería PBA
+
+CORRECCIÓN IMPORTANTE: Todas las vías judiciales corresponden al Departamento
+Judicial de MERLO (Ley 13.859/2009), NO a Morón.
+
+5. CONSTITUCIÓN EN MORA DEL RESPONSABLE
+────────────────────────────────────────────────────────────────────────────────
+Art. 886 CCyCN: "La mora del deudor se produce por el solo transcurso del
+tiempo fijado para el cumplimiento de la obligación." En obligaciones sin
+plazo, la mora se constituye por interpelación (carta documento).
+La constitución en mora es presupuesto para reclamar intereses y para la
+suspensión del Art. 2546 CCyCN.
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 52 — ACCIONES LEGALES VERIFICADAS: ONCE VÍAS PROCESALES
+════════════════════════════════════════════════════════════════════════════════

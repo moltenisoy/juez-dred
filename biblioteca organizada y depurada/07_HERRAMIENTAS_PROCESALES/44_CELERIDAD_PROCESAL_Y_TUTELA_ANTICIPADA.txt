@@ -156,3 +156,90 @@ Obras citadas
 33. Ley 11922 - normas gba - Provincia de Buenos Aires |, fecha de acceso: abril 5, 2026, https://normas.gba.gob.ar/documentos/V9OGJUPx.html
 34. Se somete a consideración de vuestra honorabilidad el proyecto de ley que se adjunta para su s - Colegio de Abogados de San Martín, fecha de acceso: abril 5, 2026, http://www.casm.org.ar/subidas/CPCC-08-03-2019.pdf
 35. SUPREMA CORTE DE JUSTICIA PROVINCIA DE BUENOS AIRES DERECHO PROCESAL ELECTRÓNICO - SCBA, fecha de acceso: abril 5, 2026, https://www.scba.gov.ar/jurisprudencia/14%20-%20Derecho%20Procesal%20Electr%C3%B3nico.pdf
+================================================================================
+SECCIÓN COMPLEMENTARIA — TUTELA ANTICIPADA Y QUEJA POR RETARDO: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. TUTELA ANTICIPADA — Art. 232 CPCCBA (MEDIDAS CAUTELARES GENÉRICAS)
+────────────────────────────────────────────────────────────────────────────────
+El Art. 232 CPCCBA faculta al juez a decretar medidas cautelares no previstas
+expresamente en la ley, siempre que se acrediten:
+   a) Verosimilitud del derecho invocado (fumus boni iuris).
+   b) Peligro en la demora (periculum in mora).
+   c) Contracautela suficiente (real o juratoria, Art. 199 CPCCBA).
+
+En casos de daño edilicio continuado (filtraciones, riesgo estructural), la
+tutela anticipada del Art. 232 permite solicitar:
+   - Paralización de obra clandestina.
+   - Refuerzo estructural provisorio ordenado por el juez.
+   - Acceso al inmueble lindero para inspección pericial.
+
+IMPORTANTE: La tutela anticipada NO requiere sentencia previa. Se resuelve
+inaudita parte o con traslado breve según la urgencia (Art. 198 CPCCBA).
+
+2. MEDIDA AUTOSATISFACTIVA — DOCTRINA Y APLICACIÓN EN PBA
+────────────────────────────────────────────────────────────────────────────────
+La medida autosatisfactiva es un requerimiento urgente formulado al órgano
+jurisdiccional que se agota con su despacho favorable, sin necesidad de
+acción principal posterior. Requisitos (doctrina Peyrano, recepción en PBA):
+   a) Urgencia impostergable (el derecho se frustra si no se actúa de inmediato).
+   b) Fuerte probabilidad de que el derecho exista (certeza suficiente, no mera
+      verosimilitud).
+   c) La tutela no es cautelar sino definitiva: no accede a un proceso principal.
+
+Aplicación al caso de daño edilicio en Merlo:
+   - Si existe riesgo inminente de colapso (certificado por ingeniero), puede
+     solicitarse como autosatisfactiva la remoción del tanque de 750 kg o el
+     apuntalamiento de la losa.
+   - Competencia: Juzgado Civil y Comercial, Departamento Judicial MERLO
+     (Ley 13.859/2009, fueros operativos).
+
+3. VEROSIMILITUD DEL DERECHO VS. CONTRACAUTELA — RELACIÓN INVERSA
+────────────────────────────────────────────────────────────────────────────────
+Principio rector (SCBA, doctrina uniforme): A mayor verosimilitud del derecho
+acreditada, menor exigencia de contracautela; y viceversa.
+
+Gradación práctica:
+   - Verosimilitud ALTA (informes técnicos coincidentes, fotos con fecha cierta,
+     acta notarial): Contracautela juratoria es suficiente (Art. 199 CPCCBA).
+   - Verosimilitud MEDIA: El juez puede exigir caución real proporcionada.
+   - Casos de beneficio de litigar sin gastos (Art. 78 CPCCBA): La contracautela
+     queda eximida o reducida a caución juratoria.
+
+4. QUEJA POR RETARDO DE JUSTICIA — Art. 292 CPCCBA
+────────────────────────────────────────────────────────────────────────────────
+Cuando el juez de primera instancia no dicta resolución dentro del plazo legal,
+la parte puede interponer queja por retardo ante la Cámara de Apelaciones:
+
+Procedimiento (Arts. 292-293 CPCCBA):
+   a) Presentar pedido de pronto despacho ante el juez de la causa.
+   b) Si transcurren 5 días sin resolución: queda habilitada la queja.
+   c) La Cámara requiere informe al juez (plazo: 3 días).
+   d) Si la queja es procedente, la Cámara fija plazo para resolver (máx. 10 días)
+      y puede aplicar sanciones disciplinarias al magistrado (Art. 293 CPCCBA).
+
+Aplicación estratégica: En causas con daño continuado y peligro estructural,
+la queja por retardo es la herramienta idónea cuando el juez demora:
+   - La fijación de audiencia preliminar.
+   - El libramiento de la cédula de notificación al demandado.
+   - La designación de perito ingeniero para prueba anticipada (Art. 326 CPCCBA).
+
+5. DIFERENCIA ENTRE PRONTO DESPACHO Y QUEJA POR RETARDO
+────────────────────────────────────────────────────────────────────────────────
+   - PRONTO DESPACHO: Se presenta ante el MISMO juez. Es requisito previo
+     a la queja. Se funda en el deber de resolver en plazos legales.
+   - QUEJA (Art. 292 CPCCBA): Se presenta ante la CÁMARA. Es el paso siguiente
+     si el pronto despacho no fue atendido en 5 días.
+
+6. NOTA SOBRE COMPETENCIA — DEPARTAMENTO JUDICIAL MERLO
+────────────────────────────────────────────────────────────────────────────────
+Conforme Ley 13.859/2009, el Departamento Judicial de MERLO es el competente
+para causas civiles y comerciales originadas en el Partido de Merlo. Si bien
+la implementación fue progresiva, a la fecha los fueros operativos incluyen
+Civil y Comercial. Toda presentación cautelar, tutela anticipada o queja por
+retardo debe dirigirse a los órganos de Merlo.
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 44 — CELERIDAD PROCESAL Y TUTELA ANTICIPADA
+════════════════════════════════════════════════════════════════════════════════

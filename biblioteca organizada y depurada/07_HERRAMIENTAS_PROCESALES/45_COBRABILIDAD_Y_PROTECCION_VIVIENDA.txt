@@ -264,3 +264,92 @@ como dato de contexto para la valoración patrimonial.
 ================================================================================
 FIN DE TEMAS 2-3
 ================================================================================
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — PROTECCIÓN DE VIVIENDA Y EMBARGO: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. BIEN DE FAMILIA — LEY 14.394 Y TRANSICIÓN AL Art. 244 CCyCN
+────────────────────────────────────────────────────────────────────────────────
+La Ley 14.394 (régimen de bien de familia) fue derogada por el CCyCN vigente
+desde agosto 2015. Las inscripciones realizadas bajo la ley anterior mantienen
+su vigencia y se rigen ahora por los Arts. 244-256 CCyCN (Art. 7 CCyCN,
+aplicación inmediata de la ley nueva).
+
+Diferencias clave:
+   - Ley 14.394: Requería núcleo familiar; limitaba a un solo inmueble.
+   - Art. 244 CCyCN: Permite afectación por persona sola (sin familia);
+     mantiene límite de un solo inmueble afectado; no exige habitar el inmueble
+     si se acredita que es sede del hogar.
+
+2. INEMBARGABILIDAD DE LA VIVIENDA — ALCANCES Y LÍMITES
+────────────────────────────────────────────────────────────────────────────────
+Art. 249 CCyCN — Efectos de la afectación:
+   - La vivienda afectada NO es susceptible de ejecución por deudas
+     POSTERIORES a la inscripción registral.
+   - Excepción directamente aplicable al caso: inciso c) — obligaciones
+     originadas en "construcciones u otras mejoras" realizadas en la vivienda.
+
+INTERPRETACIÓN PARA EL CASO:
+   Si el demandado afectó su vivienda (Art. 244 CCyCN), el actor IGUALMENTE
+   puede ejecutar el crédito por daños edilicios si demuestra que la obligación
+   tiene "origen en construcciones" realizadas en dicho inmueble. La obra
+   clandestina lindera que causa daño al actor SE ORIGINÓ en mejoras/construcciones
+   del demandado, habilitando la ejecución sobre el inmueble afectado.
+
+3. PROTECCIÓN DE LA VIVIENDA CONYUGAL — Art. 456 CCyCN
+────────────────────────────────────────────────────────────────────────────────
+Art. 456 CCyCN establece que ninguno de los cónyuges puede, sin el asentimiento
+del otro, disponer de los derechos sobre la vivienda familiar ni de los muebles
+indispensables de ésta. Este artículo:
+   - NO impide el embargo judicial sobre el inmueble.
+   - SÍ impide la VENTA VOLUNTARIA sin conformidad conyugal.
+   - En subasta judicial, el juez puede prescindir del asentimiento conyugal
+     si el crédito es legítimo (Art. 456 in fine CCyCN).
+
+Consecuencia práctica: El Art. 456 CCyCN NO constituye un obstáculo para la
+ejecución forzada de una sentencia de daños contra el propietario demandado.
+
+4. EMBARGO SOBRE INMUEBLES — REQUISITOS PROCESALES (Art. 209 CPCCBA)
+────────────────────────────────────────────────────────────────────────────────
+Para trabar embargo sobre un inmueble del demandado en Merlo se requiere:
+   a) Verosimilitud del derecho (sentencia favorable o medida cautelar fundada).
+   b) Individualización del inmueble (datos registrales: partida, matrícula,
+      circunscripción, sección, manzana, parcela).
+   c) Inscripción en el Registro de la Propiedad Inmueble de PBA (Art. 209 CPCCBA,
+      concordante con Ley 17.801).
+   d) Monto del embargo: debe guardar proporción con el crédito reclamado más
+      un porcentaje para costas (habitualmente 30% adicional).
+
+Trámite: El juez libra oficio al Registro de la Propiedad Inmueble (RPBA),
+donde se anota preventivamente. El embargo impide la disposición del bien
+sin autorización judicial.
+
+5. SUBASTA JUDICIAL — PROCEDIMIENTO EN PBA
+────────────────────────────────────────────────────────────────────────────────
+La subasta judicial procede cuando:
+   - Existe sentencia firme de condena dineraria.
+   - El deudor no cumple voluntariamente (Art. 499 CPCCBA).
+   - El embargo fue inscripto previamente.
+
+Etapas principales:
+   a) Intimación de pago (Art. 505 CPCCBA, concordante con Art. 886 CCyCN —
+      constitución en mora).
+   b) Designación de martillero judicial (sorteo de lista, Art. 563 CPCCBA).
+   c) Informe de dominio, gravámenes e inhibiciones (Registro de la Propiedad).
+   d) Publicación de edictos (Art. 566 CPCCBA, 3 días en diario de circulación
+      del Departamento Judicial de MERLO).
+   e) Audiencia de subasta: base = 2/3 de la valuación fiscal o tasación pericial.
+   f) Aprobación judicial del remate y tradición al comprador.
+
+6. NOTA SOBRE DEPARTAMENTO JUDICIAL COMPETENTE
+────────────────────────────────────────────────────────────────────────────────
+Conforme Ley 13.859/2009, la competencia para tramitar embargos, ejecuciones
+y subastas sobre inmuebles ubicados en el Partido de Merlo corresponde al
+Departamento Judicial de MERLO. El Registro de la Propiedad Inmueble
+seccional Merlo interviene en las anotaciones preventivas.
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 45 — COBRABILIDAD Y PROTECCIÓN DE VIVIENDA
+════════════════════════════════════════════════════════════════════════════════

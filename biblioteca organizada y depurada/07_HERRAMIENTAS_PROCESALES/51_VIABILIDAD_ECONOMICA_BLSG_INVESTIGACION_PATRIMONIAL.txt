@@ -340,3 +340,100 @@ c) Peritos en general:
 ================================================================================
 FIN FICHA 57
 ================================================================================
+
+================================================================================
+SECCIÓN COMPLEMENTARIA — BLSG E INVESTIGACIÓN PATRIMONIAL: AMPLIACIÓN Y CORRECCIONES
+(Investigación complementaria — Abril 2026)
+================================================================================
+
+1. BENEFICIO DE LITIGAR SIN GASTOS — Art. 78 CPCCBA: DESARROLLO COMPLETO
+────────────────────────────────────────────────────────────────────────────────
+Art. 78 CPCCBA: "Los que carecieren de recursos podrán solicitar antes de
+presentar la demanda o en cualquier estado del proceso la concesión del
+beneficio de litigar sin gastos."
+
+Legitimados: actor, demandado o cualquier interviniente en el proceso.
+Oportunidad: puede pedirse ANTES de la demanda (trámite autónomo) o
+conjuntamente con ella, o en cualquier etapa posterior.
+
+2. PRUEBA DE INSUFICIENCIA DE RECURSOS — Art. 79 CPCCBA
+────────────────────────────────────────────────────────────────────────────────
+Art. 79 CPCCBA exige al solicitante acompañar:
+   a) Declaración jurada de bienes, ingresos y situación familiar.
+   b) Ofrecer TRES (3) testigos como mínimo que acrediten la imposibilidad
+      de afrontar los gastos del juicio.
+   c) Documentación respaldatoria: recibos de haberes, constancias de
+      monotributo/desempleo, certificados de cargas de familia, servicios
+      esenciales que acrediten nivel de vida.
+
+Estándar de prueba: No se exige indigencia absoluta. Basta demostrar que los
+gastos del juicio (tasa de justicia, honorarios, pericias) comprometerían
+seriamente la subsistencia del peticionante y su grupo familiar.
+
+Jurisprudencia SCBA: "El beneficio debe concederse con criterio amplio,
+bastando la demostración de que los gastos del litigio son susceptibles de
+provocar una disminución importante en las condiciones de vida del solicitante."
+
+3. ALCANCE DEL BENEFICIO CONCEDIDO
+────────────────────────────────────────────────────────────────────────────────
+Art. 84 CPCCBA — Efectos del beneficio:
+   a) Exención de la tasa de justicia y demás gastos judiciales.
+   b) Exención del depósito previo para recurrir (Art. 280 CPCCBA).
+   c) Designación de abogado y procurador de oficio si no tiene letrado
+      particular (Art. 84 inc. 4 CPCCBA).
+   d) Exención de contracautela para medidas cautelares (cautelar con
+      caución juratoria automática, Art. 199 CPCCBA).
+   e) Diferimiento de honorarios periciales al momento de la sentencia.
+
+LÍMITE: El beneficio NO exime de costas si pierde el juicio. Solo difiere
+su cobro y exime mientras dure el beneficio (Art. 84 in fine CPCCBA).
+
+Caducidad del beneficio: Si la situación patrimonial del beneficiario mejora
+sustancialmente, la contraparte puede solicitar su revocación (Art. 86 CPCCBA).
+
+4. INVESTIGACIÓN PATRIMONIAL DEL DEMANDADO — HERRAMIENTAS
+────────────────────────────────────────────────────────────────────────────────
+Para asegurar la cobrabilidad de una eventual sentencia, se puede solicitar
+al juez los siguientes informes:
+
+   a) REGISTRO DE LA PROPIEDAD INMUEBLE (RPBA):
+      - Informe de dominio: inmuebles a nombre del demandado.
+      - Gravámenes, embargos e inhibiciones vigentes.
+      - Matrícula de la propiedad lindera causante del daño.
+
+   b) DIRECCIÓN NACIONAL DE REGISTROS DE PROPIEDAD AUTOMOTOR (DNRPA):
+      - Vehículos registrados a nombre del demandado.
+
+   c) BANCO CENTRAL DE LA REPÚBLICA ARGENTINA (BCRA):
+      - Informe de cuentas bancarias (Central de Deudores).
+      - Depósitos a plazo fijo.
+
+   d) ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS (AFIP):
+      - Situación fiscal, categoría de monotributo o régimen general.
+      - Empleador/actividad declarada.
+
+   e) ANSES:
+      - Haberes jubilatorios o relación de dependencia registrada.
+
+Momento procesal: Estos informes pueden solicitarse como diligencia
+preliminar (Art. 323 CPCCBA) o como medida de prueba durante el proceso.
+
+5. ESTRATEGIA DE ASEGURAMIENTO PATRIMONIAL
+────────────────────────────────────────────────────────────────────────────────
+Secuencia recomendada para proteger la cobrabilidad:
+   1°) Solicitar informes registrales (RPBA, DNRPA) al iniciar la demanda.
+   2°) Con la información obtenida, trabar EMBARGO preventivo sobre bienes
+       identificados (Art. 209 CPCCBA).
+   3°) Si no se identifican bienes: solicitar INHIBICIÓN GENERAL (Art. 228
+       CPCCBA) para impedir disposición de cualquier bien registrable.
+   4°) Inscribir ANOTACIÓN DE LITIS sobre el inmueble lindero (Art. 229 CPCCBA).
+   5°) Renovar medidas cautelares cada 5 años (Art. 207 CPCCBA).
+
+6. NOTA SOBRE COMPETENCIA
+────────────────────────────────────────────────────────────────────────────────
+El BLSG y la investigación patrimonial se tramitan ante el Departamento
+Judicial de MERLO (Ley 13.859/2009), órgano competente para el caso.
+
+════════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 51 — VIABILIDAD ECONÓMICA, BLSG E INVESTIGACIÓN PATRIMONIAL
+════════════════════════════════════════════════════════════════════════════════
