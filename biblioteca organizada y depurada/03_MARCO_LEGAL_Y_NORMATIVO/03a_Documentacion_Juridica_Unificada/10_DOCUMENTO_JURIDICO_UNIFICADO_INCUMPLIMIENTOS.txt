@@ -9,6 +9,64 @@ Elaborado bajo protocolo JUEZITO-EL-ROBOTITO | Tres perspectivas jurídicas inde
 
 ⚠️ AVISO LEGAL OBLIGATORIO
 Este documento es un análisis jurídico asistencial elaborado con base en normativa verificada. No reemplaza el asesoramiento de un abogado matriculado. Las estrategias procesales, redacción de escritos y decisiones tácticas del expediente son responsabilidad exclusiva del profesional interviniente. Toda cita jurisprudencial debe ser verificada antes de su uso en actuaciones judiciales o extrajudiciales.
+
+================================================================================
+⚠️ AVISO ESPECIAL SOBRE CONTENIDO NO VERIFICADO AL 100% — LEER ANTES DE USAR
+================================================================================
+EN ESTE DOCUMENTO LOS FRAGMENTOS ESCRITOS EN MAYÚSCULAS COMPLETAS CORRESPONDEN A
+INFORMACIÓN QUE NO HA PODIDO SER VERIFICADA LITERALMENTE EN FUENTE PRIMARIA O CUYA
+INTERPRETACIÓN/APLICACIÓN AL CASO ES DOCTRINAL Y NO SURGE TEXTUALMENTE DE LA NORMA.
+DICHOS FRAGMENTOS REQUIEREN VERIFICACIÓN PROFESIONAL ANTES DE SER USADOS EN
+ACTUACIONES JUDICIALES O EXTRAJUDICIALES.
+
+LOS PUNTOS ESPECÍFICOS QUE CONTIENEN INFORMACIÓN NO VERIFICADA AL 100% SON:
+
+1. DECRETO 911/96 — SECCIÓN D: LA FRASE "ARNESES DE SEGURIDAD DE 5 PUNTOS" NO ESTÁ
+   EN EL TEXTO LITERAL DEL DECRETO (ART. 100 DICE "CINTURÓN DE SEGURIDAD TIPO ARNÉS"
+   SIN ESPECIFICAR NÚMERO DE PUNTOS DE ANCLAJE).
+
+2. DECRETO 911/96 — SECCIÓN D: LA MEDIDA "BARANDAS DE 1 M DE ALTURA" ES INCORRECTA
+   SEGÚN LA NORMATIVA VIGENTE: EL PASAMANO DEBE ESTAR A 90 CM DEL PISO (NO A 1 M)
+   CONFORME EL DECRETO 911/96 Y LA RESOLUCIÓN SRT 61/2023 QUE LO COMPLEMENTA.
+
+3. DECRETO 911/96 — SECCIÓN D: LA FRASE "MÁXIMO A 3 METROS DEL PLANO DE TRABAJO"
+   PARA LAS BANDEJAS/PANTALLAS NO REPRODUCE EL TEXTO LITERAL DEL DECRETO: LA NORMA
+   EXIGE BANDEJAS/PANTALLAS A PARTIR DE (DESDE) LOS 3 METROS DE ALTURA, NO COMO
+   LÍMITE MÁXIMO DE DISTANCIA AL PLANO DE TRABAJO.
+
+4. DECRETO-LEY 8912/77 — TABLA SECCIÓN III.D: LA DESCRIPCIÓN DEL DECRETO EN EL
+   DOCUMENTO ES INCORRECTA. NO REGULA DIRECTAMENTE LAS "CONDICIONES DE OBRA NI
+   RESPONSABILIDADES DEL COMITENTE O PROFESIONAL"; ES UNA NORMA DE ORDENAMIENTO
+   TERRITORIAL Y USO DEL SUELO.
+
+5. ART. 5° INC. 1° CPCCBA — SECCIÓN IX.2: EL INCISO CORRECTO PARA UNA ACCIÓN DE
+   DAÑOS Y PERJUICIOS (ACCIÓN PERSONAL) ES EL INC. 4° DEL ART. 5° CPCCBA (LUGAR
+   DONDE SE PRODUJERON LOS DAÑOS), NO EL INC. 1° (QUE ES PARA ACCIONES REALES).
+   EL RESULTADO PRÁCTICO ES IDÉNTICO (DJ DE MORÓN), PERO LA CITA DE INCISO ES
+   INCORRECTA.
+
+6. ART. 326 CPCCBA — SECCIÓN XI.1: EL TEXTO DEL ART. 326 CPCCBA RECUPERADO NO
+   PRESENTA LA SUBDIVISIÓN EN INCISOS 1°, 2° Y 3° QUE SE CITA EN EL DOCUMENTO.
+   LOS INCISOS CITADOS CORRESPONDEN AL ART. 326 DEL CÓDIGO PROCESAL NACIONAL
+   (CPCCN), NO AL PROVINCIAL (CPCCBA).
+
+7. ART. 378 CPCCBA — SECCIÓN XI.2: ESTE ARTÍCULO REGULA EL "OFRECIMIENTO DE PRUEBA"
+   (OPORTUNIDAD Y CARGA), NO LA ADMISIBILIDAD ESPECÍFICA DE PRUEBA ELECTRÓNICA/DIGITAL.
+   SU USO EN ESE CONTEXTO ES UNA INTERPRETACIÓN AMPLIA, NO UNA CITA LITERAL.
+
+8. ART. 18 CN — TABLA SECCIÓN III.B: LA "INVIOLABILIDAD DEL DOMICILIO" DEL ART. 18
+   CN ESTÁ REDACTADA PARA PROTEGER AL CIUDADANO FRENTE A LA ACCIÓN DEL ESTADO
+   (ALLANAMIENTO POLICIAL/JUDICIAL), NO PARA CONFLICTOS ENTRE PRIVADOS. SU
+   INVOCACIÓN EN UN RECLAMO CIVIL VECINAL ES DOCTRINAL/INDIRECTA.
+
+ADICIONALMENTE, SE IDENTIFICARON LOS SIGUIENTES ITEMS FALTANTES QUE SE AGREGAN EN
+SECCIONES CORRESPONDIENTES:
+- ART. 2561 CCyCN (PRESCRIPCIÓN 3 AÑOS PARA DAÑOS EXTRACONTRACTUALES) — AÑADIDO EN
+  SECCIÓN VIII.
+- ART. 2583 CCyCN (MEDIANERÍA — PRESUNCIÓN DE PARED MEDIANERA) — AÑADIDA CITA EN
+  PÁRRAFO DE MEDIANERÍA SECCIÓN II.E.
+- ART. 623 BIS CPCCBA (TUTELA ANTICIPADA) — AÑADIDO EN SECCIÓN XI.
+================================================================================
 	
 
 I. ENCUADRE GENERAL DEL CASO
@@ -88,9 +146,9 @@ D) Obligaciones de seguridad en obra NO cumplidas (Decreto 911/96)
 
 
 * El trabajo en altura sobre techos de terceros requiere un Programa de Seguridad aprobado por la ART (Aseguradora de Riesgos del Trabajo). No existe constancia de tal programa.
-* Arneses de seguridad de 5 puntos certificados, obligatorios para trabajos a más de 2 metros de altura (incluido el techo del vecino). Su ausencia pone en riesgo a operarios y habitantes del lindero.
-* Pantallas y bandejas de protección contra caída de objetos sobre el techo del vecino (máximo a 3 metros del plano de trabajo).
-* Andamios metálicos estables con plataformas antideslizantes de al menos 0,60 m de ancho, barandas de 1 m de altura y zócalos.
+* ARNESES DE SEGURIDAD CERTIFICADOS OBLIGATORIOS PARA TRABAJOS A MÁS DE 2 METROS DE ALTURA (INCLUIDO EL TECHO DEL VECINO). SU AUSENCIA PONE EN RIESGO A OPERARIOS Y HABITANTES DEL LINDERO. [NO VERIFICADO LITERALMENTE: EL ART. 100 DEL DECRETO 911/96 DICE "CINTURÓN DE SEGURIDAD TIPO ARNÉS" SIN ESPECIFICAR "5 PUNTOS"; USAR ESTA TERMINOLOGÍA CON CAUTELA EN ACTUACIONES FORMALES.]
+* PANTALLAS Y BANDEJAS DE PROTECCIÓN CONTRA CAÍDA DE OBJETOS SOBRE EL TECHO DEL VECINO, OBLIGATORIAS DESDE LOS 3 METROS DE ALTURA DEL PLANO DE TRABAJO CONFORME DECRETO 911/96. [NO VERIFICADO LITERALMENTE: LA VERSIÓN ANTERIOR DECÍA "MÁXIMO A 3 METROS DEL PLANO DE TRABAJO", LO QUE INVIERTE EL SENTIDO DE LA NORMA; LA OBLIGACIÓN RIGE A PARTIR DE (DESDE) 3 METROS DE ALTURA, NO COMO LÍMITE MÁXIMO DE DISTANCIA.]
+* ANDAMIOS METÁLICOS ESTABLES CON PLATAFORMAS ANTIDESLIZANTES DE AL MENOS 0,60 M DE ANCHO, PASAMANO A 90 CM DE ALTURA, BARRA INTERMEDIA Y ZÓCALOS/RODAPIÉS DE 15 CM (CONFORME DECRETO 911/96 Y RES. SRT 61/2023). [NO VERIFICADO LITERALMENTE: LA VERSIÓN ANTERIOR DECÍA "BARANDAS DE 1 M DE ALTURA", LO QUE NO COINCIDE CON LA NORMATIVA VIGENTE QUE FIJA EL PASAMANO A 90 CM DEL PISO.]
 * Señalización y delimitación de áreas de riesgo. Protección de claraboyas y aberturas del techo del vecino.
 * El depósito de materiales, escombros o maquinaria sobre el techo del vecino sin protecciones es motivo de sanción inmediata (Municipalidad de Merlo).
 
@@ -99,9 +157,9 @@ E) Obligaciones de vecindad vulneradas (CCyC)
 
 
 * Art. 1977 CCyC — Acceso indispensable: aunque quien construye puede solicitar el uso temporal del predio lindero, DEBE REPARAR TODOS LOS DAÑOS CAUSADOS y minimizar las molestias. El demandado NO reparó nada.
-* Art. 2616 CCyC — Responsabilidad por daños: el propietario es responsable por toda caída de materiales, filtraciones o grietas producidas por uso de maquinaria pesada sobre el techo vecino.
+* Arts. 1757 y 1977 CCyC — Responsabilidad por daños: el propietario que realiza una obra de construcción responde por toda caída de materiales, filtraciones o grietas producidas por el uso de maquinaria sobre el techo del vecino, en virtud de la responsabilidad objetiva por actividad riesgosa (Art. 1757) y la obligación expresa de reparar todos los daños causados al usar el predio lindero (Art. 1977). [NOTA CORRECTIVA: El Art. 2616 CCyCN originalmente citado en esta línea es "Capacidad" en materia de Derecho Internacional Privado, norma sin ninguna vinculación con el objeto de esta cita; fue reemplazado por la base legal correcta.]
 * Art. 2630 CCyC — Aguas pluviales: los nuevos techos deben diseñarse para que las aguas caigan sobre el propio suelo. Está prohibido el desagüe sobre el terreno o techo del vecino. El demandado modificó el sistema de desagote del techo del inmueble de la parte actora.
-* Medianería: cualquier modificación que afecte la pared medianera debe ser acordada. Si la nueva planta se apoya en muro medianero, el vecino tiene derecho a reclamar el valor de la mitad de la pared utilizada.
+* Medianería (Art. 2583 CCyCN): toda pared enclavada en la línea divisoria de predios se presume medianera. Cualquier modificación que afecte la pared medianera debe ser acordada. Si la nueva planta se apoya en muro medianero, el vecino tiene derecho a reclamar el valor de la mitad de la pared utilizada.
 * Norma CIRSOC 101: la sobrecarga de diseño para locales residenciales es de 200 kg/m². La reubicación de una carga de 750+ kg sobre losa flotante del vecino excede los parámetros de seguridad y fue ejecutada sin estudio estructural alguno.
 
 
@@ -162,9 +220,9 @@ NORMA
 	Art. 1977 CCyC
 	Uso del predio lindero — derecho y límites
 	Quien usa el predio del vecino para trabajar debe reparar todos los daños causados. El demandado usó el techo ajeno y no reparó ningún daño.
-	Art. 2616 CCyC
+	Arts. 1757 y 1977 CCyC
 	Responsabilidad por caída de materiales
-	El propietario responde por caída de materiales, filtraciones o grietas producidas por uso de maquinaria sobre techo vecino.
+	El propietario que realiza una actividad riesgosa de construcción responde por caída de materiales, filtraciones o grietas sobre el inmueble vecino (Art. 1757, responsabilidad objetiva). Art. 1977 obliga a reparar todos los daños causados al usar el predio lindero. [NOTA CORRECTIVA: El Art. 2616 CCyCN originalmente citado aquí es "Capacidad" en Derecho Internacional Privado y fue reemplazado por la base legal correcta.]
 	Art. 2630 CCyC
 	Aguas pluviales
 	Prohíbe el desagüe de aguas pluviales sobre el terreno o techo del vecino. El demandado modificó el sistema de desagote de la parte actora, violando esta norma.
@@ -184,7 +242,7 @@ NORMA
 	La propiedad es inviolable. El ingreso al inmueble ajeno y las modificaciones realizadas sin consentimiento violan este principio.
 	Art. 18 CN
 	Inviolabilidad del domicilio
-	El trabajo sobre el techo del inmueble y las modificaciones realizadas en él vulneran la inviolabilidad del domicilio.
+	EL ARTÍCULO 18 CN PROTEGE AL CIUDADANO FRENTE A INTROMISIONES DEL ESTADO (ALLANAMIENTO POLICIAL O JUDICIAL). SU APLICACIÓN DIRECTA A CONFLICTOS ENTRE PRIVADOS ES DOCTRINAL E INDIRECTA, NO SURGE TEXTUALMENTE DEL ARTÍCULO. [CITA DE APLICACIÓN INDIRECTA: PUEDE INVOCARSE POR ANALOGÍA SISTÉMICA PARA REFORZAR EL ARGUMENTO, PERO NO COMO NORMA DE APLICACIÓN DIRECTA EN UN PROCESO CIVIL ENTRE PARTICULARES.]
 	Art. 19 CN — Fallos 308:1109 CSJN
 	Alterum non laedere (principio constitucional)
 	La CSJN consagró el principio de no dañar a otro como de rango constitucional autónomo. Su violación es suficiente para fundar el deber de reparar.
@@ -215,7 +273,7 @@ NORMA
 	CÓMO APLICA AL CASO
 	Decreto-Ley 8912/77
 	Ordenamiento Territorial y Uso del Suelo PBA
-	Regula las condiciones de obra y las responsabilidades del comitente y el profesional actuante en toda la Provincia de Buenos Aires.
+	NORMA DE ORDENAMIENTO TERRITORIAL Y USO DEL SUELO — NO REGULA DIRECTAMENTE LAS CONDICIONES DE OBRA NI LAS RESPONSABILIDADES DEL COMITENTE O PROFESIONAL ACTUANTE. [LA DESCRIPCIÓN ANTERIOR ERA INCORRECTA.] SU APLICACIÓN AL CASO ES EN CUANTO TIPIFICA LA INFRACCIÓN DE CONSTRUIR O AMPLIAR SIN RESPETAR LOS INDICADORES DE USO DEL SUELO (FOS/FOT) Y LAS CONDICIONES URBANÍSTICAS PARA LA ZONA. LA REGULACIÓN DE CONDICIONES DE OBRA Y RESPONSABILIDADES PROFESIONALES CORRESPONDE AL CÓDIGO DE EDIFICACIÓN MUNICIPAL Y A LA NORMATIVA DEL CAPBA.
 	Código de Edificación — Partido de Merlo (Ordenanza N° 757/2000 y modif.)
 	Regulación técnica de toda obra edilicia
 	Establece todos los requisitos técnicos que la obra debió cumplir: planos, cálculo estructural, director de obra. Su violación es fuente adicional de antijuridicidad.
@@ -525,15 +583,48 @@ En la Sección de Mediación Previa Obligatoria (Vía C), se cita "art. 3986 del
 norma de interrupción de la prescripción. Dicho artículo pertenece al Código Civil de Vélez
 Sársfield, derogado por la Ley 26.994. Las normas vigentes sobre interrupción y suspensión
 de la prescripción en el CCyCN son:
-• Art. 2541 CCyCN — Interrupción por reconocimiento del obligado.
+• Art. 2541 CCyCN — Suspensión por interpelación fehaciente (carta documento): el curso de
+  la prescripción se suspende, por una sola vez, por la interpelación fehaciente hecha por
+  el titular del derecho contra el deudor o poseedor. Esta suspensión sólo tiene efecto
+  durante seis (6) meses o el plazo menor que corresponda a la prescripción de la acción.
+  [NOTA CORRECTIVA: Este artículo fue originalmente citado con el título erróneo
+  "Interrupción por reconocimiento del obligado"; el texto correcto es "Suspensión por
+  interpelación fehaciente". La interrupción por reconocimiento corresponde al Art. 2545.]
 • Art. 2542 CCyCN — Suspensión por pedido de mediación: el curso de la prescripción se
   suspende desde la expedición del formulario de mediación hasta veinte (20) días contados
   desde el momento en que el acta de cierre del procedimiento de mediación se encuentre a
   disposición de las partes.
-• Art. 2544 CCyCN — Interrupción por petición judicial (demanda).
-• Art. 2545 CCyCN — Duración de los efectos: la interrupción del curso de la prescripción
-  por petición judicial tiene efecto retroactivo al día de la presentación.
+• Art. 2545 CCyCN — Interrupción por reconocimiento del obligado: el curso de la
+  prescripción se interrumpe por el reconocimiento que el deudor o poseedor efectúa del
+  derecho de aquel contra quien prescribe. [NOTA CORRECTIVA: Este artículo fue
+  originalmente citado como "Duración de los efectos / efecto retroactivo"; ese título
+  corresponde en rigor a Art. 2544 (Efectos). La interrupción por reconocimiento es
+  Art. 2545.]
+• Art. 2546 CCyCN — Interrupción por petición judicial (demanda): el curso de la
+  prescripción se interrumpe por toda petición del titular del derecho ante autoridad
+  judicial que traduzca la intención de no abandonarlo contra el deudor o poseedor.
+  [NOTA CORRECTIVA: Este artículo fue originalmente citado como Art. 2544; el número
+  correcto para "Interrupción por petición judicial" es Art. 2546.]
+• Art. 2544 CCyCN — Efectos de la interrupción: el efecto de la interrupción de la
+  prescripción es tener por no sucedido el lapso que la precede e iniciar un nuevo plazo
+  de prescripción completo desde que cesa la causa de la interrupción.
 La Ley 13.951 PBA (mediación obligatoria) debe leerse en conjunto con estas normas del CCyCN.
+
+8.3. Artículo faltante — Art. 2561 CCyCN (Prescripción de 3 años para daños)
+El Art. 2561 CCyCN establece que prescribe a los tres (3) años el reclamo de
+indemnización de daños derivados de la responsabilidad civil extracontractual. Este
+artículo es el fundamento de la prescripción aplicable a la acción de daños y perjuicios
+del caso, y debe citarse expresamente en la demanda para fijar el plazo de prescripción
+vigente. El plazo corre desde que el damnificado conoció o pudo conocer el daño y su
+responsable (Art. 2561 en conjunción con Art. 2564 CCyCN sobre el cómputo).
+Normas de prescripción relevantes del caso:
+• Art. 2561 CCyCN — Prescripción: 3 años para reclamo de daños extracontractuales.
+• Art. 2541 CCyCN — Suspensión por interpelación fehaciente (carta documento): 6 meses.
+• Art. 2542 CCyCN — Suspensión por mediación.
+• Art. 2545 CCyCN — Interrupción por reconocimiento del obligado.
+• Art. 2546 CCyCN — Interrupción por petición judicial (demanda).
+• Art. 2544 CCyCN — Efectos de la interrupción: el plazo anterior se pierde y comienza
+  un nuevo plazo completo.
 
 8.2. Corrección de la referencia al Art. 1113 CC
 En la sección de Zonas de Incertidumbre (línea sobre "Responsabilidad objetiva"), se cita
@@ -550,8 +641,12 @@ al Departamento Judicial de MORÓN. Las referencias a "Departamento Judicial de 
 este documento son CORRECTAS.
 
 9.2. Fundamento procesal:
-• Art. 5°, inc. 1° del CPCCBA (Decreto-Ley 7425/1968): en acciones reales sobre inmuebles,
-  es juez competente el del lugar donde está situada la cosa litigiosa.
+• Art. 5°, inc. 4° del CPCCBA (Decreto-Ley 7425/1968): en acciones por daños y perjuicios
+  derivados de hechos o derechos reales sobre inmuebles, es juez competente el del lugar
+  donde los daños se produjeron. [CORRECCIÓN: LA VERSIÓN ANTERIOR CITABA "INC. 1°" QUE
+  REGULA ACCIONES REALES SOBRE INMUEBLES. LA ACCIÓN DE DAÑOS Y PERJUICIOS ES UNA
+  ACCIÓN PERSONAL, POR LO QUE EL INCISO APLICABLE ES EL 4°. EL RESULTADO PRÁCTICO
+  ES IDÉNTICO: DEPARTAMENTO JUDICIAL DE MORÓN.]
 • El inmueble dañado se sitúa en el Partido de Merlo → Departamento Judicial de Morón.
 
 9.3. Direcciones y datos de contacto: verificar con la Suprema Corte de Justicia de la
@@ -598,18 +693,32 @@ XI. AMPLIACIÓN SOBRE ESTRATEGIA PROBATORIA
 11.1. Prueba anticipada (Art. 326 CPCCBA)
 Antes de iniciar la demanda, el damnificado puede solicitar la producción anticipada de
 prueba cuando exista urgencia en asegurar elementos probatorios que podrían desaparecer o
-alterarse. En particular:
-• Constatación judicial del estado del inmueble (Art. 326, inc. 1° CPCCBA).
+alterarse. El Art. 326 CPCCBA autoriza el aseguramiento de prueba antes del proceso
+principal siempre que exista motivo fundado de que no pueda practicarse en el momento
+oportuno. En particular:
+• Constatación judicial del estado del inmueble.
 • Pericia técnica anticipada sobre niveles de humedad, estado de la instalación eléctrica
-  y relevamiento de fisuras (Art. 326, inc. 3° CPCCBA).
+  y relevamiento de fisuras.
 • Declaración testimonial anticipada si los testigos fueran de edad avanzada o estuvieran
-  por ausentarse del país (Art. 326, inc. 2° CPCCBA).
+  por ausentarse del país.
+[NOTA: LA VERSIÓN ANTERIOR CITABA "ART. 326 INC. 1°/2°/3° CPCCBA". EL TEXTO DEL
+ART. 326 CPCCBA RECUPERADO NO PRESENTA LA SUBDIVISIÓN EN INCISOS NUMERADOS QUE SE
+CITA. ESA SUBDIVISIÓN CORRESPONDE AL ART. 326 DEL CÓDIGO PROCESAL NACIONAL (CPCCN),
+NO AL PROVINCIAL (CPCCBA). SE MANTIENE LA CITA AL ART. 326 CPCCBA EN FORMA GENERAL,
+SIN INCISOS ESPECÍFICOS, HASTA VERIFICACIÓN CON EL TEXTO OFICIAL ACTUALIZADO DEL CPCCBA.]
 
 11.2. Prueba electrónica y su preservación
 Los mensajes de texto, correos electrónicos, audios de WhatsApp y publicaciones en redes
 sociales del demandado que evidencien conocimiento de los daños son prueba documental
-válida en el proceso civil (Art. 378 CPCCBA). Para su incorporación, se recomienda:
-• Acta notarial de constatación del contenido digital (Art. 312 CCyCN).
+válida en el proceso civil. Su admisibilidad resulta del principio de amplitud probatoria
+del CPCCBA. [NOTA: LA VERSIÓN ANTERIOR CITABA "ART. 378 CPCCBA" PARA VALIDAR LA
+PRUEBA ELECTRÓNICA. ESE ARTÍCULO REGULA LA OPORTUNIDAD DEL OFRECIMIENTO DE PRUEBA
+Y LA CARGA PROBATORIA, NO LA ADMISIBILIDAD ESPECÍFICA DE PRUEBA DIGITAL. LA VALIDEZ
+DE LA PRUEBA ELECTRÓNICA SURGE DEL PRINCIPIO GENERAL DE AMPLITUD PROBATORIA DEL
+CPCCBA Y DE LA DOCTRINA JUDICIAL, NO DEL ART. 378 EN FORMA LITERAL.] Para su
+incorporación, se recomienda:
+• Acta notarial de constatación del contenido digital (Art. 312 CCyCN — el acta notarial
+  es instrumento público cuando fue extendida conforme a la ley notarial).
 • Preservación mediante captura de pantalla con metadatos visibles.
 • Ofrecimiento como prueba informativa dirigida a las empresas prestadoras (Meta, Google)
   si el demandado eliminara el contenido.
@@ -620,6 +729,23 @@ El caso requiere al menos CUATRO pericias independientes:
 (b) Pericia de ingeniería eléctrica: estado de la instalación, riesgo vigente.
 (c) Pericia médica: afecciones respiratorias, alergias, consecuencias de la exposición.
 (d) Pericia psicológica: daño moral, estrés postraumático, afectación de la vida social.
+
+11.4. Tutela anticipada — Art. 623 bis CPCCBA (faltante incorporado)
+El Art. 623 bis CPCCBA habilita al juez, a pedido de parte, a ordenar antes de dictar
+sentencia definitiva las medidas necesarias para evitar daños graves o de difícil
+reparación ulterior, anticipando total o parcialmente los efectos de la sentencia. Es
+aplicable cuando: (1) la naturaleza de la pretensión genera peligro en la demora, y (2)
+se presta caución suficiente. En el caso concreto, puede solicitarse mediante este
+instituto:
+• Orden de cese inmediato de obras en contravención que continúen generando daños.
+• Orden de impermeabilización provisoria del techo del inmueble actor para frenar
+  filtraciones y deterioro progresivo.
+• Orden de reparación provisoria del sistema de desagote pluvial alterado.
+• Orden de colocación de barreras/protecciones sobre el tablero eléctrico expuesto.
+La tutela anticipada no implica prejuzgamiento y es apelable en efecto devolutivo.
+Debe presentarse con prueba sumaria de verosimilitud del derecho (fotografías con EXIF,
+informe de electricista, medición de humedad) y peligro concreto en la demora (riesgo de
+electrocución, derrumbe de cielorraso, deterioro progresivo).
 
 
 ================================================================================
