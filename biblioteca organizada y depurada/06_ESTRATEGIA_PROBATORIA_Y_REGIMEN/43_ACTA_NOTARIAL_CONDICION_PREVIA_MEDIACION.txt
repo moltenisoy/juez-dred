@@ -390,7 +390,8 @@ SECCIÓN COMPLEMENTARIA — ACTA NOTARIAL Y MEDIACIÓN: AMPLIACIÓN Y CORRECCION
 
 1. REQUISITOS DEL ACTA NOTARIAL DE CONSTATACIÓN
    Para que el acta notarial tenga pleno valor probatorio en juicio civil
-   ante el Departamento Judicial de Merlo (Ley 13.859/2009), debe contener:
+   ante el Departamento Judicial de Morón (que tiene competencia sobre el
+   Partido de Merlo), debe contener:
    a) DATOS DEL ESCRIBANO: nombre, matrícula, registro notarial, domicilio
       legal del registro. Debe estar habilitado para actuar en el Partido
       de Merlo conforme jurisdicción notarial.
@@ -444,7 +445,7 @@ SECCIÓN COMPLEMENTARIA — ACTA NOTARIAL Y MEDIACIÓN: AMPLIACIÓN Y CORRECCION
 
    PASO 1 — SORTEO DEL MEDIADOR:
    El requirente (futuro actor) solicita sorteo de mediador ante la
-   Receptoría General de Expedientes del Departamento Judicial de Merlo.
+   Receptoría General de Expedientes del Departamento Judicial de Morón.
    El sistema informático asigna un mediador habilitado por el Ministerio
    de Justicia de la Provincia de Buenos Aires.
 

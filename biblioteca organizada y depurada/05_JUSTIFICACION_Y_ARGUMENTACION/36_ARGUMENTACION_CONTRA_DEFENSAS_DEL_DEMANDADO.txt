@@ -327,11 +327,10 @@ SECCIÓN COMPLEMENTARIA — DEFENSAS DEL DEMANDADO: AMPLIACIÓN Y CORRECCIONES
 (Investigación complementaria — Abril 2026)
 ================================================================================
 
-1. CORRECCIÓN JURISDICCIONAL
-   El Departamento Judicial competente es MERLO (Ley 13.859/2009), NO Morón.
-   El Partido de Merlo integra el Departamento Judicial de Merlo desde
-   diciembre de 2009. Toda mención a "Departamento Judicial Morón" en este
-   archivo debe leerse como "Departamento Judicial MERLO".
+1. NOTA JURISDICCIONAL
+   El Departamento Judicial competente es MORÓN. La Ley 13.859/2009 creó el
+   DJ Merlo pero NO está operativo. Las menciones a "Departamento Judicial
+   Morón" en este archivo son CORRECTAS.
 
 2. REFUTACIÓN DE LA DEFENSA DE CASO FORTUITO O FUERZA MAYOR (Art. 1730 CCyCN)
    El demandado podría invocar caso fortuito (Art. 1730 CCyCN) alegando que

@@ -1422,11 +1422,10 @@ AMPLIACIÓN Y CORRECCIONES
 (Investigación complementaria — Abril 2026)
 ================================================================================
 
-1. CORRECCIÓN JURISDICCIONAL
-   El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL MERLO, creado por
-   Ley 13.859 (B.O. 17/12/2009). Cualquier referencia a "Departamento Judicial
-   Morón" en relación al caso debe corregirse. Los juzgados civiles y
-   comerciales competentes se radican en Merlo (no en Morón).
+1. NOTA JURISDICCIONAL
+   El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MORÓN (la Ley
+   13.859/2009 creó el DJ de Merlo pero NO está operativo). Los juzgados civiles
+   y comerciales competentes se radican en Morón.
 
 2. CORROSIÓN ELECTROQUÍMICA — DESARROLLO TÉCNICO AMPLIADO
    La corrosión electroquímica constituye el mecanismo principal de degradación
