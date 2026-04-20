@@ -43,7 +43,7 @@ Norma	Contenido	Aplicación al caso
 Const. PBA Art. 15	Tutela judicial efectiva y diferenciada; resolución en tiempo útil	Habilita celeridad procesal por riesgo vital e inhabilidad
 CPCCBA Art. 623 bis	Denuncia de daño temido; interdicto de obra ruinosa	Procedencia por peligro de derrumbe y electrocución
 Ley 13.951	Mediación prejudicial obligatoria	Agotamiento previo con acta de cierre sin acuerdo (adjuntar)
-Ley 15.513 (Reforma 2024)	Celeridad en procesos urgentes; tutela anticipada	Procedencia de medidas autosatisfactivas por peligro inminente
+Ley 15.513 (Reforma 2024)	Reforma procesal de alimentos; NO aplicable directamente a daños edilicios	[NOTA: Esta ley reformó el proceso de cuota alimentaria, no el régimen de tutela anticipada general. Para medidas autosatisfactivas en daños urgentes, ver Art. 623 bis CPCCBA y doctrina de tutela diferenciada]
 Ley 8912/77 (Ordenamiento Territorial)	Indicadores urbanísticos (FOS/FOT)	Modificación clandestina de densidad edificable sin aprobación
 D. NIVEL MUNICIPAL - PARTIDO DE MERLO
 segment.table
@@ -67,7 +67,7 @@ Documento Requerido	Estado	Consecuencia Legal
 Expediente de Obra / Permiso de Ampliación	INEXISTENTE	Obra clandestina; violación Art. 167 y 209 Cód. Edif. Merlo
 Plano Municipal Aprobado (A Construir)	NO PRESENTADO	Imposibilidad técnica de haber solicitado permiso legal
 Plano Estructural con Memoria de Cálculo	AUSENTE	Imposibilidad de acreditar capacidad de carga para 750kg+maquinaria
-Plano Instalaciones Sanitarias (modificación compartida)	NO EXISTE	Violación Ley 2166 CCCN; alteración ilegal servidumbre
+Plano Instalaciones Sanitarias (modificación compartida)	NO EXISTE	Violación Art. 2166 CCCN; alteración ilegal servidumbre
 Carátula Reglamentaria	OMITIDA	Falta de datos catastrales verificables
 Certificado Libre Deuda TISH/ABL	NO POSEÍDO (imposible con obra en curso sin permiso)	Obra iniciada sin requisitos previos
 Carnet Municipal Director Técnico	NO ACREDITADO	Responsabilidad directa del propietario por obra sin dirección técnica habilitada
