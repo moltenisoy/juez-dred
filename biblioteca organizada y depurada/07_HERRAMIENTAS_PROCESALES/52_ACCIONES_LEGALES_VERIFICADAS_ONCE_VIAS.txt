@@ -77,10 +77,10 @@ losa deteriorada.
 ACCION 7 — DENUNCIA PENAL POR ESTRAGO CULPOSO
 ================================================================================
 VIA: Penal.
-FUNDAMENTO NORMATIVO: Código Penal Art. 189 (conforme Ley 25.189).
+FUNDAMENTO NORMATIVO: Código Penal Art. 189, 2do párrafo (estrago culposo).
 PENA: 1 mes a 1 año de prisión. Hasta 5 años si resultare peligro de muerte
 o muerte.
-TRIBUNAL COMPETENTE: UFI del Departamento Judicial Morón.
+TRIBUNAL COMPETENTE: UFI del Departamento Judicial Merlo.
 HECHOS CONFIGURANTES: Instalación irregular de un conjunto de aproximadamente
 800 kg sobre una losa de más de 30 años de antigüedad, con daños estructurales
 documentados (rajaduras, desprendimientos, filtraciones). La situación configura

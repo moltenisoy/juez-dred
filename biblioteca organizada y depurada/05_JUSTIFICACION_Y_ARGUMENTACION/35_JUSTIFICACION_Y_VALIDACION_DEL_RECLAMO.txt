@@ -347,7 +347,7 @@ H) NORMATIVA TÉCNICA:
 I) NORMATIVA PROCESAL:
 ------------------------
 • CPCCBA (Código Procesal Civil y Comercial de la PBA — Ley 7.425):
-  — Art. 313: Requisitos formales de la demanda.
+  — Art. 330: Requisitos formales de la demanda.
   — Art. 623 bis: Denuncia de daño temido e interdicto de obra ruinosa.
   — Arts. 457-474: Prueba pericial.
 • CADH Art. 8.1: Derecho a un plazo razonable de resolución judicial.
@@ -905,8 +905,8 @@ DEC-LEY 8.751/77 (Código de Faltas Municipal)
 LEY 11.769 (Seguridad eléctrica PBA)
 LEY 11.820 (Agua y cloacas PBA)
 LEY 13.951 (Mediación obligatoria)
-LEY 15.513/2024 (Aceleración procesal)
-CPCCBA (Ley 7.425): Arts. 313, 457-474, 623 bis
+LEY 15.513/2024 (Reforma proceso alimentos; NO aplicable a daños edilicios)
+CPCCBA (Ley 7.425): Arts. 330, 457-474, 623 bis
 CADH: Art. 8.1
 RES. SC 829-2017
 ORD. MERLO 757/2000: Arts. 167, 209-211, 343, 391
