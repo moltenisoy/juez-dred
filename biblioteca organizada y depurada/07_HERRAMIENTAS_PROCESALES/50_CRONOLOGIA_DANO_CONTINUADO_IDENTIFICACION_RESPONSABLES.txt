@@ -11,9 +11,9 @@ SECCIÓN A - CRONOLOGÍA MODELO PARA DAÑO CONTINUADO
 ================================================================================
 
 NORMATIVA APLICABLE:
-- Art. 2571 CCCN: Plazo genérico de prescripción de TRES (3) AÑOS para la
+- Art. 2561 CCyCN: Plazo genérico de prescripción de TRES (3) AÑOS para la
   acción de daños y perjuicios.
-- Art. 2573 CCCN: En caso de DAÑO CONTINUO, el plazo de prescripción se
+- Art. 2554 CCyCN: En caso de DAÑO CONTINUO, el plazo de prescripción se
   computa desde la CESACIÓN del daño. Mientras el daño continúe produciéndose,
   el plazo prescriptivo no comienza a correr.
 
@@ -134,9 +134,9 @@ Evidencia sugerida:
 - Escrito de demanda con toda la documentación respaldatoria acumulada en
   los hitos anteriores.
 - La demanda debe interponerse DENTRO DE LOS 3 AÑOS contados desde la
-  última manifestación del daño (Art. 2573 CCCN).
+  última manifestación del daño (Art. 2554 CCyCN).
 - Si el daño es continuo y persiste al momento de demandar, el plazo de
-  prescripción no ha comenzado a correr, conforme la regla del art. 2573.
+  prescripción no ha comenzado a correr, conforme la regla del Art. 2554 CCyCN.
 
 CÁLCULO PRESCRIPTIVO: Si la última manifestación verificable del daño
 ocurrió en fecha X, la demanda debe interponerse antes de X + 3 años.
@@ -280,7 +280,7 @@ VALOR ESTRATÉGICO DE LA CRONOLOGÍA:
    construcción del caso. Cada hito genera evidencia que se acumula y
    fortalece progresivamente la posición del demandante.
 
-2. El carácter continuo del daño (art. 2573 CCCN) es la principal protección
+2. El carácter continuo del daño (Art. 2554 CCyCN) es la principal protección
    contra la defensa de prescripción. Mientras el daño persista, el plazo no
    comienza a correr. La documentación cronológica periódica (fotos mensuales,
    informes técnicos de seguimiento) es esencial para acreditar la continuidad.
@@ -322,7 +322,7 @@ ANÁLISIS DE RIESGOS:
 
 1. La cronología documentada dificulta significativamente la defensa basada
    en prescripción. Si el actor puede acreditar daño continuo con evidencia
-   periódica, la excepción de prescripción será rechazada (art. 2573 CCCN).
+   periódica, la excepción de prescripción será rechazada (Art. 2554 CCyCN).
 
 2. Los mecanismos de identificación de responsables (oficios, informes
    municipales, testimoniales) hacen prácticamente imposible ocultarse detrás
@@ -399,7 +399,7 @@ CRONOLOGÍA TÉCNICA DEL DAÑO:
 
 3. CESACIÓN DEL DAÑO: Determinar técnicamente si el daño continúa
    produciéndose al momento de la pericia o si cesó en algún momento
-   anterior. Esto es crucial para la prescripción (art. 2573 CCCN).
+   anterior. Esto es crucial para la prescripción (Art. 2554 CCyCN).
 
 IDENTIFICACIÓN TÉCNICA DE RESPONSABLES:
 

@@ -194,16 +194,18 @@ A. PLAZO DE PRESCRIPCIÓN APLICABLE
 B. INTERRUPCIÓN DE LA PRESCRIPCIÓN (Art. 2541 CCyCN)
 
    Actos interruptivos realizados en el presente caso:
-   • Reclamos extrajudiciales documentados (WhatsApp, comunicaciones escritas)
-   • Inicio de mediación prejudicial obligatoria (Ley 13.951)
-   • Carta documento al Intendente de Merlo (fecha sellada)
+   • Reconocimiento tácito del demandado (mensajes, comunicaciones escritas)
+   • Presentación de la demanda judicial (Art. 2541 inc. b CCyCN)
    • Cada uno de estos actos interrumpe el plazo y lo reinicia desde cero.
 
-C. SUSPENSIÓN DE LA PRESCRIPCIÓN (Art. 2541-2543 CCyCN)
+C. SUSPENSIÓN DE LA PRESCRIPCIÓN (Arts. 2542-2546 CCyCN)
 
+   • La carta documento SUSPENDE el curso de la prescripción por 6 meses
+     (Art. 2546 CCyCN). Vencido el plazo, se REANUDA el cómputo.
    • La mediación prejudicial SUSPENDE el curso de la prescripción desde la fecha
-     del acta de inicio hasta 20 días después de la fecha del acta de cierre.
-   • La presentación de la demanda interrumpe definitivamente la prescripción.
+     del acta de inicio hasta 20 días después de la fecha del acta de cierre
+     (Art. 2542 CCyCN).
+   • La presentación de la demanda INTERRUMPE la prescripción (Art. 2541 inc. b).
 
 
 ================================================================================
