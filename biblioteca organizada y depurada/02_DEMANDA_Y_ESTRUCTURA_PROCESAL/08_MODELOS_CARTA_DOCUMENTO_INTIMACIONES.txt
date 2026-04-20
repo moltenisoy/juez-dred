@@ -103,14 +103,13 @@ EFECTOS:
 
 Se hace saber que la presente carta documento:
 
-- Constituye a Ud. en MORA de pleno derecho conforme al art. 1717 del CCyCN
+- Constituye a Ud. en MORA de pleno derecho conforme al art. 886 del CCyCN
   y concordantes, con todas las consecuencias legales que de ello se derivan,
   incluyendo el devengamiento de intereses desde la fecha de los respectivos
   daños.
 
-- Tiene efecto interruptivo de la prescripción liberatoria conforme al art.
-  3974 del CCyCN, quedando renovado el plazo prescriptivo desde la recepción
-  de la presente.
+- Tiene efecto suspensivo de la prescripción liberatoria por 6 meses conforme
+  al art. 2546 del CCyCN, desde la recepción de la presente.
 
 - En caso de silencio o negativa de su parte al vencimiento del plazo
   otorgado, se iniciarán las acciones judiciales correspondientes, reclamando
@@ -243,11 +242,11 @@ EFECTOS:
 
 Se hace saber que la presente carta documento:
 
-- Constituye a Ud. en MORA de pleno derecho conforme al art. 1717 del CCyCN
+- Constituye a Ud. en MORA de pleno derecho conforme al art. 886 del CCyCN
   y concordantes.
 
-- Tiene efecto interruptivo de la prescripción liberatoria conforme al art.
-  3974 del CCyCN.
+- Tiene efecto suspensivo de la prescripción liberatoria por 6 meses conforme
+  al art. 2546 del CCyCN.
 
 - En caso de silencio o negativa, se iniciarán las acciones judiciales
   correspondientes sin necesidad de nueva intimación. Asimismo, ante el
@@ -327,8 +326,8 @@ FUNDAMENTOS JURÍDICOS:
   este derecho, y responsabilidad del Estado provincial y municipal por omisión
   en el ejercicio del poder de policía.
 
-- Ley 10.147 Orgánica de las Municipalidades de la Provincia de Buenos Aires
-  (y modificatorias): Establece la competencia municipal en materia de
+- Decreto-Ley 6769/58 — Ley Orgánica de las Municipalidades de la Provincia de
+  Buenos Aires (y modificatorias): Establece la competencia municipal en materia de
   regulación, habilitación, inspección y control de las construcciones dentro
   del ejido municipal. La Municipalidad tiene el DEBER JURÍDICO de controlar
   que las obras se ejecuten con permiso, conforme planos aprobados y bajo
@@ -584,7 +583,7 @@ FIN DEL ARCHIVO 52
 ================================================================================
 Fuentes: Doctrina procesal civil, CNACiv Sala M "Valles c/ Wierzba"
 (18/05/2020), Código Civil y Comercial de la Nación, Constitución Nacional,
-Constitución Provincia de Buenos Aires, Ley 10.147 Orgánica Municipal PBA.
+Constitución Provincia de Buenos Aires, Decreto-Ley 6769/58 Orgánica Municipal PBA.
 ================================================================================
 
 
