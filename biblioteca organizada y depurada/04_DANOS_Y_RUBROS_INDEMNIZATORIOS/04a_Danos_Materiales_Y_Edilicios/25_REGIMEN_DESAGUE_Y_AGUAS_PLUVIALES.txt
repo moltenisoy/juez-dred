@@ -562,11 +562,10 @@ AMPLIACIÓN Y CORRECCIONES
 
 1. CORRECCIÓN JURISDICCIONAL CRÍTICA
    El Partido de Merlo integra el DEPARTAMENTO JUDICIAL MERLO (Ley 13.859/2009),
-   NO el Departamento Judicial Morón. Toda referencia del cuerpo principal a
-   "departamentos judiciales que abarcan Merlo (como Morón)" es INCORRECTA
-   desde diciembre de 2009. Los juzgados civiles y comerciales competentes para
-   causas de daños por desagüe pluvial en Merlo se radican en el Departamento
-   Judicial Merlo.
+   El Partido de Merlo pertenece al Departamento Judicial de MORÓN (la Ley
+   13.859/2009 creó el DJ de Merlo pero NO está operativo). Los juzgados civiles
+   y comerciales competentes para causas de daños por desagüe pluvial en Merlo
+   se radican en el Departamento Judicial Morón.
 
 2. EQUIVALENCIAS CÓDIGO CIVIL DEROGADO → CCyCN (Ley 26.994)
    El viejo Código Civil (Vélez Sarsfield) regulaba las aguas en los
@@ -648,7 +647,7 @@ AMPLIACIÓN Y CORRECCIONES
    pendientes de techo y genera derivación de pluviales hacia el vecino.
    Opera conjuntamente con Art. 1973 (inmisiones) y Art. 1710 (prevención).
 
-8. PRUEBA PERICIAL HIDRÁULICA EN SEDE JUDICIAL (Depto. Judicial Merlo)
+8. PRUEBA PERICIAL HIDRÁULICA EN SEDE JUDICIAL (Depto. Judicial Morón)
    Para acreditar la derivación ilícita de aguas pluviales, el perito debe:
    a) Relevamiento topográfico de pendientes pre y post obra.
    b) Cálculo de caudal pluvial (método racional: Q = C×i×A).

@@ -475,17 +475,12 @@ AMPLIACIÓN Y CORRECCIONES
 (Investigación complementaria — Abril 2026)
 ================================================================================
 
-1. CORRECCIÓN JURISDICCIONAL IMPERATIVA
-   ERROR EN ENCABEZADO (línea 4): Dice "DEPARTAMENTO JUDICIAL: MORÓN".
-   DEBE DECIR: "DEPARTAMENTO JUDICIAL: MERLO".
-   El Partido de Merlo pertenece al Departamento Judicial Merlo desde la
-   entrada en vigencia de la Ley 13.859 (B.O. 17/12/2009). Las referencias
-   a "Cámara de Morón" o "Departamento Judicial Morón" en el cuerpo del
-   documento son incorrectas para radicar la causa. Los tribunales
-   competentes son los Juzgados Civiles y Comerciales del Departamento
-   Judicial Merlo y la Cámara de Apelación en lo Civil y Comercial de Merlo.
-   NOTA: La jurisprudencia de la Cámara de Morón puede citarse como referencia
-   analógica, pero NO es el tribunal de alzada competente para el caso.
+1. NOTA JURISDICCIONAL
+   El Partido de Merlo pertenece al Departamento Judicial de MORÓN.
+   La Ley 13.859 (B.O. 17/12/2009) creó el DJ de Merlo pero éste NO está
+   operativo. Los tribunales competentes son los Juzgados Civiles y Comerciales
+   del Departamento Judicial de Morón y la Cámara de Apelación en lo Civil y
+   Comercial de Morón.
 
 2. CORRECCIÓN DE REFERENCIAS AL CÓDIGO CIVIL DEROGADO
    El documento contiene citas al Código Civil de Vélez Sarsfield (derogado

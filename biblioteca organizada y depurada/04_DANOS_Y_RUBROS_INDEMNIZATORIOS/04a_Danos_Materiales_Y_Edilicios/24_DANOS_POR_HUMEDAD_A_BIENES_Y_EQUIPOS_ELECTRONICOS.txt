@@ -1483,8 +1483,8 @@ AMPLIACIÓN Y CORRECCIONES
    - Art. 2546 CCyCN: La carta documento SUSPENDE la prescripción por 6 meses
      (no la interrumpe); vencido el plazo, el cómputo se reanuda.
 
-5. PRUEBA PERICIAL EN ELECTRÓNICA — DEPARTAMENTO JUDICIAL MERLO
-   El perito designado por el Juzgado Civil y Comercial de Merlo deberá:
+5. PRUEBA PERICIAL EN ELECTRÓNICA — DEPARTAMENTO JUDICIAL MORÓN
+   El perito designado por el Juzgado Civil y Comercial de Morón deberá:
    a) Inspección visual bajo lupa/microscopio (evidencia de dendritas, óxidos).
    b) Medición de resistencia de aislamiento (MΩ) entre pistas críticas.
    c) Fotografía macro de corrosión con escala milimétrica.

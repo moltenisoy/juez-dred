@@ -214,12 +214,13 @@ SECCIÓN COMPLEMENTARIA — LEY AMBIENTE Y PRUEBA ANTICIPADA: AMPLIACIÓN
      c) Responsabilidad objetiva ambiental (Art. 28)
 
 
-2. CORRECCIÓN DE COMPETENCIA EN PRUEBA ANTICIPADA
+2. NOTA SOBRE COMPETENCIA EN PRUEBA ANTICIPADA
 ────────────────────────────────────────────────────────────────
 
-   ERROR (línea 130-131): Dice "Juzgado Civil y Comercial de Merlo
-   (1ra instancia, Departamento Judicial de Morón)"
-   CORRECTO: Juzgado Civil y Comercial del Departamento Judicial de MERLO
+   La referencia "Juzgado Civil y Comercial de Merlo (1ra instancia,
+   Departamento Judicial de Morón)" es correcta: la competencia sobre
+   el Partido de Merlo corresponde al DJ Morón (el DJ Merlo creado
+   por Ley 13.859 NO está operativo).
 
 
 3. PLAZOS Y CADUCIDAD DE LA PRUEBA ANTICIPADA

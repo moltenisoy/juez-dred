@@ -581,21 +581,21 @@ SECCIÓN COMPLEMENTARIA — RÉGIMEN PERICIAL: AMPLIACIÓN Y CORRECCIONES
 (Investigación complementaria — Abril 2026)
 ================================================================================
 
-1. CORRECCIÓN JURISDICCIONAL
-   Departamento Judicial competente: MERLO (Ley 13.859/2009). Los peritos se
-   designan por sorteo de la lista oficial del Departamento Judicial de Merlo.
-   Toda mención a "Morón" en este archivo es incorrecta y debe leerse MERLO.
+1. NOTA JURISDICCIONAL
+   Departamento Judicial competente: MORÓN (el DJ Merlo creado por Ley 13.859/2009
+   NO está operativo). Los peritos se designan por sorteo de la lista oficial del
+   Departamento Judicial de Morón.
 
 2. DESIGNACIÓN DEL PERITO — Art. 460 CPCCBA
    El Art. 460 CPCCBA regula la designación del perito de oficio:
    a) El perito es designado por el JUEZ mediante sorteo de la lista de
-      peritos inscriptos en la Cámara Departamental (Merlo).
+      peritos inscriptos en la Cámara Departamental (Morón).
    b) Las partes pueden proponer de común acuerdo un perito (Art. 462
       CPCCBA), pero el juez no está obligado a aceptarlo.
    c) El perito debe aceptar el cargo dentro de los TRES (3) días de
       notificado, bajo apercibimiento de remoción (Art. 469 CPCCBA).
    d) Debe constituir domicilio electrónico en el sistema de notificaciones
-      del Departamento Judicial de Merlo.
+      del Departamento Judicial de Morón.
    e) Plazo para presentar el dictamen: lo fija el juez (normalmente 30-60
       días), prorrogable por causa justificada (Art. 464 CPCCBA).
 

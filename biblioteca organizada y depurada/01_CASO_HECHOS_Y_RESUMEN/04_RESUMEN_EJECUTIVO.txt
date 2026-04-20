@@ -1,6 +1,6 @@
 ═══════════════════════════════════════════════════════════════════════════════
 INFORME JURÍDICO - RESUMEN EJECUTIVO PARA DEMANDA OBRA LINDERA
-Partido de Merlo - Departamento Judicial de Merlo
+Partido de Merlo - Departamento Judicial de Morón
 ═══════════════════════════════════════════════════════════════════════════════
 
 1. PRESCRIPCIÓN (Art. 2561 CCCN)
@@ -41,17 +41,16 @@ Partido de Merlo - Departamento Judicial de Merlo
       (Art. 14 Ley 14.394 / Arts. 244-256 CCyCN). Verificar previamente en Registro de la Propiedad.
 
 6. COMPETENCIA TERRITORIAL
-   ✗ NO es Morón → ES MERLO (Ley 13.859/2009 creó Departamento Judicial de Merlo)
-   ✓ Competencia: Partidos de Merlo, General Las Heras, Marcos Paz
-   ✓ Juzgados: 2 Juzgados Civiles y Comerciales de Primera Instancia
-   ✓ Presentación: Mesa de Entradas del Departamento Judicial de Merlo o MEV
-   ⚠️ ERROR CRÍTICO: Presentar en Morón = rechazo por incompetencia
+   ✓ Departamento Judicial de MORÓN (el DJ Merlo creado por Ley 13.859/2009
+     NO está operativo; Morón mantiene competencia sobre el Partido de Merlo)
+   ✓ Juzgados: Civiles y Comerciales de Primera Instancia con asiento en Morón
+   ✓ Presentación: Mesa de Entradas del Departamento Judicial de Morón o MEV
 
 ═══════════════════════════════════════════════════════════════════════════════
 CHECKLIST PRE-DEMANDA
 ═══════════════════════════════════════════════════════════════════════════════
 
-□ Verificar que mediación prejudicial (Ley 13.951) se hizo en Merlo
+□ Verificar que mediación prejudicial (Ley 13.951) se hizo en jurisdicción Morón
 □ Confirmar que el vecino NO ha comenzado reparaciones (si sí, URGE demandar)
 □ Obtener informe municipal de obra clandestina
 □ Peritaje técnico: origen de filtraciones, humedad, riesgo eléctrico
@@ -168,11 +167,10 @@ SECCIONES COMPLEMENTARIAS — INVESTIGACIÓN AMPLIADA
 
 9. DEPARTAMENTO JUDICIAL DE MERLO — DATOS INSTITUCIONALES AMPLIADOS
 
-   A) INFORMACIÓN DEL DEPARTAMENTO JUDICIAL:
-      • Creado por Ley 13.859/2009
-      • Jurisdicción: Partidos de Merlo, General Las Heras, Marcos Paz
-      • Juzgados Civiles y Comerciales: 2 de Primera Instancia
-      • Sede: Av. del Libertador 335, Merlo Centro, Buenos Aires
+   A) INFORMACIÓN DEL DEPARTAMENTO JUDICIAL DE MORÓN:
+      • El Partido de Merlo pertenece al Departamento Judicial de Morón
+      • Nota: La Ley 13.859/2009 creó el DJ Merlo pero NO está operativo
+      • Sede Morón: Cristóbal Colón 360, Morón, Buenos Aires
       • Teléfono consultas SCBA: 0810-444-7222 (10 a 19 hs)
 
    B) MESA DE ENTRADAS VIRTUAL (MEV):
@@ -182,10 +180,8 @@ SECCIONES COMPLEMENTARIAS — INVESTIGACIÓN AMPLIADA
       • Permite presentaciones electrónicas y control de estado de expedientes
       • Guía Judicial SCBA: www.scba.gov.ar/guia_judicial.asp
 
-   C) ERROR CRÍTICO A EVITAR:
-      • Presentar en Morón = RECHAZO POR INCOMPETENCIA territorial
-      • Desde 2009, Merlo tiene departamento judicial propio
-      • La mediación prejudicial también debe haberse realizado en Merlo
+   C) NOTA IMPORTANTE:
+      • La mediación prejudicial debe haberse realizado en jurisdicción Morón
       • Verificar que el acta de cierre de mediación corresponda al
         departamento judicial correcto
 

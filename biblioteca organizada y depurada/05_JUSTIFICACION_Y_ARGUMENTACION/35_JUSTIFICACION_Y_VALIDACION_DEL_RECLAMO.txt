@@ -805,7 +805,7 @@ D) MEDIDA CAUTELAR — PROHIBICIÓN DE INNOVAR:
 
 E) DEMANDA ORDINARIA POR DAÑOS Y PERJUICIOS:
    Juicio ordinario ante el Juzgado Civil y Comercial del Departamento
-   Judicial de Merlo, conforme CPCCBA (Ley 7.425), Libro II, Título II.
+   Judicial de Morón, conforme CPCCBA (Ley 7.425), Libro II, Título II.
 
 F) CELERIDAD PROCESAL (Art. 15 Const. PBA; Art. 623 bis CPCCBA):
    Se solicita la máxima celeridad en atención a:
@@ -1509,12 +1509,11 @@ SECCIÓN COMPLEMENTARIA — REPARACIÓN PLENA Y CUANTIFICACIÓN: AMPLIACIÓN Y C
 (Investigación complementaria — Abril 2026)
 ================================================================================
 
-1. CORRECCIÓN JURISDICCIONAL
-   El Departamento Judicial competente es MERLO, creado por Ley 13.859
-   (B.O. 17/12/2009), con asiento en la ciudad de Merlo, Provincia de Buenos
-   Aires. El Partido de Merlo NO pertenece al Departamento Judicial de Morón
-   desde la entrada en vigencia de dicha ley. Toda referencia anterior a
-   "Morón" debe entenderse corregida a "MERLO".
+1. NOTA JURISDICCIONAL
+   El Departamento Judicial de Merlo fue creado por Ley 13.859 (B.O. 17/12/2009),
+   pero a la fecha NO se encuentra operativo. El caso tramita ante el Departamento
+   Judicial de MORÓN, que mantiene competencia sobre el Partido de Merlo hasta la
+   efectiva puesta en funcionamiento del DJ Merlo.
 
 2. PRINCIPIO DE REPARACIÓN PLENA — Art. 1740 CCyCN
    El Art. 1740 CCyCN consagra que la reparación del daño debe ser PLENA:
