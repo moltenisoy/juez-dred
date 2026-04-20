@@ -30,9 +30,9 @@ La conducta del Sr. Capria vulnera un vasto entramado normativo en todos los niv
 1. Nivel Nacional (Código Civil y Comercial de la Nación - Ley 26.994):
 * Arts. 1757 y 1758: Responsabilidad objetiva por el riesgo o vicio de las cosas y por actividades riesgosas (la construcción clandestina).
 * Arts. 1710 a 1715: Violación del deber de prevención del daño.
-* Art. 2627: Ausencia de autorización escrita del propietario lindero para ingresar personal y maquinaria a mi techo.
-* Art. 2021: Colocación de cargas sobre estructuras colindantes generando inestabilidad y peligro de solidez.
-* Art. 2630: Violación de la obligación de escurrimiento de aguas pluviales hacia terreno propio, derivándolas hacia mi propiedad y red eléctrica.
+* Art. 1973: Inmisiones que exceden la normal tolerancia. Las molestias ocasionadas por la circulación de operarios y el uso de maquinaria vibratoria (mezcladoras de cemento) directamente sobre mi losa, así como los ruidos, vibraciones y daños consecuentes, superan toda tolerancia vecinal razonable según las condiciones del lugar. La obligación de obtener autorización escrita del propietario lindero previo al uso de su predio para la obra surge de los Códigos de Edificación aplicables, citados en el punto 5 infra, y del deber general de no dañar (Arts. 1710-1715 CCyCN). [NOTA DE CORRECCIÓN TÉCNICO-JURÍDICA: El Art. 2627 CCyCN que figuraba en versiones previas de este modelo es INAPLICABLE al caso — regula exclusivamente la "Jurisdicción" para acciones derivadas de unión convivencial (materia de DIPr); ninguna de sus disposiciones guarda relación con el acceso o uso de inmuebles linderos para obras de construcción.]
+* Art. 2021: El condómino no puede realizar obras sobre el muro medianero (pared divisoria compartida) que generen peligro para su solidez. En cuanto el demandado efectuó anclajes, apoyos o tirantes en la pared divisoria compartida para sustentar su construcción, violó esta norma al comprometer la integridad estructural del muro en condominio. [NOTA DE PRECISIÓN: El Art. 2021 CCyCN regula específicamente las "facultades materiales" del condómino sobre el muro medianero compartido, no la sobrecarga de la losa propia del actor. Para el supuesto del tanque de 750 kg sobre la losa del actor, el fundamento técnico-estructural es el CIRSOC 101 citado infra, combinado con los Arts. 1757-1758 CCyCN.]
+* Art. 1976 y Art. 2630: Violación de la prohibición de ejecutar obras que desvíen el escurrimiento de aguas pluviales de modo perjudicial para el inmueble del vecino. El Art. 1976 CCyCN establece expresamente que "ningún propietario puede ejecutar obras que impidan el escurrimiento natural de las aguas pluviales, ni desviar el escurrimiento de modo perjudicial para el inmueble de su vecino" — norma directamente vulnerada por las modificaciones constructivas que derivaron pluviales hacia mi propiedad y red eléctrica. El Art. 2630 CCyCN complementa esta protección en cuanto prohíbe también desviar el curso de aguas naturales hacia un fondo inferior. [NOTA DE PRECISIÓN: Para el supuesto específico de aguas PLUVIALES, el Art. 1976 CCyCN es la norma más directa y específica; Art. 2630 rige principalmente el curso de aguas naturales entre predios.]
 * Art. 2166: Imposición de hecho de una servidumbre de acueducto (instalación esclava) sin convenio ni escritura pública.
 2. Nivel Nacional (Seguridad e Higiene Laboral):
 * Ley 19.587 y Decreto 911/96 (Arts. 52 a 55): Omisión absoluta de protecciones colectivas para trabajo en altura, falta de vallado, uso indebido de andamios y maquinaria sobre losa ajena sin mitigación de vibraciones.
@@ -47,7 +47,7 @@ La conducta del Sr. Capria vulnera un vasto entramado normativo en todos los niv
 * Ley 8912/77 (Ordenamiento Territorial): Modificación clandestina de indicadores urbanísticos (FOS/FOT) y densidad edificable sin aprobación previa, impactando en linderos.
 5. Nivel Municipal (Partido de Merlo) y Servicios:
 * Ordenanzas 757/2000 y 5835/2021 (Código de Edificación): Ejecución de obra nueva/ampliación y modificación de estructuras sin "Permiso de Obra", sin "Plano Municipal Aprobado", sin "Plano Estructural con Memoria de Cálculo", sin firma de profesional matriculado y sin Libre Deuda Municipal.
-* Reglamento AySA (Res. MOP 641/2023): Alteración clandestina del suministro de agua, falta de Certificado de Aptitud Hidráulica y omisión de los protocolos de estanqueidad para reubicar tanques cisternas compartidos.
+* Reglamento AySA (Res. MOP 641/2023 — verificar vigencia y número): Alteración clandestina del suministro de agua, falta de Certificado de Aptitud Hidráulica y omisión de los protocolos de estanqueidad para reubicar tanques cisternas compartidos. [NOTA DE VERIFICACIÓN: La Res. MOP 641/2023 no pudo ser confirmada en fuentes de acceso público al momento de elaborar este modelo. Se recomienda verificar el número y vigencia exactos de la resolución aplicable de AySA/ENOHSA ante la autoridad competente antes de presentar la demanda.]
 6. Nivel Penal:
 * Código Penal, Art. 189: Estrago Culposo por creación de peligro común ante inobservancia de reglamentos.
 VI. PRUEBA OFRECIDA
@@ -245,7 +245,18 @@ SECCIÓN COMPLEMENTARIA — ELEMENTOS FALTANTES Y AMPLIACIONES
 ────────────────────────────────────────────────────────────────
 
    Si se pretende demandar al MUNICIPIO DE MERLO como codemandado solidario
-   por omisión de control (Art. 1764-1766 CCyCN):
+   por omisión de control (Ley 26.944, Art. 3° — Responsabilidad del Estado;
+   y normas de derecho administrativo provincial aplicables):
+
+   [CORRECCIÓN CRÍTICA: El fundamento "Art. 1764-1766 CCyCN" es INAPLICABLE
+   como base de la responsabilidad municipal. El Art. 1764 CCyCN establece
+   expresamente que "las disposiciones del Capítulo 1 de este Título NO son
+   aplicables a la responsabilidad del Estado de manera directa ni subsidiaria."
+   Los Arts. 1765-1766 CCyCN confirman que la responsabilidad del Estado y sus
+   funcionarios se rige por "las normas y principios del derecho administrativo
+   nacional o local, según corresponda."
+   Base normativa CORRECTA: Ley Nacional 26.944 (Art. 3°) + DL 6769/58 (Ley
+   Orgánica Municipal PBA) + doctrina sobre "falta de servicio" (SCBA).]
 
    • La competencia para demandas contra el Estado municipal es del FUERO
      CONTENCIOSO ADMINISTRATIVO (Ley 12.008 — CCA PBA).
