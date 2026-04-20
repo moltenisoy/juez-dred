@@ -311,7 +311,9 @@ F) LEGISLACIÓN PROVINCIAL (BUENOS AIRES):
 • Ley 11.820: Marco regulatorio de servicios de agua y cloacas (PBA).
 • Ley 13.951: Mediación previa obligatoria — Requisito prejudicial
   ineludible. Debe acreditarse Acta de Cierre sin Acuerdo.
-• Ley 15.513/2024: Aceleración procesal en procesos urgentes.
+• Ley 15.513/2024: Reforma procesal al régimen de alimentos (cuota alimentaria).
+  [NOTA: NO es aplicable directamente a daños edilicios; para celeridad
+  en procesos urgentes, ver Art. 623 bis CPCCBA y doctrina de tutela diferenciada]
 
 G) NORMATIVA MUNICIPAL (MERLO):
 ---------------------------------
@@ -803,9 +805,9 @@ D) MEDIDA CAUTELAR — PROHIBICIÓN DE INNOVAR:
 
 E) DEMANDA ORDINARIA POR DAÑOS Y PERJUICIOS:
    Juicio ordinario ante el Juzgado Civil y Comercial del Departamento
-   Judicial de Morón, conforme CPCCBA (Ley 7.425), Libro II, Título II.
+   Judicial de Merlo, conforme CPCCBA (Ley 7.425), Libro II, Título II.
 
-F) CELERIDAD PROCESAL (Art. 15 Const. PBA; Ley 15.513/2024):
+F) CELERIDAD PROCESAL (Art. 15 Const. PBA; Art. 623 bis CPCCBA):
    Se solicita la máxima celeridad en atención a:
    • Riesgo estructural continuo;
    • Inhabilitabilidad progresiva del inmueble;
@@ -976,8 +978,8 @@ XIII-A. ARTÍCULOS Y NORMAS ADICIONALES DEL CCCN
   manifestación del daño, lo que es directamente aplicable al caso
   (filtraciones que persisten y se agravan durante casi 2 años).
 
-• Art. 2572 CCCN — Plazo genérico de prescripción: 3 años para acciones
-  civiles de daños y perjuicios.
+• Art. 2561 CCCN — Plazo de prescripción: 3 años para acciones
+  civiles de daños y perjuicios derivados de responsabilidad civil.
 
 • Arts. 2654-2658 CCCN — Vistas y luces: Regulan la apertura de vanos y
   disposición de vistas entre predios colindantes. Aplicable si la obra
