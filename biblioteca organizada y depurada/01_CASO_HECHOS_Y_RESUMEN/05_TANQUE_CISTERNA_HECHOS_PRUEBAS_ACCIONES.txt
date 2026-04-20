@@ -435,37 +435,24 @@ SECCION 7 — ANÁLISIS PENAL AMPLIADO
      durante más de un año con conocimiento del riesgo y de los reclamos,
      el demandado "coloca en peligro" la integridad del habitante.
 
-7.6. NOTA SOBRE COMPETENCIA PENAL:
-     • IMPORTANTE: La competencia penal corresponde al Departamento Judicial
-       de MERLO (no Morón), conforme Ley 13.859/2009.
-     • Verificar turno de UFI en pjba.gov.ar seleccionando DJ Merlo.
+7.6. NOTA SOBRE COMPETENCIA:
+     • La competencia civil, comercial y penal corresponde al Departamento
+       Judicial de MORÓN (la Ley 13.859/2009 creó el DJ Merlo pero NO está
+       operativo). Verificar turno de UFI en pjba.gov.ar seleccionando DJ Morón.
 
 
 ================================================================================
-SECCION 8 — CORRECCIÓN DE ERRORES DE COMPETENCIA EN EL ARCHIVO ORIGINAL
+SECCION 8 — NOTA SOBRE COMPETENCIA TERRITORIAL
 ================================================================================
 
-ERRORES DETECTADOS Y CORREGIDOS:
+NOTA: El Partido de Merlo pertenece al Departamento Judicial de MORÓN.
+La Ley 13.859/2009 creó el DJ de Merlo pero éste NO está operativo.
+Todas las referencias a "Departamento Judicial Morón" en este archivo son
+CORRECTAS. La competencia civil, comercial y penal sobre el Partido de Merlo
+la mantiene el DJ Morón.
 
-1) Sección 3.3 (Fuero Penal): Dice "Departamento Judicial Morón"
-   → CORRECTO: Departamento Judicial de MERLO (Ley 13.859/2009)
-
-2) Sección 3.4 (Fuero Civil): Dice "Departamento Judicial Morón"
-   → CORRECTO: Departamento Judicial de MERLO (creado en 2009)
-
-3) Sección 4.2: Dice "UFI / Fiscalía DJ Morón"
-   → CORRECTO: UFI / Fiscalía de turno en DJ MERLO
-
-4) Enfoque 3, punto 1 (Competencia):
-   Dice "Civil y Comercial: DJ Morón" y "Penal: UFI DJ Morón"
-   → CORRECTO: Ambos corresponden a DJ MERLO
-
-5) Paso 1 (Recomendaciones): Dice "abogado en DJ Morón"
-   → CORRECTO: Abogado habilitado en DJ MERLO
-
-NOTA: El Contencioso Administrativo SÍ corresponde a DJ San Martín para
-amparo contra inacción municipal, dado que no existe Juzgado Contencioso
-Administrativo con sede en Merlo.
+El Contencioso Administrativo puede corresponder a DJ San Martín para
+amparo contra inacción municipal (verificar en www.scba.gov.ar).
 
 
 ================================================================================

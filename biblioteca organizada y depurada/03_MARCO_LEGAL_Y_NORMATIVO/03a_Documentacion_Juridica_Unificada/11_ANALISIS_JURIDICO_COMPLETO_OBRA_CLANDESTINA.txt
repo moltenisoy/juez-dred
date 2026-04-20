@@ -988,13 +988,12 @@ CITA ORIGINAL | CORRECCIÓN
 1.2. Corrección de competencia territorial
 Todas las referencias al "Departamento Judicial de Morón" en este documento (Pasos 3, 6, 7,
 8, 9 de la Hoja de Ruta; datos de contacto de la Parte VIII; advertencia de prescripción;
-zonas de incertidumbre; y declaración final) deben entenderse corregidas al Departamento
-Judicial de MERLO.
+zonas de incertidumbre; y declaración final) son correctas: la competencia corresponde
+al Departamento Judicial de MORÓN (la Ley Provincial 13.859 creó el DJ Merlo pero NO está
+operativo).
 
-Fundamento: La Ley Provincial 13.859 creó el Departamento Judicial de Merlo con asiento
-en la ciudad de Merlo y competencia territorial sobre los Partidos de Merlo, General Las
-Heras y Marcos Paz. El inmueble litigioso se ubica en el Partido de Merlo, por lo que
-la competencia territorial corresponde al Departamento Judicial de Merlo.
+Fundamento: El inmueble litigioso se ubica en el Partido de Merlo, cuya competencia
+territorial corresponde al Departamento Judicial de Morón.
 
 Art. 5°, inc. 1° del CPCCBA: en acciones reales sobre inmuebles, es juez competente el del
 lugar donde está situada la cosa litigiosa. Verificar sedes, teléfonos y correos

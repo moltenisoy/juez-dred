@@ -117,22 +117,19 @@ SECCIÓN COMPLEMENTARIA — RESPONSABILIDAD MUNICIPAL: AMPLIACIÓN Y PROFUNDIZAC
 (Investigación complementaria)
 ================================================================================
 
-1. CORRECCIÓN: DEPARTAMENTO JUDICIAL
+1. NOTA: DEPARTAMENTO JUDICIAL
 ────────────────────────────────────────────────────────────────
 
-   ERROR (línea 9): Dice "Departamento Judicial de Morón"
-   CORRECTO: El Municipio de Merlo pertenece al Departamento Judicial
-   de MERLO (creado por Ley 13.859/2009).
+   El Municipio de Merlo pertenece al Departamento Judicial de MORÓN
+   (la Ley 13.859/2009 creó el DJ de Merlo pero NO está operativo).
 
-   SIN EMBARGO, para el fuero CONTENCIOSO ADMINISTRATIVO (demandas
-   contra el Estado), NO existe juzgado contencioso administrativo con
-   sede en Merlo. La competencia contencioso administrativa corresponde
-   al Departamento Judicial de SAN MARTÍN (que cubre Merlo).
+   Para el fuero CONTENCIOSO ADMINISTRATIVO (demandas contra el Estado),
+   la competencia contencioso administrativa corresponde al Departamento
+   Judicial de SAN MARTÍN (que cubre Merlo).
 
-   CORRECCIÓN (líneas 72-73): Dice "Juzgado en lo Contencioso Administrativo
-   del Departamento Judicial de Morón"
-   → CORRECTO: Juzgado en lo Contencioso Administrativo con competencia
-   sobre el Partido de Merlo (verificar en www.scba.gov.ar/guia_judicial.asp).
+   Para acciones civiles y penales → Departamento Judicial de Morón.
+   Para acciones contencioso administrativas → verificar en
+   www.scba.gov.ar/guia_judicial.asp (puede ser San Martín).
 
 
 2. LEY 26.944 — RESPONSABILIDAD DEL ESTADO: ANÁLISIS AMPLIADO

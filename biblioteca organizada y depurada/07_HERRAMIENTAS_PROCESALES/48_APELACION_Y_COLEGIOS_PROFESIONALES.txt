@@ -13,7 +13,7 @@ ENCUADRE GENERAL [V]:
 La segunda instancia en causas civiles del Departamento Judicial de Morón
 corresponde a la CÁMARA DE APELACIÓN EN LO CIVIL Y COMERCIAL DE MORÓN,
 integrada por dos Salas (Sala I y Sala II). Es el tribunal de alzada competente
-para revisar las sentencias del Juzgado Civil y Comercial de Merlo.
+para revisar las sentencias de causas originadas en el Partido de Merlo.
 
 NORMATIVA VERIFICADA [V]:
 - Arts. 244-259 CPCC PBA — Apelación
@@ -137,18 +137,13 @@ SECCIÓN COMPLEMENTARIA — APELACIÓN Y COLEGIOS PROFESIONALES: AMPLIACIÓN
 (Investigación complementaria)
 ================================================================================
 
-1. CORRECCIÓN: COMPETENCIA DE LA CÁMARA DE APELACIONES
+1. NOTA: COMPETENCIA DE LA CÁMARA DE APELACIONES
 ────────────────────────────────────────────────────────────────
 
-   ERROR (línea 13): Dice "Cámara de Apelación en lo Civil y Comercial de Morón"
-   CORRECTO: Verificar si la Cámara de Apelaciones competente para el DJ Merlo
-   es la de Morón (por proximidad y tradición), o si se ha creado Cámara propia
-   en Merlo tras la Ley 13.859/2009.
-
-   Dado que el DJ Merlo fue creado recientemente (2009), los recursos de
-   apelación de causas civiles de Merlo pueden aún corresponder a la Cámara
-   de Morón. Verificar en www.scba.gov.ar/guia_judicial.asp seleccionando
-   DJ Merlo para confirmar la Cámara de alzada competente.
+   La Cámara de Apelación en lo Civil y Comercial de Morón es el tribunal
+   de alzada competente para las causas del Partido de Merlo (el DJ Merlo
+   creado por Ley 13.859/2009 NO está operativo; la competencia permanece
+   en el Departamento Judicial de Morón).
 
 
 2. RECURSO EXTRAORDINARIO DE INAPLICABILIDAD DE LEY — AMPLIADO

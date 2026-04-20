@@ -103,14 +103,13 @@ EFECTOS:
 
 Se hace saber que la presente carta documento:
 
-- Constituye a Ud. en MORA de pleno derecho conforme al art. 1717 del CCyCN
+- Constituye a Ud. en MORA de pleno derecho conforme al art. 886 del CCyCN
   y concordantes, con todas las consecuencias legales que de ello se derivan,
   incluyendo el devengamiento de intereses desde la fecha de los respectivos
   daños.
 
-- Tiene efecto interruptivo de la prescripción liberatoria conforme al art.
-  3974 del CCyCN, quedando renovado el plazo prescriptivo desde la recepción
-  de la presente.
+- Tiene efecto suspensivo de la prescripción liberatoria por 6 meses conforme
+  al art. 2546 del CCyCN, desde la recepción de la presente.
 
 - En caso de silencio o negativa de su parte al vencimiento del plazo
   otorgado, se iniciarán las acciones judiciales correspondientes, reclamando
@@ -243,11 +242,11 @@ EFECTOS:
 
 Se hace saber que la presente carta documento:
 
-- Constituye a Ud. en MORA de pleno derecho conforme al art. 1717 del CCyCN
+- Constituye a Ud. en MORA de pleno derecho conforme al art. 886 del CCyCN
   y concordantes.
 
-- Tiene efecto interruptivo de la prescripción liberatoria conforme al art.
-  3974 del CCyCN.
+- Tiene efecto suspensivo de la prescripción liberatoria por 6 meses conforme
+  al art. 2546 del CCyCN.
 
 - En caso de silencio o negativa, se iniciarán las acciones judiciales
   correspondientes sin necesidad de nueva intimación. Asimismo, ante el
@@ -319,7 +318,7 @@ física de mi grupo familiar.
 
 FUNDAMENTOS JURÍDICOS:
 
-- Art. 24 de la Constitución Nacional: Garantía de la inviolabilidad de la
+- Art. 17 de la Constitución Nacional: Garantía de la inviolabilidad de la
   propiedad y el deber del Estado de asegurar su protección.
 
 - Arts. 33 y 41 de la Constitución de la Provincia de Buenos Aires: Derecho
@@ -327,8 +326,8 @@ FUNDAMENTOS JURÍDICOS:
   este derecho, y responsabilidad del Estado provincial y municipal por omisión
   en el ejercicio del poder de policía.
 
-- Ley 10.147 Orgánica de las Municipalidades de la Provincia de Buenos Aires
-  (y modificatorias): Establece la competencia municipal en materia de
+- Decreto-Ley 6769/58 — Ley Orgánica de las Municipalidades de la Provincia de
+  Buenos Aires (y modificatorias): Establece la competencia municipal en materia de
   regulación, habilitación, inspección y control de las construcciones dentro
   del ejido municipal. La Municipalidad tiene el DEBER JURÍDICO de controlar
   que las obras se ejecuten con permiso, conforme planos aprobados y bajo
@@ -388,22 +387,22 @@ SECCIÓN D - EFECTOS JURÍDICOS Y PRÁCTICOS DE LAS INTIMACIONES
 ================================================================================
 
 --------------------------------------------------------------------------------
-1. INTERRUPCIÓN DE LA PRESCRIPCIÓN (Art. 3974 CCyCN)
+1. SUSPENSIÓN DE LA PRESCRIPCIÓN (Art. 2546 CCyCN)
 --------------------------------------------------------------------------------
 
-La interpelación fehaciente (carta documento) tiene efecto interruptivo del
-curso de la prescripción liberatoria. Conforme el art. 3974 del Código Civil
-y Comercial, la interpelación fehaciente al deudor produce la interrupción
-de la prescripción por el plazo de seis (6) meses, renovándose el cómputo
-del plazo prescriptivo desde la recepción de la intimación.
+La interpelación fehaciente (carta documento) tiene efecto SUSPENSIVO del
+curso de la prescripción liberatoria. Conforme el Art. 2546 del Código Civil
+y Comercial, el curso de la prescripción se suspende por una sola vez, por
+la interpelación fehaciente al deudor, por el término de seis (6) meses.
+Vencido el plazo de suspensión, el cómputo se REANUDA (no reinicia).
 
 IMPORTANCIA PRÁCTICA: En casos de daño continuado, donde la prescripción se
-computa desde la última manifestación del daño (art. 2573 CCCN), la carta
+computa desde la última manifestación del daño (Art. 2561 CCyCN), la carta
 documento permite documentar fehacientemente la fecha de conocimiento del
-daño y renovar el plazo para accionar.
+daño y suspender el plazo para accionar.
 
 --------------------------------------------------------------------------------
-2. CONSTITUCIÓN EN MORA (Art. 1717 CCyCN)
+2. CONSTITUCIÓN EN MORA (Art. 886 CCyCN)
 --------------------------------------------------------------------------------
 
 La intimación fehaciente constituye al destinatario en mora respecto de su
@@ -584,7 +583,7 @@ FIN DEL ARCHIVO 52
 ================================================================================
 Fuentes: Doctrina procesal civil, CNACiv Sala M "Valles c/ Wierzba"
 (18/05/2020), Código Civil y Comercial de la Nación, Constitución Nacional,
-Constitución Provincia de Buenos Aires, Ley 10.147 Orgánica Municipal PBA.
+Constitución Provincia de Buenos Aires, Decreto-Ley 6769/58 Orgánica Municipal PBA.
 ================================================================================
 
 
@@ -615,7 +614,12 @@ SECCIÓN F — CORRECCIONES NORMATIVAS CRÍTICAS Y AMPLIACIONES
    c) La INTERRUPCIÓN de la prescripción (Art. 2541 CCyCN) solo ocurre por:
       1) Reconocimiento del derecho por el deudor (expreso o tácito)
       2) Interposición de demanda judicial
-      3) Pedido de mediación obligatoria
+      3) Pedido de quiebra o concurso
+      4) Actos de ejecución directa
+
+   d) La SUSPENSIÓN de la prescripción ocurre por:
+      1) Carta documento — suspende 6 meses (Art. 2546 CCyCN)
+      2) Pedido de mediación obligatoria (Art. 2542 CCyCN)
 
    DIFERENCIA CLAVE:
    • SUSPENSIÓN (carta documento): "Pausa" el plazo por 6 meses; luego
@@ -734,10 +738,10 @@ SECCIÓN F — CORRECCIONES NORMATIVAS CRÍTICAS Y AMPLIACIONES
              → Activa responsabilidad por omisión municipal
 
    DÍA 5-10: Si el demandado no responde → Solicitar mediación prejudicial
-              (Ley 13.951) → INTERRUMPE prescripción (Art. 2541 inc. 3)
+              (Ley 13.951) → SUSPENDE prescripción (Art. 2542 CCyCN)
 
    DENTRO DE 60 DÍAS: Cierre de mediación → Presentar demanda + medidas
-   cautelares → INTERRUMPE definitivamente prescripción (Art. 2541 inc. 2)
+   cautelares → INTERRUMPE prescripción (Art. 2544 CCyCN)
 
    REGLA DE ORO: No dejar pasar más de 6 meses desde la carta documento
    sin iniciar la mediación o la demanda, porque la suspensión caduca.

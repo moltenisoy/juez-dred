@@ -711,10 +711,10 @@ CORRECCIÓN 1 — DEPARTAMENTO JUDICIAL COMPETENTE:
 En la carátula de este archivo (línea 4) y en la Sección 3 (línea 295) se
 indica erróneamente "Departamento Judicial de Morón". CORRECCIÓN: El Partido
 de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MERLO, creado por la Ley
-13.859 (sancionada en 2009, B.O. PBA 12/01/2009), con sede en la ciudad de
-Merlo. La competencia ordinaria civil y comercial corresponde a los juzgados
-de primera instancia de Merlo y a la Cámara de Apelación en lo Civil y
-Comercial del Departamento Judicial de Merlo.
+13.859 (sancionada en 2009, B.O. PBA 12/01/2009), pero dicho departamento judicial
+NO se encuentra operativo. La competencia ordinaria civil y comercial corresponde
+actualmente a los juzgados de primera instancia del Departamento Judicial de Morón,
+que mantiene jurisdicción sobre el Partido de Merlo.
 
 CORRECCIÓN 2 — CONSTITUCIÓN EN MORA (Art. 886 CCyCN, NO Art. 1717):
 El Art. 886 del CCyCN regula la constitución en mora del deudor. La mora se

@@ -499,11 +499,11 @@ SECCIÓN COMPLEMENTARIA — CLASIFICACIÓN DE REQUISITOS Y SECUENCIA CONSTRUCTIV
 
 CORRECCIÓN 1 — DEPARTAMENTO JUDICIAL COMPETENTE:
 En la Sección 5.5 (línea 344) se indica erróneamente "Departamento Judicial
-de Morón". CORRECCIÓN: El Partido de Merlo pertenece al DEPARTAMENTO
-JUDICIAL DE MERLO, creado por Ley 13.859/2009. Los juzgados civiles y
-comerciales de primera instancia con competencia territorial tienen asiento
-en la ciudad de Merlo. La Cámara de Apelación del Departamento Judicial de
-Merlo es la alzada natural para todos los procesos originados en Merlo.
+de Morón". NOTA: El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL DE
+MORÓN (la Ley 13.859/2009 creó el DJ de Merlo pero éste NO está operativo).
+Los juzgados civiles y comerciales de primera instancia con competencia
+territorial tienen asiento en la ciudad de Morón. La Cámara de Apelación
+en lo Civil y Comercial de Morón es la alzada natural.
 
 CORRECCIÓN 2 — LEY ORGÁNICA MUNICIPAL PBA:
 La norma que regula las atribuciones municipales en materia de obras y

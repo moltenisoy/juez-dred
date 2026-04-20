@@ -58,7 +58,7 @@ autoridades y síntesis ejecutiva de cuestiones procesales clave.
   ► 04_RESUMEN_EJECUTIVO.txt
     Síntesis de cuestiones procesales clave: prescripción, beneficio de litigar
     sin gastos, astreintes, actualización monetaria, embargo preventivo y
-    competencia territorial (Merlo/Morón). Consultarlo para decisiones tácticas
+    competencia territorial (Departamento Judicial de Morón). Consultarlo para decisiones tácticas
     previas a la demanda: verificar si procede beneficio sin gastos, evaluar
     embargo y plantear tutela anticipada.
 
@@ -132,7 +132,7 @@ construcción. Se divide en tres subcarpetas temáticas.
     elaboración de párrafos de "estado de la cuestión" en la demanda.
 
   ► 11_ANALISIS_JURIDICO_COMPLETO_OBRA_CLANDESTINA.txt
-    Análisis exhaustivo de competencia territorial (Merlo vs. Morón),
+    Análisis exhaustivo de competencia territorial (DJ Morón, aclarando que
     responsabilidad por riesgo, función preventiva y delito penal de estrago
     culposo. Aborda la prevalencia del Código Civil sobre permisos municipales
     y la acción preventiva. Consultarlo para resolver dudas sobre competencia,
@@ -563,7 +563,7 @@ estrategia procesal integral para todas las etapas del juicio.
     imágenes satelitales). Incluye identificación formal de todos los
     responsables (propietario, constructor, director de obra, municipio) con
     datos a recabar. Consultarlo para construir la línea temporal del daño
-    progresivo, acreditar que la prescripción no corrió (art. 2573 CCCN) y
+    progresivo, acreditar que la prescripción no corrió (Art. 2554 CCyCN) y
     para individualizar correctamente a cada demandado.
 
   ► 51_VIABILIDAD_ECONOMICA_BLSG_INVESTIGACION_PATRIMONIAL.txt
@@ -684,12 +684,13 @@ INFORMACIÓN TÉCNICA
   Total de carpetas (todas) ...... 17
   Fecha de última reorganización . 19 de abril de 2026
   Jurisdicción del caso .......... Merlo, Provincia de Buenos Aires
-                                   (Departamento Judicial de MERLO,
-                                    creado por Ley 13.859/2009)
+                                   (Departamento Judicial de MORÓN;
+                                    el DJ Merlo creado por Ley 13.859/2009
+                                    NO está operativo)
   Última expansión de contenido .. 19 de abril de 2026
   Nota: Todos los 60 archivos de contenido fueron expandidos con
         secciones complementarias que incluyen: correcciones normativas
-        (CC Vélez → CCyCN), corrección jurisdiccional (Morón → Merlo),
-        contenido investigado adicional y ampliaciones temáticas.
+        (CC Vélez → CCyCN), nota jurisdiccional (DJ Morón mantiene
+        competencia), contenido investigado adicional y ampliaciones temáticas.
 
 ════════════════════════════════════════════════════════════════════════════════

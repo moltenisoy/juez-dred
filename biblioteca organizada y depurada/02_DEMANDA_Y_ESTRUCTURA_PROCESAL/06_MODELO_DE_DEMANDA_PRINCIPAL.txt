@@ -75,14 +75,13 @@ SECCIÓN COMPLEMENTARIA — ELEMENTOS FALTANTES Y AMPLIACIONES
 (Investigación complementaria)
 ================================================================================
 
-1. CORRECCIÓN DE COMPETENCIA TERRITORIAL
+1. NOTA SOBRE COMPETENCIA TERRITORIAL
 ────────────────────────────────────────────────────────────────
 
-   ERROR EN EL ENCABEZADO: Dice "Departamento Judicial de Morón (Jurisdicción Merlo)"
-   CORRECTO: "Departamento Judicial de MERLO" (creado por Ley 13.859/2009)
-
-   Merlo tiene departamento judicial propio desde 2009. Presentar en Morón
-   generaría una excepción de incompetencia territorial por parte del demandado.
+   El encabezado dice "Departamento Judicial de Morón (Jurisdicción Merlo)".
+   CORRECTO: La competencia corresponde al Departamento Judicial de MORÓN,
+   que mantiene jurisdicción sobre el Partido de Merlo (la Ley 13.859/2009
+   creó el DJ de Merlo pero éste NO está operativo).
 
 
 2. RUBROS INDEMNIZATORIOS — DETALLE AMPLIADO PARA EL PETITORIO

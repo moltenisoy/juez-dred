@@ -311,7 +311,9 @@ F) LEGISLACIÓN PROVINCIAL (BUENOS AIRES):
 • Ley 11.820: Marco regulatorio de servicios de agua y cloacas (PBA).
 • Ley 13.951: Mediación previa obligatoria — Requisito prejudicial
   ineludible. Debe acreditarse Acta de Cierre sin Acuerdo.
-• Ley 15.513/2024: Aceleración procesal en procesos urgentes.
+• Ley 15.513/2024: Reforma procesal al régimen de alimentos (cuota alimentaria).
+  [NOTA: NO es aplicable directamente a daños edilicios; para celeridad
+  en procesos urgentes, ver Art. 623 bis CPCCBA y doctrina de tutela diferenciada]
 
 G) NORMATIVA MUNICIPAL (MERLO):
 ---------------------------------
@@ -345,7 +347,7 @@ H) NORMATIVA TÉCNICA:
 I) NORMATIVA PROCESAL:
 ------------------------
 • CPCCBA (Código Procesal Civil y Comercial de la PBA — Ley 7.425):
-  — Art. 313: Requisitos formales de la demanda.
+  — Art. 330: Requisitos formales de la demanda.
   — Art. 623 bis: Denuncia de daño temido e interdicto de obra ruinosa.
   — Arts. 457-474: Prueba pericial.
 • CADH Art. 8.1: Derecho a un plazo razonable de resolución judicial.
@@ -805,7 +807,7 @@ E) DEMANDA ORDINARIA POR DAÑOS Y PERJUICIOS:
    Juicio ordinario ante el Juzgado Civil y Comercial del Departamento
    Judicial de Morón, conforme CPCCBA (Ley 7.425), Libro II, Título II.
 
-F) CELERIDAD PROCESAL (Art. 15 Const. PBA; Ley 15.513/2024):
+F) CELERIDAD PROCESAL (Art. 15 Const. PBA; Art. 623 bis CPCCBA):
    Se solicita la máxima celeridad en atención a:
    • Riesgo estructural continuo;
    • Inhabilitabilidad progresiva del inmueble;
@@ -903,8 +905,8 @@ DEC-LEY 8.751/77 (Código de Faltas Municipal)
 LEY 11.769 (Seguridad eléctrica PBA)
 LEY 11.820 (Agua y cloacas PBA)
 LEY 13.951 (Mediación obligatoria)
-LEY 15.513/2024 (Aceleración procesal)
-CPCCBA (Ley 7.425): Arts. 313, 457-474, 623 bis
+LEY 15.513/2024 (Reforma proceso alimentos; NO aplicable a daños edilicios)
+CPCCBA (Ley 7.425): Arts. 330, 457-474, 623 bis
 CADH: Art. 8.1
 RES. SC 829-2017
 ORD. MERLO 757/2000: Arts. 167, 209-211, 343, 391
@@ -976,8 +978,8 @@ XIII-A. ARTÍCULOS Y NORMAS ADICIONALES DEL CCCN
   manifestación del daño, lo que es directamente aplicable al caso
   (filtraciones que persisten y se agravan durante casi 2 años).
 
-• Art. 2572 CCCN — Plazo genérico de prescripción: 3 años para acciones
-  civiles de daños y perjuicios.
+• Art. 2561 CCCN — Plazo de prescripción: 3 años para acciones
+  civiles de daños y perjuicios derivados de responsabilidad civil.
 
 • Arts. 2654-2658 CCCN — Vistas y luces: Regulan la apertura de vanos y
   disposición de vistas entre predios colindantes. Aplicable si la obra
@@ -1023,7 +1025,7 @@ XIII-B. ARTÍCULOS PROCESALES ADICIONALES DEL CPCCBA
   DETENER toda actividad constructiva adicional del demandado mientras
   se desarrolla el proceso, evitando agravamiento de los daños.
 
-• Art. 315 CPCCBA — Ofrecimiento de prueba: Regula la agregación de
+• Art. 333 CPCCBA — Ofrecimiento de prueba: Regula la agregación de
   prueba documental junto con la demanda.
 
 ================================================================================
@@ -1507,12 +1509,11 @@ SECCIÓN COMPLEMENTARIA — REPARACIÓN PLENA Y CUANTIFICACIÓN: AMPLIACIÓN Y C
 (Investigación complementaria — Abril 2026)
 ================================================================================
 
-1. CORRECCIÓN JURISDICCIONAL
-   El Departamento Judicial competente es MERLO, creado por Ley 13.859
-   (B.O. 17/12/2009), con asiento en la ciudad de Merlo, Provincia de Buenos
-   Aires. El Partido de Merlo NO pertenece al Departamento Judicial de Morón
-   desde la entrada en vigencia de dicha ley. Toda referencia anterior a
-   "Morón" debe entenderse corregida a "MERLO".
+1. NOTA JURISDICCIONAL
+   El Departamento Judicial de Merlo fue creado por Ley 13.859 (B.O. 17/12/2009),
+   pero a la fecha NO se encuentra operativo. El caso tramita ante el Departamento
+   Judicial de MORÓN, que mantiene competencia sobre el Partido de Merlo hasta la
+   efectiva puesta en funcionamiento del DJ Merlo.
 
 2. PRINCIPIO DE REPARACIÓN PLENA — Art. 1740 CCyCN
    El Art. 1740 CCyCN consagra que la reparación del daño debe ser PLENA:

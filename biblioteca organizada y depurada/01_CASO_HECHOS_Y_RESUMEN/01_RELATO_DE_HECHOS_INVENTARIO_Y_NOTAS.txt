@@ -207,14 +207,27 @@ A) CÓDIGO CIVIL Y COMERCIAL DE LA NACIÓN (CCyCN):
      es antijurídica si no está justificada."
    • Art. 1757 — Responsabilidad objetiva por el hecho de las cosas y actividades
      riesgosas: Aplicable a obras de construcción que generan riesgo.
-   • Art. 1970 — Daños causados al inmueble vecino por la construcción: El propietario
-     y el constructor responden solidariamente por los daños que resulten de la ruina
-     o amenaza de ruina de un edificio. Comprende desprendimientos de cielo raso,
-     filtraciones, rajaduras y deterioro estructural.
-   • Art. 1971 — Responsabilidad por daños provenientes de la obra al inmueble lindero.
-   • Art. 1973 — Inmisiones: Toda obra nueva que cause daño o amenace causar daño a un
-     inmueble vecino puede ser objetada. Subsiste la acción por daños y perjuicios
-     aunque la obra esté terminada.
+   • Art. 1970 — Normas administrativas: Las limitaciones impuestas al dominio
+     privado en el interés público están regidas por el derecho administrativo.
+     El uso del dominio sobre inmuebles debe ejercerse conforme a las normas
+     administrativas aplicables en cada jurisdicción (permisos de obra, código
+     de edificación). Los límites en materia de relaciones de vecindad rigen
+     en subsidio de las normas administrativas.
+   • Art. 1971 — Daño no justificado: Los deberes impuestos por los límites al
+     dominio no generan indemnización de daños, a menos que por la actividad
+     del hombre se agrave el perjuicio. Aplicable cuando la obra clandestina
+     agrava los daños al inmueble vecino.
+   • Art. 1973 — Inmisiones: Las inmisiones que exceden la normal tolerancia
+     según la condición del lugar (humo, calor, olores, ruidos, vibraciones
+     y similares) dan derecho a reclamar la cesación y la indemnización de
+     daños. Las acciones pueden intentarse contra el autor de la inmisión y
+     contra el titular del inmueble del que provienen. Aplicable a filtraciones,
+     humedad y daños estructurales provenientes de obra vecina.
+   • Arts. 1711-1713 — Acción preventiva: Toda persona tiene el deber de
+     prevenir un daño. Si la acción u omisión de un tercero puede causar un
+     daño futuro, se puede reclamar judicialmente la adopción de medidas
+     preventivas. Aplicable al riesgo estructural por tanque sobre losa y
+     al riesgo eléctrico activo. La vía procesal en PBA es el Art. 623 bis CPCCBA.
    • Arts. 240 y 241 — Límites al ejercicio de los derechos individuales sobre los bienes:
      Prohibición de uso de la propiedad que cause molestias intolerables a los vecinos.
      Aplicable a filtraciones, humedad, riesgo eléctrico y sobrecarga estructural.

@@ -500,13 +500,13 @@ SECCIÓN COMPLEMENTARIA — MEDIDAS CAUTELARES ESPECÍFICAS: AMPLIACIÓN Y CORRE
 (Investigación complementaria — Abril 2026)
 ================================================================================
 
-1. CORRECCIÓN CRÍTICA — DEPARTAMENTO JUDICIAL COMPETENTE
+1. NOTA — DEPARTAMENTO JUDICIAL COMPETENTE
 ────────────────────────────────────────────────────────────────────────────────
-CORRECCIÓN: El Departamento Judicial competente para el caso en Merlo es el
-DEPARTAMENTO JUDICIAL DE MERLO, creado por Ley 13.859/2009. Las referencias
-previas en este archivo a "Departamento Judicial de Morón" responden a la
-situación histórica previa a la plena implementación de los órganos de Merlo.
-A la fecha, la competencia Civil y Comercial corresponde a MERLO.
+El Departamento Judicial competente para el caso en Merlo es el DEPARTAMENTO
+JUDICIAL DE MORÓN. La Ley 13.859/2009 creó el DJ Merlo pero NO está operativo
+para el fuero Civil y Comercial. Merlo únicamente tiene órganos propios en
+Familia y Justicia de Paz. Para juicios ordinarios de daños y perjuicios,
+la competencia sigue radicada en Morón.
 
 2. MEDIDA CAUTELAR INNOVATIVA — CONCEPTO Y PROCEDENCIA
 ────────────────────────────────────────────────────────────────────────────────

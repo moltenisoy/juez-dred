@@ -36,16 +36,17 @@ SECCIÓN B: MARCO NORMATIVO Y FUNDAMENTOS LEGALES DE LA SOLICITUD
 
 A) LEY 8912/1977 — ORDENAMIENTO TERRITORIAL Y USO DEL SUELO (PBA):
 
-   • Art. 56 y ss. — Fraccionamiento y uso del suelo: toda modificación en la
-     estructura edilicia debe ajustarse a las normas de zonificación y al Código
-     de Edificación del municipio.
-   • Art. 73 — Inspección y control municipal: las municipalidades DEBEN
-     inspeccionar obras y verificar cumplimiento normativo.
-   • Art. 85 y ss. — Procedimientos sancionatorios: faculta a los municipios
-     a ordenar paralización, multas, clausura y demolición.
-   • La denuncia del vecino afectado ACTIVA la obligación municipal de inspección
+   • Art. 56 y ss. — Creación y apertura de nuevos núcleos urbanos: requieren
+     previa aprobación de la autoridad competente conforme planes y normas vigentes.
+   • Art. 73 — Edificaciones peligrosas: las municipalidades pueden ordenar la
+     demolición, reparación, reconstrucción o evacuación de edificios considerados
+     peligrosos para la seguridad o salubridad, a costa del propietario.
+   • Art. 83 y ss. — Infracciones y sanciones: establece el régimen sancionatorio
+     por incumplimiento de las normas de ordenamiento territorial.
+   • La denuncia del vecino afectado ACTIVA la obligación municipal de actuación
      y la posterior responsabilidad del municipio por omisión si no actúa
-     (Art. 1764-1766 CCyCN, responsabilidad estatal por omisión de control).
+     (Arts. 1764-1766 CCyCN: la responsabilidad del Estado se rige por el
+     derecho administrativo nacional o local según corresponda).
 
 B) CÓDIGO DE EDIFICACIÓN DE LA MUNICIPALIDAD DE MERLO:
 
@@ -60,8 +61,8 @@ B) CÓDIGO DE EDIFICACIÓN DE LA MUNICIPALIDAD DE MERLO:
 
 C) DECRETO-LEY 6769/58 — LEY ORGÁNICA DE LAS MUNICIPALIDADES (PBA):
 
-   • Art. 27 inc. 1: Atribuye al Departamento Ejecutivo (Intendente) la facultad
-     de ordenar inspecciones, clausuras y demoliciones de obras irregulares.
+   • Art. 27 inc. 1: Impone al Intendente la obligación de cumplir y hacer cumplir
+     las leyes, ordenanzas y resoluciones, lo que incluye la normativa edilicia.
    • Art. 27 inc. 3: Competencia municipal para aplicar sanciones por infracciones
      al código de edificación.
    • Art. 226: El intendente puede ordenar medidas de seguridad urgentes
@@ -69,18 +70,25 @@ C) DECRETO-LEY 6769/58 — LEY ORGÁNICA DE LAS MUNICIPALIDADES (PBA):
 
 D) CÓDIGO CIVIL Y COMERCIAL DE LA NACIÓN:
 
-   • Art. 1970 — Responsabilidad por daños al inmueble vecino por construcción.
-   • Art. 1973 — Inmisiones: Protección del vecino frente a obras que causen daño.
-   • Arts. 1764-1766 — Responsabilidad del Estado (municipio) por omisión
-     de control cuando no inspecciona pese a denuncia.
+   • Art. 1970 — Normas administrativas: El uso del dominio sobre inmuebles
+     debe ejercerse conforme a las normas administrativas aplicables en cada
+     jurisdicción (permisos de obra, código de edificación).
+   • Art. 1973 — Inmisiones: Las inmisiones que exceden la normal tolerancia
+     dan derecho a reclamar la cesación y la indemnización de daños. Protección
+     del vecino frente a daños provenientes de inmueble contiguo.
+   • Arts. 1764-1766 — La responsabilidad del Estado y sus funcionarios
+     se rige por las normas del derecho administrativo nacional o local
+     según corresponda (no por el régimen civil general).
 
 E) CONTRATO DE COPROPIEDAD / REGLAMENTO DE PH:
 
-   • Art. 2038 CCyCN — Obligaciones de los copropietarios: No pueden realizar
-     modificaciones que afecten la seguridad del edificio o sus partes comunes.
-   • Art. 2040 CCyCN — Prohibiciones: No se pueden realizar obras nuevas que
-     perjudiquen la solidez del edificio o afecten derechos de otros propietarios
-     sin autorización de la asamblea.
+   • Art. 2046 CCyCN — Obligaciones del propietario en PH: conservar en buen
+     estado su unidad y las partes privativas y comunes; cumplir las
+     obligaciones del reglamento de PH y del reglamento interno.
+   • Art. 2047 CCyCN — Prohibiciones en PH: deben respetarse las prohibiciones
+     legales y reglamentarias al uso de cosas privativas y comunes. Cualquier
+     propietario o el administrador puede pedir el cese de los actos prohibidos
+     y la remoción de los efectos producidos.
    • El contrato de copropiedad constituye prueba documental directa del
      incumplimiento, pues las obras se realizaron sin consulta ni consentimiento.
 
