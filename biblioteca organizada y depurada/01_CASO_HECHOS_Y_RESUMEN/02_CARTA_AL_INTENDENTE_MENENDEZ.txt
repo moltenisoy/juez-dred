@@ -82,12 +82,13 @@ D) CÓDIGO CIVIL Y COMERCIAL DE LA NACIÓN:
 
 E) CONTRATO DE COPROPIEDAD / REGLAMENTO DE PH:
 
-   • Art. 2038 CCyCN — Obligaciones del propietario en PH: conservar en buen
-     estado su unidad y las partes comunes; permitir acceso para reparaciones;
-     contribuir a gastos comunes; comunicar daños; cumplir el reglamento de PH.
-   • Art. 2040 CCyCN — Obra nueva: quien se considere afectado en su posesión
-     o derecho real por una obra nueva puede reclamar judicialmente la suspensión
-     o demolición si acredita que le resulta perjudicial.
+   • Art. 2046 CCyCN — Obligaciones del propietario en PH: conservar en buen
+     estado su unidad y las partes privativas y comunes; cumplir las
+     obligaciones del reglamento de PH y del reglamento interno.
+   • Art. 2047 CCyCN — Prohibiciones en PH: deben respetarse las prohibiciones
+     legales y reglamentarias al uso de cosas privativas y comunes. Cualquier
+     propietario o el administrador puede pedir el cese de los actos prohibidos
+     y la remoción de los efectos producidos.
    • El contrato de copropiedad constituye prueba documental directa del
      incumplimiento, pues las obras se realizaron sin consulta ni consentimiento.
 
