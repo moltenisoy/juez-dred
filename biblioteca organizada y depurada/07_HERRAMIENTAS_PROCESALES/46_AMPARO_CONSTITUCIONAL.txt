@@ -53,8 +53,8 @@ LÍMITES Y CONDICIONES:
   acumulables (el amparo para detener el daño; el juicio ordinario para reparar).
 - Plazo de interposición: según Ley 13.928 PBA (modif. Leyes 14.192 y 15.016),
   dentro de los 30 DÍAS desde que el acto lesivo fue conocido. En actos de
-  ejecución continuada (filtraciones permanentes), el plazo se renueva con
-  cada nuevo hecho dañoso.
+  ejecución continuada (filtraciones permanentes), el plazo se renueva desde
+  el conocimiento de cada nuevo hecho dañoso.
 
 RELACIÓN CON DENUNCIA DE DAÑO TEMIDO (Art. 623 bis CPCC PBA):
 Son vías ALTERNATIVAS y potencialmente acumulables, aunque en la práctica los
