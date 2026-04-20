@@ -82,7 +82,7 @@ SECCION 3 — DATOS INSTITUCIONALES VERIFICADOS
      Sede: L.N. Alem N°826, Morón (1708).
      Teléfonos: (011) 4628-9171 / 4483-2233 / 011-15-5156-1949.
      Email: administracion@capba3.org.ar
-     Web: www.capbacs.com
+     Web: www.capba3.org.ar
      Trámite: Denuncia disciplinaria o por ejercicio ilegal ante el Tribunal
      de Disciplina del CAPBA Distrito III.
 
@@ -301,13 +301,19 @@ SECCION 6 — ANÁLISIS TÉCNICO AMPLIADO: CAPACIDAD DE CARGA Y NORMATIVA CIRSOC
 6.1. VALORES DE SOBRECARGA SEGÚN CIRSOC 101 (Tabla 3.1)
 
      Categoría A (Viviendas):
-     • Techo NO transitable: 150 kg/m² (1,5 kN/m²)
-     • Techo transitable/terraza: 250 kg/m² (2,5 kN/m²)
-     • Sobrecarga de mantenimiento (acceso esporádico): 100 kg/m²
+     • Techo NO transitable (cubierta inaccesible, solo mantenimiento):
+       100 kg/m² (1,0 kN/m²)
+     • Techo transitable / terraza (acceso habitual de personas):
+       200 kg/m² (2,0 kN/m²)
+
+     CORRECCIÓN RESPECTO A VERSIÓN ANTERIOR: Los valores 150 kg/m² y
+     250 kg/m² que figuraban en versiones previas de este archivo son
+     INCORRECTOS. Los valores verificados en CIRSOC 101 (Tabla 3.1) son
+     los indicados arriba (100 kg/m² y 200 kg/m² respectivamente).
 
      NOTA CRÍTICA: La losa del inmueble damnificado es un techo NO transitable
      (no tiene acceso preparado ni barandas). Por lo tanto, el diseño original
-     contemplaba una sobrecarga máxima de 150 kg/m².
+     contemplaba una sobrecarga máxima de 100 kg/m².
 
 6.2. CÁLCULO DE LA SOBRECARGA IMPUESTA POR EL TANQUE
 
@@ -318,15 +324,18 @@ SECCION 6 — ANÁLISIS TÉCNICO AMPLIADO: CAPACIDAD DE CARGA Y NORMATIVA CIRSOC
      Si la base del soporte ocupa aproximadamente 0,5 m²:
      → Carga concentrada: 820 kg / 0,5 m² = 1.640 kg/m²
 
-     EXCESO SOBRE LA SOBRECARGA DE DISEÑO:
-     → 1.640 kg/m² vs. 150 kg/m² admisibles = 10,9 VECES la sobrecarga de diseño
+     EXCESO SOBRE LA SOBRECARGA DE DISEÑO (valor correcto: 100 kg/m²):
+     → 1.640 kg/m² vs. 100 kg/m² admisibles = 16,4 VECES la sobrecarga de diseño
 
      Incluso si la base ocupara 1 m²:
-     → 820 kg/m² vs. 150 kg/m² = 5,5 VECES la sobrecarga de diseño
+     → 820 kg/m² vs. 100 kg/m² = 8,2 VECES la sobrecarga de diseño
 
-     CONCLUSIÓN TÉCNICA: La carga impuesta excede entre 5,5 y 10,9 veces la
+     CONCLUSIÓN TÉCNICA: La carga impuesta excede entre 8,2 y 16,4 veces la
      sobrecarga mínima de diseño para losas de vivienda no transitables.
-     Esto configura una VIOLACIÓN GRAVE de CIRSOC 101.
+     Esto configura una VIOLACIÓN GRAVÍSIMA de CIRSOC 101.
+     (NOTA: Versiones anteriores citaban 150 kg/m² como valor admisible
+     y calculaban 5,5x y 10,9x. Los valores correctos según CIRSOC 101
+     son 100 kg/m², lo que agrava aún más el exceso.)
 
 6.3. VERIFICACIONES TÉCNICAS QUE DEBIERON REALIZARSE (Y NO SE HICIERON)
 
@@ -361,7 +370,7 @@ SECCION 6 — ANÁLISIS TÉCNICO AMPLIADO: CAPACIDAD DE CARGA Y NORMATIVA CIRSOC
        esfuerzos entre materiales.
      • Degradación por ciclos térmicos: 30+ años de expansión/contracción.
 
-     La combinación de LOSA DEGRADADA + SOBRECARGA EXCESIVA (5,5-10,9x)
+     La combinación de LOSA DEGRADADA + SOBRECARGA EXCESIVA (8,2-16,4x)
      genera un riesgo real de:
      • Punzonado localizado (perforación de la losa en el punto de apoyo)
      • Colapso parcial del paño de losa cargado
@@ -390,22 +399,35 @@ SECCION 7 — ANÁLISIS PENAL AMPLIADO
 
 7.2. ARTÍCULO 184 CP — DAÑO CALIFICADO
 
-     "La pena será de tres meses a cuatro años de prisión si mediare cualquiera
-     de las circunstancias siguientes: inc. 5) ejecutarlo en cosas de uso público."
+     "La pena será de tres (3) meses a cuatro (4) años de prisión, si mediare
+     cualquiera de las circunstancias siguientes: [...] 5°) ejecutarlo en archivos,
+     registros, bibliotecas, museos o en puentes, caminos, paseos u otros bienes
+     de uso público; o en tumbas, signos conmemorativos, monumentos, estatuas,
+     cuadros u otros objetos de arte colocados en edificios o lugares públicos;
+     o en datos, documentos, programas o sistemas informáticos públicos."
 
-     POSIBLE APLICACIÓN: Si la modificación del suministro de agua afecta
-     la red pública o si los daños comprometen servicios públicos (electricidad,
-     agua potable), podría calificarse el daño.
+     APLICACIÓN AL CASO — NO CORRESPONDE: El inc. 5° protege bienes de uso
+     público (plazas, caminos, monumentos, museos, sistemas informáticos
+     públicos). Una losa privada, un cielorraso o una instalación domiciliaria
+     de agua NO son bienes de uso público en el sentido de esta norma. Por lo
+     tanto, el Art. 184 CP NO resulta aplicable al caso concreto. La figura
+     penal adecuada es el Art. 183 CP (daño doloso simple).
 
 7.3. ARTÍCULO 189 CP — ESTRAGO CULPOSO
 
-     "Será reprimido con prisión de un mes a un año, el que por imprudencia o
-     negligencia, por impericia en su arte o profesión, o por inobservancia de
-     los reglamentos o deberes a su cargo, causare incendio, explosión u otro
-     estrago."
+     "Será reprimido con prisión de un mes a un año, el que, por imprudencia o
+     negligencia, por impericia en su arte o profesión o por inobservancia de
+     los reglamentos u ordenanzas, causare un incendio u otros estragos.
+     Si el hecho u omisión culpable pusiere en peligro de muerte a alguna
+     persona o causare la muerte de alguna persona, el máximo de la pena
+     podrá elevarse hasta cinco años."
 
-     "Si resultare peligro común para los bienes o las personas: prisión de
-     uno a cinco años."
+     NOTA SOBRE EL TEXTO VIGENTE: El agravante del Art. 189 CP requiere
+     "peligro de muerte" o "muerte" de alguna persona. La redacción anterior
+     ("peligro común para los bienes o las personas") corresponde al texto
+     histórico previo a la reforma y NO está vigente. Para la configuración
+     del agravante deberá acreditarse riesgo concreto de muerte (p. ej.,
+     colapso de losa sobre habitante o electrocución).
 
      CONFIGURACIÓN EN EL CASO:
      • IMPRUDENCIA/NEGLIGENCIA: Obra sin permisos ni cálculos estructurales.
@@ -413,27 +435,44 @@ SECCION 7 — ANÁLISIS PENAL AMPLIADO
        Edificación, norma AEA 90364.
      • ESTRAGO: Riesgo de derrumbe por sobrecarga + riesgo de electrocución
        por agua en instalación eléctrica.
-     • PELIGRO COMÚN: Afecta al habitante del inmueble damnificado y
-       potencialmente a vecinos contiguos.
-     • PENA AGRAVADA: 1 a 5 años de prisión.
+     • PELIGRO DE MUERTE (agravante): Si se acredita riesgo concreto de
+       derrumbe sobre el habitante o electrocución, aplica el agravante.
+     • PENA BÁSICA: 1 mes a 1 año. PENA AGRAVADA (si hay peligro de muerte
+       o muerte): el máximo puede elevarse hasta 5 años.
 
 7.4. ARTÍCULO 94 CP — LESIONES CULPOSAS
 
      Si el damnificado ha sufrido descargas eléctricas (documentadas), alergias
      respiratorias por hongos, o cualquier afectación a su salud derivada de
      las condiciones del inmueble:
-     • PENA: 1 mes a 3 años de prisión o multa.
-     • Agravante si hay más de una víctima o si se infringen reglamentos.
+     • PENA: 1 mes a 3 años de prisión, o multa de 1.000 a 15.000 pesos,
+       e inhabilitación especial de 1 a 4 años (los tres componentes son
+       acumulativos, no alternativos en el sentido de la pena privativa).
+     • AGRAVANTE (segundo párrafo del Art. 94): Cuando las lesiones sean
+       graves o gravísimas (Arts. 90 o 91 CP) Y sean más de una las víctimas
+       lesionadas, el mínimo de la pena se eleva a 6 meses de prisión o
+       multa de 3.000 pesos e inhabilitación de 18 meses.
+     • NOTA: La "inobservancia de los reglamentos" es un elemento del tipo
+       base (no un agravante). El agravante real requiere lesiones graves/
+       gravísimas con pluralidad de víctimas.
 
-7.5. ARTÍCULO 106 CP — ABANDONO DE PERSONA
+7.5. ARTÍCULO 106 CP — ABANDONO DE PERSONA — NO APLICABLE AL CASO
 
-     "El que pusiere en peligro la vida o la salud de otro, sea colocándolo en
-     situación de desamparo, sea abandonando a su suerte a una persona incapaz
-     de valerse."
+     Texto vigente: "Será reprimido con prisión de dos a seis años, el que
+     pusiere en peligro la vida o la salud de una persona, abandonándola a
+     su suerte, cuando la víctima esté incapaz de valerse por sí misma, ya
+     sea por su edad, por una enfermedad o por una lesión, y el autor tuviere
+     la obligación de mantenerla o cuidarla por ley, por contrato o por su
+     situación de garante."
 
-     POSIBLE CONFIGURACIÓN: Al mantener el tanque sobre losa sin cálculo
-     durante más de un año con conocimiento del riesgo y de los reclamos,
-     el demandado "coloca en peligro" la integridad del habitante.
+     APLICACIÓN AL CASO — NO CORRESPONDE: Esta figura exige DOS requisitos
+     que NO se configuran en la relación entre vecinos:
+     1. Que la víctima sea INCAPAZ de valerse por sí misma (por edad,
+        enfermedad o lesión) — el damnificado no se encuentra en ese estado.
+     2. Que el autor tenga OBLIGACIÓN LEGAL, CONTRACTUAL O DE GARANTE de
+        mantener o cuidar a la víctima — no existe tal vínculo entre vecinos.
+     Por tanto, el Art. 106 CP NO resulta aplicable al caso concreto y
+     NO debe invocarse en la denuncia penal.
 
 7.6. NOTA SOBRE COMPETENCIA:
      • La competencia civil, comercial y penal corresponde al Departamento
@@ -477,7 +516,8 @@ SECCION 9 — ACCIÓN PREVENTIVA: DESARROLLO AMPLIADO (Arts. 1710-1713 CCyCN)
 9.3. LEGITIMACIÓN:
      • Cualquier persona que acredite un interés razonable (Art. 1712 CCyCN)
      • No requiere la mediación prejudicial previa cuando existe urgencia
-       (Art. 2 inc. 5 Ley 13.951 — excepciones a la mediación)
+       (Art. 4° inc. 5 Ley 13.951 — excepciones a la mediación;
+       el Art. 2° sólo establece la obligatoriedad general y remite al Art. 4°)
 
 9.4. JURISPRUDENCIA:
      CNCiv., Sala F: La acción preventiva procede ante amenaza de daño cierto
