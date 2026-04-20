@@ -99,7 +99,7 @@ E) Obligaciones de vecindad vulneradas (CCyC)
 
 
 * Art. 1977 CCyC — Acceso indispensable: aunque quien construye puede solicitar el uso temporal del predio lindero, DEBE REPARAR TODOS LOS DAÑOS CAUSADOS y minimizar las molestias. El demandado NO reparó nada.
-* Art. 2616 CCyC — Responsabilidad por daños: el propietario es responsable por toda caída de materiales, filtraciones o grietas producidas por uso de maquinaria pesada sobre el techo vecino.
+* Arts. 1757 y 1977 CCyC — Responsabilidad por daños: el propietario que realiza una obra de construcción responde por toda caída de materiales, filtraciones o grietas producidas por el uso de maquinaria sobre el techo del vecino, en virtud de la responsabilidad objetiva por actividad riesgosa (Art. 1757) y la obligación expresa de reparar todos los daños causados al usar el predio lindero (Art. 1977). [NOTA CORRECTIVA: El Art. 2616 CCyCN originalmente citado en esta línea es "Capacidad" en materia de Derecho Internacional Privado, norma sin ninguna vinculación con el objeto de esta cita; fue reemplazado por la base legal correcta.]
 * Art. 2630 CCyC — Aguas pluviales: los nuevos techos deben diseñarse para que las aguas caigan sobre el propio suelo. Está prohibido el desagüe sobre el terreno o techo del vecino. El demandado modificó el sistema de desagote del techo del inmueble de la parte actora.
 * Medianería: cualquier modificación que afecte la pared medianera debe ser acordada. Si la nueva planta se apoya en muro medianero, el vecino tiene derecho a reclamar el valor de la mitad de la pared utilizada.
 * Norma CIRSOC 101: la sobrecarga de diseño para locales residenciales es de 200 kg/m². La reubicación de una carga de 750+ kg sobre losa flotante del vecino excede los parámetros de seguridad y fue ejecutada sin estudio estructural alguno.
@@ -162,9 +162,9 @@ NORMA
 	Art. 1977 CCyC
 	Uso del predio lindero — derecho y límites
 	Quien usa el predio del vecino para trabajar debe reparar todos los daños causados. El demandado usó el techo ajeno y no reparó ningún daño.
-	Art. 2616 CCyC
+	Arts. 1757 y 1977 CCyC
 	Responsabilidad por caída de materiales
-	El propietario responde por caída de materiales, filtraciones o grietas producidas por uso de maquinaria sobre techo vecino.
+	El propietario que realiza una actividad riesgosa de construcción responde por caída de materiales, filtraciones o grietas sobre el inmueble vecino (Art. 1757, responsabilidad objetiva). Art. 1977 obliga a reparar todos los daños causados al usar el predio lindero. [NOTA CORRECTIVA: El Art. 2616 CCyCN originalmente citado aquí es "Capacidad" en Derecho Internacional Privado y fue reemplazado por la base legal correcta.]
 	Art. 2630 CCyC
 	Aguas pluviales
 	Prohíbe el desagüe de aguas pluviales sobre el terreno o techo del vecino. El demandado modificó el sistema de desagote de la parte actora, violando esta norma.
@@ -525,14 +525,31 @@ En la Sección de Mediación Previa Obligatoria (Vía C), se cita "art. 3986 del
 norma de interrupción de la prescripción. Dicho artículo pertenece al Código Civil de Vélez
 Sársfield, derogado por la Ley 26.994. Las normas vigentes sobre interrupción y suspensión
 de la prescripción en el CCyCN son:
-• Art. 2541 CCyCN — Interrupción por reconocimiento del obligado.
+• Art. 2541 CCyCN — Suspensión por interpelación fehaciente (carta documento): el curso de
+  la prescripción se suspende, por una sola vez, por la interpelación fehaciente hecha por
+  el titular del derecho contra el deudor o poseedor. Esta suspensión sólo tiene efecto
+  durante seis (6) meses o el plazo menor que corresponda a la prescripción de la acción.
+  [NOTA CORRECTIVA: Este artículo fue originalmente citado con el título erróneo
+  "Interrupción por reconocimiento del obligado"; el texto correcto es "Suspensión por
+  interpelación fehaciente". La interrupción por reconocimiento corresponde al Art. 2545.]
 • Art. 2542 CCyCN — Suspensión por pedido de mediación: el curso de la prescripción se
   suspende desde la expedición del formulario de mediación hasta veinte (20) días contados
   desde el momento en que el acta de cierre del procedimiento de mediación se encuentre a
   disposición de las partes.
-• Art. 2544 CCyCN — Interrupción por petición judicial (demanda).
-• Art. 2545 CCyCN — Duración de los efectos: la interrupción del curso de la prescripción
-  por petición judicial tiene efecto retroactivo al día de la presentación.
+• Art. 2545 CCyCN — Interrupción por reconocimiento del obligado: el curso de la
+  prescripción se interrumpe por el reconocimiento que el deudor o poseedor efectúa del
+  derecho de aquel contra quien prescribe. [NOTA CORRECTIVA: Este artículo fue
+  originalmente citado como "Duración de los efectos / efecto retroactivo"; ese título
+  corresponde en rigor a Art. 2544 (Efectos). La interrupción por reconocimiento es
+  Art. 2545.]
+• Art. 2546 CCyCN — Interrupción por petición judicial (demanda): el curso de la
+  prescripción se interrumpe por toda petición del titular del derecho ante autoridad
+  judicial que traduzca la intención de no abandonarlo contra el deudor o poseedor.
+  [NOTA CORRECTIVA: Este artículo fue originalmente citado como Art. 2544; el número
+  correcto para "Interrupción por petición judicial" es Art. 2546.]
+• Art. 2544 CCyCN — Efectos de la interrupción: el efecto de la interrupción de la
+  prescripción es tener por no sucedido el lapso que la precede e iniciar un nuevo plazo
+  de prescripción completo desde que cesa la causa de la interrupción.
 La Ley 13.951 PBA (mediación obligatoria) debe leerse en conjunto con estas normas del CCyCN.
 
 8.2. Corrección de la referencia al Art. 1113 CC
