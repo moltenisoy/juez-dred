@@ -209,28 +209,38 @@ A) CÓDIGO CIVIL Y COMERCIAL DE LA NACIÓN (CCyCN):
      riesgosas: Aplicable a obras de construcción que generan riesgo.
    • Art. 1970 — Normas administrativas: Las limitaciones impuestas al dominio
      privado en el interés público están regidas por el derecho administrativo.
-     El uso del dominio sobre inmuebles debe ejercerse conforme a las normas
-     administrativas aplicables en cada jurisdicción (permisos de obra, código
-     de edificación). Los límites en materia de relaciones de vecindad rigen
-     en subsidio de las normas administrativas.
-   • Art. 1971 — Daño no justificado: Los deberes impuestos por los límites al
+     El aprovechamiento y uso del dominio sobre inmuebles debe ejercerse de
+     conformidad con las normas administrativas aplicables en cada jurisdicción
+     (permisos de obra, código de edificación). Los límites en materia de
+     relaciones de vecindad rigen en subsidio de las normas administrativas.
+   • Art. 1971 — Daño no indemnizable: Los deberes impuestos por los límites al
      dominio no generan indemnización de daños, a menos que por la actividad
      del hombre se agrave el perjuicio. Aplicable cuando la obra clandestina
      agrava los daños al inmueble vecino.
-   • Art. 1973 — Inmisiones: Las inmisiones que exceden la normal tolerancia
-     según la condición del lugar (humo, calor, olores, ruidos, vibraciones
-     y similares) dan derecho a reclamar la cesación y la indemnización de
-     daños. Las acciones pueden intentarse contra el autor de la inmisión y
-     contra el titular del inmueble del que provienen. Aplicable a filtraciones,
+   • Art. 1973 — Inmisiones: Las molestias que ocasionan el humo, calor,
+     olores, luminosidad, ruidos, vibraciones o inmisiones similares por el
+     ejercicio de actividades en inmuebles vecinos, no deben exceder la normal
+     tolerancia teniendo en cuenta las condiciones del lugar y aunque medie
+     autorización administrativa para aquéllas. Según las circunstancias del
+     caso, los jueces pueden disponer la remoción de la causa de la molestia
+     o su cesación y la indemnización de los daños. Aplicable a filtraciones,
      humedad y daños estructurales provenientes de obra vecina.
    • Arts. 1711-1713 — Acción preventiva: Toda persona tiene el deber de
      prevenir un daño. Si la acción u omisión de un tercero puede causar un
      daño futuro, se puede reclamar judicialmente la adopción de medidas
      preventivas. Aplicable al riesgo estructural por tanque sobre losa y
      al riesgo eléctrico activo. La vía procesal en PBA es el Art. 623 bis CPCCBA.
-   • Arts. 240 y 241 — Límites al ejercicio de los derechos individuales sobre los bienes:
-     Prohibición de uso de la propiedad que cause molestias intolerables a los vecinos.
-     Aplicable a filtraciones, humedad, riesgo eléctrico y sobrecarga estructural.
+   • Art. 240 — Límites al ejercicio de los derechos individuales sobre
+     los bienes: El ejercicio de los derechos individuales sobre los bienes debe
+     ser compatible con los derechos de incidencia colectiva. Debe conformarse a
+     las normas del derecho administrativo nacional y local dictadas en el interés
+     público y no debe afectar el funcionamiento ni la sustentabilidad de los
+     ecosistemas de la flora, la fauna, la biodiversidad, el agua, los valores
+     culturales, el paisaje, entre otros, según los criterios previstos en la
+     ley especial.
+   • Art. 241 — Jurisdicción: Cualquiera sea la jurisdicción en que se ejerzan
+     los derechos, debe respetarse la normativa sobre presupuestos mínimos que
+     resulte aplicable.
    • Art. 1725 — Valoración de la conducta: Se agrava la responsabilidad cuando el
      causante tiene conocimientos especiales (constructor, albañil) o cuando actúa
      con conocimiento del daño que provoca.
@@ -297,16 +307,19 @@ A) CIRSOC — Reglamentos de Seguridad Estructural (vigencia enero 2026):
 B) NORMA AEA 90364 — Instalaciones Eléctricas de Baja Tensión:
 
    • Regula la seguridad de instalaciones eléctricas en todo el territorio nacional.
-   • Sección 701: Zonas con riesgo aumentado (baños, zonas exteriores, áreas
-     húmedas). PROHÍBE la falta de protección o mantenimiento deficiente en zonas
-     donde hay exposición a agua o humedad.
+   • Sección 701: Locales con bañera o ducha (baños y vestuarios con ducha).
+     Organiza el espacio en zonas 0, 1 y 2 con distintos grados de protección
+     IP según la proximidad al punto de agua. EXIGE interruptor diferencial
+     de 30 mA en todo circuito que alimente estos locales y prohíbe conductores
+     desnudos. La exposición a humedad de componentes eléctricos (tablero,
+     llave térmica) constituye violación de esta norma.
    • EXIGE protección diferencial (disyuntor), equipotencialidad y grados de
      protección IP adecuados para componentes expuestos a humedad.
    • La llave térmica expuesta a filtraciones de agua constituye una violación
      grave de la norma AEA 90364 y genera:
      - Riesgo de electrocución (confirmado por descargas recibidas)
      - Responsabilidad civil del causante de las filtraciones
-     - Posible responsabilidad penal por exposición a peligro (Art. 106 CP)
+     - Posible responsabilidad penal por abandono de personas (Art. 106 CP)
 
 C) CÓDIGO DE EDIFICACIÓN — PROVINCIA DE BUENOS AIRES:
 
