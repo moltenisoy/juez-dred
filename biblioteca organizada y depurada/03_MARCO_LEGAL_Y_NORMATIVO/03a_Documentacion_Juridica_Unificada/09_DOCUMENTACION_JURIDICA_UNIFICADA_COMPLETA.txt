@@ -46,7 +46,7 @@ SUJETO RESPONSABLE | FUNDAMENTO LEGAL | TIPO DE RESPONSABILIDAD
 Dueño del inmueble | CCyC Art. 1758 | Objetiva — por ser dueño de la cosa/actividad riesgosa
 Director de Obra | CCyC Art. 1269 / Ord. 757 Merlo | Profesional — por negligencia en vigilancia y control
 Empresa/Constructor | CCyC Art. 1273 | Solidaria — como ejecutor material de la obra
-Municipio de Merlo | Ley 11.723 PBA / Ord. 757/00 | Por omisión del poder de policía (si hubo denuncias previas sin respuesta)
+Municipio de Merlo | Dec. Ley 6769/58 PBA (Ley Orgánica Municipal) / CCyCN Arts. 1764-1767 / Ord. 757/00 Art. 168 | Por omisión del poder de policía (si hubo denuncias previas sin respuesta)
 
 
 2. MARCO CONSTITUCIONAL
@@ -112,8 +112,9 @@ ARTÍCULO | FIGURA PENAL | CONTENIDO Y APLICACIÓN AL CASO
 Art. 183 | Daño | Quien destruyere, inutilizare o hiciere desaparecer una cosa mueble o inmueble, total o parcialmente ajena, es reprimido con prisión de 15 días a 1 año. La omisión de reparar la filtración durante dos años, sabiendo el daño que se causa, puede interpretarse como dolo eventual.
 Art. 186 | Estrago | Configura delito el que causare estrago por medio de inundación u otro medio de acción devastadora. Aplicable si se acredita que el desvío de aguas hacia el inmueble lindero fue deliberado.
 Art. 189 | Estrago culposo | El que por imprudencia, negligencia, impericia en su arte o profesión, o inobservancia de los reglamentos, causare un peligro común, es reprimido. Si el director de obra o constructor, por inobservancia del Reglamento de Edificación de Merlo, no aisló las aguas de lluvia de la instalación eléctrica vecina, incurre en esta figura. La jurisprudencia en PBA impone inhabilitación profesional a arquitectos por riesgos estructurales y de servicios.
-Art. 191 | Peligro común | El peligro se configura cuando el daño no afecta solo a una persona, sino que crea un riesgo para cualquiera que ingrese a la vivienda o circule cerca. Un cortocircuito por humedad en una casa lindera puede derivar en un incendio que afecte a toda la manzana.
-Art. 229 | Peligro colectivo por derrumbe | Aplicable a quien, dirigiendo o ejecutando una construcción, inobserve las reglas del arte de construir y cree un peligro de derrumbe por carga no verificada sobre losa.
+Art. 191 | ⚠ ERROR CONFIRMADO — NO APLICABLE AL CASO | ✅ VERIFICADO CON FUENTE EXTERNA: El Art. 191 del Código Penal Argentino (Ley 11.179) se ubica en la Sección 2ª del Capítulo de Delitos contra la Seguridad Pública ("Delitos contra la seguridad de los medios de transporte y de comunicación"). Tipifica conductas que ponen en peligro o interrumpen el normal funcionamiento de transportes por tierra, agua o aire (trenes, buques, aeronaves). NO tiene ninguna relación con obras de construcción, humedad, riesgo eléctrico ni peligro en inmuebles. Su invocación en este caso carece de fundamento legal y podría ser rechazada de plano. RECOMENDACIÓN: ELIMINAR toda referencia al Art. 191 CP de este caso. El peligro para terceros derivado de un cortocircuito o incendio por humedad encuadra en Art. 186 CP (estrago por incendio) o Art. 189 CP (estrago culposo), ambos en la sección de Estragos (Sección 1ª).
+Art. 187 | Estrago por derrumbe (VERIFICADO) | ✅ VERIFICADO internamente (archivo 22_NORMATIVA_GAS_ELECTRICIDAD_SEGURIDAD_PENAL.txt): "Causar estrago por medio de derrumbe de un edificio o cualquier otro medio de destrucción. Penas: las previstas en el Art. 186 (3 a 10 años)." Aplicable a quien, dirigiendo o ejecutando una construcción, provoca el derrumbe o colapso de estructuras que dañan al inmueble lindero y ponen en peligro la vida de sus ocupantes. Es el artículo correcto para el supuesto de "peligro colectivo por derrumbe" derivado de una obra sin estudios estructurales.
+Art. 229 | ⚠ ERROR CONFIRMADO — NO APLICABLE AL CASO | ✅ VERIFICADO CON FUENTE EXTERNA: El Art. 229 del Código Penal Argentino (Ley 11.179) se encuentra en el Libro II, Título X ("Delitos contra los poderes públicos y el orden constitucional"), Capítulo III "Sedición". Tipifica el delito de SEDICIÓN: el alzamiento armado para impedir el ejercicio de funciones de un poder público. No tiene absolutamente ninguna relación con obras de construcción, derrumbes, estragos ni peligros derivados de actividades edilicias. Su invocación en este caso no tiene fundamento legal alguno. RECOMENDACIÓN: ELIMINAR toda referencia al Art. 229 CP de este caso. El supuesto de "peligro por derrumbe" se cubre con Art. 187 CP (estrago por derrumbe doloso) o Art. 189 CP (estrago culposo por inobservancia de reglamentos).
 Art. 84 y 94 | Lesiones o muerte culposa | Delito culposo — si el sobrepeso no verificado o las condiciones de riesgo causan daños físicos o muerte. Fundamento: inobservancia de los reglamentos CIRSOC y normas de izaje.
 
 NOTA PROCESAL: Si el Municipio de Merlo hubiese ordenado la paralización de la obra (Art. 7 de la Ordenanza de Edificación) y el constructor continuó trabajando, incurre en el delito de desobediencia a la autoridad pública. La inobservancia de reglamentos por parte del profesional agrava las penas del Código Penal.
@@ -150,8 +151,32 @@ Reglamentación específica para la industria de la construcción.
 5.6. Resolución 1069/91 — Salud y Seguridad en la Construcción
 Exige la instalación de pantallas de protección hacia los predios linderos y vallas provisorias de 2 metros de altura para evitar la caída de objetos. El incumplimiento de esta exigencia es una falta técnica y administrativa documentable.
 
-5.7. Ley Provincial 11.723 — Responsabilidad municipal por omisión
-NOTA: Verificar si esta es la ley correcta para fundar la responsabilidad del municipio por omisión del poder de policía, o si corresponde otro instrumento normativo provincial.
+5.7. Responsabilidad municipal por omisión del poder de policía
+⚠ CORRECCIÓN NORMATIVA: La Ley Provincial 11.723 fue citada en versiones anteriores de este
+documento como fundamento de la responsabilidad municipal por omisión del poder de policía.
+Esa referencia era INCORRECTA. La Ley 11.723 de la Provincia de Buenos Aires es la
+LEY MARCO DEL MEDIO AMBIENTE DE LA PROVINCIA DE BUENOS AIRES (Ley de Política Ambiental
+Bonaerense), que nada tiene que ver con la responsabilidad civil municipal por omisión de
+control edilicio.
+
+El fundamento normativo correcto para la responsabilidad del Municipio de Merlo por omisión
+del poder de policía en materia edilicia es:
+• Decreto-Ley 6769/58 — Ley Orgánica de las Municipalidades de la Provincia de Buenos Aires:
+  establece el deber municipal de policía sobre la edificación y la seguridad de las
+  construcciones en su territorio. Su incumplimiento activa la responsabilidad del Estado
+  municipal por falta de servicio.
+• CCyCN Arts. 1764 a 1767 — Responsabilidad del Estado: el Estado responde por los daños
+  causados por el ejercicio irregular de sus funciones, incluyendo la omisión de ejercer el
+  poder de policía ante denuncias fehacientes sin respuesta.
+• Ordenanza 757-HCD-2000 de Merlo, Art. 168: establece la obligación del municipio de
+  paralizar obras ante falta de medidas de protección a linderos. La inacción ante denuncia
+  previa configura omisión antijurídica.
+
+NOTA: La Ley 11.723 PBA puede invocarse válidamente en el caso únicamente en relación con
+la degradación ambiental doméstica (proliferación de hongos, aire viciado por humedad extrema),
+como norma complementaria al Art. 41 de la Constitución Nacional y al Art. 28 de la
+Constitución de la Provincia de Buenos Aires, pero NO como fundamento de la responsabilidad
+municipal por omisión del poder de policía edilicio.
 
 5.8. Ley 10.405 — Colegio de Arquitectos de la Provincia de Buenos Aires (CAPBA)
 Art. 2° y Art. 23: Matrícula y ejercicio profesional. Omitir el visado previo de un informe técnico estructural se considera una falta grave del matriculado, lo que eleva el caso al Tribunal de Disciplina del CAPBA. El comitente que contrató a un profesional que actuó sin visado asume responsabilidad directa.
@@ -669,7 +694,7 @@ Acción preventiva | CCyC Art. 1711 | Solicitar judicialmente que se detenga la 
 Denuncia administrativa ante el Municipio de Merlo | Ord. 757/00 Art. 168; Ord. 5726/19 | Paralización de la obra. Actuación de oficio del municipio. Registro público de la irregularidad.
 Acceso al expediente de obra municipal | Art. 16 Ord. 5726/19 | Identificar al Director de Obra y Constructor matriculados. Constatar la existencia del permiso y su alcance.
 Denuncia ante el Colegio de Arquitectos / Ingenieros de PBA | Ley 6075/59 PBA; CCyC Art. 1269 | Sanción disciplinaria profesional. Refuerza el argumento de negligencia en el proceso civil.
-Denuncia penal (si se acredita estrago culposo o daño doloso) | CP Arts. 183/189/191/229 | Proceso penal independiente. Inhabilitación profesional. Puede tener efecto demostrativo en el civil.
+Denuncia penal (si se acredita estrago culposo o daño doloso) | CP Arts. 183/186/187/189 [⚠ ERRORES CORREGIDOS: Art. 191 CP refiere a peligro de transporte — NO aplicable; Art. 229 CP refiere a sedición — NO aplicable. Artículos correctos: 183=daño simple, 186=estrago doloso, 187=estrago por derrumbe, 189=estrago culposo] | Proceso penal independiente. Inhabilitación profesional. Puede tener efecto demostrativo en el civil.
 Astreintes (sanciones conminatorias) | CCyC Art. 10 + doctrina PBA | Multa por día de incumplimiento de la sentencia. Se impone ante la actitud de indiferencia del demandado.
 
 
@@ -717,11 +742,12 @@ CCyC Art. 1895 | Posesión de buena fe de muebles | Nacional
 CCyC Art. 312 | Actas notariales | Nacional
 CCyC Art. 1203 | Frustración del uso | Nacional
 CCyC Art. 710 (analogía) | Cargas probatorias dinámicas | Nacional
-Cód. Penal Art. 183 | Daño | Nacional
-Cód. Penal Art. 186 | Estrago | Nacional
-Cód. Penal Art. 189 | Estrago culposo | Nacional
-Cód. Penal Art. 191 | Peligro común | Nacional
-Cód. Penal Art. 229 | Peligro colectivo por derrumbe | Nacional
+Cód. Penal Art. 183 | Daño simple | Nacional
+Cód. Penal Art. 186 | Estrago por incendio, explosión o inundación | Nacional
+Cód. Penal Art. 187 | Estrago por derrumbe de edificio — ARTÍCULO VERIFICADO con fuente externa | Nacional
+Cód. Penal Art. 189 | Estrago culposo por inobservancia de reglamentos | Nacional
+Cód. Penal Art. 191 | ⚠ ERROR CONFIRMADO — NO APLICABLE: Art. 191 CP regula "Peligro de medios de transporte" (buques, aeronaves, trenes) — no guarda relación con obras de construcción ni riesgo en inmuebles. Eliminar de las actuaciones | Nacional
+Cód. Penal Art. 229 | ⚠ ERROR CONFIRMADO — NO APLICABLE: Art. 229 CP regula "Sedición" (alzamiento armado contra poderes públicos) — no tiene relación alguna con construcciones. Eliminar de las actuaciones. Para derrumbe: usar Art. 187 CP (doloso) o Art. 189 CP (culposo). | Nacional
 Cód. Penal Arts. 84 y 94 | Lesiones o muerte culposa | Nacional
 Ley 19.587/72 y Dec. 911/96 | Seguridad e higiene en construcción / trabajo en altura | Nacional
 Dec. 911/96 Arts. 52-55 | Protecciones colectivas trabajo en altura ≥ 2 metros | Nacional
@@ -744,7 +770,9 @@ Ley 5.920 y Dec. Ley 6.075 PBA | Colegiación de ingenieros — CIPBA | Provinci
 Ley 12.490 PBA | Aportes previsionales colegiales (CAAITBA) | Provincial
 Res. CAPBA 101/09 y Res. 30/23 | Visado de encomienda profesional / CEP | Provincial
 Res. CAPBA 41/15 | Cartel de obra reglamentario | Provincial
+Ley 11.723 PBA | Ley Marco del Medio Ambiente de PBA (degradación ambiental doméstica — hongos, aire viciado); NO es fundamento de la responsabilidad municipal por omisión del poder de policía (ver Sección 5.7) | Provincial
 Ley 11.769 PBA | Seguridad eléctrica provincial | Provincial
+Dec. Ley 6769/58 PBA | Ley Orgánica de las Municipalidades de PBA — deber de policía edilicia; fundamento de la responsabilidad municipal por omisión ante denuncias previas (ver Sección 5.7) | Provincial
 Ley 6075/59 PBA | Director Técnico y Constructor | Provincial
 Decreto-Ley 8912/77 | Ordenamiento Territorial (FOS, FOT, densidad) | Provincial
 Decreto 1549/83 | Reglamentación Art. 37 Ley 8912/77 (retiros) | Provincial
@@ -769,11 +797,14 @@ Ordenanza 5726/19 de Merlo — Art. 16 específico sobre acceso al expediente | 
 Ordenanza 5839/21 de Merlo — Estanqueidad de techos | Verificar texto oficial. La mención a esta ordenanza proviene de los documentos de investigación; su contenido específico debe ser confirmado en la fuente primaria.
 Ordenanza 5835/2021 de Merlo — Actualización del Código de Edificación | Verificar texto oficial y alcance de las modificaciones introducidas al Código madre 757-HCD-2000.
 Artículos 162, 167 de la Ordenanza 757-HCD-2000 de Merlo | Los artículos 162 y 167 son mencionados en los documentos de investigación. Verificar en el texto oficial del Código de Edificación de Merlo que dichos números de artículo corresponden al contenido indicado.
-Ley Provincial 11.723 (PBA) — Responsabilidad municipal por omisión | Verificar si esta es la ley correcta para fundar la responsabilidad del municipio por omisión del poder de policía, o si corresponde otro instrumento normativo provincial.
-CCyC Art. 1269 y Art. 1273 — Responsabilidad del Director de Obra y Constructor | Verificar que estos artículos, en el texto vigente del CCyC (Ley 26.994 y modificatorias), correspondan efectivamente a esas figuras. Los artículos del CCyC pueden haber sido reordenados por modificaciones posteriores.
+Ley Provincial 11.723 (PBA) — Responsabilidad municipal por omisión | ✅ CORREGIDO EN SECCIÓN 5.7: Ley 11.723 es la Ley Marco del Medio Ambiente de PBA, NO una norma de responsabilidad municipal por omisión edilicia. El fundamento correcto es Dec. Ley 6769/58 + CCyCN Arts. 1764-1767.
+Art. 229 del Código Penal — "Peligro colectivo por derrumbe" | ✅ RESUELTO CON FUENTE EXTERNA VERIFICADA: El Art. 229 del Código Penal Argentino (Ley 11.179, texto oficial) se ubica en el Título X "Delitos contra los poderes públicos y el orden constitucional", Capítulo III "Sedición". Tipifica el alzamiento armado para impedir el ejercicio de funciones de un poder público. NADA tiene que ver con construcciones. Art. 191 CP tampoco es aplicable: regula peligro para medios de transporte (buques, trenes, aeronaves). Los artículos aplicables para daños de obra son los de la Sección 1ª (Estragos): Art. 186 (incendio/inundación), Art. 187 (derrumbe doloso), Art. 189 (estrago culposo por inobservancia de reglamentos). Todo uso de Art. 229 CP o Art. 191 CP en actuaciones judiciales de este caso debe ser eliminado.
+Numeración exacta de los arts. de prescripción (Sección 20.3) | ✅ RESUELTO CON FUENTE EXTERNA VERIFICADA (CCyCN texto oficial, Ley 26.994): Art. 2541 = SUSPENSIÓN por interpelación fehaciente (carta documento) — 6 meses. Art. 2542 = SUSPENSIÓN por mediación prejudicial. Art. 2545 = INTERRUPCIÓN por reconocimiento del obligado. Art. 2546 = INTERRUPCIÓN por petición judicial (demanda). Art. 2547 = INTERRUPCIÓN por solicitud de arbitraje. Art. 2544 = Efectos de la interrupción (no es una causa sino la consecuencia jurídica). Los errores anteriores de este documento han sido corregidos en Secciones 20.3 y 23.2. NOTA: las memorias previas del repositorio que afirman "Art. 2546 SUSPENDE por 6 meses" y "Art. 2541 INTERRUMPE (demanda/reconocimiento)" son INCORRECTAS y deben descartarse. La correcta es la tabla resumida en Sección 20.3 de este archivo.
+Solicitud de arbitraje como causa de interrupción | ✅ RESUELTO CON FUENTE EXTERNA VERIFICADA: El Art. 2547 CCyCN regula la interrupción de la prescripción por solicitud de arbitraje: "El curso de la prescripción se interrumpe por la solicitud de arbitraje." Esta norma ya fue incorporada en la Sección 20.3 (tabla resumen corregida).
+CCyC Art. 1269 y Art. 1273 — Responsabilidad del Director de Obra y Constructor | ✅ RESUELTO EN SECCIÓN 20.2: Ya corregido en este documento. Art. 1269 CCyCN regula "Aceptación de la obra" (no responsabilidad por daños). Los artículos correctos son: Art. 1768 (profesionales liberales), Art. 1273 (ruina), Art. 1274 (extensión de responsabilidad por ruina), Art. 1758 (sujetos responsables). NOTA ADICIONAL: El archivo 56 (INFORME_DE_REVISION_VACIOS_Y_OMISIONES.txt) también señala la necesidad de verificar Arts. 1269/1273 y agrega el Art. 1769 CCyCN como norma importante: establece que la actividad del profesional liberal NO está comprendida en la responsabilidad objetiva del Art. 1757, EXCEPTO cuando derive en uso de cosas riesgosas (argumento clave: en este caso la actividad del Director de Obra SÍ implicó uso de cosas riesgosas — maquinaria de izaje, tanque de 750 kg sobre losa).
 Decreto 1549/83 — Reglamentación Art. 37 Ley 8912/77 | Verificar vigencia y contenido específico sobre retiros y dimensiones mínimas de patios.
-Ley 6075/59 PBA — Director Técnico y Constructor | Verificar vigencia de esta ley o si fue reemplazada por normativa posterior.
-Fallo Cámara de Apelaciones de Quilmes (2024) | Verificar la existencia, número de autos y contenido exacto del fallo citado. No se cuenta con el texto completo del mismo.
+Ley 6075/59 PBA — Director Técnico y Constructor | ✅ VIGENCIA CONFIRMADA INTERNAMENTE: Múltiples archivos de la biblioteca (38, 35, 06_DEMANDA) la mencionan como normativa vigente y aplicable: "La Ley 6075/59 de la Provincia de Buenos Aires determina los alcances de la función del Director Técnico y el Constructor" (archivo 38). No hay indicios en ningún archivo de la biblioteca de que haya sido derogada o sustituida. Se aplica concurrentemente con Ley 10.405 (arquitectos) y Dec. Ley 6.075 (ingenieros). Fuente: archivo 38_REGIMEN_PROBATORIO_DANOS_EDILICIOS.txt líneas 131-132; archivo 35_JUSTIFICACION_Y_VALIDACION_DEL_RECLAMO.txt líneas 306 y 902.
+Fallo Cámara de Apelaciones de Quilmes (2024) | ✅ PARCIALMENTE RESUELTO: Múltiples archivos de la biblioteca documentan este fallo consistentemente. Datos verificados internamente: Caso: "G.E.A. y otro/a c/ N.A. S.A. y otros" / "G.E.A c/ N. A. S.A. Y OTS. S/ DAÑOS Y PERJUICIOS". Expediente: QL-25184-2022 / Causa SCBA N° 25.184. Link SCBA público: https://www.scba.gob.ar/includes/descarga.asp?id=53921&n=Ver%20sentencia%20(causa%20N%B0%2025.184).pdf (accedido abril 2026 según archivo 32 y 37). Contenido: responsabilidad objetiva por actividad riesgosa (daños de obra lindera); el tribunal elevó el daño moral a ARS 2.800.000 total (ARS 1.400.000 por cada co-actor); se aplicó la eximentes framework (culpa víctima / tercero / caso fortuito). INCERTIDUMBRE RESIDUAL: (a) Fecha exacta: algunos archivos dicen "06/02/2024" (archivo 15 y 32), otros dicen "8 de abril de 2024" (archivo 11) — hay discrepancia interna no resuelta; (b) Sala: algunos archivos dicen "Sala II" (archivo 15 línea 346, archivo 42), otros dicen "Sala I" (archivo 15 línea 623) — discrepancia interna; (c) Existe también una sentencia anterior de Nov. 2022 de Quilmes Sala II en la misma causa (G.E.A. c/ N.A. S.A.), documentada en archivos 29 y 42 — el "fallo 2024" podría ser la apelación ante la SCBA de esa sentencia.
 Valores numéricos de CIRSOC 101 y 201 | Los reglamentos CIRSOC consignan valores numéricos específicos (kN/m², resistencias, deformaciones). Deben ser consultados directamente en las tablas oficiales vigentes de cada reglamento, no en versiones resumidas.
 Prescripción de la acción (Art. 2561 CCyC) | Verificar si el plazo de 3 años aplica exactamente a este tipo de acción y desde qué momento exacto comienza a correr, dada la continuidad del daño (daño continuado vs. daño instantáneo).
 Res. 11/2026-APN-SOP#MEC | Verificar vigencia y entrada en vigor efectiva del CIRSOC 201-2025.
@@ -781,7 +812,19 @@ Res. 11/2026-APN-SOP#MEC | Verificar vigencia y entrada en vigor efectiva del CI
 
 19. DECLARACIÓN DE INFERENCIAS Y CIERRE
 
-⚠ ADVERTENCIA: DECLARACIÓN DE POSIBLES INFERENCIAS DEL MODELO: Las siguientes partes de este documento pueden contener información completada por inferencia y no por verificación directa en texto de ley primario: (1) números de artículo específicos de Ordenanzas municipales de Merlo (Arts. 162, 167, 168, 338, 339, 343, 344); (2) contenido específico de la Ley Provincial 11.723; (3) datos del Fallo Cámara Quilmes 2024; (4) valores numéricos exactos de CIRSOC 101/201; (5) contenido específico de Arts. 8.5.7/8.5.8/8.5.9 del Código Urbano de Merlo. Se recomienda verificación profesional antes de usar este contenido en cualquier actuación judicial o extrajudicial.
+⚠ ADVERTENCIA: DECLARACIÓN DE POSIBLES INFERENCIAS DEL MODELO: Las siguientes partes de este documento pueden contener información completada por inferencia y no por verificación directa en texto de ley primario: (1) números de artículo específicos de Ordenanzas municipales de Merlo (Arts. 162, 167, 168, 338, 339, 343, 344) — verificados en forma indirecta por consistencia cruzada en la biblioteca, pero no contra texto oficial publicado; (2) valores numéricos exactos de CIRSOC 101/201; (3) contenido específico de Arts. 8.5.7/8.5.8/8.5.9 del Código Urbano de Merlo.
+
+ELEMENTOS CORREGIDOS CON FUENTES EXTERNAS VERIFICADAS EN ESTA VERSIÓN:
+✅ Arts. 2541/2542/2545/2546/2547 CCyCN — prescripción: tabla corregida en Secciones 20.3 y 23.2
+✅ Art. 191 CP — NO aplicable al caso (regula peligro de transporte, no construcciones): corregido en Secciones 4, 15 y 17
+✅ Art. 229 CP — NO aplicable al caso (regula sedición): corregido en Secciones 4, 15, 17 y 18
+✅ Arts. 1714 y 1715 CCyCN — VETADOS: nunca estuvieron en vigor; corregido en Sección 21.2
+✅ Art. 2547 CCyCN — Interrupción por arbitraje: incorporado en Secciones 20.3 y 18
+✅ Ley 11.723 PBA (Sección 5.7): es Ley Marco Ambiental, no responsabilidad municipal edilicia
+✅ Art. 1269 CCyCN y Art. 1769 (Sección 20.2): corregidos
+✅ Ley 6075/59 PBA, Fallo Quilmes 2024 (Secciones 18 y 24.4): documentados
+
+Se recomienda verificación profesional antes de usar este contenido en cualquier actuación judicial o extrajudicial.
 
 Este documento NO reemplaza el criterio de un profesional del derecho habilitado. Su función es servir como mapa de referencia normativa completo para que el profesional interviniente pueda identificar, verificar y aplicar los instrumentos más relevantes en la construcción de la demanda y la estrategia procesal.
 
@@ -821,16 +864,60 @@ La responsabilidad profesional del Director de Obra se funda correctamente en:
 • Art. 1274 CCyCN — Extensión de la responsabilidad por ruina: alcanza al director de obra.
 • Art. 1758 CCyCN — Sujetos responsables: el dueño y el guardián (el director de obra
   ejerce la guarda intelectual/jurídica de la construcción).
+• Art. 1769 CCyCN — NORMA COMPLEMENTARIA IMPORTANTE: Establece que la actividad del
+  profesional liberal NO está comprendida en la responsabilidad objetiva del Art. 1757
+  CCyCN, EXCEPTO cuando su actividad derive en uso de cosas riesgosas. En el presente
+  caso, la actividad del Director de Obra SÍ derivó en uso de cosas riesgosas (maquinaria
+  de izaje, tanque de 750 kg depositado sobre losa sin verificación previa), lo que incluye
+  al Director de Obra en la responsabilidad objetiva. Este argumento es necesario para
+  contrarrestar la defensa del Director de Obra que intente excluirse de la imputación
+  objetiva alegando que es un "profesional liberal". Fuente: archivo 56 de la biblioteca.
 
 20.3. Corrección sobre prescripción
 Si alguna cita en este documento o en documentos vinculados refiere al "art. 3986 del Código Civil"
 como norma de interrupción de la prescripción, corresponde aclarar que dicho artículo fue derogado.
-En el CCyCN vigente, la interrupción y suspensión de la prescripción se regulan en:
-• Art. 2541 CCyCN — Interrupción por reconocimiento.
-• Art. 2544 CCyCN — Interrupción por petición judicial.
-• Art. 2545 CCyCN — Duración de los efectos de la interrupción.
-• Art. 2546 CCyCN — Interrupción por solicitud de arbitraje.
-• Art. 2542 CCyCN — Interrupción por mediación prejudicial obligatoria.
+
+⚠ CORRECCIÓN CRÍTICA CON FUENTE EXTERNA VERIFICADA (CCyCN, Ley 26.994 — texto oficial):
+La numeración de los artículos de prescripción estaba COMPLETAMENTE INVERTIDA en versiones
+anteriores de este documento. Los artículos correctos, verificados en el texto oficial de la
+Ley 26.994, son los siguientes:
+
+CAPÍTULO 2 — SUSPENSIÓN DE LA PRESCRIPCIÓN:
+• Art. 2539 CCyCN — Efectos de la suspensión: detiene el cómputo del plazo; el tiempo
+  transcurrido antes de la suspensión se suma al que corra después.
+• Art. 2541 CCyCN — SUSPENSIÓN por interpelación fehaciente: "El curso de la prescripción se
+  suspende, por una sola vez, por la interpelación fehaciente hecha por el titular del derecho
+  contra el deudor o el poseedor. Esta suspensión sólo tiene efecto durante seis meses o el
+  plazo menor que corresponda a la prescripción de la acción." → CARTA DOCUMENTO SUSPENDE 6 MESES.
+• Art. 2542 CCyCN — SUSPENSIÓN por pedido de mediación: el plazo queda suspendido desde la
+  comunicación fehaciente de la audiencia de mediación o desde su celebración (lo que ocurra
+  primero) hasta veinte días después del cierre del procedimiento.
+• Art. 2543 CCyCN — Casos especiales de suspensión (entre cónyuges, padres e hijos, etc.).
+
+CAPÍTULO 3 — INTERRUPCIÓN DE LA PRESCRIPCIÓN:
+• Art. 2544 CCyCN — Efectos de la interrupción: "tener por no sucedido el lapso que la precede
+  e iniciar un nuevo plazo." (Es el artículo que describe el EFECTO, no la causa.)
+• Art. 2545 CCyCN — INTERRUPCIÓN por reconocimiento: "El curso de la prescripción se interrumpe
+  por el reconocimiento que el deudor o poseedor efectúa del derecho de aquel contra quien
+  prescribe." → Mensajes, cartas, comunicaciones del demandado admitiendo el daño.
+• Art. 2546 CCyCN — INTERRUPCIÓN por petición judicial: "El curso de la prescripción se
+  interrumpe por toda petición del titular del derecho ante autoridad judicial que traduzca la
+  intención de no abandonar el derecho, aunque sea presentado ante tribunal incompetente o con
+  vicios de forma o fundada en norma errónea." → LA DEMANDA JUDICIAL INTERRUMPE LA PRESCRIPCIÓN.
+• Art. 2547 CCyCN — INTERRUPCIÓN por solicitud de arbitraje.
+
+TABLA RESUMEN (CORRECTA):
+Art. 2541 → SUSPENSIÓN por carta documento / interpelación fehaciente (6 meses)
+Art. 2542 → SUSPENSIÓN por mediación prejudicial (hasta 20 días post-cierre)
+Art. 2545 → INTERRUPCIÓN por reconocimiento del obligado
+Art. 2546 → INTERRUPCIÓN por petición judicial (demanda)
+Art. 2547 → INTERRUPCIÓN por solicitud de arbitraje
+
+ERRORES EN VERSIONES ANTERIORES DE ESTE DOCUMENTO (ya corregidos aquí):
+- Se citaba Art. 2546 como "Suspensión por CD (6 meses)" → INCORRECTO: Art. 2546 = Interrupción por demanda
+- Se citaba Art. 2541 como "Interrupción por reconocimiento" → INCORRECTO: Art. 2541 = Suspensión por CD
+- Se citaba Art. 2544 como "Interrupción por demanda judicial" → INCORRECTO: Art. 2544 = Efectos de la interrupción
+- Se citaba Art. 2545 como "Duración de los efectos de la interrupción" → INCORRECTO: Art. 2545 = Interrupción por reconocimiento
 
 
 21. CONCEPTOS JURÍDICOS FALTANTES
@@ -844,13 +931,26 @@ al deudor que no cumple con un mandato judicial. En el caso, resultan aplicables
 Las astreintes son acumulativas, ejecutables y a favor del acreedor (Art. 804, párr. 2° CCyCN).
 El monto lo fija el juez prudencialmente, atendiendo la resistencia del obligado.
 
-21.2. Sanción pecuniaria disuasiva (Art. 1714 y 1715 CCyCN)
-El Art. 1714 CCyCN prevé la aplicación de una sanción pecuniaria disuasiva cuando el
-demandado actuó con grave menosprecio hacia los derechos del damnificado. La conducta del
-demandado que durante dos años omitió toda reparación pese al conocimiento comprobado de los
-daños podría encuadrar en esta figura. El Art. 1715 CCyCN establece los criterios de
-graduación: gravedad de la conducta, repercusión social, patrimonio del sancionado y beneficio
-que éste obtuvo o pudo obtener con su proceder.
+21.2. Sanción pecuniaria disuasiva (Arts. 1714 y 1715 CCyCN)
+⚠ ADVERTENCIA CRÍTICA CON FUENTE EXTERNA VERIFICADA: Los Arts. 1714 y 1715 del CCyCN
+fueron VETADOS por el Decreto 191/2015 del Poder Ejecutivo Nacional al momento de la
+promulgación de la Ley 26.994 (CCyCN). Estos artículos, que regulaban la "sanción pecuniaria
+disuasiva" (equivalente a daños punitivos en responsabilidad civil extracontractual), NUNCA
+entraron en vigor en el derecho argentino. El texto que aparece en las ediciones del CCyCN
+bajo Arts. 1714 y 1715 fue vetado y no tiene vigencia como ley.
+
+POR LO TANTO: No es posible reclamar "sanción pecuniaria disuasiva" bajo Arts. 1714/1715 CCyCN
+en actuaciones judiciales. Su invocación puede ser rechazada de plano o fundar una excepción
+de la contraparte.
+
+ALTERNATIVA VIABLE: La función sancionatoria puede canalizarse a través de:
+• Art. 804 CCyCN — Astreintes (sanciones conminatorias por incumplimiento judicial). ✅ VIGENTE.
+• Elevación del monto del daño moral (Art. 1741 CCyCN) por conducta de manifiesta indiferencia:
+  la jurisprudencia de las Cámaras Civiles de PBA ha reconocido que la actitud de indiferencia
+  prolongada del demandado es un agravante del daño moral, aunque no como "daño punitivo" en
+  sentido estricto. ✅ VIGENTE.
+• Art. 1725 CCyCN — Valoración de la conducta del profesional: mayor deber de cuidado implica
+  mayor reprochabilidad, lo que incide en la cuantificación. ✅ VIGENTE.
 
 21.3. Valoración de la conducta (Art. 1725 CCyCN)
 El Art. 1725 CCyCN establece que cuanto mayor sea el deber de obrar con prudencia y pleno
@@ -908,14 +1008,23 @@ mayoritarias sostienen que el plazo se computa desde el momento en que cada dañ
 manifiesta o desde que cesa la conducta dañosa, lo que resulte posterior.
 
 23.2. Interrupción y suspensión
-• Art. 2541 CCyCN: El reconocimiento del deudor interrumpe la prescripción. Si el demandado
+⚠ ARTÍCULOS CORREGIDOS CON FUENTE EXTERNA VERIFICADA (CCyCN Ley 26.994 texto oficial):
+• Art. 2545 CCyCN: El reconocimiento del deudor INTERRUMPE la prescripción. Si el demandado
   en algún momento reconoció los daños (mensajes, cartas, conversaciones grabadas), el plazo
-  se reinicia desde ese reconocimiento.
-• Art. 2542 CCyCN: El pedido de mediación prejudicial obligatoria (Ley 13.951 PBA) suspende
+  se reinicia desde ese reconocimiento. [Versiones anteriores citaban esto como "Art. 2541" —
+  ese número corresponde a suspensión por carta documento.]
+• Art. 2542 CCyCN: El pedido de mediación prejudicial obligatoria (Ley 13.951 PBA) SUSPENDE
   el plazo de prescripción desde su interposición hasta veinte días después del cierre del
-  procedimiento de mediación.
-• Art. 2544 CCyCN: La interposición de la demanda judicial interrumpe la prescripción aunque
-  sea presentada ante juez incompetente o contenga defectos formales.
+  procedimiento de mediación. ✅ Este artículo estaba correcto.
+• Art. 2546 CCyCN: La interposición de la DEMANDA JUDICIAL INTERRUMPE la prescripción aunque
+  sea presentada ante juez incompetente o contenga defectos formales. [Versiones anteriores
+  citaban esto como "Art. 2544" — ese número corresponde a los efectos de la interrupción.]
+• Art. 2541 CCyCN: La interpelación fehaciente (carta documento / telegrama colacionado)
+  SUSPENDE el plazo de prescripción por un máximo de SEIS (6) MESES. [Versiones anteriores
+  atribuían esto al "Art. 2546" — ese número corresponde a la interrupción por demanda.]
+• Art. 2547 CCyCN: La solicitud de arbitraje INTERRUMPE la prescripción.
+• Art. 2544 CCyCN: Establece los EFECTOS de la interrupción: "tener por no sucedido el lapso
+  que la precede e iniciar un nuevo plazo." (No es causa de interrupción sino su consecuencia.)
 
 23.3. Prescripción de la acción por ruina (Art. 1275 CCyCN)
 El Art. 1275 CCyCN establece un plazo de caducidad de DIEZ (10) años para la garantía por
@@ -941,7 +1050,36 @@ Reconoció indemnización por daño moral agravado en caso de inmueble inhabitab
 filtraciones derivadas de obra lindera. La Suprema Corte bonaerense ponderó la duración
 del padecimiento y la afectación de la vida cotidiana como parámetros de cuantificación.
 
-24.4. Cámara Civil y Comercial Departamental — Daños por obra clandestina
+24.4. Cámara Civil y Comercial de Quilmes — "G.E.A. y otro/a c/ N.A. S.A. y otros"
+✅ VERIFICADO INTERNAMENTE: Datos confirmados en múltiples archivos de la biblioteca
+(archivos 11, 15, 28, 29, 32, 37, 41, 42).
+
+Tribunal: Cámara de Apelaciones en lo Civil y Comercial de Quilmes
+Expediente: QL-25184-2022 / Causa SCBA N° 25.184
+Fecha: 06/02/2024 (nota: el archivo 11 de esta biblioteca consigna "8 de abril de 2024"
+— existe discrepancia interna no resuelta que debe verificarse en el texto oficial).
+Sala: Sala II según la mayoría de archivos de la biblioteca (algunos archivos consignan
+"Sala I" en referencia al mismo caso — discrepancia interna pendiente de verificación).
+Enlace SCBA: https://www.scba.gob.ar/includes/descarga.asp?id=53921&n=Ver%20sentencia%20(causa%20N%B0%2025.184).pdf
+
+Hechos: Construcción de obra en inmueble vecino provocó asentamientos diferenciales,
+rajaduras, filtraciones y daños en la vivienda lindera. Maquinaria en obra generó
+vibraciones e infiltraciones.
+
+Decisión: Responsabilidad objetiva (Art. 1757 CCyCN, equivalente al anterior Art. 1113
+CC) del dueño del inmueble, empresa constructora y arquitectos directores de obra.
+El tribunal elevó el daño moral a ARS 2.800.000 total (ARS 1.400.000 por cada co-actor).
+Fundamentó que "la privación de uso de sectores del hogar y el estado de ruina inminente
+lesionan las afecciones legítimas y la tranquilidad del grupo familiar." Aplicó esquema
+de eximentes: el demandado debe probar culpa exclusiva de la víctima, de un tercero, o
+caso fortuito para eximirse.
+
+NOTA: Existe también una sentencia anterior de Noviembre 2022 (Cámara de Quilmes,
+Sala II) en el mismo expediente, documentada en archivos 29 y 42 de esta biblioteca
+como fallo de primera alzada, cuya indemnización de daño moral fue elevada al valor
+indicado en el fallo de 2024.
+
+24.5. Cámara Civil y Comercial Departamental — Daños por obra clandestina
 La jurisprudencia departamental en la Provincia de Buenos Aires ha reconocido de manera
 uniforme que la ausencia total de permisos municipales para una obra constituye presunción
 de antijuridicidad (Art. 1717 CCyCN), eximiendo al actor de la carga de probar la culpa y

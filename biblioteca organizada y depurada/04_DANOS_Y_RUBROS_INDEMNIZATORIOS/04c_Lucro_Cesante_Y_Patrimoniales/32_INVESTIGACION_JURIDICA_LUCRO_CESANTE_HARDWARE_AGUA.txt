@@ -73,7 +73,7 @@ Artículo
 	Texto aplicado al caso
 	Art. 886 CCCN
 	"La mora del deudor se produce por el solo vencimiento del plazo fijado para el cumplimiento... En las obligaciones de resarcir daños, la mora se produce desde el momento del hecho generador."
-	Art. 2541 CCCN
+	Art. 2541 CCCN [⚠ CORRECCIÓN CON FUENTE EXTERNA VERIFICADA: este artículo fue citado en una versión anterior como "Art. 2541" (incorrecto), luego corregido a "Art. 2546" (también incorrecto). El número correcto es Art. 2541 CCyCN (verificado en texto oficial Ley 26.994): es la SUSPENSIÓN por interpelación fehaciente. Art. 2546 CCyCN = Interrupción por petición judicial (demanda).]
 	"La interpelación fehaciente, hecha por una sola vez, suspende el curso de la prescripción por el término de seis meses o el plazo menor que corresponda a la prescripción de la acción."
 	Art. 18 Ley 13.951 (PBA)
 	"El inicio de la mediación suspende el plazo de prescripción de la acción. El acta de cierre sin acuerdo deja expedita la vía judicial."
