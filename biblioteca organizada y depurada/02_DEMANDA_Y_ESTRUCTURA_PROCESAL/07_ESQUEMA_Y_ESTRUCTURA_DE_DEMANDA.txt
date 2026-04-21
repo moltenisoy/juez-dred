@@ -1,224 +1,162 @@
-1. Marco Normativo y Vía Procesal Aplicable
-Base de responsabilidad: La construcción constituye una actividad riesgosa. Aplica la responsabilidad objetiva del art. 1757 del Código Civil y Comercial (análogo al antiguo art. 1113 CC), extendida al dueño de la obra, constructora, arquitecto/director de obra y fiduciario si existiere . No es necesario probar culpa; basta acreditar el nexo causal entre la obra y los daños.
-Vía procesal recomendada: Juicio ordinario de daños y perjuicios (Proceso Ordinario – Libro II, Título II del CPCC PBA).
-Requisito previo indispensable: En PBA rige la mediación prejudicial obligatoria (Ley 13.951). Deberás acreditar al inicio del juicio el acta de cierre sin acuerdo emitida por un mediador matriculado .
-Medidas cautelares previas (urgentes): Dado el riesgo de irreparabilidad, se recomienda solicitar simultáneamente con la demanda (o incluso previa a ella bajo caución):
-Prohibición de innovar (art. 191 y siguientes CPCC PBA): para detener la construcción mientras se pericia.
-Embargo en construcción: afectación de los fondos o materiales de la obra.
-2. Estructura Formal del Escrito Inicial (Art. 330 CPCC PBA)
-Según el artículo 330 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires, la demanda debe contener :
-Nombre, domicilio real y especial del demandante (constituir domicilio legal dentro del radio del juzgado).
-Nombre y domicilio del demandado (propietario de la obra, constructora, director de obra, etc.).
-Designación precisa de lo demandado (indemnización integral por daños materiales y extrapatrimoniales).
-Hechos explicados claramente (cronología de la construcción irregular, daños sufridos, riesgos actuales).
-Derecho expuesto sucintamente (fundamentación jurídica).
-Petición en términos claros y precisos (condena específica).
-Valor de la causa (debe precisarse o justificar su estimación si no es posible determinarlo exactamente).
-Acreditación de mediación previa (acta de cierre sin acuerdo).
-3. Esquema/Modelo de Demanda (Estructura Sugerida)
-A continuación presento el esquema que deberá completar tu abogado:
+1. MARCO NORMATIVO Y VÍA PROCESAL APLICABLE
+
+Base de responsabilidad civil (CCyCN):
+- Art. 1757 CCyCN: responsabilidad objetiva por riesgo o vicio de actividades riesgosas.
+- Art. 1758 CCyCN: sujetos responsables por actividad riesgosa.
+- Art. 1973 CCyCN: inmisiones entre inmuebles vecinos (humo, ruidos, vibraciones, etc.).
+- Art. 1740 y concordantes CCyCN: reparación plena del daño.
+- Art. 2561 CCyCN: prescripción de la acción civil de daños (3 años).
+
+Vía procesal de base en PBA:
+- Juicio ordinario de daños y perjuicios (CPCCBA, Libro II, Título II).
+
+Mediación prejudicial obligatoria en PBA:
+- Ley 13.951 (con sus reformas y reglamentación vigente): en regla general,
+  debe cumplirse instancia prejudicial obligatoria antes del juicio civil/comercial,
+  salvo supuestos exceptuados por la propia ley.
+
+Competencia territorial (CPCCBA):
+- Art. 5 inc. 4: en hechos ilícitos/daños, competencia a elección del actor
+  (lugar del hecho o domicilio del demandado).
+- La identificación del Departamento Judicial debe verificarse con la
+  organización judicial vigente al momento de presentar la demanda.
+
+
+2. ESTRUCTURA FORMAL DEL ESCRITO INICIAL
+
+Requisitos de demanda (Art. 330 CPCCBA):
+- Nombre y domicilio real de la parte actora.
+- Nombre y domicilio de la parte demandada.
+- Exposición circunstanciada de hechos.
+- Derecho aplicable.
+- Petición clara y positiva.
+- Ofrecimiento de prueba.
+- Acompañar documental disponible e individualizar la no disponible.
+
+Prueba en la demanda (Art. 333 CPCCBA):
+- Debe ofrecerse toda la prueba con la demanda.
+- La documental se acompaña en ese acto, salvo justificación legal para
+  presentación posterior.
+
+
+3. ESQUEMA MODELO DE DEMANDA (GUÍA DE TRABAJO)
+
 I. ENCABEZADO
-Juzgado Civil y Comercial N° [ ] del Departamento Judicial [ ]
-Carátula: [Tu nombre] c/ [Nombre del propietario vecino y constructora] s/ DAÑOS Y PERJUICIOS (Ordinario)
-Valor de la causa: $ [estimar conforme peritaje o dejar a su determinación judicial fundando la imposibilidad actual de precisar].
-II. CUESTIÓN PREVIA – MEDIACIÓN
-"Que el presente asunto ha sido llevado a la instancia de mediación prejudicial obligatoria ante el Mediador Matriculado Dr. [ ], resultando infructuosa la misma conforme Acta de Cierre sin Acuerdo de fecha [ ], que se acompaña a fs. [ ]."
-III. EXPOSICIÓN DE HECHOS
-(Narración cronológica y pormenorizada que incluya):
-Ubicación y características de tu inmueble.
-Datos de la construcción irregular lindera (falta de permisos, desvíos de límites, excavaciones, etc.).
-Daños materiales directos: grietas, humedades, filtraciones, roturas estructurales, afectación de cimientos (acreditar con peritaje previo de arquitecto/ingeniero).
-Daños materiales indirectos: depreciación del valor del inmueble, costos de reubicación temporal si fuere necesario.
-Bienes muebles y herramientas de trabajo dañadas (indirectamente por vibraciones, polvo, humedad): detallar inventario y valor.
-Daño emocional/psicológico: cuadros de ansiedad, estrés, insomnio derivados de la exposición constante al riesgo y la incertidumbre (sustentar con peritaje psicológico/psiquiátrico).
-Daño a la salud: afecciones respiratorias por polvo, ruido excesivo, exposición a sustancias tóxicas (amianto, etc.), acreditado con historia clínica y peritaje médico.
-Riesgo activo a la integridad física: inestabilidad estructural, caída de elementos, excavaciones que comprometen la seguridad del inmueble habitado.
-Condiciones insalubres: falta de ventilación, humedad permanente, proliferación de hongos, obligando a vivir en condiciones degradadas.
-Daño laboral: imposibilidad de ejercer actividad profesional en el domicilio (si corresponde), pérdida de ingresos.
+- Juzgado Civil y Comercial competente.
+- Carátula sugerida:
+  [Actor] c/ [Demandado/s] s/ Daños y Perjuicios.
+- Valor de la causa: monto estimado o fundamentación de indeterminación.
+
+II. ACREDITACIÓN DE MEDIACIÓN PREVIA
+- Individualizar mediador, expediente/acta, fecha y resultado.
+- Acompañar acta de cierre o constancia exigible por ley.
+
+III. HECHOS
+- Identificación de inmuebles y relación de vecindad.
+- Descripción cronológica de obra/actividad y daños.
+- Detalle de daños materiales, eventuales daños personales,
+  afectación de uso y eventuales pérdidas económicas.
+- Nexo causal: explicar por qué los daños se vinculan con la actividad denunciada.
+
 IV. FUNDAMENTACIÓN JURÍDICA
-Arts. 1757, 1740 y siguientes CCyC (responsabilidad objetiva por riesgo de la cosa y daños).
-Arts. 2618, 2619 CCyC (límites al dominio, prohibición de causar daños al vecino).
-Arts. 330, 333 CPCC PBA (forma de la demanda y agregación de prueba).
-Jurisprudencia: CSJN "Lacasa" y Cámara Civil Quilmes (2024) sobre responsabilidad solidaria de constructores y propietarios .
-V. PRUEBA OFRECIDA (Art. 333 CPCC PBA)
-Documental: escritura de propiedad, fotografías fechadas, videos, denuncias municipales, cartas documento previas, presupuestos de reparación.
-Pericial:
-Perito arquitecto/ingeniero civil (daños estructurales, nexo causal, costo de reparación).
-Perito médico (daños a la salud).
-Perito psicólogo/psiquiatra (daño psicológico/emocional).
-Perito tasador (depreciación del inmueble).
-Testifical: testigos presenciales de los hechos y el estado previo del inmueble.
-VI. PETITORIO (claro y preciso)
-Condénese a los demandados a abonar:
-Daño Material:
-Costo de reparación del inmueble (reintegración al estado anterior).
-Valor de reposición de bienes muebles y herramientas de trabajo dañadas.
-Depreciación del valor del inmueble (si corresponde).
-Daño Emergente: gastos extraordinarios incurridos (alquiler temporal, mudanza, tratamientos médicos).
-Lucro Cesante: pérdida de ingresos laborales derivados de la situación.
-Daño Moral (Emocional/Psicológico): suma compensatoria por el sufrimiento psíquico, menoscabo en la calidad de vida, privación del disfrute normal del hogar .
-Daño a la Salud: indemnización por incapacidad temporaria o permanente (si fuere el caso).
-Medidas de No Innovar: se solicita prohibición de continuar obras hasta sentencia definitiva.
-Costas e intereses: desde el evento dañoso o la notificación de la demanda según corresponda.
-4. Consideraciones Prácticas Importantes
-Peritaje previo: Antes de iniciar la demanda, es crucial realizar un peritaje extrajudicial de arquitecto/ingeniero que acredite fehacientemente el nexo causal entre la obra y los daños. La jurisprudencia provincial reciente admite el "daño moral derivado" cuando existe afección a la vivienda familiar .
-Responsables: Demandar solidariamente a:
-Propietario del inmueble lindero.
-Constructora/empresa constructora.
-Arquitecto/Director de obra (responsable por la guarda intelectual de la obra).
-Fiduciario (si la obra está en fideicomiso).
-Actualización de montos: La Cámara de Apelaciones de Trenque Lauquen (2024) ha confirmado la aplicación de la fórmula de actualización "caso Barrios" (SCBA) para daños, fijando montos a valores actuales al momento de la sentencia .
-Prescripción: La acción de daños prescribe en 3 años desde el evento dañoso (art. 2561 CCyC).
-Nota crucial: Dada la complejidad de acreditar daños psicológicos, laborales y de salud indirectos, es indispensable el patrocinio de un abogado litigante que cuide los plazos procesales, la correcta citación de todos los responsables y la producción de la prueba pericial .
-Este esquema debe ser adaptado a tu caso concreto por un profesional matriculado, quien determinará si corresponde también vías alternativas como acción de amparo ambiental (si hay amenaza inminente e irreparable) ante el fuero contencioso administrativo, o la denuncia en la municipalidad para la clausura de la obra irregular.
+- CCyCN: arts. 1757, 1758, 1973, 1740 y concordantes.
+- CPCCBA: arts. 330 y 333.
+- Ley 13.951: mediación prejudicial obligatoria (si corresponde).
+
+V. PRUEBA
+- Documental: títulos, constancias administrativas, actas, fotografías,
+  videos, cartas documento, presupuestos, comprobantes.
+- Pericial técnica (ingeniería/arquitectura): causa, magnitud y costo.
+- Pericial médica/psicológica: solo si hay lesión o secuela alegada.
+- Testimonial e informativa: según hechos controvertidos.
+
+VI. PETITORIO
+- Condena por rubros reclamados (daño emergente, lucro cesante,
+  pérdida de chance, daño no patrimonial, etc., según prueba).
+- Intereses y costas.
+- Medidas cautelares, si corresponden.
+
+
+4. MEDIDAS CAUTELARES (SI HAY RIESGO ACTUAL)
+
+Régimen procesal:
+- CPCCBA, medidas cautelares (arts. 195 y ss.).
+- Prohibición de innovar (art. 230 CPCCBA), cuando exista peligro de
+  alteración del estado de hecho o derecho durante el proceso.
+
+Requisitos cautelares:
+- Verosimilitud del derecho.
+- Peligro en la demora.
+- Contracautela, cuando corresponda.
+
+
+5. IDENTIFICACIÓN DE POSIBLES RESPONSABLES
+
+La legitimación pasiva debe definirse por hechos verificables del caso:
+- Propietario del inmueble donde se desarrolla la actividad.
+- Constructor/empresa ejecutora (si está identificada).
+- Director técnico/profesional interviniente (si está identificado).
+- Otros sujetos con injerencia causal acreditable.
+
+Nota:
+- La eventual citación del Estado/Municipio requiere análisis específico
+  de competencia y del régimen de responsabilidad estatal aplicable,
+  según normativa provincial vigente y objeto de pretensión.
+
+
+6. DAÑO AMBIENTAL (ANÁLISIS COMPLEMENTARIO, SI APLICA)
+
+Normativa base:
+- Art. 41 CN.
+- Ley 25.675 (Ley General del Ambiente).
+
+Si los hechos configuran afectación ambiental, corresponde evaluar
+si procede acción específica ambiental y/o tutela urgente,
+según legitimación, objeto y competencia del caso concreto.
+
+
+7. CRONOLOGÍA PROCESAL ORIENTATIVA (SIN SUSTITUIR ASESORAMIENTO)
+
+Secuencia ordinaria típica:
+1) Mediación prejudicial (si corresponde por ley).
+2) Presentación de demanda y eventual pedido cautelar.
+3) Traslado de demanda.
+4) Contestación y planteos de la demandada.
+5) Audiencia preliminar.
+6) Etapa probatoria.
+7) Alegatos.
+8) Sentencia.
+9) Recursos.
+
+Los plazos concretos deben verificarse sobre texto vigente del CPCCBA,
+acordadas y reglamentación digital aplicable al momento de litigar.
+
+
+8. PRESCRIPCIÓN Y RESERVAS
+
+- Acción civil de daños: plazo general de 3 años (Art. 2561 CCyCN).
+- La suspensión/interrupción de prescripción debe analizarse con texto
+  vigente del CCyCN y hechos concretos del caso.
+
+
+9. CRITERIOS DE REDACCIÓN SEGURA (DEPURACIÓN DE ESTE ARCHIVO)
+
+Para evitar errores normativos o afirmaciones no verificadas:
+- Se eliminaron referencias jurisprudenciales puntuales no validadas
+  externamente durante esta revisión individual.
+- Se eliminaron citas de artículos no corroborados en fuente externa.
+- Se unificó el esquema sobre normas verificadas: CCyCN, CPCCBA,
+  Ley 13.951, CN y Ley 25.675.
+
+
+10. ADVERTENCIA PROFESIONAL
+
+Este documento es una guía estructural de trabajo.
+La estrategia final, la prueba pertinente, la competencia concreta,
+los rubros y montos reclamables deben ser definidos por abogado/a
+matriculado/a sobre hechos y evidencia del caso.
 
 
 ================================================================================
-SECCIÓN COMPLEMENTARIA — AMPLIACIONES Y CORRECCIONES DE INVESTIGACIÓN
+FIN DEL ARCHIVO 07 — ESQUEMA Y ESTRUCTURA DE DEMANDA (VERSIÓN DEPURADA)
 ================================================================================
-
-5. CORRECCIONES NORMATIVAS DETECTADAS
-────────────────────────────────────────────────────────────────
-
-   A) Art. 313 CPCCBA → CORRECTO: Art. 330 CPCCBA
-      El artículo que establece los requisitos formales de la demanda en
-      el CPCCBA es el Art. 330, no el 313. El Art. 313 refiere a escritos
-      en general. Misma observación para Art. 315 → Art. 333 (prueba documental).
-
-   B) Art. 2572 CCyCN (prescripción) → CORRECTO: Art. 2561 CCyCN
-      El plazo de prescripción de 3 años para acción de daños se encuentra
-      en el Art. 2561, no en el 2572.
-
-   C) Arts. 2618-2619 CCyCN → CORRECTO: Art. 1973 CCyCN (inmisiones)
-      Los artículos 2618-2619 corresponden al código anterior (Vélez Sarsfield).
-      En el CCyCN actual, las inmisiones se regulan en el Art. 1973.
-
-   D) Competencia territorial: Dice "Departamento Judicial [   ]"
-      → CORRECTO: Departamento Judicial de MERLO (Ley 13.859/2009)
-
-
-6. REQUISITOS FORMALES ACTUALIZADOS DE LA DEMANDA (Art. 330 CPCCBA)
-────────────────────────────────────────────────────────────────
-
-   La demanda debe contener obligatoriamente:
-
-   1) Nombre, DNI y domicilio REAL del actor
-   2) Domicilio LEGAL constituido (dentro del radio del juzgado)
-   3) Domicilio ELECTRÓNICO (OBLIGATORIO desde 2020):
-      → Se constituye con el CUIT/CUIL del abogado patrocinante
-      → Canal válido para notificaciones electrónicas
-      → Su omisión genera intimación a subsanar; si no se subsana,
-        puede declararse incomparecencia
-   4) Nombre y domicilio del demandado
-   5) Objeto de la demanda (pretensión concreta)
-   6) Hechos explicados claramente y en orden cronológico
-   7) Derecho en que se funda (fundamentación jurídica)
-   8) Prueba ofrecida (detallada por tipo)
-   9) Monto reclamado o justificación de indeterminación
-   10) Firma del letrado patrocinante y del actor
-
-   PRESENTACIÓN: Exclusivamente digital a través de la MEV (Mesa de
-   Entradas Virtual) del Poder Judicial PBA: mev.scba.gov.ar
-
-
-7. LITISCONSORCIO PASIVO — IDENTIFICACIÓN DE TODOS LOS RESPONSABLES
-────────────────────────────────────────────────────────────────
-
-   En obras clandestinas, corresponde demandar a TODOS los responsables
-   para obtener una sentencia plenamente ejecutable:
-
-   A) RESPONSABLES IDENTIFICABLES:
-
-      1) PROPIETARIO DEL INMUEBLE LINDERO (Sr. Juan Capria):
-         - Responsable como dueño de la cosa riesgosa (Art. 1757-1758 CCyCN)
-         - Responsable por contratación de obra sin permisos
-         - Responsable por omisión de control y dirección técnica
-
-      2) CONSTRUCTOR / EMPRESA CONSTRUCTORA (si es identificable):
-         - Responsable solidario con el propietario (Art. 1757 CCyCN)
-         - Responsable por ejecución defectuosa y sin medidas de seguridad
-
-      3) DIRECTOR TÉCNICO DE OBRA (si existió):
-         - Responsable por la "guarda intelectual" de la obra
-         - Si no existió director técnico: la ausencia agrava la
-           responsabilidad del propietario (responsabilidad directa)
-
-      4) MUNICIPALIDAD DE MERLO (como codemandada por omisión):
-         - Responsabilidad del Estado por omisión de control (Art. 1764-1766 CCyCN)
-         - NOTA: Puede requerir fuero contencioso administrativo (Ley 12.008 PBA)
-
-   B) TIPO DE LITISCONSORCIO:
-      - FACULTATIVO (Art. 88 CPCCBA): El actor puede demandar a todos juntos
-        o a cada uno por separado.
-      - Ventaja de demandar a todos: garantiza que la sentencia sea oponible
-        a todos y que la responsabilidad solidaria sea efectiva.
-
-   C) RESPONSABILIDAD SOLIDARIA (Arts. 1747-1751 CCyCN):
-      - Cuando el daño es causado por varios intervinientes, la solidaridad
-        se presume frente al damnificado.
-      - El demandante puede reclamar el TOTAL de la indemnización a
-        CUALQUIERA de los codemandados solidarios.
-      - La distribución interna entre los codemandados es cuestión entre ellos.
-
-
-8. AMPARO AMBIENTAL — VÍA ALTERNATIVA COMPLEMENTARIA
-────────────────────────────────────────────────────────────────
-
-   Art. 41 CN + Ley 25.675 (Ley General del Ambiente):
-
-   Si las condiciones del inmueble configuran un daño ambiental (humedad
-   permanente + hongos + riesgo eléctrico = ambiente insalubre), se puede
-   interponer una ACCIÓN DE AMPARO AMBIENTAL como vía complementaria:
-
-   • Fundamento: Art. 41 CN (derecho a un ambiente sano) + Art. 43 CN (amparo)
-   • Principio precautorio (Art. 4 Ley 25.675): No requiere certeza científica
-     sobre el daño; basta la amenaza de daño grave o irreversible.
-   • Inversión de la carga de la prueba (Art. 29 Ley 25.675): El demandado
-     debe probar que su actividad no causa daño ambiental.
-   • Competencia: Puede tramitar ante el mismo juzgado civil o ante el
-     fuero contencioso administrativo si se demanda al municipio.
-
-   VENTAJA: Permite obtener medidas cautelares de saneamiento ambiental
-   con mayor celeridad que el juicio ordinario de daños.
-
-
-9. ESQUEMA TEMPORAL DEL PROCESO ORDINARIO DE DAÑOS (PBA)
-────────────────────────────────────────────────────────────────
-
-   1) MEDIACIÓN PREJUDICIAL (Ley 13.951): 60 días hábiles máximo → CUMPLIDO
-   2) PRESENTACIÓN DE DEMANDA + medidas cautelares simultáneas
-   3) TRASLADO: 15 días al demandado (Art. 338 CPCCBA)
-   4) CONTESTACIÓN + eventual reconvención: 15 días (Art. 354 CPCCBA)
-   5) TRASLADO de reconvención al actor: 15 días
-   6) AUDIENCIA PRELIMINAR (Art. 360 CPCCBA): Fijación de hechos controvertidos
-      y determinación de prueba admisible
-   7) APERTURA A PRUEBA: 40 días (Art. 365 CPCCBA)
-      - Producción de prueba pericial, testimonial, informativa
-      - Designación de peritos de oficio (5 días desde notificación)
-   8) ALEGATOS: 6 días cada parte (Art. 482 CPCCBA)
-   9) SENTENCIA: 40 días desde llamamiento de autos (Art. 34 inc. 3 CPCCBA)
-   10) APELACIÓN: 5 días desde notificación (Art. 244 CPCCBA)
-
-   DURACIÓN ESTIMADA TOTAL: 12 a 24 meses (proceso ordinario sin incidentes)
-
-   MEDIDAS CAUTELARES: Se resuelven INAUDITA PARTE en 48 horas.
-   No esperan al traslado de demanda. PRIORIZAR su presentación simultánea.
-
-
-10. VALOR DE LA CAUSA — ESTIMACIÓN ORIENTATIVA
-────────────────────────────────────────────────────────────────
-
-   El Art. 330 CPCCBA exige indicar el valor de la causa. Opciones:
-
-   A) Estimación concreta basada en presupuestos existentes + rubros calculables
-   B) "Monto indeterminado sujeto a lo que en más o en menos resulte de la
-      prueba a producirse" — Fórmula aceptada por jurisprudencia PBA cuando
-      la cuantificación depende de peritajes aún no realizados.
-
-   La tasa de justicia (3%) se calcula sobre el monto demandado. Si se
-   obtiene el BLSG, se queda exento de su pago.
-
-
-════════════════════════════════════════════════════════════════════════════
-FIN DEL ARCHIVO 07 — ESQUEMA Y ESTRUCTURA DE DEMANDA
-════════════════════════════════════════════════════════════════════════════
