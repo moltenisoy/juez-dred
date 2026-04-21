@@ -180,17 +180,20 @@ FALLOS VERIFICADOS DE MAYOR RELEVANCIA
    tasa activa aplicable, desvalorización de inmueble.
 
 ================================================================================
-ZONAS DE INCERTIDUMBRE E INFORMACIÓN NO VERIFICADA
+DELIMITACIÓN DE ALCANCE JURISPRUDENCIAL
 ================================================================================
 
-1. Aplicación del Art. 249 inc. c) CCCN a daños causados a terceros.
+1. Aplicación del Art. 249 inc. c) CCyCN a daños causados a terceros:
+   cuestión debatida en doctrina y con análisis casuístico.
 
 2. Jurisprudencia específica de la Cámara de Morón en materia de daños por
-   obra clandestina lindera (solo tendencias generales verificadas).
+   obra clandestina lindera: no se presenta aquí una sistematización exhaustiva.
 
-3. Aplicabilidad directa de la Ley 14449 PBA a conflictos entre particulares.
+3. Aplicabilidad directa de la Ley 14.449 PBA a conflictos entre particulares:
+   requiere encuadre según objeto y legitimación de cada proceso.
 
-5. Montos actualizados de daño moral y psicofísico para 2025-2026.
+4. Montos de daño moral y psicofísico 2025-2026:
+   deben actualizarse con jurisprudencia vigente al momento de litigar.
 
 ================================================================================
 FIN DEL DOCUMENTO — VER ARCHIVOS 31-38 PARA DESARROLLO DE CADA TEMA
@@ -204,13 +207,9 @@ SECCIÓN COMPLEMENTARIA — METODOLOGÍA JUEZ-PIPO: AMPLIACIÓN Y CORRECCIONES
 
 1. CORRECCIÓN CRÍTICA — DEPARTAMENTO JUDICIAL COMPETENTE
    ─────────────────────────────────────────────────────
-   El encabezado de este archivo indica erróneamente "DEPARTAMENTO JUDICIAL:
-   MORÓN". Desde la sanción de la Ley 13.859 (B.O. PBA 18/12/2009), el Partido
-   de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MERLO, segregado del ex
-   Departamento Judicial de Morón.
-
-   NOTA: El caso tramita ante el DEPARTAMENTO JUDICIAL DE MORÓN
-   (la Ley 13.859/2009 creó el DJ de Merlo pero NO está operativo).
+   Conforme Ley 13.859 (B.O. PBA 18/12/2009), se creó el Departamento
+   Judicial de Merlo. Sin embargo, al no encontrarse operativo para este
+   fuero, el caso tramita ante el DEPARTAMENTO JUDICIAL DE MORÓN.
 
    Sede: Juzgados Civiles y Comerciales de Morón — Cristóbal Colón 360, Morón.
 
@@ -231,9 +230,9 @@ SECCIÓN COMPLEMENTARIA — METODOLOGÍA JUEZ-PIPO: AMPLIACIÓN Y CORRECCIONES
    Las tres perspectivas de análisis encuentran su fundamento procesal en:
    - Art. 1 CCyCN: casos regidos por leyes aplicables conforme Constitución.
    - Art. 2 CCyCN: interpretación conforme principios y valores jurídicos.
-   - Art. 3 CCyCN: deber del juez de resolver conforme sistema de fuentes.
-   - Art. 1708 CCyCN: funciones de la responsabilidad civil (prevención,
-     reparación, sanción pecuniaria disuasiva — orden de prelación).
+    - Art. 3 CCyCN: deber del juez de resolver conforme sistema de fuentes.
+    - Art. 1708 CCyCN: funciones de la responsabilidad civil
+      (prevención y reparación del daño).
    - Art. 1710 CCyCN: deber de prevención (toda persona tiene el deber de
      evitar causar un daño no justificado y adoptar medidas razonables).
    - Art. 1716 CCyCN: deber de reparar — unificación de órbitas contractual
@@ -245,8 +244,8 @@ SECCIÓN COMPLEMENTARIA — METODOLOGÍA JUEZ-PIPO: AMPLIACIÓN Y CORRECCIONES
    ────────────────────────────────────────────────────────────
    Art. 2541 CCyCN: El curso de la prescripción se SUSPENDE (no se
    interrumpe) por el envío de carta documento que constituye en mora.
-   Efecto: suspensión por 6 meses desde la recepción.
-   IMPORTANTE: No confundir con interrupción (Art. 2544-2545 CCyCN) que
+    Efecto: suspensión por 6 meses desde la recepción.
+    IMPORTANTE: No confundir con interrupción (Arts. 2544 a 2547 CCyCN) que
    borra el plazo transcurrido. La suspensión solo detiene el cómputo.
 
 5. APLICACIÓN PRÁCTICA AL CASO MERLO

@@ -43,11 +43,10 @@ embargo, existe debate doctrinario sobre si esta excepción alcanza a los daños
 causados a TERCEROS (no al propio inmueble del deudor). Este punto requiere
 consulta jurisprudencial específica actualizada.
 
-⚠️ ADVERTENCIA DE VERIFICACIÓN PENDIENTE: La excepción del Art. 249 inc. c) CCCN
-está pensada para el caso de quien realizó mejoras en su propia vivienda (ej.
-contratista impago). Su aplicación a daños a terceros causados por esas obras no
-está unívocamente resuelta en jurisprudencia. Se recomienda investigar fallos de
-Cámara que aborden este punto específico.
+Estado jurídico verificado: La excepción del Art. 249 inc. c) CCyCN
+está redactada para obligaciones originadas en construcciones o mejoras en
+la vivienda afectada. Su extensión a daños causados a terceros no tiene
+criterio jurisprudencial único, por lo que debe fundarse caso por caso.
 
 --------------------------------------------------------------------------------
 PERSPECTIVA DEL DEMANDANTE / PARTE ACTORA:
@@ -339,16 +338,17 @@ Etapas principales:
    b) Designación de martillero judicial (sorteo de lista, Art. 563 CPCCBA).
    c) Informe de dominio, gravámenes e inhibiciones (Registro de la Propiedad).
    d) Publicación de edictos (Art. 566 CPCCBA, 3 días en diario de circulación
-      del Departamento Judicial de MERLO).
+      del Departamento Judicial de MORÓN).
    e) Audiencia de subasta: base = 2/3 de la valuación fiscal o tasación pericial.
    f) Aprobación judicial del remate y tradición al comprador.
 
 6. NOTA SOBRE DEPARTAMENTO JUDICIAL COMPETENTE
 ────────────────────────────────────────────────────────────────────────────────
-Conforme Ley 13.859/2009, la competencia para tramitar embargos, ejecuciones
-y subastas sobre inmuebles ubicados en el Partido de Merlo corresponde al
-Departamento Judicial de MERLO. El Registro de la Propiedad Inmueble
-seccional Merlo interviene en las anotaciones preventivas.
+Conforme Ley 13.859/2009, el DJ Merlo fue creado pero no se encuentra
+operativo. La competencia para tramitar embargos, ejecuciones y subastas
+sobre inmuebles ubicados en el Partido de Merlo corresponde al Departamento
+Judicial de MORÓN. El Registro de la Propiedad Inmueble interviene en las
+anotaciones preventivas según la seccional registral que corresponda.
 
 ════════════════════════════════════════════════════════════════════════════════
 FIN DEL ARCHIVO 45 — COBRABILIDAD Y PROTECCIÓN DE VIVIENDA
