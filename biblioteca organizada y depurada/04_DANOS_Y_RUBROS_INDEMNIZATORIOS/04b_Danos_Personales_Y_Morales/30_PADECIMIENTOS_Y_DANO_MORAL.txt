@@ -690,7 +690,7 @@ El valor locativo debe determinarse por pericia de tasación y actualizarse al m
 
 B. Costos de alojamiento alternativo: gastos emergentes proporcionales al tiempo
 Los gastos de alojamiento alternativo (alquiler, pensión, habitación en domicilio de terceros) durante el período de desplazamiento son daños emergentes directos que se acumulan por cada mes de duración del desplazamiento. La indemnización debe cubrirlos íntegramente, y su monto total depende directamente de la duración del período de ausencia forzada.
-Base legal: Art. 1740 CCyCN (reparación plena); art. 738 CCyCN (daño emergente directo).
+Base legal: Art. 1740 CCyCN (reparación plena); Art. 1738 CCyCN (daño emergente directo).
 C. Gastos logísticos dobles: mudanza de ida y de vuelta
 El desplazamiento forzado genera dos instancias de gastos logísticos: la mudanza de salida y la mudanza de regreso una vez reparados los daños. Ambas instancias son daños emergentes plenamente resarcibles. La duración del desplazamiento incide también en los gastos de almacenamiento o depósito de bienes durante el período intermedio.
 D. Impacto laboral proporcional a la duración: lucro cesante acumulado
@@ -825,7 +825,8 @@ de vivienda superior a 12 meses:
 
 Fuente orientativa: precedentes Cam. Civ. y Com. Quilmes y La Plata (2023-2025).
 
-IV. APLICACIÓN AL CASO — DEPARTAMENTO JUDICIAL DE MERLO
+IV. APLICACIÓN AL CASO — DEPARTAMENTO JUDICIAL DE MORÓN
+[Nota: El DJ de Merlo fue creado por Ley 13.859/2009 pero NO está operativo. El Partido de Merlo pertenece al Departamento Judicial de MORÓN.]
 
 El damnificado en Merlo padece simultáneamente:
 - Exposición prolongada (>18 meses) a condiciones indignas de habitabilidad.

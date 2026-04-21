@@ -136,7 +136,7 @@ Provincia de Buenos Aires (si el inmueble es del GBA):
 
 Decreto-Ley 8912/77 (Ordenamiento Territorial y Uso del Suelo — PBA): regula condiciones de obra y responsabilidades del comitente y profesional actuante.
 Reglamentos municipales de construcción del municipio correspondiente.
-Ley 13.512 (Propiedad Horizontal) si el inmueble afectado está en un consorcio: el consorcio también puede tener responsabilidad en el mantenimiento.
+CCyCN Arts. 2037-2067 (Propiedad Horizontal) si el inmueble afectado está en un consorcio: el consorcio también puede tener responsabilidad en el mantenimiento. [Nota: la anterior Ley 13.512 fue derogada por el CCyCN — Ley 26.994, vigente desde 01/08/2015.]
 
 
 III. RUBROS INDEMNIZABLES — ANÁLISIS ESPECÍFICO
@@ -238,8 +238,10 @@ FÓRMULA MATEMÁTICA APLICABLE (fórmula "Vuoto" / "Marshall"):
   - n = años restantes de vida útil (65 años - edad actual)
   - Vn = (1 + i)^(-n)
 
-La SCBA en "Barrios" (C.124.096, sent. 2/4/2024) confirmó que la fórmula
-matemática es el piso mínimo, debiendo el juez fundar si se aparta de ella.
+La SCBA en "Barrios" (C.124.096, sent. 17/04/2024, "BARRIOS, HÉCTOR FRANCISCO
+Y OTRA C/ LASCANO, SANDRA BEATRIZ Y OTRA S/ DAÑOS Y PERJUICIOS") confirmó
+que la fórmula matemática es el piso mínimo, debiendo el juez fundar si se
+aparta de ella.
 
 IX. BAREMO TABULAR — INCAPACIDAD EN DAÑOS POR VIVIENDA
 
@@ -275,9 +277,12 @@ vida de relación del damnificado.
 Fundamento: Art. 1738 CCyCN ("consecuencias de la violación de los derechos
 personalísimos") y Art. 1746 CCyCN (incapacidad parcial permanente).
 
-XII. ACTUALIZACIÓN DOCTRINA BARRIOS (SCBA, C.124.096, 2/4/2024)
+XII. ACTUALIZACIÓN DOCTRINA BARRIOS (SCBA, C.124.096, 17/04/2024)
 
-La SCBA en "Barrios, Héctor c/ Gordillo, Adriana Mabel" estableció:
+La SCBA en "BARRIOS, HÉCTOR FRANCISCO Y OTRA C/ LASCANO, SANDRA BEATRIZ
+Y OTRA S/ DAÑOS Y PERJUICIOS" estableció:
+[⚠ Denominaciones anteriores de este fallo como "Barrios c/ Gordillo" son incorrectas.
+El nombre completo verificado es el indicado (fuente: archivo 31 de la biblioteca).]
 a) Se aplica el índice de precios al consumidor (IPC-INDEC) para actualizar
    el capital de condena desde la mora hasta el efectivo pago.
 b) La tasa de interés pura se fija en el 6% anual sobre capital actualizado.
@@ -287,8 +292,9 @@ d) El juez que se aparta debe fundar con argumentos concretos por qué otorga
 e) Fecha de cómputo de la mora: desde la producción de cada daño (Art. 886
    CCyCN), no desde la sentencia ni desde la notificación de la demanda.
 
-NOTA JURISDICCIONAL: El caso tramita ante el Departamento Judicial de MERLO
-(creado por Ley 13.859/2009), cuyas Cámaras aplican obligatoriamente la
+NOTA JURISDICCIONAL: El caso tramita ante el Departamento Judicial de MORÓN
+(el DJ Merlo fue creado por Ley 13.859/2009 pero NO está operativo a la fecha).
+Las Cámaras del Departamento Judicial de Morón aplican obligatoriamente la
 doctrina de la SCBA conforme el sistema de casación provincial.
 
 ════════════════════════════════════════════════════════════════════════════
