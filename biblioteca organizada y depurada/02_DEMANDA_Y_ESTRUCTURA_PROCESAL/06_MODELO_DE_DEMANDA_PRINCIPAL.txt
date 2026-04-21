@@ -146,6 +146,9 @@ X. ADVERTENCIAS TÉCNICAS DE ESTA VERSIÓN DEPURADA
   auditoría para evitar citas inexactas.
 - Se removieron referencias de artículos no pertinentes o dudosos para materia
   de daños edilicios, manteniendo un núcleo normativo verificable y sólido.
+- Entre lo removido, como categorías, se incluyen citas jurisprudenciales
+  específicas sin verificación externa en esta auditoría y numeraciones locales
+  puntuales (por ejemplo, ordenanzas o reglamentos técnicos) no corroboradas.
 - Toda cita local específica (ordenanzas, reglamentos técnicos, resoluciones de
   prestadoras de servicios) debe verificarse contra texto vigente oficial antes
   de presentar judicialmente.
