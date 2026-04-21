@@ -283,7 +283,8 @@ SECCIÓN COMPLEMENTARIA — DENUNCIA MUNICIPAL MERLO: AMPLIACIÓN Y CORRECCIONES
    - Base para responsabilidad municipal por omisión (Art. 27 Decreto-Ley 6769/58)
    - Elemento para solicitar litisconsorcio pasivo con el Municipio
    - Acto de suspensión de prescripción si se acompaña de carta documento
-     al responsable directo (Art. 2546 CCyCN — suspensión por 6 meses)
+     al responsable directo (Art. 2541 CCyCN — suspensión por 6 meses
+   ⚠ CORRECCIÓN: Art. 2546 = INTERRUPCIÓN por petición judicial. Art. 2541 = SUSPENSIÓN por interpelación fehaciente (carta documento, 6 meses).)
 
 5. ORGANISMOS COMPLEMENTARIOS PARA DENUNCIAS
    ──────────────────────────────────────────

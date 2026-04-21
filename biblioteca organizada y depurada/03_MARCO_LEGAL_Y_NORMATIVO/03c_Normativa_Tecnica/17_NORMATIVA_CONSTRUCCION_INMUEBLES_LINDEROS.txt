@@ -288,13 +288,16 @@ La mora del deudor genera:
 — Curso de intereses moratorios desde la fecha de la mora.
 — Traslado del riesgo al deudor moroso (Art. 1733 CCyCN).
 
-AMPLIACIÓN 3 — SUSPENSIÓN DE PRESCRIPCIÓN (Art. 2546 CCyCN):
+AMPLIACIÓN 3 — SUSPENSIÓN DE PRESCRIPCIÓN (Art. 2541 CCyCN):
 La interpelación fehaciente (carta documento) SUSPENDE la prescripción por
-SEIS (6) MESES, por una sola vez (Art. 2546 CCyCN). NO interrumpe el plazo
+SEIS (6) MESES, por una sola vez (Art. 2541 CCyCN). NO interrumpe el plazo
 prescriptivo. Vencidos los 6 meses, el cómputo se reanuda. La interrupción
-de la prescripción (que borra el tiempo corrido) requiere: a) demanda
-judicial (Art. 2546 in fine CCyCN), b) reconocimiento del obligado (Art. 2545
+de la prescripción (que borra el tiempo corrido) requiere: a) demanda o
+petición judicial (Art. 2546 CCyCN), b) reconocimiento del obligado (Art. 2545
 CCyCN), o c) solicitud de arbitraje (Art. 2548 CCyCN).
+⚠ CORRECCIÓN: la referencia anterior a "Art. 2546" como norma de suspensión
+por interpelación fehaciente era INCORRECTA. Art. 2541 = SUSPENSIÓN por carta
+documento (6 meses). Art. 2546 = INTERRUPCIÓN por petición judicial.
 
 AMPLIACIÓN 4 — DERECHO DE PASO PARA REPARACIONES (Art. 1977 CCyCN):
 El Art. 1977 del CCyCN establece que si es indispensable poner andamios u

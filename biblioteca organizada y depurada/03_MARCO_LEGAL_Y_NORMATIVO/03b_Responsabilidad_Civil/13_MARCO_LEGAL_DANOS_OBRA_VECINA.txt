@@ -535,13 +535,13 @@ la causa de filtraciones). Son ejecutables sin nuevo proceso y su monto aumenta
 progresivamente ante la resistencia del obligado. Resultan especialmente útiles en la
 ejecución de sentencias de condena a hacer en juicios por daños de obra lindera.
 
-3.3. Sanción pecuniaria disuasiva (Arts. 1714 y 1715 CCyCN)
-El Art. 1714 CCyCN prevé una sanción económica disuasiva cuando el responsable actuó con
-grave menosprecio hacia los derechos del damnificado. La persistencia deliberada de una
-situación dañosa durante dos años, pese al conocimiento comprobado de los daños y sus
-riesgos, encuadra en el supuesto de esta norma. El Art. 1715 CCyCN establece los criterios
-de graduación: gravedad de la conducta, repercusión social, patrimonio del sancionado y
-beneficio obtenido o que pudo obtenerse con el proceder ilícito.
+3.3. Sanción pecuniaria disuasiva — ARTÍCULOS VETADOS
+ADVERTENCIA: Los artículos 1714 y 1715 del CCyCN que preveían la "sanción pecuniaria
+disuasiva" fueron VETADOS por el Decreto 191/2015 del Poder Ejecutivo al promulgar la
+Ley 26.994. Nunca estuvieron vigentes y NO integran el texto del CCyCN. No deben ser
+invocados en actuaciones judiciales.
+Alternativas válidas vigentes: Art. 804 CCyCN (astreintes) y Art. 1741 CCyCN (daño no
+patrimonial, con posibilidad de ponderación de la conducta del dañador).
 
 3.4. Prueba anticipada (Art. 326 CPCCBA)
 El Art. 326 del CPCCBA permite la producción de prueba antes de la interposición de la
@@ -588,9 +588,11 @@ total o parcial que la haga impropia para su destino. Esta garantía es de orden
 y no puede ser renunciada contractualmente (Art. 1276 CCyCN).
 
 4.3. Interrupción y suspensión de la prescripción (CCyCN, no viejo Código Civil)
-• Art. 2541 CCyCN — Interrupción por reconocimiento (mensajes, promesas del demandado).
+• Art. 2541 CCyCN — Suspensión por interpelación fehaciente (carta documento, 6 meses, una sola vez).
 • Art. 2542 CCyCN — Suspensión por mediación prejudicial obligatoria (Ley 13.951 PBA).
-• Art. 2544 CCyCN — Interrupción por petición judicial (demanda o denuncia de daño temido).
+• Art. 2544 CCyCN — Efectos de la interrupción: tiene por no sucedido el lapso anterior e inicia nuevo plazo.
+• Art. 2545 CCyCN — Interrupción por reconocimiento (mensajes, promesas del demandado).
+• Art. 2546 CCyCN — Interrupción por petición judicial (demanda o denuncia de daño temido).
 ⚠ No citar Art. 3986 del viejo Código Civil (derogado desde agosto de 2015).
 
 

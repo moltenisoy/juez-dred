@@ -1024,12 +1024,14 @@ aplicables si el demandado no cumple:
 • Una medida cautelar de paralización de obra.
 El monto es fijado prudencialmente por el juez y puede ser incrementado ante resistencia.
 
-2.3. Sanción pecuniaria disuasiva (Arts. 1714 y 1715 CCyCN)
-El Art. 1714 CCyCN prevé la aplicación de una sanción pecuniaria disuasiva cuando el
-responsable actúa con grave menosprecio hacia los derechos del damnificado. La omisión
-deliberada de toda reparación durante dos años, con pleno conocimiento de los daños y
-sus riesgos (riesgo eléctrico, inhabilitación de ambientes, moho), configura el supuesto
-de hecho de esta norma. El Art. 1715 CCyCN fija los criterios de graduación.
+2.3. Sanción pecuniaria disuasiva (Arts. 1714 y 1715 CCyCN) — ⚠ ARTÍCULOS VETADOS
+⚠ ADVERTENCIA CRÍTICA: Los Arts. 1714 y 1715 CCyCN fueron VETADOS por Decreto 191/2015
+(al promulgar la Ley 26.994). NUNCA estuvieron vigentes. NO deben invocarse en actuaciones.
+Alternativas válidas: Art. 804 CCyCN (astreintes por incumplimiento de la obligación de cesar
+y reparar) y Art. 1741 CCyCN (daño moral con agravamiento por la conducta del ofensor).
+La omisión deliberada de reparación durante dos años, con pleno conocimiento de los daños,
+puede fundarse en Art. 1726 (causalidad) + Art. 1717 (antijuridicidad) + Art. 1741 (daño
+moral agravado) para potenciar la cuantificación del daño moral.
 
 2.4. Daño al proyecto de vida (Art. 1738 CCyCN)
 El Art. 1738 CCyCN reconoce como rubro indemnizable la afectación de las "actividades
@@ -1068,10 +1070,15 @@ que persisten, humedad progresiva), la doctrina mayoritaria sostiene que el plaz
 con cada nueva manifestación dañosa.
 
 3.2. Actos interruptivos y suspensivos bajo el CCyCN:
-• Art. 2541: Interrupción por reconocimiento del obligado (mensajes, conversaciones grabadas,
-  promesas de reparación).
-• Art. 2542: Suspensión por mediación prejudicial obligatoria (Ley 13.951 PBA).
-• Art. 2544: Interrupción por petición judicial (demanda, denuncia de daño temido).
+• Art. 2541 CCyCN: SUSPENSIÓN por interpelación fehaciente (carta documento, 6 meses).
+• Art. 2542 CCyCN: SUSPENSIÓN por mediación prejudicial obligatoria (Ley 13.951 PBA).
+• Art. 2544 CCyCN: Efectos de la INTERRUPCIÓN (plazo transcurrido se borra, comienza uno nuevo).
+• Art. 2545 CCyCN: INTERRUPCIÓN por reconocimiento del obligado (mensajes, conversaciones
+  grabadas, promesas de reparación).
+• Art. 2546 CCyCN: INTERRUPCIÓN por petición judicial (demanda, denuncia de daño temido).
+⚠ CORRECCIÓN: la versión anterior tenía Arts. 2541 y 2544 invertidos. Art. 2541 = SUSPENSIÓN
+(no interrupción). Art. 2544 = efectos de la interrupción (no la causa). Art. 2545 =
+INTERRUPCIÓN por reconocimiento. Art. 2546 = INTERRUPCIÓN por petición judicial.
 ⚠ NO corresponde citar el Art. 3986 del viejo Código Civil, derogado desde agosto de 2015.
 
 3.3. Prescripción de la garantía por ruina (Art. 1275 CCyCN)

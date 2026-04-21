@@ -628,7 +628,8 @@ AMPLIACIÓN Y CORRECCIONES
      antijurídica, el responsable está en mora sin necesidad de intimación.
    - Art. 2561 CCyCN: Prescripción de la acción de daños = 3 años desde
      la producción del daño o su conocimiento por la víctima.
-   - Art. 2546 CCyCN: La carta documento SUSPENDE la prescripción por el
+   - Art. 2541 CCyCN: La carta documento SUSPENDE la prescripción por el
+   ⚠ CORRECCIÓN: Art. 2546 = INTERRUPCIÓN por petición judicial. Art. 2541 = SUSPENSIÓN por interpelación fehaciente (carta documento, 6 meses).
      término de 6 meses; NO la interrumpe. Transcurridos los 6 meses sin
      demandar, el cómputo se reanuda (no se reinicia).
 

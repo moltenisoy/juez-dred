@@ -703,8 +703,9 @@ SECCIÓN COMPLEMENTARIA — ARBA Y SUBDIVISIÓN PH: AMPLIACIÓN Y CORRECCIONES
 6. MORA Y PRESCRIPCIÓN — NOTAS APLICABLES
    ────────────────────────────────────────
    Art. 886 CCyCN: Mora automática en obligaciones a plazo determinado.
-   Art. 2546 CCyCN: Carta documento SUSPENDE la prescripción por 6 meses
+   Art. 2541 CCyCN: Carta documento SUSPENDE la prescripción por 6 meses
    (no la interrumpe). Efecto: se detiene el cómputo temporalmente.
+   ⚠ CORRECCIÓN: Art. 2546 = INTERRUPCIÓN por petición judicial. Art. 2541 = SUSPENSIÓN por interpelación fehaciente (carta documento, 6 meses).
 
 ════════════════════════════════════════════════════════════════════════════════
 FIN DEL ARCHIVO 60 — PROCEDIMIENTOS EDILICIOS PH MERLO ARBA (AMPLIADO)

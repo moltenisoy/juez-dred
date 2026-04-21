@@ -367,7 +367,7 @@ SECCIÓN COMPLEMENTARIA — DEFENSAS DEL DEMANDADO: AMPLIACIÓN Y CORRECCIONES
    Refutación:
    a) El plazo se computa desde que el daño es CONOCIDO o COGNOSCIBLE por
       la víctima (Art. 2554 CCyCN — dies a quo).
-   b) La carta documento SUSPENDE la prescripción por 6 meses (Art. 2546
+   b) La carta documento SUSPENDE la prescripción por 6 meses (Art. 2541 [corr. prev.: Art. 2546 = interrupción por petición judicial — incorrecto]
       CCyCN). La suspensión detiene el plazo sin reiniciarlo.
    c) La mediación obligatoria (Ley 13.951 PBA) SUSPENDE el plazo desde la
       notificación del requerido hasta 20 días después del cierre del

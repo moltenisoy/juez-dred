@@ -487,12 +487,15 @@ responsabilidad penal si ocurre un siniestro.
 ○ Sanción: Multas pecuniarias impuestas por la Superintendencia de
 Riesgos del Trabajo (SRT) y suspensión de las tareas de izaje o
 montaje.
-● Carátula: "Delito de peligro colectivo por derrumbe"
+● Carátula: "Estrago culposo por derrumbe de edificio"
 ○ Tipo: Delito Penal.
-○ Normativa: Código Penal Argentino, Art. 229.
-○ Clasificación: Se aplica a quien, dirigiendo o ejecutando una
-construcción, inobserve las reglas del arte de construir y cree un
-peligro de derrumbe.
+○ Normativa: Código Penal Argentino, Art. 187 (estrago por derrumbe
+o desmoronamiento de edificio u obra).
+⚠ CORRECCIÓN: el Art. 229 CP citado anteriormente corresponde a
+SEDICIÓN (alzamiento contra poderes públicos) y NO tiene relación con
+construcciones ni derrumbes. El artículo aplicable es el Art. 187 CP.
+○ Clasificación: Se aplica a quien cause un derrumbe o desmoronamiento
+de un edificio u obra que ponga en peligro la seguridad de las personas.
 ● Carátula: "Homicidio culposo" o "Lesiones culposas"
 ○ Tipo: Delito Penal.
 ○ Normativa: Código Penal Argentino, Art. 84 y Art. 94.
@@ -512,7 +515,7 @@ Legal
 Normativa Base
 Merlo Sin planos o permiso Falta / Infracción Ord. 5140/17
 CABA Obra en contravención Falta Ley 451 Art. 2.2.3
-Nacional Riesgo estructural real Delito Cód. Penal Art. 229
+Nacional Riesgo estructural real Delito Cód. Penal Art. 187 (estrago por derrumbe — Art. 229 CP = Sedición, NO aplicable)
 Nacional Accidente por
 negligencia
 Delito Culposo Cód. Penal Art.

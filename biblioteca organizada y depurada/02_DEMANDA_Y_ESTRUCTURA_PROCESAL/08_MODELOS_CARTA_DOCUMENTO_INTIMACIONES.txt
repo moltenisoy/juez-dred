@@ -604,22 +604,25 @@ SECCIÓN F — CORRECCIONES NORMATIVAS CRÍTICAS Y AMPLIACIONES
       VÉLEZ SARSFIELD (derogado desde agosto 2015).
 
    b) Bajo el CCyCN vigente, la carta documento NO INTERRUMPE la prescripción.
-      Solo la SUSPENDE por 6 meses (Art. 2546 CCyCN):
+      Solo la SUSPENDE por 6 meses (Art. 2541 CCyCN):
 
-      Art. 2546 CCyCN: "La prescripción se suspende por la interpelación
+      Art. 2541 CCyCN: "La prescripción se suspende por la interpelación
       fehaciente efectuada al deudor para que cumpla la obligación. Esta
       suspensión cesa a los seis meses de realizada la interpelación, aun
       cuando no haya terminado el plazo para prescribir."
 
-   c) La INTERRUPCIÓN de la prescripción (Art. 2541 CCyCN) solo ocurre por:
-      1) Reconocimiento del derecho por el deudor (expreso o tácito)
-      2) Interposición de demanda judicial
+   c) La INTERRUPCIÓN de la prescripción (Arts. 2545-2546 CCyCN) solo ocurre por:
+      1) Reconocimiento del derecho por el deudor (expreso o tácito) — Art. 2545
+      2) Interposición de demanda judicial (petición judicial) — Art. 2546
       3) Pedido de quiebra o concurso
       4) Actos de ejecución directa
 
    d) La SUSPENSIÓN de la prescripción ocurre por:
-      1) Carta documento — suspende 6 meses (Art. 2546 CCyCN)
+      1) Carta documento — suspende 6 meses (Art. 2541 CCyCN)
       2) Pedido de mediación obligatoria (Art. 2542 CCyCN)
+   ⚠ CORRECCIÓN: la versión anterior tenía Art. 2541 y Art. 2546 INVERTIDOS.
+   Art. 2541 = SUSPENSIÓN por interpelación fehaciente. Art. 2546 = INTERRUPCIÓN
+   por petición judicial. Art. 2545 = INTERRUPCIÓN por reconocimiento.
 
    DIFERENCIA CLAVE:
    • SUSPENSIÓN (carta documento): "Pausa" el plazo por 6 meses; luego
@@ -717,7 +720,7 @@ SECCIÓN F — CORRECCIONES NORMATIVAS CRÍTICAS Y AMPLIACIONES
    (Art. 189 CP) y LESIONES CULPOSAS (Art. 94 CP), reservándome el
    derecho de formular denuncia penal ante la Fiscalía correspondiente.
 
-   La presente suspende la prescripción conforme Art. 2546 CCyCN y
+   La presente suspende la prescripción conforme Art. 2541 CCyCN y
    constituye a Ud. en mora conforme Art. 886 CCyCN.
 
    ---------- FIN MODELO SUGERIDO ----------

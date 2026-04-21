@@ -517,7 +517,8 @@ CORRECCIÓN 3 — CONSTITUCIÓN EN MORA Y PRESCRIPCIÓN:
   (interpelación fehaciente o mora automática), NO por el Art. 1717 CCyCN
   (antijuridicidad).
 — La carta documento al demandado SUSPENDE la prescripción por 6 meses
-  (Art. 2546 CCyCN). NO la interrumpe.
+  (Art. 2541 CCyCN). NO la interrumpe.
+  ⚠ CORRECCIÓN: Art. 2546 = INTERRUPCIÓN por petición judicial. Art. 2541 = SUSPENSIÓN por interpelación fehaciente.
 
 AMPLIACIÓN 1 — CONSECUENCIA ACUMULATIVA DE LAS 19 INFRACCIONES:
 La omisión simultánea de los 19 requisitos catalogados en este archivo

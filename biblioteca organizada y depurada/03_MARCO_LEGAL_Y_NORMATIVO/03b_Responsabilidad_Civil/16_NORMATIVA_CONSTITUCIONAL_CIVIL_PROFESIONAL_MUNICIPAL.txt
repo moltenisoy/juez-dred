@@ -325,12 +325,16 @@ confundirse con el Art. 1717 CCyCN, que regula la antijuridicidad de la
 conducta.
 
 CORRECCIÓN 3 — SUSPENSIÓN DE PRESCRIPCIÓN POR INTERPELACIÓN FEHACIENTE:
-El Art. 2546 del CCyCN establece que el curso de la prescripción se
+El Art. 2541 del CCyCN establece que el curso de la prescripción se
 SUSPENDE por una sola vez, por la interpelación fehaciente hecha por el
 titular del derecho contra el deudor. Esta suspensión tiene efecto durante
 SEIS (6) MESES. Atención: suspende, NO interrumpe. La interrupción (que
 borra el tiempo corrido y lo reinicia) requiere demanda judicial (Art. 2546
 CCyCN) o reconocimiento del deudor (Art. 2545 CCyCN).
+⚠ CORRECCIÓN PREVIA: la referencia a "Art. 2546" como norma de suspensión
+por interpelación fehaciente era INCORRECTA. Art. 2541 = SUSPENSIÓN por carta
+documento/interpelación fehaciente (6 meses). Art. 2546 = INTERRUPCIÓN por
+petición judicial. Son institutos distintos con efectos distintos.
 
 AMPLIACIÓN 1 — NORMATIVA CONSTITUCIONAL COMPLEMENTARIA:
 
@@ -402,11 +406,13 @@ Las astreintes son a favor del damnificado y se liquidan en ejecución de
 sentencia. Son susceptibles de revisión y graduación judicial.
 
 AMPLIACIÓN 6 — DEPARTAMENTO JUDICIAL COMPETENTE:
-El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MERLO, creado
-por la Ley 13.859 (sancionada en 2009). La competencia civil y comercial
-de primera instancia y la alzada corresponden a los juzgados y Cámara de
-Apelación con asiento en la ciudad de Merlo. NO corresponde al Departamento
-Judicial de Morón.
+⚠ CORRECCIÓN: El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL DE
+MORÓN. Si bien la Ley 13.859 (sancionada en 2009) creó el Departamento
+Judicial de Merlo, dicho departamento NO está operativo (abril 2026). La
+competencia civil y comercial de primera instancia y la alzada corresponden
+a los juzgados y Cámara de Apelación del Departamento Judicial de MORÓN,
+que mantiene jurisdicción sobre el Partido de Merlo hasta que el DJ de
+Merlo sea habilitado.
 
 ================================================================================
 FIN ARCHIVO 60 — NORMATIVA CONSTITUCIONAL, CIVIL, PROFESIONAL Y MUNICIPAL (AMPLIADO)

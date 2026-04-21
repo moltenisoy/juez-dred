@@ -50,7 +50,7 @@ Tipo Penal
 	Homicidio Culposo
 	Provocar la muerte por negligencia en el mantenimiento o construcción.
 	Art. 84 CP
-	Prisión de 6 meses a 5 años e inhabilitación. 22
+	Prisión de 1 a 5 años e inhabilitación especial de 5 a 10 años. 22 [texto vigente según Ley 27.347/2017]
 	Lesiones Culposas
 	Causar daño físico por caída de materiales o descargas eléctricas.
 	Art. 94 CP
@@ -233,11 +233,14 @@ al demandado que no cumpla una orden judicial. En casos de obra lindera dañosa,
 astreintes son el instrumento principal para compeler al responsable a ejecutar las
 reparaciones ordenadas judicialmente o a cesar la actividad riesgosa.
 
-3.3. Sanción pecuniaria disuasiva (Arts. 1714 y 1715 CCyCN)
-El Art. 1714 CCyCN permite al juez aplicar una sanción económica disuasiva cuando el
-responsable del daño actuó con grave menosprecio hacia los derechos de la víctima.
-La omisión deliberada de reparaciones durante un período prolongado, con conocimiento
-comprobado de los daños y sus riesgos, configura el supuesto de esta norma.
+3.3. Sanción pecuniaria disuasiva — ARTÍCULOS VETADOS
+ADVERTENCIA: Los artículos 1714 y 1715 del CCyCN que preveían la "sanción pecuniaria
+disuasiva" (similar a punitive damages) fueron VETADOS por el Decreto 191/2015 del
+Poder Ejecutivo al promulgar la Ley 26.994. En consecuencia, NUNCA estuvieron vigentes
+y NO integran el texto del CCyCN. No deben ser invocados en actuaciones judiciales.
+Alternativas válidas vigentes: Art. 804 CCyCN (astreintes/sanciones conminatorias
+progresivas por incumplimiento de órdenes judiciales) y Art. 1741 CCyCN (indemnización
+del daño no patrimonial, incluyendo supuestos de agravamiento por conducta del dañador).
 
 3.4. Prueba anticipada (Art. 326 CPCCBA)
 El Art. 326 del CPCCBA permite la producción de prueba antes de la demanda cuando exista
@@ -278,9 +281,11 @@ de caducidad de DIEZ (10) años desde la aceptación de la obra. Puede concurrir
 prescripción trienal del Art. 2561 CCyCN según la naturaleza del rubro reclamado.
 
 4.3. Interrupción y suspensión
-• Art. 2541 CCyCN — Interrupción por reconocimiento del obligado.
+• Art. 2541 CCyCN — Suspensión por interpelación fehaciente (carta documento). Suspende por 6 meses como máximo, por una sola vez.
 • Art. 2542 CCyCN — Suspensión por mediación prejudicial obligatoria (Ley 13.951 PBA).
-• Art. 2544 CCyCN — Interrupción por petición judicial.
+• Art. 2544 CCyCN — Efectos de la interrupción: tiene por no sucedido el lapso anterior e inicia un nuevo plazo.
+• Art. 2545 CCyCN — Interrupción por reconocimiento del obligado.
+• Art. 2546 CCyCN — Interrupción por petición judicial (demanda).
 
 
 V. JURISPRUDENCIA COMPLEMENTARIA PARA EL CASO DE MERLO

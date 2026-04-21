@@ -544,11 +544,15 @@ obligaciones de no hacer (no dañar), la mora es automática desde la
 contravención (Art. 887 inc. a CCyCN). En obligaciones de hacer (reparar),
 se requiere interpelación fehaciente mediante carta documento.
 
-CORRECCIÓN 3 — SUSPENSIÓN DE PRESCRIPCIÓN (Art. 2546 CCyCN):
+CORRECCIÓN 3 — SUSPENSIÓN DE PRESCRIPCIÓN (Art. 2541 CCyCN):
 La carta documento que reclama la reparación de daños SUSPENDE el curso de
-la prescripción por SEIS (6) MESES (Art. 2546 CCyCN). No la interrumpe.
+la prescripción por SEIS (6) MESES (Art. 2541 CCyCN). No la interrumpe.
 Diferencia clave: la suspensión detiene temporalmente el cómputo; la
-interrupción (Art. 2544 CCyCN) borra el plazo transcurrido y lo reinicia.
+interrupción (Arts. 2545-2546 CCyCN) borra el plazo transcurrido y lo reinicia.
+⚠ CORRECCIÓN: la referencia anterior a "Art. 2546" era INCORRECTA. Art. 2541 =
+SUSPENSIÓN por interpelación fehaciente (carta documento, 6 meses). Art. 2546 =
+INTERRUPCIÓN por petición judicial. Art. 2544 = efectos de la interrupción
+(plazo anterior se pierde), no la causa de la interrupción.
 
 AMPLIACIÓN 1 — HABITABILIDAD COMO DERECHO CONSTITUCIONAL REFORZADO:
 El derecho a la vivienda digna y habitable tiene triple fundamentación

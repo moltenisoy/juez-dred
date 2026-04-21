@@ -451,8 +451,13 @@ ENFOQUE 1: PERSPECTIVA DE COMPLETITUD NORMATIVA Y ARTICULADO
 2. Art. 1745 CCyC — Indemnización por fallecimiento / Art. 1746 — Indemnización por lesiones o incapacidad:
    Si bien se mencionan lesiones culposas (Art. 94 CP), no se desarrolla la cuantificación civil de la incapacidad sobreviniente (Art. 1746 CCyC) para las afecciones respiratorias crónicas y el daño psicológico. Los documentos mencionan pericias médicas y psicológicas pero sin anclar su cuantificación al art. 1746 específicamente, que es la norma que obliga al juez a usar fórmulas matemáticas para calcular la incapacidad.
 
-3. Art. 1714-1715 CCyC — Punición excesiva / Atenuación de la responsabilidad:
-   En Documento_Juridico_Unificado_Merlo (1).txt y cuadro de situacion y marco.txt se mencionan astreintes, pero no se invoca explícitamente la posibilidad de daño punitivo o sanción pecuniaria disuasiva del Art. 1714. Si bien el daño punitivo en Argentina está más asociado a relaciones de consumo (Ley 24.240), la doctrina reciente ha debatido su extensión a casos de negligencia grave reiterada — exactamente el caso donde el demandado mantuvo la situación de riesgo por 2 años ignorando reclamos.
+3. Art. 1714-1715 CCyC — ⚠ ARTÍCULOS VETADOS — NO APLICAR:
+   ADVERTENCIA CRÍTICA: Los Arts. 1714 y 1715 CCyCN (sanción pecuniaria disuasiva /
+   daños punitivos) fueron VETADOS por Decreto 191/2015 al promulgarse la Ley 26.994.
+   NUNCA estuvieron vigentes. NO deben invocarse en actuaciones judiciales.
+   → Alternativas válidas: Art. 804 CCyCN (astreintes/conminación por incumplimiento)
+     y Art. 1741 CCyCN (daño moral con agravamiento por conducta del ofensor).
+   → Para el daño punitivo en relación de consumo: Art. 52 bis Ley 24.240.
 
 4. Ley 24.240 (Defensa del Consumidor) — Relación con AySA:
    El archivo Permisos y Seguridad Obra Merlo.txt menciona AySA y la instalación "esclava" del agua, pero ningún documento invoca la relación de consumo del damnificado con AySA bajo la Ley 24.240. Si AySA tenía conocimiento de la alteración del suministro compartido y no actuó, podría existir una responsabilidad concurrente del prestador del servicio público por omisión del deber de seguridad (Art. 5 y 40 Ley 24.240).
