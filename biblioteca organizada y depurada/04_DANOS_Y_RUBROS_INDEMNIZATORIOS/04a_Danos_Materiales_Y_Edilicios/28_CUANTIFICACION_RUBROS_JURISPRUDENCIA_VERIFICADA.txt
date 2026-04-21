@@ -501,8 +501,11 @@ AMPLIACIÓN Y CORRECCIONES
    ⚠ CORRECCIÓN: Art. 2546 = INTERRUPCIÓN por petición judicial. Art. 2541 = SUSPENSIÓN por interpelación fehaciente (carta documento, 6 meses).
      (no la interrumpe). Efecto: detiene temporalmente el cómputo del
      plazo trienal del Art. 2561 CCyCN.
-   - Art. 2544 CCyCN: La DEMANDA judicial sí INTERRUMPE la prescripción
+   - Art. 2546 CCyCN: La DEMANDA judicial sí INTERRUMPE la prescripción
      (borra el plazo transcurrido y reinicia el cómputo).
+     [⚠ Art. 2544 CCyCN = EFECTOS de la interrupción (el plazo anterior
+     se tiene por no sucedido); no es el artículo que causa la interrupción.
+     Art. 2546 CCyCN es el que dispone la interrupción por petición judicial.]
 
 8. DEPARTAMENTO JUDICIAL MORÓN — NOTA PROCESAL
    La causa debe radicarse ante el Juzgado Civil y Comercial del
