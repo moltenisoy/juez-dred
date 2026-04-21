@@ -1,5 +1,5 @@
 ================================================================================
-  ARCHIVO 50 — REQUISITOS DE SERVICIOS, URBANISMO E INSTALACIONES
+  ARCHIVO 54 — REQUISITOS DE SERVICIOS, URBANISMO E INSTALACIONES
   PARTIDO DE MERLO — PROVINCIA DE BUENOS AIRES
   CUATRO PERSPECTIVAS: DENUNCIANTE / DENUNCIADO / JUSTICIA / PERITAJE
   Fuente: Análisis de archivos sueltos del repositorio (abril 2026)
@@ -15,13 +15,18 @@ SECCIÓN 1 — INSTALACIONES ELÉCTRICAS (NORMATIVA AEA Y EDENOR)
 
 NORMATIVA APLICABLE:
 - Reglamento de la Asociación Electrotécnica Argentina (AEA 90364)
-- Normas IRAM 2004 concordantes
+- Normas IRAM concordantes (popularmente designadas "IRAM 2004", cuyo equivalente actualizado es la norma IRAM 2183-2004)
 - EDENOR como distribuidora en Merlo (Zona Oeste), conforme documentos ENRE
 
 REQUISITOS TÉCNICOS PARA AMPLIACIÓN ELÉCTRICA:
 1. Plano de instalaciones eléctricas de la nueva planta, firmado por
-   electricista matriculado ante el Consejo Profesional de Ingeniería PBA
-   (Fundamento: AEA 90364 / IRAM 2004)
+   electricista matriculado ante el CIPBA (Colegio de Ingenieros de la
+   Provincia de Buenos Aires) si es ingeniero electricista, o ante el
+   Colegio de Técnicos de la Provincia de Buenos Aires (Ley 10.411) si es
+   instalador electricista técnico. [CORRECCIÓN: la denominación "Consejo
+   Profesional de Ingeniería PBA" no es el nombre vigente del organismo; la
+   entidad correcta para ingenieros es el CIPBA — Colegio de Ingenieros PBA]
+   (Fundamento: AEA 90364 / IRAM 2183-2004)
 2. Contrato de instalador electricista habilitado ante EDENOR
    (EDENOR exige instalador habilitado para toda modificación domiciliaria)
 3. Solicitud de ampliación de carga ante EDENOR si la nueva planta eleva la
@@ -54,8 +59,12 @@ indicio de irregularidad que refuerza la calificación de obra clandestina.
 PERSPECTIVA DEL PERITAJE:
 El perito debe verificar: estado de tableros, secciones de cables,
 protecciones térmicas y diferenciales, puesta a tierra, distancias
-mínimas a líneas de media tensión (0,8 m mínimo). La ausencia de estas
-verificaciones es un incumplimiento autónomo.
+mínimas a líneas de media tensión [CORRECCIÓN: la distancia de 0,8 m
+indicada originalmente es INCORRECTA para media tensión. Según AEA 90364
+y ENRE, para líneas aéreas de media tensión (ej. 13,2 kV), la distancia
+mínima horizontal a una pared/zona inaccesible es de 2,5 m; a balcones/
+zonas accesibles: 2,5 m horizontal y 4,3 m vertical (AEA 95301)].
+La ausencia de estas verificaciones es un incumplimiento autónomo.
 ───────────────────────────────────────────────────────────────────────────
 
 ================================================================================
@@ -65,7 +74,11 @@ SECCIÓN 2 — INSTALACIÓN DE GAS (ENARGAS Y DISTRIBUIDORA LOCAL)
 NORMATIVA APLICABLE:
 - Decreto 1738/92 — Reglamento del Servicio de Gas Natural
 - ENARGAS como ente regulador nacional
-- Distribuidora local: MetroGAS u otra (verificar prestador actual en Merlo)
+- Distribuidora local: Naturgy BAN S.A. (ex Gas Natural BAN S.A.) es la distribuidora
+  habilitada para Merlo y el oeste del GBA (fuente: ENARGAS). MetroGAS NO
+  presta servicio en Merlo; su área de concesión cubre el sur/sudoeste del
+  GBA (CABA y 11 partidos sur). [CORRECCIÓN: el archivo indicaba MetroGAS
+  como posible distribuidora de Merlo — ello es INCORRECTO.]
 
 REQUISITOS PARA AMPLIACIÓN DE GAS:
 1. Plano de instalación de gas firmado por gasista matriculado ante ENARGAS
@@ -230,7 +243,12 @@ REQUISITOS PARA LA NUEVA PLANTA:
    para la nueva planta (ventilación, salidas de emergencia, ancho
    mínimo de escalera de acceso)
 2. Escalera de acceso a planta alta: ancho mínimo 0,90 m (residencial),
-   pasamanos en ambos lados si supera 1,20 m, pendiente máxima del 42%
+   pasamanos en ambos lados si supera 1,20 m, [PENDIENTE DE VERIFICACIÓN EN
+   FUENTE PRIMARIA MUNICIPAL: PENDIENTE MÁXIMA DEL 42% NO FUE CONFIRMADA
+   EN FUENTES OFICIALES — los códigos de edificación estándar en Argentina
+   expresan la pendiente por alzada máxima de 18 cm y huella mínima de 26 cm;
+   el valor 42% no corresponde a esa expresión. VERIFICAR ANTE CÓDIGO DE
+   EDIFICACIÓN VIGENTE DEL PARTIDO DE MERLO.]
 3. Verificación de salida de emergencia o vía de escape alternativa si
    la planta alta tiene más de un ambiente habitado
 4. Si el inmueble tiene uso mixto (comercial en PB + residencial en PA):
@@ -264,7 +282,11 @@ SECCIÓN 6 — DECLARATORIA DE MEJORAS ANTE ARBA
 ================================================================================
 
 NORMATIVA APLICABLE:
-- Ley 10.707 PBA y concordantes — Código Fiscal PBA
+- Ley 10.707 PBA (Ley de Catastro Territorial de la Provincia de Buenos Aires)
+  [CORRECCIÓN: el archivo anterior denominaba esta ley como "Código Fiscal PBA",
+  lo cual es INCORRECTO. La Ley 10.707 es la Ley de CATASTRO TERRITORIAL, que
+  regula el registro de inmuebles, valuaciones y base fiscal. El Código Fiscal
+  de PBA es la Ley 10.397.]
 - ARBA (Agencia de Recaudación PBA)
 - Formulario R-550I — Declaratoria de Mejoras
 
@@ -565,11 +587,18 @@ REQUISITOS ADICIONALES IDENTIFICADOS EN LOS ARCHIVOS SUELTOS:
 
 A) LIBRO DE OBRA: El director de obra debe llevar un libro foliado con
    registro de todas las etapas constructivas, firmado en cada visita
-   (Exigencia colegial — Colegio de Arquitectos Distrito V PBA)
+   (Exigencia colegial — CAPBA Distrito III — Colegio de Arquitectos de
+   la Provincia de Buenos Aires, Distrito 3, que abarca Merlo)
+   [CORRECCIÓN: el archivo indicaba "Distrito V" — verificado que Merlo
+   pertenece al CAPBA Distrito III, no al Distrito V.]
 
 B) AVISO DE INICIO DE OBRA: Antes de comenzar los trabajos, el director
    debe presentar el aviso de inicio ante Obras Particulares del municipio
-   (Reglamento General de Construcciones PBA)
+   (Ordenanza de Edificación de Merlo vigente — nota: en PBA no existe un
+   "Reglamento General de Construcciones PBA" único; cada municipio dicta
+   su propio código de edificación. La referencia correcta es el Código de
+   Edificación del Partido de Merlo, cuya última reforma identificada es la
+   Ordenanza 5839/2021.)
 
 C) PLANO DE MENSURA ACTUALIZADO: Si la obra genera nuevas superficies
    cubiertas, puede exigirse actualización catastral ante el Departamento
@@ -608,7 +637,7 @@ FUENTES DE ESTE ARCHIVO:
 - Requisitos Construcción Edilicia Copropiedad Merlo.txt
 - MARCO_TEORICO_JURIDICO_MERLO_PBA_2024.txt
 ================================================================================
-FIN DEL ARCHIVO 50 — REQUISITOS DE SERVICIOS, URBANISMO E INSTALACIONES
+FIN DEL ARCHIVO 54 — REQUISITOS DE SERVICIOS, URBANISMO E INSTALACIONES
 ================================================================================
 
 
@@ -618,18 +647,38 @@ SECCIÓN COMPLEMENTARIA — NORMATIVA URBANÍSTICA MERLO: AMPLIACIÓN Y CORRECCI
 ================================================================================
 
 1. CORRECCIÓN — DEPARTAMENTO JUDICIAL COMPETENTE
-   El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MERLO
-   (Ley 13.859/2009), NO al de Morón.
+   [CORRECCIÓN SOBRE CORRECCIÓN ANTERIOR EN ESTE ARCHIVO]: El Partido de
+   Merlo NO tramita causas en el DEPARTAMENTO JUDICIAL DE MERLO, a pesar de
+   que este fue creado por Ley 13.859/2009. A la fecha (abril 2026), el DJ
+   de Merlo NO ESTÁ OPERATIVO. Las causas civiles y comerciales del Partido
+   de Merlo siguen tramitando en el DEPARTAMENTO JUDICIAL DE MORÓN.
+   Esta es la situación verificada a abril 2026 por múltiples fuentes.
+   Se prevé su habilitación durante 2026 pero aún no operó autónomamente.
 
-2. ORDENANZA 757/2000 — CÓDIGO DE EDIFICACIÓN DE MERLO (antecedente)
-   ───────────────────────────────────────────────────────────────────
-   La Ordenanza 757/2000 constituyó el primer Código de Edificación integral
-   del Partido de Merlo. Fue posteriormente reformulada por:
-   - Ordenanza 2589/84 (requisitos técnicos de instalaciones)
-   - Ordenanza 5802/2020 (Código de Edificación reformulado — Boletín 59)
-   - Ordenanza 5839/2021 (Modificaciones al Código de Edificación — Boletín 68)
+2. ORDENANZA 757/2000 Y REFERENCIAS AL CÓDIGO DE EDIFICACIÓN DE MERLO (PBA)
+   ───────────────────────────────────────────────────────────────────────────
+   [ADVERTENCIA DE VERIFICACIÓN]: La Ordenanza 757/2000 identificada en las
+   búsquedas web corresponde al Código de Edificación de la MUNICIPALIDAD DE
+   VILLA DE MERLO (SAN LUIS), NO del Partido de Merlo (Buenos Aires). No se
+   pudo confirmar mediante fuentes web públicas que el Partido de Merlo (PBA)
+   tenga una Ordenanza 757/2000 como Código de Edificación propio.
+   [CONTENIDO NO VERIFICADO — VERIFICAR ANTE EL HCD O MUNICIPALIDAD DEL
+   PARTIDO DE MERLO (PBA) EL NÚMERO DE ORDENANZA CORRECTO]
 
-   Requisitos específicos municipales derivados:
+   Lo QUE SÍ FUE VERIFICADO para el Partido de Merlo (PBA):
+   - Ordenanza 5839/2021 = Modificaciones al Código de Edificación (Boletín
+     Oficial N° 68 de Merlo — fuente: merlo.gob.ar)
+   - Ordenanza 5802/2020 = Código de Edificación reformulado (Boletín 59)
+     [no confirmada directamente pero citada en registros municipales]
+
+   [INCONSISTENCIA CRONOLÓGICA NO VERIFICADA]: el archivo indica que
+   757/2000 "fue reformulada por Ordenanza 2589/84". Si "84" indica el año
+   1984, la Ordenanza 2589 sería ANTERIOR a la 757/2000, por lo que la
+   relación causal indicada es cronológicamente imposible. NO SE PUDO
+   CONFIRMAR EL SIGNIFICADO O AÑO DE LA ORDENANZA 2589 PARA MERLO PBA —
+   verificar ante Honorable Concejo Deliberante de Merlo (PBA).
+
+   Requisitos específicos municipales derivados (fuente: Ord. 5839/2021):
    a) Permiso de obra obligatorio para toda construcción nueva o ampliación
    b) Planos firmados por profesional matriculado (CAPBA Distrito III o CIPBA)
    c) Director técnico de obra habilitado
@@ -639,15 +688,30 @@ SECCIÓN COMPLEMENTARIA — NORMATIVA URBANÍSTICA MERLO: AMPLIACIÓN Y CORRECCI
 
 3. LEY 8912/77 — ORDENAMIENTO TERRITORIAL Y USO DEL SUELO (PBA)
    ─────────────────────────────────────────────────────────────
-   Art. 1: Rige el ordenamiento del territorio de la Provincia.
-   Art. 7: Los municipios deben delimitar áreas urbanas, complementarias y rurales.
-   Art. 25: Fija indicadores urbanísticos (FOS, FOT, densidad).
-   Art. 52: Las obras que no cumplan la normativa de uso del suelo pueden ser
-            declaradas clandestinas y sujetas a demolición.
-   Art. 56: Los municipios controlan el cumplimiento de esta ley.
+   Art. 1: Rige el ordenamiento del territorio de la Provincia, asegurando
+           el adecuado crecimiento y desarrollo de los centros de población
+           y la correcta utilización del suelo. [VERIFICADO]
+   Art. 7: Establece la zonificación en áreas urbanas y complementarias:
+           los municipios deben delimitar y regular zonas de uso (residencial,
+           comercial, industrial, recreativo), reservas de expansión, equipamiento
+           comunitario y zonas verdes. [VERIFICADO - la descripción original
+           era correcta en su conclusión aunque incompleta]
+   Art. 25: Fija indicadores urbanísticos (FOS, FOT, densidad poblacional,
+            relación de espacios verdes y libres). [VERIFICADO]
+   Art. 52: [CONTENIDO ANTERIOR NO VERIFICADO — EL ART. 52 DE LA LEY 8912/77
+            SEGÚN FUENTES WEB TRATA SOBRE LA OBLIGACIÓN DE EJECUTAR OBRAS DE
+            INFRAESTRUCTURA COMO CONDICIÓN PARA APROBACIÓN DE PLANOS DE
+            URBANIZACIÓN/SUBDIVISIÓN — NO SOBRE DEMOLICIÓN DE OBRAS
+            CLANDESTINAS. VERIFICAR EL TEXTO OFICIAL ANTE FUENTE PRIMARIA]
+   Art. 56: [CONTENIDO ANTERIOR NO VERIFICADO — EL ART. 56 SEGÚN FUENTES WEB
+            TRATA SOBRE LA RESPONSABILIDAD DEL TITULAR DE URBANIZACIÓN POR
+            OBRAS DE INFRAESTRUCTURA — NO SOBRE EL CONTROL MUNICIPAL GENERAL
+            DEL CUMPLIMIENTO DE LA LEY. VERIFICAR EL TEXTO OFICIAL ANTE
+            FUENTE PRIMARIA]
 
    APLICACIÓN AL CASO: Si la obra lindante excede el FOT o FOS permitido
-   para la zona según la zonificación de Merlo (Ordenanza 5840/2021), se
+   para la zona según la zonificación de Merlo [ORDENANZA 5840/2021 NO
+   VERIFICADA EN FUENTES WEB — CONFIRMAR ANTE MUNICIPIO DE MERLO], se
    configura infracción urbanística autónoma adicional a la clandestinidad.
 
 4. REQUISITOS ESPECÍFICOS MUNICIPALES PARA AMPLIACIÓN EN PH
