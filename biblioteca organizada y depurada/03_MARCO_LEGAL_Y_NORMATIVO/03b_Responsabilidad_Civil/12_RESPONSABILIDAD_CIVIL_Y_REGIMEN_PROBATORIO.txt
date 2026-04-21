@@ -213,6 +213,11 @@ Morón mantiene la competencia sobre el Partido de Merlo).
 
 Art. 5°, inc. 1° del CPCCBA: en acciones reales sobre inmuebles, es juez competente
 el del lugar donde está situada la cosa litigiosa.
+⚠️ CORRECCIÓN: El Art. 5° inc. 1° CPCCBA se aplica a ACCIONES REALES sobre inmuebles.
+La acción de daños y perjuicios es una acción PERSONAL, para la cual corresponde
+el Art. 5° inc. 4° CPCCBA (lugar donde debe cumplirse la obligación, domicilio del
+demandado o lugar donde se generó el hecho). Si bien el resultado práctico (DJ Morón)
+es el mismo, la cita procesal correcta para la acción de daños es el inc. 4°, no el inc. 1°.
 
 
 III. CONCEPTOS JURÍDICOS FALTANTES

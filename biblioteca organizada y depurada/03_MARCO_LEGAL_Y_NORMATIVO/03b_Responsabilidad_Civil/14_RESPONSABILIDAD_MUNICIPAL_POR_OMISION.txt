@@ -17,6 +17,12 @@ NORMATIVA VERIFICADA:
 - Decreto-Ley 6769/58 PBA — Ley Orgánica de Municipalidades, Art. 27 inc. 7° [V]
 - Ley 26944 — Responsabilidad del Estado Nacional [V]
 - Arts. 1764 a 1766 CCCN — Responsabilidad del Estado (remisión a ley especial) [V]
+  ⚠️ ACLARACIÓN: Arts. 1764-1766 CCyCN NO establecen la responsabilidad del Estado;
+  la EXCLUYEN del CCyCN y la REMITEN a la ley especial (Ley 26.944 Nacional, o
+  régimen provincial análogo). Invocarlos como base positiva de responsabilidad
+  estatal es incorrecto. La base positiva es: Ley 26.944 Art. 3° (falta de servicio)
+  para el Estado Nacional; en PBA, la jurisprudencia de la SCBA aplica estándares
+  análogos basados en la Const. PBA, Dec.-Ley 6769/58 y doctrina de falta de servicio.
 - Ley 12008 PBA — Proceso Contencioso Administrativo [V]
 - Constitución PBA, Art. 166 (amplia habilitación de competencia contencioso
   administrativa para actuaciones u omisiones de municipios) [V]
