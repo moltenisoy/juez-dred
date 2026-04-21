@@ -1,166 +1,278 @@
 ================================================================================
-MODELO BASE DE DEMANDA CIVIL POR DAÑOS Y PEDIDO URGENTE DE CESE DE RIESGO
-(VERSIÓN DEPURADA CON MARCO NORMATIVO VERIFICABLE)
+MODELO DE DEMANDA POR DAÑOS Y PERJUICIOS, DENUNCIA DE DAÑO TEMIDO
+(INTERDICTO DE OBRA RUINOSA) Y SOLICITUD DE TUTELA ANTICIPADA
+CON CELERIDAD PROCESAL
 ================================================================================
 
-I. ENCABEZADO
+NOTA: Este modelo fue elaborado en dos versiones con formato diferente pero
+contenido idéntico. Se conserva una única versión depurada.
 
-Señor/a Juez/a en lo Civil y Comercial:
-
-[ACTOR/A], DNI [●], con domicilio real en [●], constituyendo domicilio legal
-junto a su letrado/a patrocinante en [●], y domicilio electrónico en [●],
-a V.S. respetuosamente digo:
-
-
+﻿I. ENCABEZADO
+Señor Juez en lo Civil y Comercial del Departamento Judicial de Morón (Jurisdicción Merlo):
+[TU NOMBRE COMPLETO], DNI [TU DNI], con domicilio real en [TU DIRECCIÓN], constituyendo domicilio legal en [DIRECCIÓN DEL ABOGADO], y domicilio electrónico en [CUIT/CUIL DEL ABOGADO], me presento ante V.S. y respetuosamente digo:
 II. OBJETO
-
-Que vengo a promover DEMANDA DE DAÑOS Y PERJUICIOS contra [DEMANDADO/A],
-con domicilio en [●], por los daños materiales y no patrimoniales derivados de
-la ejecución de obras/actividades linderas que afectaron mi inmueble.
-
-Asimismo, para el supuesto de riesgo grave e inminente, solicito tutela urgente
-conforme régimen cautelar del CPCCBA y denuncia de daño temido, según texto
-procesal vigente aplicable al caso.
-
-
-III. MEDIACIÓN PREJUDICIAL
-
-Con carácter previo, se cumplió la instancia de mediación prejudicial obligatoria
-prevista por Ley 13.951 de la Provincia de Buenos Aires (salvo supuesto legal
-exceptuado), acompañándose la constancia/acta respectiva.
-
-
-IV. HECHOS
-
-1) Identificación precisa de inmueble actor y demandado.
-2) Descripción cronológica de la obra o actividad cuestionada.
-3) Detalle de daños observados (fisuras, filtraciones, afectación eléctrica,
-   daño en bienes, privación de uso, etc.).
-4) Relación causal entre actividad denunciada y daños sufridos.
-5) Estado actual del riesgo (si persiste peligro estructural/eléctrico/sanitario).
-
-
-V. FUNDAMENTACIÓN JURÍDICA
-
-A) Código Civil y Comercial de la Nación (CCyCN)
-- Art. 1757: responsabilidad objetiva por riesgo o vicio de las cosas y
-  actividades riesgosas.
-- Art. 1758: sujetos responsables (dueño/guardián/beneficiario de la actividad).
-- Arts. 1710 a 1713: deber de prevención y acción preventiva.
-- Art. 1738: alcance de la indemnización (daño patrimonial, lucro cesante,
-  pérdida de chance y afectaciones personales).
-- Art. 1740: reparación plena.
-- Art. 1741: indemnización de consecuencias no patrimoniales.
-- Art. 1973: inmisiones entre inmuebles vecinos.
-- Art. 2561: prescripción de la acción civil de daños (3 años).
-
-B) Código Procesal Civil y Comercial de la Provincia de Buenos Aires (CPCCBA)
-- Art. 330: requisitos de la demanda.
-- Art. 333: ofrecimiento y acompañamiento de prueba.
-- Régimen cautelar (arts. 195 y ss.) y prohibición de innovar (art. 230),
-  cuando exista verosimilitud del derecho y peligro en la demora.
-- En su caso, vía específica de daño temido/interdicto conforme normativa
-  procesal provincial vigente.
-
-C) Otras normas aplicables según plataforma fáctica
-- Constitución Nacional, art. 41 (si hay componente ambiental).
-- Ley 25.675 (Ley General del Ambiente), si la pretensión incluye tutela
-  ambiental.
-- Ley 26.944 y derecho administrativo local, únicamente si se demanda al Estado.
-
-
-VI. PRUEBA
-
-1) DOCUMENTAL
-- Título/constancia de ocupación del inmueble.
-- Acta de mediación (Ley 13.951).
-- Informes técnicos previos.
-- Fotografías y videos fechados.
-- Presupuestos y comprobantes de gastos.
-- Cartas documento/intimaciones cursadas.
-
-2) PERICIAL TÉCNICA (ingeniería/arquitectura)
-- Determinación de origen del daño.
-- Estado estructural.
-- Riesgo actual y medidas de mitigación.
-- Costo de reparación integral.
-
-3) PERICIAL ELÉCTRICA/SANITARIA (si corresponde)
-- Estado de instalaciones.
-- Riesgo para personas y bienes.
-
-4) PERICIAL MÉDICA/PSICOLÓGICA (si corresponde)
-- Secuelas físicas/psíquicas y su nexo con los hechos.
-
-5) TESTIMONIAL
-- Identificación completa de testigos y hechos sobre los que declararán.
-
-6) INFORMATIVA (oficios)
-- Organismos públicos o privados con datos relevantes de obra,
-  habilitaciones, titularidad, servicios e inspecciones.
-
-
-VII. RUBROS INDEMNIZATORIOS (A ADECUAR AL CASO)
-
-1) Daño emergente (reparaciones de inmueble e instalaciones).
-2) Daños en bienes muebles/herramientas/equipos.
-3) Privación de uso y, en su caso, gastos de relocalización.
-4) Lucro cesante y/o pérdida de chance (si se acredita).
-5) Consecuencias no patrimoniales (art. 1741 CCyCN).
-6) Depreciación del valor del inmueble (si resulta acreditada).
-
-Se deja planteado que la cuantificación definitiva podrá ajustarse según
-resultado de la prueba pericial y demás prueba producida.
-
-
-VIII. PEDIDO CAUTELAR/TUTELA URGENTE (SI APLICA)
-
-Ante riesgo grave e inminente, solicito:
-- Cese inmediato de actos que agravan el daño.
-- Prohibición de innovar y/o medidas de seguridad.
-- Autorización judicial para reparaciones provisorias indispensables,
-  preservando la prueba del proceso.
-
-Fundamento: verosimilitud del derecho, peligro en la demora y tutela judicial
-efectiva.
-
-
-IX. PETITORIO
-
-Por lo expuesto, solicito:
-
-1) Me tenga por presentado/a, parte y con domicilios constituidos.
-2) Tenga por cumplida la instancia prejudicial obligatoria (o por configurada
-   la excepción legal que corresponda).
-3) Tenga por ofrecida la prueba y por acompañada la documental.
-4) Haga lugar a las medidas urgentes solicitadas, de corresponder.
-5) Oportunamente, dicte sentencia haciendo lugar a la demanda,
-   con intereses y costas conforme derecho vigente.
-
-
-X. ADVERTENCIAS TÉCNICAS DE ESTA VERSIÓN DEPURADA
-
-- Se eliminaron referencias normativas no verificadas externamente durante esta
-  revisión individual del archivo.
-- Se eliminaron menciones jurisprudenciales puntuales no corroboradas en esta
-  auditoría para evitar citas inexactas.
-- Se removieron referencias de artículos no pertinentes o dudosos para materia
-  de daños edilicios, manteniendo un núcleo normativo verificable y sólido.
-- Entre lo removido, como categorías, se incluyen citas jurisprudenciales
-  específicas sin verificación externa en esta auditoría y numeraciones locales
-  puntuales (por ejemplo, ordenanzas o reglamentos técnicos) no corroboradas.
-- Toda cita local específica (ordenanzas, reglamentos técnicos, resoluciones de
-  prestadoras de servicios) debe verificarse contra texto vigente oficial antes
-  de presentar judicialmente.
-
-
-XI. NOTA PROFESIONAL
-
-Este modelo es una base de trabajo. Debe ser adaptado por abogado/a matriculado/a
-según hechos, prueba disponible, competencia vigente y estrategia procesal del
-caso concreto.
+Que por el presente vengo a promover formal DEMANDA POR DAÑOS Y PERJUICIOS, DENUNCIA DE DAÑO TEMIDO (INTERDICTO DE OBRA RUINOSA) y SOLICITUD DE TUTELA ANTICIPADA CON CELERIDAD PROCESAL contra el Sr. JUAN CAPRIA, propietario del inmueble lindero sito en [DIRECCIÓN DE JUAN CAPRIA], Partido de Merlo, Provincia de Buenos Aires.
+La presente acción se funda en los graves e irreversibles daños estructurales, materiales, morales y a la salud derivados de una obra clandestina de ampliación (edificación de planta superior) actualmente finalizada. Específicamente, por la intrusión y ejecución temeraria de trabajos sobre mi propiedad, la instalación ilegal de un tanque cisterna de más de 750 kg sobre mi losa, la alteración unilateral de la red de suministro de agua, y el riesgo inminente de derrumbe y electrocución que me obliga a habitar en condiciones infrahumanas e inseguras.
+Asimismo, dejo formulada la reserva de instar la denuncia penal por el delito de Estrago Culposo (Art. 189 del Código Penal) ante la creación de un peligro común inminente.
+III. CUESTIONES PREVIAS
+A. Agotamiento de la Vía Prejudicial (Ley 13.951): Previo a esta instancia, y durante casi dos años de constantes reclamos informales, se intentó arribar a una solución mediante Mediación Prejudicial Obligatoria. En dicha instancia, esta parte presentó dos (2) informes técnicos sellados y timbrados por profesionales competentes que acreditaban la autoría y magnitud de los daños. Pese a ello, el demandado, sin presentar documentación alguna que avale su obra, mantuvo una postura negligente y temeraria, negándose a asumir los costos y obligándome a judicializar el reclamo (se adjunta Acta de Cierre sin Acuerdo).
+B. Celeridad Procesal y Tutela Anticipada:
+Atento al riesgo de vida inminente por descargas eléctricas, el colapso estructural progresivo y la imposibilidad de reparar por mis propios medios sin destruir el escenario probatorio (lo que me obliga a vivir sin calefacción eléctrica y en aislamiento social), solicito la habilitación de días y horas inhábiles. Amparado en el Art. 15 de la Constitución de la Provincia de Buenos Aires (Tutela Judicial Efectiva y Diferenciada), solicito el dictado de una Tutela Anticipada inaudita parte para remover el riesgo inminente (tanque de agua) y autorizar reparaciones provisorias de emergencia a costa del demandado.
+IV. EXPOSICIÓN DE LOS HECHOS
+El demandado, Sr. Juan Capria, ejecutó y finalizó una obra de ampliación (primer piso) lindera a mi propiedad. Dicha obra fue realizada en absoluta clandestinidad técnica, jurídica y operativa, configurando los siguientes hechos lesivos:
+1. Intrusión y Ejecución Temeraria sin Medidas de Seguridad: Durante la obra, el demandado utilizó mi techo como obrador. Hubo circulación constante de al menos tres (3) operarios con herramientas y la operación de maquinaria pesada vibratoria (mezcladoras de cemento) directamente sobre mi losa y sobre el techo de chapa de mi lavadero lindante, el cual resultó severamente dañado y perforado. Todo esto se realizó sin la autorización escrita exigida por la ley, sin elementos de protección personal, sin red de contención ni bandejas salvavidas, agravando los impactos sobre mi cubierta.
+2. Usurpación y Sobrecarga Estructural Ilegal: El accionado reubicó un tanque cisterna de agua sobre el techo de mi propiedad (losa flotante). El peso del tanque (750 kilos) más su base de soporte constituye una carga concentrada masiva impuesta sin cálculo estructural previo, provocando una depresión visible en mi losa.
+3. Servidumbre de Agua Forzosa ("Instalación Esclava"): Alteró la instalación de agua compartida de facto. Modificó el ingreso del suministro obligando a que la red pase primero por su propiedad, convirtiendo mi instalación en "esclava" de la suya, alterando la presión y violando normativas sanitarias.
+4. Estado de Ruina, Riesgo Eléctrico y Estrago: La negligencia estructural generó el desprendimiento de fragmentos del cielorraso en mi baño, rajaduras progresivas y filtraciones hídricas constantes. El agua pluvial ingresa directamente a la caja de la llave térmica principal de mi red eléctrica. Esto genera inestabilidad, inhabilitación del uso de calefacción eléctrica y descargas directas al tacto, constituyendo un riesgo de muerte por electrocución.
+5. Daño Patrimonial y Privación del Uso del Hogar: La humedad permanente y el ingreso de agua han arruinado bienes internos, ropa, muebles y herramientas de trabajo. Asimismo, al estar impedido de reparar el origen del daño para preservar la prueba pericial, me veo obligado a habitar un entorno insalubre, frío e inseguro, lo que me ha forzado a cancelar toda actividad social en mi domicilio, afectando gravemente mi salud emocional y psicológica.
+V. FUNDAMENTACIÓN JURÍDICA Y NORMATIVA EXHAUSTIVA
+La conducta del Sr. Capria vulnera un vasto entramado normativo en todos los niveles jurisdiccionales, los cuales fundan esta demanda:
+1. Nivel Nacional (Código Civil y Comercial de la Nación - Ley 26.994):
+* Arts. 1757 y 1758: Responsabilidad objetiva por el riesgo o vicio de las cosas y por actividades riesgosas (la construcción clandestina).
+* Arts. 1710 a 1713: Violación del deber de prevención del daño.
+  (Arts. 1714-1715: VETADOS por Decreto 191/2015 — NO invocar. Alternativas: Arts. 804 y 1741 CCyCN)
+* Art. 1977: Ausencia de autorización + obligación de reparar daños por uso de inmueble vecino para trabajos de obra.
+  (Art. 2627 era el equivalente en el CC Vélez derogado; en CCyCN vigente = Art. 1977)
+* Art. 2021: Facultades materiales sobre muro medianero en condominio; prohíbe ejercerlas de modo que genere peligro para la solidez del muro.
+* Art. 1976: Prohibición de desviar escurrimientos de agua con intervención humana de modo perjudicial para el fundo vecino (supuesto de filtraciones/escurrimiento hacia inmueble lindero).
+* Art. 2166: Régimen de servidumbre forzosa (incluida la de acueducto), aplicable para objetar imposiciones de hecho sin título ni encuadre legal.
+  [NOTA DE CORROBORACIÓN: La referencia previa al Art. 2630 CCyCN para escurrimiento pluvial se corrige por ser técnicamente impropia; el Art. 2630 vigente regula derecho aplicable en materia de alimentos (DIPr).]
+2. Nivel Nacional (Seguridad e Higiene Laboral):
+* Ley 19.587 y Decreto 911/96 (Arts. 52 a 55): Omisión absoluta de protecciones colectivas para trabajo en altura, falta de vallado, uso indebido de andamios y maquinaria sobre losa ajena sin mitigación de vibraciones.
+* Resolución SRT 51/97: Inexistencia de Programa de Seguridad y Aviso de Obra para trabajos críticos en altura.
+3. Nivel Técnico y Estructural (Reglamentos CIRSOC):
+* CIRSOC 101: Violación de los límites de cargas permanentes y sobrecargas de diseño. Omisión del cálculo por incremento de carga por impacto dinámico (uso de maquinaria y tanque de 750 kg).
+* CIRSOC 201: Incumplimiento de las normas de control de deflexiones (flecha) y fisuración en losas de hormigón armado, derivando en la depresión de mi techo.
+4. Nivel Provincial (Buenos Aires):
+* Constitución PBA, Art. 15: Derecho a la tutela judicial efectiva y resolución en tiempo útil.
+* CPCCBA, Art. 623 bis: Procedencia de la denuncia de daño temido e interdicto de obra ruinosa.
+* Ley 13.951: Cumplimiento de la mediación prejudicial obligatoria.
+* Ley 8912/77 (Ordenamiento Territorial): Modificación clandestina de indicadores urbanísticos (FOS/FOT) y densidad edificable sin aprobación previa, impactando en linderos.
+5. Nivel Municipal (Partido de Merlo) y Servicios:
+* Ordenanzas 757/2000 y 5835/2021 (Código de Edificación): Ejecución de obra nueva/ampliación y modificación de estructuras sin "Permiso de Obra", sin "Plano Municipal Aprobado", sin "Plano Estructural con Memoria de Cálculo", sin firma de profesional matriculado y sin Libre Deuda Municipal.
+* Reglamento AySA (Res. MOP 641/2023): La resolución fue corroborada en fuentes públicas oficiales; aprueba la "Guía de Ejecución de Instalaciones Sanitarias Domiciliarias y Asimilables a Domiciliarias" y texto ordenado del RANT. Puede invocarse para respaldar incumplimientos en modificaciones sanitarias domiciliarias sin adecuación técnica/administrativa, junto con verificación del cuadro local aplicable al momento de demandar.
+6. Nivel Penal:
+* Código Penal, Art. 189: Estrago Culposo por creación de peligro común ante inobservancia de reglamentos.
+VI. PRUEBA OFRECIDA
+* Documental: 1. Escritura de mi propiedad.
+2. Acta de Cierre sin Acuerdo de la Mediación Prejudicial Obligatoria.
+3. Dos (2) Informes Técnicos previos, sellados y timbrados por profesionales matriculados, presentados en mediación.
+4. Fotografías y videos fechados que documentan: personal/maquinaria sobre el techo, rotura de chapa del lavadero, tanque de 750 kg, depresión de la losa, desprendimiento de cielorraso, daños a bienes internos y filtraciones en la caja térmica.
+* Pericial Técnica (Ingeniero Civil/Arquitecto): Para constatar la sobrecarga extrema en la losa, las patologías constructivas, la destrucción del techo del lavadero, la falta de medidas de seguridad históricas y el nexo causal de las filtraciones.
+* Pericial Eléctrica: Para certificar el daño en la red, el peligro de electrocución y la inhabilitación del sistema de calefacción.
+* Pericial Médica, Psiquiátrica/Psicológica: Para dimensionar las secuelas en la salud física, el cuadro de estrés, ansiedad y el daño moral por el aislamiento social y las condiciones de habitabilidad denigrantes soportadas durante dos años.
+* Pericial Tasador: Para cuantificar el daño a bienes muebles, herramientas de trabajo, ropa y la depreciación del inmueble.
+VII. PETITORIO
+Por todo lo expuesto, a V.S. solicito:
+   1. Me tenga por presentado, por parte y con el domicilio legal y electrónico constituido.
+   2. Se tenga por acompañada la prueba documental y por agotada la vía de mediación (Ley 13.951).
+   3. Atento al gravísimo riesgo de vida, se haga lugar a la TUTELA ANTICIPADA (Art. 623 bis CPCCBA) ordenando de manera INMEDIATA al demandado la remoción del tanque de agua de 750 kg y autorizando a esta parte a realizar reparaciones eléctricas y de filtraciones de urgencia a exclusiva costa del demandado, a fin de cesar el riesgo de electrocución y permitir la calefacción del hogar, sin que ello implique alteración de la prueba pericial.
+   4. Se haga lugar a la demanda en todas sus partes, condenando al Sr. Juan Capria a abonar una indemnización integral que comprenda: costo de reparación estructural total (losa, cielorraso y techo de chapa del lavadero), restitución de la independencia del servicio de agua, daño emergente (reemplazo de herramientas de trabajo, muebles, ropa y electrodomésticos), y un resarcimiento ejemplar por el grave daño moral, psicológico y privación del uso pacífico del hogar durante más de dos años, con más sus intereses (Tasa Activa/Caso Barrios) y costas.
+   5. Se oficie al Municipio de Merlo (Dirección de Obras Particulares) a los fines de que constate las infracciones y aplique las multas y medidas de rigor sobre la edificación clandestina.
+Proveer de conformidad, que
+SERÁ JUSTICIA.
 
 
 ================================================================================
-FIN DEL ARCHIVO 06 — MODELO DE DEMANDA PRINCIPAL (VERSIÓN DEPURADA)
+SECCIÓN COMPLEMENTARIA — ELEMENTOS FALTANTES Y AMPLIACIONES
+(Investigación complementaria)
 ================================================================================
+
+1. NOTA SOBRE COMPETENCIA TERRITORIAL
+────────────────────────────────────────────────────────────────
+
+   El encabezado dice "Departamento Judicial de Morón (Jurisdicción Merlo)".
+   CORRECTO: La competencia corresponde al Departamento Judicial de MORÓN,
+   que mantiene jurisdicción sobre el Partido de Merlo (la Ley 13.859/2009
+   creó el DJ de Merlo pero éste NO está operativo).
+
+
+2. RUBROS INDEMNIZATORIOS — DETALLE AMPLIADO PARA EL PETITORIO
+────────────────────────────────────────────────────────────────
+
+   El petitorio (Punto VII.4) debería desglosar los rubros con mayor precisión
+   para evitar la limitación del principio de congruencia procesal:
+
+   A) DAÑO EMERGENTE ESTRUCTURAL (Art. 1740 CCyCN):
+      • Reparación integral de losa flotante (refuerzo/reemplazo parcial)
+      • Reconstrucción de cielorrasos en baño, pasillo y hall
+      • Reemplazo total de membrana impermeabilizante del techo
+      • Reparación de techo de chapa del lavadero (perforaciones)
+      • Restauración de pendiente original del techo para drenaje
+      • Reparación de rajaduras estructurales en lavadero y otras dependencias
+      • Reposición de instalación eléctrica afectada (llave térmica, cableado)
+      • Restitución de independencia del suministro de agua potable
+      • Tratamiento antihongos integral y reparación de revestimientos
+
+   B) DAÑO EMERGENTE A BIENES MUEBLES (Art. 1740 CCyCN):
+      • Reposición de equipos electrónicos (PC y componentes) según valor de compra
+      • Reposición de muebles deteriorados (armario, mueble modular, otros)
+      • Reposición de luminarias corroídas
+      • Reposición de puerta y marco de baño corroídos
+      • Reposición de indumentaria dañada por humedad/hongos
+      • Reposición de placas PVC de cocina
+      • Valor de membrana asfáltica destruida (con comprobante de compra)
+
+   C) LUCRO CESANTE (Art. 1738 CCyCN):
+      • Pérdida de ingresos por YouTube durante el período de inactividad
+        forzosa (certificados de Google Adsense disponibles)
+      • Pérdida por 10 días sin servicio de internet (reclamo Movistar)
+      • Pérdida continuada por desposicionamiento del canal digital
+      • Pérdida de chances de crecimiento del emprendimiento digital
+
+   D) DAÑO MORAL (Art. 1741 CCyCN):
+      • Sufrimiento por habitar en condiciones infrahumanas durante +2 años
+      • Angustia por riesgo permanente de electrocución y colapso estructural
+      • Imposibilidad de recibir visitas y cancelación de vida social
+      • Aislamiento social forzado y pérdida de privacidad
+      • Estrés continuado por convivencia diaria con riesgos vitales
+      • PRUEBA: In re ipsa — se presume del propio hecho dañoso
+
+   E) DAÑO PSICOFÍSICO (Art. 1738 CCyCN):
+      • Afecciones respiratorias/alérgicas por exposición prolongada a hongos
+      • Trastorno adaptativo/estrés severo
+      • Costo de tratamiento médico (alergista, neumonólogo, psiquiatra)
+
+   F) PRIVACIÓN DE USO DEL INMUEBLE (Art. 1740 CCyCN):
+      • Valor locativo de vivienda equivalente por el período de inhabitabilidad
+      • Gastos de mudanza (ida y retorno)
+      • Gastos de guardamuebles
+      • Servicios pagados sin posibilidad de usufructo (ABL, impuestos, servicios)
+
+   G) DEPRECIACIÓN DEL INMUEBLE (Art. 1740 CCyCN):
+      • Diferencia entre valor de mercado del inmueble sin daños vs. con daños
+      • A determinarse por peritaje tasador judicial
+
+   H) COSTAS Y GASTOS (Arts. 68-70 CPCCBA):
+      • Costas del proceso a cargo del vencido
+      • Gastos de informes técnicos previos (2)
+      • Gasto de mediación prejudicial
+
+
+3. PRUEBA INFORMATIVA — FALTANTE EN EL OFRECIMIENTO ORIGINAL
+────────────────────────────────────────────────────────────────
+
+   Se debe agregar prueba informativa (Arts. 394-395 CPCCBA) mediante oficios a:
+
+   a) Municipalidad de Merlo — Dirección de Obras Particulares:
+      Para que informe si existe expediente de obra, permiso, planos aprobados
+      o cualquier documentación presentada por el demandado para la ampliación.
+
+   b) Registro de la Propiedad Inmueble PBA:
+      Para que informe titularidad, gravámenes, embargos e inscripción como
+      bien de familia del inmueble del demandado.
+
+   c) CAPBA Distrito III:
+      Para que informe si existe profesional matriculado a cargo de la
+      dirección técnica de la obra del demandado.
+
+   d) EDENOR / EDESUR (empresa eléctrica correspondiente):
+      Para que certifique el estado de la instalación eléctrica del inmueble
+      del damnificado y los riesgos detectados.
+
+   e) AySA (Agua y Saneamientos Argentinos):
+      Para que informe sobre la instalación del suministro de agua y las
+      modificaciones realizadas sin autorización.
+
+   f) SRT (Superintendencia de Riesgos del Trabajo):
+      Para que informe si el demandado o algún contratista declaró la obra
+      ante una ART.
+
+   g) Movistar:
+      Para que certifique el reclamo por corte de servicio de internet,
+      duración y causa.
+
+
+4. PRUEBA TESTIMONIAL — FORMATO CORRECTO (Arts. 407 ss. CPCCBA)
+────────────────────────────────────────────────────────────────
+
+   El ofrecimiento de testigos debe incluir:
+   • Nombre y apellido completo
+   • DNI
+   • Domicilio real
+   • Ocupación/profesión
+   • Relación con los hechos (qué conoce y cómo lo conoce)
+
+   Modelo de redacción:
+
+   "Ofrezco las declaraciones testimoniales de las siguientes personas:
+    a) [NOMBRE], DNI [N°], domiciliado en [DIRECCIÓN], [PROFESIÓN].
+       Declarará sobre: el estado del inmueble previo a la obra, las
+       condiciones durante la ejecución y los daños observados actualmente.
+    b) [NOMBRE], DNI [N°], domiciliado en [DIRECCIÓN], [PROFESIÓN].
+       Declarará sobre: [hechos específicos que conoce]."
+
+
+5. SOLICITUD DE ACTUALIZACIÓN MONETARIA — CLÁUSULA FALTANTE
+────────────────────────────────────────────────────────────────
+
+   Agregar al petitorio (actualmente solo menciona "Tasa Activa/Caso Barrios"):
+
+   "Solicito que los montos indemnizatorios sean actualizados conforme la
+   doctrina obligatoria de la SCBA en causa C. 124.096 'Barrios', declarando
+   la inconstitucionalidad sobreviniente del Art. 7 de la Ley 23.928 (según
+   Ley 25.561), aplicando actualización por IPC-INDEC desde la fecha de cada
+   daño hasta su efectivo pago, más un interés puro del 6% anual, sin
+   capitalización de intereses."
+
+
+6. SOLICITUD DE BENEFICIO DE LITIGAR SIN GASTOS — FALTANTE
+────────────────────────────────────────────────────────────────
+
+   Si la situación económica del actor lo amerita, debe agregarse:
+
+   "Solicito se me conceda el BENEFICIO DE LITIGAR SIN GASTOS conforme
+   Arts. 78-86 del CPCCBA, atento a la imposibilidad económica de afrontar
+   las costas del presente proceso sin comprometer mi sustento. A tal fin,
+   acompaño declaración jurada de situación patrimonial y ofrezco la
+   siguiente prueba testimonial: [3 testigos con datos completos]."
+
+   El BLSG exime de:
+   • Tasa de justicia (3% del monto demandado)
+   • Contracautela para medidas cautelares
+   • Costas en caso de rechazo parcial de la demanda
+
+
+7. RESERVA DE AMPLIACIÓN DE RUBROS — CLÁUSULA RECOMENDADA
+────────────────────────────────────────────────────────────────
+
+   Agregar al petitorio:
+
+   "Hago reserva expresa de ampliar los rubros y montos reclamados en función
+   de lo que resulte de la prueba pericial a producirse, conforme lo permite
+   el Art. 330 del CPCCBA en concordancia con el principio de reparación plena
+   (Art. 1740 CCyCN)."
+
+
+8. COMPETENCIA DEL FUERO CONTENCIOSO ADMINISTRATIVO — ACLARACIÓN
+────────────────────────────────────────────────────────────────
+
+   Si se pretende demandar al MUNICIPIO DE MERLO como codemandado solidario
+   por omisión de control (Ley 26.944, Art. 3° — Responsabilidad del Estado;
+   y normas de derecho administrativo provincial aplicables):
+
+   [CORRECCIÓN CRÍTICA: El fundamento "Art. 1764-1766 CCyCN" es INAPLICABLE
+   como base de la responsabilidad municipal. El Art. 1764 CCyCN establece
+   expresamente que "las disposiciones del Capítulo 1 de este Título NO son
+   aplicables a la responsabilidad del Estado de manera directa ni subsidiaria."
+   Los Arts. 1765-1766 CCyCN confirman que la responsabilidad del Estado y sus
+   funcionarios se rige por "las normas y principios del derecho administrativo
+   nacional o local, según corresponda."
+   Base normativa CORRECTA: Ley Nacional 26.944 (Art. 3°) + DL 6769/58 (Ley
+   Orgánica Municipal PBA) + doctrina sobre "falta de servicio" (SCBA).]
+
+   • La competencia para demandas contra el Estado municipal es del FUERO
+     CONTENCIOSO ADMINISTRATIVO (Ley 12.008 — CCA PBA).
+   • Departamento Judicial competente: San Martín (cubre Merlo).
+   • Alternativa: Acumular la pretensión contra el municipio en el mismo
+     juzgado civil si se invoca responsabilidad solidaria con el demandado
+     particular (jurisprudencia discutida — consultar letrado).
+
+   NOTA: El oficio al municipio solicitado en el petitorio (punto VII.5)
+   es correcto como prueba informativa, pero no constituye demanda contra
+   el municipio.
+
+
+════════════════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO 06 — MODELO DE DEMANDA PRINCIPAL
+════════════════════════════════════════════════════════════════════════════
