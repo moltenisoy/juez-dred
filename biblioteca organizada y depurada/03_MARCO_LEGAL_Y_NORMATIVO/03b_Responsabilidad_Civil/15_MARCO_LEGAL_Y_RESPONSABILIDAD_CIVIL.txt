@@ -648,8 +648,11 @@ SITUACIONES FÁCTICAS MAPEADAS A NORMATIVA APLICABLE:
    → Arts. 1273-1277 CCyC; Disposiciones técnicas D.O.P.; Doctrina CAPSF.
 
 6. Denuncia y medidas de seguridad urgentes:
-   → Art. 2499 CCyC; Art. 623 bis CPCC; Art. 2631 CCyC; Ordenanza
-     Municipal.
+   → Art. 623 bis CPCC (denuncia de daño temido); Arts. 1711-1713 CCyC
+     (acción preventiva); Ordenanza Municipal.
+   ⚠ CORRECIÓN: Art. 2499 CCyCN = "Extinción de hipoteca" (NO aplicable).
+     Art. 2631 CCyCN = "Comisión por transmisión de bienes registrables"
+     (NO aplicable). Ambas referencias anteriores eran incorrectas.
 
 ================================================================================
 ADDENDUM — TABLA NORMATIVA Y OBLIGACIÓN DE RESULTADO
@@ -725,13 +728,14 @@ con el Art. 1717 CCyCN (antijuridicidad), que refiere al carácter ilícito de
 la conducta dañosa. La carta documento que intima al demandado a cesar la causa
 del daño y reparar constituye interpelación moratoria bajo el Art. 886 CCyCN.
 
-CORRECCIÓN 3 — SUSPENSIÓN DE PRESCRIPCIÓN POR CARTA DOCUMENTO (Art. 2546 CCyCN):
+CORRECCIÓN 3 — SUSPENSIÓN DE PRESCRIPCIÓN POR CARTA DOCUMENTO (Art. 2541 CCyCN):
 El envío de carta documento reclamando el daño SUSPENDE el curso de la
-prescripción por el plazo de SEIS (6) MESES conforme al Art. 2546 del CCyCN
-("Interpelación fehaciente"). NO interrumpe la prescripción; la SUSPENDE.
+prescripción por el plazo de SEIS (6) MESES conforme al Art. 2541 del CCyCN
+("Suspensión por interpelación fehaciente"). NO interrumpe la prescripción; la SUSPENDE.
 Diferencia: la suspensión detiene el cómputo del plazo y luego este se
-reanuda; la interrupción (Art. 2544-2545 CCyCN) borra el plazo transcurrido
+reanuda; la interrupción (Arts. 2545-2546 CCyCN) borra el plazo transcurrido
 y lo reinicia desde cero.
+⚠ CORRECCIÓN: la referencia anterior a "Art. 2546" era incorrecta. Art. 2546 = Interrupción por petición judicial. Art. 2541 = Suspensión por interpelación fehaciente (carta documento, 6 meses).
 Consecuencia práctica: si se envió carta documento el 01/03/2024, la
 prescripción queda suspendida hasta el 01/09/2024 (6 meses), y se reanuda
 desde donde estaba. Este plazo es especialmente relevante para el cómputo
@@ -778,7 +782,8 @@ peligro en la demora y contracautela (puede dispensarse ante BLSG).
 AMPLIACIÓN 4 — MEDIACIÓN PREVIA OBLIGATORIA (Ley 13.951 PBA):
 Antes de iniciar demanda civil por daños, es obligatorio transitar la
 instancia de mediación prejudicial conforme la Ley 13.951 PBA. La mediación
-se lleva ante mediadores matriculados del Departamento Judicial de MERLO.
+se lleva ante mediadores matriculados del Departamento Judicial de MORÓN
+(el DJ de Merlo fue creado por Ley 13.859/2009 pero NO está operativo).
 La incomparecencia del requerido a la audiencia de mediación genera:
 a) Multa a favor del requirente (Art. 25 Ley 13.951).
 b) Certificado de mediación que habilita la vía judicial.
