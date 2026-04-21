@@ -169,22 +169,25 @@ SECCIÓN COMPLEMENTARIA — LUCRO CESANTE DIGITAL Y HARDWARE/AGUA: AMPLIACIÓN Y
 (Investigación complementaria — Abril 2026)
 ================================================================================
 
-I. CORRECCIÓN JURISDICCIONAL: MORÓN → MERLO
+I. CONFIRMACIÓN JURISDICCIONAL: DEPARTAMENTO JUDICIAL DE MORÓN
 
-⚠️ CORRECCIÓN IMPORTANTE: A lo largo del presente documento se menciona el
-"Departamento Judicial de Morón" como competente. Esto es INCORRECTO.
+✅ VERIFICACIÓN: A lo largo del presente documento se menciona el
+"Departamento Judicial de Morón" como competente. Esto es CORRECTO.
 
-El inmueble del actor se sitúa en el Partido de Merlo, que desde la sanción
-de la Ley 13.859 (B.O. 14/12/2009) pertenece al DEPARTAMENTO JUDICIAL DE
-MERLO, con sede propia y Cámaras de Apelación independientes.
+El Departamento Judicial de Merlo fue creado por la Ley 13.859/2009
+(B.O. 14/12/2009) pero NO está operativo a la fecha (abril 2026).
+El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MORÓN para
+causas civiles y comerciales.
 
-Donde dice "Departamento Judicial de Morón" debe leerse "Departamento
-Judicial de MERLO". La competencia territorial corresponde a los Juzgados
-Civiles y Comerciales de Merlo conforme Art. 5 inc. 1° CPCCBA (lugar del
-hecho / ubicación del inmueble).
+La competencia territorial corresponde a los Juzgados Civiles y
+Comerciales del Departamento Judicial de MORÓN conforme Art. 5 inc. 4°
+CPCCBA (lugar del hecho dañoso — acción personal de daños y perjuicios).
+[Nota: Art. 5 inc. 1° CPCCBA corresponde a acciones REALES sobre inmuebles,
+no a acciones personales de daños; para este caso el inciso aplicable
+es el 4°, aunque el resultado práctico (competencia DJ Morón) es el mismo.]
 
 Cámaras de Apelación competentes: Cámara de Apelación en lo Civil y
-Comercial de Merlo (Salas I, II y III).
+Comercial de MORÓN (Salas I, II y III).
 
 II. ACREDITACIÓN DE INGRESOS POR PLATAFORMA DIGITAL
 
