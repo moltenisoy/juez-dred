@@ -97,8 +97,11 @@ A) DAÑOS DURANTE LA EJECUCIÓN DE LA OBRA:
    Se ejecutaron perforaciones en la estructura del reclamante para fundar
    los cimientos de la nueva pared medianera de la planta superior, lo cual
    constituye una intervención directa, invasiva y no autorizada sobre el
-   inmueble ajeno, violando el Art. 2627 del CCCN que exige autorización
-   escrita del propietario lindero.
+   inmueble ajeno, violando el Art. 1977 del CCyCN que exige que el que construye
+   repare los daños causados al vecino (acceso para obras). [Art. 2627
+   era el equivalente en el CC Vélez derogado; en el CCyCN vigente =
+   Art. 1977 para acceso de obra, y Art. 2630 para no agravar condición
+   del predio inferior por escurrimiento de aguas.]
 
 B) DAÑOS ESTRUCTURALES GRAVES Y REPARACIÓN DEFECTUOSA:
 -------------------------------------------------------
@@ -193,7 +196,8 @@ C) CÓDIGO CIVIL Y COMERCIAL DE LA NACIÓN (CCCN — Ley 26.994):
   • Art. 1713: Sentencia preventiva — El juez puede disponer obligaciones de
     dar, hacer o no hacer según las circunstancias, con criterio de menor
     restricción posible.
-  • Art. 1714-1715: Punición excesiva y sanción pecuniaria disuasiva.
+  • Art. 1714-1715: VETADOS por Decreto 191/2015 — NO están vigentes. NO invocar.
+    (Alternativas válidas: Art. 804 CCyCN — astreintes; Art. 1741 — daño moral agravado)
   • Art. 1716: Deber de reparar — "La violación del deber de no dañar a otro
     genera la obligación de reparar el daño causado."
 
@@ -661,7 +665,7 @@ ARGUMENTO 8 — PROLONGACIÓN TEMPORAL DEL DAÑO:
 El transcurso de casi dos años de daños continuados sin solución eficaz
 configura un EJERCICIO ABUSIVO DEL DERECHO (Art. 10 CCCN) y justifica
 la aplicación de intereses agravados, sanción pecuniaria disuasiva
-(Art. 1714-1715 CCCN) y la máxima celeridad procesal.
+(Arts. 804 y 1741 CCyCN — astreintes y daño moral agravado, en reemplazo de Arts. 1714-1715 VETADOS) y la máxima celeridad procesal.
 
 ARGUMENTO 9 — PRINCIPIO DE REPARACIÓN PLENA:
 El Art. 1740 CCCN consagra el principio de reparación PLENA: "La
@@ -846,7 +850,7 @@ En virtud de todo lo expuesto, se solicita:
    impermeabilización, estructura), a cargo exclusivo del demandado.
 
 4. Se aplique, de corresponder, SANCIÓN PECUNIARIA DISUASIVA (Arts.
-   1714-1715 CCCN) en atención a la gravedad y prolongación de los daños.
+   804/1741 CCyCN — alternativas válidas a los Arts. 1714-1715 vetados — en atención a la gravedad y prolongación de los daños.
 
 5. Se comunique al MUNICIPIO DE MERLO (DOP) la existencia de obra
    clandestina para que proceda conforme sus facultades sancionatorias.
