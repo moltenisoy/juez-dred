@@ -366,8 +366,8 @@ Acciones NO ACUMULABLES (fueros distintos):
 ────────────────────────────────────────────────────────────────────────────────
    ACCIÓN | COMPETENCIA
    ───────|──────────────────────────────────────────────────────────────────
-   1-4, 7 | Juzgado Civil y Comercial — Depto. Judicial MERLO (Ley 13.859)
-   5-6    | UFI (Unidad Fiscal de Instrucción) — Depto. Judicial MERLO
+   1-4, 7 | Juzgado Civil y Comercial — Depto. Judicial MORÓN
+   5-6    | UFI (Unidad Fiscal de Instrucción) — Depto. Judicial MORÓN
    8      | Municipalidad de Merlo — Secretaría de Obras Particulares
    9      | Centro de Mediación — Depto. Judicial Morón (Ley 13.951)
    10     | CAPBA Distrito V — Tribunal de Disciplina

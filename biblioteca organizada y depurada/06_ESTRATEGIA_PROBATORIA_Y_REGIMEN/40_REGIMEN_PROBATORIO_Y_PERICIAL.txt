@@ -141,10 +141,12 @@ DOCUMENTACIÓN ANEXA OBLIGATORIA:
 — Visado: encomienda visada ante CIPBA (ingenieros) o CAPBA Distrito
   correspondiente (arquitectos).
 
-⚠️ VERIFICACIÓN PENDIENTE: El Partido de Merlo pertenece al CIPBA
-Distrito VI según jurisdicción del Dpto. Judicial de Morón, y al CAPBA
-del distrito que cubre el oeste del conurbano. Verificar el distrito
-exacto antes de contratar al profesional.
+Validación institucional:
+Para causas civiles/comerciales del Partido de Merlo, la competencia
+judicial operativa corresponde al Departamento Judicial de Morón
+(Ley 13.859/2009: DJ Merlo creado pero no operativo). La matrícula y
+habilitación profesional deben corroborarse en los padrones oficiales
+vigentes de CIPBA/CAPBA al momento de la contratación.
 
 ================================================================================
 SECCIÓN 2 — COSTOS APROXIMADOS A LA FECHA (ABRIL 2026)

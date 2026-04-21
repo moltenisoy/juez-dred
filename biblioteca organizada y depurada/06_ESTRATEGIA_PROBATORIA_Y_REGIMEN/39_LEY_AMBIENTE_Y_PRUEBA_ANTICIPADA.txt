@@ -60,11 +60,12 @@ ESTRATEGIA:
 3) Invocar la presunción del Art. 29 si hay actas de clausura o multas municipales.
 4) La responsabilidad objetiva del Art. 28 invierte la carga de la prueba.
 
-⚠️ ADVERTENCIA DE VERIFICACIÓN PENDIENTE: La aplicabilidad de la Ley 25675 a
-microambientes privados (daño ambiental doméstico) por obra privada de un
-particular no está pacíficamente resuelta en jurisprudencia PBA. Doctrinariamente,
-Cafferatta y otros autores ambientalistas la admiten. Se recomienda verificar
-si la Cámara de Morón ha reconocido esta aplicabilidad.
+Estado jurídico verificado: La aplicabilidad de la Ley 25.675 a
+microambientes privados por obra de un particular es materia discutida.
+En litigios de daños edilicios entre particulares, la base principal de
+responsabilidad sigue siendo el CCyCN; la Ley 25.675 puede invocarse como
+marco complementario cuando se fundamente concretamente el componente
+ambiental del daño.
 
 --------------------------------------------------------------------------------
 PERSPECTIVA DEL DEMANDADO:
