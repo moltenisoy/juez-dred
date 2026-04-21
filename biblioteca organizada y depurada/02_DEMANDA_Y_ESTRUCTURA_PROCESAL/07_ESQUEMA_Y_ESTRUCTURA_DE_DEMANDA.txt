@@ -37,7 +37,7 @@ Condiciones insalubres: falta de ventilación, humedad permanente, proliferació
 Daño laboral: imposibilidad de ejercer actividad profesional en el domicilio (si corresponde), pérdida de ingresos.
 IV. FUNDAMENTACIÓN JURÍDICA
 Arts. 1757, 1740 y siguientes CCyC (responsabilidad objetiva por riesgo de la cosa y daños).
-Arts. 2618, 2619 CCyC (límites al dominio, prohibición de causar daños al vecino).
+Art. 1973 CCyCN (inmisiones: vibraciones, ruidos, humedades u otras que excedan la normal tolerancia y causen daño — reemplaza en el CCyCN vigente a los arts. 2618-2619 del CC Vélez Sarsfield, derogado; ver corrección en Sección 5.C).
 Arts. 330, 333 CPCC PBA (forma de la demanda y agregación de prueba).
 Jurisprudencia: CSJN "Lacasa" y Cámara Civil Quilmes (2024) sobre responsabilidad solidaria de constructores y propietarios .
 V. PRUEBA OFRECIDA (Art. 333 CPCC PBA)
@@ -94,7 +94,12 @@ SECCIÓN COMPLEMENTARIA — AMPLIACIONES Y CORRECCIONES DE INVESTIGACIÓN
       En el CCyCN actual, las inmisiones se regulan en el Art. 1973.
 
    D) Competencia territorial: Dice "Departamento Judicial [   ]"
-      → CORRECTO: Departamento Judicial de MERLO (Ley 13.859/2009)
+      → CORRECCIÓN CRÍTICA: El Departamento Judicial de MERLO fue creado
+      por Ley 13.859/2009 pero NO está operativo. Las causas civiles y
+      comerciales del Partido de Merlo tramitan ante el Departamento
+      Judicial de MORÓN.
+      CORRECTO: "Señor Juez en lo Civil y Comercial del Departamento
+      Judicial de MORÓN (Jurisdicción Merlo)" — no "de Merlo".
 
 
 6. REQUISITOS FORMALES ACTUALIZADOS DE LA DEMANDA (Art. 330 CPCCBA)
@@ -144,7 +149,14 @@ SECCIÓN COMPLEMENTARIA — AMPLIACIONES Y CORRECCIONES DE INVESTIGACIÓN
            responsabilidad del propietario (responsabilidad directa)
 
       4) MUNICIPALIDAD DE MERLO (como codemandada por omisión):
-         - Responsabilidad del Estado por omisión de control (Art. 1764-1766 CCyCN)
+         - Responsabilidad del Estado por omisión de control: Ley Nacional 26.944
+           Art. 3° (daño cierto, imputación al órgano, nexo causal, falta de
+           servicio) + DL 6769/58 PBA (Ley Orgánica Municipal) + doctrina
+           "falta de servicio" (SCBA).
+           CORRECCIÓN CRÍTICA: Arts. 1764-1766 CCyCN NO son la base aplicable,
+           ya que dichos artículos excluyen expresamente la responsabilidad
+           del Estado del régimen del CCyCN. La base normativa correcta es la
+           Ley Nacional 26.944, no el CCyCN.
          - NOTA: Puede requerir fuero contencioso administrativo (Ley 12.008 PBA)
 
    B) TIPO DE LITISCONSORCIO:
@@ -196,7 +208,11 @@ SECCIÓN COMPLEMENTARIA — AMPLIACIONES Y CORRECCIONES DE INVESTIGACIÓN
       - Producción de prueba pericial, testimonial, informativa
       - Designación de peritos de oficio (5 días desde notificación)
    8) ALEGATOS: 6 días cada parte (Art. 482 CPCCBA)
-   9) SENTENCIA: 40 días desde llamamiento de autos (Art. 34 inc. 3 CPCCBA)
+   9) SENTENCIA: 60 días desde que el expediente está en estado de dictar
+      sentencia (Art. 384 CPCCBA). Art. 34 inc. 3 CPCCBA establece el deber
+      general del juez de dictar sentencia en término, pero el plazo específico
+      para proceso ordinario es 60 días (Art. 384 CPCCBA).
+      [CORRECCIÓN: el plazo es 60 días por Art. 384 CPCCBA, no 40 días.]
    10) APELACIÓN: 5 días desde notificación (Art. 244 CPCCBA)
 
    DURACIÓN ESTIMADA TOTAL: 12 a 24 meses (proceso ordinario sin incidentes)
