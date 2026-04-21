@@ -159,10 +159,13 @@ ENFOQUE 2 — DEMANDADO (Propietario lindero / ejecutor de la obra)
 
 3. EXPOSICION ANTE MULTIPLES ORGANISMOS:
    - Municipalidad de Merlo: infracción al Código de Edificación de Merlo
-     vigente. [NOTA: LA REFERENCIA A "ORDENANZA 2589/84" NO FUE VERIFICADA
-     PARA EL PARTIDO DE MERLO (PBA) EN FUENTES WEB PÚBLICAS — NO UTILIZAR
-     ESE NÚMERO EN ACTUACIONES HASTA CONFIRMAR ANTE EL HCD DE MERLO (PBA).
-     LA ÚLTIMA REFORMA DEL CÓDIGO DE EDIFICACIÓN CONFIRMADA ES ORD. 5839/2021.]
+     vigente (Ord. 5802/2020 y modificatoria Ord. 5839/2021). [NOTA SOBRE
+     ORD. 2589/84: esta ordenanza SÍ EXISTE para Partido de Merlo PBA —
+     confirmada en Boletín Oficial N° 68/2021 (Ord. 5832/2021 la referencia);
+     su contenido es sobre servicios profesionales gratuitos para viviendas
+     hasta 70m2, NO sobre "requisitos técnicos de instalaciones". Para obras
+     sin permiso, la base normativa correcta es el Código de Edificación
+     vigente (Ords. 5802/2020 y 5839/2021).]
    - CAPBA Distrito III: sanción disciplinaria o denuncia por ejercicio ilegal.
    - SRT: ausencia de ART durante la obra.
    - Cada denuncia genera un expediente independiente que puede ser utilizado
@@ -212,18 +215,21 @@ ENFOQUE 4 — PERITAJE (Aspectos técnicos periciales)
      permisos y planos.
    - Podrá oficiar al CAPBA Distrito III (L.N. Alem 826, Morón) para verificar
      si intervino algún profesional matriculado.
-   - Podrá consultar la normativa local del Código de Edificación de Merlo
-     vigente (Ord. 5839/2021) para contrastar la instalación con los
-     requisitos técnicos exigidos. [NOTA: LA REFERENCIA PREVIA A "ORDENANZA
-     2589/84" NO FUE VERIFICADA PARA PARTIDO DE MERLO PBA — NO CITAR HASTA
-     CONFIRMAR SU EXISTENCIA Y TEXTO EN EL HCD DE MERLO (PBA)]
+   - Podrá consultar el Código de Edificación de Merlo vigente (Ords.
+     5802/2020 y 5839/2021) para contrastar la instalación con los requisitos
+     técnicos exigidos. [NOTA SOBRE ORD. 2589/84: sí existe para Partido de
+     Merlo PBA (confirmada en Boletín 68/2021), pero su contenido es sobre
+     servicios profesionales gratuitos para viviendas hasta 70m2; no aplica
+     para verificar requisitos técnicos constructivos generales]
 
 3. PUNTOS PERICIALES VINCULADOS A LA DENUNCIA MUNICIPAL:
    a) ¿La obra denunciada contaba con permiso municipal vigente?
    b) ¿Se presentaron planos firmados por profesional responsable?
    c) ¿La instalación del tanque y soporte cumple con el Código de Edificación
-      de Merlo vigente (Ord. 5839/2021)? [NOTA: LA REFERENCIA ORIGINAL A
-      "ORDENANZA 2589/84" NO FUE VERIFICADA PARA PARTIDO DE MERLO PBA]
+      de Merlo vigente (Ords. 5802/2020 y 5839/2021)? [NOTA: Ord. 2589/84
+      existe para Partido de Merlo PBA pero trata sobre servicios profesionales
+      gratuitos para viviendas hasta 70m2 — no sobre requisitos estructurales
+      generales. La base normativa técnica correcta es el Código de Edificación]
    d) ¿Cuáles son las medidas técnicas necesarias para eliminar el riesgo?
    e) ¿Cuál es el costo estimado de dichas medidas?
 
