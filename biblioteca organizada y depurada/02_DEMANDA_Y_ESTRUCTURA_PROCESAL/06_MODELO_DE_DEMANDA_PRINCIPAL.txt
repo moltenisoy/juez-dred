@@ -36,7 +36,7 @@ La conducta del Sr. Capria vulnera un vasto entramado normativo en todos los niv
 * Art. 2021: Facultades materiales sobre muro medianero en condominio; prohíbe ejercerlas de modo que genere peligro para la solidez del muro.
 * Art. 1976: Prohibición de desviar escurrimientos de agua con intervención humana de modo perjudicial para el fundo vecino (supuesto de filtraciones/escurrimiento hacia inmueble lindero).
 * Art. 2166: Régimen de servidumbre forzosa (incluida la de acueducto), aplicable para objetar imposiciones de hecho sin título ni encuadre legal.
-  [NOTA DE CORROBORACIÓN: La referencia previa al Art. 2630 CCyCN para escurrimiento de aguas pluviales se corrige por ser técnicamente impropia; el Art. 2630 vigente regula derecho aplicable en materia de alimentos del Derecho Internacional Privado (DIPr.).]
+  [NOTA DE CORROBORACIÓN: La referencia previa al Art. 2630 CCyCN para escurrimiento de aguas pluviales se corrige por ser técnicamente impropia; el Art. 2630 vigente regula derecho aplicable en materia de alimentos del Derecho Internacional Privado (DIPr).]
 2. Nivel Nacional (Seguridad e Higiene Laboral):
 * Ley 19.587 y Decreto 911/96 (Arts. 52 a 55): Omisión absoluta de protecciones colectivas para trabajo en altura, falta de vallado, uso indebido de andamios y maquinaria sobre losa ajena sin mitigación de vibraciones.
 * Resolución SRT 51/97: Inexistencia de Programa de Seguridad y Aviso de Obra para trabajos críticos en altura.
