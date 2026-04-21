@@ -395,9 +395,13 @@ La constitución en mora del responsable se rige por el Art. 886 CCyCN
 (interpelación fehaciente), NO por el Art. 1717 (antijuridicidad). En
 obligaciones de no hacer, la mora es automática (Art. 887 inc. a CCyCN).
 
-CORRECCIÓN 3 — SUSPENSIÓN DE PRESCRIPCIÓN (Art. 2546 CCyCN):
-La carta documento SUSPENDE la prescripción por 6 meses (Art. 2546 CCyCN).
-NO la interrumpe. La interrupción requiere demanda judicial o reconocimiento.
+CORRECCIÓN 3 — SUSPENSIÓN DE PRESCRIPCIÓN (Art. 2541 CCyCN):
+La carta documento SUSPENDE la prescripción por 6 meses (Art. 2541 CCyCN).
+NO la interrumpe. La interrupción requiere demanda judicial (Art. 2546 CCyCN)
+o reconocimiento del deudor (Art. 2545 CCyCN).
+⚠ CORRECCIÓN: la referencia anterior a "Art. 2546" para SUSPENSIÓN era
+INCORRECTA. Art. 2541 = SUSPENSIÓN por interpelación fehaciente (carta
+documento, 6 meses). Art. 2546 = INTERRUPCIÓN por petición judicial.
 
 CORRECCIÓN 4 — LEY ORGÁNICA MUNICIPAL PBA = Decreto-Ley 6769/58:
 La potestad municipal de fiscalización de obras emana del Decreto-Ley
