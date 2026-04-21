@@ -49,7 +49,7 @@ La conducta del Sr. Capria vulnera un vasto entramado normativo en todos los niv
 * Ley 8912/77 (Ordenamiento Territorial): Modificación clandestina de indicadores urbanísticos (FOS/FOT) y densidad edificable sin aprobación previa, impactando en linderos.
 5. Nivel Municipal (Partido de Merlo) y Servicios:
 * Ordenanzas 757/2000 y 5835/2021 (Código de Edificación): Ejecución de obra nueva/ampliación y modificación de estructuras sin "Permiso de Obra", sin "Plano Municipal Aprobado", sin "Plano Estructural con Memoria de Cálculo", sin firma de profesional matriculado y sin Libre Deuda Municipal.
-* Reglamento AySA (Res. MOP 641/2023): Alteración clandestina del suministro de agua, falta de Certificado de Aptitud Hidráulica y omisión de los protocolos de estanqueidad para reubicar tanques cisternas compartidos.
+* Reglamento AySA (Res. MOP 641/2023 — verificar vigencia y número): Alteración clandestina del suministro de agua, falta de Certificado de Aptitud Hidráulica y omisión de los protocolos de estanqueidad para reubicar tanques cisternas compartidos. [NOTA DE VERIFICACIÓN: La Res. MOP 641/2023 no pudo ser confirmada en fuentes de acceso público al momento de elaborar este modelo. Se recomienda verificar el número y vigencia exactos de la resolución aplicable de AySA/ENOHSA ante la autoridad competente antes de presentar la demanda.]
 6. Nivel Penal:
 * Código Penal, Art. 189: Estrago Culposo por creación de peligro común ante inobservancia de reglamentos.
 VI. PRUEBA OFRECIDA
@@ -247,7 +247,18 @@ SECCIÓN COMPLEMENTARIA — ELEMENTOS FALTANTES Y AMPLIACIONES
 ────────────────────────────────────────────────────────────────
 
    Si se pretende demandar al MUNICIPIO DE MERLO como codemandado solidario
-   por omisión de control (Art. 1764-1766 CCyCN):
+   por omisión de control (Ley 26.944, Art. 3° — Responsabilidad del Estado;
+   y normas de derecho administrativo provincial aplicables):
+
+   [CORRECCIÓN CRÍTICA: El fundamento "Art. 1764-1766 CCyCN" es INAPLICABLE
+   como base de la responsabilidad municipal. El Art. 1764 CCyCN establece
+   expresamente que "las disposiciones del Capítulo 1 de este Título NO son
+   aplicables a la responsabilidad del Estado de manera directa ni subsidiaria."
+   Los Arts. 1765-1766 CCyCN confirman que la responsabilidad del Estado y sus
+   funcionarios se rige por "las normas y principios del derecho administrativo
+   nacional o local, según corresponda."
+   Base normativa CORRECTA: Ley Nacional 26.944 (Art. 3°) + DL 6769/58 (Ley
+   Orgánica Municipal PBA) + doctrina sobre "falta de servicio" (SCBA).]
 
    • La competencia para demandas contra el Estado municipal es del FUERO
      CONTENCIOSO ADMINISTRATIVO (Ley 12.008 — CCA PBA).
