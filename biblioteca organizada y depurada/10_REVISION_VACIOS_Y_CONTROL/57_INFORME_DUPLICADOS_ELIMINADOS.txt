@@ -58,7 +58,11 @@ ARCHIVOS ELIMINADOS Y JUSTIFICACIÓN:
       cubiertos por archivos 23, 24, 25, 43.
 
 ========================================================================
-ARCHIVOS QUE PERMANECEN (43 archivos):
+ARCHIVOS QUE PERMANECEN (43 archivos al momento de elaborar este informe):
+[NOTA: Esta lista refleja la numeración ORIGINAL anterior a la reorganización
+de la biblioteca. La biblioteca fue posteriormente expandida y renumerada —
+la numeración vigente a abril 2026 incluye archivos hasta el N° 60.
+Consultar el índice general actualizado para la estructura actual.]
 ========================================================================
 00_INDICE_CONSULTAS_IA.txt
 00_INDICE_DETALLADO.txt
@@ -119,7 +123,9 @@ SECCIÓN COMPLEMENTARIA — DUPLICADOS: AMPLIACIÓN Y CORRECCIONES
    ─────────────────────────────────────────────────────────────
    Las secciones complementarias agregadas a archivos 53-60 fueron redactadas
    como AMPLIACIONES (contenido nuevo no existente previamente). Se verificó:
-   - Archivo 53: metodología validada + corrección Dpto. Judicial → NO duplica.
+   - Archivo 53: metodología validada + corrección Dpto. Judicial [ACLARACIÓN:
+     la corrección correcta es que el DJ de Merlo fue creado por Ley 13.859/2009
+     pero NO ESTÁ OPERATIVO a abril 2026; las causas tramitan en DJ MORÓN] → NO duplica.
    - Archivo 54: Ord. 757/2000, Ley 8912 → contenido nuevo, no existía.
    - Archivo 55: datos actualizados Mesa Entradas → amplía sin duplicar.
    - Archivo 58: EXIF, geolocalización, cadena custodia → contenido nuevo.
