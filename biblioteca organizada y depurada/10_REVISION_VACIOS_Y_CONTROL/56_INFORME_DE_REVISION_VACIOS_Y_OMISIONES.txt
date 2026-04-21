@@ -128,12 +128,15 @@ ELEMENTOS CORRECTAMENTE CUBIERTOS EN TODOS LOS ARCHIVOS:
      y no actúa, puede configurarse abandono de persona en situación de peligro. Es un
      arma penal adicional que no está en la documentación unificada ni en las demandas.
 
-10. FALTA: Ley Provincial 15.513 (Reforma 2024 — Celeridad en procesos urgentes)
-    - Dónde aparece: Solo en cuadro de situacion y marco.txt (tabla nivel provincial).
-    - Dónde falta: En DOCUMENTACION_UNIFICADA, PADECIMIENTOS.txt, juicio.txt y
-      demandas modelo.
-    - Relevancia: Ley reciente que fortalece la solicitud de tutela anticipada y
-      celeridad procesal.
+10. FALTA: Ley Provincial 15.513/2024 (Reforma proceso de alimentos)
+    [CORRECCIÓN CRÍTICA: este archivo denominaba la Ley 15.513 como
+    "Celeridad en procesos urgentes". ESO ES INCORRECTO. La Ley 15.513
+    (B.O. 03/01/2025) modifica el CPCCBA en materia de ALIMENTOS (cuota
+    alimentaria, plazos informativos, medidas de aseguramiento). NO es
+    una ley de celeridad procesal general ni fortalece tutelas anticipadas
+    en daños edilicios. Para urgencia en daños edilicios, el instrumento
+    correcto es Art. 623 bis CPCCBA y la doctrina de tutela diferenciada.
+    Esta referencia NO DEBE USARSE en reclamos por daños de obra.]
 
 11. FALTA: Res. MOP 641/2023 (AySA — Certificado de Aptitud Hidráulica)
     - Dónde aparece: En cuadro de situacion y marco.txt y en las demandas modelo.
@@ -283,8 +286,15 @@ HECHOS/ELEMENTOS FÁCTICOS CON COBERTURA NORMATIVA INSUFICIENTE O AUSENTE:
    - DOCUMENTACION_UNIFICADA (línea 722) cita el Art. 2615 para "trabajo no autorizado
      sobre techo ajeno", mientras que cuadro de situacion y marco.txt y las demandas
      citan el Art. 2627 para lo mismo.
-   - DEBEN VERIFICARSE AMBOS ARTÍCULOS ya que no son sinónimos (2615 refiere a
-     restricciones generales y 2627 al derecho de paso por obras).
+   - [CORRECCIÓN: el contenido REAL de estos artículos es DIFERENTE a lo que se cita:
+     * Art. 2615 CCyCN = "RESTRICCIONES Y MOLESTIAS DE VECINDAD" (inmisiones, ruidos,
+       humos, temperatura, actividades peligrosas, etc.). NO trata trabajo sobre techo ajeno.
+     * Art. 2627 CCyCN = "AGUA" (prohibición de alterar cursos naturales, construir represas
+       peligrosas, afectar calidad/potabilidad del agua). Tampoco trata trabajo sobre techo.
+     El artículo correcto para PASO DE TRABAJADORES Y ACCESO A INMUEBLE LINDERO EN OBRA
+     es el Art. 1977 CCyCN (instalaciones provisorias y paso de personas). El encuadre de
+     molestias de obra también puede ser Art. 2615 (inmisiones/perturbaciones de vecindad),
+     pero la lógica del "trabajo no autorizado sobre techo" requiere Art. 1977.]
 
 3. Art. 1269/1273 CCyCN
    - DOCUMENTACION_UNIFICADA (sección 18, zona de incertidumbre) advierte que estos
@@ -431,13 +441,19 @@ ENFOQUE 1: PERSPECTIVA DE COMPLETITUD NORMATIVA Y ARTICULADO
 
 ✅ ELEMENTOS NORMATIVOS CORRECTAMENTE CUBIERTOS:
 
-- CCyC Nacional: Arts. 10, 1710-1715, 1716, 1717, 1724-1728, 1737-1741, 1744, 1748, 1757-1758, 1760, 1895, 1970-1973, 1977, 2006, 2010, 2021-2024, 2166, 2615, 2621, 2626-2627, 2630, 2654-2658
+- CCyC Nacional: Arts. 10, 1710-1715 [NOTA: Arts. 1714/1715 fueron VETADOS por
+  Dec. 191/2015 — no invocarlos], 1716, 1717, 1724-1728, 1737-1741, 1744, 1748,
+  1757-1758, 1760, 1768 [resp. profesional liberal — ver corrección Art.1769 abajo],
+  1895, 1970-1973, 1977, 2006, 2010, 2021-2024, 2166, 2615, 2621, 2626-2627, 2630, 2654-2658
 - Constitución Nacional: Arts. 14 bis, 17, 18, 19, 41, 75 inc. 22
 - Constitución PBA: Arts. 15, 28, 36
 - CPCCBA: Arts. 326, 330, 333, 375, 383, 424, 457-478, 619, 623 bis, 636 bis, 641
 - Penal: Arts. 84, 94, 183, 186-189 ter, 248
 - Provincial: Ley 8912/77, Ley 13.951, Ley 15.513, Ley 6075/59, Ley 11.723, DL 6769/58, DL 7425/68
-- Municipal Merlo: Ord. 757/2000, Ord. 5726/19, Ord. 5835/2021, Ord. 5839/2021, Ord. 5140/2017
+- Municipal Merlo: [ORD. 757/2000 NO VERIFICADA PARA PARTIDO DE MERLO PBA —
+  ver corrección en archivo 54], Ord. 5726/19, [ORD. 5835/2021 NO EXISTE —
+  probablemente confundida con Ord. 5839/2021], Ord. 5839/2021, Ord. 5802/2020,
+  Ord. 5840/2021, Ord. 5140/2017
 - Técnico: CIRSOC 101, CIRSOC 201, Decreto 911/96, Ley 19.587, Res. SRT 51/97, 61/2023, 231/96, 550/2011, IRAM 3691
 - AySA: Res. MOP 641/2023
 - Internacional: CADH Art. 8.1 y 11, PIDESC Art. 11
@@ -468,11 +484,38 @@ ENFOQUE 1: PERSPECTIVA DE COMPLETITUD NORMATIVA Y ARTICULADO
 6. Decreto 351/79 (Reglamentación Ley 19.587):
    Se menciona tangencialmente en un archivo pero no se desarrolla su relevancia para el caso — especialmente los artículos sobre condiciones ambientales de trabajo en los lugares donde operaron los obreros (el techo del demandante), que refuerzan la clandestinidad de la obra.
 
-7. Art. 2564 inc. b) CCyC — Prescripción bienal de daños por ruina:
-   Si bien se cita correctamente el plazo trienal del Art. 2561, no se analiza la prescripción especial bienal del Art. 2564 inc. b) para reclamaciones por ruina de obra, que podría ser una defensa que intente la contraparte. Es importante mencionarlo para prevenirlo o refutarlo argumentando que se aplica el plazo trienal genérico por tratarse de responsabilidad extracontractual y no contractual de obra.
+7. Art. 2564 inc. c) CCyCN — Prescripción ANUAL (1 año) para ruina de obra:
+   [CORRECCIÓN DOBLE sobre lo indicado previamente en este archivo como
+   "inc. b) bienal": (1) el inciso correcto es el INC. C, no el b; (2) la
+   prescripción es ANUAL (1 año), NO bienal (2 años).
+   Art. 2564 CCyCN completo:
+   a) Vicios redhibitorios — 1 año
+   b) Acciones posesorias — 1 año
+   c) Responsabilidad del constructor por ruina total o parcial (vicio de
+      construcción, del suelo, o de mala calidad de materiales; obras de larga
+      duración) — 1 AÑO desde que se produjo la ruina.
+   Para la acción EXTRACONTRACTUAL de daños del vecino perjudicado, aplica el
+   Art. 2561 CCyCN (3 años), que es el plazo trienal general de daños. El Art.
+   2564 inc. c) es la prescripción CONTRACTUAL del comitente contra el
+   constructor por ruina, que la contraparte podría invocar si intenta
+   encuadrar el caso como responsabilidad contractual. El argumento de refutación
+   correcto es que el Art. 2561 (trienal) aplica para acciones extracontractuales
+   de terceros vecinos, no el Art. 2564 inc. c) (anual por ruina contractual).]
 
-8. Art. 1769 CCyC — Responsabilidad del profesional liberal:
-   Si bien se menciona la responsabilidad del director de obra, no se cita expresamente el Art. 1769 que establece que la actividad del profesional liberal no está comprendida en la responsabilidad objetiva del Art. 1757 (excepto cuando su actividad derive en uso de cosas riesgosas). Esto es relevante porque la contraparte podría intentar excluir al director de obra de la responsabilidad objetiva. Se debe argumentar que en este caso la actividad SÍ derivó en uso de cosas riesgosas (maquinaria sobre techo, tanque de 750kg).
+8. Art. 1768 CCyCN — Responsabilidad del profesional liberal:
+   [CORRECCIÓN: el archivo citaba "Art. 1769" para responsabilidad del
+   profesional liberal. ESO ES INCORRECTO. Art. 1769 CCyCN = "ACCIDENTES
+   DE TRÁNSITO" (aplica reglas de responsabilidad por intervención de cosas
+   a daños por vehículos en circulación — no tiene nada que ver con
+   profesionales liberales).
+   El artículo correcto es el Art. 1768 CCyCN: "La actividad del profesional
+   liberal está sujeta a las reglas de las obligaciones de hacer. La
+   responsabilidad es subjetiva, excepto que se haya comprometido un resultado
+   concreto. Cuando la responsabilidad sea objetiva [...] se aplica lo
+   dispuesto en el párrafo primero del artículo 1757." Esto significa que el
+   profesional liberal (director de obra) NO responde objetivamente (Art. 1757)
+   SALVO cuando usa cosas riesgosas (maquinaria, izaje de cargas). Este
+   argumento es VÁLIDO pero debe citarse el Art. 1768, no el 1769.]
 
 9. Lucro cesante por actividad de YouTube:
    En MAMAAAAAAAAAA.txt se menciona la pérdida de ingresos por YouTube (con certificados de Google), la pérdida de servicio de internet (reclamo a Movistar) y la imposibilidad de usar el equipo de PC para generar contenido. Sin embargo, ninguno de los documentos jurídicos formales (demandas, cuadros de situación, informes) integra este rubro como lucro cesante con su base legal (Art. 1738 CCyC). Es un elemento probatorio concreto con documentación respaldatoria (certificados de Google, facturación en blanco) que no se trasladó a los escritos procesales.
@@ -583,13 +626,20 @@ SECCIÓN COMPLEMENTARIA — REVISIÓN DE VACÍOS: AMPLIACIÓN Y CORRECCIONES
 1. ACTUALIZACIÓN POST-EXPANSIÓN (Archivos 53-60 ampliados)
    ─────────────────────────────────────────────────────────
    VACÍOS RESUELTOS tras las expansiones realizadas:
-   - Departamento Judicial: CORREGIDO a MERLO (Ley 13.859/2009) en archivos 53-60.
+   - Departamento Judicial: [CORRECCIÓN SOBRE CORRECCIÓN PREVIA EN ESTE
+     ARCHIVO — indicaba "CORREGIDO a MERLO (Ley 13.859/2009)". ESO ES
+     INCORRECTO. El DJ de Merlo fue creado por Ley 13.859/2009 pero NO ESTÁ
+     OPERATIVO a abril 2026. Las causas siguen tramitando en DJ MORÓN. La
+     corrección debe decir: DJ Merlo NO operativo → causas en DJ MORÓN.]
    - Metadatos EXIF y cadena custodia digital: CUBIERTO en archivo 58.
    - Régimen PH CCyCN Arts. 2037-2072: CUBIERTO en archivo 59.
    - ARBA y subdivisión PH: CUBIERTO en archivo 60.
    - Ordenanza 757/2000 y Ley 8912: CUBIERTO en archivo 54.
    - Datos municipalidad actualizados: CUBIERTO en archivo 55.
-   - Art. 2546 CCyCN suspensión prescripción: CUBIERTO en archivos 53, 60.
+   - Art. 2546 CCyCN INTERRUPCIÓN por petición judicial (no suspensión —
+     CORRECCIÓN: "Art. 2546 CCyCN suspensión prescripción" es incorrecto;
+     Art. 2546 = INTERRUPCIÓN por demanda judicial; Art. 2541 = SUSPENSIÓN
+     por interpelación fehaciente/carta documento, 6 meses): CUBIERTO en archivos 53, 60.
    - Art. 886 CCyCN mora automática: CUBIERTO en archivos 53, 54, 60.
 
 2. VACÍOS AÚN PENDIENTES
