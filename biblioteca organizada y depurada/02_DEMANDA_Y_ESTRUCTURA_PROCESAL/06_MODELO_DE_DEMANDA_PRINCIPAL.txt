@@ -36,7 +36,7 @@ La conducta del Sr. Capria vulnera un vasto entramado normativo en todos los niv
 * Art. 2021: Facultades materiales sobre muro medianero en condominio; prohíbe ejercerlas de modo que genere peligro para la solidez del muro.
 * Art. 1976: Prohibición de desviar escurrimientos de agua con intervención humana de modo perjudicial para el fundo vecino (supuesto de filtraciones/escurrimiento hacia inmueble lindero).
 * Art. 2166: Régimen de servidumbre forzosa (incluida la de acueducto), aplicable para objetar imposiciones de hecho sin título ni encuadre legal.
-  [NOTA DE CORROBORACIÓN: La referencia previa al Art. 2630 CCyCN para escurrimiento de aguas pluviales se corrige por ser técnicamente impropia; el Art. 2630 vigente regula derecho aplicable en materia de alimentos (DIPri).]
+  [NOTA DE CORROBORACIÓN: La referencia previa al Art. 2630 CCyCN para escurrimiento de aguas pluviales se corrige por ser técnicamente impropia; el Art. 2630 vigente regula derecho aplicable en materia de alimentos (DIPr).]
 2. Nivel Nacional (Seguridad e Higiene Laboral):
 * Ley 19.587 y Decreto 911/96 (Arts. 52 a 55): Omisión absoluta de protecciones colectivas para trabajo en altura, falta de vallado, uso indebido de andamios y maquinaria sobre losa ajena sin mitigación de vibraciones.
 * Resolución SRT 51/97: Inexistencia de Programa de Seguridad y Aviso de Obra para trabajos críticos en altura.
@@ -50,7 +50,7 @@ La conducta del Sr. Capria vulnera un vasto entramado normativo en todos los niv
 * Ley 8912/77 (Ordenamiento Territorial): Modificación clandestina de indicadores urbanísticos (FOS/FOT) y densidad edificable sin aprobación previa, impactando en linderos.
 5. Nivel Municipal (Partido de Merlo) y Servicios:
 * Ordenanzas 757/2000 y 5835/2021 (Código de Edificación): Ejecución de obra nueva/ampliación y modificación de estructuras sin "Permiso de Obra", sin "Plano Municipal Aprobado", sin "Plano Estructural con Memoria de Cálculo", sin firma de profesional matriculado y sin Libre Deuda Municipal.
-* Reglamento AySA (Res. MOP 641/2023): La resolución fue corroborada en fuentes públicas oficiales (Argentina.gob.ar — Normativa Nacional, Resolución 641/2023; y portal ERAS, publicación "RESOL-2023-641-APN-SOP#MOP"). Ese identificador APN corresponde al código oficial de acto administrativo en el sistema estatal. La norma aprueba la "Guía de Ejecución de Instalaciones Sanitarias Domiciliarias y Asimilables a Domiciliarias" y texto ordenado del RANT. Puede invocarse para respaldar incumplimientos en modificaciones sanitarias domiciliarias sin adecuación técnica/administrativa, junto con verificación del cuadro local aplicable al momento de demandar.
+* Reglamento AySA (Res. MOP 641/2023): Resolución verificada en fuentes oficiales (Argentina.gob.ar — Normativa Nacional y portal ERAS). Aprueba la "Guía de Ejecución de Instalaciones Sanitarias Domiciliarias y Asimilables a Domiciliarias" y texto ordenado del RANT. Puede invocarse para respaldar incumplimientos en modificaciones sanitarias domiciliarias sin adecuación técnica/administrativa, junto con verificación del cuadro local aplicable al momento de demandar.
 6. Nivel Penal:
 * Código Penal, Art. 189: Estrago Culposo por creación de peligro común ante inobservancia de reglamentos.
 VI. PRUEBA OFRECIDA
