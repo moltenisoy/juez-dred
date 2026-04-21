@@ -33,12 +33,12 @@ La conducta del Sr. Capria vulnera un vasto entramado normativo en todos los niv
   (Arts. 1714-1715: VETADOS por Decreto 191/2015 — NO invocar. Alternativas: Arts. 804 y 1741 CCyCN)
 * Art. 1977: Ausencia de autorización + obligación de reparar daños por uso de inmueble vecino para trabajos de obra.
   (Art. 2627 era el equivalente en el CC Vélez derogado; en CCyCN vigente = Art. 1977)
-* Art. 2021: Colocación de cargas sobre estructuras colindantes generando inestabilidad y peligro de solidez.
+* Art. 2021: Derecho del condómino a adosar construcciones al muro medianero, con el límite expreso de no poner en peligro la solidez del muro. Texto oficial: "El condómino puede adosar construcciones al muro, anclarlas en él, empotrar todo tipo de tirantes y abrir cavidades, aun en la totalidad de su espesor, siempre que del ejercicio regular de ese derecho no resulte peligro para la solidez del muro." NOTA: Este artículo es aplicable únicamente si el daño estructural compromete el muro medianero en condominio. Para el caso de cargas impuestas sobre la losa (techo) del vecino, el fundamento más preciso es el Art. 1757/1758 CCyCN (responsabilidad objetiva por cosa riesgosa) y el Art. 1977 CCyCN (uso no autorizado del inmueble vecino), ya citados.
 * Art. 2630: Violación de la obligación de escurrimiento de aguas pluviales hacia terreno propio, derivándolas hacia mi propiedad y red eléctrica.
 * Art. 2166: Imposición de hecho de una servidumbre de acueducto (instalación esclava) sin convenio ni escritura pública.
 2. Nivel Nacional (Seguridad e Higiene Laboral):
 * Ley 19.587 y Decreto 911/96 (Arts. 52 a 55): Omisión absoluta de protecciones colectivas para trabajo en altura, falta de vallado, uso indebido de andamios y maquinaria sobre losa ajena sin mitigación de vibraciones.
-* Resolución SRT 51/97: Inexistencia de Programa de Seguridad y Aviso de Obra para trabajos críticos en altura.
+* Resolución SRT 51/97: Inexistencia de Aviso de Obra fehaciente a la ART (exigido para TODA obra de construcción, con al menos 5 días hábiles de antelación) e inexistencia de Programa de Seguridad (exigido cuando la obra supera los 4 metros de altura desde cota cero o los 1.000 m² de superficie cubierta, o incluye excavación/demolición).
 3. Nivel Técnico y Estructural (Reglamentos CIRSOC):
 * CIRSOC 101: Violación de los límites de cargas permanentes y sobrecargas de diseño. Omisión del cálculo por incremento de carga por impacto dinámico (uso de maquinaria y tanque de 750 kg).
 * CIRSOC 201: Incumplimiento de las normas de control de deflexiones (flecha) y fisuración en losas de hormigón armado, derivando en la depresión de mi techo.
@@ -48,7 +48,7 @@ La conducta del Sr. Capria vulnera un vasto entramado normativo en todos los niv
 * Ley 13.951: Cumplimiento de la mediación prejudicial obligatoria.
 * Ley 8912/77 (Ordenamiento Territorial): Modificación clandestina de indicadores urbanísticos (FOS/FOT) y densidad edificable sin aprobación previa, impactando en linderos.
 5. Nivel Municipal (Partido de Merlo) y Servicios:
-* Ordenanzas 757/2000 y 5835/2021 (Código de Edificación): Ejecución de obra nueva/ampliación y modificación de estructuras sin "Permiso de Obra", sin "Plano Municipal Aprobado", sin "Plano Estructural con Memoria de Cálculo", sin firma de profesional matriculado y sin Libre Deuda Municipal.
+* Ordenanzas 757/2000 y [ORDENANZA 5835/2021 — NÚMERO Y VIGENCIA NO PUDIERON SER VERIFICADOS EN FUENTES DE ACCESO PÚBLICO. SE RECOMIENDA CONFIRMAR ANTE EL HONORABLE CONCEJO DELIBERANTE DE MERLO O LA DIRECCIÓN DE OBRAS PARTICULARES DEL MUNICIPIO ANTES DE INVOCARLA EN ESCRITO JUDICIAL] (Código de Edificación): Ejecución de obra nueva/ampliación y modificación de estructuras sin "Permiso de Obra", sin "Plano Municipal Aprobado", sin "Plano Estructural con Memoria de Cálculo", sin firma de profesional matriculado y sin Libre Deuda Municipal.
 * Reglamento AySA (Res. MOP 641/2023 — verificar vigencia y número): Alteración clandestina del suministro de agua, falta de Certificado de Aptitud Hidráulica y omisión de los protocolos de estanqueidad para reubicar tanques cisternas compartidos. [NOTA DE VERIFICACIÓN: La Res. MOP 641/2023 no pudo ser confirmada en fuentes de acceso público al momento de elaborar este modelo. Se recomienda verificar el número y vigencia exactos de la resolución aplicable de AySA/ENOHSA ante la autoridad competente antes de presentar la demanda.]
 6. Nivel Penal:
 * Código Penal, Art. 189: Estrago Culposo por creación de peligro común ante inobservancia de reglamentos.
@@ -66,7 +66,7 @@ Por todo lo expuesto, a V.S. solicito:
    1. Me tenga por presentado, por parte y con el domicilio legal y electrónico constituido.
    2. Se tenga por acompañada la prueba documental y por agotada la vía de mediación (Ley 13.951).
    3. Atento al gravísimo riesgo de vida, se haga lugar a la TUTELA ANTICIPADA (Art. 623 bis CPCCBA) ordenando de manera INMEDIATA al demandado la remoción del tanque de agua de 750 kg y autorizando a esta parte a realizar reparaciones eléctricas y de filtraciones de urgencia a exclusiva costa del demandado, a fin de cesar el riesgo de electrocución y permitir la calefacción del hogar, sin que ello implique alteración de la prueba pericial.
-   4. Se haga lugar a la demanda en todas sus partes, condenando al Sr. Juan Capria a abonar una indemnización integral que comprenda: costo de reparación estructural total (losa, cielorraso y techo de chapa del lavadero), restitución de la independencia del servicio de agua, daño emergente (reemplazo de herramientas de trabajo, muebles, ropa y electrodomésticos), y un resarcimiento ejemplar por el grave daño moral, psicológico y privación del uso pacífico del hogar durante más de dos años, con más sus intereses (Tasa Activa/Caso Barrios) y costas.
+   4. Se haga lugar a la demanda en todas sus partes, condenando al Sr. Juan Capria a abonar una indemnización integral que comprenda: costo de reparación estructural total (losa, cielorraso y techo de chapa del lavadero), restitución de la independencia del servicio de agua, daño emergente (reemplazo de herramientas de trabajo, muebles, ropa y electrodomésticos), y un resarcimiento ejemplar por el grave daño moral, psicológico y privación del uso pacífico del hogar durante más de dos años, con más sus intereses conforme doctrina SCBA C. 124.096 "Barrios" (17/04/2024): IPC-INDEC + 6% tasa pura anual hasta sentencia, luego tasa activa BAPRO hasta el efectivo pago, sin capitalización de intereses; y costas.
    5. Se oficie al Municipio de Merlo (Dirección de Obras Particulares) a los fines de que constate las infracciones y aplique las multas y medidas de rigor sobre la edificación clandestina.
 Proveer de conformidad, que
 SERÁ JUSTICIA.
@@ -208,11 +208,17 @@ SECCIÓN COMPLEMENTARIA — ELEMENTOS FALTANTES Y AMPLIACIONES
    Agregar al petitorio (actualmente solo menciona "Tasa Activa/Caso Barrios"):
 
    "Solicito que los montos indemnizatorios sean actualizados conforme la
-   doctrina obligatoria de la SCBA en causa C. 124.096 'Barrios', declarando
-   la inconstitucionalidad sobreviniente del Art. 7 de la Ley 23.928 (según
-   Ley 25.561), aplicando actualización por IPC-INDEC desde la fecha de cada
-   daño hasta su efectivo pago, más un interés puro del 6% anual, sin
-   capitalización de intereses."
+   doctrina obligatoria de la SCBA en causa C. 124.096 'BARRIOS, HÉCTOR
+   FRANCISCO Y OTRA C/ LASCANO, SANDRA BEATRIZ Y OTRA S/ DAÑOS Y PERJUICIOS'
+   (sentencia del 17/04/2024), declarando la inconstitucionalidad sobreviniente
+   del Art. 7 de la Ley 23.928 (según Ley 25.561), aplicando el siguiente
+   mecanismo verificado:
+   (a) Desde la fecha de cada daño hasta la sentencia definitiva: actualización
+   por IPC-INDEC (o CER, según disponibilidad) más tasa de interés pura del 6%
+   anual, sin capitalización de intereses.
+   (b) Desde la sentencia definitiva hasta el efectivo pago: tasa activa del
+   Banco de la Provincia de Buenos Aires (BAPRO) para operaciones de descuento.
+   FUENTE VERIFICADA: SCBA, C. 124.096, sentencia 17/04/2024 (SAIJ FA24010009)."
 
 
 6. SOLICITUD DE BENEFICIO DE LITIGAR SIN GASTOS — FALTANTE
