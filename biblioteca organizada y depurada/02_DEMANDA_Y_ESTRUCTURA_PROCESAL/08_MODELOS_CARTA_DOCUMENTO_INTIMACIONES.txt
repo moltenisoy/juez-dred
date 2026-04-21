@@ -68,14 +68,20 @@ Comercial de la Nación (Ley 26.994):
   por las circunstancias de su realización. La responsabilidad es objetiva y
   no se exime demostrando ausencia de culpa.
 
-- Art. 1702 CCyCN: FACTOR DE ATRIBUCIÓN. En caso de responsabilidad objetiva,
-  la exención solo opera por causa ajena (hecho del damnificado, de un tercero
-  o caso fortuito), no por ausencia de culpa del responsable.
+- Art. 1722 CCyCN: FACTOR OBJETIVO — EXENCIÓN POR CAUSA AJENA. En caso de
+  responsabilidad objetiva, la exención solo opera probando que la causa del
+  daño le es ajena al responsable (hecho del damnificado, de un tercero o
+  caso fortuito), no por ausencia de culpa. Texto oficial: "La responsabilidad
+  objetiva resulta de la ley, la creación de riesgos o el ejercicio de
+  actividades riesgosas o peligrosas para los derechos de terceros. Sólo se
+  exime de responsabilidad quien prueba que la causa del daño le es ajena."
+  [CORRECCIÓN: Art. 1702 CCyCN solo define los factores de atribución;
+  el texto sobre exención en responsabilidad objetiva corresponde a Art. 1722.]
 
-- Art. 1703 CCyCN: RESPONSABILIDAD POR CASO FORTUITO O IMPOSIBILIDAD DE
-  CUMPLIMIENTO. Establece los alcances del caso fortuito como eximente, que
-  no resulta aplicable cuando el daño deriva de la actividad riesgosa del
-  propio responsable.
+- Art. 1733 CCyCN: RESPONSABILIDAD AUN POR CASO FORTUITO. El caso fortuito
+  no exime de responsabilidad cuando el daño deriva de la actividad riesgosa
+  que el propio responsable asumió; el art. 1703 solo define el caso fortuito
+  como eximente general, con las excepciones del art. 1733.
 
 - Art. 1717 CCyCN: ANTIJURIDICIDAD. Cualquier acción u omisión que causa un
   daño a otro es antijurídica si no está justificada. La ejecución de una
@@ -203,11 +209,13 @@ Comercial de la Nación (Ley 26.994):
   por las circunstancias de su realización. La responsabilidad es objetiva y
   no se exime demostrando ausencia de culpa.
 
-- Art. 1702 CCyCN: FACTOR DE ATRIBUCIÓN. En caso de responsabilidad objetiva,
-  la exención solo opera por causa ajena.
+- Art. 1722 CCyCN: FACTOR OBJETIVO — EXENCIÓN POR CAUSA AJENA. En caso de
+  responsabilidad objetiva, la exención solo opera probando causa ajena.
+  [CORRECCIÓN: Art. 1702 CCyCN solo lista los factores de atribución; la
+  exención en responsabilidad objetiva corresponde a Art. 1722 CCyCN.]
 
-- Art. 1703 CCyCN: RESPONSABILIDAD POR CASO FORTUITO O IMPOSIBILIDAD DE
-  CUMPLIMIENTO.
+- Art. 1703 CCyCN: CASO FORTUITO como eximente general (salvo actividades
+  riesgosas — ver Art. 1733 CCyCN).
 
 - Art. 1717 CCyCN: ANTIJURIDICIDAD. Cualquier acción u omisión que causa un
   daño a otro es antijurídica si no está justificada.
@@ -361,8 +369,13 @@ deber de control habilitará a esta parte a:
 
 - Iniciar ACCIÓN JUDICIAL por omisión en el ejercicio del servicio público
   de control edilicio, reclamando la responsabilidad del Estado Municipal por
-  los daños derivados de su inacción (arts. 1764 a 1766 CCyCN, doctrina de
-  la falta de servicio).
+  los daños derivados de su inacción, con fundamento en la Ley Nacional
+  26.944, Art. 3° (responsabilidad por actividad e inactividad ilegítima:
+  daño cierto, imputación al órgano, nexo causal y falta de servicio) y el
+  Decreto-Ley 6769/58 PBA, doctrina de la "falta de servicio" (SCBA).
+  [CORRECCIÓN CRÍTICA: Arts. 1764-1766 CCyCN excluyen expresamente al Estado
+  del régimen del CCyCN; no son la base de la responsabilidad estatal. Usar
+  exclusivamente Ley 26.944.]
 
 - Formular DENUNCIA ante el Ministerio Público Fiscal por incumplimiento de
   los deberes de funcionario público (art. 248 Código Penal) respecto de los
@@ -391,10 +404,13 @@ SECCIÓN D - EFECTOS JURÍDICOS Y PRÁCTICOS DE LAS INTIMACIONES
 --------------------------------------------------------------------------------
 
 La interpelación fehaciente (carta documento) tiene efecto SUSPENSIVO del
-curso de la prescripción liberatoria. Conforme el Art. 2546 del Código Civil
-y Comercial, el curso de la prescripción se suspende por una sola vez, por
+curso de la prescripción liberatoria. Conforme el Art. 2541 del Código Civil
+y Comercial, el curso de la prescripción se SUSPENDE por una sola vez, por
 la interpelación fehaciente al deudor, por el término de seis (6) meses.
 Vencido el plazo de suspensión, el cómputo se REANUDA (no reinicia).
+[CORRECCIÓN CRÍTICA: Art. 2541 CCyCN = SUSPENSIÓN por carta documento.
+Art. 2546 CCyCN = INTERRUPCIÓN por petición judicial. Son artículos
+distintos: la carta documento SUSPENDE (no interrumpe) la prescripción.]
 
 IMPORTANCIA PRÁCTICA: En casos de daño continuado, donde la prescripción se
 computa desde la última manifestación del daño (Art. 2561 CCyCN), la carta
@@ -466,8 +482,9 @@ UTILIDAD ESTRATÉGICA DE LAS INTIMACIONES:
    fecha precisa de dicho conocimiento.
 
 2. La intimación al demandado (Sección A) tiene triple efecto jurídico:
-   interrumpe prescripción, constituye en mora, y acredita conducta diligente
-   del actor ante el tribunal.
+   SUSPENDE la prescripción por 6 meses (Art. 2541 CCyCN — no la interrumpe;
+   la interrupción ocurre con la demanda o mediación), constituye en mora
+   (Art. 886 CCyCN), y acredita conducta diligente del actor ante el tribunal.
 
 3. La carta adaptada con riesgo eléctrico y gas (Sección B) agrega un
    elemento de urgencia que puede fundamentar medidas cautelares y demuestra
@@ -744,7 +761,9 @@ SECCIÓN F — CORRECCIONES NORMATIVAS CRÍTICAS Y AMPLIACIONES
               (Ley 13.951) → SUSPENDE prescripción (Art. 2542 CCyCN)
 
    DENTRO DE 60 DÍAS: Cierre de mediación → Presentar demanda + medidas
-   cautelares → INTERRUMPE prescripción (Art. 2544 CCyCN)
+   cautelares → INTERRUMPE prescripción (Art. 2546 CCyCN — la interrupción
+   por demanda judicial corresponde a Art. 2546; Art. 2544 = efectos de la
+   interrupción, no su causa — CORRECCIÓN.)
 
    REGLA DE ORO: No dejar pasar más de 6 meses desde la carta documento
    sin iniciar la mediación o la demanda, porque la suspensión caduca.
