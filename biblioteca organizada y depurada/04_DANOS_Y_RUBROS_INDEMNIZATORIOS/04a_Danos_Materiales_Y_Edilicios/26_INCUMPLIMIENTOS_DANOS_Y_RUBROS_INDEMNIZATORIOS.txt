@@ -51,7 +51,7 @@ SECCIÓN 2 — INCUMPLIMIENTOS NORMATIVOS DE LA OBRA CLANDESTINA
 La obra constituye simultáneamente:
 a) Una infracción administrativa autónoma y verificable.
 b) Un factor de atribución de responsabilidad subjetiva específico
-   (art. 1647 CC / art. 1277 CCyC).
+   (art. 1647 CC —derogado— / art. 1274 CCyCN —ruina de obra—).
 c) Una situación procesal que destruye la mayoría de las defensas técnicas.
 d) Un contexto que modifica la dinámica probatoria en contra del denunciado.
 
@@ -230,7 +230,7 @@ SECCIÓN 3 — RUBROS INDEMNIZATORIOS RECLAMABLES
 — Menoscabo a la tranquilidad, integridad patrimonial del hogar, salud
   (exposición a hongos y humedad) y calidad de vida del habitante.
 — El daño moral se presume "in re ipsa" ante acto antijurídico
-  (art. 1078 CC / 1744 CCyC), pero se requiere acreditar afectación real
+  (art. 1078 CC —derogado— / art. 1741 CCyCN —daño moral / consecuencias no patrimoniales—), pero se requiere acreditar afectación real
   de esfera íntima, vida cotidiana, proyecto de vida, o salud psicológica.
 — Daño moral por simples molestias sin afectación personal: RECHAZADO
   (Basabe, Lomas de Zamora, 2006).
@@ -413,14 +413,20 @@ Gas:
 
 5.4 NORMATIVA DE COPROPIEDAD (CCC)
 
-— Art. 2051: Para mejoras u obras nuevas sobre partes comunes, se requiere
+— Art. 2051 CCyCN: Para mejoras u obras nuevas sobre partes comunes, se requiere
   consentimiento de la mayoría, previo informe técnico.
-— Art. 2052: Se requiere UNANIMIDAD cuando la mejora modifica la estructura
+— Art. 2052 CCyCN: Se requiere UNANIMIDAD cuando la mejora modifica la estructura
   sustancialmente o solo beneficia a un propietario.
-— Ley 13.512 Art. 7°: Consentimiento unánime para elevar nuevos pisos.
+— Art. 2047 CCyCN: Prohibición de cambiar forma externa del frente sin
+  consentimiento unánime; prohibida toda innovación que afecte la seguridad.
+  [Nota: La Ley 13.512 fue derogada por el Código Civil y Comercial de la Nación
+  (Ley 26.994, vigente desde 01/08/2015). El régimen de Propiedad Horizontal
+  actualmente se rige por los Arts. 2037 a 2067 del CCyCN.]
 — Debe modificarse el Reglamento de Copropiedad (escritura pública +
   inscripción en Registro de la Propiedad + actualización de porcentajes).
-— Art. 5° Ley 13.512: Prohibido cambiar forma externa del frente sin
+— Art. 2041 inc. e) CCyCN: Consentimiento unánime para elevar nuevos pisos
+  (las "cosas necesariamente comunes" incluyen la estructura del edificio).
+— Art. 2047 CCyCN: Prohibido cambiar forma externa del frente sin
   consentimiento unánime; prohibida toda innovación que afecte seguridad.
 
 Si se construye sin consentimiento de co-titulares: la obra puede ser

@@ -87,9 +87,9 @@ El mediador es sorteado por el Poder Judicial
 El plazo de mediación es de hasta 60 días corridos desde la última notificación al requerido
 La comparecencia a la primera audiencia es obligatoria; la incomparecencia injustificada genera multa
 Si fracasa la mediación, se labra acta de cierre y queda expedita la vía judicial
-La Mediación Obligatoria prejudicial tendrá carácter de intimación con los efectos previstos en el segundo párrafo del artículo 3986 del Código Civil Liga del Consorcista (interrupción del plazo de prescripción).
+La mediación prejudicial obligatoria SUSPENDE el curso de la prescripción durante su tramitación, conforme Art. 2542 CCyCN (Ley 26.994 — norma vigente). [Nota: la Ley 13.951 en su texto original remitía al Art. 3986 del Código Civil de Vélez —derogado desde agosto de 2015—; la norma actualmente aplicable es el Art. 2542 CCyCN, que consagra expresamente la SUSPENSIÓN de la prescripción por mediación.]
 
-Prescripción: El plazo para accionar por daños y perjuicios es de 3 años (Art. 2561, CCyC). La mediación interrumpe este plazo.
+Prescripción: El plazo para accionar por daños y perjuicios es de 3 años (Art. 2561, CCyCN). La mediación SUSPENDE este plazo (Art. 2542 CCyCN), no lo interrumpe. La interrupción corresponde a la demanda judicial (Art. 2546 CCyCN).
 
 IV. MEDIOS PROBATORIOS — QUÉ SE PUEDE Y SE DEBE ACREDITAR
 El CPCC de la Provincia de Buenos Aires (Ley 7.425) regula los medios de prueba admisibles. A continuación se analiza cada elemento probatorio disponible en su caso:
@@ -105,7 +105,7 @@ Determinación de las causas técnicas de las filtraciones y su relación causal
 Verificación del estado actual de paredes, techo, pisos de madera, instalación eléctrica, marcos y puertas metálicas
 Cuantificación del costo de reparación de la vivienda (materiales + mano de obra a valores actuales)
 Evaluación de la humedad ambiental y su origen
-Ley aplicable: Art. 3-1, CCyC (relaciones de vecindad); arts. 1757/1758 CCyC
+Ley aplicable: Arts. 1970-1982 CCyCN (relaciones de vecindad); arts. 1757/1758 CCyCN
 
 b) Perito Tasador / Martillero Público:
 
@@ -358,7 +358,7 @@ Provincia de Buenos Aires (si el inmueble es del GBA):
 
 Decreto-Ley 8912/77 (Ordenamiento Territorial y Uso del Suelo — PBA): regula condiciones de obra y responsabilidades del comitente y profesional actuante.
 Reglamentos municipales de construcción del municipio correspondiente.
-Ley 13.512 (Propiedad Horizontal) si el inmueble afectado está en un consorcio: el consorcio también puede tener responsabilidad en el mantenimiento.
+CCyCN Arts. 2037-2067 (Propiedad Horizontal — régimen vigente) si el inmueble afectado está en un consorcio: el consorcio también puede tener responsabilidad en el mantenimiento. [Nota: la anterior Ley 13.512 fue derogada por el Código Civil y Comercial de la Nación — Ley 26.994, vigente desde agosto de 2015.]
 
 
 III. RUBROS INDEMNIZABLES — ANÁLISIS ESPECÍFICO
@@ -443,16 +443,23 @@ Análisis elaborado con base en el Código Civil y Comercial de la Nación (Ley 
 ================================================================================
 SECCIÓN COMPLEMENTARIA — CORRECCIONES, PRECISIONES Y AMPLIACIONES
 ================================================================================
-Fecha de incorporación: Julio 2026
+Fecha de incorporación: Abril 2026
 Elaborado por: Sistema JUEZ-DRED — Biblioteca Organizada y Depurada
 
 A. CORRECCIONES NORMATIVAS
 
 1. DEPARTAMENTO JUDICIAL COMPETENTE
-   El Departamento Judicial competente es MERLO (no Morón), creado por
-   Ley 13.859 de 2009 de la Provincia de Buenos Aires, con asiento en
-   la ciudad de Merlo. Toda referencia anterior a "Morón" debe entenderse
-   sustituida por "MERLO".
+   El Departamento Judicial competente para el Partido de Merlo es MORÓN
+   (sede en Morón), conforme a la organización territorial vigente del
+   Poder Judicial de la Provincia de Buenos Aires. Si bien el Departamento
+   Judicial de Merlo fue creado por Ley 13.859/2009, a la fecha (abril 2026)
+   NO se encuentra operativo para causas civiles y comerciales, por lo que
+   la jurisdicción del Partido de Merlo continúa siendo atendida por el
+   Departamento Judicial de MORÓN. Toda referencia a "Merlo" como departamento
+   judicial DEBE entenderse como MORÓN.
+   ⚠ CORRECCIÓN A LA SECCIÓN COMPLEMENTARIA ANTERIOR: cualquier texto previo
+   que indique "el DJ competente es Merlo" está INCORRECTO. El DJ competente
+   es MORÓN.
 
 2. CONSTITUCIÓN EN MORA DEL DEMANDADO
    La constitución en mora se rige por el Art. 886 CCyCN (Ley 26.994),

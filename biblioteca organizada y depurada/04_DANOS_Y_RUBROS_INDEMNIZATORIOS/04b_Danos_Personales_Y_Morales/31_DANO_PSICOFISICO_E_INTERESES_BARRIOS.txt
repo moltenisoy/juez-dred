@@ -351,7 +351,7 @@ A) TASA APLICABLE:
 
 B) TRAMOS DE CÁLCULO (post "Vera" y "Nidera", SCBA 2018):
 - Tramo 1: Desde el hecho hasta la fecha de sentencia de primera instancia:
-  Tasa pura del 6% anual (Arts. 622 CC, 768.c CCCN, 770 CCCN).
+  Tasa pura del 6% anual (Arts. 768 inc. c y 770 CCyCN). [Nota: Art. 622 del CC de Vélez Sarsfield está derogado desde 01/08/2015; la norma vigente es el Art. 768 CCyCN.]
 - Tramo 2: Desde la sentencia hasta el pago efectivo: Tasa pasiva BIP (o
   tasa activa según criterio adoptado).
 
@@ -424,7 +424,7 @@ b) PBA — TASA PASIVA BIP (anterior a "Barrios"):
    Hasta 2024, la SCBA aplicaba tasa pasiva BIP más alta del Banco Provincia.
    Doctrina "Vera c/ Provincia" (2012): tasa pasiva digital BIP.
 
-c) DOCTRINA "BARRIOS" (SCBA, C.124.096, sent. 2/4/2024) — VIGENTE:
+c) DOCTRINA "BARRIOS" (SCBA, C.124.096, sent. 17/04/2024) — VIGENTE:
    La SCBA modificó sustancialmente el régimen:
    - Se actualiza el capital por IPC-INDEC (índice de precios al consumidor)
      desde la producción del daño hasta la liquidación.
@@ -479,7 +479,7 @@ APLICACIÓN AL CASO DE MERLO:
   fórmula del Art. 1746 CCyCN (% de incapacidad × ingresos × vida útil).
 - Se actualiza por IPC desde cada período de exposición acreditado.
 - Se adiciona 6% anual de interés puro.
-- Competencia: Departamento Judicial de MERLO (Ley 13.859/2009).
+- Competencia: Departamento Judicial de MORÓN (el DJ Merlo, creado por Ley 13.859/2009, NO está operativo a la fecha).
 
 V. INTERACCIÓN DAÑO PSICOFÍSICO + INTERESES + ACTUALIZACIÓN
 
