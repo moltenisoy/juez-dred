@@ -29,8 +29,10 @@ V. FUNDAMENTACIÓN JURÍDICA Y NORMATIVA EXHAUSTIVA
 La conducta del Sr. Capria vulnera un vasto entramado normativo en todos los niveles jurisdiccionales, los cuales fundan esta demanda:
 1. Nivel Nacional (Código Civil y Comercial de la Nación - Ley 26.994):
 * Arts. 1757 y 1758: Responsabilidad objetiva por el riesgo o vicio de las cosas y por actividades riesgosas (la construcción clandestina).
-* Arts. 1710 a 1715: Violación del deber de prevención del daño.
-* Art. 2627: Ausencia de autorización escrita del propietario lindero para ingresar personal y maquinaria a mi techo.
+* Arts. 1710 a 1713: Violación del deber de prevención del daño.
+  (Arts. 1714-1715: VETADOS por Decreto 191/2015 — NO invocar. Alternativas: Arts. 804 y 1741 CCyCN)
+* Art. 1977: Ausencia de autorización + obligación de reparar daños por uso de inmueble vecino para trabajos de obra.
+  (Art. 2627 era el equivalente en el CC Vélez derogado; en CCyCN vigente = Art. 1977)
 * Art. 2021: Colocación de cargas sobre estructuras colindantes generando inestabilidad y peligro de solidez.
 * Art. 2630: Violación de la obligación de escurrimiento de aguas pluviales hacia terreno propio, derivándolas hacia mi propiedad y red eléctrica.
 * Art. 2166: Imposición de hecho de una servidumbre de acueducto (instalación esclava) sin convenio ni escritura pública.
