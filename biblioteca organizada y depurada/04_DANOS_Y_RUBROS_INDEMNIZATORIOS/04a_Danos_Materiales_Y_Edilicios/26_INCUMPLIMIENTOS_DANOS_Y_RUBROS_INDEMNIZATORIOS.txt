@@ -548,7 +548,8 @@ AMPLIACIÓN Y CORRECCIONES
    requiere interpelación previa. Esto implica que los intereses corren
    desde la fecha de producción de cada daño documentado.
 
-6. SUSPENSIÓN DE PRESCRIPCIÓN — Art. 2546 CCyCN
+6. SUSPENSIÓN DE PRESCRIPCIÓN — Art. 2541 CCyCN
+   ⚠ CORRECCIÓN: Art. 2546 = INTERRUPCIÓN por petición judicial. Art. 2541 = SUSPENSIÓN por interpelación fehaciente (carta documento, 6 meses).
    La interpelación fehaciente (carta documento) SUSPENDE el curso de la
    prescripción por 6 meses. Terminología correcta:
    - SUSPENSIÓN (Art. 2539 CCyCN): detiene el cómputo; reanuda donde quedó.

@@ -1479,7 +1479,8 @@ AMPLIACIÓN Y CORRECCIONES
      quien realiza actividad constructiva (profesional).
    - Art. 886 CCyCN: Mora automática — el deudor de obligación de no dañar
      está en mora desde la producción del daño, sin necesidad de intimación.
-   - Art. 2546 CCyCN: La carta documento SUSPENDE la prescripción por 6 meses
+   - Art. 2541 CCyCN: La carta documento SUSPENDE la prescripción por 6 meses
+   ⚠ CORRECCIÓN: Art. 2546 = INTERRUPCIÓN por petición judicial. Art. 2541 = SUSPENSIÓN por interpelación fehaciente (carta documento, 6 meses).
      (no la interrumpe); vencido el plazo, el cómputo se reanuda.
 
 5. PRUEBA PERICIAL EN ELECTRÓNICA — DEPARTAMENTO JUDICIAL MORÓN
@@ -1495,7 +1496,7 @@ AMPLIACIÓN Y CORRECCIONES
    En daños por humedad sostenida (daño continuado), el plazo de prescripción
    de 3 años (Art. 2561 CCyCN) se computa desde que cada daño se manifiesta.
    Al ser un ilícito permanente, cada día de exposición genera nuevo daño y
-   nuevo dies a quo. La carta documento suspende el curso (Art. 2546 CCyCN)
+   nuevo dies a quo. La carta documento suspende el curso (Art. 2541 CCyCN)
    por 6 meses; NO lo interrumpe (la interrupción borra el plazo transcurrido;
    la suspensión solo lo detiene temporalmente).
 

@@ -243,7 +243,7 @@ SECCIÓN COMPLEMENTARIA — METODOLOGÍA JUEZ-PIPO: AMPLIACIÓN Y CORRECCIONES
 
 4. CORRECCIÓN SOBRE PRESCRIPCIÓN — SUSPENSIÓN vs. INTERRUPCIÓN
    ────────────────────────────────────────────────────────────
-   Art. 2546 CCyCN: El curso de la prescripción se SUSPENDE (no se
+   Art. 2541 CCyCN: El curso de la prescripción se SUSPENDE (no se
    interrumpe) por el envío de carta documento que constituye en mora.
    Efecto: suspensión por 6 meses desde la recepción.
    IMPORTANTE: No confundir con interrupción (Art. 2544-2545 CCyCN) que

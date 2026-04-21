@@ -342,7 +342,8 @@ Se priorizan las acciones según urgencia temporal y eficacia inmediata:
    10-11  | Denuncias disciplinarias: 5 años (reglamentos CAPBA/CPI)
 
    NOTA: La carta documento al responsable SUSPENDE la prescripción por 6
-   meses (Art. 2546 CCyCN). No la interrumpe ni reinicia.
+   meses (Art. 2541 CCyCN). No la interrumpe ni reinicia.
+   ⚠ CORRECCIÓN: Art. 2546 = INTERRUPCIÓN por petición judicial. Art. 2541 = SUSPENSIÓN por interpelación fehaciente (carta documento, 6 meses).
 
 3. ACUMULACIÓN DE ACCIONES — REGLAS PROCESALES
 ────────────────────────────────────────────────────────────────────────────────
@@ -382,7 +383,8 @@ Art. 886 CCyCN: "La mora del deudor se produce por el solo transcurso del
 tiempo fijado para el cumplimiento de la obligación." En obligaciones sin
 plazo, la mora se constituye por interpelación (carta documento).
 La constitución en mora es presupuesto para reclamar intereses y para la
-suspensión del Art. 2546 CCyCN.
+suspensión del Art. 2541 CCyCN.
+   ⚠ CORRECCIÓN: Art. 2546 = INTERRUPCIÓN por petición judicial. Art. 2541 = SUSPENSIÓN por interpelación fehaciente (carta documento, 6 meses).
 
 ════════════════════════════════════════════════════════════════════════════════
 FIN DEL ARCHIVO 52 — ACCIONES LEGALES VERIFICADAS: ONCE VÍAS PROCESALES

@@ -497,7 +497,8 @@ AMPLIACIÓN Y CORRECCIONES
 
 7. MORA Y PRESCRIPCIÓN — COMPLEMENTO
    - Art. 886 CCyCN: Mora automática en obligaciones de no dañar.
-   - Art. 2546 CCyCN: Carta documento SUSPENDE prescripción por 6 meses
+   - Art. 2541 CCyCN: Carta documento SUSPENDE prescripción por 6 meses
+   ⚠ CORRECCIÓN: Art. 2546 = INTERRUPCIÓN por petición judicial. Art. 2541 = SUSPENSIÓN por interpelación fehaciente (carta documento, 6 meses).
      (no la interrumpe). Efecto: detiene temporalmente el cómputo del
      plazo trienal del Art. 2561 CCyCN.
    - Art. 2544 CCyCN: La DEMANDA judicial sí INTERRUMPE la prescripción

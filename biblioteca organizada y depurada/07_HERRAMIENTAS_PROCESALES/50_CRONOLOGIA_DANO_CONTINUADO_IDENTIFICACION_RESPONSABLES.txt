@@ -474,17 +474,21 @@ manifestación del perjuicio. Fundamentos:
    b) Doctrina SCBA: "Mientras la causa dañosa persiste, no puede considerarse
       que el plazo ha comenzado a correr de modo definitivo."
    c) La carta documento remitida al demandado SUSPENDE la prescripción por
-      SEIS (6) MESES (Art. 2546 CCyCN — interpelación fehaciente). NOTA:
+      SEIS (6) MESES (Art. 2541 CCyCN — interpelación fehaciente). NOTA:
       la carta documento NO interrumpe sino que SUSPENDE. Vencidos los 6 meses,
       el plazo continúa (no se reinicia).
 
 Diferencia clave (Art. 2545 vs. Art. 2546 CCyCN):
    - INTERRUPCIÓN (Art. 2545 CCyCN): Borra el plazo transcurrido; comienza
-     uno nuevo íntegro. Se produce por: demanda judicial, reconocimiento del
-     deudor, petición judicial.
-   - SUSPENSIÓN (Art. 2546 CCyCN): Detiene el cómputo temporalmente; luego
+     uno nuevo íntegro. Se produce por: reconocimiento del deudor.
+   - INTERRUPCIÓN (Art. 2546 CCyCN): Borra el plazo transcurrido; comienza
+     uno nuevo íntegro. Se produce por: petición judicial (demanda).
+   - SUSPENSIÓN (Art. 2541 CCyCN): Detiene el cómputo temporalmente; luego
      se reanuda donde se detuvo. Se produce por: interpelación fehaciente
      (carta documento) — efecto limitado a 6 meses por una sola vez.
+   ⚠ CORRECCIÓN: La versión anterior tenía los artículos invertidos. Art. 2546
+   = INTERRUPCIÓN por petición judicial (NOT suspensión). Art. 2541 = SUSPENSIÓN
+   por interpelación fehaciente (carta documento).
 
 3. IDENTIFICACIÓN DE CADA RESPONSABLE Y FACTOR DE ATRIBUCIÓN
 ────────────────────────────────────────────────────────────────────────────────

@@ -405,7 +405,7 @@ AMPLIACIÓN Y CORRECCIONES
 6. MORA AUTOMÁTICA Y CARTA DOCUMENTO
    - Art. 886 CCyCN: La mora del responsable es automática desde la
      producción del daño en obligaciones de no hacer.
-   - Art. 2546 CCyCN: La carta documento SUSPENDE la prescripción por
+   - Art. 2541 CCyCN: La carta documento SUSPENDE la prescripción por
      6 meses (no la interrumpe). Transcurrido el semestre, el cómputo
      se reanuda desde donde se había detenido.
 

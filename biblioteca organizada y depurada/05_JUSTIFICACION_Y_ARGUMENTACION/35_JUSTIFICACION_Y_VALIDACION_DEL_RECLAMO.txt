@@ -1578,9 +1578,10 @@ SECCIÓN COMPLEMENTARIA — REPARACIÓN PLENA Y CUANTIFICACIÓN: AMPLIACIÓN Y C
    hasta el efectivo pago, conforme la tasa activa del Banco de la Provincia
    de Buenos Aires (doctrina SCBA "Vera c/ Provincia de Buenos Aires").
 
-7. SUSPENSIÓN DE LA PRESCRIPCIÓN POR CARTA DOCUMENTO — Art. 2546 CCyCN
+7. SUSPENSIÓN DE LA PRESCRIPCIÓN POR CARTA DOCUMENTO — Art. 2541 CCyCN
    La interpelación fehaciente (carta documento) SUSPENDE el curso de la
-   prescripción por el término de seis (6) meses (Art. 2546 CCyCN).
+   prescripción por el término de seis (6) meses (Art. 2541 CCyCN).
+   ⚠ CORRECCIÓN: Art. 2546 = INTERRUPCIÓN por petición judicial. Art. 2541 = SUSPENSIÓN por interpelación fehaciente (carta documento, 6 meses).
    NOTA TÉCNICA: No se trata de interrupción (Art. 2544 CCyCN) sino de
    suspensión: el plazo se detiene por 6 meses y luego continúa (no se
    reinicia). Este efecto opera una sola vez por interpelación.

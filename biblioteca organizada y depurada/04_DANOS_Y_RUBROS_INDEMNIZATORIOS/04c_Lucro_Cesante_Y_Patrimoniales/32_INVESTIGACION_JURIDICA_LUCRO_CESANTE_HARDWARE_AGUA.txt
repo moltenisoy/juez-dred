@@ -237,7 +237,8 @@ CONSECUENCIA JURÍDICA:
 IV. NOTA SOBRE PRESCRIPCIÓN
 
 La carta documento enviada al demandado SUSPENDE la prescripción por el
-plazo de 6 meses (Art. 2546 CCyCN). No la interrumpe. Transcurridos los
+plazo de 6 meses (Art. 2541 CCyCN). No la interrumpe.
+   ⚠ CORRECCIÓN: Art. 2546 = INTERRUPCIÓN por petición judicial. Art. 2541 = SUSPENSIÓN por interpelación fehaciente (carta documento, 6 meses). Transcurridos los
 6 meses sin iniciar demanda, el plazo de prescripción continúa su curso
 desde donde se había detenido.
 
