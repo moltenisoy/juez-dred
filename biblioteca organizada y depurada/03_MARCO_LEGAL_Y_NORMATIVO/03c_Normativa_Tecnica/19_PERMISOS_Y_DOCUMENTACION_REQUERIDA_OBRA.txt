@@ -56,7 +56,8 @@ Emitido por la empresa de agua correspondiente. Acredita que la modificación de
 
 DOCUMENTACIÓN CIVIL Y ENTRE PARTICULARES
 17. Autorización Escrita del Propietario Lindero (Formalizada)
-Documento firmado por el propietario del inmueble vecino autorizando expresamente: el acceso y trabajo de personas y maquinaria sobre la superficie de su techo, y la movilización/relocalización del tanque cisterna de su propiedad. Se recomienda su celebración ante escribano público (acta notarial o convenio de servidumbre temporal) para otorgarle plena validez legal y delimitar responsabilidades civiles ante daños o incidentes. Carece de nombre técnico único pero se encuadra en el artículo 2.615 y concordantes del Código Civil y Comercial de la Nación (CCyC) referidos a las relaciones de vecindad y el derecho de paso por obras.
+Documento firmado por el propietario del inmueble vecino autorizando expresamente: el acceso y trabajo de personas y maquinaria sobre la superficie de su techo, y la movilización/relocalización del tanque cisterna de su propiedad. Se recomienda su celebración ante escribano público (acta notarial o convenio de servidumbre temporal) para otorgarle plena validez legal y delimitar responsabilidades civiles ante daños o incidentes. Carece de nombre técnico único pero se encuadra en el artículo 1977 del Código Civil y Comercial de la Nación (CCyC), que regula el derecho de paso para reparaciones (quien construye debe tolerar el acceso de los trabajadores al predio vecino y reparar los daños causados).
+   ⚠ CORRECCIÓN: el Art. 2615 CCyCN citado anteriormente = "Domicilio de otras personas incapaces" (DIPr) — NO aplicable a relaciones de vecindad.
 
 MEDIDAS DE SEGURIDAD E HIGIENE OBLIGATORIAS — DECRETO 911/96 Y LEY 19.587/72
 18. Legajo Técnico de Higiene y Seguridad
@@ -108,7 +109,8 @@ Informe de la Autoridad Municipal Hidráulica: Dictamen no vinculante sobre el s
 Cálculo de Volumen Mínimo de Reservorio: Considerando la suma de superficies impermeables de todas las parcelas involucradas .
 Plano de Instalación de Agua Compartida: Detalle de las modificaciones al sistema existente y su interconexión con el inmueble vecino.
 IV. AUTORIZACIONES SOBRE PROPIEDAD VECINA (Servidumbres y Derechos de Vecindad)
-Autorización Escrita del Vecino: Para trabajar con herramientas y maquinaria sobre el techo del inmueble lindante, conforme al artículo 2627 del Código Civil y Comercial de la Nación, que establece la obligación de indemnizar todo daño causado .
+Autorización Escrita del Vecino: Para trabajar con herramientas y maquinaria sobre el techo del inmueble lindante, conforme al artículo 1977 del Código Civil y Comercial de la Nación, que regula el derecho de paso para reparaciones y establece la obligación de reparar todo daño causado.
+   ⚠ CORRECCIÓN: el Art. 2627 CCyCN citado anteriormente = "Derecho de paso forzoso" (servidumbre para inmueble sin salida a vía pública) — NO es el artículo aplicable para autorización de trabajo en predio vecino .
 Convenio de Servidumbre de Acueducto: Si la modificación del tanque cisterna implica alterar la servidumbre existente, debe constituirse mediante escritura pública o documento privado de altas partes, registrable en el Registro de la Propiedad Inmueble, conforme artículos 2166 y siguientes del Código Civil y Comercial .
 Notificación Preventiva al Vecino: Comunicación fehaciente previa al inicio de obras que afecten el techo o estructuras compartidas, con detalle de las tareas a realizar y duración estimada.
 Póliza de Seguro de Responsabilidad Civil: Cobertura específica por daños a terceros (propiedad vecina) durante la ejecución de trabajos sobre el techo ajeno.
@@ -204,13 +206,16 @@ Obligaciones y Derechos según el Código Civil y Comercial
 * Acceso Indispensable (Art. 1977 CCCN): Si para realizar la obra es indispensable poner andamios u otras instalaciones provisorias en el inmueble del vecino, o dejar pasar a las personas que trabajan en la obra, el dueño del lindero no puede impedirlo.30 Sin embargo, quien construye debe reparar todos los daños causados y minimizar las molestias.28
 * Convenio de Medianería y Uso de Muros: Cualquier modificación que afecte la medianera (pared divisoria) debe ser acordada. Si la nueva planta superior se apoya en el muro medianero, el vecino tiene derecho a reclamar el valor de la mitad de la pared utilizada.32
 * Reubicación de Instalaciones del Vecino: La movilización de un tanque de agua ajeno constituye una alteración de un servicio básico. Es obligatorio que el propietario que realiza la obra asuma todos los costos de traslado, garantice la continuidad del suministro durante la tarea y asegure que la nueva ubicación del tanque cumpla con los mismos estándares de presión y accesibilidad que la original.28
-* Responsabilidad por Daños (Art. 2616 CCCN): El propietario es responsable por cualquier caída de materiales, filtraciones o grietas producidas por el uso de maquinaria pesada o herramientas sobre el techo vecino.28 Se recomienda la realización de un acta notarial previa para constatar el estado actual de la vivienda vecina antes del inicio de los trabajos.14
+* Responsabilidad por Daños (Arts. 1757-1758 CCyCN): El propietario es responsable por cualquier caída de materiales, filtraciones o grietas producidas por el uso de maquinaria pesada o herramientas sobre el techo vecino.
+   ⚠ CORRECCIÓN: el Art. 2616 CCyCN citado anteriormente = "Capacidad" (Derecho Internacional Privado) — NO aplicable a responsabilidad por daños vecinales. Arts. correctos: 1757 (responsabilidad objetiva por actividad riesgosa) y 1758 (sujetos responsables).28 Se recomienda la realización de un acta notarial previa para constatar el estado actual de la vivienda vecina antes del inicio de los trabajos.14
 Medidas de Seguridad y Técnicas en Obra (Decreto 911/96)
 El trabajo en altura y sobre techos de terceros requiere la implementación rigurosa de medidas de seguridad para proteger la integridad física de los operarios y de los habitantes del domicilio colindante.37 El responsable de Higiene y Seguridad debe confeccionar un Programa de Seguridad específico para la obra, el cual debe ser aprobado por la Aseguradora de Riesgos del Trabajo (ART).38
 Protocolos de Seguridad Obligatorios para Trabajos en Altura
-1. Uso de Arnés de Seguridad (Sistema Anticaída): Para cualquier tarea realizada a más de 2 metros de altura (lo que incluye trabajar sobre el techo del vecino o en la nueva planta alta), es obligatorio el uso de arneses de seguridad de 5 puntos certificados.37 Estos deben estar anclados a una línea de vida o punto de amarre fijo independiente de los andamios.38
+1. Uso de Arnés de Seguridad (Sistema Anticaída): Para cualquier tarea realizada a más de 2 metros de altura (lo que incluye trabajar sobre el techo del vecino o en la nueva planta alta), es obligatorio el uso de arneses de seguridad tipo cuerpo completo certificados
+   ⚠ CORRECCIÓN: el Decreto 911/96 Art. 100 dice "cinturón de seguridad tipo arnés" sin especificar "5 puntos".37 Estos deben estar anclados a una línea de vida o punto de amarre fijo independiente de los andamios.38
 2. Pantallas y Bandejas de Protección: Se deben instalar protecciones físicas para evitar la caída de objetos o escombros sobre el patio o techo del vecino.37 Estas bandejas deben colocarse como máximo a 3 metros por debajo del plano de trabajo y poseer la resistencia necesaria para detener materiales contundentes.37
-3. Andamios y Plataformas de Trabajo: Deben ser estructuras metálicas estables (queda prohibido el uso de andamios de madera para alturas superiores a 3 metros).38 Deben contar con plataformas antideslizantes de al menos 0,60 metros de ancho, barandas de 1 metro de altura con travesaños intermedios y zócalos para evitar la caída de herramientas.37
+3. Andamios y Plataformas de Trabajo: Deben ser estructuras metálicas estables (queda prohibido el uso de andamios de madera para alturas superiores a 3 metros).38 Deben contar con plataformas antideslizantes de al menos 0,60 metros de ancho, barandas de 0,90 metros de altura (90 cm del piso) con travesaños intermedios y zócalos para evitar la caída de herramientas
+   ⚠ CORRECCIÓN: el Decreto 911/96 establece el pasamano de andamio a 90 cm del piso, no a 1 metro.37
 4. Señalización y Delimitación de Áreas de Riesgo: Es obligatorio señalizar con cartelería y vallas las zonas donde se están realizando tareas sobre el techo vecino.37 En caso de utilizar maquinaria ruidosa o vibratoria, se deben respetar los horarios municipales para no exceder la normal tolerancia del vecindario.35
 5. Protección de Aberturas y Claraboyas: Si el techo del vecino posee claraboyas o tragaluces, estos deben ser protegidos con cubiertas resistentes para evitar que la caída accidental de un operario o material provoque un siniestro grave.40
 Equipos de Protección Personal (EPP) Requeridos
@@ -224,7 +229,8 @@ Procedimientos Técnicos Profesionales para la Planta Superior
 El diseño y ejecución de la planta superior debe responder a criterios de ingeniería que aseguren la durabilidad de la intervención y la seguridad de los inmuebles involucrados. El profesional responsable debe supervisar los siguientes aspectos críticos:
 1. Verificación de Cimientos y Columnas: Antes de elevar la mampostería del primer piso, se deben realizar calicatas o estudios de suelo si no existen planos de estructura previos.10 Es fundamental confirmar que las fundaciones actuales pueden absorber el peso adicional de las nuevas paredes, techos y sobrecargas de uso.
 2. Aislación Hidrófuga en la Nueva Planta: Se deben ejecutar cajones hidrófugos en las primeras hiladas de ladrillos y utilizar revoques con aditivos impermeabilizantes en las paredes exteriores para evitar humedades de cimiento o filtraciones hacia la planta baja y hacia el muro del vecino.26
-3. Manejo de Aguas Pluviales (Art. 2630 CCCN): Los nuevos techos deben diseñarse de manera que las aguas de lluvia caigan sobre el propio suelo o hacia la vía pública, quedando terminantemente prohibido el desagüe directo sobre el terreno o techo del vecino.28 Se deben instalar canaletas y bajadas pluviales de dimensiones adecuadas al régimen de lluvias de la provincia de Buenos Aires.
+3. Manejo de Aguas Pluviales (Art. 1975 CCyCN): Los nuevos techos deben diseñarse de manera que las aguas de lluvia caigan sobre el propio suelo o hacia la vía pública, quedando terminantemente prohibido el desagüe directo sobre el terreno o techo del vecino.
+   ⚠ CORRECCIÓN: el Art. 2630 corresponde al Código Civil de Vélez (derogado). En el CCyCN vigente (Ley 26.994), la norma sobre aguas pluviales y prohibición de escurrimiento sobre predio vecino es el Art. 1975.28 Se deben instalar canaletas y bajadas pluviales de dimensiones adecuadas al régimen de lluvias de la provincia de Buenos Aires.
 4. Instalaciones Eléctricas de Obra: Deben ser provisorias pero reglamentarias, contando con tablero con disyuntor diferencial, llaves térmicas y puesta a tierra, para evitar riesgos de electrocución al personal o incendios por cortocircuito.37
 Parámetro Técnico
 	Especificación Obligatoria
@@ -349,7 +355,8 @@ b) Acta notarial de constatación del estado del inmueble dañado.
 c) Fotografías con fecha cierta (selladas por escribano o con metadatos).
 d) Carta documento al demandado intimando la cesación de la obra y la
    reparación de los daños (Art. 886 CCyCN — constitución en mora;
-   Art. 2546 CCyCN — suspensión de prescripción por 6 meses).
+   Art. 2541 CCyCN — suspensión de prescripción por 6 meses
+   ⚠ CORRECCIÓN: Art. 2546 = INTERRUPCIÓN por petición judicial. Art. 2541 = SUSPENSIÓN por interpelación fehaciente (carta documento, 6 meses)).
 e) Constancia de denuncia ante la D.O.P. de Merlo por obra sin permiso.
 f) Presupuesto de empresa constructora para la reparación de los daños.
 
