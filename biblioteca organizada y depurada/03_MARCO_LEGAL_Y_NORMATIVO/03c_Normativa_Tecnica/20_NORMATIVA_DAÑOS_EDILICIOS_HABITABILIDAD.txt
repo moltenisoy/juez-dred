@@ -532,10 +532,16 @@ SECCIÓN COMPLEMENTARIA — NORMATIVA DAÑOS EDILICIOS Y HABITABILIDAD: AMPLIACI
 ================================================================================
 
 CORRECCIÓN 1 — DEPARTAMENTO JUDICIAL COMPETENTE:
-El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MERLO (Ley
-13.859/2009), NO al de Morón. La demanda por daños edilicios y afectación
-a la habitabilidad debe radicarse ante los juzgados civiles y comerciales
-de primera instancia de Merlo, PBA.
+El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MORÓN, NO al de Merlo.
+Si bien la Ley 13.859/2009 creó el Departamento Judicial de Merlo, dicho departamento
+NO está operativo (verificado al 2025/2026: los juzgados fueron designados pero aún no
+iniciaron actividades formales — fuente: Suprema Corte de Justicia de la Provincia de
+Buenos Aires). La demanda por daños edilicios y afectación a la habitabilidad debe
+radicarse ante los juzgados civiles y comerciales de primera instancia con asiento en
+la ciudad de MORÓN. La Cámara de Apelación en lo Civil y Comercial del Departamento
+Judicial de Morón es la alzada natural.
+⚠ CORRECCIÓN: El texto anterior indicaba "DEPARTAMENTO JUDICIAL DE MERLO" — INCORRECTO.
+El DJ Merlo NO está operativo. Corresponde el DJ MORÓN hasta habilitación formal del DJ Merlo.
 
 CORRECCIÓN 2 — CONSTITUCIÓN EN MORA (Art. 886 CCyCN):
 La constitución en mora del responsable de la obra se rige por el Art. 886

@@ -59,15 +59,23 @@ REQUISITO 5: Consentimiento unánime de los 3 copropietarios (asamblea y
 escritura pública) para sobreelevación que afecta partes comunes o
 porcentuales de dominio.
 TIPO: Contravención civil.
-FUNDAMENTO: Ley Nacional 13.512 de Propiedad Horizontal (prevalente sobre
-normativa municipal) — art. 7 Ley 13.512.
+FUNDAMENTO: Art. 2052 CCyCN (Ley 26.994) — mejoras u obras nuevas sobre cosas
+comunes en interés particular que requieren unanimidad. La Ley 13.512 de Propiedad
+Horizontal fue DEROGADA por la Ley 26.994 (CCyCN vigente desde 01/08/2015). El
+régimen de PH hoy se rige por los Arts. 2037-2072 CCyCN.
+⚠ CORRECCIÓN: La referencia anterior a "Ley Nacional 13.512 — art. 7 Ley 13.512"
+era del régimen derogado. El fundamento vigente es Art. 2052 CCyCN.
 CONSECUENCIA: Nulidad de obra y acción judicial.
 
 REQUISITO 6: Modificación del Reglamento de Copropiedad si genera nuevas
 unidades funcionales o altera porcentajes (mayoría 2/3 o unánime según caso,
 con inscripción registral).
 TIPO: Contravención civil.
-FUNDAMENTO: Ley Nacional 13.512 y Decreto 2080/80.
+FUNDAMENTO: Art. 2057 CCyCN (modificación del reglamento requiere 2/3 de la totalidad
+de propietarios) y Art. 2038 CCyCN (constitución del derecho real de PH). La Ley
+13.512 y el Decreto 2080/80 fueron DEROGADOS por la Ley 26.994 (CCyCN).
+⚠ CORRECCIÓN: La referencia anterior a "Ley Nacional 13.512 y Decreto 2080/80" era
+del régimen derogado. El fundamento vigente es Arts. 2057 y 2038 CCyCN.
 CONSECUENCIA: No inscribible e inoponible a terceros.
 
 REQUISITO 7: Pago de Derechos de Construcción según Ordenanza Fiscal
@@ -137,7 +145,10 @@ CONSECUENCIA: Anulación del permiso municipal y demolición.
 REQUISITO 17: Inscripción registral de la modificación en el Registro de la
 Propiedad Inmueble (si altera dominio o crea unidad nueva).
 TIPO: Contravención registral.
-FUNDAMENTO: Ley Nacional 13.512.
+FUNDAMENTO: Art. 2038 CCyCN (la constitución del derecho real de PH requiere plano
+aprobado e inscripción registral). La Ley 13.512 fue DEROGADA por la Ley 26.994.
+⚠ CORRECCIÓN: La referencia anterior a "Ley Nacional 13.512" era del régimen derogado.
+El fundamento vigente es Art. 2038 CCyCN y Ley 17.801 (Registro de la Propiedad).
 CONSECUENCIA: No oponible a terceros.
 
 REQUISITO 18: Visado por Colegio Profesional correspondiente
@@ -399,15 +410,19 @@ referencia rápida, preservando la redacción original de la fuente.
    pública) para sobreelevación que afecta partes comunes o porcentuales
    de dominio.
    — Clasificación: Contravención civil.
-   — Normativa base: Art. 7 Ley Nacional 13.512 de Propiedad Horizontal
-     (prevalente sobre normativa municipal).
+   — Normativa base: Art. 2052 CCyCN (Ley 26.994 — régimen vigente de PH).
+     ⚠ CORRECCIÓN: La referencia anterior a "Art. 7 Ley Nacional 13.512" era
+     del régimen derogado. La Ley 13.512 fue reemplazada por el CCyCN (Ley
+     26.994, vigente desde 01/08/2015). El fundamento vigente es Art. 2052 CCyCN.
    — Sanción: Nulidad de obra y acción judicial.
 
 6. Modificación del Reglamento de Copropiedad si genera nuevas unidades
    funcionales o altera porcentajes (mayoría 2/3 o unánime según caso, con
    inscripción registral).
    — Clasificación: Contravención civil.
-   — Normativa base: Ley Nacional 13.512 y Decreto 2080/80.
+   — Normativa base: Arts. 2057 y 2038 CCyCN (Ley 26.994 — régimen vigente).
+     ⚠ CORRECCIÓN: "Ley Nacional 13.512 y Decreto 2080/80" fueron DEROGADOS
+     por la Ley 26.994 (CCyCN). Fundamento vigente: Art. 2057 CCyCN.
    — Sanción: No inscribible e inoponible a terceros.
 
 7. Pago de Derechos de Construcción según Ordenanza Fiscal Tarifaria Nº 5494
@@ -478,7 +493,9 @@ referencia rápida, preservando la redacción original de la fuente.
 17. Inscripción registral de la modificación en el Registro de la Propiedad
     Inmueble (si altera dominio o crea unidad nueva).
     — Clasificación: Contravención registral.
-    — Normativa base: Ley Nacional 13.512.
+    — Normativa base: Art. 2038 CCyCN y Ley 17.801 (Registro de la Propiedad).
+      ⚠ CORRECCIÓN: "Ley Nacional 13.512" fue DEROGADA por la Ley 26.994 (CCyCN).
+      Fundamento vigente: Art. 2038 CCyCN.
     — Sanción: No oponible a terceros.
 
 18. Visado por Colegio Profesional correspondiente (Arquitectos/Ingenieros)
@@ -540,7 +557,8 @@ La obra de ampliación con construcción de planta superior debió seguir
 la siguiente secuencia legal obligatoria:
 
 FASE 1 — PREVIA AL INICIO DE OBRA:
-   1. Consentimiento unánime de copropietarios (Art. 7 Ley 13.512).
+   1. Consentimiento unánime de copropietarios (Art. 2052 CCyCN — régimen vigente;
+      ⚠ CORRECCIÓN: "Art. 7 Ley 13.512" fue DEROGADO por CCyCN Ley 26.994).
    2. Contratación de profesional habilitado (Ley 10.405 PBA).
    3. Elaboración de planos y cálculo estructural (CIRSOC 101/201).
    4. Trámite de permiso de obra ante D.O.P. de Merlo.
@@ -571,7 +589,9 @@ AMPLIACIÓN 3 — RESPONSABILIDAD DEL COPROPIETARIO QUE NO CONSINTIÓ:
 Cuando la obra de ampliación se ejecuta en un inmueble en copropiedad
 sin el consentimiento unánime de todos los copropietarios:
 a) El copropietario disidente tiene acción de nulidad de la obra
-   (Art. 7 Ley 13.512 de Propiedad Horizontal).
+   (Art. 2052 CCyCN — régimen vigente de PH).
+   ⚠ CORRECCIÓN: "Art. 7 Ley 13.512" fue DEROGADO por la Ley 26.994 (CCyCN).
+   El fundamento vigente es el Art. 2052 CCyCN.
 b) Puede solicitar la demolición de lo construido sin su autorización.
 c) No responde por los daños que la obra cause a terceros o al inmueble
    vecino, ya que no prestó consentimiento ni tuvo participación.
@@ -592,14 +612,19 @@ d) Inhabilitación del profesional: si se comprueba intervención de
 Las actas de infracción municipal tienen valor de instrumento público
 (Art. 296 CCyCN) y son prueba directa en el proceso civil.
 
-AMPLIACIÓN 5 — ARTICULACIÓN CON PROPIEDAD HORIZONTAL (Ley 13.512):
+AMPLIACIÓN 5 — ARTICULACIÓN CON PROPIEDAD HORIZONTAL (CCyCN Arts. 2037-2072):
 Cuando el inmueble donde se ejecuta la obra está sometido al régimen de
-propiedad horizontal, la Ley 13.512 impone requisitos adicionales:
-— Art. 7: Prohibición de realizar obras que alteren la seguridad del
-  edificio o perjudiquen los derechos de otros propietarios sin
-  autorización unánime de la asamblea de consorcio.
-— Art. 6: Las partes comunes (estructura, muros portantes, losa) no
-  pueden ser modificadas sin consentimiento de todos los copropietarios.
+propiedad horizontal, el CCyCN (Ley 26.994, vigente desde 01/08/2015) impone
+requisitos que reemplazaron a la derogada Ley 13.512:
+⚠ CORRECCIÓN: "Ley 13.512" fue DEROGADA por la Ley 26.994 (CCyCN). El régimen
+vigente de PH está en los Arts. 2037-2072 CCyCN.
+— Art. 2052 CCyCN: Mejoras u obras nuevas sobre cosas comunes en interés
+  particular requieren autorización por UNANIMIDAD de los propietarios.
+— Art. 2047 CCyCN: Prohibición de alterar partes comunes o comprometer la
+  seguridad del edificio.
+— Art. 2041 CCyCN: Los techos, azoteas, terrazas, muros maestros y cimientos
+  son cosas necesariamente comunes; no pueden ser alterados por un propietario
+  sin autorización unánime.
 — La violación de estos preceptos genera nulidad de la obra y
   responsabilidad civil del infractor frente al consorcio y frente
   a los terceros dañados (vecinos linderos).

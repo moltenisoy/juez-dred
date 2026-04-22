@@ -33,10 +33,30 @@ Complementariamente, el artículo 2022 permite la prolongación del muro lindero
 La Obligación de Reconstrucción y Estanqueidad
 Cuando una modificación en un inmueble requiere la demolición de un muro medianero para hacerlo más firme o para permitir cargas mayores, el artículo 2024 impone una obligación de hacer inmediata: el propietario que demuela debe levantar la nueva pared sin demora.2 Esta reconstrucción debe mantener las características de aislamiento y estabilidad previas, o mejorarlas. Si el muro que se modifica es privativo del vecino pero se encuentra en el límite, el constructor que edifica al lado debe asegurar la estanqueidad de la junta entre ambos muros para evitar filtraciones de humedad que deterioren la propiedad ajena.4
 Restricciones al Dominio y Relaciones de Vecindad
-El CCyC establece límites precisos para evitar que las modificaciones edilicias interfieran con la privacidad y el uso pacífico de los linderos. Los artículos 2654 a 2658 regulan la apertura de vanos y la disposición de vistas 2:
+El CCyC establece límites precisos para evitar que las modificaciones edilicias interfieran con la privacidad y el uso pacífico de los linderos. ⚠ CORRECCIÓN — ARTÍCULOS DE VISTAS, LUCES Y AGUAS PLUVIALES:
+Los artículos 2654 a 2658 y el artículo 2630 citados a continuación pertenecen al
+CÓDIGO CIVIL DE VÉLEZ SARSFIELD (derogado). En el CCyCN vigente (Ley 26.994), las
+normas equivalentes son:
+— Vistas: Art. 1978 CCyCN (prohibición de abrir vistas a menos de 3 metros de la línea
+  divisoria). Texto verificado: "No se puede abrir ventanas, balcones u otras aberturas
+  semejantes sobre el predio vecino a menos de tres metros en línea recta."
+— Luces: Art. 1979 CCyCN (aberturas para recibir luz con rejas y vidrios fijos, a no menos
+  de 1 metro del límite divisorio).
+— Aguas pluviales / escurrimiento: Art. 1975 CCyCN (escurrimiento natural de aguas) y
+  Art. 2015 CCyCN (medianería: prohibición de alterar la forma de recoger y evacuar aguas
+  pluviales si perjudica al vecino). El Art. 2630 del viejo Código NO tiene equivalente
+  único en el CCyCN; la misma obligación surge de los Arts. 1975, 2015 y el principio
+  alterum non laedere (Art. 1716 CCyCN).
+Las referencias a continuación se conservan en cursiva histórica para contexto:
+
+[REFERENCIAS HISTÓRICAS — CÓDIGO VÉLEZ — NO VIGENTES]:
+Los artículos 2654 a 2658 (Vélez) regulaban la apertura de vanos y la disposición de vistas 2:
 1. Ventanas y Luces: El dueño de una pared no medianera contigua a finca ajena puede abrir ventanas para recibir luces a una altura mínima de 1,80 a 3 metros del piso del local, con rejas de hierro de barras cruzadas. Estas aberturas no constituyen servidumbre y el vecino puede cerrarlas si adquiere la medianería y edifica apoyándose en la pared.2
+   → EN CCyCN VIGENTE: Art. 1979 CCyCN (luces) y Art. 1978 CCyCN (vistas directas a 3 metros).
 2. Vistas Directas y Costado: Se prohíbe tener vistas sobre el predio vecino por medio de ventanas, balcones u otros voladizos, a menos que exista una distancia de 3 metros desde la línea divisoria.3
-3. Aguas Pluviales: El artículo 2630 obliga a construir los techos de manera que las aguas caigan sobre el propio suelo o la vía pública, prohibiendo terminantemente que el escurrimiento se produzca sobre el suelo del vecino.3 Esta disposición es crítica al modificar techos de losa para terrazas, donde el sistema de desagües debe ser meticulosamente proyectado.
+   → EN CCyCN VIGENTE: Art. 1978 CCyCN.
+3. Aguas Pluviales: El artículo 2630 (Vélez) obligaba a construir los techos de manera que las aguas caigan sobre el propio suelo o la vía pública, prohibiendo que el escurrimiento se produzca sobre el suelo del vecino.3 Esta disposición es crítica al modificar techos de losa para terrazas, donde el sistema de desagüe debe ser meticulosamente proyectado.
+   → EN CCyCN VIGENTE: Arts. 1975 y 2015 CCyCN.
 Requisitos Técnicos y Estructurales: Los Reglamentos CIRSOC 101 y 201
 La seguridad estructural en la República Argentina está regida por los reglamentos del Centro de Investigación de los Reglamentos Nacionales de Seguridad para las Obras Civiles (CIRSOC), los cuales son de aplicación obligatoria para todas las construcciones en el territorio nacional.6 Al modificar una losa para colocar nuevas cargas, el cumplimiento de los reglamentos CIRSOC 101 y 201 es la garantía técnica de que la estructura no colapsará ni dañará a terceros.
 CIRSOC 101: Determinación de Cargas y Sobrecargas
@@ -159,7 +179,8 @@ El artículo 1711 del CCyC introduce la "Acción Preventiva", que permite a cual
 Síntesis de Cumplimiento para Modificaciones en Merlo
 Para llevar a cabo una modificación reglamentaria en el Partido de Merlo que afecte a un inmueble lindero o implique cargas sobre losas, se deben observar estrictamente las siguientes normativas:
       * Nombre de la Norma: Código Civil y Comercial de la Nación (Ley 26.994).
-      * Qué indica cumplimentar: Respetar las presunciones de medianería hasta los 3 metros (Art. 2010), garantizar la solidez al cargar muros (Art. 2021) y asegurar la caída de aguas en terreno propio (Art. 2630).1
+      * Qué indica cumplimentar: Respetar las presunciones de medianería hasta los 3 metros (Art. 2010), garantizar la solidez al cargar muros (Art. 2021) y asegurar la caída de aguas en terreno propio.
+        ⚠ CORRECCIÓN: "Art. 2630" citado originalmente = artículo del CÓDIGO CIVIL DE VÉLEZ SARSFIELD (derogado). En el CCyCN vigente la prohibición de verter aguas pluviales sobre el predio vecino surge del Art. 1975 CCyCN (escurrimiento natural) y Art. 2015 CCyCN (medianería y evacuación de aguas pluviales). Art. 2630 del Código Vélez NO tiene equivalente único en el CCyCN.1
       * Nombre de la Norma: Reglamento Argentino de Cargas Permanentes y Sobrecargas Mínimas (CIRSOC 101).
       * Qué indica cumplimentar: Aplicar sobrecargas de    para terrazas accesibles y prever incrementos por impacto de maquinaria (Art. 4.6).6
          * Nombre de la Norma: Ley de Ordenamiento Territorial y Uso del Suelo (Ley 8912/77 - PBA).

@@ -27,8 +27,12 @@ A. NORMATIVA DE GAS NATURAL EN CONSTRUCCIÓN
 - Ley 24.076: Marco Regulatorio del Gas Natural.
 - Resoluciones ENARGAS: complementarias y actualizaciones de la
   normativa técnica.
-- CCyCN arts. 1757 y 1113: responsabilidad por actividades riesgosas
-  y daños causados por cosas.
+- CCyCN arts. 1757 y 1758: responsabilidad por actividades riesgosas
+  y daños causados por cosas (vigentes en el CCyCN).
+  ⚠ CORRECCIÓN: la referencia anterior a "CCyCN arts. 1757 y 1113" era
+  INCORRECTA. El Art. 1113 pertenece al CÓDIGO CIVIL DE VÉLEZ SARSFIELD
+  (derogado). En el CCyCN la responsabilidad por cosas riesgosas se regula
+  en los Arts. 1757 y 1758 (y ss. hasta Art. 1763).
 
 2. REQUISITOS NAG-200 PARA MATRICULADOS
 ----------------------------------------
@@ -387,8 +391,14 @@ SECCIÓN COMPLEMENTARIA — NORMATIVA GAS, ELECTRICIDAD, SEGURIDAD Y PENAL: AMPL
 ================================================================================
 
 CORRECCIÓN 1 — DEPARTAMENTO JUDICIAL COMPETENTE:
-El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MERLO (Ley
-13.859/2009), NO al de Morón.
+El Partido de Merlo pertenece al DEPARTAMENTO JUDICIAL DE MORÓN, NO al de Merlo.
+Si bien la Ley 13.859/2009 creó el Departamento Judicial de Merlo, dicho departamento
+NO está operativo (verificado al 2025/2026: sin habilitación formal de la Suprema Corte
+de Justicia de la PBA). Las causas civiles y penales de Merlo tramitan en el Departamento
+Judicial de MORÓN.
+⚠ CORRECCIÓN: El texto anterior indicaba "DEPARTAMENTO JUDICIAL DE MERLO" — INCORRECTO.
+Corresponde DJ MORÓN hasta habilitación formal del DJ Merlo. (Ver también AMPLIACIÓN 2
+de este archivo, que correctamente menciona DJ Morón.)
 
 CORRECCIÓN 2 — CONSTITUCIÓN EN MORA (Art. 886 CCyCN):
 La constitución en mora del responsable se rige por el Art. 886 CCyCN
