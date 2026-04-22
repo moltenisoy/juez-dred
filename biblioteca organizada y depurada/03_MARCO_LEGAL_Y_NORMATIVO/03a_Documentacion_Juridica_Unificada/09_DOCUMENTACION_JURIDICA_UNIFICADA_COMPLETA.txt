@@ -46,7 +46,7 @@ SUJETO RESPONSABLE | FUNDAMENTO LEGAL | TIPO DE RESPONSABILIDAD
 Dueño del inmueble | CCyC Art. 1758 | Objetiva — por ser dueño de la cosa/actividad riesgosa
 Director de Obra | CCyC Art. 1269 / Ord. 757 Merlo | Profesional — por negligencia en vigilancia y control
 Empresa/Constructor | CCyC Art. 1273 | Solidaria — como ejecutor material de la obra
-Municipio de Merlo | Dec. Ley 6769/58 PBA (Ley Orgánica Municipal) / CCyCN Arts. 1764-1767 / Ord. 757/00 Art. 168 | Por omisión del poder de policía (si hubo denuncias previas sin respuesta)
+Municipio de Merlo | Ley Nacional 26.944 Art. 3° (responsabilidad estatal por falta de servicio) + Dec. Ley 6769/58 PBA (Ley Orgánica Municipal) + Ord. 757/00 Art. 168 | Por omisión del poder de policía (si hubo denuncias previas sin respuesta). CORRECCIÓN: Arts. 1764-1766 CCyCN EXCLUYEN al Estado del CCyCN — NO son base positiva de responsabilidad estatal; usar Ley 26.944
 
 
 2. MARCO CONSTITUCIONAL
@@ -90,9 +90,20 @@ Art. 2010 | Presunción de medianería | El muro de cerramiento forzoso en núcl
 Art. 2021 | Derecho de uso del muro medianero | Cada condómino puede adosar construcciones, anclarlas, empotrar tirantes o abrir cavidades en toda su extensión, BAJO CONDICIÓN: que no resulte peligro para la solidez de la pared compartida. La sola producción de filtraciones y fisuras prueba el incumplimiento de esta condición.
 Art. 2022 | Elevación del muro medianero | Quien alza el muro asume que la base tiene capacidad portante suficiente o que fue reforzada debidamente. La nueva extensión es privativa del que la hizo hasta que el vecino adquiera la medianería. Si se producen daños por insuficiencia de la base, la responsabilidad recae sobre quien ejecutó la elevación.
 Art. 2024 | Obligación de reconstrucción | Si se demuela un muro para hacerlo más firme, la obligación de levantar la nueva pared es inmediata y sin demora. La reconstrucción debe mantener o mejorar las características de aislamiento y estabilidad.
-Art. 2630 | Aguas pluviales | Los techos deben construirse de manera que las aguas caigan sobre el propio suelo o la vía pública. Está PROHIBIDO el escurrimiento sobre el suelo del vecino. Esta norma es crítica respecto a la modificación del sistema de desagüe de techos ejecutada por el demandado.
-Art. 2615 | Relaciones de vecindad — derechos de paso por obras | Fundamento de la obligación de autorización previa del vecino para trabajos en su inmueble.
-Art. 2627 | Obligación de indemnizar daños por trabajos sobre inmueble ajeno | Responsabilidad directa del demandado desde el primer día de trabajo no autorizado sobre techo lindero.
+Art. 2630 | ⚠ CORRECCIÓN (ver Sección 20.1): Art. 2630 pertenece al CC de Vélez Sarsfield
+(derogado). En CCyCN vigente: la prohibición de escurrimiento de aguas pluviales hacia el
+vecino se encuadra en Art. 1973 CCyCN (inmisiones — incluye infiltración de agua) y en la
+normativa municipal de Merlo (Ord. 5839/2021 — membrana hidrófuga). Art. 2630 CCyCN vigente
+versa sobre "Derecho aplicable" a responsabilidad civil en DIPr, sin relación con aguas
+pluviales. Texto a adaptar a Art. 1973 CCyCN en toda actuación judicial.
+Art. 2615 | ⚠ CORRECCIÓN (ver Sección 20.1): Art. 2615 pertenece al CC de Vélez Sarsfield
+(derogado). En CCyCN vigente corresponde a Arts. 1970-1982 (límites al dominio — relaciones
+de vecindad). Art. 2615 CCyCN vigente versa sobre "Jurisdicción" en DIPr, sin relación con
+vecindad ni paso por obras.
+Art. 2627 | ⚠ CORRECCIÓN (ver Sección 20.1): Art. 2627 pertenece al CC de Vélez Sarsfield
+(derogado). En CCyCN vigente corresponde a Arts. 1716 (deber de reparar) + Art. 1973
+(inmisiones). Art. 2627 CCyCN vigente versa sobre "Derecho aplicable" a contratos de
+consumo en DIPr, sin relación con responsabilidad por trabajos sobre inmueble ajeno.
 
 3.3. Contratos de obra — Responsabilidad profesional
 Art. 1269 | Director de obra | Tiene la guarda jurídica de la construcción. Es responsable de que no se violen las disposiciones municipales ni las normas de seguridad estructural. Su responsabilidad es objetiva en excavaciones, submuraciones y apuntalamientos.
@@ -165,9 +176,13 @@ del poder de policía en materia edilicia es:
   establece el deber municipal de policía sobre la edificación y la seguridad de las
   construcciones en su territorio. Su incumplimiento activa la responsabilidad del Estado
   municipal por falta de servicio.
-• CCyCN Arts. 1764 a 1767 — Responsabilidad del Estado: el Estado responde por los daños
-  causados por el ejercicio irregular de sus funciones, incluyendo la omisión de ejercer el
-  poder de policía ante denuncias fehacientes sin respuesta.
+• Ley Nacional 26.944 Art. 3° — Responsabilidad estatal por actividad e inactividad
+  ilegítima (falta de servicio): cuando el Estado omite ejercer el poder de policía ante
+  denuncias fehacientes, responde por los daños derivados de esa omisión.
+  CORRECCIÓN CRÍTICA: Arts. 1764-1766 CCyCN establecen que las normas del CCyCN sobre
+  responsabilidad civil NO se aplican al Estado (ni directa ni subsidiariamente). Por lo
+  tanto, invocarlos como base POSITIVA de responsabilidad estatal es erróneo. La norma
+  correcta es la Ley 26.944 (Régimen de Responsabilidad del Estado) Art. 3°.
 • Ordenanza 757-HCD-2000 de Merlo, Art. 168: establece la obligación del municipio de
   paralizar obras ante falta de medidas de protección a linderos. La inacción ante denuncia
   previa configura omisión antijurídica.
@@ -688,7 +703,7 @@ Honorarios de profesionales contratados para reparar | SCBA: incluye un 30% adic
 
 ACCIÓN / INSTANCIA | FUNDAMENTO | EFECTO
 --- | --- | ---
-Demanda civil por daños y perjuicios ante el fuero civil de Merlo (PBA) | CCyC Arts. 1757/1758/1740/1741; CPCCBA | Reparación integral de todos los rubros. Proceso principal.
+Demanda civil por daños y perjuicios ante el fuero civil de MORÓN - Dpto. Judicial Morón (jurisdicción Merlo) | CCyC Arts. 1757/1758/1740/1741; CPCCBA Art. 5° Inc. 4° | Reparación integral de todos los rubros. Proceso principal. [CORRECCIÓN: DJ Merlo creado por Ley 13.859/2009 pero NO operativo; las causas de Merlo tramitan en DJ MORÓN.]
 Prueba anticipada | Art. 326 CPCCBA | Asegurar evidencias antes de que se realicen reparaciones. Acción urgente e inmediata.
 Acción preventiva | CCyC Art. 1711 | Solicitar judicialmente que se detenga la obra o se adopten medidas de seguridad inmediatas.
 Denuncia administrativa ante el Municipio de Merlo | Ord. 757/00 Art. 168; Ord. 5726/19 | Paralización de la obra. Actuación de oficio del municipio. Registro público de la irregularidad.
@@ -797,7 +812,7 @@ Ordenanza 5726/19 de Merlo — Art. 16 específico sobre acceso al expediente | 
 Ordenanza 5839/21 de Merlo — Estanqueidad de techos | Verificar texto oficial. La mención a esta ordenanza proviene de los documentos de investigación; su contenido específico debe ser confirmado en la fuente primaria.
 Ordenanza 5835/2021 de Merlo — Actualización del Código de Edificación | Verificar texto oficial y alcance de las modificaciones introducidas al Código madre 757-HCD-2000.
 Artículos 162, 167 de la Ordenanza 757-HCD-2000 de Merlo | Los artículos 162 y 167 son mencionados en los documentos de investigación. Verificar en el texto oficial del Código de Edificación de Merlo que dichos números de artículo corresponden al contenido indicado.
-Ley Provincial 11.723 (PBA) — Responsabilidad municipal por omisión | ✅ CORREGIDO EN SECCIÓN 5.7: Ley 11.723 es la Ley Marco del Medio Ambiente de PBA, NO una norma de responsabilidad municipal por omisión edilicia. El fundamento correcto es Dec. Ley 6769/58 + CCyCN Arts. 1764-1767.
+Ley Provincial 11.723 (PBA) — Responsabilidad municipal por omisión | ✅ CORREGIDO EN SECCIÓN 5.7: Ley 11.723 es la Ley Marco del Medio Ambiente de PBA, NO una norma de responsabilidad municipal por omisión edilicia. El fundamento correcto es Dec. Ley 6769/58 + Ley Nacional 26.944 Art. 3° (falta de servicio). [CORRECCIÓN ADICIONAL: CCyCN Arts. 1764-1766 EXCLUYEN al Estado del CCyCN — no son base de responsabilidad estatal sino una exclusión.]
 Art. 229 del Código Penal — "Peligro colectivo por derrumbe" | ✅ RESUELTO CON FUENTE EXTERNA VERIFICADA: El Art. 229 del Código Penal Argentino (Ley 11.179, texto oficial) se ubica en el Título X "Delitos contra los poderes públicos y el orden constitucional", Capítulo III "Sedición". Tipifica el alzamiento armado para impedir el ejercicio de funciones de un poder público. NADA tiene que ver con construcciones. Art. 191 CP tampoco es aplicable: regula peligro para medios de transporte (buques, trenes, aeronaves). Los artículos aplicables para daños de obra son los de la Sección 1ª (Estragos): Art. 186 (incendio/inundación), Art. 187 (derrumbe doloso), Art. 189 (estrago culposo por inobservancia de reglamentos). Todo uso de Art. 229 CP o Art. 191 CP en actuaciones judiciales de este caso debe ser eliminado.
 Numeración exacta de los arts. de prescripción (Sección 20.3) | ✅ RESUELTO CON FUENTE EXTERNA VERIFICADA (CCyCN texto oficial, Ley 26.994): Art. 2541 = SUSPENSIÓN por interpelación fehaciente (carta documento) — 6 meses. Art. 2542 = SUSPENSIÓN por mediación prejudicial. Art. 2545 = INTERRUPCIÓN por reconocimiento del obligado. Art. 2546 = INTERRUPCIÓN por petición judicial (demanda). Art. 2547 = INTERRUPCIÓN por solicitud de arbitraje. Art. 2544 = Efectos de la interrupción (no es una causa sino la consecuencia jurídica). Los errores anteriores de este documento han sido corregidos en Secciones 20.3 y 23.2. NOTA: las memorias previas del repositorio que afirman "Art. 2546 SUSPENDE por 6 meses" y "Art. 2541 INTERRUMPE (demanda/reconocimiento)" son INCORRECTAS y deben descartarse. La correcta es la tabla resumida en Sección 20.3 de este archivo.
 Solicitud de arbitraje como causa de interrupción | ✅ RESUELTO CON FUENTE EXTERNA VERIFICADA: El Art. 2547 CCyCN regula la interrupción de la prescripción por solicitud de arbitraje: "El curso de la prescripción se interrumpe por la solicitud de arbitraje." Esta norma ya fue incorporada en la Sección 20.3 (tabla resumen corregida).
@@ -993,9 +1008,14 @@ operativo. La competencia territorial sobre el Partido de Merlo corresponde actu
 al Departamento Judicial de MORÓN.
 
 22.2. Fundamento procesal
-Art. 5°, inc. 1° del CPCCBA (Decreto-Ley 7425/1968): en acciones reales sobre inmuebles, es
-juez competente el del lugar donde está situada la cosa litigiosa. El inmueble está en Merlo →
+Art. 5°, inc. 4° del CPCCBA (Decreto-Ley 7425/1968): en acciones personales por daños y
+perjuicios (acción personal, no real), es juez competente el del lugar del hecho o el del
+domicilio del demandado, a elección del actor. El hecho dañoso ocurrió en Merlo →
 Departamento Judicial de Morón.
+CORRECCIÓN: Art. 5° inc. 1° aplica a ACCIONES REALES sobre inmuebles (reivindicación,
+usucapión, etc.), no a la acción de daños y perjuicios que es personal. El inciso
+correcto para la acción de daños es el Inc. 4°. Ambos conducen al mismo tribunal
+práctico en este caso (Morón), pero el fundamento técnico correcto es Inc. 4°.
 
 
 23. PRESCRIPCIÓN — ANÁLISIS AMPLIADO

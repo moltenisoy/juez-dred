@@ -137,7 +137,7 @@ C) Obligaciones hidráulicas — AySA NO cumplidas
 
 
 * Certificado de Aptitud Hidráulica (AySA): obligatorio para ampliaciones. Confirma que el inmueble tiene presión y caudal suficientes para la nueva planta sin perjudicar la red ni a vecinos.
-* Plano de Instalaciones Sanitarias: detalla el nuevo trazado de cañerías, diámetros, ubicación del tanque de reserva. Debe cumplir la Resolución 641/2023 del Ministerio de Obras Públicas.
+* Plano de Instalaciones Sanitarias: detalla el nuevo trazado de cañerías, diámetros, ubicación del tanque de reserva. Debe cumplir la Resolución 641/2023 de la Secretaría de Obras Públicas del Ministerio de Obras Públicas [VERIFICADA: aprueba la "Guía de Ejecución de Instalaciones Sanitarias Domiciliarias y Asimilables a Domiciliarias", aplicable en el área de concesión de AySA — incluye Partido de Merlo].
 * La reubicación de un tanque de agua ajeno (del inmueble lindero) REQUIERE la conformidad expresa del vecino afectado y la garantía de continuidad del suministro. NUNCA se obtuvo dicho consentimiento.
 * Las conexiones compartidas requieren la conformidad del vecino y, preferentemente, medidores individuales (Reglamento AySA).
 
@@ -158,7 +158,15 @@ E) Obligaciones de vecindad vulneradas (CCyC)
 
 * Art. 1977 CCyC — Acceso indispensable: aunque quien construye puede solicitar el uso temporal del predio lindero, DEBE REPARAR TODOS LOS DAÑOS CAUSADOS y minimizar las molestias. El demandado NO reparó nada.
 * Arts. 1757 y 1977 CCyC — Responsabilidad por daños: el propietario que realiza una obra de construcción responde por toda caída de materiales, filtraciones o grietas producidas por el uso de maquinaria sobre el techo del vecino, en virtud de la responsabilidad objetiva por actividad riesgosa (Art. 1757) y la obligación expresa de reparar todos los daños causados al usar el predio lindero (Art. 1977). [NOTA CORRECTIVA: El Art. 2616 CCyCN originalmente citado en esta línea es "Capacidad" en materia de Derecho Internacional Privado, norma sin ninguna vinculación con el objeto de esta cita; fue reemplazado por la base legal correcta.]
-* Art. 2630 CCyC — Aguas pluviales: los nuevos techos deben diseñarse para que las aguas caigan sobre el propio suelo. Está prohibido el desagüe sobre el terreno o techo del vecino. El demandado modificó el sistema de desagote del techo del inmueble de la parte actora.
+* Art. 2630 CCyC — Aguas pluviales [⚠ CORRECCIÓN NORMATIVA: El Art. 2630 pertenece al
+  CC de Vélez Sarsfield (derogado desde 2015), NO al CCyCN vigente. El Art. 2630 CCyCN
+  vigente versa sobre "Derecho aplicable" en materia de DIPr, sin relación con aguas
+  pluviales. En CCyCN vigente, la prohibición de escurrimiento de aguas hacia el vecino
+  se encuadra en Art. 1973 CCyCN (inmisiones análogas) + normativa municipal (Ord.
+  5839/2021 Merlo). El contenido sustancial de la norma es correcto pero la cita
+  debe adaptarse a Art. 1973 CCyCN en actuaciones judiciales.] El demandado modificó
+  el sistema de desagote del techo del inmueble de la parte actora, vulnerando la
+  prohibición de escurrimiento al predio vecino (Art. 1973 CCyCN; Ord. 5839/2021 Merlo).
 * Medianería (Art. 2583 CCyCN): toda pared enclavada en la línea divisoria de predios se presume medianera. Cualquier modificación que afecte la pared medianera debe ser acordada. Si la nueva planta se apoya en muro medianero, el vecino tiene derecho a reclamar el valor de la mitad de la pared utilizada.
 * Norma CIRSOC 101: la sobrecarga de diseño para locales residenciales es de 200 kg/m². La reubicación de una carga de 750+ kg sobre losa flotante del vecino excede los parámetros de seguridad y fue ejecutada sin estudio estructural alguno.
 
@@ -223,9 +231,10 @@ NORMA
 	Arts. 1757 y 1977 CCyC
 	Responsabilidad por caída de materiales
 	El propietario que realiza una actividad riesgosa de construcción responde por caída de materiales, filtraciones o grietas sobre el inmueble vecino (Art. 1757, responsabilidad objetiva). Art. 1977 obliga a reparar todos los daños causados al usar el predio lindero. [NOTA CORRECTIVA: El Art. 2616 CCyCN originalmente citado aquí es "Capacidad" en Derecho Internacional Privado y fue reemplazado por la base legal correcta.]
-	Art. 2630 CCyC
+	Art. 2630 CCyC [⚠ CORRECCIÓN: Art. 2630 es del CC Vélez (derogado), NO del CCyCN;
+	en CCyCN vigente usar Art. 1973 (inmisiones)]
 	Aguas pluviales
-	Prohíbe el desagüe de aguas pluviales sobre el terreno o techo del vecino. El demandado modificó el sistema de desagote de la parte actora, violando esta norma.
+	Prohíbe el desagüe de aguas pluviales sobre el terreno o techo del vecino. El demandado modificó el sistema de desagote de la parte actora, vulnerando Art. 1973 CCyCN (inmisiones) y Ord. 5839/2021 Merlo.
 	
 
 B) Constitución Nacional

@@ -50,11 +50,14 @@ Teléfonos principales: 4489-0832 / 4489-7900 / 4489-8800
 Mesa General de Entradas (MUGED): Colón y Almirante Brown — 4489-6730
 
 FUNDAMENTO DE COMPETENCIA TERRITORIAL:
-Artículo 5° inciso 1° del CPCC de la Provincia de Buenos Aires (Decreto-Ley
-7425/1968): "Cuando se ejerciten acciones reales sobre bienes inmuebles, será
-juez competente el del lugar donde esté situada la cosa litigiosa."
-El inmueble dañado está en Merlo → jurisdicción: Departamento Judicial de
-Morón (por no estar en funcionamiento el de Merlo).
+Artículo 5° inciso 4° del CPCC de la Provincia de Buenos Aires (Decreto-Ley
+7425/1968): en acciones por daños y perjuicios (acción personal extracontractual),
+es juez competente el del lugar donde se produjeron los daños o el domicilio del
+demandado, a elección del actor. El daño se produjo en Merlo → jurisdicción:
+Departamento Judicial de Morón.
+[CORRECCIÓN: Art. 5° Inc. 1° regula ACCIONES REALES sobre inmuebles (reivindicación,
+usucapión); la acción de daños y perjuicios es PERSONAL, por lo que el inciso
+correcto es el 4°. El resultado práctico es idéntico: DJ Morón.]
 
 DATO ADICIONAL SOBRE LA CARGA JUDICIAL DE MORÓN:
 El 70% de las causas que se tramitan en los tribunales de Morón tiene su origen
@@ -145,8 +148,14 @@ PASOS OBLIGATORIOS:
 5. Si la mediación FRACASA → el actor queda habilitado para demandar
 6. Si la mediación NO SE INICIA → la demanda es inadmisible
 
-Importante: La mediación prejudicial obligatoria tiene efectos de INTERRUPCIÓN
-de la prescripción (art. 40 Ley 13.951, por remisión al art. 3986 del CC).
+Importante: La mediación prejudicial obligatoria tiene efectos de SUSPENSIÓN
+de la prescripción (Art. 2542 CCyCN — suspensión por pedido de mediación; el plazo
+se suspende desde la expedición del formulario hasta veinte días después del cierre
+del procedimiento).
+[CORRECCIÓN: El texto anterior decía "INTERRUPCIÓN" y citaba "art. 3986 del CC"
+(CC Vélez, derogado desde 2015). La mediación SUSPENDE (no interrumpe) la
+prescripción conforme Art. 2542 CCyCN. La INTERRUPCIÓN corresponde a la demanda
+judicial (Art. 2546 CCyCN) o al reconocimiento del obligado (Art. 2545 CCyCN).]
 
 Materias incluidas en la mediación obligatoria según Ley 13.951:
 - Daños y perjuicios derivados de incumplimientos contractuales
@@ -188,9 +197,12 @@ La obra viola normas expresas del ordenamiento jurídico en cascada:
   (Decreto-Ley 6769/58) que otorga a los municipios el poder de policía edilicio
 - Las normas técnicas del Colegio de Arquitectos de la Prov. de Bs. As. que
   exigen profesional responsable en toda obra
-- Art. 2615 CCyC: prohíbe trabajos que puedan causar daño al inmueble lindero
-- Art. 2616 CCyC: todo propietario debe mantener sus edificios de manera que
-  los materiales que de ellos se desprendan no puedan dañar a los vecinos
+- Arts. 2615 y 2616 CCyC [⚠ CORRECCIÓN: estos artículos son del CC Vélez
+  (derogado desde 2015). En CCyCN vigente, los numerales 2615 y 2616 corresponden
+  a Derecho Internacional Privado. Las normas correctas son: Art. 1973 CCyCN
+  (inmisiones — prohibición de molestias que excedan la normal tolerancia) y
+  Art. 1710 CCyCN (deber de prevención). El contenido sustancial es correcto
+  pero la cita debe actualizarse a Art. 1973 + Art. 1710 CCyCN.]
 - Normas provinciales de habilitación de obras
 
 CAPA 2 — ANTIJURIDICIDAD MATERIAL:
@@ -298,7 +310,7 @@ Deterioro de muebles      | Mediata previsible   | Art. 1726/1738 CCyC
 Humedad estructural       | Mediata previsible   | Art. 1726 CCyC
 Perturbación uso inmueble | Daño autónomo        | Art. 1738 CCyC
 Daño moral del propietario| Extrapatrimonial     | Art. 1741/in re ipsa
-Sobrecarga no autorizada  | Alteración estructural| Arts. 1738/2615 CCyC
+Sobrecarga no autorizada  | Alteración estructural| Arts. 1738/1973 CCyCN [⚠ Art. 2615 es del CC Vélez; Art. 1973 CCyCN es la norma vigente]
 
 Jurisprudencia específica sobre daños por humedad y fisuras (Cámara de
 Apelaciones en lo Civil y Comercial de Quilmes, 2024):
@@ -375,19 +387,22 @@ Art. 1749: Responsabilidad directa del autor del daño.
 Art. 1757: Hecho de las cosas y actividades riesgosas — objetiva.
 Art. 1758: Sujetos responsables — dueño y guardián.
 Art. 2561: Prescripción — 3 años para reclamar daños por responsabilidad civil.
-Art. 2615: El propietario de un fundo no puede realizar trabajos que puedan
-           causar la ruina de los edificios existentes en el fundo vecino.
-Art. 2616: Todo propietario debe mantener sus edificios de manera que no puedan
-           dañar a los vecinos o transeúntes.
-Art. 2618: Molestias y daños entre inmuebles vecinos (normal tolerancia).
-Art. 2627: Si para cualquier obra fuese indispensable poner andamios u otro
-           servicio provisorio en el inmueble del vecino, la indemnización del
-           daño que causare estará a cargo de quien construyese.
+⚠ CORRECCIÓN: Arts. 2615, 2616, 2618 y 2627 corresponden al CC de Vélez Sarsfield
+(derogado por Ley 26.994 en 2015), NO al CCyCN vigente. En el CCyCN, esos numerales
+corresponden al Libro Sexto (Derecho Internacional Privado) y no regulan vecindad.
+Las normas vigentes que reemplazan su contenido son:
+Art. 1973 CCyCN: Inmisiones entre inmuebles vecinos — prohíbe las que excedan
+                  la normal tolerancia (reemplaza a Arts. 2618/2615/2616 Vélez).
+Art. 1977 CCyCN: Uso del predio lindero — quien usa el predio vecino para trabajar
+                  debe reparar todos los daños causados (reemplaza a Art. 2627 Vélez).
+Art. 1710 CCyCN: Deber de prevención — evitar causar daño no justificado.
+Art. 1716 CCyCN: Deber de reparar — toda violación del deber de no dañar genera
+                  obligación de reparar.
 
 CÓDIGO PROCESAL CIVIL Y COMERCIAL DE LA PROVINCIA DE BUENOS AIRES
 (Decreto-Ley 7425/1968):
 
-Art. 5° inc. 1°: Competencia en acciones sobre inmuebles — el del lugar.
+Art. 5° inc. 4°: Competencia en acciones personales de daños y perjuicios — el del lugar donde se produjeron los daños. [CORRECCIÓN: Inc. 1° es para acciones REALES sobre inmuebles; la acción de daños es PERSONAL → Inc. 4°.]
 Art. 623 bis: Denuncia de daño temido y medidas de seguridad.
 
 LEY 13.951 (Provincia de Buenos Aires) — Mediación Prejudicial Obligatoria:
@@ -731,11 +746,17 @@ fisuras que se agravan), el plazo puede comenzar a correr desde CADA
 NUEVA MANIFESTACIÓN del daño. Sin embargo, esto debe analizarse caso a
 caso con el abogado.
 
-ACTOS QUE INTERRUMPEN LA PRESCRIPCIÓN:
-- La Carta Documento o Telegrama enviado al vecino
-- El inicio del procedimiento de mediación prejudicial (art. 40 Ley 13.951)
-- La denuncia penal
-- La presentación de la denuncia de daño temido
+ACTOS QUE SUSPENDEN O INTERRUMPEN LA PRESCRIPCIÓN:
+- La Carta Documento o Telegrama enviado al vecino → SUSPENDE por 6 meses
+  (Art. 2541 CCyCN — suspensión por interpelación fehaciente)
+- El inicio del procedimiento de mediación prejudicial (Art. 2542 CCyCN;
+  Ley 13.951) → SUSPENDE hasta 20 días después del cierre del procedimiento
+  [CORRECCIÓN: el texto anterior citaba "art. 40 Ley 13.951 por remisión al
+  art. 3986 del CC" — art. 3986 CC Vélez está derogado; citar Art. 2542 CCyCN]
+- La denuncia penal → puede tener efecto interruptivo según doctrina
+- La presentación de la demanda de daño temido → INTERRUMPE (Art. 2546 CCyCN)
+- El reconocimiento del obligado (mensaje, promesa de reparar) → INTERRUMPE
+  (Art. 2545 CCyCN)
 
 ⚠️ ALERTA: Si los daños comenzaron hace más de 2 años, consultar urgentemente
 con un abogado sobre el estado de la prescripción para evitar perder el
@@ -797,8 +818,10 @@ PARTE XI — NORMATIVA VERIFICADA CITADA EN ESTE ANÁLISIS
 ================================================================================
 
 NACIONAL:
-- Código Civil y Comercial de la Nación (Ley 26.994) — arts. 1708 a 1780,
-  2561, 2615, 2616, 2618, 2627
+- Código Civil y Comercial de la Nación (Ley 26.994) — arts. 1708 a 1780, 2561
+  [⚠ CORRECCIÓN: Arts. 2615, 2616, 2618 y 2627 son del CC Vélez (derogado);
+   en CCyCN vigente usar: Art. 1973 (inmisiones), Art. 1977 (uso predio lindero),
+   Art. 1710 (prevención), Art. 1716 (deber de reparar); ver Sección Complementaria]
 - Código Penal de la Nación — arts. 150, 181, 183, 184
 - Ley 19.587 (Higiene y Seguridad en el Trabajo) — Decreto 911/96
 
@@ -982,7 +1005,7 @@ Las siguientes citas en el documento contienen referencias al Código Civil de V
 
 CITA ORIGINAL | CORRECCIÓN
 "art. 1113 CC / art. 1757 CCyC" (Parte X, fallo San Isidro) | Usar únicamente Art. 1757 CCyCN. El viejo Art. 1113 CC fue íntegramente reemplazado.
-"art. 40 Ley 13.951, por remisión al art. 3986 del CC" (Parte IX, actos que interrumpen la prescripción) | La Ley 13.951 debe leerse en conjunto con el Art. 2542 CCyCN (suspensión por pedido de mediación) y los Arts. 2544-2545 CCyCN (interrupción por petición judicial).
+"art. 40 Ley 13.951, por remisión al art. 3986 del CC" (Parte IX, actos que suspenden/interrumpen la prescripción) | La Ley 13.951 debe leerse en conjunto con el Art. 2542 CCyCN (SUSPENSIÓN por pedido de mediación) y el Art. 2546 CCyCN (INTERRUPCIÓN por petición judicial — demanda). [CORRECCIÓN: Arts. 2544-2545 citados originalmente son incorrectos para este fin: Art. 2544 = efectos de la interrupción (no es causa); Art. 2545 = interrupción por RECONOCIMIENTO del obligado. La interrupción por petición judicial/demanda corresponde al Art. 2546 CCyCN.]
 "arts. 2615, 2616, 2618, 2627" (Parte XI, normativa citada) | Estos números de artículo corresponden al viejo Código Civil de Vélez. En el CCyCN vigente, esos numerales pertenecen al Libro Sexto (Derecho Internacional Privado) y NO regulan relaciones de vecindad. Las normas correctas son: Arts. 1970 a 1982 CCyCN (límites al dominio y relaciones de vecindad), Art. 1973 CCyCN (inmisiones), Art. 1716 CCyCN (deber de reparar).
 
 1.2. Corrección de competencia territorial
@@ -995,9 +1018,11 @@ operativo).
 Fundamento: El inmueble litigioso se ubica en el Partido de Merlo, cuya competencia
 territorial corresponde al Departamento Judicial de Morón.
 
-Art. 5°, inc. 1° del CPCCBA: en acciones reales sobre inmuebles, es juez competente el del
-lugar donde está situada la cosa litigiosa. Verificar sedes, teléfonos y correos
-actualizados en www.scba.gov.ar y www.mpba.gov.ar.
+Art. 5°, inc. 4° del CPCCBA: en acciones personales de daños y perjuicios, es juez
+competente el del lugar donde se produjeron los daños o el domicilio del demandado
+(a elección del actor). [CORRECCIÓN: Inc. 1° aplica a ACCIONES REALES sobre inmuebles;
+la acción de daños es una acción PERSONAL → Inc. 4°. Mismo resultado práctico: DJ Morón.]
+Verificar sedes, teléfonos y correos actualizados en www.scba.gov.ar y www.mpba.gov.ar.
 
 
 II. CONCEPTOS JURÍDICOS FALTANTES

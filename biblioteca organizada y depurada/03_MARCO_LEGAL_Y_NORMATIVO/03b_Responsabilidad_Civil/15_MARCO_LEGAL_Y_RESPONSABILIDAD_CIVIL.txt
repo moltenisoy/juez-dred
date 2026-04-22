@@ -52,6 +52,10 @@ RESPONSABILIDAD CIVIL — FUNCIÓN PREVENTIVA Y RESARCITORIA:
   riesgosa responden objetiva e indistintamente. Se considera guardián quien
   ejerce dirección y control de la cosa u obtiene provecho.
 — Art. 1764 a 1766: Responsabilidad del Estado (remisión a ley especial).
+  ⚠️ ACLARACIÓN: Arts. 1764-1766 CCyCN NO son base positiva de responsabilidad
+  estatal; EXCLUYEN al Estado del CCyCN y lo REMITEN a ley especial. La base
+  positiva de responsabilidad estatal es Ley 26.944, Art. 3° (falta de servicio).
+  En PBA, aplican estándares análogos basados en jurisprudencia SCBA.
 — Art. 1768: Responsabilidad del profesional liberal.
 — Art. 1973: Inmisiones entre fundos vecinos. Las molestias producidas por
   actividades en inmuebles vecinos (vibraciones, ruidos, humedades) no deben
@@ -136,20 +140,36 @@ CONSTRUCCIÓN:
   víctima, o la de un tercero por quien no deba responder.
 
 RESPONSABILIDAD DEL CONSTRUCTOR Y PROFESIONALES (Arts. 1275, 1382-1384 CCCN):
-— Art. 1275: Responsabilidad decenal. La responsabilidad por ruina total o
+⚠️ ERROR CRÍTICO: Los Arts. 1382, 1383 y 1384 del CCyCN NO regulan responsabilidad
+del constructor ni de profesionales. Conforme texto legal vigente:
+  - Art. 1382 CCyCN = Cosas consumibles y no consumibles.
+  - Art. 1383 CCyCN = Cosas divisibles e indivisibles.
+  - Art. 1384 CCyCN = Cosas simples y cosas compuestas.
+Las descripciones que aparecen a continuación son INCORRECTAS en cuanto a su
+numeración. Los artículos correctos del CCyCN sobre responsabilidad del
+constructor y profesionales son:
+  - Art. 1273: Responsabilidad del constructor, subcontratistas y profesionales
+    frente a terceros por incumplimiento de normas administrativas.
+  - Art. 1274: Responsabilidad del proyectista y director de obra por los daños
+    que resulten de su trabajo o de la obra ejecutada.
+  - Art. 1275: Garantía por ruina total o parcial durante diez años desde entrega.
+  - Art. 1277: Responsabilidad frente a terceros por incumplimiento de normas.
+  - Art. 1768: Responsabilidad de los profesionales liberales.
+— Art. 1275 [CORRECTO]: Responsabilidad decenal. La responsabilidad por ruina total o
   parcial, o por defectos que la hagan impropia para su destino, dura diez
   años desde la entrega de la obra. Es de orden público, no puede ser
   renunciada anticipadamente.
-— Art. 1382: Responsabilidad del constructor. El constructor es responsable
+— Art. 1382 [NUMERACIÓN INCORRECTA — Ver Art. 1273 CCyCN]: El constructor es responsable
   por los daños que cause la ejecución de una obra, salvo caso fortuito,
   fuerza mayor o hecho de un tercero por quien no debe responder.
-— Art. 1383: Responsabilidad de profesionales. El proyectista, el director
+— Art. 1383 [NUMERACIÓN INCORRECTA — Ver Art. 1274 CCyCN]: El proyectista, el director
   de obra, el arquitecto e ingeniero son responsables por los daños que
   deriven directa o indirectamente de su trabajo o de la obra ejecutada.
-— Art. 1384: Extensión de la responsabilidad. Comprende los defectos en la
-  obra, ya sea por vicios de construcción o mala calidad de los materiales,
-  aunque hayan sido proporcionados por el comitente, si el profesional debió
-  advertir y no lo hizo, o si los aceptó sin objeciones.
+— Art. 1384 [NUMERACIÓN INCORRECTA — Ver Arts. 1274/1277 CCyCN]: Extensión de la
+  responsabilidad. Comprende los defectos en la obra, ya sea por vicios de
+  construcción o mala calidad de los materiales, aunque hayan sido
+  proporcionados por el comitente, si el profesional debió advertir y no lo
+  hizo, o si los aceptó sin objeciones.
 
 Nota: La responsabilidad se clasifica en:
   1. CONTRACTUAL: Obligación de resultado (estabilidad) y medios (diligencia).
@@ -301,6 +321,10 @@ Normativa verificada:
 — Decreto-Ley 6769/58 PBA — Art. 27 inc. 7°.
 — Ley 26944 — Responsabilidad del Estado Nacional.
 — Arts. 1764 a 1766 CCCN — Responsabilidad del Estado (remisión a ley especial).
+  ⚠️ ACLARACIÓN: Estos artículos NO son base positiva de responsabilidad estatal;
+  EXCLUYEN al Estado del CCyCN y REMITEN a ley especial (Ley 26.944 Nacional).
+  La base correcta es Ley 26.944 Art. 3° (falta de servicio). Para PBA, el régimen
+  provincial aplica estándares análogos por jurisprudencia SCBA.
 — Ley 12008 PBA — Proceso Contencioso Administrativo.
 — Constitución PBA, Art. 166.
 — Art. 1° Ley 12008 PBA — Requisito de reclamo administrativo previo.
@@ -318,6 +342,8 @@ Jurisprudencia:
 — GCBA c/ Tunnel Ceretti — CNCiv. (2021): Responsabilidad concurrente del
   GCBA (100%) por no supervisar constructoras. Prueba: cartas documento +
   informes técnicos + testimonios. Art. 1113 CC.
+  ⚠️ NOTA: Este fallo es de 2021; hechos probablemente posteriores a agosto 2015.
+  Citar Art. 1757 CCyCN (vigente) en lugar del derogado Art. 1113 CC Vélez.
 
 Ventaja táctica: incorporar al Municipio como co-demandado ensancha la
 base patrimonial de la condena y presiona al Estado local a controlar la obra.
@@ -353,6 +379,10 @@ Decisión: Revoca parcialmente. Se aplica responsabilidad objetiva (art. 1113
 CCivC) a dueños y contratistas. Se incrementa el daño moral a ARS 2.800.000
 total (ARS 1.400.000 a cada actor). Costas modificadas (70% demandado, 30% actor).
 Enlace: scba.gob.ar — Sentencia causa N° 25.184.
+⚠️ NOTA: El fallo es de 06/02/2024; el Art. 1113 CC Vélez fue derogado en agosto
+2015. Para hechos y sentencias post-2015, el artículo aplicable es Art. 1757 CCyCN.
+Si el tribunal citó Art. 1113, ello puede ser un error técnico del fallo o referencia
+histórica. Para escritos actuales, citar Art. 1757 CCyCN.
 
 CASO 3 — Molinuevo c/ Obras del Plata SRL
 Tribunal: CNCiv. Sala I
@@ -396,6 +426,8 @@ Tribunal: CNCiv. (2021)
 Hechos: Túnel vehicular daña finca lindera.
 Decisión: Responsabilidad concurrente del GCBA (100%) por no supervisar
 constructoras. Art. 1113 CC.
+⚠️ NOTA: Fallo CNCiv. 2021; post-2015. Art. 1113 CC derogado. Citar Art. 1757
+CCyCN para escritos actuales.
 
 4.2 JURISPRUDENCIA SOBRE PRESCRIPCIÓN Y DAÑO CONTINUADO
 
