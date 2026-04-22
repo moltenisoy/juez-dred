@@ -493,7 +493,10 @@ Documentación para regularización (planos de subsistencia) en Merlo:
 1. Plano de antecedentes municipales
 2. Factibilidad de servicios sanitarios (si corresponde)
 3. Recibo de ABSA si cuenta con servicios
-4. Factibilidad de EDENOR y/o Gas Natural FENOSA (si corresponde)
+4. Factibilidad de EDENOR y/o Naturgy BAN S.A. (ex Gas Natural BAN/FENOSA,
+   rebrandeada en 2018 — distribuidora de gas para Merlo y zona oeste del GBA)
+   [CORRECCIÓN: la versión original citaba "Gas Natural FENOSA"; el nombre
+   vigente desde 2018 es Naturgy BAN S.A.]
 5. Liquidación de derechos de construcción firmada por profesional y propietario
 6. Visado del Colegio de Arquitectos — Contrato obligatorio — Planilla Anexa
    Estado de Obra — Liquidación — Copia de Plano
@@ -554,7 +557,9 @@ Fuente verificada: cauba3.org.ar/delegacion-merlo
 SEDE CENTRAL CAUBA D3 — MORÓN
 Dirección: Leandro N. Alem 826, Morón
 Teléfonos: 4628-9171 / 4483-2233
-Email: administracion@cauba3.org.ar
+Email: administracion@capba3.org.ar [CORRECCIÓN: el archivo indicaba
+       "administracion@cauba3.org.ar" — el email y web OFICIAL es capba3.org.ar;
+       el dominio cauba3.org.ar existe pero NO es el sitio institucional oficial]
 Horario: Lunes a Viernes de 9 a 13 hs.
 Fuente verificada: cauba3.org.ar
 
@@ -608,7 +613,8 @@ ORDENANZAS MERLO VERIFICADAS EN TEXTO:
 
 SITIOS INSTITUCIONALES VERIFICADOS:
 - merlo.gob.ar (sitio oficial Municipalidad de Merlo — Buenos Aires)
-- cauba3.org.ar (CAUBA Distrito 3 — delegacion-merlo y normativas-municipales)
+- cauba3.org.ar (existe pero NO es el sitio institucional oficial; el sitio
+  oficial de CAUBA/CAPBA Distrito 3 es capba3.org.ar)
 - normas.gba.gob.ar (Sistema Normativo Provincial)
 - arba.gov.ar y web.arba.gov.ar (ARBA — trámites y normativas catastrales)
 - argentina.gob.ar (CCyC, Ley 26.994, derechofácil, PROCREAR desarrollos urbanísticos)
@@ -702,10 +708,14 @@ SECCIÓN COMPLEMENTARIA — ARBA Y SUBDIVISIÓN PH: AMPLIACIÓN Y CORRECCIONES
 
 6. MORA Y PRESCRIPCIÓN — NOTAS APLICABLES
    ────────────────────────────────────────
-   Art. 886 CCyCN: Mora automática en obligaciones a plazo determinado.
+   Art. 886 CCyCN: Mora automática en obligaciones a plazo determinado
+     y en obligaciones de no hacer.
    Art. 2541 CCyCN: Carta documento SUSPENDE la prescripción por 6 meses
-   (no la interrumpe). Efecto: se detiene el cómputo temporalmente.
-   ⚠ CORRECCIÓN: Art. 2546 = INTERRUPCIÓN por petición judicial. Art. 2541 = SUSPENSIÓN por interpelación fehaciente (carta documento, 6 meses).
+     (no la interrumpe). Efecto: se detiene el cómputo temporalmente.
+   Art. 2546 CCyCN: Petición judicial (demanda) INTERRUMPE la prescripción.
+   [Verificado: los Arts. 2541 y 2546 son institutos distintos (suspensión
+   vs. interrupción). Art. 2541 = suspensión por interpelación fehaciente
+   (carta documento). Art. 2546 = interrupción por petición judicial.]
 
 ════════════════════════════════════════════════════════════════════════════════
 FIN DEL ARCHIVO 60 — PROCEDIMIENTOS EDILICIOS PH MERLO ARBA (AMPLIADO)
