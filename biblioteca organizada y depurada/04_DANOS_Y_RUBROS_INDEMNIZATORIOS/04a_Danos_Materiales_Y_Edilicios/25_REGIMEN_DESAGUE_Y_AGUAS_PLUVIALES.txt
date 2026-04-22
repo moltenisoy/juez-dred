@@ -582,9 +582,19 @@ AMPLIACIÓN Y CORRECCIONES
    El propietario no puede realizar obras que desvíen aguas pluviales sobre
    el predio vecino, ni agravar la servidumbre natural existente.
 
-   Art. 2637-2638 CC (aguas pluviales) → Art. 2630 CCyCN: Los techos deben
-   construirse de modo que las aguas pluviales caigan sobre el propio
-   terreno o sobre la vía pública. No pueden derramarse hacia el vecino.
+   Art. 2637-2638 CC (aguas pluviales) → Art. 2630 CCyCN: El predio superior
+   no puede hacer obras que agraven la situación del predio inferior respecto
+   al escurrimiento natural de aguas pluviales. No pueden derivarse aguas
+   hacia el vecino de manera artificial o agravada.
+   [⚠ CORRECCIÓN VERIFICADA: El texto anterior atribuía al Art. 2630 CCyCN
+   la obligación de "construir los techos de modo que las aguas caigan sobre
+   el propio terreno" — ésa era la redacción del antiguo Art. 2630 del Código
+   Civil de Vélez Sarsfield. El Art. 2630 del CCyCN vigente (Ley 26.994) regula
+   el escurrimiento NATURAL entre predios superior/inferior y prohíbe al predio
+   superior hacer obras que "agraven la situación del inferior". La prohibición
+   de verter aguas desde techos al vecino surge de este artículo por vía de la
+   prohibición de "agravar", más las normas edilicias municipales y Art. 1973
+   CCyCN (inmisiones). Fuente: texto oficial InfoLEG.]
 
 3. INMISIONES — Art. 1973 CCyCN (DESARROLLO AMPLIADO)
    El Art. 1973 CCyCN establece el límite fundamental: las molestias que

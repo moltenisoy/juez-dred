@@ -164,10 +164,8 @@ configura un incumplimiento adicional que refuerza la responsabilidad civil.
   Provincia de Buenos Aires: Establece los objetivos generales que los
   municipios deben seguir, incluyendo la regulación de los desagües.
 
-- Art. 2630 del Código Civil y Comercial de la Nación: Obliga a construir
-  los techos de manera que las aguas caigan sobre el propio suelo o la vía
-  pública, prohibiendo terminantemente que el escurrimiento se produzca sobre
-  el suelo del vecino. [Ya presente en archivo 23, se complementa aquí]
+- Art. 2630 del Código Civil y Comercial de la Nación: Establece que el predio inferior está sujeto a recibir las aguas que descienden naturalmente del superior, sin obra del hombre; que el propietario del predio inferior no puede hacer obras que impidan esa corriente; y que tampoco el propietario del predio superior puede hacer obras que agraven la situación del inferior.
+[⚠ CORRECCIÓN VERIFICADA con fuente InfoLEG: El texto anterior atribuía al Art. 2630 CCyCN la obligación de "construir los techos de manera que las aguas caigan sobre el propio suelo o la vía pública" — ésa era la redacción del antiguo Art. 2630 del Código Civil de Vélez Sarsfield (derogado). El Art. 2630 del CCyCN vigente (Ley 26.994) regula el escurrimiento natural entre predios superior e inferior, y prohíbe al predio superior hacer obras que agraven la situación del inferior. La prohibición de verter aguas pluviales al predio vecino puede derivarse de este artículo por vía de la prohibición de "agravar la situación del inferior", conjuntamente con las normativas edilicias municipales y el Art. 1973 CCyCN (inmisiones). Ya presente en archivo 23, se complementa aquí]
 
 --------------------------------------------------------------------------------
 7. NORMATIVA DE AySA PARA EL AMBA (INCLUYE MERLO)
